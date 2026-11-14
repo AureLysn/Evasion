@@ -79,7 +79,7 @@ ARC_DIRS = ("03_Development/arcs", "arcs")
 ENTITY_DIRS = (("02_Story_Bible/characters", "character"), ("02_Story_Bible/locations", "location"),
                ("02_Story_Bible/organizations", "organization"),
                ("Characters", "character"), ("locations", "location"), ("organizations", "organization"))
-TOOL_DIRS = ("01_Origine/04_Tools/VaultTool", "70_Systems/vault-tools")
+TOOL_DIRS = ("01_Origine/04_Tools/VaultTool",)
 
 
 def entities(vault_root, project):

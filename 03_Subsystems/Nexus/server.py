@@ -344,7 +344,7 @@ def export_to_drive(h, conn, q, book_id):
     if not folder or not folder.is_dir():
         raise ApiError(400, "Chọn một thư mục Drive hợp lệ")
     if vault.inside_any_vault(folder):
-        # G:\My Drive\AureLysnOS\01_Vault is the vault's mirror; a stray file there
+        # a copy of the vault on Drive is a backup; a stray file there
         # pollutes the backup and turns up in the next restore
         raise ApiError(403, "Không lưu vào bên trong vault hoặc bản mirror của vault. Chọn thư mục khác.")
     data, _, name = _build_export(book, chapters, fmt, variant)

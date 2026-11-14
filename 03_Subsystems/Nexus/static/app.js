@@ -2788,7 +2788,7 @@ async function renderSettings() {
         <label class="field">Thư mục gốc được phép duyệt (mỗi dòng một thư mục)<textarea id="s-roots" rows="3">${esc((s.drive_roots || []).join('\n'))}</textarea></label>
         <p class="muted small">Google Drive for Desktop mount ở <code>G:\\My Drive</code>.</p>`)
       + group('Vault', 'chỉ đọc', `
-        <label class="field">Gốc vault (để trống = tự tìm vault chứa app này)<input type="text" id="s-vault" value="${esc(s.vault_root)}" placeholder="D:\\AureLysnOS\\01_Vault"></label>
+        <label class="field">Gốc vault (để trống = tự tìm vault chứa app này)<input type="text" id="s-vault" value="${esc(s.vault_root)}" placeholder="D:\\AureLysn"></label>
         <p class="small" id="s-vault-status"></p>
         <p class="muted small">Chỉ đọc <code>05_Evasion/01_Oeuvre/Studio/Continue</code>. File gốc của note nguồn được tìm qua <code>01_Origine/03_Systems/Config/stores.md</code>.</p>`)],
     dicts: ['Từ điển offline', group('Từ điển VietPhrase', 'dùng khi dịch không qua server', `

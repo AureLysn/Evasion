@@ -15,15 +15,13 @@ from . import db, importers
 
 # Every story project sits in Studio/Continue; Studio/Original holds only the skeleton (2026-11-13).
 FICTION_PROJECTS = PurePosixPath("05_Evasion/01_Oeuvre/Studio/Continue")
-STORES_NOTES = ("01_Origine/03_Systems/Config/stores.md", "70_Systems/stores.md")
+STORES_NOTES = ("01_Origine/03_Systems/Config/stores.md",)
 LISTED = (".md", ".txt")
 HEAD_BYTES = 6000
 
 
 def is_vault_root(p):
-    # `01_Origine/` is the vault since the 2026-11 rebuild; `90_Meta/` is the old layout, which the
-    # Drive mirror still has — both must count, or an export could land inside the mirror.
-    return p is not None and (p / "AGENTS.md").is_file() and ((p / "01_Origine").is_dir() or (p / "90_Meta").is_dir())
+    return p is not None and (p / "AGENTS.md").is_file() and (p / "01_Origine").is_dir()
 
 
 def inside_any_vault(path):
@@ -46,7 +44,7 @@ def find_root(settings):
         # The guess below is the REAL vault; a test instance would read it and its "save to
         # vault" button would write into it (vault L70).
         return None, "Bản thử (TRAMDICH_DATA) không tự đoán vault — khai vault_root (worktree hoặc vault giả) trong Cài đặt."
-    for guess in (db.ROOT.parents[2], db.ROOT.parent.parent / "01_Vault"):   # this vault; the old sibling layout
+    for guess in (db.ROOT.parents[2],):   # the vault this app sits in
         if is_vault_root(guess):
             return guess.resolve(), None
     return None, "Không tự tìm thấy vault. Khai đường dẫn trong Cài đặt."
