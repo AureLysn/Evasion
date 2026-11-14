@@ -23,7 +23,7 @@ last_updated: 2026-10-25
 
 # Kế hoạch chương 7 — Không tính giá · **bản 2**
 
-> ⏳ **`planned` — đề xuất của planner.** Sửa 25/10 theo [[ch07-review]] *(M1–M6, L1–L7; H1 đã có trả lời của Aurel)*; duyệt ở điểm dừng sau dàn ý của hàng đợi. Thay [[ch07-plan]] *(bản 1, 04/10)*. Dự kiến 6.500 *(sàn 3.000 — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]])*. Đơn vị đếm giữ như bản 1.
+> ⏳ **`planned` — đề xuất của planner.** Sửa 25/10 theo [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-review|ch07-review]] *(M1–M6, L1–L7; H1 đã có trả lời của Aurel)*; duyệt ở điểm dừng sau dàn ý của hàng đợi. Thay [[ch07-plan]] *(bản 1, 04/10)*. Dự kiến 6.500 *(sàn 3.000 — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]])*. Đơn vị đếm giữ như bản 1.
 > 🟡 Giọng: văn xuôi phổ thông, không nhại ai — [[giong-van-pho-thong-khong-nhai-ai]]. Luật áp khi viết: [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]. Cột thoại/đoạn/câu vẫn 「chưa đo」.
 > 🔒 Quyết định planner kèm theo: [[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]] *(ô owner AI, Aurel đảo được)*. Nhãn: **[canon]** = wiki-thoại 22/10 · **[Aurel]** · **[AU]** = đề xuất planner, không có ở canon.
 
@@ -65,7 +65,7 @@ Bẫy truyền hình. Jason **cầm chân mà không giết**, gọi nhờ một
 | 2 | **Dazai giúp Jason** *(giọng)* một lần ở ch07; Jason→Dazai nằm ở arc 2 — đếm ở [[dan-y-arc-2-dazai-v3-cls]]. **Tsuna→Jason: 1** *(ch07, dọn tầng — [[dan-y-arc-1-jason-v5-cls]] dòng 106)*. ⚠️ [[dan-y-arc-3-tsuna-v2-cls]] dòng 84 ghi 「Tsuna→Jason 0 … mở」: **hai note lệch**, đồng bộ ở arc 3 *(không chặn ch07)* |
 | 6 | Người bản địa *(Himeko, Sunday, Ashveil, Stelle, Blade)* **vẫn quyết việc của họ** |
 
-## Thẻ cảnh v2 *(thay năm thẻ bản 1 — thẻ riêng đã lập 22/10: [[ch07-01-tang-duoi-v2]] … [[ch07-05-chinh-am-v2]]; bản nháp [[ch07-chapter]] đã có, sửa theo bản này 25/10)*
+## Thẻ cảnh v2 *(thay năm thẻ bản 1 — thẻ riêng đã lập 22/10: [[ch07-01-tang-duoi-v2]] … [[ch07-05-chinh-am-v2]]; bản nháp [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]] đã có, sửa theo bản này 25/10)*
 
 **Luật nối chương** *(ch06-plan mục 20; soát L1)*: chương **mở bằng nhịp phòng** trong ~700 chữ Hán đầu của 7.01; mỗi khối phim ≤ ~700 chữ Hán, xen nhịp phòng ở cả 7.01, 7.02, 7.04.
 

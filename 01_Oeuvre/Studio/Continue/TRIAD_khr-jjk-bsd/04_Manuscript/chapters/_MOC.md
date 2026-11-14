@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["chuong TRIAD", "chapters TRIAD", "MOC chuong TRIAD"]
-related: ["[[TRIAD]]", "[[_MOC|arcs/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/arcs/_MOC|arcs/_MOC]]"]
 always_load: false
 tags: [d/writing, k/note, p/personal]
 last_updated: 2026-09-12

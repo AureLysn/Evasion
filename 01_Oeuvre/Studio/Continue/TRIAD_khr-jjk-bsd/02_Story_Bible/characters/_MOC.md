@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["nhan vat TRIAD", "MOC nhan vat TRIAD", "ai la ai trong TRIAD"]
-related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[_MOC|canon rieng TRIAD]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/world-rules/_MOC|canon rieng TRIAD]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-06
 ---

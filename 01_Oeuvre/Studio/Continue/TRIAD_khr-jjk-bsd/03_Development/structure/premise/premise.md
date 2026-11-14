@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: project_locked
 status: active
 aliases: ["premise TRIAD", "y tuong goc TRIAD", "log line TRIAD"]
-related: ["[[TRIAD]]", "[[_MOC|_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/00_Overview/_MOC|_MOC]]"]
 source:
   type: user_input
   ref: "Tong hop lai tu quyet dinh da khoa [A] trong sources/thiet-lap-the-gioi.md va cac file sources/*-truyen.md, khong phai brainstorm moi. Goc: nguon-aurel-tra-loi.md (03_Workspace/truyen-moi-thiet-ke/, chua nap vao day)."

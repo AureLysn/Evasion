@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["cau hoi mo TRIAD", "questions TRIAD", "cau hoi chan TRIAD"]
-related: ["[[TRIAD]]", "[[_MOC|decisions/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/_MOC]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-12

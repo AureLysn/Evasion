@@ -9,7 +9,7 @@ chapter: 1
 canon_layer: user_canon
 status: active
 aliases: ["review ch1 CLS", "soat ch1 CLS", "soát ch1 CLS", "check-continuity ch1 CLS", "check-style ch1 CLS"]
-related: ["[[ch01-chapter]]", "[[ch01-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/signature|signature]]", "[[watch-frame]]", "[[Planarcadia]]", "[[Ashveil]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]", "[[ch01-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/signature|signature]]", "[[watch-frame]]", "[[Planarcadia]]", "[[Ashveil]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 04/10/2026, tren ban nhap ch1. Doi chieu: 4 the canh, 3 note bi mat, watch-frame, hard-rules, Planarcadia.md, Ashveil.md, Boothill.md, Galaxy-Rangers.md, Welt.md, Aventurine.md."

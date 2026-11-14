@@ -51,7 +51,7 @@ Còn **chờ Aurel** *(không chặn hàng đợi)*: Đ-11 *(nét người quen)
 
 # Soát mạch bản nháp ch03 — 26/10/2026
 
-`check-continuity`, xuong-kiem *(Opus · medium)*. **1 nặng, 4 vừa, 6 nhẹ.** `pov_leak_check` 5 thẻ exit 0. Đã sửa trong [[ch03-chapter]] cùng ngày.
+`check-continuity`, xuong-kiem *(Opus · medium)*. **1 nặng, 4 vừa, 6 nhẹ.** `pov_leak_check` 5 thẻ exit 0. Đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-chapter|ch03-chapter]] cùng ngày.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

@@ -7,7 +7,7 @@ lane: personal
 canon_layer: planned
 status: active
 aliases: ["tong ket ch06 CLS", "tổng kết ch06 CLS"]
-related: ["[[ch06-chapter]]", "[[tien-do-ba-arc]]", "[[h-nguoi-ta-ve-duoc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-chapter|ch06-chapter]]", "[[tien-do-ba-arc]]", "[[h-nguoi-ta-ve-duoc]]"]
 source:
   type: inference
   ref: "phien chinh 24/10/2026, tu delta ch06 va nhat ky giao_viec; khong goi agent (khong dat nguong 13-agent-routing)"

@@ -45,7 +45,7 @@ Còn **chờ Aurel** *(không chặn hàng đợi; thẻ đã viết theo mặc 
 
 # Soát mạch bản nháp ch04 — 26/10/2026
 
-`check-continuity`, xuong-kiem *(Opus · medium; ngắt vì hết giới hạn, chạy tiếp sau reset)*. **0 nặng, 4 vừa, 8 nhẹ.** `pov_leak_check` 5 thẻ exit 0. Đã sửa trong [[ch04-chapter]] cùng ngày — các mục vừa đều theo **mặc định an toàn**, Aurel đảo được.
+`check-continuity`, xuong-kiem *(Opus · medium; ngắt vì hết giới hạn, chạy tiếp sau reset)*. **0 nặng, 4 vừa, 8 nhẹ.** `pov_leak_check` 5 thẻ exit 0. Đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-chapter|ch04-chapter]] cùng ngày — các mục vừa đều theo **mặc định an toàn**, Aurel đảo được.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

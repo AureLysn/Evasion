@@ -24,7 +24,7 @@ last_updated: 2026-08-31
 # Arc 01 — **Mệnh lệnh** · ch128–ch147
 
 > ✅ **Aurel duyệt 31/08/2026** — `status: active`. Bước 8 đã mở.
-> Dàn ý chương: [[_MOC|chapters/_MOC]]. **Hồi I (ch128–131) đã có dàn ý**; ba hồi còn lại chưa.
+> Dàn ý chương: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/04_Manuscript/chapters/_MOC|chapters/_MOC]]. **Hồi I (ch128–131) đã có dàn ý**; ba hồi còn lại chưa.
 > `confidence: 0.0` giữ nguyên vì đây vẫn là **khung do tôi dựng**, không phải dữ kiện.
 
 ## Ràng buộc đã khoá — không thương lượng

@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["Gojo — bản dùng để viết"]
-related: ["[[TRIAD]]", "[[_MOC|sources/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/01_Project-canon/sources/_MOC|sources/_MOC]]"]
 source:
   type: user_input
   ref: "Soan cho du an KHR x JJK x BSD, Aurel + AI, nhan qua goi ho-so-nhan-vat 2026-09-04"

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch10 arc 2 CLS", "bảng tên ch10 arc 2 CLS"]
-related: ["[[ch10-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[20261030-ten-cn-va-ngoai-hinh-3-6-3-7]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch10/ch10-chapter|ch10-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[20261030-ten-cn-va-ngoai-hinh-3-6-3-7]]"]
 source:
   type: inference
   ref: "write-chapter 30/10/2026 (phien dieu phoi tu viet, xuong-lam). Khong TextMap, khong Name HSR - Tong.csv tren cloud - ten moi chua doi chieu (A4). Ten 3.7 lay tu _crosscheck/20261030-ten-cn-va-ngoai-hinh-3-6-3-7 (phien phu tra online 30/10; muc 7 va 16 phien chinh da kiem lai)."

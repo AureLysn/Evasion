@@ -21,13 +21,13 @@ last_updated: 2026-09-12
 ## Đã mở
 
 - [[sources/_MOC|sources/]] — 8 nguồn gốc + 8 source note. **Bất biến, không sửa.** (05/09/2026)
-- [[_MOC|canon/]] — 9 note luật thế giới. (05/09, duyệt 06/09; +[[xac-va-nguoi-giet]] 12/09)
-- [[_MOC|Characters/]] — 6 hồ sơ nhân vật. (05/09, Aurel duyệt 06/09)
-- [[_MOC|decisions/]] — 4 quyết định đã khoá. (06/09/2026)
-- [[_MOC|questions/]] — 6 câu hỏi, **tất cả đã giải quyết**. (06/09/2026)
-- [[_MOC|arcs/]] — arc [[san-sang-loc]], 8 chương, đã lên dàn ý. (06/09/2026)
-- [[_MOC|chapters/]] — chương 1: bản canon + bản superseded. (06/09/2026)
-- [[_MOC|style/]] — [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]. **v1, đo từ 1 chương.** (12/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/world-rules/_MOC|canon/]] — 9 note luật thế giới. (05/09, duyệt 06/09; +[[xac-va-nguoi-giet]] 12/09)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/_MOC|Characters/]] — 6 hồ sơ nhân vật. (05/09, Aurel duyệt 06/09)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/]] — 4 quyết định đã khoá. (06/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/questions/_MOC|questions/]] — 6 câu hỏi, **tất cả đã giải quyết**. (06/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/arcs/_MOC|arcs/]] — arc [[san-sang-loc]], 8 chương, đã lên dàn ý. (06/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/04_Manuscript/chapters/_MOC|chapters/]] — chương 1: bản canon + bản superseded. (06/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/_MOC|style/]] — [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]. **v1, đo từ 1 chương.** (12/09/2026)
 
 ## Đang mở — cần Aurel chốt
 

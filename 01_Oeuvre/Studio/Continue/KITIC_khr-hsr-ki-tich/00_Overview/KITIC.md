@@ -49,7 +49,7 @@ Cặp đôi chính: Sawada Tsunayoshi (KHR) × Phainon (HSR).
 
 ## Trước khi viết chương tiếp theo
 
-1. **Đo văn phong nguyên tác trước.** Không có [[signature]] thì đang bịa giọng, không phải mimic. Tối thiểu ~5.000 từ nguyên tác để đo đáng tin — đo trên "Ánh nhìn" vì đó là bản chính.
+1. **Đo văn phong nguyên tác trước.** Không có `02_Story_Bible/style/signature.md` thì đang bịa giọng, không phải mimic. Tối thiểu ~5.000 từ nguyên tác để đo đáng tin — đo trên "Ánh nhìn" vì đó là bản chính.
 2. **Viết tự do → chạy gate → sửa theo số.** Không giữ luật trong đầu. Xem [[principles]] nguyên lý 2.
 3. **Outline trước, văn sau.** Đề xuất 3–5 chương, chờ duyệt. Hướng sai thì cả 5 chương là rác.
 4. **Crossover cần contract trước khi viết văn.** KHR × HSR là hai fandom khác nhau — chạy `crossover-contract` trước `plan-continuation`.

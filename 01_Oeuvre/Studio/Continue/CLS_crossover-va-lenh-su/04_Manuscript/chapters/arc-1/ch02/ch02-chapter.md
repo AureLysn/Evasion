@@ -11,7 +11,7 @@ status: final
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["chuong 2 CLS", "chương 2 CLS", "ch2 arc 1 CLS", "ch02 CLS zh", "第二章 手印", "ban thu tieng Trung ch02 CLS"]
-related: ["[[ch02-plan]]", "[[ch02-zh-bang-ten]]", "[[ch02-01-chim-nho]]", "[[ch02-02-khong-ai-hieu]]", "[[ch02-03-ba-muoi-ba]]", "[[ch02-04-ai-day]]", "[[ch02-05-mat-na-soi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
+related: ["[[ch02-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[ch02-01-chim-nho]]", "[[ch02-02-khong-ai-hieu]]", "[[ch02-03-ba-muoi-ba]]", "[[ch02-04-ai-day]]", "[[ch02-05-mat-na-soi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "Aurel 13/10/2026: chon chu Trung cho hai cau mau cua Stelle ('胆子不小的小鸟', '黑泥那家伙') va dong y viet ch02 theo ke hoach ban 2. Ban thu, viet moi bang tieng Trung. Ten rieng chua chac ghi trong ch02-zh-bang-ten.md."

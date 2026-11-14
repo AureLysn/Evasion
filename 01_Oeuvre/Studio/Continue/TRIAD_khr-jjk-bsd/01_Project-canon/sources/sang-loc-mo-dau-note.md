@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: project_locked
 status: active
 aliases: ["sang loc mo dau", "MO PHONG TAN THE", "ban 2 san sang loc", "thap trung tam"]
-related: ["[[TRIAD]]", "[[san-sang-loc]]", "[[TRIAD-raw|nguon-aurel-tra-loi]]", "[[_MOC|sources/_MOC]]"]
+related: ["[[TRIAD]]", "[[san-sang-loc]]", "[[TRIAD-raw|nguon-aurel-tra-loi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/01_Project-canon/sources/_MOC|sources/_MOC]]"]
 source:
   type: user_input
   ref: "Ban 2, viet 2026-09-02, thay ban 1 (_cu-sang-loc-mo-dau.md, superseded). Luu tai 03_Workspace/truyen-moi-thiet-ke/sang-loc-mo-dau.md"

@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch01 arc 2 CLS", "tổng kết ch01 arc 2 CLS"]
-related: ["[[ch01-plan-a2]]", "[[ch01-review]]", "[[ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-tong-ket|ch08-tong-ket]]", "[[tien-do-ba-arc]]", "[[arc-2-chot-25-10]]", "[[h-giong-khong-ten]]", "[[Amphoreus-npc-ngoai-hinh]]"]
+related: ["[[ch01-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-review|ch01-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-tong-ket|ch08-tong-ket]]", "[[tien-do-ba-arc]]", "[[arc-2-chot-25-10]]", "[[h-giong-khong-ten]]", "[[Amphoreus-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 25/10/2026; doc truc tiep ch01-chapter (arc 2), bon the canh a2-ch01-01..04 (qua plan va delta), ch01-review, delta.yaml, ch01-zh-bang-ten, nhat ky giao_viec status, style_metrics; khong tin loi ke cua phien chinh. Tên file trùng arc 1: dẫn bằng alias, không bằng wikilink trần."
@@ -27,7 +27,7 @@ Bản tiếng Trung, `final` 25/10/2026; delta `committed` (snapshot `008-a2-ch0
 >
 > **18 mục AUREL của delta đang theo MẶC ĐỊNH, chưa ai duyệt** *(Aurel chưa trả lời = chưa áp mặc định)*.
 >
-> Tên file `ch01-chapter.md` / `ch01-zh-bang-ten.md` trùng arc 1 *(công cụ hàng đợi đòi đúng tên)*; `id` đã khác `CLS-arc2`. Dẫn note arc 2 bằng alias, không bằng `[[ch01-chapter]]` trần.
+> Tên file `ch01-chapter.md` / `ch01-zh-bang-ten.md` trùng arc 1 *(công cụ hàng đợi đòi đúng tên)*; `id` đã khác `CLS-arc2`. Dẫn note arc 2 bằng alias, không bằng `[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-chapter|ch01-chapter]]` trần.
 
 ## Ba phần đã làm
 

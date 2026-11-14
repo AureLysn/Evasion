@@ -11,7 +11,7 @@ status: planned
 pov: [character.boothill]
 target_words: 5500
 aliases: ["ke hoach chuong 8 CLS ban 2", "kế hoạch chương 8 CLS bản 2", "ch8 arc 1 CLS ban 2", "Hắn từ đâu tới CLS bản 2"]
-related: ["[[ch08-plan]]", "[[ch07-plan-v2]]", "[[dan-y-arc-1-jason-v5-cls]]", "[[arc-1-chot-sau-plan-reviewer]]", "[[arc-1-bon-chot-ke-hoach-chi-tiet]]", "[[arc-1-the-canh-da-duyet]]", "[[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]]", "[[khe-chen-planarcadia-arc-1]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[tuong-tac-xen-ke-voi-nhan-vat-canon]]", "[[watch-frame]]", "[[20261022-planarcadia-doc-thoai-nhom-a]]", "[[20261022-planarcadia-doc-thoai-nhom-c]]", "[[20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[ch08-review]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]"]
+related: ["[[ch08-plan]]", "[[ch07-plan-v2]]", "[[dan-y-arc-1-jason-v5-cls]]", "[[arc-1-chot-sau-plan-reviewer]]", "[[arc-1-bon-chot-ke-hoach-chi-tiet]]", "[[arc-1-the-canh-da-duyet]]", "[[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]]", "[[khe-chen-planarcadia-arc-1]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[tuong-tac-xen-ke-voi-nhan-vat-canon]]", "[[watch-frame]]", "[[20261022-planarcadia-doc-thoai-nhom-a]]", "[[20261022-planarcadia-doc-thoai-nhom-c]]", "[[20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-review|ch08-review]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]"]
 source:
   type: inference
   ref: "plan-continuation 22/10/2026 (Mode 3) tren ch08-plan bản 1 (04/10). Canon: wiki fandom 22/10 (nhóm a, c; trang Hayek, Synwish Syndicate, Blood of the Lone Wolf). Aurel 22/10: Moria khong noi voi bay khi; hat giong Jason–Phainon/Cipher nhe. review-plan ban 2 luot 22/10 va luot 25/10 (ch08-review: 0 nang, 5 vua, 7 nhe); sua 25/10 trong hang doi (plan-fix) theo ch07 final. Duyet dan y: diem dung trong chuong — giao_viec auto (Aurel 25/10 hoan thien chuong) hoac Aurel."
@@ -23,7 +23,7 @@ last_updated: 2026-10-25
 
 # Kế hoạch chương 8 — Hắn từ đâu tới · **bản 2**
 
-> ⏳ **`planned` — đề xuất của planner.** Thay [[ch08-plan]]. Sửa 25/10 theo [[ch08-review]] và [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]] *(final 25/10)*; năm thẻ cảnh v2 là chi tiết đã cập nhật. Dự kiến 5.500. Đơn vị đếm giữ như bản 1.
+> ⏳ **`planned` — đề xuất của planner.** Thay [[ch08-plan]]. Sửa 25/10 theo [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-review|ch08-review]] và [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]] *(final 25/10)*; năm thẻ cảnh v2 là chi tiết đã cập nhật. Dự kiến 5.500. Đơn vị đếm giữ như bản 1.
 > 🟡 Giọng: văn xuôi phổ thông — [[giong-van-pho-thong-khong-nhai-ai]]. Luật: [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]. Quyết định planner: [[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]]. Nhãn: **[canon]** = wiki-thoại 22/10 · **[Aurel]** · **[AU]** = đề xuất planner.
 
 ## Mục tiêu chương

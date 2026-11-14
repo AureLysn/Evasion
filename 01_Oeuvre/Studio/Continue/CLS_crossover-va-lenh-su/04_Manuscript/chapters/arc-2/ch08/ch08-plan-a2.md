@@ -23,7 +23,7 @@ last_updated: 2026-10-30
 
 # Kế hoạch chương 8 arc 2 — **Gọi người** *(第八章 叫人 — đề xuất)*
 
-> ⏳ **`planned` — đề xuất, chưa duyệt.** Đã qua `review-plan` 30/10 *(phiên tự soát, không độc lập: 0 nặng, 4 vừa, 3 nhẹ — [[ch08-review]])* và sửa V1, V2, V4, N1–N3 cùng ngày; V3 giữ *(người viết ưu tiên 8.01, 8.05, 8.06)*. Dự kiến **6.900 chữ Hán** *(dòng arc 6.800; sàn 5.500 — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]. Ch06 ra 89%, ch07 90% tổng thẻ ⇒ 6.900 × 0,9 ≈ 6.200, cách sàn ~700)*.
+> ⏳ **`planned` — đề xuất, chưa duyệt.** Đã qua `review-plan` 30/10 *(phiên tự soát, không độc lập: 0 nặng, 4 vừa, 3 nhẹ — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-review|ch08-review]])* và sửa V1, V2, V4, N1–N3 cùng ngày; V3 giữ *(người viết ưu tiên 8.01, 8.05, 8.06)*. Dự kiến **6.900 chữ Hán** *(dòng arc 6.800; sàn 5.500 — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]. Ch06 ra 89%, ch07 90% tổng thẻ ⇒ 6.900 × 0,9 ≈ 6.200, cách sàn ~700)*.
 > Tên file hậu tố **`-a2`** vì `ch08-plan` là id của arc 1. Thẻ cảnh tiền tố `a2-ch08-`.
 > Nhãn: **[Aurel]** = chốt · **[đề xuất]** = planner · **[canon: wiki-thoại]** = tóm tắt phái sinh nhóm C *(không phải bằng chứng)* · **[thiếu]** = không tra được trên cloud, không đoán · **[mặc định an toàn]** = chỗ Aurel đổi được.
 > ⚠️ **Lập không có TextMap.** Ch07 kiểm từng tên, từng mốc trên TextMap cn ở máy Aurel; phiên cloud không có. Mọi lời canon ở đây chỉ dựa tóm tắt tiếng Anh nhóm C; tên Trung nào chưa có trong project thì **không viết ra** hoặc ghi Latin *(luật A4)* và vào bảng tên để Aurel đối chiếu.

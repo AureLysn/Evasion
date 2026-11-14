@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch04 arc 2 CLS", "tổng kết ch04 arc 2 CLS"]
-related: ["[[ch04-plan-a2]]", "[[ch04-review]]", "[[ch04-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[h-cho-trong-phan-dien]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-tong-ket|ch03-tong-ket]]", "[[tien-do-ba-arc]]"]
+related: ["[[ch04-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-review|ch04-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[h-cho-trong-phan-dien]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-tong-ket|ch03-tong-ket]]", "[[tien-do-ba-arc]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 26/10/2026; doc truc tiep ch04-chapter (arc 2, tron 340 dong), ch04-plan-a2, ch04-review, delta.yaml, ch04-zh-bang-ten, metadata nam the canh a2-ch04-01..05, hooks/h-cho-trong-phan-dien, thu muc snapshots/012-a2-ch04, nhat ky giao_viec status, style_metrics, doi chieu bang may 105 cum 「…」 cua delta voi than chuong, cac grep tren than chuong; chuoi su kien (ai chay mo hinh nao, tu duyet, ngat vi het gioi han) la LOI KE cua caller, chi ghi la loi ke. Ten file trung arc 1: dan bang alias."

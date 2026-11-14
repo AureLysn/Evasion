@@ -11,7 +11,7 @@ status: final
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["chuong 3 CLS", "chương 3 CLS", "ch3 arc 1 CLS", "ch03 CLS zh", "第三章 老死", "ban thu tieng Trung ch03 CLS"]
-related: ["[[ch03-plan]]", "[[ch03-zh-bang-ten]]", "[[ch03-01-nu-cuoi]]", "[[ch03-02-khong-dau]]", "[[ch03-03-cua-lan]]", "[[ch03-04-nho-lay]]", "[[ch03-05-chet-gia]]", "[[ch03-06-thu-linh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]", "[[nguoi-xem-nho-toi-cuoi-ban-truoc]]"]
+related: ["[[ch03-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[ch03-01-nu-cuoi]]", "[[ch03-02-khong-dau]]", "[[ch03-03-cua-lan]]", "[[ch03-04-nho-lay]]", "[[ch03-05-chet-gia]]", "[[ch03-06-thu-linh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]", "[[nguoi-xem-nho-toi-cuoi-ban-truoc]]"]
 source:
   type: inference
   ref: "write-chapter 14/10/2026 theo ke hoach ch03 ban 2 (Aurel goi write-chapter sau khi nhan ban 2 da qua review-plan luot 2 = duyet). Ban thu, viet bang tieng Trung. Ten rieng: ch03-zh-bang-ten.md."

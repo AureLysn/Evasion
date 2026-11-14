@@ -7,7 +7,7 @@ lane: personal
 canon_layer: high_confidence_inference
 status: wip
 aliases: ["doc bo D", "Cuong cat bi kich tien hoa lich su", "tham khao tinh tiet", "bo D", "song thuy moc", "vo han luu cuong cat", "bi kich series"]
-related: ["[[CLS]]", "[[_MOC]]", "[[20260914-tu-lieu-fandom-khr-xuyen-viet]]", "[[20260913-doc-bo-A]]", "[[20260914-tong-hop-chan-doan]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/00_Overview/_MOC|_MOC]]", "[[20260914-tu-lieu-fandom-khr-xuyen-viet]]", "[[20260913-doc-bo-A]]", "[[20260914-tong-hop-chan-doan]]"]
 source:
   type: fic_text
   ref: "Doc truc tiep 'Cuong cat bi kich tien hoa lich su.epub' (tac gia 双水木), ~836 chuong / ~8,36 trieu ky tu. Aurel gui 14/09/2026, chot vai tro = 'tham khao tinh tiet'."

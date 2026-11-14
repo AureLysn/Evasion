@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["nguon goc cau tra loi Aurel", "bang chung goc TRIAD", "nguon-aurel-tra-loi"]
-related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[san-sang-loc]]", "[[_MOC|sources/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[san-sang-loc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/01_Project-canon/sources/_MOC|sources/_MOC]]"]
 source:
   type: author_comment
   ref: "Aurel dan nguyen van trong phien lam viec 2026-09-02, luu tai 03_Workspace/truyen-moi-thiet-ke/nguon-aurel-tra-loi.md"

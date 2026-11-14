@@ -34,7 +34,7 @@ last_updated: 2026-10-25
 | V1 | ch08 Stelle đứng, ch01 lại ngồi | Stelle 「往前迈了半步」, 「退回原处」, ngồi xuống sau khi Boothill đi |
 | V2 | Câu 「浴池里的水别喝」 ám chỉ người lạ cũng qua lễ tơ vàng *(lấn ch02)* | Đổi thành 「新来的？底下那家的蜜饼别买，粘牙。我试过了。」; thẻ 1.04 sửa chỗ tự mâu thuẫn |
 | V3 | Tiếng 「……迷迷？」 「很远」, dễ đọc thành giọng người ở Okhema | 「就在耳边」 |
-| V4 | Tên file trùng arc 1 | **Giữ tên** — công cụ hàng đợi đòi đúng `ch01-chapter.md`; `id` đã khác *(`CLS-arc2`)*. Wikilink `[[ch01-chapter]]` / `[[ch01-zh-bang-ten]]` trỏ được tới hai file — khi dẫn note arc 2 thì dẫn bằng alias |
+| V4 | Tên file trùng arc 1 | **Giữ tên** — công cụ hàng đợi đòi đúng `ch01-chapter.md`; `id` đã khác *(`CLS-arc2`)*. Wikilink `[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-chapter|ch01-chapter]]` / `[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]` trỏ được tới hai file — khi dẫn note arc 2 thì dẫn bằng alias |
 | N1 | Black Swan nhìn lại, có thể hé Đêm Dài | Bỏ vế 「现在才想起来…」 |
 | N2 | 「没有人接话 / 没有人理他 / 没有谁解释为什么」 | Thay bằng hành động; bỏ câu thứ ba |
 | N3 | Khăn chưa lên phim *(B9)* | Aglaea đưa khăn trên phim |

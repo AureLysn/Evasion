@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: active
 aliases: ["review ch07 arc 2 CLS", "soat mach ch07 arc 2 CLS"]
-related: ["[[ch07-chapter]]", "[[ch07-plan-a2]]", "[[h-cho-trong-phan-dien]]", "[[dan-y-arc-2-dazai-v3-cls]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]]", "[[ch07-plan-a2]]", "[[h-cho-trong-phan-dien]]", "[[dan-y-arc-2-dazai-v3-cls]]"]
 source:
   type: inference
   ref: "xuong-kiem (Opus medium) review-plan 27/10 + check-continuity 27/10/2026, hang doi CLS; sua 27/10 (dan y) va 30/10 (chuong); ghi lai boi phien dieu phoi"
@@ -29,7 +29,7 @@ last_updated: 2026-10-30
 
 ## Soát mạch bản nháp *(check-continuity, 27/10)*
 
-**1 nặng, 6 vừa, 12 nhẹ.** `pov_leak_check` 6 thẻ exit 0; chữ cấm 0. Đã sửa trong [[ch07-chapter]] ngày 30/10: **6.240 → 6.189** chữ Hán.
+**1 nặng, 6 vừa, 12 nhẹ.** `pov_leak_check` 6 thẻ exit 0; chữ cấm 0. Đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]] ngày 30/10: **6.240 → 6.189** chữ Hán.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

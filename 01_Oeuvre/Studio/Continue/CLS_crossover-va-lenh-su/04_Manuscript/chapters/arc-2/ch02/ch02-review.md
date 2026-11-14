@@ -26,7 +26,7 @@ last_updated: 2026-10-25
 
 ## Soát mạch bản nháp *(check-continuity)*
 
-**1 nặng, 4 vừa, 7 nhẹ.** `pov_leak_check` 4 thẻ exit 0. Cột cuối: đã sửa trong [[ch02-chapter]] cùng ngày.
+**1 nặng, 4 vừa, 7 nhẹ.** `pov_leak_check` 4 thẻ exit 0. Cột cuối: đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch02/ch02-chapter|ch02-chapter]] cùng ngày.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

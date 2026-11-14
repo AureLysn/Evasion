@@ -7,7 +7,7 @@ lane: personal
 canon_layer: planned
 status: active
 aliases: ["review plan ch08 CLS", "soat dan y ch08 CLS"]
-related: ["[[ch08-plan-v2]]", "[[ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]"]
+related: ["[[ch08-plan-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]"]
 source:
   type: inference
   ref: "review-plan ch08 ban 2, 25/10/2026, xuong-kiem (Opus medium); bao cao chep gon boi phien dieu phoi hang doi"
@@ -20,7 +20,7 @@ last_updated: 2026-10-25
 
 # Soát dàn ý ch08 bản 2 — 25/10/2026
 
-Soát sau khi ch07 chốt `final` *(dàn ý ch08 viết 22/10, trước bản sửa ch07)*. **0 nặng, 5 vừa, 7 nhẹ**; thêm 5 chỗ dàn ý lệch bản nháp *(D1–D5)*. Bảng kiểm: 10 đã làm, 1 thiếu *(dòng 13 — V5)*, 5 không rõ. `plan_gate` exit 0; `pov_leak_check` 4 thẻ exit 0. Cột cuối: cách phiên điều phối đã sửa cùng ngày trong [[ch08-plan-v2]], bốn thẻ v2 và [[ch08-chapter]].
+Soát sau khi ch07 chốt `final` *(dàn ý ch08 viết 22/10, trước bản sửa ch07)*. **0 nặng, 5 vừa, 7 nhẹ**; thêm 5 chỗ dàn ý lệch bản nháp *(D1–D5)*. Bảng kiểm: 10 đã làm, 1 thiếu *(dòng 13 — V5)*, 5 không rõ. `plan_gate` exit 0; `pov_leak_check` 4 thẻ exit 0. Cột cuối: cách phiên điều phối đã sửa cùng ngày trong [[ch08-plan-v2]], bốn thẻ v2 và [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-chapter|ch08-chapter]].
 
 | # | Lỗi | Đã sửa |
 |---|---|---|
@@ -42,7 +42,7 @@ Không còn lỗi nặng. **Chỉ Aurel trả lời được** *(không chặn)*
 
 # Soát mạch bản nháp ch08 — 25/10/2026
 
-`check-continuity`, xuong-kiem *(Opus · medium)*, sau khi sửa dàn ý. **0 nặng, 2 vừa, 8 nhẹ**, 4 linh cảm. `pov_leak_check` 4 thẻ exit 0. Chương không chốt hộ mục mở nào *(Fulwish, chữ 「是」, 「Ashveil nếm được gì」)*. Cột cuối: đã sửa trong [[ch08-chapter]] cùng ngày.
+`check-continuity`, xuong-kiem *(Opus · medium)*, sau khi sửa dàn ý. **0 nặng, 2 vừa, 8 nhẹ**, 4 linh cảm. `pov_leak_check` 4 thẻ exit 0. Chương không chốt hộ mục mở nào *(Fulwish, chữ 「是」, 「Ashveil nếm được gì」)*. Cột cuối: đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-chapter|ch08-chapter]] cùng ngày.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["de len canon BNHA", "UNTCH khac canon BNHA cho nao", "doi chieu canon BNHA va UNTCH", "fic bac canon gi", "canon BNHA vs UNTCH", "cho cham vao canon BNHA"]
-related: ["[[_MOC|canon rieng UNTCH]]", "[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[_BNHA-MOC]]", "[[Quirk]]", "[[Quirk-Types]]", "[[One-For-All]]", "[[All-For-One]]", "[[Hero-Public-Safety-Commission]]", "[[Nezu]]", "[[one-for-all-untch]]", "[[all-for-one-untch]]", "[[pq03-cha-cua-byakuran-hawks]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/world-rules/_MOC|canon rieng UNTCH]]", "[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[_BNHA-MOC]]", "[[Quirk]]", "[[Quirk-Types]]", "[[One-For-All]]", "[[All-For-One]]", "[[Hero-Public-Safety-Commission]]", "[[Nezu]]", "[[one-for-all-untch]]", "[[all-for-one-untch]]", "[[pq03-cha-cua-byakuran-hawks]]"]
 source:
   type: fic_text
   ref: "Gom ve 01/09/2026 tu bay note trong Database/Fandom/BNHA/ von dang chua noi dung rieng cua UNTCH: One-For-All.md, All-For-One.md, Quirk.md, Quirk-Types.md, rules/_MOC.md, organizations/Hero-Public-Safety-Commission.md, organizations/_MOC.md. Dan chung goc van la fic_text cua Mina37 (AO3 28933989) va end note tac gia; toi la nguoi chuyen, nen confidence duoi 1.0."
@@ -28,7 +28,7 @@ last_updated: 2026-09-01
 >
 > Hồ sơ lỗi:  mục **L04**.
 
-**Quan hệ với [[_MOC|canon/_MOC]]:** bảng ở đó là **chỉ mục tra nhanh**. Note này là **bản đối
+**Quan hệ với [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/world-rules/_MOC|canon/_MOC]]:** bảng ở đó là **chỉ mục tra nhanh**. Note này là **bản đối
 chiếu đầy đủ**, giữ nguyên văn phía canon để thấy fic lệch ở đâu và lệch bao nhiêu.
 
 ---

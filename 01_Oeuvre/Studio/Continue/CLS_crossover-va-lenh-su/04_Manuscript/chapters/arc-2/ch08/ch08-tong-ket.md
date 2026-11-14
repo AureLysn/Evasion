@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch08 arc 2 CLS", "tổng kết ch08 arc 2 CLS"]
-related: ["[[ch08-plan-a2]]", "[[ch08-review]]", "[[ch08-zh-bang-ten]]", "[[h-nguoi-ta-ve-duoc]]", "[[h-nguoi-do]]", "[[dazai--evernight-cls]]", "[[dan-y-arc-2-dazai-v3-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-tong-ket|ch07-tong-ket]]", "[[tien-do-ba-arc]]"]
+related: ["[[ch08-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-review|ch08-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]]", "[[h-nguoi-ta-ve-duoc]]", "[[h-nguoi-do]]", "[[dazai--evernight-cls]]", "[[dan-y-arc-2-dazai-v3-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-tong-ket|ch07-tong-ket]]", "[[tien-do-ba-arc]]"]
 source:
   type: inference
   ref: "summarize-run 30/10/2026 do PHIEN DIEU PHOI tu lam (Aurel 30/10: khong chay tac nhan) - cung phien da lap dan y, viet, soat, trich delta va ap; KHONG doc lap. So do bang may: style_metrics, ai_tells_check, pov_leak_check 6 the, grep chu cam, doi chieu 65 cum evidence, do do dai tung khoi."
@@ -28,7 +28,7 @@ Bản tiếng Trung, `final` 30/10/2026 — **tạm gắn** *(Aurel 30/10: đọ
 ## Điều Aurel cần biết trước khi đọc
 
 1. **Cả chương do một phiên làm từ đầu tới cuối** — lập dàn ý, tự soát dàn ý, viết, tự soát mạch, trích delta, áp, tổng kết. Không bước nào được một người thứ hai kiểm. Ch01–ch07 có `xuong-kiem` độc lập.
-2. **Không có TextMap.** Canon 3.6 chỉ theo tóm tắt phái sinh tiếng Anh *(nhóm C)*. Mọi câu canon là bản phiên diễn lại từ tiếng Anh; tên Trung chưa có trong project **không** viết ra *(Terravox, Dan Feng, Memosnatcher…)* — xem [[ch08-zh-bang-ten]].
+2. **Không có TextMap.** Canon 3.6 chỉ theo tóm tắt phái sinh tiếng Anh *(nhóm C)*. Mọi câu canon là bản phiên diễn lại từ tiếng Anh; tên Trung chưa có trong project **không** viết ra *(Terravox, Dan Feng, Memosnatcher…)* — xem [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]].
 3. **Nén mạnh:** 9 nhiệm vụ canon trong ~5.800 chữ. Bỏ hẳn: Kafka/Silver Wolf ở tàu giả, Zeph, Pure Child *(无漏净子)*, 《如我所书》, Fuli, luật Cerydra trong 再创世, Anaxa hỏi Demiurge. Gods chỉ một đoạn.
 
 ## Hành trình
