@@ -11,7 +11,7 @@ status: final
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["chuong 1 CLS", "chương 1 CLS", "ch1 arc 1 CLS", "chuong 1 CLS ban tieng Trung", "ch01 CLS zh", "箭 CLS", "第一章 箭", "ban thu tieng Trung ch01 CLS"]
-related: ["[[ch01-plan]]", "[[ch01-zh-bang-ten]]", "[[ch01-01-mui-ten]]", "[[ch01-02-tu-lanh]]", "[[ch01-03-la-mancha]]", "[[ch01-04-hai-cu-dien-thoai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Doan-tau-ngoai-hinh]]", "[[Rappa]]"]
+related: ["[[ch01-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[ch01-01-mui-ten]]", "[[ch01-02-tu-lanh]]", "[[ch01-03-la-mancha]]", "[[ch01-04-hai-cu-dien-thoai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Doan-tau-ngoai-hinh]]", "[[Rappa]]"]
 source:
   type: inference
   ref: "Aurel 12/10/2026: 'lam lai tu dau bang tieng Trung thu; minh nghi co sua thi cung khong het loi duoc'; khong thich mot so cach noi tieng Viet (vd 'tao'); 'moi nguoi dang noi chuyen thang qua, Aventurine nen noi vong vo, an y hon'. Ban thu, viet moi, khong dich tu ban tieng Viet. Ten rieng khong chac ghi trong ch01-zh-bang-ten.md."

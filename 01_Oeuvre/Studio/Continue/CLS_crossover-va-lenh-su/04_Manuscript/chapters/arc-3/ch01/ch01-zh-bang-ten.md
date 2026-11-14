@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch01 arc 3 CLS", "bảng tên ch01 arc 3 CLS", "bang ten 第一章 余音"]
-related: ["[[ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[ch01-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[ch01-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 01/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch01-plan-a3 (TextMap cn 112032, 30069, 112033, 27207, 30071, 30094 doc 01/11 + BWIKI 30/10) va bang ten ch10 arc 2 (ten cu). Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."

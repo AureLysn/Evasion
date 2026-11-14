@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["Lời tác giả shinnn86 — đường cong nhân vật + bình luận arc"]
-related: ["[[TRIAD]]", "[[_MOC|sources/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/01_Project-canon/sources/_MOC|sources/_MOC]]"]
 source:
   type: author_comment
   ref: "shinnn86 (tac gia fic nguon) - ghi chu dinh kem goi ho-so-nhan-vat, nhan tu Aurel qua Downloads 2026-09-04"

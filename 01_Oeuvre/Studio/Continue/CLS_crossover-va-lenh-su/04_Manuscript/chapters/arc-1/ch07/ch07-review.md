@@ -7,7 +7,7 @@ lane: personal
 canon_layer: planned
 status: active
 aliases: ["review plan ch07 CLS", "soat dan y ch07 CLS"]
-related: ["[[ch07-plan-v2]]", "[[ch07-chapter]]", "[[q-arc-1-ch07-camera-ghi-canh-rut-nguoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-tong-ket|ch06-tong-ket]]"]
+related: ["[[ch07-plan-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[q-arc-1-ch07-camera-ghi-canh-rut-nguoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-tong-ket|ch06-tong-ket]]"]
 source:
   type: inference
   ref: "review-plan ch07 bản 2, 24/10/2026, xuong-kiem (Opus medium); báo cáo chép lại bởi phiên chính"
@@ -55,7 +55,7 @@ H1: Aurel chọn **A** *([[20261025-o-2-camera-ch07-chon-a]])*. M1–M6, L1–L7
 
 # Soát mạch bản nháp ch07 — 25/10/2026
 
-`check-continuity`, xuong-kiem *(Opus · medium)*, sau khi sửa dàn ý. **0 nặng, 3 vừa, 11 nhẹ.** `pov_leak_check` năm thẻ: exit 0. Báo cáo chép gọn bởi phiên điều phối; cột cuối là cách đã sửa trong [[ch07-chapter]] cùng ngày.
+`check-continuity`, xuong-kiem *(Opus · medium)*, sau khi sửa dàn ý. **0 nặng, 3 vừa, 11 nhẹ.** `pov_leak_check` năm thẻ: exit 0. Báo cáo chép gọn bởi phiên điều phối; cột cuối là cách đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]] cùng ngày.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

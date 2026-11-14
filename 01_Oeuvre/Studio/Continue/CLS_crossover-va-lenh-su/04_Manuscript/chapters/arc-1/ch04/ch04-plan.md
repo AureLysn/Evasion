@@ -12,7 +12,7 @@ pov: [character.boothill, character.CLS.jason-todd]
 target_han_chars: 6000
 language: zh
 aliases: ["ke hoach chuong 4 CLS", "kế hoạch chương 4 CLS", "ch4 arc 1 CLS", "Phẫu thuật hạnh phúc CLS", "ke hoach ch04 CLS ban 2"]
-related: ["[[dan-y-arc-1-jason-v5-cls]]", "[[arc-1-chot-sau-plan-reviewer]]", "[[arc-1-bon-chot-ke-hoach-chi-tiet]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[watch-frame]]", "[[playlist-arc-1]]", "[[ch04-01-to-roi]]", "[[ch04-02-ban-tay]]", "[[ch04-03-anh-khong-nho]]", "[[ch04-04-viec-tot]]", "[[ch04-05-thu-san-ban-san]]", "[[ch04-zh-bang-ten]]", "[[ch03-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-chapter|ch03-chapter]]", "[[ch05-03-dinh-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[cls-viet-bang-tieng-trung]]", "[[nguoi-xem-nho-toi-cuoi-ban-truoc]]"]
+related: ["[[dan-y-arc-1-jason-v5-cls]]", "[[arc-1-chot-sau-plan-reviewer]]", "[[arc-1-bon-chot-ke-hoach-chi-tiet]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[watch-frame]]", "[[playlist-arc-1]]", "[[ch04-01-to-roi]]", "[[ch04-02-ban-tay]]", "[[ch04-03-anh-khong-nho]]", "[[ch04-04-viec-tot]]", "[[ch04-05-thu-san-ban-san]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[ch03-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-chapter|ch03-chapter]]", "[[ch05-03-dinh-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[cls-viet-bang-tieng-trung]]", "[[nguoi-xem-nho-toi-cuoi-ban-truoc]]"]
 source:
   type: inference
   ref: "plan-continuation 04/10/2026 — theo dan y arc 1 ban 5; da qua plan-reviewer luot 3 va sua; chua duoc Aurel duyet rieng (Aurel dong y ba muc de xuat trong the canh ch4-8 — arc-1-the-canh-da-duyet). BAN 2 viet 17/10/2026 theo khuon ban 2 cua ch03 (tieng Trung, ~6.000 chu Han, B8 xen phong tinh ca cho noi canh, D4, muc tieu/doi khang/ket cuc/gia tri, POV tung the) va doi chieu ch03-chapter; ten Trung tra TextMap cn 17/10. Sua 17/10 theo review-plan luot 1 (1 high, 6 medium, 6 low). Day chuyen ba arc (Aurel 17/10). Ban 2 la DE XUAT, cho Aurel."
@@ -90,7 +90,7 @@ Văn phòng lần vào Hội Nghiên Cứu Nụ Cười Hạnh Phúc (幸福微�
 - **Ai kể nhịp phòng:** mọi dòng phòng kể từ **Boothill**. `pov_leak_check` chạy thêm một lượt `--pov character.boothill` cho 4.01.
 - **Trí nhớ phòng:** Đoàn tàu nhớ cả chặng Planarcadia; Boothill, Rappa, Aventurine **không** ([[nguoi-xem-nho-toi-cuoi-ban-truoc]]). ch03 Stelle và March **chạy trốn** một người mời vào Hội (「我们跑得可快了」) — 4.01 chơi lại chuyện đó: lần này chính họ **tự chen vào** bàn tuyển người.
 - **Lời phòng được gọi tên Aeon** (阿哈, 岚, 巡猎, 丰饶) — Aurel 14/10; lời kể trên phim vẫn không.
-- **Tên gọi:** [[ch04-zh-bang-ten]]. Boothill gọi Jason 「数香蕉那小子」 / 「拿本子那个」; gọi Sunday 「光环宝贝」 **[đề xuất — D9]**.
+- **Tên gọi:** [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]. Boothill gọi Jason 「数香蕉那小子」 / 「拿本子那个」; gọi Sunday 「光环宝贝」 **[đề xuất — D9]**.
 - **Vết nứt kính Welt:** dài thêm **một lần** trong chương (4.04) — [[watch-frame]].
 
 ## Những chỗ đã quyết khi lên kế hoạch *(mặc định an toàn — review-plan M1, 17/10)*

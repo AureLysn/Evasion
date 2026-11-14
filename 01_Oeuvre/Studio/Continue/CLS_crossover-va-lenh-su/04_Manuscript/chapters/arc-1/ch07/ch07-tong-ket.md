@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch07 CLS", "tổng kết ch07 CLS"]
-related: ["[[ch07-chapter]]", "[[ch07-plan-v2]]", "[[ch07-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-tong-ket|ch06-tong-ket]]", "[[tien-do-ba-arc]]", "[[q-arc-1-ch07-camera-ghi-canh-rut-nguoi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[ch07-plan-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-review|ch07-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-tong-ket|ch06-tong-ket]]", "[[tien-do-ba-arc]]", "[[q-arc-1-ch07-camera-ghi-canh-rut-nguoi]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 25/10/2026; doc truc tiep ch07-chapter, nam the canh v2, ch07-review, delta.yaml, nhat ky giao_viec status; khong tin loi ke cua phien chinh"
@@ -39,7 +39,7 @@ Không chạy mô hình "ba worker rồi hai reviewer" của quy tắc sản xu�
 
 ## Phát hiện — xếp theo mức độ
 
-Mức giữ nguyên như người soát ghi. Cột "Ở đâu" chỉ mục lỗi trong [[ch07-review]]; trạng thái là điều review ghi, tôi chỉ đối chiếu mẫu trên thân chương.
+Mức giữ nguyên như người soát ghi. Cột "Ở đâu" chỉ mục lỗi trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-review|ch07-review]]; trạng thái là điều review ghi, tôi chỉ đối chiếu mẫu trên thân chương.
 
 | Mức | Nguồn | Ở đâu | Vấn đề | Trích / trạng thái |
 |---|---|---|---|---|

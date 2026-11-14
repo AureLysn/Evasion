@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["ghi chu tac gia", "author notes", "chapter notes", "end notes", "chu thich", "footnotes", "69 chu thich", "ghi chu chuong"]
-related: ["[[fic-part1]]", "[[fic-part2]]", "[[ao3-comments]]", "[[_MOC]]"]
+related: ["[[fic-part1]]", "[[fic-part2]]", "[[ao3-comments]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|_MOC]]"]
 source:
   type: author_comment
   ref: "Local_Mafia_Boss_Blames.html + Ex-Mafia_Boss_Spends.html — Chapter Notes, Chapter Summary, End Notes, footnote list"

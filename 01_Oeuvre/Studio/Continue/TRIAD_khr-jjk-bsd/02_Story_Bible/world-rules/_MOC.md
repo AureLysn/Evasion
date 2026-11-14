@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["canon TRIAD", "luat the gioi TRIAD", "MOC canon TRIAD"]
-related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[_MOC|Characters/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/_MOC|Characters/_MOC]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-12
 ---

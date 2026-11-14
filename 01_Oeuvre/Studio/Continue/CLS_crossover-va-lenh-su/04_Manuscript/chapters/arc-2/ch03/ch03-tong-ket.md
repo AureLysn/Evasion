@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch03 arc 2 CLS", "tổng kết ch03 arc 2 CLS"]
-related: ["[[ch03-plan-a2]]", "[[ch03-review]]", "[[ch03-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[h-nguoi-do]]", "[[h-ung-vien-gia-toc]]", "[[tsuna--dazai-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch02/ch02-tong-ket|ch02-tong-ket]]", "[[tien-do-ba-arc]]"]
+related: ["[[ch03-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-review|ch03-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[h-nguoi-do]]", "[[h-ung-vien-gia-toc]]", "[[tsuna--dazai-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch02/ch02-tong-ket|ch02-tong-ket]]", "[[tien-do-ba-arc]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 26/10/2026; doc truc tiep ch03-chapter (arc 2), ch03-plan-a2, ch03-review, delta.yaml, ch03-zh-bang-ten, metadata nam the canh a2-ch03-01..05, nhat ky giao_viec status, style_metrics, cac grep tren than chuong; khong tin loi ke cua phien chinh ngoai chuoi su kien do caller neu (ghi ro la loi ke). Ten file trung arc 1: dan bang alias."

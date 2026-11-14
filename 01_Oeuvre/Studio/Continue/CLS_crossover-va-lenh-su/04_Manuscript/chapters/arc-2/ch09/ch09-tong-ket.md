@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch09 arc 2 CLS", "tổng kết ch09 arc 2 CLS"]
-related: ["[[ch09-plan-a2]]", "[[ch09-review]]", "[[ch09-zh-bang-ten]]", "[[h-cho-trong-phan-dien]]", "[[h-nguoi-do]]", "[[dan-y-arc-2-dazai-v3-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-tong-ket|ch08-tong-ket]]", "[[tien-do-ba-arc]]"]
+related: ["[[ch09-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-review|ch09-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[h-cho-trong-phan-dien]]", "[[h-nguoi-do]]", "[[dan-y-arc-2-dazai-v3-cls]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-tong-ket|ch08-tong-ket]]", "[[tien-do-ba-arc]]"]
 source:
   type: inference
   ref: "summarize-run 30/10/2026 do PHIEN DIEU PHOI tu lam - cung phien lap dan y, viet, soat, ap; KHONG doc lap. So do bang may: style_metrics, ai_tells_check, pov_leak_check 6 the, grep chu cam, 53 cum evidence."

@@ -47,7 +47,7 @@ Mâu thuẫn trung tâm: nhân viên UA đọc nhầm sẹo chiến đấu của
 
 ## Trước khi viết chương tiếp theo
 
-1. **Đo văn phong nguyên tác trước.** Không có [[signature]] thì đang bịa giọng,
+1. **Đo văn phong nguyên tác trước.** Không có `02_Story_Bible/style/signature.md` thì đang bịa giọng,
    không phải mimic. Tối thiểu ~5.000 từ nguyên tác để đo đáng tin.
 2. **Viết tự do → chạy gate → sửa theo số.** Không giữ luật trong đầu.
    Xem [[principles]] nguyên lý 2.

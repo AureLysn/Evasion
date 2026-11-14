@@ -7,7 +7,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 aliases: ["quyet dinh CLS", "decisions CLS", "da khoa CLS"]
-related: ["[[CLS]]", "[[_MOC|CLS/_MOC]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/00_Overview/_MOC|CLS/_MOC]]"]
 source:
   type: user_input
   ref: "Tao 13/09/2026"

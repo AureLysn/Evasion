@@ -10,7 +10,7 @@ canon_layer: project_locked
 status: idea
 title: "(chưa đặt tên)"
 aliases: ["chua dat ten truyen", "du an KHR x JJK x BSD", "Tsuna Gojo Dazai crossover", "du an 3 fandom"]
-related: ["[[_MOC]]", "[[drop-point]]", "[[sources/_MOC|sources/_MOC]]", "[[_MOC|decisions/_MOC]]", "[[_MOC|questions/_MOC]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/00_Overview/_MOC|_MOC]]", "[[drop-point]]", "[[sources/_MOC|sources/_MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/_MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/questions/_MOC|questions/_MOC]]"]
 source:
   type: user_input
   ref: "Sang tac goc cua Aurel"
@@ -49,16 +49,16 @@ câu trả lời của Aurel, không phải bản thân câu trả lời.
 
 - [x] `sources/` — 8 file gốc + 8 source note, nạp 05/09/2026. Xem [[sources/_MOC|sources/_MOC]]
 - [x] `style/` — **v1 dựng 12/09/2026** từ [[chuong-01-aurel-viet-lai]] (3.349 từ):
-      [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]] (xem [[_MOC|style/_MOC]]). Đúng kế hoạch —
+      [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]] (xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/_MOC|style/_MOC]]). Đúng kế hoạch —
       đo từ chương Aurel tự viết, **không** đo từ nguồn tham khảo shinnn86. ⚠️ `N = 1 chương`,
       chưa khoá; siết lại sau chương 2–3.
 - [x] `canon/` — **9 note**. 8 note đề xuất 05/09/2026, Aurel duyệt 06/09/2026 (không sửa);
-      thêm [[xac-va-nguoi-giet]] 12/09/2026 (xem [[_MOC|canon/_MOC]])
+      thêm [[xac-va-nguoi-giet]] 12/09/2026 (xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/world-rules/_MOC|canon/_MOC]])
 - [x] `Characters/` — 6 hồ sơ, đề xuất 05/09/2026, Aurel duyệt 06/09/2026 (Thiên sư + Pháp y
-      có bổ sung) (xem [[_MOC|Characters/_MOC]])
-- [x] `decisions/` — mở 06/09/2026 (xem [[_MOC|decisions/_MOC]])
+      có bổ sung) (xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/_MOC|Characters/_MOC]])
+- [x] `decisions/` — mở 06/09/2026 (xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/_MOC]])
 - [x] `questions/` — 6 câu hỏi, **tất cả đã giải quyết**. Mới nhất:
-      [[q-dau-cau-spec-vs-thuc-te]] → [[quyet-dinh-dau-cau]] (12/09). Xem [[_MOC|questions/_MOC]]
+      [[q-dau-cau-spec-vs-thuc-te]] → [[quyet-dinh-dau-cau]] (12/09). Xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/questions/_MOC|questions/_MOC]]
 - [x] `arcs/` + `chapters/` — mở 06/09/2026: arc [[san-sang-loc]] (8 chương, đã khoá phần lớn),
       chương 1 **đã có bản canon** ([[chuong-01-aurel-viet-lai]], Aurel tự viết 11/09/2026,
       chốt 12/09/2026); bản nháp đầu [[chuong-01]] (02/09, AI + Aurel) chuyển `superseded`
@@ -82,7 +82,7 @@ Xem [[quyet-dinh-06-09]] (đầy đủ lý do + ràng buộc kéo theo). Tóm t�
 3. Outline trước, văn sau. ✅ arc [[san-sang-loc]] lên dàn ý 06/09/2026 — 8 chương, ch1
    đã có bản nháp. Cơ chế ngày 5 đã chốt ([[quyet-dinh-ngay5]]) — không còn chương nào bị chặn.
 4. Đo văn phong → `style/signature.md`. ✅ xong 12/09/2026 — v1 từ
-   [[chuong-01-aurel-viet-lai]] (3.349 từ). Chưa khoá, xem [[_MOC|style/_MOC]].
+   [[chuong-01-aurel-viet-lai]] (3.349 từ). Chưa khoá, xem [[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/02_Story_Bible/style/_MOC|style/_MOC]].
 5. Chốt câu hỏi dấu câu. ✅ 12/09 — [[quyet-dinh-dau-cau]], phương án C.
 6. Lên kế hoạch chi tiết chương 2–3 (`plan-continuation`). Chương 3 phải chọn beat mới cho
    pháp y, xem [[san-sang-loc]] § Còn để mở.

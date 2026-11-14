@@ -21,7 +21,7 @@ last_updated: 2026-09-09
 
 # Đợt 7 — `DANY` bản cũ vs bản v3
 
-> Đây là mục **"Chưa làm"** mà [[_MOC]] của thư mục này đã treo từ 16/08: *"đối chứng với `DANY-KOHAKU.md` (40 KB) — dàn ý, so ở giai đoạn 7"*.
+> Đây là mục **"Chưa làm"** mà [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/_MOC|_MOC]] của thư mục này đã treo từ 16/08: *"đối chứng với `DANY-KOHAKU.md` (40 KB) — dàn ý, so ở giai đoạn 7"*.
 
 **Vì sao có hai bản.** [[dot7-quyet-dinh]] §E ghi: *"A2 đã làm phần lớn nhóm E mất hiệu lực — chúng thuộc `DANY` Child Arc, **nay đã mở lại**."* Mục B3 được viết lại thành v3. Bản cũ không bị xoá, nó chỉ ở lại trong bản sao trên Drive.
 

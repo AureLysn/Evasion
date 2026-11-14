@@ -47,6 +47,6 @@ N1–N7 đóng. **N8** — lời chúc của Dan Heng ở 10.01 *(185420–18542
 
 Sau sửa: **6.157 chữ Hán** *(sàn 5.500; dàn ý 6.600)*, `style_metrics` đạt, `ai_tells_check` 0, `pov_leak_check` 6/6 0, dò chữ cấm 0, sáu chỗ 【】 đúng chữ trên phim, khối phim dài nhất dưới 700. Lỗi nặng còn: **0**.
 
-Mặc định của phiên, để Aurel xem: 「这三个，打哪儿来？」 *(bỏ 各自)*; Black Swan 「墙上那位，眼光还行。」; câu Himeko diễn lại *(Đ-2)*; Sunday giữ yên tay *(Đ-5)*; tên chương 和弦 *(Đ-9)*; tên chỉ có ở TextMap, không có trong bộ tên CSV *(A4 — xem [[ch10-zh-bang-ten]])*.
+Mặc định của phiên, để Aurel xem: 「这三个，打哪儿来？」 *(bỏ 各自)*; Black Swan 「墙上那位，眼光还行。」; câu Himeko diễn lại *(Đ-2)*; Sunday giữ yên tay *(Đ-5)*; tên chương 和弦 *(Đ-9)*; tên chỉ có ở TextMap, không có trong bộ tên CSV *(A4 — xem [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]])*.
 
 **Lỗi lặp cả arc:** B1 ở ch10 nặng nhất vì chương chiếu nguyên một nhiệm vụ thoại dày; nên thêm dòng kiểm vào mẫu thẻ cảnh của CLS *(việc hệ thống, ngoài phiên này)*.

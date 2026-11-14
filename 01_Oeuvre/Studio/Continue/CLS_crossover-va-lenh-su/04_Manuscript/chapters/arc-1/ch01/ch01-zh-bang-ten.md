@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch01 CLS", "ten rieng ch01 zh CLS", "glossary zh ch01 CLS"]
-related: ["[[ch01-chapter]]", "[[ch01-chapter-ban-viet-20261012]]", "[[hsr]]", "[[Rappa]]", "[[Doan-tau-ngoai-hinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]", "[[ch01-chapter-ban-viet-20261012]]", "[[hsr]]", "[[Rappa]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "Phien Claude Code 12/10/2026 — ban thu tieng Trung ch01. Text game tren may chi co ban tieng Viet; ten tieng Trung la tri nho cua mo hinh, mot so CHUA CHAC. Aurel kiem va thay the."

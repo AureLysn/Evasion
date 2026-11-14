@@ -7,7 +7,7 @@ project: EMB
 canon_layer: general_reference
 status: active
 aliases: ["de len canon KHR", "EMB cham vao luat KHR cho nao", "EMB dung luat KHR nao", "KHR rules EMB dung", "cho cham vao canon KHR", "EMB va Flame lore", "harmonization EMB dung o dau"]
-related: ["[[_MOC|canon rieng EMB]]", "[[EMB]]", "[[Harmonization]]", "[[Uu-Tien-Nguon]]", "[[fact-loi-flame]]", "[[fact-vo-lo-flame]]", "[[_KHR-MOC]]", "[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[Flame-Purity]]", "[[Hard-Soft-Flame]]", "[[Sky-Attraction]]", "[[Tri-ni-sette]]", "[[Vongola-Ring]]", "[[Zero-Point-Breakthrough]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon rieng EMB]]", "[[EMB]]", "[[Harmonization]]", "[[Uu-Tien-Nguon]]", "[[fact-loi-flame]]", "[[fact-vo-lo-flame]]", "[[_KHR-MOC]]", "[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[Flame-Purity]]", "[[Hard-Soft-Flame]]", "[[Sky-Attraction]]", "[[Tri-ni-sette]]", "[[Vongola-Ring]]", "[[Zero-Point-Breakthrough]]"]
 source:
   type: user_input
   ref: "Gom ve 02/09/2026 tu chin note trong Database/Fandom/KHR/ von dang chua noi dung rieng cua EMB (duoi ten cu KOHAKU): rules/Dying-Will-Flame.md, Flame-Purity.md, Hard-Soft-Flame.md, Sky-Attraction.md, Sky-Flame.md, Tri-ni-sette.md, Vongola-Ring.md, Zero-Point-Breakthrough.md va rules/_MOC.md. Noi dung goc do cac dot 14-15/08/2026 viet; toi la nguoi chuyen cho, nen confidence duoi 1.0. Ho so loi: nhat-ky-loi-lam-viec L04."
@@ -33,7 +33,7 @@ last_updated: 2026-09-16
 > Khuôn này copy từ phía BNHA: `05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/01_Project-canon/notes/de-len-canon-bnha.md`.
 
 ⚠️ **Note này KHÔNG phải canon.** `canon_layer: general_reference` — nó là **bản chỉ đường**:
-EMB dùng luật KHR nào, ở mức nào, và chỗ nào còn hở. Fact thật nằm ở [[_MOC|canon/_MOC]].
+EMB dùng luật KHR nào, ở mức nào, và chỗ nào còn hở. Fact thật nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon/_MOC]].
 
 ---
 

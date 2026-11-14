@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch08 CLS", "tổng kết ch08 CLS"]
-related: ["[[ch08-chapter]]", "[[ch08-plan-v2]]", "[[ch08-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-tong-ket|ch07-tong-ket]]", "[[tien-do-ba-arc]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]", "[[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-chapter|ch08-chapter]]", "[[ch08-plan-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-review|ch08-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-tong-ket|ch07-tong-ket]]", "[[tien-do-ba-arc]]", "[[q-arc-1-hat-giong-giay-vang-cho-tra]]", "[[arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 25/10/2026; doc truc tiep ch08-chapter, bon the canh v2 (qua plan-v2 va delta), ch08-review, delta.yaml, nhat ky giao_viec status, style_metrics; khong tin loi ke cua phien chinh"
@@ -41,7 +41,7 @@ Không chạy mô hình "ba worker rồi hai reviewer" của quy tắc sản xu�
 
 ## Phát hiện — xếp theo mức độ
 
-Mức giữ nguyên như người soát ghi. "Ở đâu" chỉ mục lỗi trong [[ch08-review]]; trạng thái là điều review ghi, tôi chỉ đối chiếu mẫu trên thân chương.
+Mức giữ nguyên như người soát ghi. "Ở đâu" chỉ mục lỗi trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch08/ch08-review|ch08-review]]; trạng thái là điều review ghi, tôi chỉ đối chiếu mẫu trên thân chương.
 
 | Mức | Nguồn | Ở đâu | Vấn đề | Trích / trạng thái |
 |---|---|---|---|---|

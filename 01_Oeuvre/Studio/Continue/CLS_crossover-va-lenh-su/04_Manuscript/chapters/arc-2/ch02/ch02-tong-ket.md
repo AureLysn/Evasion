@@ -8,7 +8,7 @@ lane: personal
 canon_layer: user_canon
 status: review
 aliases: ["tong ket ch02 arc 2 CLS", "tổng kết ch02 arc 2 CLS"]
-related: ["[[ch02-plan-a2]]", "[[ch02-review]]", "[[ch02-zh-bang-ten]]", "[[20261026-tra-loi-bon-cau-ch02-arc-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[arc-2-chot-25-10]]", "[[q-arc-2-bong-lung-va-giong]]", "[[h-giong-khong-ten]]", "[[giong-khong-ten-la-dazai]]", "[[tien-do-ba-arc]]"]
+related: ["[[ch02-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch02/ch02-review|ch02-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[20261026-tra-loi-bon-cau-ch02-arc-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[arc-2-chot-25-10]]", "[[q-arc-2-bong-lung-va-giong]]", "[[h-giong-khong-ten]]", "[[giong-khong-ten-la-dazai]]", "[[tien-do-ba-arc]]"]
 source:
   type: inference
   ref: "xuong-lam (summarize-run) 26/10/2026; doc truc tiep ch02-chapter (arc 2), ch02-plan-a2, bon the canh a2-ch02-01..04 (qua metadata), ch02-review, delta.yaml, ch02-zh-bang-ten, sources/user-input/20261026-tra-loi-bon-cau-ch02-arc-2, nhat ky giao_viec status, style_metrics; khong tin loi ke cua phien chinh. Ten file trung arc 1: dan bang alias, khong bang wikilink tran."

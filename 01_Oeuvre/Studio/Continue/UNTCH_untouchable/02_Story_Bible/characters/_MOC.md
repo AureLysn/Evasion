@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: user_canon
 status: active
 aliases: ["nhan vat UNTCH", "MOC nhan vat UNTCH", "ho so nhan vat", "ai la ai trong UNTCH", "danh sach nhan vat"]
-related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[qd-huong-arc-01]]", "[[_MOC|canon rieng UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]"]
+related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[qd-huong-arc-01]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/world-rules/_MOC|canon rieng UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-31
 ---

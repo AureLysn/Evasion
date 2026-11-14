@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["MOC quyet dinh TRIAD", "decisions TRIAD"]
-related: ["[[TRIAD]]", "[[_MOC|questions/_MOC]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TRIAD_khr-jjk-bsd/05_Management/questions/_MOC|questions/_MOC]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-12

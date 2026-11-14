@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: active
 aliases: ["review ch06 arc 2 CLS", "soat mach ch06 arc 2 CLS"]
-related: ["[[ch06-chapter]]", "[[ch06-plan-a2]]", "[[h-cho-trong-phan-dien]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-chapter|ch06-chapter]]", "[[ch06-plan-a2]]", "[[h-cho-trong-phan-dien]]"]
 source:
   type: inference
   ref: "xuong-kiem (Opus medium) review-plan + check-continuity 27/10/2026, hang doi CLS; ghi lai boi phien dieu phoi"
@@ -25,7 +25,7 @@ last_updated: 2026-10-27
 
 ## Soát mạch bản nháp *(check-continuity)*
 
-**0 nặng, 5 vừa, 11 nhẹ.** `pov_leak_check` 5 thẻ exit 0; chữ cấm 0. Đã sửa trong [[ch06-chapter]] cùng ngày.
+**0 nặng, 5 vừa, 11 nhẹ.** `pov_leak_check` 5 thẻ exit 0; chữ cấm 0. Đã sửa trong [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-chapter|ch06-chapter]] cùng ngày.
 
 | # | Lỗi | Đã sửa |
 |---|---|---|

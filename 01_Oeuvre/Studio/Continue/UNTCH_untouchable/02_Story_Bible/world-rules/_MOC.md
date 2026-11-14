@@ -61,4 +61,4 @@ thứ đúng với mọi fic KHR thì nằm ở [[_KHR-MOC]]. **Đừng chép ca
 
 ✅ Ba hồ sơ đầu, theo thứ tự ưu tiên của [[qd-huong-arc-01]]:
 [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]] · [[hawks-takami-keigo]] · [[theodor-manz]].
-Danh sách còn thiếu và mức ưu tiên: [[_MOC|Characters/_MOC]].
+Danh sách còn thiếu và mức ưu tiên: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/_MOC|Characters/_MOC]].

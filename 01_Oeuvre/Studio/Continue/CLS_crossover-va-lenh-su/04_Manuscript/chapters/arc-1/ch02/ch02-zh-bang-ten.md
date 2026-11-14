@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: active
 aliases: ["bang ten tieng Trung ch02 CLS", "ten rieng ch02 zh CLS", "glossary zh ch02 CLS"]
-related: ["[[ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia-npc-ngoai-hinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "Ten Trung tu TextMap cn tren may Aurel va bang Other Languages cua HSR Wiki (tra 13/10/2026), ghi o Planarcadia-npc-ngoai-hinh. Hai cau mau cua Stelle: Aurel chon 13/10/2026."

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch03 arc 3 CLS", "bảng tên ch03 arc 3 CLS", "bang ten 第三章 面孔"]
-related: ["[[ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[ch03-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]", "[[Robin]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch03/ch03-chapter|ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[ch03-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]", "[[Robin]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch03-plan-a3 (TextMap cn 30071, 30073, 30076, 30077, 111590, 112052, 150907; wiki fandom Good Omen, Lullaby, Gentleness, Glass, Midnight) va bang ten ch01-ch02 arc 3. Da tra them TextMap cn 02/11: 贵宾卡 (5 dong), 弹珠机 (28), 垃圾桶王国 (11), 垃圾桶之王 (7), 医疗舱 (32), 小小哈努 (147), 夜总会 (2). Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."
