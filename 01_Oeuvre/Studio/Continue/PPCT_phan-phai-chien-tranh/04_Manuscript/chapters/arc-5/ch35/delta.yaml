@@ -1,0 +1,63 @@
+﻿# State delta — PPCT arc-5 ch35 (Ke san — POV Kiritsugu, nhan loi hen)
+# TRANG THAI: committed 24/09/2026 (Aurel: "dong y de xuat finalize-chapter Mode 2"). Snapshot 015-ch35.
+# AUREL 24/09/2026: (1) CO event kiritsugu-nhan-loi-hen · (2) CO nha-tho-fuyuki · (3) CO sola-ui-doi-lenh-chu-lay-duong-ve · (4) CO dong 📌 hai secret.
+# Moi dong co cau lam bang chung (nguyen van ch35-chapter.md, ban da sua theo review Mode 3).
+# Co 4 cho can Aurel quyet, danh dau AUREL (1)..(4).
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi.
+
+chapter: ch35
+status: committed
+committed_at: 2026-09-24
+proposed_at: 2026-09-24
+changes:
+
+  hooks: {}
+    # hook-to-caster-khac-che-to-saber: DAY — lan dau tu phia Kiritsugu: ke san chua kip lan theo thi con moi da toi truoc.
+    #   「他花了三天去找这个人，这个人只花了一个晚上，就找到了他的车。」 · 「做这只虫子的人，想的是同一件事。」 Giu `partially_paid`.
+    #   Chi them dong ch35 vao bang Tien do (van xuoi).
+
+  secrets: {}
+    # kirei-van-la-master: Kiritsugu VAN o `suspected_by` (canon) — khong doi. Chuong cho thay muc nghi dung canon:
+    #   「一个已经输掉的御主，没有理由在半夜一个人走下山去。」 → them dong 📌 ch35 (van xuoi, AUREL 4).
+    # archer-doi-master-sang-kirei: Kiritsugu VAN `unknown_to` — thay Kirei xuong doc toi ngay 10, KHONG biet di dau, khong biet Tokiomi chet.
+    #   Grep 时臣 · 远坂 · Archer · 令咒 = 0.
+    # kiritsugu-la-master-that: POV chinh la han — khong doi.
+
+  characters:
+    kiritsugu:
+      state: "Dem ngay 12, lau dai Einzbern: xem con bo cong Maiya go ve — 「没有找到咒文，也没有找到任何魔术的痕迹」, van phat tin hieu; 「不用。让它说。」 — dinh them mot may thu 「河对岸」, lan theo tin hieu truoc toi ngay 13. Nghi ke lam ra no nghi giong minh (camera CCD tren doi — canon). Xem bang ghi camera chan doc nha tho: chang vang ngay 9 to Lancer len xe nha tho di, khong quay lai; dem ngay 10 言峰绮礼 xuong doc mot minh — so Kirei la nguoi duy nhat 「能杀死卫宫切嗣」, khong ket luan, luu rieng doan bang. Sang ngay 13: camera cong ghi con chuon chuon mat do luc gan nua dem; kiem gam xe roi moi doc to giay; 「不用回。去就是回信。」 Quyet di mot minh; Maiya canh xa, 「带着。不要用。」; di qua Saber khong tra loi; hut mot dieu thuoc."
+      evidence: "「不用。让它说。」 · 「做这只虫子的人，想的是同一件事。」 · 「言峰绮礼。从这场战争开始的那一天起，他就知道，这是所有御主里最危险的一个。」 · 「他蹲下来看了看车底」 · 「不用回。去就是回信。」 · 「我们去，不是为了打。」"
+    maiya:
+      state: "Dem ngay 12: mang may thu tin hieu ve; nhan viec dat may thu thu hai. Sau khi con doi canh nha tho bi giet dem ngay 1, KHONG tha su ma vao nha tho nua — gan mot camera thuong o cot dien chan doc; bang ghi: to Lancer di chang vang ngay 9, linh muc xuong doc toi ngay 10. Sang ngay 13: bao to giay tren xe, khong cham vao. Nhan viec canh tu xa o buoi hen, mang sung, khong dung; tra loi Saber thay Kiritsugu 「他很快就回来」."
+      evidence: "「坡道下面那根电线杆上的摄像机，到现在还没有被人动过。」 · 「那辆车之后再没有回来过。」 · 「一张纸条，压在雨刷底下。我没有碰。」 · 「他很快就回来。」"
+    artoria:
+      state: "Sang ngay 13: hoi Kiritsugu di dau, de nghi di cung; khong duoc tra loi; goi theo 「切嗣！」. O lai lau dai."
+      evidence: "「切嗣，你要去哪里？如果需要，我可以同行。」 · 「切嗣从自己的从者身边走了过去，没有停下，也没有回答。」"
+
+  relationships: {}
+    # Khong doi. (Kiritsugu–Saber: khong tra loi — dung canon, khong phai thay doi.)
+
+  timeline:
+    story_day: 13
+    rows:
+      - "**Dem ngay 12 → sang ngay 13** *(viet tiep)* | Phia to Saber: Kiritsugu de con bo tiep tuc phat, dinh lan theo tin hieu toi ngay 13; bang ghi chan doc nha tho cho thay to Lancer da di (ngay 9) va linh muc xuong doc dem ngay 10. Sang: to giay hen tren xe; Kiritsugu quyet di mot minh, Maiya canh xa | ch35"
+    evidence: "「第十二天夜里，九点多。」 · 「第十三天早上。」"
+
+  arcs:
+    arc-5-ke-san-va-con-moi:
+      chapter_35: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch35? De xuat: CO — events/kiritsugu-nhan-loi-hen.md (theo mau event ch29–34)."
+    - "AUREL (2): locations/nha-tho-fuyuki — them 'Chi tiet au-specific (ch35): sau khi con doi cua Maiya bi giet dem ngay 1, mot CAMERA THUONG gan o cot dien chan doc, van chua bi dong toi ngay 12'? De xuat: CO."
+    - "AUREL (3): events/sola-ui-doi-lenh-chu-lay-duong-ve — them 'Hau qua sau (ch35): camera chan doc ghi canh xe nha tho di; Kiritsugu biet to Lancer da roi Fuyuki — KHONG biet gi ve lenh chu'? De xuat: CO."
+    - "AUREL (4): kirei-van-la-master — them dong 📌 ch35: Kiritsugu thay Kirei xuong doc toi ngay 10, nghi dung muc canon; known_by/suspected_by KHONG doi. archer-doi-master-sang-kirei — them dong 📌: Kiritsugu cam manh ghep (dem ngay 10) ma khong biet; van unknown_to. De xuat: CO."
+
+  bookkeeping:
+    - "ch35-chapter.md, metadata.yaml: status draft -> final; plan va 3 the canh giu `planned`"
+    - "kiritsugu, maiya, artoria: muc 'Trang thai hien tai — sau ch35'"
+    - "Timeline/master.md: mot dong dem ngay 12 -> sang ngay 13"
+    - "hook-to-caster-khac-che-to-saber: dong ch35 vao bang Tien do; status giu partially_paid"
+    - "arc-5-ke-san-va-con-moi: dong ch35 -> final; 'Ghi cho ch35' danh dau da dung; them 'Ghi cho ch36': Kiritsugu biet to Lancer da di + thay Kirei xuong doc dem ngay 10 (hai mon de doi); Kiritsugu di mot minh, Maiya canh xa co sung; ke hoach lan theo tin hieu toi ngay 13; Saber o lai"
+    - "PPCT-MOC: chapters ch35 (+ event neu AUREL 1 = co)"
+    - "Khong doi: secret frontmatter nao, question nao, relationship nao"

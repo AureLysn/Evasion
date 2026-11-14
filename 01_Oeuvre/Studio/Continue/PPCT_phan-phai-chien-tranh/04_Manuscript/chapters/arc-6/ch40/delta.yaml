@@ -1,0 +1,77 @@
+﻿# State delta — PPCT arc-6 ch40 (Gia — POV Tsuna, chuong 2 arc 6)
+# TRANG THAI: proposed 30/09/2026 — CHO Aurel duyet. Chua ghi gi vao note.
+# Moi dong co cau lam bang chung (nguyen van ch40-chapter.md).
+# GIA DINH: review S1 (「前天」 -> 「昨天」) se duoc sua truoc khi commit; delta khong trich cau do.
+# Cac cho can Aurel quyet danh dau AUREL (1)..(4).
+
+chapter: ch40
+status: committed
+committed_at: 2026-09-30
+proposed_at: 2026-09-30
+changes:
+
+  hooks:
+    hook-tsuna-nhin-saber-im-lang:
+      status: partially_paid
+      # AUREL (1): open -> partially_paid? Phan MOI: lan dau Tsuna noi ra vi sao o ch7 nhin Saber —
+      #   「那天晚上，它一出来，我就想去看Saber。」 · 「我也不知道为什么。只是觉得，它跟Saber……是认识的。」
+      #   Truc giac, KHONG chan danh. Tra han o tran Saber–Berserker (dem cuoi). De xuat: CO.
+      # Kem (sua tay): payoff.status unplanned -> planned, arc: arc-7 (dem cuoi) — review ch40 cards L5.
+    # hook-archer-tuyen-chien-rider: DAY (goc moi) — 「Rider的战车，没有了。」 · 「偏偏是在Archer找上门之前。」 Giu `open`. Them dong ch40.
+    # hook-can-dazai-de-thang-archer: CHAM — nguoi o nha tho bat dau di quan: 「大概，又是那个在教会里的人。」 Giu `open`. Them dong ch40.
+
+  secrets: {}
+    # Khong doi frontmatter. kirei-van-la-master · archer-doi-master-sang-kirei: Dazai/Tsuna VAN L3 khong ten —
+    #   「大概，又是那个在教会里的人。」 · 「只是大概。没有看见的东西，就只能叫猜。」 Them dong 📌 ch40 (van xuoi).
+    # Kariya / lenh chu: to Caster KHONG biet (0 chu 令咒 · 间桐 · 雁夜 trong than truyen).
+
+  characters:
+    tsuna:
+      state: "Toi ngay 15, can cu: khong yen, khong ly do (truc giac) → dat mot chuon chuon tren duong rung Einzbern vao thanh pho (duong, khong phai lau dai — giu loi hua ch36). Thay 'Rider' nhay tren mai nha be nguoi toc trang → 「不对」: Rider di bang chien xa (ch12), khong cuoi, khong Waver, mep ao co khoi den nhu kho cang (ch7). Doan: 爱莉斯菲尔小姐. Mat dau giua mai nha. Lan dau noi ra cai nhin ch7: khoi ay 'quen' Saber. Thay Saber tren mo to tu phia lau dai, chien xa THAT tren troi Shinto; TIN Saber duoi nham; tu xa: xe that quay dau lao vao Saber, cot sang (宝具), xe gay, bong lon om bong nho thoat. Biet: ke mang mat Rider khong phai Rider (khoi den). Khong noi voi ai — khong co ai de noi."
+      evidence: "「……没有。就是有点坐不住。」 · 「那是城堡。路又不是城堡的。」 · 「不对。」 · 「Rider不会这样走路。」 · 「仓库街那天晚上，他见过这种黑色。」 · 「……是爱莉斯菲尔小姐吗？」 · 「它跟Saber……是认识的。」 · 「那才是Rider。」 · 「她追错人了。」 · 「那抱走爱莉斯菲尔小姐的，不是Rider。」 · 「要告诉谁吗？」"
+    dazai:
+      state: "Toi ngay 15: de Tsuna dat chuon chuon (「我们纲吉的直觉，一向比我的推理值钱」). Noi: muon mat nguoi khac la de nguoi ta di tim chu cai mat → 'co nguoi muon ben Einzbern di duoi Rider' → ke khong muon bi thay → NGHIENG ve 'nguoi o nha tho' (L3 khong ten, tu ha 'chi la doan'). Khong khang dinh Saber duoi nham: 「看不见她有没有看见」. Biet va noi: 「这个我们知道。别人不知道。」 Hook moi: Rider mat chien xa truoc khi Archer toi."
+      evidence: "「借一张别人的脸，是为了让别人去找那张脸的主人。」 · 「有人想让爱因兹贝伦那边的人，去追Rider。」 · 「大概，又是那个在教会里的人。」 · 「只是大概。没有看见的东西，就只能叫猜。」 · 「那可不一定。」 · 「这个我们知道。」 · 「别人不知道。」 · 「偏偏是在Archer找上门之前。」"
+    berserker:
+      state: "Toi ngay 15: mang hinh Rider (than luc luong, toc, ao choang), nhay tren mai nha o ria thanh pho, be mot nguoi toc trang; mot soi khoi den ro ra o mep ao (lua chon cua fic). Chuon chuon mat dau truoc khi no dung. (Tac gia: giao Irisviel cho Kirei — KHONG len trang.)"
+      evidence: "「一个人影从一处屋顶跃到另一处屋顶」 · 「他怀里抱着一个人」 · 「斗篷的边缘带出了一缕东西…黑色的」"
+    irisviel:
+      state: "Toi ngay 15: bi be di tren mai nha, bat dong (qua ong kinh to Caster — chi thay toc trang). Bi bat. Noi den: ngoai trang."
+      evidence: "「那个人垂着手，一动不动，长长的头发从他的臂弯里垂下去，在画面里白得发亮。」"
+    artoria:
+      state: "Toi ngay 15: phong mo to tu phia lau dai ra thanh pho, duoi chien xa that cua Rider qua Shinto → quoc lo → duong nui; chien xa quay dau lao vao co; co tung bao cu (cot sang), pha chien xa. (Canon: co da thay tren xe khong co Irisviel TRUOC khi chem — to Caster khong thay.)"
+      evidence: "「一辆摩托车从林子深处冲了出来」 · 「战车在半空中掉过头来，朝着地上那一点车灯，直直地冲了下去。」 · 「山林里升起了一道光」"
+    iskandar:
+      state: "Toi ngay 15: chien xa bay tren troi Shinto (sam, hai con bo), bi Saber duoi vao duong nui; quay dau lao vao Saber; chien xa bi pha. Om Waver nhay ra, bien vao rung. MAT CHIEN XA. Khong biet mat minh bi muon (tac gia)."
+      evidence: "「一辆战车正从新都的上空驰过，拉车的是两头雄壮的公牛」 · 「战车从半空中坠下去，碎成一团翻滚的火光。」 · 「一个巨大的人影从里面跃了出来，胳膊底下夹着一个小小的人影」"
+    waver:
+      state: "Toi ngay 15: tren chien xa cung Rider; khi xe bi pha, duoc Rider kep duoi tay mang di. Ket cuc: KHONG noi (q-ket-cuc-rider-waver)."
+      evidence: "「车上站着两个人影，一个高大，一个瘦小。」 · 「胳膊底下夹着一个小小的人影」"
+
+  relationships: {}
+
+  timeline:
+    story_day: 15
+    rows:
+      - "**Ngay 15**, toi *(viet tiep)* | Can cu (POV Tsuna): chuon chuon tren duong rung Einzbern (truc giac cua Tsuna). 'Rider' nhay tren mai nha be nguoi toc trang — Tsuna: gia (khong chien xa, khong cuoi, khong Waver, khoi den ch7); doan la Irisviel; mat dau. Dazai: L3, nghieng 'nguoi o nha tho'. Saber mo to tu phia lau dai duoi chien xa THAT qua Shinto → quoc lo → duong nui; xe quay dau lao vao Saber; bao cu cua Saber pha chien xa; Rider om Waver thoat. To Caster khong noi voi ai | ch40"
+    evidence: "「第十五天晚上。」"
+
+  arcs:
+    arc-6-co-xe-gia:
+      chapter_40: final
+
+  new_entities:
+    - "AUREL (2): note EVENT cho ch40? De xuat: CO, HAI note — events/to-caster-thay-xe-gia.md (phia to Caster) va events/saber-pha-gordius-wheel.md (tram canon e1). Khac: gop mot note."
+    - "AUREL (3): review #3 — 'rung Einzbern phia tay', 'qua song' da len trang. Ghi vao locations/lau-dai-einzbern + can-cu-to-caster nhu fact tu ch40? De xuat: CO, ghi 'fic_explicit tu ch40, khong co nguon canon'."
+    - "AUREL (4): review S3 — doi 「……太宰。」 -> 「太宰！」? (S1 「前天」->「昨天」 gia dinh da dong y). Tra loi cung luc voi delta."
+
+  bookkeeping:
+    - "ch40-chapter.md, metadata.yaml: status draft -> final; plan va 4 the canh giu `planned`"
+    - "tsuna, dazai, berserker, irisviel, artoria, iskandar, waver: 'Trang thai hien tai — sau ch40' (van xuoi)"
+    - "hook-tsuna-nhin-saber-im-lang: bang Tien do dong ch40 + (AUREL 1) status/payoff"
+    - "hook-archer-tuyen-chien-rider, hook-can-dazai-de-thang-archer: dong ch40 vao bang Tien do; status giu"
+    - "secrets/kirei-van-la-master, archer-doi-master-sang-kirei: dong 📌 ch40 — L3 giu"
+    - "Timeline/master.md: mot dong toi ngay 15"
+    - "arc-6-co-xe-gia: dong ch40 -> final"
+    - "PPCT-MOC: chapters ch40"
+    - "Khong doi: question nao, relationship nao"

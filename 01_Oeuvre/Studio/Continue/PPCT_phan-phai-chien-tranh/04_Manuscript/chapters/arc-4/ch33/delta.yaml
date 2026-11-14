@@ -1,0 +1,75 @@
+﻿# State delta — PPCT arc-4 ch33 (Archer co chu moi — khep arc 4)
+# TRANG THAI: committed 24/09/2026 (Aurel: "finalize-chapter Mode 2, dong y de xuat"). Snapshot 013-ch33.
+# AUREL 24/09/2026: (1) CO — bo dazai+tsuna khoi unknown_to, de trong reveal_planned · (2) CO — khep arc 4 · (3) CO event to-caster-nhan-ra-archer-doi-chu · (4) CO dong ch33 o dinh-thu-tosaka.
+# Moi dong co cau lam bang chung (nguyen van ch33-chapter.md, ban da sua theo review Mode 3).
+# Co 4 cho can Aurel quyet, danh dau AUREL (1)..(4).
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi.
+
+chapter: ch33
+status: committed
+committed_at: 2026-09-24
+proposed_at: 2026-09-24
+changes:
+
+  hooks: {}
+    # hook-can-dazai-de-thang-archer: DAY — Archer tu noi 「下一次，不会再有人把本王叫回去了。」; Tsuna 「他不会停手」; Dazai 「答案也没有变」. Giu `open`.
+    # hook-archer-tuyen-chien-rider: DAY NHE — 「先是那个征服王，本王说过要亲手取他的性命。」 Giu `open`.
+    # hook-vi-sao-tsuna-khong-phai-nguoi: CHAM — 「本王的东西」 · 「你是本王宝库里的哪一类东西」 · 「再来把你这个从者收回宝库」; KHONG noi loai. Giu `open`.
+    # Ca ba: chi them dong ch33 vao bang Tien do (van xuoi, xem bookkeeping).
+
+  secrets:
+    archer-doi-master-sang-kirei:
+      # Lo theo plan (reveal_planned ch33), muc L2 — plan C8/C9.
+      # Dazai: 「时臣大概已经不在了。」 · 「一骑没了御主的从者，第一件事应该是省着用魔力……好像不管用掉多少魔力，都有人会替他付账一样。」 · 「是谁？」「不知道。」
+      # Tsuna: 「所以，有人在给他魔力。」 · 「其中一骑已经换了主人。」
+      # Muc: 时臣 khong con (chet hay mat tich chua ro); Archer co nguoi khac cap ma luc; KHONG biet la ai. KHONG vao known_by.
+      suspected_by_add: ["character.PPCT.dazai", "character.PPCT.tsuna"]
+      # AUREL (1): cung luc go dazai + tsuna khoi `unknown_to` (tool khong lam — sua tay) va de trong `reveal_planned`
+      # (su that day du — Kirei — chua co ke hoach lo). De xuat: CO.
+    # kirei-van-la-master: KHONG doi. Dazai nhac ch17 dung muc cu 「Archer那一边，本来就不止一个人。那时候是猜，到今天也还是猜。」 —
+    #   khong noi toi nha tho, khong noi Master moi la Master cua Assassin (review #3 da ha xuong).
+    # kiritsugu-la-master-that: khong cham (grep tay 0).
+
+  characters:
+    dazai:
+      state: "Chang vang ngay 11: o can cu, nhin qua kinh ap trong cua Tsuna khi Archer chan Tsuna giua pho; chi noi voi Tsuna 「别动。让他说。」, khong noi voi Archer. Toi: nhac lai cau cua Archer; noi da biet tu lau Master cua Archer la 「远坂时臣」, nha tren doi dong nam (dua vao ch9); giai thich vi sao chua dat bo o do (Archer phat hien ca Tsuna dang an — ch6). Sang ngay 12: dua tay cam cho Tsuna, cho chuon chuon may toi 远坂宅. Trua: doan 「时臣大概已经不在了」, Archer co nguoi cap ma luc; khong biet la ai; moi nghi ch17 giu nguyen muc."
+      evidence: "「别动。让他说。」 · 「远坂时臣，Archer的御主。他家就在那片山坡上，这件事我很早就知道了。」 · 「既然已经被看见了，再藏着也没什么意思。」 · 「时臣大概已经不在了。」 · 「不知道。」"
+    tsuna:
+      state: "Chang vang ngay 11: di mua do an toi mot minh; truc giac bao dong; Archer chan o pho (khong giap), goi Tsuna la do cua han, noi truoc het la Rider, 'lan sau khong ai goi ta ve'. Tsuna khong danh, dap 「我不是你的东西！」 · 「太宰不会让你拿走的！」. Toi: nho ra cai ten 「时臣」 o ch9. Sang ngay 12: lai chuon chuon toi 远坂宅, thay den ban sang giua ban ngay, hong ngoai khong ai am; lai ca chuyen khong dam day dien. Trua: cung Dazai toi ket luan co nguoi cap ma luc cho Archer; biet lan sau Archer se khong dung tay. Dem nam Servant — mot da doi chu."
+      evidence: "「是直觉先一步察觉到的。」 · 「我不是你的东西！」 · 「……时臣。」 · 「镜头里看得到的地方，没有一个热的影子。」 · 「所以，有人在给他魔力。」 · 「其中一骑已经换了主人。」"
+    gilgamesh:
+      state: "Chang vang ngay 11 (sau khe uoc voi Kirei): tu y hien hinh ra pho, khong giap; chan Tsuna truoc mot tiem hoa. Goi Tsuna la 「本王的东西」, 「你这个从者」; thu tu: Rider truoc, roi moi 'thu hoi' Tsuna. Goi Dazai 「那个小偷」. Noi voi Tsuna: 「下一次，不会再有人把本王叫回去了。」 Roi lan vao dong nguoi. KHONG nhac 时臣 hay Master moi."
+      evidence: "「他没有穿那身金色的铠甲」 · 「本王的东西，就在这种地方提着葱走来走去吗？」 · 「先是那个征服王……再来把你这个从者收回宝库。」 · 「对了，Caster。下一次，不会再有人把本王叫回去了。」"
+
+  relationships: {}
+    # dazai--tsuna: khong doi muc/xung ho. Mot dong 'Dien bien theo arc' (van xuoi, xem bookkeeping) — Dazai dua tay cam cho Tsuna (dao ch4).
+
+  timeline:
+    story_day: 12
+    rows:
+      - "**Ngay 11**, chang vang *(viet tiep)* | Archer tu y hien hinh ra pho, chan Tsuna: Rider truoc, roi toi Tsuna; 'lan sau khong ai goi ta ve'. Toi: to Caster nho lai lenh chu goi ve o ch9 va ten 时臣 | ch33"
+      - "**Ngay 12**, sang → trua *(viet tiep)* | Chuon chuon may toi 远坂宅: den ban thu phong sang giua ban ngay, hong ngoai khong ai am. Dazai doan 时臣 'khong con', Archer co nguoi khac cap ma luc — khong biet la ai. **Khep arc 4** | ch33"
+    evidence: "「第十一天傍晚。」 · 「第十二天早上。」 · 「蜻蜓飞回据点的时候，太阳已经升到了头顶。」"
+
+  arcs:
+    arc-4-ba-dao-lenh-chu:
+      chapter_33: final
+      status: final
+      # AUREL (2): KHEP arc 4 — arc status active -> final? Ca 5 chuong (ch29–33) se final. De xuat: CO (giong arc 2 o ch23, arc 3 o ch28).
+
+  new_entities:
+    - "AUREL (3): note EVENT cho ch33? De xuat: CO — events/to-caster-nhan-ra-archer-doi-chu.md (theo mau event ch29–32): Archer chan Tsuna + den thu phong + suy luan L2."
+    - "AUREL (4): locations/dinh-thu-tosaka — them 'Ngoai that (ch33): cong sat den, bai co cat tia; thu phong co rem, ban ngay nhin duoc qua khe rem; ngay 12 den ban van sang, hong ngoai khong ai am'? De xuat: CO."
+
+  bookkeeping:
+    - "ch33-chapter.md, metadata.yaml: status draft -> final; plan va 3 the canh giu `planned`"
+    - "dazai, tsuna, gilgamesh: muc 'Trang thai hien tai — sau ch33'. dazai: ghi to Caster biet ten 远坂时臣 + huong nha tu ch9 (plan C5)"
+    - "archer-doi-master-sang-kirei: bang 'Ai biet' — dazai, tsuna -> 'nghi (L2), ch33'; unknown_to bo hai nguoi; reveal_planned de trong (neu AUREL 1 = co); them dong 📌 ch33"
+    - "kirei-van-la-master: them dong 📌 ch33 — khong doi known_by/suspected_by"
+    - "Timeline/master.md: hai dong ngay 11 chang vang, ngay 12"
+    - "hook-can-dazai-de-thang-archer · hook-archer-tuyen-chien-rider · hook-vi-sao-tsuna-khong-phai-nguoi: dong ch33 vao bang Tien do; status giu open"
+    - "relationships/dazai--tsuna: dong ch33 o 'Dien bien theo arc'"
+    - "arc-4-ba-dao-lenh-chu: dong ch33 -> final; 'Ghi cho ch32–33' danh dau da dung; ghi 'Ghi cho arc sau': to Caster nghi (L2), khong ten; Kirei giu Azoth剑; truc giac ch30 cua Tsuna ve lenh chu Sola-Ui van chua duoc tra loi"
+    - "fact-cong-nghe-vongola-trong-chien-tranh: KHONG them co che (review #1 — da cat 'khong dung ma luc')"
+    - "PPCT-MOC: chapters ch33, arcs (arc 4 khep neu AUREL 2 = co), events (+1 neu AUREL 3 = co)"
+    - "Khong doi: question nao, relationship nao ngoai mot dong lich su"

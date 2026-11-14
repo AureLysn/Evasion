@@ -1,0 +1,59 @@
+﻿# PPCT ch38 — số đo bản nháp tiếng Trung, 27/09/2026
+# Nguồn: style_metrics.py --json (PR #64). File ghi tay — style_metrics.py --write TỪ CHỐI ghi đè (exit 2), đúng thiết kế.
+chapter: 38
+file: ch38-chapter.md
+language: zh
+mode: suy_luan_pov_tsuna_khep_arc
+pov: [tsuna]
+status: final   # finalize-chapter 27/09/2026 — delta committed (write-chapter · review · Mode 3 sua #1–#5, #6 chap nhan)
+measured_at: 2026-09-27
+measured_by: style_metrics.py --json (PR #64)
+chapter_targets:  # theo ch38-plan.md — quy uoc dat so tu ch38 (arc 5, review ch37 #8)
+  han_chars_floor: 1500
+  han_chars_plan: 2050
+  dialogue_ratio: "0.30-0.40 (quy uoc tu ch38)"
+  han_per_paragraph_mean: "35-55 — tendency"
+  sentence_han_median: "17-20 — tendency"
+  min_dialogue_turns: {"01": 10, "02": 8, "03": 4, "04": 2}
+  target_terms: {"01": 4, "02": 2, "03": 1, "04": 0}
+body:
+  han_chars: 1529                  # do lai sau Mode 3 · tren san 1.500; duoi du kien 2.050 (~-25 %) — Aurel chap nhan (27/09, review #6)
+  dialogue_ratio: 0.385            # DAT quy uoc 0,30–0,40
+  han_per_paragraph_mean: 29.4     # tendency — duoi 35
+  paragraphs_ge_100_han_ratio: 0.0
+  sentences_ge_50_han_ratio: 0.01
+  sentence_han_median: 13.0          # tendency — duoi 17
+  sentences_le_4_han_per_1000: 1.3
+scene_han: {"01": 593, "02": 396, "03": 398, "04": 142}           # the canh: 700 · 550 · 550 · 250
+scene_dialogue_ratio: {"01": 0.39, "02": 0.6, "03": 0.23, "04": 0.13}
+dialogue_turns_counted: {"01": 16, "02": 13, "03": 11, "04": 3}
+terms_counted: {"01": 12, "02": 9, "03": 1, "04": 0}
+per_1000_han:
+  question_mark: 7.19
+  exclamation: 0.65                # DUOI san 1 — Aurel chap nhan (review #6)
+  ellipsis: 2.62
+  em_dash_pair: 0.0
+  terms: 14.32                        # cao vi chuong NOI VE lenh chu (令咒 ×9)
+term_hits: {"御主": 6, "魔力": 4, "令咒": 9, "从者": 3}
+eye_motif: 1
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争38"
+ai_tells_check: {exit: 0, hard: [], warnings: []}
+manual_grep:
+  terms: [绮礼, 言峰, 璃正, 时臣, 新的御主, Azoth, 间桐, 雁夜, Berserker, 第十天夜里, 人间失格, 前世, 梦, 白兰, 十年, 玛雷, 指环]
+  hits_in_body: 0
+  note: "死 ×1 = cau trich ch17 「Assassin死掉的那出戏」. Ten Kirei, Risei, Kariya: 0. Khong ai len hinh o chan doc."
+first_draft:
+  han_chars: 1422
+  dialogue_ratio: 0.359
+  exclamation: 0.0
+  note: "Ban dau DUOI san 1.500 va 0 dau ！. Sua MOT luot trong beat co san: canh 02 Tsuna hoi 「监督者就不可能吗？」 + ly do Dazai nghieng (「要Archer的魔力做什么呢？」 — trung lap, khong noi Risei vo/co can); canh 03 Dazai dan 「石阶一级都别上」, Tsuna 「上面有东西！」. Khong them beat. Dung o day: ！ 0,65 — mot tieng keu nua la nhoi."
+pov_leak_check:
+  valid: true
+  exit: {"01": 1, "02": 1, "03": 1, "04": 1}   # 1 = khong kiem duoc dazai-mang-ky-uc-kiep-truoc -> grep tay
+  findings: {"01": 0, "02": 0, "03": 0, "04": 0}
+  uncheckable: [dazai-mang-ky-uc-kiep-truoc]

@@ -1,0 +1,55 @@
+﻿# State delta — PPCT arc-3 ch26 (梦)
+# TRANG THAI: committed 22/09/2026 (Aurel dong y de xuat).
+# Moi dong co cau lam bang chung (nguyen van ch26-chapter.md, ban da sua theo review Mode 3).
+# Co 3 cho can Aurel quyet, danh dau AUREL (1)..(3).
+# AUREL 22/09/2026: "dong y de xuat" — (1) CO event dazai-ke-giac-mo-buoi-tap · (2) CO ghi du kien bo lau dai vao fact · (3) KHONG sua muc the gioi A cua tsuna.md.
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi.
+
+chapter: ch26
+status: committed
+committed_at: 2026-09-22
+proposed_at: 2026-09-22
+changes:
+
+  hooks:
+    hook-dazai-mo-tiep-kiep-truoc:
+      # Day: giac mo len trang lan hai (sau ch18) — Dazai tu ke giac mo dem ngay 5. Status giu `partially_paid` — KHONG khai.
+      # 「前天晚上，我是做了梦的。」 · 「我是从你的眼睛看出去的」
+
+  secrets: {}
+    # Khong secret nao doi. dazai-mang-ky-uc-kiep-truoc: chi noi toi giac mo giua hai nguoi da cung biet (ch18) — khong mo rong.
+
+  characters:
+    dazai:
+      state: "Toi ngay 7: giu lai loi hua cua Sola-Ui nhu mot thu de danh (「那可是这两天听到的最值钱的一句话」); mat loi the ma khong tiec — 「不知道可比知道有意思多了」. Tu ke giac mo dem ngay 5 — tra cau Tsuna hoi o ch23: mot buoi tap o Vongola, xem qua mat Tsuna. Quyet dinh: 「明天晚上，我们去现场看。」 — khong noi se lam gi."
+      evidence: "「说出口的那一刻一定是真的；至于能不能一直真下去，就是另一回事了。」 · 「在别人的记忆里，我连嘴都张不开。」 · 「所以今天早上听见那一声的时候，我倒是一点也不意外。」"
+    tsuna:
+      state: "Toi ngay 7: 「我猜对了，可是一点都高兴不起来。」 Nau bua toi (味噌汤, 煎豆腐). Nhan ra ky uc Dazai mo — buoi tap o the gioi A, cau 「等他的手好了再打。」; ngượng, nho them chi tiet nam com. Hoi Dazai co con nghi toi ba dao lenh chu khong."
+      evidence: "「“‘等他的手好了再打。’”纲吉接了下去」 · 「……那么丢人的事，你居然也梦得到。」 · 「你是不是还在想那三道令咒？」"
+
+  relationships:
+    dazai--tsuna:
+      history_add: "ch26 — Dazai tu ke giac mo da lang o ch23, cho 'mot buoi toi an no'; ky uc la cua Tsuna, Dazai xem qua mat cau. Tsuna: 「结果还有一个人替他记着」."
+
+  timeline:
+    story_day: 7
+    row: "Ngay 7, toi *(viet tiep)* | To Caster ke lai chuyen nghe duoc luc rang sang (loi hua cua Sola-Ui, tieng thuong gay); bua toi; Dazai ke giac mo dem ngay 5 (buoi tap o Vongola, ky uc cua Tsuna); Dazai: dem mai di xem tan noi | ch26"
+    evidence: "「窗外的天已经完全黑了」 · 「明天晚上，我们去现场看。」"
+
+  arcs:
+    arc-3-hai-cay-thuong:
+      chapter_26: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch26. De xuat: CO — events/dazai-ke-giac-mo-buoi-tap.md, ghi ca KY UC tu dung (buoi tap o the gioi A, 「等他的手好了再打」) de lan sau khong mau thuan. Ky uc nay la 'ban nhanh aurel-main', khong phai nguyen tac."
+    - "AUREL (2): DU KIEN MOI tu Mode 3 #2 — 「城堡那边的虫子只看得见大门」: con bo o lau dai Einzbern chi nhin thay CONG. De xuat: ghi mot dong vao [[fact-cong-nghe-vongola-trong-chien-tranh]] muc gioi han (nguon: ch26 viet tiep, khong phai nguyen tac)."
+    - "AUREL (3): cap nhat tsuna.md muc 'Giai doan the gioi A' bang ky uc moi? De xuat: KHONG — chi link toi event note; tsuna.md muc do tom tu nguyen tac/tien truyen, tron ky uc tu dung vao de lan."
+
+  bookkeeping:
+    - "ch26-chapter.md, metadata.yaml: status draft -> final; plan va 4 the canh giu `planned`"
+    - "hook-dazai-mo-tiep-kiep-truoc: bang Tien do them ch26 (day)"
+    - "dazai.md, tsuna.md: 'Trang thai hien tai — sau ch26', day ch24 xuong 'Truoc do'"
+    - "relationships/dazai--tsuna.md: them dong ch26"
+    - "Timeline/master.md: them dong ngay 7 toi"
+    - "arc-3-hai-cay-thuong: dong ch26 -> final; ghi cho ch27 (to Caster co mat; Dazai da nghe loi hua); PPCT-MOC chapters + events"
+    - "Khong doi: secrets, to Lancer, Saber, Kiritsugu (khong len trang)"

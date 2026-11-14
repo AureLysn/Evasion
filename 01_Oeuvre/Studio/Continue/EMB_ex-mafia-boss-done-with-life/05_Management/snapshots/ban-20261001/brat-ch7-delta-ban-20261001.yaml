@@ -1,0 +1,132 @@
+﻿# State delta — EMB / arc Brat / Ch7 (POV Tsuna, mot khoi ngan POV Genichi o 7.5)
+# TRANG THAI: proposed — CHUA commit.
+#
+# ⚠️ Bai hoc tu delta Ch1-Ch6, da ap dung:
+#   1. KHONG dung khoi '>' — parser cat van xuoi thanh key gia.
+#   2. KHONG khai 'status' cho hook khong doi.
+#   3. state_apply KHONG ho tro 'unknown_to_remove'.
+#   4. 🔴 L37: resolver uu tien ALIAS hon TEN FILE. Da kiem tung key bang ls.
+#   5. 🔴 MOT viec DA LAM TAY khi xu check-continuity H3, KHONG khai lai o day:
+#      dien 'reveal_planned' vao secrets/tsuna-am-tinh-tren-giay.md.
+#      Nhung viec chuyen genichi suspected_by -> known_by thi CHUA lam — khai o duoi.
+
+chapter: brat-ch7
+status: committed
+committed_at: 2026-09-20
+project: EMB
+branch: aurel-main
+
+changes:
+
+  # ================================================================ BI MAT
+  secrets:
+    tsuna-am-tinh-tren-giay:
+      known_by_add: ["character.EMB.genichi"]
+      evidence: "Sawada-sama. The certificate I signed in November... Is it true? / No, said Musashi. It is not true."
+      aurel_A: "🔴 [[musashi]] noi thang, va noi nhu MOT QUYET DINH CUA NHA chu khong phai mot su tu te. Ly do dung luc: tuyen 'doi cau lon' vua hong HAI LAN trong mot tuan."
+      aurel_B: "⚠️ state_apply KHONG go duoc suspected_by. Genichi dang nam o do va can go bang tay sau khi ap — neu khong thi anh ta vua 'nghi' vua 'biet' cung luc."
+      aurel_C: "🔵 Bi mat VAN SONG, va do la co y: ong KHONG gach to giay. To chung nhan van la mot ghi chep dung ve nhung gi may moc cua ong do duoc, nen no van che duoc."
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    tsuna:
+      state_add: "🔴 Bi mot dac vu Vongola phuc kich tren duong ven bien tren Kawaba, 19:11 toi thu Nam. TU SONG SOT, khong dung Sky, chi dung Cloud mot lan vao KHOANG CACH chu khong vao nguoi. Bi rach canh tay TRAI doc theo mat ngoai, muoi mot mui khau, SEO VINH VIEN. 🔴 Va lan dau tien ke tu nam ba tuoi, cau CHU DONG HA BUC TUONG May xuong — vi cau khong tu lo duoc, va vi khong ha thi khong ai tim thay cau. Ha xong thi nghe duoc bond cua ca nha, va nhan ra minh da khong nghe suot bon nam."
+      evidence: "He put it down. / Because I could not do it by myself. / Every one of them was there, and they had been there the whole time, and the wall had been sitting on top of them like a hand over a radio."
+      aurel_D: "🔴 Day la bac 4 that su cua arc, va no KHONG phai 'duoc cuu' — `forbid` #2b nguyen ven. Cau song sot mot minh. Viec ha tuong xuong la MOT LOI MOI do chinh cau phat ra, va Kyouya toi SAU ba tieng."
+      aurel_E: "Va cau tra loi cau hoi cua Ch5 ('what was I for') bang cach nhan ra no la CAU HOI SAI: no gia dinh cau la ben so huu. 'What if they have me.'"
+
+    kyouya:
+      state_add: "🔴 Dap xe BA MUOI TAM cay so trong dem, khong den, va tim ra Tsuna luc 22:09. Hoi 'WHERE' truoc khi hoi cau co sao khong. Nhan mon no tu Ch5 va noi thang rang cau ta khong biet viec dung im lam cau ta huu ich hay thanh do dac. 🔴 Va roi cau ta QUYET DINH doi tat ca: hom sau dung o cong truong luc 7:20 voi mot danh sach. Thu Ba co muoi mot dua; cuoi thang Hai co ba muoi mot dua va mot ban phan cong."
+      evidence: "Where. / I have not been able to decide whether that makes me useful or makes me furniture! / This does not happen again. Not to you, and not in my town."
+      aurel_F: "🔴 Day la NGUON GOC cua Ban Ky luat Namimori trong nhanh nay, va no CO NGUYEN NHAN. Xem emb-chot-nguyen-to-di-san."
+
+    genichi:
+      state_add: "🔴 Khau muoi mot mui cho Tsuna luc 00:20. Va sau do [[musashi]] NOI CHO ONG BIET Lua la gi — dinh nghia bay he, va noi thang rang to chung nhan thang Muoi Mot ONG KY la SAI, va ba da biet la sai khi nho ong kham. Ong ghi mot dong moi vao so den, co ngay thang. 🔴 Va ong KHONG GACH to chung nhan, vi mot cuon so danh cho nhung dieu chua hieu thi hong ngay khi bat dau xoa nhung thu minh da sai."
+      evidence: "I knew it was not true when I asked you to examine him. / He did not cross out the November certificate. / Then I will keep watching that one."
+      aurel_G: "⚠️ Ong khong con la nguoi ngoai cam mot cuon so. so-cua-thay-thuoc cua ra #1 da mo: nha Sawada biet ong ghi, va da quyet."
+      aurel_H: "🔵 Va ong tu chon mot thu de theo doi tiep, thu KHONG nam trong bay tu cua Musashi: 'he checked his own pulse before he looked at his own arm'."
+
+    musashi:
+      state_add: "Quyet dinh pha tuyen 'doi cau lon' va noi cho [[genichi]] biet, vi tuyen ay vua hong hai lan trong mot tuan. Thua nhan thang rang ba da co y de ong ky mot to giay ba biet la sai. Va mua xuan nam do ba DOI CHIEU LAI HOP DONG de xem minh co nghia vu ngan cuoc san khong."
+      evidence: "You may be angry about that. I would be. But you will have to be angry after I have told you the words. / There is nothing about it in the contract. Musashi checked, at some point that spring."
+      aurel_I: "🔵 Cau 'That one I do not know either, and I have had seven years and the advantage of being in the room' GIU tsuna-tai-sinh song: ba khong biet."
+
+    indra:
+      state_add: "🔴 Vang mat CHIN NGAY tu thu Bay, noi la di Kyoto. Ba co di Kyoto that, va co o dung cho ba noi. Ve vao thu Nam, an mot luong thuc an Ayame goi la 'structural', ngu muoi bon tieng. Khong ai trong nha hoi mot cau nao. 🔴 Va tu mua xuan do tro di ba KHONG BAO GIO TRE nua voi bat cu viec gi lien quan toi nguoi trong nha — khong mot lan, khong lech bon phut."
+      evidence: "Nobody in that family ever asked her anything about it, then or afterwards. / from that spring onward she was never late again for anything involving anybody in that house."
+      aurel_J: "⚠️ Chuong KHONG noi ba giet hang. No noi chin ngay, va mot thoi quen muoi mot nam bi bo. Giu nguyen muc do do — emb-chot-nguyen-to-di-san cam dung canh cuoc san."
+
+    kawahira:
+      state_add: "Lap mot so no ba muc va thu du ba. Con trai Nono: bon thang 'hai centimet' — do vat bi dich cho, khong mat gi, khong bao cao duoc. Iemitsu: moi loi so sach cu trong van phong bat dau DUNG LAI, do khong ai ca. Nono: DUNG MOT mon, DUNG MOT lan, tren ban mot sang thu Ba thang Ba, va khong bao gio nua. Va Chu Nhat thang Hai ong ngoi engawa nha Sawada uong tra va than phien ve gia muc."
+      evidence: "certain small things began to be two centimetres to the right / the only thing still wrong in the External Advisor's office was the External Advisor / an unremarkable man in a knitted hat sat on the engawa"
+      aurel_K: "🔴 SUA 20/09 theo Aurel, hai lan. 'Toi lien doi' KHONG phai ong thay minh co toi, va cung khong chi la ong do toi cho nguoi khac — cai sai la dung CAM XUC lam thang do. Ong khong bao gio dung thang ay. Xem emb-chot-nguyen-to-di-san."
+
+    ayame:
+      state_add: "Lay loi khai cua Tsuna trong luc Genichi khau: gio, dia diem, huong, mo ta, trinh tu, doc lai hai lan. Hoi ca ve viec tieng Anh cua han co TOT khong va ghi cau tra loi. Va tuyen bo voi ca phong rang nha nay gio da co HAI trong mot tuan, va ba la nguoi dau tien."
+      evidence: "announced to the room that this house had now had two in one week, and that she had been first!"
+
+  # ================================================================ QUAN HE
+  relationships:
+
+    tsuna--kyouya:
+      state_add: "🔴 Mon no tu Ch5 da tra, tren mot con duong toi, bang mot cau Tsuna biet la xuc pham va van phai noi. Kyouya noi ra thu cau ta giau bon ngay: cau ta khong biet viec dung im lam cau ta huu ich hay thanh do dac. Tsuna dua cho cau ta mot DINH NGHIA thay vi mot loi cam on. Va cau ta noi rang viec ha tuong xuong la MOT LOI MOI, nen viec cau ta toi la XONG — khong ai phai ai on ai."
+      evidence: "taking it down is a request, and I came. So it is done. That part is over."
+      aurel_L: "🔵 Day la quan he doi chieu duy nhat trong arc noi Tsuna KHONG o the be tren, va no dat nen cho toan bo tuyen Ban Ky luat."
+
+    genichi--musashi:
+      state_add: "🔴 Doi han. Ba noi cho ong biet Lua la gi, thua nhan da dung ong, va noi thang rang ong co quyen gian — nhung phai gian SAU. Ong mang cuon so ra, va ba ghi vao no. Ong khong con la nguoi ngoai."
+      evidence: "Bring the book, Sugita-sensei. I am not going to take it away from you and I am not going to ask to read it. I am going to fill it in."
+
+    genichi--tsuna:
+      state_add: "Khau muoi mot mui, va nhan ra dua be nam im theo kieu mot nguoi DA TUNG duoc khau. Va ong tu chon mot thu de theo doi tiep, thu khong nam trong bay tu cua Musashi."
+      evidence: "he checked his own pulse before he looked at his own arm. That is not in any of your eight words, is it."
+
+    tsuna--kawahira:
+      state_add: "Ong lam ba viec cho cau ma cau khong xin, va cau biet trong mot tuan. Va Chu Nhat thang Hai ong van sang uong tra va than phien ve gia muc. Cau khong ngan duoc, va ho deu biet the."
+      evidence: "an unremarkable man in a knitted hat sat on the engawa of the Sawada house with a cup of tea he had been given without asking"
+
+  # ================================================================ HOOK
+  hooks:
+
+    so-cua-thay-thuoc:
+      state_add: "🔴 CUA RA #1 DA MO. Nha Sawada khong nhung biet ong ghi ma con GHI VAO. So den gio co: bay dinh nghia, mot dong moi noi vao hai so do thang Muoi Hai, va to chung nhan thang Muoi Mot VAN CON, khong bi gach. Cua ra #3 (so thanh bang chung cuu nguoi) VAN MO va gio day hon mot trang."
+      evidence: "He did not cross out the November certificate."
+
+    hook-iemitsu-tra-gia:
+      state_add: "🔴 GIEO, khong tra. Vi tri cua ong suyt giet con ong, va ong KHONG CO MAT, khong mot dong thoai. Va tu thang Hai moi loi so sach cu trong van phong ong bat dau dung lai do khong ai ca, cho toi khi thu duy nhat con sai trong van phong Co van Ngoai vu la chinh ong."
+      evidence: "the only thing still wrong in the External Advisor's office was the External Advisor"
+
+  # ================================================================ MOC THOI GIAN
+  timeline:
+    - when: "thu Nam 14/01, 11:00 - 14:20"
+      what: "Mot dac vu Vongola doc ho so dat tre o Taki va thay chu ky 'Sawada Masaya, bay tuoi'. Han den Mie vi giay to Genoa, KHONG phai vi Tsuna."
+    - when: "thu Nam 19:11 - 19:19"
+      what: "🔴 Phuc kich tren duong ven bien tren Kawaba. Tam phut. Tsuna tu song sot, bi rach canh tay trai. Han bo chay qua tuong, con song."
+    - when: "thu Nam ~19:30"
+      what: "🔴 Tsuna HA BUC TUONG MAY xuong — lan dau tu nam ba tuoi."
+    - when: "thu Nam 22:09"
+      what: "Kyouya toi, sau ba muoi tam cay so dap xe trong dem."
+    - when: "thu Sau 00:20 - ~01:40"
+      what: "🔴 Genichi khau muoi mot mui. Musashi dinh nghia bay he cho ong. Ong ghi vao so den va KHONG gach to chung nhan."
+    - when: "tu thu Bay, chin ngay"
+      what: "Indra vang mat. Noi la Kyoto."
+    - when: "thu Ba tuan sau"
+      what: "Muoi mot dua tre dung o nga tu thap nuoc. Cuoi thang Hai: ba muoi mot dua va mot ban phan cong."
+    - when: "thang Hai den mua thu"
+      what: "🔴 Palermo: do vat dich hai centimet suot bon thang. Thang Tu nguoi con trai Nono khong ngu duoc; mua thu han khong con la ung vien."
+
+  # ================================================================ ARC
+  arcs:
+    brat-dan-y-ch3-ch6:
+      state_add: "🔴 ARC BRAT DA DU BAY CHUONG. Ch7 da viet, 8.475 tu. Bon cong deu di dung ban duyet."
+      evidence: "Arc dong bang mot nhip ngan dung rieng, dung nhu 5/5 chuong goc."
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - id: dac-vu-vongola-khong-ten
+      note: "🔵 CO Y khong dat ten — the canh chot 'co Flame, khong co ten'. Mot cai ten bien han thanh nhan vat; arc nay can han la mot co hoi thang tien biet di. Han CON SONG va dang bi san. De xuat: KHONG dung note."
+    - id: con-trai-nono-bi-loai
+      note: "🔵 Khong ten. Bi loai khoi tranh ke vi vao mua thu. De xuat: KHONG dung note rieng, ghi trong emb-chot-nguyen-to-di-san. Nhung day la mot thay doi THAT o buc tranh ke vi Vongola."
+    - id: ban-ky-luat-namimori
+      note: "🔴 CAN AUREL QUYET: co dung note rieng khong? Nguon goc da ghi o emb-chot-nguyen-to-di-san, nhung to chuc nay se chay nhieu arc. De xuat: CO, mot note organizations/."

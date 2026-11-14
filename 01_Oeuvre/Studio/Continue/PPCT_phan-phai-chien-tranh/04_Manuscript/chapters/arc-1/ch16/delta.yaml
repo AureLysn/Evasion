@@ -1,0 +1,74 @@
+﻿# State delta — PPCT arc-1 ch16 (八兆亿个不列颠)
+# TRANG THAI: committed 14/09/2026 — Aurel duyet 14/09/2026 (arc chinh thuc chay; Archer goi 「Caster」 khi buc minh)
+# Chi ghi vao note khi Aurel duyet delta nay. Moi dong co cau lam bang chung (nguyen van ch16-chapter.md).
+
+chapter: ch16
+status: committed
+committed_at: 2026-09-14
+snapshot: Projects/PPCT_phan-phai-chien-tranh/snapshots/001-ch16
+
+changes:
+
+  hooks:
+    hook-saber-xem-the-gioi-song-song:
+      # 「那句“下一个”已经到了嘴边，Saber却没有说出来。」 · 「这只手，曾经拔出过石头里的那把剑。」 · 「“……够了。”」
+      # Ghi chu tac gia ch15 da bao truoc: xem xong thi 「道心破碎」 — chuong nay tra dung cho do.
+      status: paid_off
+    hook-to-caster-khac-che-to-saber:
+      # Saber tu buong nguyen vong ma to Caster khong can giao chien: 「“……够了。”」「“辛苦了，Saber小姐。”」
+      # Ghi chu tac gia ch5, ch15 noi "khac che" — chua het (chua co tran nao), nen chi progressed.
+      status: partially_paid  # ban dau de 'progressed' — doctor khong nhan (L30); doi 14/09 sau apply
+
+  characters:
+    artoria:
+      state: "Da cung Tsuna xem cac the gioi song song cua nuoc Anh; tu dung lai khi thay minh dang so, dang chon giua cac vi vua; noi 「够了」. Tro ve ngoi that than, cam chen Rider rot nhung khong uong."
+      evidence: "「那双眼睛却不知道在看哪里」 · 「骑士王伸手握住了酒杯，却没有喝。」"
+    tsuna:
+      state: "Dan Saber xem va xem cung; noi 「辛苦了，Saber小姐。」; tro ve binh than, khong tra loi Archer."
+      evidence: "「橙红的眼瞳里什么情绪也看不出来」 · 「纲吉笑了笑，没有接他的话。」"
+    dazai:
+      state: "Ghen: lay khan lau tung ngon tay Tsuna vua bi Saber nam."
+      evidence: "「“嗯？有灰尘。”太宰治头也不抬，“不列颠的灰尘。”」 · 「“擦到我满意为止。”」"
+    waver:
+      state: "Thoi 'khong muon nghe tiep' (ch15): bat len hoi Tsuna da cho Saber xem gi, bi Rider an dau ve cho."
+      evidence: "「“喂，Caster。”韦伯终于忍不住了」 · 「他就被Rider一只手按着脑袋按回了座位上」"
+    iskandar:
+      state: "Im lang rot day chen cho Saber."
+      evidence: "「征服王一句话也没说，拎起酒杓，给Saber面前的空杯重新满上了酒」"
+    gilgamesh:
+      state: "Chi nhin Tsuna, khong nhin Saber; hung thu voi 'nguoi ban' da tang nang luc."
+      evidence: "「那双赤红的竖瞳从头到尾都落在纲吉身上」 · 「“有意思。…你那个朋友，倒是舍得。”」"
+    irisviel:
+      state: "Lo cho Saber; doan Saber da thay dieu gi do, khong biet la gi."
+      evidence: "「她到底看见了什么？爱丽丝菲尔想。」"
+
+  relationships:
+    tsuna--artoria:
+      history_add: "ch16 — xem cung cac the gioi song song; Saber tu dung lai; Tsuna: 「辛苦了，Saber小姐。」"
+    dazai--tsuna:
+      history_add: "ch16 — Dazai ghen, lau tay Tsuna: 「不列颠的灰尘」"
+    to-caster--to-rider:
+      addressing_add: "waver_goi_tsuna: 「Caster」 (ch16)"
+    tsuna--gilgamesh:
+      addressing_add: "gilgamesh_goi_tsuna: 「Caster」 — dung khi buc minh (Aurel 14/09/2026); lan dau goi thang o ch16"
+
+  timeline:
+    story_day: 3
+    row: "Ngay 3, dem | Saber xem cac the gioi song song — ben ngoai 2–3 giay | ch16"
+    evidence: "「前后大概只有两三秒」"
+
+  arcs:
+    arc-1-vuong-yen-ha-man:
+      # Aurel 14/09/2026: 「arc đã chính thức chạy」
+      status: active
+
+  new_entities:
+    - "event: Saber xem cac nuoc Anh song song (ch16) — can extract-entities Mode 2, khong ghi bang delta"
+
+  bookkeeping:
+    - "ch16-chapter.md: status draft -> final"
+    - "ch16-review.md: status review -> final"
+    - "hook-saber-xem-the-gioi-song-song: khoi payoff {status, arc, chapter} -> paid / arc-1-vuong-yen-ha-man / 16; bang Tien do them dong ch16"
+    - "hook-to-caster-khac-che-to-saber: bang Tien do them dong ch16"
+    - "hook-nhan-mare-trong-tay-tsuna: KHONG doi status (cham, khong giai) — co the them dong Tien do ch16 (Archer: 「你那个朋友，倒是舍得」)"
+    - "PPCT-MOC.md: dong chapters/ -> ch16 da chot"

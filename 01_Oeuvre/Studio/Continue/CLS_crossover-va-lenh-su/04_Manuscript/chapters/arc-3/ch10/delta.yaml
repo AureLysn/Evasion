@@ -1,0 +1,114 @@
+﻿# State delta - CLS arc-3 ch10 (第十章 和弦) - TRICH 05/11/2026 - CHUONG CUOI ARC 3 - POV phong Robin - 10.01 le chao cuoi (Acheron, Tiernan, Razalina, Gallagher) -> 10.02 chiec ghe Mikhail, Himeko tra loi March -> 10.03 Pom-Pom khoc, Black Swan de nghi Amphoreus -> 10.04 Jade toi cho giu Sunday -> 10.05 khung 3.8 rut gon (Dahlia, Stelle tu chon, loi chao Acheron) -> 10.06 hop am, Sunday tra loi, Robin cat giong
+# TRANG THAI: proposed 05/11/2026 (finalize-chapter Mode 1, chi de xuat; KHONG apply). Trich boi xuong-lam (mot tac nhan), cung phien viet/sua chuong - khong doc lap.
+# Nguon chuong: ch10-chapter.md ban HIEN TAI (tieng Trung, POV phong Robin, draft, 6.157 chu Han, sau soat mach ch10-review.md: 0 nang).
+# Delta doc theo THAN CHUONG (sau frontmatter), khong theo plan. Moi cum trong dau ngoac vuong goc la chuoi con NGUYEN VAN cua than chuong (kiem bang may truoc khi bao xong). Cau o ngoai chuong (vd arc 1 ch08) viet khong dung dau ngoac vuong goc.
+# Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan. Aurel chua tra loi = chua ap mac dinh. Khong muc nao chan.
+# Khoa "chapter" = a3-ch10 (khuon ch01-ch09).
+#
+# ===== Bi mat: KHONG dung secrets/ (changes.secrets de trong) =====
+#   Chuong khong lo bi mat nao va khong doi ai biet / nghi gi: khong ten nguoi do (#28), khong hinh nguoi do (ke ca 10.04: nguoi do khong co mat o canh Jade), khong Jason, khong giong Dazai, khong than phan lenh su / Hoa hop, khong bi mat cua chinh Tsuna, khong Gotham.
+#   #18/#19: chuong KHONG nhac la thu, lan can, chu 凉, net chu, duoi tau, to dang phieu; khung Dahlia khong cham Firefly, khong noi ai dot, khong 终末 / meo den / 剧本 / 失熵. Khong dong nao noi nguoi do voi viec go.
+#   Cau canon cua Stelle ve nguoi thieu luc chao biet (TextMap 185581) KHONG dung (B7).
+#   Khong co muc nao de xuat doi secrets/.
+#
+# ===== Hook =====
+#   h-nguoi-do: GIU partially_paid. Bac moi (de xuat): KHONG hinh ca chuong; hop am cuoi (Robin cat giong); Sunday (phong) tra "con chua nghi xong" cua arc 1 ch08: da nghi xong, la cam on, mot tieng 谢谢 vao toi (#26). Them dong Tien do (sua tay). Chuong KHONG tra phan ten: doi sang vong 2 (#28) -> sua tay payoff.arc.
+#   h-ung-vien-gia-toc: KHONG cham tren trang (Jade khong noi chu ung vien nao). Chuong KHONG tra "ung vien cho viec gi": doi sang vong 2 (#28) -> sua tay payoff.arc, khong them dong Tien do.
+#   h-giong-khong-ten, h-ipc-muon-jason, h-nguoi-ta-ve-duoc, h-cho-trong-phan-dien, h-thang-nhoc-crime-alley: KHONG cham. (Cau hoi treo cua Phainon duoc Himeko dap o 10.02 nhung khong neu ai, khong noi giong nao voi ai - khong thanh bac cua h-giong-khong-ten.)
+#
+# ===== Nguong =====
+#   Dazai 2 : 1 giu nguyen (khong cuoc goi). Jason 1 : 1 giu nguyen (khong cuoc goi).
+#
+# Quy uoc ten: 知更鸟 = Robin, 星期日 = Sunday, 星 = Stelle, 三月七 = March 7th, 丹恒 = Dan Heng, 姬子 = Himeko, 瓦尔特 = Welt, 流萤 = Firefly, 银狼 = Silver Wolf, 黑天鹅 = Black Swan, 慈玉 = Jade, 黄泉 = Acheron.
+# Tinh huong khung: phong chieu (POV Robin), giu cho ngoi. Black Swan va Dahlia moi nguoi co mot cau ngan (khac ch09). Ban 2.x; khung 3.8 chi mot doan rut gon (#25).
+# Nhan: phim ch10 = canon Stranger in a Strange Land DIEN LAI (khong chep thoai, B1) + Jade-Sunday theo #21/#22; khung Dahlia tim lai la PHIEN DAT; cac cau trong phong = PHIEN DAT / DE XUAT (khong canon).
+
+chapter: a3-ch10
+status: committed
+committed_at: 2026-11-05
+proposed_at: 2026-11-05
+
+changes:
+
+  hooks:
+    h-nguoi-do:
+      # Bac moi (de xuat): khong hinh ca chuong. Cuoi chuong: hop am quay lai trong toi, Sunday tra "con chua nghi xong" cua arc 1 ch08 (da nghi xong, la cam on, 谢谢 mot lan), Robin cat mot not khong loi theo not cao nhat; hop am khong phan ung lai co. Khong ten, khong hinh, khong ai doan.
+      # (phong, 10.06) 「“姬子女士。”星期日的声音从她身边起来」 · 「“我想好了。”」 · 「“是道谢。”」 · 「“谢谢。”」 · 「和弦没有变，照旧一层托着一层，没为这两个字让开一寸。」 · 「和弦照旧往上走，不让，不等，也不接。」
+      status: partially_paid
+      # payoff_status: KHONG doi (guong mat - ch3 arc 3; ten - chua dat, doi sang vong 2, #28). payoff.arc / chapter sua tay (xem bookkeeping).
+
+  secrets: {}
+
+  characters:
+    robin:
+      state: "Phong, POV, hang dau canh Sunday. 10.01-10.03 nghe nhip cua loi chuc va cua March, khong nhan canh tren phim la tri nho minh (#24). 10.04: nghe anh trai tren phim noi ve ket cuc cua minh nhu mot muc thu tuc, vo ong tay ao roi buong; cuoi canh dat tay len tay vin giua hai ghe, canh tay Sunday, cach mot ngon, khong cham; tay Sunday khong rut. 10.06: thuoc nhip hop am tung tang, dem den tang cao nhat; thu giong (chi nuot mot cai, trong), roi cat mot not khong loi dat dung len tang cao nhat, keo dai den het hoi roi noi tiep. Hop am khong dap lai. Khong ai trong phong noi gi."
+      evidence: "「她不碰他，隔着一指。」 · 「那一指宽的空当留在那儿。星期日的手没有挪开。」 · 「一个音，没有词。她把它放在那一线上，不高一分，不低一分。」 · 「知更鸟把那一个音拉长，拉到气尽，续上一口，接着唱。」"
+    sunday:
+      state: "Phong: ngoi thang, hai tay chong len goi. 10.02: sau 记着呢 cua Himeko, tay phai dua len dat tren tay vin, mo ra, ngon khong co. 10.04: nghe Jade tren phim goi la nguoi sap xuong dai (一个要下台的人), cat loi thuong hai (我不收这种怜悯), van thang lung; nghe ten Robin tren phim thi tay nhac khoi goi, dung giua khong, vai nghieng ra roi thu ve, tay ha cham mot nhip. 10.06: goi Himeko, noi da nghi xong, la cam on, roi 谢谢 mot lan vao khoang toi truoc mat; ban tay chi cham go mot cai. Chuong khong ghi Sunday biet nguoi nhan 谢谢 la ai; khong ai hoi."
+      evidence: "「“我想好了。”」 · 「“是道谢。”」 · 「“谢谢。”」 · 「“我不收这种怜悯。”星期日说。」 · 「“那么，是轮到我的这一项了。”」"
+    stelle:
+      state: "Phong. 10.01 treu ly ruou ('giong nuoc ngot pha hong'); 10.03 dua 冰棍 voi March; 10.05-10.06 nhac lai cau hoi treo cua Phainon ('ai nho nguoi ay'); 10.05 niem 天晴 (mong troi nang), 'mong uoc khong dat'; 10.06 dat cau Dan Heng nhac (cua Boothill, arc 1) cho CA BA NGUOI: 这三个，打哪儿来？ (mac dinh 05/11, AUREL 1). Khong cho Stelle biet ten, noi chon cua ba nguoi."
+      evidence: "「“上回那个问题。”」 · 「“冰棍也要当最好看的那根。”」 · 「“【天晴】。”星在第三排念了一遍，声音小，直直的，“这个愿望不贵。”」 · 「“……这三个，”星说，话放得很慢，“打哪儿来？”」"
+    march-7th:
+      state: "Phong. 10.01-10.02 tran tro, nghen o cau hoi 'cuon sach khong co nhan vat chinh'; Himeko dap. 10.03 doi Pom-Pom khoc, doi Black Swan giai thich. 10.05 doan ra Dahlia o hang cuoi ('后面那位吧?'); cuoi 10.05 'lai tac nua' (khong khoc, V6). 10.06 hoi 'hau dau con cho xem khong' - khong ai dap."
+      evidence: "「“后头……还给看吗？”」 · 「“我怎么又堵上了……明明是别人的告别。”」 · 「“这位是……”三月七拖了个长音，“后面那位吧？”」"
+    himeko:
+      state: "Phong. 10.02 tra loi March ve cuon sach khong co nhan vat chinh va ve duong ('cau tra loi nay ta cung chua tim du', 宇宙的账本 ghi khong het, 'chung ta o day ghi'); roi, tu phia sau, dap ba chu 记着呢 cho cau treo cua Phainon (ai nho nguoi ay) - khong neu ai. 10.06: 嗯 khi Sunday goi, 好 khi Sunday noi la cam on. Khong doi 'chung toi cung ban tim' cua arc 1 ch08."
+      evidence: "「“记着呢。”」 · 「“这个答案，我也还没找齐。”」 · 「“嗯。”」 · 「“好。”姬子说。」"
+    dan-heng:
+      state: "Phong. 10.06 nhac lai cau Boothill hoi o arc 1 ('thang tren tuong tu the gioi nao ra') va noi 'cau nay den gio van con trong' - Stelle dat cho ca ba nguoi. Khong ten, khong dia danh."
+      evidence: "「“开拓管到路口。”丹恒说，眼睛看着海，“往后的路，是这儿的人的。”」 · 「“这句，到现在还空着。”」"
+    silver-wolf:
+      state: "Phong. Treu 隐藏变量 (tuoi Gallagher), BOSS khoc giai doan hai. Khong noi gi ve Dahlia hay viec bi dot; khong biet gi ve nguoi do."
+      evidence: "「“这位大叔的年龄是个隐藏变量。”」 · 「“列车长在生气。”银狼说，口气一本正经，“这个BOSS血条太厚，哭到二阶段了。”」"
+    welt:
+      state: "Phong. 10.01 nhac March 'khi kinh ruou dung xen loi'; 10.03 noi tau chi con du nhien lieu nhay hai lan, hai the gioi trong tam, phai bo phieu."
+      evidence: "「“敬酒的时候，别插话。”」 · 「“附近有两个世界够得着，去哪一个，得投票。”」"
+    black-swan:
+      state: "Phong, hang sau, mot cau ngan nhu nguoi thuong (mac dinh 05/11, AUREL 2): khi March doi giai thich vi sao co ta o trong phong March tren phim. Khong noi gi ve 翁法罗斯 hay ky uc hay phong chieu."
+      evidence: "「黑天鹅的回答从后排来，每个字都咬得圆：“墙上那位，眼光还行。”」"
+    dahlia:
+      state: "Phong, hang cuoi, mot tieng 嗯 khi March hoi 后面那位 (mac dinh 05/11, AUREL 2). Khong noi ve ky uc, viec dot, Firefly."
+      evidence: "「“嗯。”一声，从最后一排来，低，软。」"
+    firefly:
+      state: "Phong. 10.01 goi 黄泉小姐 rat nhe. Khong noi gi ve khung Dahlia, khong ve la thu, lan can, ve ban than. Chuong khong cho Firefly biet ai viet gi."
+      evidence: "「“……黄泉小姐。”是流萤。」"
+
+  relationships:
+    # Chi ghi nhan cho nguoi viet tu cap nhat prose. Khong dem tren he thong. Khong dong nao ghi viec go / la thu / lan can / ten.
+    robin-sunday:
+      note: "Phong, hang dau: o 10.04 Robin nghe anh minh tren phim noi ket cuc cua minh nhu mot muc thu tuc; tay Robin dat len tay vin canh tay anh, cach mot ngon, khong cham; tay anh khong rut. 10.06: anh noi 谢谢 vao toi, Robin cat giong sau do. Hai nguoi khong noi mot cau voi nhau ca chuong. Doi mot nac so voi ch09: Robin chu dong dat tay canh anh."
+      evidence: "「知更鸟没有出声。墙上最后一粒水珠落下去的时候，她的手从膝头移开，落在两把椅子之间的扶手上，落在他的手边。」 · 「那一指宽的空当留在那儿。星期日的手没有挪开。」"
+    sunday-himeko:
+      note: "10.06 (phong): Sunday goi Himeko, bao da nghi xong, la cam on (tra lai 'chua nghi xong' o arc 1 ch08, #26); Himeko chi 嗯 va 好. 10.02: sau 记着呢 cua Himeko, tay phai Sunday dua len tay vin, mo ra - khong ai bao day la cho nguoi nao."
+      evidence: "「“姬子女士。”星期日的声音从她身边起来，端端正正，是宣布一件已经办妥的事的口气。」 · 「星期日的右手从膝上抬起来，落在两把椅子之间的扶手上。」"
+
+  timeline:
+    # Project chua co timeline/. Moc ghi cho nguoi viet.
+    a3-ch10-phong: "Noi tu cuoi ch09 (mat nuoc rang sang, Robin cho tieng dau tien): ch10 mo bang tieng buoc chan tren cat uot; hinh doi sang ban 2.x le chao cuoi o Penacony. Phong van 11 nguoi giu cho ngoi. Cuoi chuong: tuong tat, hop am quay lai trong toi, Sunday noi 谢谢, Robin cat giong; hop am khong dap. Tuong CON TOI khi chuong het."
+    a3-ch10-phim: "Ban 2.x (canon Stranger in a Strange Land, dien lai): hoa tuong niem Tiernan va Razalina, loi chao cac Vo Danh cu, Gallagher, Mikhail (chiec ghe), tau (Pom-Pom khoc, nhien lieu), Black Swan de nghi Amphoreus, Jade toi cho giu Sunday (nguoi do KHONG co mat; PHIEN DAT #21/#22), doan khung 3.8 rut gon (Dahlia toi tau, Stelle tu chon, loi chao rieng voi Acheron; #25, PHIEN DAT), roi tuong tat, hop am."
+
+  arcs: {}
+    # AUREL: arc 3 xong bang SUA TAY o tien-do-ba-arc.md (xem bookkeeping). MAC DINH: khong doi trang thai arc trong delta.
+
+  new_entities:
+    - "AUREL (1) Cau gieo vong 2: Stelle dat cau hoi cua Dan Heng cho CA BA NGUOI - 这三个，打哪儿来？ (da bo 各自). Khong ten, khong dia danh, khong Gotham; khong ai tra loi, khong ai xac nhan. MAC DINH: giu ban nay. Neu Aurel muon cau khac, sua chuong; delta chi doi dong stelle / dan-heng."
+    - "AUREL (2) Cau cua Black Swan (phong) va mot tieng 嗯 cua Dahlia (phong). Phuong an thay the cua dan y: ca hai im, Stelle dap 'La co ay'. MAC DINH: giu ban co cau ngan. Khong noi gi ve ky uc, viec dot, Firefly."
+    - "AUREL (3) Cau Himeko 10.02 dien lai (Đ-2): 'cau tra loi nay ta cung chua tim du' + 宇宙的账本 + 记着呢. MAC DINH: giu. Neu thay lo, thay cau; delta chi doi dong himeko."
+    - "AUREL (4) Khung 3.8 rut gon (#25) o 10.05, phien dat: Dahlia toi tau, mot doan luc chao biet bi dot, Stelle tu chon tim lai, thu duoc tra la loi chao rieng voi Acheron. Khong noi ai dot, khong Firefly, khong nguoi do. MAC DINH: giu. (Doan nay KHONG phai ket 3.8 canon.)"
+    - "AUREL (5) Tay Sunday o 10.04 (Đ-5): giu yen, khong dap tay Robin; tay Robin dat canh khong cham. MAC DINH: giu."
+    - "AUREL (6) Ten chuong 和弦 (Đ-9); ten chi co o TextMap, khong co trong bo ten CSV (A4, xem ch10-zh-bang-ten). MAC DINH: giu."
+    - "AUREL (7) Hai hook doi han tra sang vong 2 (#28). Vong 2 = arc 4 (Jason, Gotham), arc 5 (Dazai, Yokohama), arc 6 (Tsuna, nha Sawada) theo dai-cuong-tong-v2-cls muc 2 va 5. Dai cuong KHONG chot arc nao tra ten nguoi do hay 'ung vien cho viec gi'; viec thuoc ve Tsuna nen khop arc 6 nhat, nhung chua duoc ghi. MAC DINH: ghi 'vong 2 (arc 4-6, chua chot arc)'; Aurel chot arc cu the sau."
+    - "Khong co note moi can tao tu delta. Ngoai hinh Dahlia, Black Swan, Jade, Acheron theo Penacony-npc-ngoai-hinh.md / Doan-tau-ngoai-hinh.md (da co); chiec ghe, chau 绿萝, hanh lang la canh phim, khong ghi."
+
+  bookkeeping:
+    - "ch10-chapter.md (arc 3): status draft -> final (sau duyet). 6.157 chu Han."
+    - "Secrets: KHONG doi (changes.secrets rong). Khong de xuat doi secrets/. Chuong KHONG lo bi mat nao; khong hinh nguoi do."
+    - "#18/#19: khong dong nao noi nguoi do voi la thu / lan can / net chu / viec go; Dahlia khung khong cham Firefly. Viec go la su that tac gia, KHONG len trang."
+    - "Hook: h-nguoi-do giu partially_paid, them mot dong Tien do (sua tay). h-ung-vien-gia-toc khong cham tren trang. h-giong-khong-ten, h-ipc-muon-jason khong cham."
+    - "SUA TAY - hooks/h-nguoi-do.md, bang Tien do (them dong ch10 arc 3, sau dong ch09): | ch10 arc 3 *(chot 05/11, hang doi; chuong cuoi arc 3)* | **Khong hinh** ca chuong *(#28: ten khong len trang; khong lan can / la thu, #18, #19)*. Cuoi chuong: hop am quay lai trong toi; **Sunday (phong) tra 'con chua nghi xong' cua arc 1 ch08** - da nghi xong, la cam on, 谢谢 mot lan *(#26)*; Robin cat giong mot not khong loi theo not cao nhat, hop am khong phan ung *(#27)*. Khong ten, khong ai doan. | partially_paid |"
+    - "SUA TAY - hooks/h-nguoi-do.md, frontmatter payoff: doi arc 'arc 3 (Tsuna)' -> 'vong 2 (arc 4-6, chua chot arc) - phan ten', giu chapter 'chua dat', status planned; them mot dong vao than note: ten KHONG tra o arc 3, doi sang vong 2 (#28, ch10 arc 3). Phan guong mat da tra o ch3 arc 3."
+    - "SUA TAY - hooks/h-ung-vien-gia-toc.md, frontmatter payoff: doi arc 'arc 3 (Tsuna)' -> 'vong 2 (arc 4-6, chua chot arc) - ung vien cho viec gi', giu chapter 'chua dat', status planned; them mot dong vao than note: 'ung vien cho viec gi' KHONG tra o arc 3, doi sang vong 2 (#28, ch10 arc 3); khong them dong Tien do (ch10 khong cham tren trang)."
+    - "SUA TAY - relationships/tsuna--dazai-cls.md va tsuna--jason-cls.md: ch10 khong goi (Dazai 2 : 1, Jason 1 : 1 giu nguyen). Khong sua."
+    - "SUA TAY - tien-do-ba-arc.md: ghi hang arc 3 ch10 (plan / soat plan / viet 6.157 / soat mach 0 nang / final, snapshot 024-a3-ch10) va ghi ARC 3 XONG (10/10 chuong, ch01-ch10)."
+    - "Diem tro sang arc 4: tuong CON TOI, hop am khong dap, Robin cat giong; cau 这三个，打哪儿来？ mo sang vong 2 (khong xac nhan). Ai o lai phong, ai roi, tuong sang luc nao: viec cua dan y arc 4 (ch10 khong quyet)."

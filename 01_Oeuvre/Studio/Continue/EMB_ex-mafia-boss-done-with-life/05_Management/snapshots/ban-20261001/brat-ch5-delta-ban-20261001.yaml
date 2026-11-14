@@ -1,0 +1,181 @@
+﻿# State delta — EMB / arc Brat / Ch5 (khoi tap the Namimori + khoi Mammon + POV Tsuna)
+# TRANG THAI: proposed — CHUA commit. Khong ghi vao note nao truoc khi Aurel Accept.
+#
+# ⚠️ Bai hoc tu delta Ch1-Ch4, da ap dung o day:
+#   1. KHONG dung khoi '>' — parser cat van xuoi thanh key gia.
+#   2. KHONG khai 'status' cho hook khong doi — moi 'status' la mot lenh GHI.
+#   3. state_apply KHONG ho tro 'unknown_to_remove' — cho nao can thi ghi tay.
+#   4. 🔴 L37: resolver uu tien ALIAS hon TEN FILE. Cai gi khong nam trong hooks/ thi
+#      KHONG khai duoi muc hooks. Da kiem tung key bang ls truoc khi viet.
+#   5. squalo / belphegor / levi CHUA co note — de o new_entities, khong khai o characters.
+
+chapter: brat-ch5
+status: committed
+committed_at: 2026-09-20
+project: EMB
+branch: aurel-main
+
+changes:
+
+  # ================================================================ BI MAT
+  secrets:
+    tsuna-am-tinh-tren-giay:
+      evidence: "You are asking me for the Kotei of this Sanctuary, on the steps of the shrine that holds its contract, on a Monday, in front of the people who signed it."
+      aurel_A: "🔵 CAN AUREL QUYET — KHONG tu ghi. Musashi goi Tsuna la KOTEI truoc mat Varia, va Mammon DICH toan bo. rule-danh-xung-flame dong 43: Kotei = Sky. Nen cau hoi la: Varia gio co dang GIU mot tu giai ma duoc thanh 'Sky' khong?"
+      aurel_B: "Chuong da co y lam mo: Xanxus chi ghi nhan 'that is a title', Musashi noi cau co BA danh xung va khong giai thich cai nao la cai nao, va cuoi chuong Xanxus van goi cau la 'the Cloud'. Nen doc duoc theo ca hai huong."
+      aurel_C: "🔴 Neu Aurel chon 'co' thi phai them xanxus/mammon vao suspected_by, va Ch6-Ch7 mat quyen dung 'Varia tuong cau la Cloud'. Neu chon 'khong' thi nen ghi mot cau vao note giai thich VI SAO Mammon khong giai ma duoc — de khong ai hoi lai. De xuat: CHON KHONG, va ly do la Kotei la tu nghi le rieng cua Namimori, khong nam trong tu vung Flame quoc te."
+    # chi-chu-nhan-thay-cao: KHONG doi. Con cao o trong tui vai suot 5.6, khong ai thay.
+    # 567-ke-hoach: KHONG doi. Chi xuat hien trong noi tam Tsuna (known_by da co tsuna).
+    # tsuna-tai-sinh: xem muc aurel_M o cuoi — mot cau hoi, khong phai mot dong ghi.
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    tsuna:
+      state_add: "Ve den Namimori 18:40 ngay 11/01, muon mot ngay chin tieng so voi han RIENG cua cau (cau giu hai han: mong muoi cho minh, muoi mot cho ba). Den noi thi moi viec DA XONG. Lan dau doi mat voi viec thi tran tu xu ly mot doi am sat ma khong can cau tinh — va cau khong chiu duoc dieu do theo mot cach cau chua goi ten duoc. 🔴 Bat dau nghi ngo chinh 567 ke hoach: 'how many of them are just vanity with a filing system'. Truot mieng truoc mat Xanxus mot cau co NGAY THANG trong do, va biet ngay minh vua lam gi."
+      evidence: "not one of those preparations had needed him to be awake for it. / I built five hundred and sixty seven plans on the assumption that if I did not do a thing, the thing would not get done. / He said eventually. I have just handed eventually a calendar."
+      aurel_D: "🔴 Day la vet nut DAU TIEN tren 567 ke hoach, va no den tu mot chien thang chu khong phai mot that bai. Dang gia hon moi cach khac de lam no nut."
+
+    musashi:
+      state_add: "Mo hop duoi kho bac, lay ra BAN GOC hop dong Sanctuary (khong phai ban sao) — thu ra khoi kho khoang mot lan moi doi nguoi. Doc dieu khoan HAI LAN truoc mat Varia, co y, de sau khong ai cai duoc la chua duoc bao. Chan con dao thu ba o bon centimet khoi co hong Kyouya MA KHONG CAN NHIN. Keo bay bond nha va GIU suot chin tieng, tu choi tha, vi ba dang thich the. Ky ban ngung ban luc chin gio toi."
+      evidence: "She had been a Gen'ei for fifty-eight years. She had not needed to see the road to know what the road was doing. / Because I have not released it, and I will not release it until I am satisfied, and everyone concerned understands that I am an old woman who is enjoying this."
+
+    ayame:
+      state_add: "🔴 Trung dao. Con dao thu hai xuyen qua cang tay TRAI va ra phia ben kia. Truoc khi ngat, doc nguyen van tu cach phap ly cua vet thuong: 'That was an attack by an outsider, on a resident, inside the boundary. Three witnesses.' Nam giuong chin tieng, Tomoko cham, va da noi voi bon nguoi rang co 'got it in writing'."
+      evidence: "The second went through her left forearm and out the other side. / Then she said, Ow, in exactly the voice she used for dropping a ledger, and fell over."
+      aurel_E: "⚠️ Vet thuong nay la thu kich hoat dieu khoan. Ayame khong phai nan nhan trong canh nay — co la NGUOI KY TEN."
+
+    kyouya:
+      state_add: "🔴 Dung tren tuong o khuc queo thu ba suot hai tieng va KHONG DONG THU khi Varia di qua, ke ca khi Belphegor nem dao vao chinh cau. Day la viec kho nhat doi cau, va cau biet truoc la se kho. Indra giu cau bang Yasuragi sau khi Ayame nga. Cau da cam thay bond dich chuyen suot bon thang truoc do — mot thu cua cau ra khoi lanh tho roi quay ve."
+      evidence: "He had understood it perfectly. He had then explained back to her, in fewer, that he was aware, that he was not going to move first, and that this was, for the avoidance of doubt, the single most difficult thing anybody had ever asked him to do."
+      aurel_F: "🔵 Bac 4 cua Kyouya, nhung nguoc: cai cau lam la KHONG lam gi. Chuong do no bang hai tieng dong ho, khong bang mot cau tuyen bo."
+
+    indra:
+      state_add: "Doan truoc con trai se ra duong tu chieu hom truoc — vi cau NGUNG CAI. Dung bon met phia sau cau suot hai tieng. Giu cau lai bang Yasuragi khi Ayame nga, va noi thang cho cau biet cau vua mua duoc gi cho thi tran. Xuat hien tren bac den duoi ten nghi le Hibari Seiran."
+      evidence: "Then be angry afterwards, said Hibari Seiran, because the clause is ours now, and if you move it stops being ours, and I am not letting go until you have finished being eleven."
+
+    mammon:
+      state_add: "🔴 Tim ra dong Sanctuary trong hien chuong thi xa luc 2 gio sang, VA mot ghi chu le co dau 18 thang tuoi cho thay VINDICE da hoi ve noi nay. KHONG danh thuc Xanxus. Sau do giao cho boss MOT phan su that (co ho so Vindice) va giu lai HAI phan: (a) loi hoi den TU BEN TRONG Sanctuary, (b) cai cot bon lan duoc giup. Tieng Nhat cua ho tot hon ca doi biet, va da the tu thap nien 1940. Lan dau trong muoi mot nam tieng Nhat ay co gia tri."
+      evidence: "Mammon did not mention the second thing. / A complete answer is spent when it is delivered. An incomplete one goes on earning for years. / Nobody writes to Bermuda von Veckenschtein. Nobody is answered."
+      aurel_G: "🔴 Dong co that su khong phai tien: mot thi tran co DUONG DAY toi Warden of Vendicare la thu duy nhat co the lien quan toi viec go loi nguyen Arcobaleno. Ho da tim muoi mot nam."
+
+    xanxus:
+      state_add: "🔴 Toi Namimori dinh 'acquire' mot dua tre, va di ve tay khong sau khi KY mot ban ngung ban tren bac den. Bi doc cho nghe mot van ban bon tram nam tuoi hai lan. Phai QUAY NGUOC LEN DOI — lan dau trong doi. Dung tu 'Sawada' voi Tsuna: cai ho cau be DA TU CHOI dua o Liguria, nen cau ta da di lay no cho khac va giu den luc nay moi dung. Nghe mot cau co ngay thang trong do va KHONG HOI."
+      evidence: "Sawada. / I am going to want to know what you are, eventually. / Xanxus did not ask. That was the part that went cold."
+      aurel_H: "🔵 'Eventually' cua cau ta gio co mot cai lich. Day la thu Ch7 va cac arc sau se thu."
+
+    kaneko:
+      state_add: "Ban het muc den nang dung cho cao thi trang truoc thu Sau, khong hoi mot khach nao. Co mat tren bac den luc doc dieu khoan, voi con meo trong ao. Ve sau goi day la muoi mot phut dang tu hao nhat doi minh."
+      evidence: "said afterwards that it was the proudest eleven minutes of her life and that she had not understood a word of the middle section"
+
+    ishii:
+      state_add: "Nguoi NHAN TIN DAU TIEN, tu chau trai lai tau o Maizuru. Va la nguoi de xuat cach ung xu cuoi cung duoc chon: ra ga don ho bang MOT TAM BAN DO."
+      evidence: "a map is a very hard thing to refuse and an even harder thing to be rude to"
+
+    tomoko:
+      state_add: "Dong phong kham luc ba gio, mo lai luc ba ruoi voi cua chop ha sat be. Bay san mot khay dung cu chua bay ra ke tu mua dong le cuoi cao, va khong cat di suot muoi mot ngay. Xu ly vet thuong cua Ayame."
+      evidence: "She then spent an hour laying out a tray of things she had not laid out since the winter of the fox wedding, and did not put it away again for eleven days."
+
+    maro:
+      state_add: "Di het vong ngoai hom thu Bay — viec ba dang le khong con di duoc nua. Bao 'khong thay gi', va ca thi tran hieu do la mot PHEP DO chu khong phai mot khoang trong."
+      evidence: "everyone understood that nothing from Maro is a measurement rather than an absence"
+
+    sachiko:
+      state_add: "Cat dao khoi mat tien cua hang truoc khi bat cu ai bao co chuyen gi. Da o Namimori muoi mot nam, va den day tu hai tinh khac, nen van duoc thi tran coi la nguoi ngoai theo nghia ky thuat."
+      evidence: "Sachiko took the knives out of the front of the shop and put them at the back, and did not explain why to her husband, who did not ask."
+
+    reborn:
+      state_add: "🔴 BON THANG SAU su kien: doc dong ghi ban ngung ban trong so cua phia Y, va DOC HAI LAN — dieu bat thuong voi ong. Thay mot cai ten chua tung co trong so ay, mot danh hieu ong KHONG NHAN RA, va mot con so tuoi: bay. Lat sang trang sau, nhung NHO CAI TEN."
+      evidence: "He read it twice, which was unusual for him, and which he would not have been able to explain if asked. / But he remembered the name."
+      aurel_I: "🔴 Day la mui chi dau tien cua hook-tsunashige-va-reborn, va no dat dung mot mach: Reborn co ten cau tu nam cau bay tuoi, chu khong phai gap tinh co nam muoi tam."
+
+  # ================================================================ QUAN HE
+  relationships:
+
+    tsuna--xanxus:
+      state_add: "Gap lan thu HAI, tren bac den, qua mot am tra. Xanxus goi cau bang HO — cai ho cau da tu choi dua. Tsuna doc duoc dung y nghia: 'That is not laziness. That is a receipt.' Ket bang mot cau Tsuna khong dinh noi, va mot nguoi dan ong khong hoi lai."
+      evidence: "I am not going to find out today."
+
+    tsuna--musashi:
+      state_add: "Ba xu ly toan bo su viec ma khong can cau, va khi cau ve thi ba rot cho cau mot chen tra. Chen tra la thu lam cau vo ra, khong phai tin tuc. Ba dung ten Tenmei de chan cau lai mot lan — ten ba chi dung khi muon mot viec dung lai."
+      evidence: "She only used that name when she wanted a thing to stop, and it stopped."
+
+    tsuna--kyouya:
+      state_add: "Kyouya cam nhan duoc bond dich suot bon thang Tsuna vang mat, va viec cau ta khong dong thu la de GIU DIEU KHOAN cho thi tran ma Tsuna thuoc ve. Hai nguoi KHONG gap nhau trong chuong nay."
+      evidence: "Somebody who had spent four months being told, by the shape of a bond in his chest, that a thing of his had gone out of his territory and come back"
+
+    tsuna--mammon:
+      state_add: "Khong gap lai truc tiep. Nhung Mammon gio giu BA thu ve cau, va mot trong ba lien quan toi duong day cua thi tran voi Vindice."
+      evidence: "Mammon did not mention the second thing."
+
+  # ================================================================ HOOK
+  hooks:
+
+    hook-mammon-giau-hai-thu:
+      state_add: "🔴 Len BA: (1) con cao, (2) cot bon lan duoc giup khong cong duoc, (3) loi hoi gui Vindice den tu BEN TRONG Sanctuary. Thu ba la thu ho khong dinh ban."
+      evidence: "And Mammon did not mention the third thing, which was still sitting in a column in a ledger in their room at the inn"
+
+    hook-bermuda-to-mo:
+      state_add: "🔴 Co BANG CHUNG TREN GIAY: mot ghi chu le trong so dang ky, 18 thang tuoi, ghi rang mot loi hoi ve van ban Namimori DA duoc dat va DA duoc tra loi. Mammon la nguoi duy nhat ngoai thi tran biet dieu nay."
+      evidence: "It recorded that an inquiry regarding the Namimori instrument had been made, and answered."
+
+    hook-tsunashige-va-reborn:
+      state_add: "🔴 Reborn CO CAI TEN, bon thang sau su kien, tu so ghi cua phia Y. Ong doc hai lan va nho no. Ong chua lam gi vi cau moi bay tuoi."
+      evidence: "But he remembered the name."
+
+  # ================================================================ MOC THOI GIAN
+  timeline:
+    - when: "thang 1, Tsuna 7 tuoi — thu Nam"
+      what: "Namimori biet co nguoi hoi ve chiec tau. Tin di tu Maizuru qua chau trai Ishii-san."
+    - when: "thu Sau den Chu Nhat"
+      what: "Thi tran chuan bi. Sau nguoi hop trong van phong den; chon cach DON ho bang mot tam ban do thay vi chan ho."
+    - when: "Chu Nhat chieu"
+      what: "Varia (Xanxus, Squalo, Belphegor, Levi, Mammon) toi bang tau thuong. Nhan phong o quan tro ben song, ba dem."
+    - when: "Chu Nhat 2 gio sang (rang thu Hai)"
+      what: "Mammon tim ra dong Sanctuary va ghi chu le Vindice 18 thang tuoi. Khong bao Xanxus."
+    - when: "thu Hai 9:00"
+      what: "Musashi doc hop dong tren bac den, HAI LAN. Mat muoi mot phut. Sau muoi nguoi thi tran co mat."
+    - when: "thu Hai 9:40"
+      what: "🔴 Belphegor nem ba dao vao Kyouya. Ayame do, trung cang tay trai. Musashi chan dao thu ba o bon centimet. Kyouya KHONG dong. Bay bond nha bi keo."
+    - when: "thu Hai, chin tieng sau do"
+      what: "Musashi giu bond, tu choi tha. Xanxus quay len doi."
+    - when: "thu Hai 18:40 — ngay 11/01"
+      what: "Tsuna ve den ga Namimori. Moi viec da xong."
+    - when: "thu Hai 21:00"
+      what: "Ban ngung ban duoc ky tren bac den, co nguoi lam chung, vao so dang ky."
+    - when: "bon thang sau"
+      what: "🔴 Reborn doc dong ghi ay trong so cua phia Y, doc hai lan, va nho cai ten."
+
+  # ================================================================ ARC
+  arcs:
+    brat-khung-arc:
+      state_add: "Su kien 5b XONG: Varia vao Sanctuary va thi tran tra loi, khong bang vu luc ma bang van ban. Su kien 5a dong lai o phia Mammon."
+      evidence: "An independent squad had signed an instrument of ceasefire on the steps of a shrine"
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - id: squalo
+      note: "CHUA co note. Xuat hien o Ch4 va Ch5. Can extract-entities, KHONG phai mot dong delta."
+    - id: belphegor
+      note: "CHUA co note. Hanh dong cua han la thu kich hoat toan bo dieu khoan o Ch5. Uu tien cao nhat trong ba."
+    - id: levi
+      note: "CHUA co note. Xuat hien o Ch4 va Ch5."
+
+# ================================================================ AUREL DA CHOT 20/09/2026
+# A — Varia co giai ma duoc "Kotei" thanh "Sky" khong?  -> KHONG.
+#     Ly do da ghi vao decisions/emb-chot-danh-xung-theo-lanh-tho.md, kem lan can:
+#     nhan vat ngoai Namimori KHONG duoc tu suy ra nguyen to tu danh xung Nhat.
+#     => secrets/tsuna-am-tinh-tren-giay.md KHONG doi.
+#
+# B — Co ghi xanxus vao suspected_by cua tsuna-tai-sinh khong?  -> KHONG.
+#     Xanxus nghi cau be BIET mot dieu gi do, chu khong nghi cau be DA SONG MOT LAN.
+#     Khoang cach giua hai thu ay la cho Ch7 tro len dung.
+#     => secrets/tsuna-tai-sinh.md KHONG doi.
+#
+# ================================================================ GHI CHU CU
+# aurel_M — tsuna-tai-sinh: Tsuna noi mot cau co NGAY THANG truoc mat Xanxus va bon nguoi Varia.
+#   Aurel da chot 20/09 rang day la TRUOT MIENG CO CHU DICH, va chuong da cho Xanxus nhat no len
+#   (dat cai coc xuong, khong hoi). CAU HOI: co ghi xanxus vao suspected_by cua tsuna-tai-sinh khong?
+#   De xuat: KHONG. Cau ta nghi cau be BIET mot dieu gi do, chu khong nghi cau be la mot nguoi
+#   da song mot lan. Khoang cach giua hai thu ay chinh la cho Ch7 tro len. Nhung day la QUYET DINH
+#   CUA AUREL, khong phai cua minh, nen no o day chu khong o muc secrets phia tren.

@@ -1,0 +1,69 @@
+﻿# State delta — PPCT arc-2 ch19 (饵)
+# TRANG THAI: committed 15/09/2026 — Aurel duyet — (1) giu open · (2) tao note Maiya · (3) arc-2 active
+# Moi dong co cau lam bang chung (nguyen van ch19-chapter.md, ban da sua theo review).
+# Ca 3 cho can quyet da duoc Aurel tra loi 15/09; (4) la bookkeeping.
+
+chapter: ch19
+status: committed
+committed_at: 2026-09-15
+snapshot: Projects/PPCT_phan-phai-chien-tranh/snapshots/004-ch19
+changes:
+
+  hooks:
+    hook-he-qua-thay-to-caster:
+      # 「Saber的左手还是握不住剑，只能单手应战，一直在往后退。」 · 「Saber手上的伤也好不了，宝具就还是用不出来。」
+      # Lancer con song, Saber van bi nguyen — tuyen DAY, chua tra.
+      # AUREL (1): giu open (de xuat — chua co payoff nao), hay partially_paid?
+      status: open
+    # hook-to-caster-khac-che-to-saber: da partially_paid tu ch16 — KHONG doi status, chi them dong Tien do (bookkeeping).
+
+  secrets: {}
+    # kiritsugu-la-master-that: Kayneth chi noi 「爱因兹贝伦…雇…下三滥」 — khong biet Kiritsugu la Master cua Saber. Khong doi.
+    # Kiritsugu van KHONG biet ai dieu khien may moc: 「能做出那种东西、又刚好在那一秒把它送到他眼前的人，到现在他也没有找到。」
+
+  characters:
+    kayneth:
+      state: "Dem ngay 4: tap kich lau dai Einzbern de tra thu vu Hyatt; bi Kiritsugu ban Origin Bullet — mach ma thuat bi pha, mat ma thuat; Lancer cuu ra. Con song, van la Master (lenh chu con tren tay)."
+      evidence: "「躲在暗处的老鼠，给我出来！」 · 「他身体里那些正拼命运转着、把魔力往外输送的魔术回路，被这一发子弹一下子全部切断，又乱七八糟地接了回去。」 · 「他单手抱起自己的御主」"
+    diarmuid:
+      state: "Dau Saber o rung Einzbern bang ca hai bao cu; bo do tran de ve cuu chu, chia thuong vao Kiritsugu roi mang Kayneth di, khong noi mot loi."
+      evidence: "「Lancer两把宝具都亮出来了」 · 「Lancer丢下Saber，往城堡去了。」 · 「Lancer没有追击，也没有开口，只是看了切嗣一眼。」"
+    kiritsugu:
+      state: "Cho Kayneth o lau dai Einzbern, danh bang Time Alter (hai lan, co gia), Calico, Contender; ban Origin Bullet thu 38 pha Kayneth; khong ket lieu duoc vi Lancer. Van bi am boi 'con mat may' — van khong biet la ai. Hut lai thuoc."
+      evidence: "「固有时制御——二倍速。」 · 「这是第三十八发起源弹，第三十八个魔术师。」 · 「那种被人从暗处盯着的感觉，就像是烟瘾一样，一直没有散掉。」 · 「终于点上了那支烟」"
+    artoria:
+      state: "Ra rung don Lancer; tay trai van khong cam kiem, danh mot tay, lui dan; Lancer bo di thi dung lai giua rung, Irisviel chay toi moi thu kiem."
+      evidence: "「Saber的左手还是握不住剑，只能单手应战，一直在往后退。」 · 「右手握着剑，左手垂在身侧，始终没有抬起来。爱丽丝菲尔从城堡的方向跑过去，她才慢慢地收了剑。」"
+    dazai:
+      state: "Xem toan bo qua chuon chuon may, KHONG can thiep; noi ro nuoc co ch6 chi can Kayneth 'khong chet'; neu phat ban vao tim cung khong ra tay. Doan Kayneth mat ma thuat ('大概吧')."
+      evidence: "「从头到尾一个键都没有按过」 · 「说的是‘不死’，可没说过要他毫发无伤。」 · 「“不会。”」"
+    tsuna:
+      state: "Xem cung Dazai; nhin ra mach ma thuat Kayneth bi pha (nho kien thuc ma thuat Chen Thanh nhoi vao); biet vu Hyatt; khong trach, khong tan thanh; nhin man hinh Saber rat lau."
+      evidence: "「“他身上的魔术回路全乱了。以后再也用不了魔术了吧？”」 · 「“他是来报仇的吧。”…“酒店的事。”」 · 「那双橙红色的眼睛里没有责备，也没有赞同。」 · 「纲吉看着那块屏幕看了很久。」"
+    irisviel:
+      state: "O cung Maiya trong lau dai theo lenh Kiritsugu; sau tran chay ra rung toi cho Saber."
+      evidence: "「你和爱丽丝菲尔留在原地，不要出来。」 · 「爱丽丝菲尔从城堡的方向跑过去」"
+
+  relationships:
+    dazai--tsuna:
+      history_add: "ch19 — Tsuna hoi neu phat ban vao tim thi Dazai co ra tay khong; Dazai: 「不会。」; Tsuna 「……你真是。」, khong trach cung khong tan thanh."
+
+  timeline:
+    story_day: 4
+    row: "Dem ngay 4 → rang sang ngay 5 *(viet tiep)* | Kayneth tap kich lau dai Einzbern tra thu vu Hyatt; Lancer dau Saber o rung; Kiritsugu ban Origin Bullet, Kayneth bi phe; Lancer cuu chu; to Caster xem, khong can thiep | ch19"
+    evidence: "「凌晨一点，挂在森林外围的结界被触动了。」 (review #8: 1 gio sang = rang sang ngay 5)"
+
+  new_entities:
+    - "event: Kayneth tap kich lau dai Einzbern / Origin Bullet (ch19) — tao luc commit nhu ch17, ch18"
+    - "AUREL (2): character note PPCT cho Maiya (len trang ch5 bang ten, ch19 bang giong noi qua tai nghe) — tao hay chua?"
+
+  bookkeeping:
+    - "ch19-chapter.md, ch19-review.md, metadata.yaml: status -> final"
+    - "hook-he-qua-thay-to-caster: bang Tien do them ch19"
+    - "hook-to-caster-khac-che-to-saber: bang Tien do them ch19 (nuoc co ch6 co gia; Dazai khong can thiep)"
+    - "kayneth.md, diarmuid.md, kiritsugu.md: muc Trang thai hien tai -> sau ch19 (hien la dang cu, khong co 'Truoc do')"
+    - "artoria.md, irisviel.md, dazai.md, tsuna.md: 'Trang thai hien tai — sau ch19', day ch17/ch18 xuong 'Truoc do'"
+    - "relationships/dazai--tsuna.md: bang lich su them ch19"
+    - "Timeline/master.md: them dong dem ngay 4 → rang sang ngay 5"
+    - "AUREL (3): arc-2-moi-va-luoi status proposed -> active? (bang chuong ch20-23 van la khung chua duyet)"
+    - "AUREL (4): arc-2 dong ch19 -> final; PPCT-MOC chapters them arc-2/ch19"

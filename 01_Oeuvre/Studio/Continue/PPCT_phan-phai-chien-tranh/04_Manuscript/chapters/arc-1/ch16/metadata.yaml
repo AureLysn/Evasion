@@ -1,0 +1,37 @@
+﻿# PPCT ch16 — số đo bản nháp tiếng Trung, 14/09/2026
+# Nguồn: script đếm chữ Hán trong scratchpad (ch_metrics.py), KHÔNG phải style_metrics.py (L26).
+chapter: 16
+file: ch16-chapter.md
+language: zh
+status: final
+measured_at: 2026-09-14  # do lai sau luot sua #1 + S1
+accepted_by_aurel: [dialogue_ratio, han_per_paragraph_mean]  # chi cho chuong nay, 14/09/2026
+measured_by: han-char-script
+body:
+  han_chars: 2323
+  dialogue_han: 411
+  dialogue_ratio: 0.177
+  paragraphs: 72
+  han_per_paragraph_mean: 32.3
+  paragraphs_ge_100_han_ratio: 0.028
+  sentences_ge_50_han_ratio: 0.021
+  sentences_le_4_han_per_1000: 9.47
+per_1000_han:
+  question_mark: 8.61
+  exclamation: 1.72
+  ellipsis: 3.01
+  em_dash_pair: 2.15
+  latin_words: 16.36
+  terms: 1.72
+term_hits: {圣杯: 2, 英灵: 1, 平行世界: 1}
+eye_motif: 5
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+author_note_han: 83
+style_metrics_py:
+  exit: 1
+  valid: false
+  reason: "khong dem duoc chu Han — nhat-ky-loi-lam-viec L26"

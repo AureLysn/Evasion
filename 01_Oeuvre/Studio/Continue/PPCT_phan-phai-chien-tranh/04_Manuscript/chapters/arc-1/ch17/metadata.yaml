@@ -1,0 +1,37 @@
+﻿# PPCT ch17 — số đo bản nháp tiếng Trung, 15/09/2026
+# Nguồn: script đếm chữ Hán trong scratchpad (ch_metrics.py), KHÔNG phải style_metrics.py (L26).
+chapter: 17
+file: ch17-chapter.md
+language: zh
+status: final
+measured_at: 2026-09-15  # do lai sau luot sua #1-#6
+measured_by: han-char-script
+accepted_by_aurel: [dialogue_ratio, terms, han_per_paragraph_mean]  # chi cho chuong nay — Aurel chuyen sang finalize 15/09/2026
+body:
+  han_chars: 2413
+  dialogue_han: 442
+  dialogue_ratio: 0.183
+  paragraphs: 76
+  han_per_paragraph_mean: 31.8
+  paragraphs_ge_100_han_ratio: 0.0
+  sentences_ge_50_han_ratio: 0.029
+  sentences_le_4_han_per_1000: 7.46
+per_1000_han:
+  question_mark: 4.14
+  exclamation: 3.32
+  ellipsis: 2.07
+  em_dash_pair: 0.41
+  latin_words: 17.41
+  terms: 8.29
+term_hits: {圣杯: 1, 英灵: 4, 宝具: 2, 御主: 4, 魔力: 2, 令咒: 2, 从者: 4, 黑手党: 1}
+eye_motif: 4
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 1  # dong 179, co tag 韦伯想 — hop le
+  kaomoji: 0
+  fan_continuation_notice: true
+author_note_han: 65
+style_metrics_py:
+  exit: 1
+  valid: false
+  reason: "khong dem duoc chu Han — nhat-ky-loi-lam-viec L26"

@@ -1,0 +1,39 @@
+/* Tokens shared with Trạm Dịch (TranslateCenter/static/style.css, design round 10). Change both together. */
+:root {
+  /* Tokyo, round 3 of the 2026-10 redesign (00_Layout/tram-dich): fewer colours, softer */
+  --bg: #12141c;
+  --panel: #181b26;
+  --panel-2: #1f2330;
+  --panel-3: #282d3d;
+  --side: #0d0f15;
+  --line: #262b3a;
+  --line-ui: #666d81;   /* functional border >= 3:1 */
+  --text: #e6e8f0;
+  --text-2: #b1b7c9;
+  --muted: #939ab2;
+  --faint: #8d94ac;
+  --accent: #86a4f2;
+  --accent-2: #5a7bdc;
+  --accent-soft: #232c4a;
+  --on-accent: #0f1320;
+  --name: #74c8be;
+  --tag: #aaa0ee;
+  --heading: #f0888f;
+  --ok: #82c9a0;
+  --warn: #e3b56c;
+  --danger: #ef8089;
+  --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+  --radius: 10px;
+  --sans: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  /* Georgia is deliberately absent: it has no glyphs for stacked Vietnamese marks (ế, ổ, ậ) */
+  --serif: "Noto Serif", "Palatino Linotype", Cambria, "Times New Roman", serif;
+  color-scheme: dark;
+}
+:root[data-theme="kem"] { --bg: #f6efdc; --side: #ece3cb; --panel: #fbf6e8; --panel-2: #f1e8d0; --panel-3: #e6dcc0; --line: #dccfae; --line-ui: #8d8066; --text: #2b2418; --text-2: #4d4330; --muted: #675b43; --faint: #6f6349; --accent: #2f5bd0; --accent-2: #1f46b0; --accent-soft: #dbe5fb; --on-accent: #ffffff; --heading: #b8324c; --ok: #1f7a3d; --warn: #8a5a00; --danger: #b3303c; --name: #13766b; --tag: #5b3fb0; color-scheme: light; }
+:root[data-theme="than-am"] { --bg: #1b1916; --side: #151310; --panel: #24211d; --panel-2: #2c2823; --panel-3: #38332c; --line: #2f2b25; --line-ui: #787166; --text: #e4ddd0; --text-2: #bdb4a4; --muted: #a59c8e; --faint: #a39a8c; --accent: #e0a85f; --accent-2: #c4863a; --accent-soft: #3a2c18; --on-accent: #1b1208; --heading: #e8947a; --ok: #93c48a; --warn: #e3b56c; --danger: #ee8a82; --name: #7cc4b8; --tag: #b8a4e6; color-scheme: dark; }
+:root[data-theme="giay-am"] { --bg: #f4ecd8; --side: #ebe0c4; --panel: #faf4e4; --panel-2: #f1e7cd; --panel-3: #e5d9b9; --line: #dccfae; --line-ui: #8c7e63; --text: #33291a; --text-2: #54472f; --muted: #6b5d44; --faint: #6b5e46; --accent: #8a4b1f; --accent-2: #6e3a14; --accent-soft: #f0dcc0; --on-accent: #ffffff; --heading: #a23b32; --ok: #2f6b35; --warn: #8a5a00; --danger: #a8322f; --name: #1f6f66; --tag: #5f3fa8; color-scheme: light; }
+:root[data-theme="suong-xanh"] { --bg: #edf2f0; --side: #e1e9e6; --panel: #f7faf8; --panel-2: #e8efec; --panel-3: #dbe5e1; --line: #d2ddd9; --line-ui: #758885; --text: #1d2928; --text-2: #3d514f; --muted: #526966; --faint: #536967; --accent: #276a64; --accent-2: #1b524d; --accent-soft: #d4e8e4; --on-accent: #ffffff; --heading: #a8433f; --ok: #2b6e3b; --warn: #8a5a00; --danger: #a8322f; --name: #1f6f66; --tag: #5a46a6; color-scheme: light; }
+:root[data-theme="trang"] { --bg: #ffffff; --side: #f3f4f6; --panel: #f8f9fb; --panel-2: #eef0f4; --panel-3: #e1e4ea; --line: #dde0e7; --line-ui: #848b96; --text: #1a1a1a; --text-2: #3b424d; --muted: #58606e; --faint: #5b6371; --accent: #2f5bd0; --accent-2: #1f46b0; --accent-soft: #e1e8fb; --on-accent: #ffffff; --heading: #b8324c; --ok: #1f7a3d; --warn: #8a5a00; --danger: #b3303c; --name: #13766b; --tag: #5b3fb0; color-scheme: light; }
+:root[data-theme="sepia"] { --bg: #ead9b6; --side: #dfcb9f; --panel: #f1e4c7; --panel-2: #e4d2a8; --panel-3: #d8c493; --line: #cdb888; --line-ui: #837048; --text: #3b2d17; --text-2: #4f3e20; --muted: #5f4c28; --faint: #62502b; --accent: #7a3f12; --accent-2: #5f2f0a; --accent-soft: #e6cfa4; --on-accent: #ffffff; --heading: #8f2f26; --ok: #2a5e2f; --warn: #7a4e00; --danger: #9a2a28; --name: #1b5f58; --tag: #58389c; color-scheme: light; }
+:root[data-light] { --shadow: 0 1px 2px rgba(60,40,10,.08), 0 6px 20px rgba(60,40,10,.08); }
+:root[data-light] .modal-back { background: rgba(40, 30, 10, .35); }

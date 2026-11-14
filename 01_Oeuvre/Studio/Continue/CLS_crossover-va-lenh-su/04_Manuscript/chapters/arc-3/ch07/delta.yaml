@@ -1,0 +1,112 @@
+﻿# State delta - CLS arc-3 ch07 (第七章 第七日) - TRICH 02/11/2026 - POV phong Robin - 7.01 luan ban (Robin/Sparkle) -> 7.02 Boom, 谐乐大典, Jade, Firefly 去吧 -> 7.03 nguoi do goi Jason (giong) -> 7.04 tran Sunday, nguoi do do ban tay, 我在听
+# TRANG THAI: proposed 02/11/2026 (finalize-chapter Mode 1, chi de xuat; KHONG apply). Trich boi xuong-lam (mot tac nhan), cung phien viet/sua chuong - khong doc lap.
+# Nguon chuong: ch07-chapter.md ban HIEN TAI (tieng Trung, POV phong Robin, draft, 5.900 chu Han, sau soat mach ch07-review.md).
+# Delta doc theo THAN CHUONG (sau frontmatter), khong theo plan. Moi cum trong dau ngoac vuong goc la chuoi con NGUYEN VAN cua than chuong (kiem bang may truoc khi bao xong).
+# Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan. Aurel chua tra loi = chua ap mac dinh. Khong muc nao chan.
+# Khoa "chapter" = a3-ch07 (khuon ch01-ch06).
+#
+# ===== Bi mat: KHONG dung secrets/ (changes.secrets de trong) =====
+#   Giong Jason (7.03): chi la giong, khong hinh, khong noi o dau / dang lam gi. Ten 杰森 chi March noi (tien le arc 2) - ten khong phai bi mat.
+#   Robin, Firefly, Soi Bac, Dahlia nghe giong Jason lan dau (Robin: 「知更鸟没有听过这个声音。」) - da o unknown_to cua jason-da-chet-va-song-lai. Chuong khong co chu nao ve chet / song lai / the gioi cu / ly do Jason chac => known_by / unknown_to / suspected_by khong doi.
+#   Black Swan khong phan ung. Nguoi do: ten khong len trang, khong ai doan. giong-khong-ten-la-dazai: khong co giong Dazai o ch07 (nguong 2 Dazai da cham tran 2 : 1) - khong doi. nguoi-do-la-tsuna: khong doi.
+#   Chuong khong dat 令使 canh nguoi do; Sunday bi goi la lenh su chi o khoi khong co nguoi do.
+#
+# ===== Hook =====
+#   h-nguoi-do: GIU partially_paid (mat - ch3 arc 3; ten - chua). Bac moi: lan dau DO ban tay cua Sunday tren phim (khong ra don); tra ca hai ve cua ch06 (chan, roi nghe) -> 「……我在听。」; goi Jason (giong) lan thu hai tren phim. Khong ten. Them dong Tien do (sua tay).
+#   h-giong-khong-ten, h-ung-vien-gia-toc, h-ipc-muon-jason: KHONG cham (Jason 「拽住了就行。」 khong vong hook nao).
+#
+# ===== Nguong 2 Tsuna-Jason (dong bo, D-6 trong ch07-plan-a3) =====
+#   7.03: Jason lam thay mot viec ngoai giac mo (ap chuyen hang: 「我答应了人，明天帮着押一趟货。去不了了。」 -> 「行。我去押。」) => Jason->Tsuna +1 (arc 3 ch07 = 1). Tsuna->Jason = 1 (arc 1 ch07, don tang duoi dai truyen hinh) => 1 : 1. Chi vao relationships/tsuna--jason-cls.md va arcs/dan-y-arc-3-tsuna-v2-cls.md dong ~86 (sua tay).
+#   Cach do o ngay thu bay la nguoi do TU doc (「他最后会落下来一次。落在哪儿，我站哪儿。」) - khong tinh cho Jason. Jason noi to phan dau (「疼就说疼」) la phan quan he, khong tinh them. Khong co viec nguoi do lam ho Jason trong cuoc goi.
+#
+# Quy uoc ten: 知更鸟 = Robin, 星期日 = Sunday, 星 = Stelle, 三月七 = March 7th, 丹恒 = Dan Heng, 姬子 = Himeko, 瓦尔特 = Welt, 流萤 = Firefly, 银狼 = Silver Wolf, 花火 = Sparkle, 翡翠 = Jade, 黄泉 = Acheron, 杰森 = Jason.
+# Tinh huong khung: phong chieu (POV Robin), giu cho ngoi, 11 nguoi. 7.01 Robin tinh o 太一之梦, Sparkle cuoc ca hanh tinh, Robin chon hat, 谐乐大典 mo. 7.02 Jade, Boom 十二时刻, Firefly 去吧, Sunday bi keo xuong.
+#   7.03 (PHIEN DAT) nguoi do qua dong do goi giong: tu noi cho dung, nho Jason ap hang, noi 难受. 7.04 bay ngay, nguoi do do ban tay o ngay thu bay, tieng hat Robin, Sunday nga, 我在听.
+# Nhan: toan bo 7.03 + cach nguoi do chan 7.04 + cac cau trong phong + mot so cau dien y cua Sparkle va Doan tau = PHIEN DAT / DE XUAT (khong canon).
+
+chapter: a3-ch07
+status: committed
+committed_at: 2026-11-02
+proposed_at: 2026-11-02
+
+changes:
+
+  hooks:
+    h-nguoi-do:
+      # Bac moi: (1) 7.03 goi Jason (giong) tu dong do sau Boom; tu noi cho dung (cua chinh nguoi do), nho Jason lam thay mot viec ngoai mo, noi 难受. (2) 7.04 lan dau DO ban tay (khong ra don) de ngan Sunday; (3) tra ve sau cua ch06: chan roi nghe -> 我在听. Khong ten, khong lenh su canh nguoi do.
+      # (phim, 7.03) 「一边走，一边从口袋里取出一块巴掌大的东西，黑的，扁扁的，一面透着微光。拇指按下去，举到耳边。」
+      # (phim, 7.03) 「他最后会落下来一次。落在哪儿，我站哪儿。」 · 「“……疼。”他说，“他是我朋友，他要是动手，我当然……”」 · 「“嗯。”隔了一息，“……难受。”」 · 「他笑了一声，很短。“我去拦住他。”」
+      # (phim, 7.04) 「那个人已经站在它要落的地方。」 · 「他抬起右手，五指张开，什么也没有拿。」 · 「他没有退，不往上顶。」
+      # (phim, 7.04) 「那个人一直站在几步外，这时走近了，没有挤到姑娘前面，只在旁边俯下身，把头低到能听清的地方。」 · 「“……我在听。”」
+      status: partially_paid
+      # payoff_status: KHONG doi so voi ch06 (guong mat - ch3 arc 3; ten - chua dat).
+
+  secrets: {}
+
+  characters:
+    robin:
+      state: "Phong, POV, hang dau canh Sunday; khong quay lai lan nao. Nghe chuyen nha minh (bai hat cua me, cau hoi cua anh) bi chieu truoc muoi nguoi: khong cui dau, khong quay mat, tay nam vat ao mot cai roi buong. Nghe giong Jason lan dau, chi biet them cai ten March goi; noi dua lan dau: 「……排在我后面。」 (dua tren nhung gi vua nghe). Nhan ra not thap bi bo trong ban nhac tren tuong. Nghe cau 我在听."
+      evidence: "「她没有低头，也没有把脸转开。手指攥住裙摆的边，只攥了一瞬，就松了。」 · 「知更鸟没有听过这个声音。」 · 「她没有回头，对着墙，说得很轻：“……排在我后面。”」 · 「知更鸟听出了那个缺口。」 · 「知更鸟听着那句【我在听】。句尾往下沉了沉，停住了，没有拖。」"
+    sunday:
+      state: "Phong. Nghe em gai ke ve bai hat cua me va cua anh: im, co tay xoay nua vong. Nghe 骂他一顿: tay tren dui mo ra roi hop lai. Ngay thu bay: hai tay cai chat vao nhau, khot trang. Nhin ban tay tren tuong dung tren tay khac rat lau: 「……他接住了。」 Cuoi, thao tay ra khoi dau goi, ngon tay buong tung ngon; khong noi them. Chuong khong noi Sunday biet nguoi do la ai."
+      evidence: "「身边的星期日，在墙上说到【哥哥也在哼】的时候，搭在膝头的手腕轻轻转了半圈，又摆回原处。」 · 「星期日的两只手搭在膝上，手指一根一根扣进另一只手的指缝里，扣紧了，指节泛白。」 · 「星期日看着墙上那只手停在另一只手上，看了很久。他开口，声音低得几乎出不来：“……他接住了。”」 · 「星期日把两只手从膝上拿开，放在扶手上，指节一根一根松了。」"
+    stelle:
+      state: "Phong va phim. Phim: tra loi cau hoi cua Sunday o cuoi tran bang 「因为总有一天，要醒的。」; danh Khach Vo Danh dong cuoi vao co tay ban tay. Phong: nhan ra giong Jason bang cau cua chinh minh o arc 2: 「……说守就守的那个。」"
+      evidence: "「“……说守就守的那个。”星说。」 · 「星把球棒垂下来，没有再抡。“因为总有一天，要醒的。”」 · 「星从他们中间冲出去，球棒抡圆，一棒落在那只手的腕上。」"
+    march-7th:
+      state: "Phong. Goi 杰森 khi nghe giong (tien le arc 2). Hoang khi Boom; khen Robin tren phim; hoi Himeko 「都还活着？」."
+      evidence: "「“杰森！”三月七的嗓子一下蹿高，自己又把它按下去，“是杰森对吧？是他！”」 · 「“……她好凶。”三月七压着嗓子，隔了半秒，又补一句，“好帅。”」 · 「“……都还活着？”她放低了嗓子，问姬子。」"
+    dan-heng:
+      state: "Phong. Keo phong ve tuong bang 「电话还没挂。」 (7.03); nhan xet ngay thu bay 「他一步也没退。」 Khong goi ten nguoi do, khong goi ten Jason."
+      evidence: "「“电话还没挂。”丹恒说。」 · 「“他一步也没退。”丹恒说，是对着墙说的。」"
+    himeko:
+      state: "Phong. Keo nhip bang cau ngan: 「她还没选。」 (7.01), 「都还活着。」 (7.02), 「它还在念。」 (7.04). Tren phim: noi voi Sunday 「星期日先生，该醒了」."
+      evidence: "「“她还没选。”姬子说。」 · 「“都还活着。”姬子说，“坐好。”」 · 「“它还在念。”姬子说。」"
+    welt:
+      state: "Phong. 「他往高台去了。」 (7.03); 「开始了。」 (7.04); kinh: tieng gong kinh gap lai o ngay thu bay (khong ai dem). Khong noi gi ve giong Jason."
+      evidence: "「“他往高台去了。”瓦尔特说。」 · 「“开始了。”瓦尔特说。」 · 「后头，瓦尔特那边，镜片轻轻咔了一声，接着是镜腿折拢的响动。」"
+    firefly:
+      state: "Phim 7.02: noi 「别担心」 va 「去吧。」 voi Stelle; dung nguyen cho, khong buoc tiep. Phong: vai ao cho mot tieng khi nghe cau cua minh; khong noi gi. Chuong khong chieu viec Firefly roi di, khong cai chet lan ba, khong noi ve nguoi do / Jason cho Firefly."
+      evidence: "「流萤先说：“别担心。”接着说：“去吧。替他们去，也替我去，把‘开拓’的资格拿回来。”」 · 「知更鸟听见第三排的衣料响了一声，轻得只有肩头擦过椅背那么大，是流萤。」"
+    silver-wolf:
+      state: "Phong. 7.01: cuoi mot tieng khong tra loi; 7.03: mot tieng khi nghe 骂他一顿; khong lap dua ve tin hieu. Chuong khong noi Soi Bac biet gi ve Jason hay nguoi do."
+      evidence: "「银狼从鼻子里笑了一声，没有接话。」 · 「银狼“嗤”了一声，没再说什么。」"
+
+  relationships:
+    # Chi ghi nhan cho nguoi viet tu cap nhat prose. Khong dem tren he thong.
+    tsuna--jason-cls:
+      note: "7.03 (phien dat): nguoi do goi Jason (giong, qua dong do sau Boom). Jason hoi 「那你怎么拦？」, nguoi do tu doc chon dung; Jason ap chuyen hang thay (viec ngoai giac mo) => Jason->Tsuna +1 = 1 (arc 3 ch07); Tsuna->Jason = 1 (arc 1 ch07, don tang duoi dai truyen hinh) => 1 : 1 (D-6). Jason noi to phan dau thay nguoi do (「疼就说疼」) -> nguoi do tu noi 「难受」: phan quan he, khong tinh them. Ma sat: Jason de nghi toi (「要我过去吗？」), nguoi do tu choi, Jason nhan - nguong 6. Khong ten Tsuna tren trang; 杰森 chi March goi."
+      evidence: "「“要我过去吗？”那头问。」 · 「“不用。你来不及。”」 · 「“我答应了人，明天帮着押一趟货。去不了了。”」 · 「“行。我去押。”答得又快又短，没有多问。」 · 「“那就说出来。疼就说疼。”」 · 「“……拽住了就行。”」"
+    nguoi-do-sunday:
+      note: "7.04 (phim): nguoi do dung san o cho ban tay cua 「哲学的胎儿」 se ha, do bang mot ban tay khong, khong lui, khong day nguoc, khong ra don; Khach Vo Danh danh don cuoi. Sunday nga: nguoi do dung canh, khong chen, 我在听. Phong: Sunday nhin ban minh chan chinh minh - 「……他接住了。」 Khong ghi dong co, khong ten."
+      evidence: "「他抬起右手，五指张开，什么也没有拿。」 · 「他没有退，不往上顶。肩膀没有塌，抬着的那条手臂稳稳的；脚下的石板一块接一块往里碎。」 · 「星期日看着墙上那只手停在另一只手上，看了很久。他开口，声音低得几乎出不来：“……他接住了。”」 · 「“……我在听。”」"
+    robin-sunday:
+      note: "Phong, hang dau: Robin tu nghe chuyen nha minh truoc Sunday; Sunday nghe em gai noi anh hay ngan bai cua me; Robin noi dua 「……排在我后面。」, Sunday dap 「……嗯。」 (duoi am lo); cuoi chuong khong ai noi gi. Khong doi con so."
+      evidence: "「她没有回头，对着墙，说得很轻：“……排在我后面。”」 · 「星期日停了停。“……嗯。”」 · 「他没有说话，她也没有。」"
+
+  timeline:
+    # Project chua co timeline/. Moc ghi cho nguoi viet.
+    a3-ch07-phong: "Noi tu cuoi ch06 (tuong: pho trong, mot nep gap). Phong van 11 nguoi giu cho ngoi, khong ai vao ra, Robin khong quay lai lan nao. Kinh Welt gap lai (khong ai dem) o ngay thu bay. Cuoi chuong: tay Sunday buong; tuong chi con cai bục co vong lun."
+    a3-ch07-phim: "Theo thu tu 3.8 tang ba: Robin tinh o 太一之梦, Sparkle cuoc ca hanh tinh, Robin chon hat; 谐乐大典 mo -> Jade niem cau dang 琥珀王, Sparkle Boom (十二时刻 no), Firefly 去吧, Sunday bi keo xuong cap lenh su -> 7.03 (phien dat) nguoi do qua dong do goi giong, 我去拦住他 -> 7.04 Septimus -> Embryo, bay ngay, ngay thu bay nguoi do do ban tay, tieng hat Robin, Khach Vo Danh don cuoi, Sunday nga, 我在听."
+
+  arcs: {}
+    # AUREL: trang thai arc 3 van proposed. Ch07 khong doi trang thai arc. MAC DINH: khong doi.
+
+  new_entities:
+    - "AUREL (1) V4: 「开场嘛，总得响一点。」 (Sparkle sau Boom) - MAC DINH: giu (thay cau bao truoc phao hoa ch08). Neu Aurel muon cau khac, sua trong chuong; delta khong doi."
+    - "AUREL (2) 生命为什么要睡着: dien lai 生命因何而沉睡 (TextMap cn). MAC DINH: giu ban dien lai. Neu Aurel muon dung nguyen van TextMap, sua trong chuong; delta khong doi."
+    - "AUREL (3) L12: vong lun x3 o ngay thu bay (cac dong 'dat lun thanh mot vong') - MAC DINH: giu. Neu Aurel thay lap, doi; delta khong doi."
+    - "AUREL (4) L5 [thieu]: vi tri cau 'chang dem dai ... that bai' so voi loi Jade (TextMap 22317 khong tim thay tren ban tach). MAC DINH: khong chan; neu tim duoc, doi cau trong chuong; delta khong doi."
+    - "AUREL (5) viec ap hang (phien dat): Jason ap chuyen hang thay nguoi do (「明天帮着押一趟货」) la viec ngoai giac mo cu the, khong noi chon, ten nguoi nhan. MAC DINH: giu; day la thu dem Jason->Tsuna +1. Neu Aurel doi viec khac, sua chuong; neu bo thi nguong 2 quay ve 0 : 1, can tinh lai."
+    - "Khong co note moi can tao tu delta. Ngoai hinh 神主日 / 「哲学的胎儿」星期日 chua co trong Penacony-npc-ngoai-hinh.md - viec rieng (xem bookkeeping)."
+
+  bookkeeping:
+    - "ch07-chapter.md (arc 3): status draft -> final (sau duyet). 5.900 chu Han."
+    - "Secrets: KHONG doi (changes.secrets rong) - xem khoi chu thich dau file."
+    - "Hook: h-nguoi-do giu partially_paid; payoff khong doi; them mot dong Tien do (sua tay). h-giong-khong-ten khong cham."
+    - "SUA TAY - hooks/h-nguoi-do.md, bang Tien do (them dong ch07 arc 3, sau dong ch06): | ch07 arc 3 *(chot 02/11, hang doi)* | Lan thu hai goi mot giong qua dong do 十二时刻 sau Boom *(7.03, phien dat)*: ben kia la **Jason, chi giong** *(March 「杰森！」; ten khong phai bi mat)*; nguoi do tu doc cho dung *(「落在哪儿，我站哪儿」)*, nho Jason ap chuyen hang, bi hoi 「疼不疼」 va tu noi 「难受」; chot 「我去拦住他」. Lan dau **DO ban tay cua Sunday** tren phim *(7.04)*: dung san o cho ban tay ha, nam ngon tay khong, khong lui, khong ra don; Khach Vo Danh danh don cuoi. Tra ca hai ve cua ch06 *(chan, roi nghe -> 「……我在听。」)*. Phong: Sunday 「……他接住了。」; Robin noi dua 「……排在我后面。」 Khong ten, khong ai doan. | partially_paid |"
+    - "SUA TAY - relationships/tsuna--jason-cls.md, bang 'Dien bien theo arc' (thay dong 'chua co' bang dong dau tien) va muc Nguong: | arc 3 ch07 *(chot 02/11)* | Cuoc goi 7.03 *(phien dat)*: Jason nhan ap chuyen hang thay *(「行。我去押。」)* => **Jason→Tsuna = 1**; Jason hoi cach, Tsuna tu doc cho dung; Jason noi to cho dau *(「疼就说疼」)*, Tsuna tu noi 「难受」. **Nguong 2:** Jason→Tsuna 1 *(arc 3 ch07)* : Tsuna→Jason 1 *(arc 1 ch07)* = **1 : 1**. Nguong 6: Jason de nghi toi, Tsuna tu choi, Jason nhan. Jason chi la giong; 杰森 chi March goi. |"
+    - "SUA TAY - arcs/dan-y-arc-3-tsuna-v2-cls.md dong ~86 (ve Jason): thay bang 'Jason→Tsuna 1 *(ch7 — làm thay một việc ngoài giấc mơ)*, Tsuna→Jason 1 *(arc 1 ch7 — dọn tầng dưới)* — **1 : 1**'; bo cau 'phải có Tsuna→Jason ở vòng 2' va 'chưa được đếm vào ai — [mở]' (theo D-6 trong ch07-plan-a3)."
+    - "tien-do-ba-arc.md: ghi arc 3 ch07 (sua tay)."
+    - "Viec rieng (ngoai delta): them hai dong 神主日 va 「哲学的胎儿」星期日 vao MAIN-DATABASE/HSR/characters/Penacony-npc-ngoai-hinh.md (ch07-plan-a3 muc Nguon ngoai hinh)."
+    - "Diem tro sang ch08: Sunday nga o 太一之梦, Robin ben anh; moi viec sau do la ch08. Ch07 khong tro truoc."

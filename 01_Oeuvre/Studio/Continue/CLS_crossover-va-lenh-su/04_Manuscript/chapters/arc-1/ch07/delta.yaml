@@ -1,0 +1,183 @@
+﻿# State delta — CLS arc-1 ch07 (第七章 不计价)
+# TRANG THAI: proposed 25/10/2026 — chua duyet, chua ap. Aurel chua dong y chot chuong (finalize-chapter Mode 1).
+# ch07-chapter.md dang status: draft (ban tieng Trung, sua 25/10 sau soat mach 0 nang). Delta nay doc theo THAN CHUONG, khong theo plan.
+# Moi dong co cau lam bang chung (nguyen van ch07-chapter.md). Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan.
+# Aurel chua tra loi = chua ap mac dinh.
+# Da kiem: than chuong khong chua chu nao trong leak_terms cua ba secrets (grep tung chu: 0 ket qua). Khong co 令使 · 阿哈 · 众神 · 候选 · Nihilux.
+#   Cum 「悬赏」 xuat hien 2 lan (dong 200, 202) — DUNG thuoc truy na cua Boothill (ch05 de danh cho ch07), khong phai leak.
+#   Than chuong KHONG chep lai cau 「人回得来」 (ch06 da gieo; ch07 chi lam bang hanh dong: ban vao khop, khong ban vao cho chet).
+#   Than chuong khong co so nguoi chet; khong ten nguoi duoc goi qua IPC Wolf; khong mat/ten/lua cua 「nguoi do」.
+# Quyet dinh dung: decisions/arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan.md (o 1 IPC Wolf; o 2 camera = A, Aurel 25/10,
+#   sources/user-input/20261025-o-2-camera-ch07-chon-a.md; o 4 khong khang dinh hoi phuc; o 6 cau cua Himeko giao nguoi viet).
+# Quy uoc: ban tieng Trung dung 不死途 = Ashveil, 波提欧 = Boothill, 星 = Stelle, 姬子 = Himeko, 瓦尔特 = Welt, 星期日 = Sunday,
+#   砂金 = Aventurine, 丹恒 = Dan Heng, 三月七 = March 7th, 朽叶 = Kuchiba, 真珠 = Pearl, 满愿 = Fulwish, 刃 = Blade, 银狼 = Silver Wolf.
+
+chapter: ch07
+status: committed
+committed_at: 2026-10-25
+proposed_at: 2026-10-25
+changes:
+
+  hooks:
+    h-nguoi-do:
+      # LAN 2 dung ke hoach (hook note: ch7 = tang duoi don truoc, tren camera, trong nhu thu tuc; mot giong thu hai hoa vao luc chinh am).
+      # Gieo 1 (7.01, phim): Jason nhin len: 「上面十几层的灯全亮着，人呢？」; man hinh thang may: 「十九点起全员消防演习，请按排班表有序离岗」, ky ten bang con cua phong xep lich;
+      #   camera tran 「一个挨一个亮着红点，把每道门里撤出去的人影都记了下来，每一帧看上去都是照章办事」 (= camera GHI canh rut nguoi, dung lua chon A).
+      #   Hai nhan vien sanh van o do (go ban phim, man hinh trong).
+      # Gieo 2 (7.01, phim): 星期日抬手按了一下耳边，对着空气说了两个字：「谢谢。」 — Jason nhin Sunday, 「什么也没问」. Day la cau DUY NHAT cho thay co mot ai do.
+      # Gieo 3 (7.05, phim): 「调律的和声里多出了一个声音。没有词，只有一个音，垫在星期日的音下面，稳稳地托着，托到他最高的地方。星期日没有回头。他的肩膀松了半寸。」
+      #   Khong mat, khong ten, khong loi, khong lua. Khong ai tren phim goi ten.
+      # Phong (7.01, 7.05): 三月七 「偏偏挑今晚，运气真差」; 丹恒 「没有接话」; Boothill chi nghi 「那个数香蕉的小子刚才数的，就是这个」 (Jason da dem thay vang nguoi).
+      #   Sau chinh am: 丹恒 「他刚才松了肩。」 — chi noi ve cu chi cua Sunday, khong suy ra nguyen nhan. Khong ai trong phong noi 「co nguoi biet truoc」 (nguong 1 giu).
+      # AUREL (1): doi payoff/status? MAC DINH: khong — status open, payoff giu 「arc 3」. Chi them dong Tien do ch07.
+      status: open
+    h-giong-khong-ten:
+      # GIEO THEO KE HOACH (hook note: ch7 — Jason goi nho, mot giong qua lien lac chi duong tat). Payoff giu arc 2.
+      # Kenh = IPC Wolf (Pearl day lat du lieu vao kenh nhom vi lien lac nhieu; Jason cung nhan duoc, khong noi):
+      #   「所有人的通讯面板同时跳出三个字母和一个单词：IPC Wolf。」 · 「同样的字符在他手腕的面板上亮着，他把袖子往下拽了拽。」
+      # Cuoc goi (7.04): Jason bam mat, nho 「我要你替我想想」; giong dau day 「懒洋洋的，带着含糊的咀嚼声」, an com; hoi ba cau
+      #   (cap dien theo tang? / ho dua vao gi de nhan duong? / 「这一层，哪儿的线最粗？」) roi chi duong tat: dung danh nguoi, cat 信号中继箱 o cuoi hanh lang.
+      #   Jason cai lai: 「你怎么知道门上贴着字？」 · 「你每次都……」 (Jason tu cat nua cau, giong hoi nguoc 「我每次都怎么？」 — khong ai giai thich).
+      #   Jason KHONG goi ten; giong KHONG xung ten; khong di nang, khong chi tiet nao ve nguoi do.
+      # Phong (7.04): 丹恒 「他没叫名字。从头到尾，一次都没叫。」 · 「他叫都不用叫。」 (= nhan ra su quen thuoc, khong doan ai). 砂金 「那条线，是公司的」 · 「听不出是谁」.
+      #   Rappa: 「那位无名忍者，在下也没认出来。」 — 「在下认得出所有会翻窗的。那位不翻窗。」
+      # AUREL (2): MAC DINH khong ghi y nghia cua 「你每次都……」; chi ghi cu chi (Jason nhuoc nua cau). Khong ghi 'Jason quen giong nay' thanh su that.
+      status: open
+    h-ipc-muon-jason:
+      # DINH dung ke hoach (hook note: dinh o ch7, khong dong trong arc 1). Them dong Tien do ch07; status giu proposed.
+      # (7.03, phong) 砂金 doi sang goi 「波提欧先生」: 「战略投资部想开个价」; 「对着你。你认识他，你坐在他那边。」 — Boothill: 「巡海游侠没有代理人。」
+      #   Gia that, khong phai 估值: 「数字很长，后头跟着两行条款，条款里没有一个字带「不」」; thuoc = tien thuong truy na cua Boothill:
+      #   「公司悬赏你的那张单子，这个数是它的两倍。」 (KHONG co con so trong than chuong.) 「上回是估值。这回是报价。报价不闲聊。」
+      #   Boothill: 「墙上那个人，不在这间屋子里，你的账上收不进来。」 — 砂金: 「现在还不在。」 / 「我要的是他肯接活。肯接活的人，价钱都不低。」
+      #   Welt: 「好让他不必再站在这样的走廊里，替别人站。」 — 砂金 「瓦尔特先生说得比我的合同还准」, 「没有再开玩笑」. Boothill 「没笑」.
+      # (7.04) 砂金: 「那条线，是公司的」 — duong day IPC Wolf thuoc cong ty, nhung khong nghe ra giong ai. Hook KHONG dong.
+      # AUREL (3): hook h-ipc-muon-jason dang status proposed — doi sang open? MAC DINH: khong doi. Chi them dong Tien do ch07.
+      status: proposed
+    h-nguoi-ta-ve-duoc:
+      # NHAC LAI qua HANH DONG, khong lap lai cau chu (hook note: ch7 khi han cam chan ma khong giet). Them dong ch07; status open.
+      # (7.04, phim) Jason khong rut sung truoc: quyen/khuyu tay/vai; khi rut: 「枪口压得很低，一枪一个关节：膝盖，脚踝，肘弯。子弹不会偏，也没有一发往要命的地方去。」
+      #   Nguoi ship hang bi ban gay tay van tiep tuc cuoi, di tiep; Jason 「枪口停了半拍，才又落下去」. Han nhin nhan vien sanh tre: 「拳头收回了一半，只用肩膀把他顶回墙上」.
+      # (7.04, phong) Boothill: 「他在选。选的是不要命的地方。」 · Welt 「每一枪都留了余地」 · Himeko 「留余地，比不留难得多」 — noi ve DO TAY, khong noi 「vi sao chac」.
+      # (7.05, phim) Dau 「ve lai」: ba nguoi keu dau LAN DAU — 赤焰 「左臂折在身下…一声惨叫」, 苍翼 「我肋骨，疼」, 曙光 「腰！我的腰！」; ngay sau do 赤焰 dung len nho nguoi la, 「疼得嘴都歪了」.
+      #   KHONG ai tren phim hay trong phong binh luan dau hieu nay. Khong khang dinh hoi phuc (quyet dinh o 4).
+      # Khong ai hoi vi sao Jason chac; khong ai doan ve cai chet (B7).
+      # AUREL (4): doi payoff/status? MAC DINH: khong — status open, payoff giu 「arc 4」.
+      status: open
+
+  secrets:
+    # Khong secret nao doi known_by / suspected_by. Doc bao thu:
+    #   jason-da-chet-va-song-lai: ch07 cham nhe (hanh xu 'cam chan ma khong giet') nhung KHONG co cau nao noi ve cai chet; khong ai trong phong doan.
+    #     Khong them suspected_by cho Boothill, Himeko, Welt hay phong. AUREL (5): MAC DINH khong them.
+    #   nguoi-do-la-tsuna: ch07 hien o hai cho (camera/thong bao dien tap; giong thu hai luc chinh am). Khong mat, khong ten, khong lua, khong ai goi.
+    #     Nguoi tren phim (Sunday) noi 「谢谢」 voi khong khi — la cu chi, khong phai nhan dang. Phong khong suy ra. Khong doi known_by / suspected_by.
+    #   giong-khong-ten-la-dazai: giong qua IPC Wolf xuat hien (7.04). Khong ten, khong di nang, khong chi tiet ben ngoai game. Phong 「听不出是谁」. Khong doi.
+    {}
+
+  characters:
+    jason-todd:
+      state: "Phia duoc chieu, cung toi FES (khung 19:00 dien tap). Vao dai Fulwish tu truoc, da dung o sanh khi Stelle va Himeko toi; dem loi thoat: 「五个。其中三个我不想走。」 Ao khoac, dong tien 愿宝 treo day do thong ra tu co ao, va vao khuy ao keu 「叮」. Thay tang tren sang den nhung vang nguoi, doc tho bao dien tap 19 gio, nhan ra camera ghi ca canh rut nguoi (「夜班换岗不会连保洁都换了」); liec Sunday khi Sunday noi 「谢谢」 voi khong khi — khong hoi. Khi dam dong chia nhom (Himeko 「我留下」, Ashveil 「我留下」, Sunday phan doi chia nho 谒者), Jason noi 「我又不是谒者」, dung san o doan hanh lang hep nhat: 「你们往上，我在这条走廊里不吃亏」, 「守不住就退，退不动就拖」, 「我在下面还有件事没做完」. Thay 3 chu IPC Wolf tren bang co tay, keo ong tay xuong che di, khong noi. Tien dam dong tu ngoai pho tran vao hanh lang: khong rut sung, ra tay vao dau goi, khuyu tay, nach vai; khi rut sung thi ban tung khop (goi, co chan, khuyu), khong phat nao vao cho chet; mot nguoi ship hang bi ban gay tay van tiep tuc di, sung dung nua nhip roi moi ha; dem den 37 roi dem lai tu dau; 「这样不行」. Ba Chien Binh (赤焰 · 苍翼 · 曙光) toi, da hoa Joy; tu ve bao quanh. Bam vao bang co tay goi IPC Wolf: 「我要你替我想想」; tra loi cau hoi cua giong dau day; lam theo chi dan: 踹 cua dau tien (phong choi), 踹 cua doi dien ghi 「闲人免进」, giat nguyen hop 信号中继箱 ra; den hanh lang tat mot nac; dam dong mat huong. Cai lai giong ay (「你怎么知道门上贴着字？」 · 「你每次都……」), khong goi ten. Kuchiba toi tiep: 「能走的，让他们自己出去」, 「他们现在是最不会骗人的一批」; hai nguoi dung lung vao lung giu doan hep. Khi ba Chien Binh tinh lai va keo dau, dung ba buoc, sung da vao bao, khuy da cai; khong lai gan, khong noi. Kuchiba: 「你刚才那几下打在哪儿，我记着。」 — 「记着吧。」 — 「我没说你打错。」 — 「我知道。」 Cuoi: dung nguyen o doan hep, tay phai buong, khop ngon tay them vai vet toc. Han KHONG goi Ashveil la 老板 hay 领队 o ch07; KHONG nhac 巡海游侠; KHONG lap cau 「人回得来」."
+      evidence: "「杰森靠着另一侧的柱子，手里转着一支笔，红绳挂的愿宝铜钱从外套襟口荡出来，撞在扣子上，叮的一响。」 · 「“五个。其中三个我不想走。”」 · 「“上面十几层的灯全亮着，”他说，“人呢？”」 · 「“夜班换岗不会连保洁都换了。”杰森说。」 · 「星期日抬手按了一下耳边，对着空气说了两个字：“谢谢。”声音很小。杰森看了他一眼，什么也没问。」 · 「“我又不是谒者。”杰森说。」 · 「“你们往上，”他说，“我在这条走廊里不吃亏。”」 · 「“守不住就退，退不动就拖。”杰森说，“拖到你们下来。”他顿了一下，“我在下面还有件事没做完。”」 · 「同样的字符在他手腕的面板上亮着，他把袖子往下拽了拽。」 · 「他没有拔枪。头一个冲过来的，他一拳敲在膝盖外侧」 · 「枪口压得很低，一枪一个关节：膝盖，脚踝，肘弯。子弹不会偏，也没有一发往要命的地方去。」 · 「有个送外卖的手臂被他一枪打折，折向背后，那人还在往前走，笑着，用另一只手去够他的衣领。杰森的枪口停了半拍，才又落下去。」 · 「他一边打一边数，数到第三十七个，换了脚下的位置，又从头数了一遍。」 · 「“我要你替我想想。”」 · 「“你怎么知道门上贴着字？”杰森一脚把挡路的曙光蹬开。」 · 「“你每次都……”杰森把后半句咬住了。」 · 「一脚踹开左手第一扇门，里面是个扫帚间……转身又踹开对面那扇写着“闲人免进”的门，伸手进去，把整块中继箱连着线扯了出来。」 · 「“只要还能走，就别带。”杰森说，“能走的，让他们自己出去。”」 · 「“他们现在是最不会骗人的一批。”」 · 「杰森站在三步外，枪早已收进枪套，皮扣扣好了。他没有走过去，也没有说话。」 · 「“你刚才那几下打在哪儿，我记着。”」 · 「“记着吧。”杰森说。」 · 「杰森没有动。他站在走廊最窄的那一段，右手垂在身侧，指节上添了几道新口子。」"
+    ashveil:
+      # Note nhan vat: MAIN-DATABASE/HSR/Ashveil.md. State tren relationship note + jason-todd.
+      state: "Phia duoc chieu, sanh dai. Dung o quay tiep tan, ao khoac dai, tay phai cuon, dinh tan o co tay. Mang tin: tren mat sau to dong y phau thuat viet bang but chi, 「手术里植进去的不是什么营养液。是丰饶孽物的血肉，倏忽的。刃那边的人认过，错不了。」 Noi xong, tay phai nam trong ong tay mot cai roi buong (cu chi ch06, phong khong nhac). Khi Sunday nhac doan ghi am tu van tien phau 「不幸福，就是罪」: 「罪名倒是好记。好记的东西，传得快。」 Tran truoc canh Jason dem loi thoat: 「夜班换岗。」 Khi bang IPC Wolf hien: 「公司想听。」 Trong luc chia nhom: 「我留下」; sau khi Jason tu dung lai, noi them: 「你一个人守不住。」 Roi di sau cung, dung lai nua buoc canh Jason, khong quay dau: 「回来的时候，手脚别少。」 — Jason 「香蕉账还没结」; Ashveil khong quay lai, khong noi them. KHONG co nhip nao Ashveil bao hay hoi ve 「cai bong nem duoc gi」 (ch06 AUREL 11 chua tra). Khong len thap cung Himeko trong doan chuong nay (chi di ra phia cua so)."
+      evidence: "「不死途靠在接待台边上，长外套的下摆搭在柜面，右袖卷着，腕上一排铆钉。」 · 「“手术里植进去的不是什么营养液。”他说，“是丰饶孽物的血肉，倏忽的。刃那边的人认过，错不了。”他说完，右手在袖口里握了一下，又松开。」 · 「“罪名倒是好记。”不死途拿铅笔敲着那页纸，“好记的东西，传得快。”」 · 「“夜班换岗。”不死途说。」 · 「“我留下。”不死途也说。」 · 「“你一个人守不住。”不死途说。」 · 「“公司想听。”不死途说。」 · 「不死途走在最后。他在杰森身边停了半步，没有转头：“回来的时候，手脚别少。”」 · 「“香蕉账还没结。”杰森说。 不死途没有回头，也没有再说话。」"
+    sunday:
+      # 星期日. MAIN-DATABASE/HSR. Chi ghi chi tiet ch07.
+      state: "Phim: nam vung trong dai, tay cam to khai da dien mot nua; thang vong sang toa ra sau lung ha am. Tu ke ve to khai: o muc 【最不幸福的一天】 viet ba dong, xoa hai, nop dong ngan nhat: 【没有】; Rappa goi 「光环无名忍者」; anh khong cai. Cho Ashveil to khai tu van tien phau (「不幸福，就是罪」), 「我混进去拿到的」. Noi 「谢谢」 voi khong khi (Jason chi nhin). Phan doi chia nho 谒者: 「把谒者拆开，正中他们下怀」. Giai thich ve tin hieu: 「信号会拉所有人，包括没动过手的。」 Cuoi: len ria san thap, tu xung 「流亡者星期日」, nhan danh 「共愿帮三十三位亡者」, xin ca thanh pho trao so hai, 「今天，我要护住所有人觉得疼的权利」; chinh am; so hai tu nguoi dan thanh anh sang xam trang va hoi tu ve vong sang cua anh. Giua luc chinh am, mot am thu hai (khong loi) hoa vao duoi am cua anh; anh khong quay lai, vai chung nua tac. Phong: anh nhin ban tay minh rat lau, lat sap lat ngua; Stelle hoi 「你那时候，是一个人吗？」 — 「是。」 (AUREL 6: Sunday tren phim vs Sunday trong phong — xem duoi)."
+      evidence: "「星期日站在他旁边，身后的光环收得很暗，手里捏着一张填了一半的表。」 · 「“【最不幸福的一天】那一栏，我写了三行，擦掉两行，才交上去。”」 · 「“交上去的是最短的那一行。”」 · 「“【没有】。”星期日说，“写得越短，越像一个不愿意提的人。”」 · 「“光环无名忍者，潜伏得这样认真！”」 · 「“这是术前咨询的记录，我混进去拿到的。”他停了一拍，“他们对每个来的人说同一句话：不幸福，就是罪。”」 · 「星期日抬手按了一下耳边，对着空气说了两个字：“谢谢。”」 · 「“不能分开。”星期日说，“把谒者拆开，正中他们下怀。”」 · 「“信号会拉所有人，”星期日说，“包括没动过手的。”」 · 「“我是流亡者星期日。”他说，“我以共愿帮三十三位亡者的名义，请你们把恐惧交给我。”」 · 「“今天，我要护住所有人觉得疼的权利。”」 · 「星期日没有回头。他的肩膀松了半寸。」 · 「星期日还在看自己的手。他把手翻过来，又翻回去。」 · 「“你那时候，”星小心地问，“是一个人吗？” “是。”星期日说。」"
+    himeko:
+      state: "Phim: mac bo moi, ao choang do, vai theu vang; dung o trong cua xoay ba buoc, noi voi Stelle: 「我不是谒者，上不了台。我就站在你看得见的地方。」 Trong luc chia nhom noi 「我留下」; khi Jason tu dung o doan hep, nhin han lau hon can thiet, gat dau: 「那就拜托你了。」 Di len phia cua so ngoai tuong cung Stelle. O tang tren dai: cung Stelle toi dai dieu khien; noi voi Fulwish: 「我知道你想让所有人听见什么。可你不用一直笑。疼的时候喊出来，也算活着。」 Fulwish 「太晚了。笑是他们留给我的唯一一件。」 Khong cuu, khong bien ho (Fulwish van tu tiem, van danh). Phong: khe noi ve noi minh o ben phim goc: 「在我那儿，留在下面的人，是我。」 · 「后来我守住了那一层。守得不太好看。」 · 「所以看着自己往上走，有点不习惯。」 Stelle 「习惯一下。这回你可以看着我。」 Sau thap: 「她对一个正在笑的人，说了那句话。我对每个在笑的人，都想说。」 Khen Jason: 「留余地，比不留难得多。」"
+      evidence: "「“我不是谒者，上不了台。”她对星说，“我就站在你看得见的地方。”」 · 「“在我那儿，”她说，声音压得很低，“留在下面的人，是我。”」 · 「“后来我守住了那一层，”姬子说，“守得不太好看。”她笑了一下，笑得很短，“所以看着自己往上走，有点不习惯。”」 · 「姬子看了他很久，比需要的久。她点了一下头：“那就拜托你了。”」 · 「“我知道你想让所有人听见什么。”她说，声音不高，“可你不用一直笑。疼的时候喊出来，也算活着。”」 · 「“她对一个正在笑的人，说了那句话。”姬子看着自己的手背，“我对每个在笑的人，都想说。”」 · 「“留余地，”姬子说，“比不留难得多。”」"
+    stelle:
+      state: "Phim: dau chuong noi 「这一段往上爬」, 「楼挺高的。我爬过。」 (khong giai thich). Vao sanh cung Himeko, gioi chao Jason: 「小鸟，你也在。」 Doc bang thong bao 「十九点起」 (chi doc to thong bao, khong nho ky uc nao). Di len ngoai tuong cung Himeko. Tren dinh thap: dap bong chay vao kinh hai lan (lan hai kinh va man hinh vo); luot hai Fulwish ngu xuong va khong dung day. Trong phong: ngoi cung March, thi tham: 「他开了这个价，是因为那个人真的值，还是因为他想要？」; sau thap hoi Sunday 「你那时候，是一个人吗？」 Tay cam gay chat lai khi nhin nguoi ship hang gay tay van cuoi."
+      evidence: "「“这一段往上爬。”」 · 「“楼挺高的。”星把球棒的握把转了半圈，“我爬过。”」 · 「“小鸟，你也在。”星说。」 · 「“消防演习。”星把通知念了一遍，“十九点起。”」 · 「星没有躲。球棒第一下敲在玻璃上，只留下一道白印；第二下，玻璃连同满愿身后的几十块屏幕一起碎了」 · 「星看着那个手臂折向背后、还在笑的外卖员，没有说话。她握着球棒的手紧了一下。」 · 「“他开了这个价，”星小声对三月七说，“是因为那个人真的值，还是因为他想要？”」"
+    boothill:
+      state: "Phong chieu, POV. Nghe Aventurine goi 「波提欧先生」, doi: 「巡海游侠没有代理人」; nghe ra gia thuc (con so dai + hai dong dieu khoan, khong chu 「不」), thuoc la gap doi tien thuong truy na cua chinh minh: 「我那张悬赏单，你倒记得清楚」; khong ban nguoi tren man hinh: 「墙上那个人，不在这间屋子里，你的账上收不进来。」 Khong cuoi, bien minh khong cuoi; thoi quen dap tra bang ba cau chua 'chua' da mat (「他往常接这种话，要顺着往下损三句才肯收手」). Nhin lung Jason sau khi roi sanh: nhan ra Jason da dem thu gi (cho vang). Khi Jason ban vao khop: 「他在选。选的是不要命的地方。」 Khi Aventurine noi ve duong IPC: quay dau. Cuoi chuong: go mot cai len tay vin, nghi den cau cua chinh minh trong ch04 (「账上没有，就别往上添」): nguoi tren man hinh da them nhieu vao so cua han va khong doi gia, khong doi mot tieng cam on. KHONG doan giong qua IPC Wolf; KHONG doan 'nguoi da don tang'."
+      evidence: "「“波提欧先生。”砂金开了口。」 · 「“巡海游侠没有代理人。”」 · 「“墙上那个人，”波提欧说，“不在这间屋子里，你的账上收不进来。”」 · 「波提欧没笑。他知道自己没笑，也知道对面的人注意到了。他往常接这种话，要顺着往下损三句才肯收手。」 · 「“我那张悬赏单，”他说，“你倒记得清楚。”」 · 「波提欧听着，视线落在杰森的背影上。那个数香蕉的小子刚才数的，就是这个。」 · 「“他在选。”他说，“选的是不要命的地方。”」 · 「波提欧在扶手上敲了一下，敲完才发觉，屋里谁也没有笑。」 · 「他想起自己在这间屋子里说过的话：账上没有，就别往上添。可墙上那个人往自己账上添了不少，添了还不要价，连一声谢也没等。」"
+    aventurine:
+      state: "Phong chieu. Bat dau cuoc ra gia (7.03): 「战略投资部想开个价」, noi voi Boothill nhu nguoi dai dien (「那就当我对着一张空椅子说话」). Con so dai + hai dong dieu khoan, khong co chu 「不」; thuoc quy ra tien truy na cua Boothill, gap doi. Dinh nghia: 「上回是估值。这回是报价。报价不闲聊。」 · 「我管账。账上的数，我都记得。」 · 「我要的是他肯接活。肯接活的人，价钱都不低。」 · 「写的人没打算，签的人有权打算。」 Khi Welt noi 'mua de han khoi dung o hanh lang', nhin Welt mot nhip: 「瓦尔特先生说得比我的合同还准」, khong dua nua. Sau cuoc goi (7.04): nhan IPC Wolf la cua cong ty, 「真珠切给他们的那一片」, nhin tuong, ngon tay dan roi tach roi dan lai; 「听不出是谁」, 「所以听不出，才叫人在意」, 「我在算这个」. Khong tiet lo ngay minh dang chiu 'mot mang doi mot da' (khong noi)."
+      evidence: "「“战略投资部想开个价。”」 · 「“那就当我对着一张空椅子说话。”砂金把手指搭在一起」 · 「数字很长，后头跟着两行条款，条款里没有一个字带“不”。」 · 「“公司悬赏你的那张单子，这个数是它的两倍。”」 · 「“上回是估值。”砂金说，“这回是报价。报价不闲聊。”」 · 「“我管账。”砂金说，“账上的数，我都记得。”」 · 「“我要的是他肯接活。”砂金说，“肯接活的人，价钱都不低。”」 · 「“写的人没打算，”砂金说，“签的人有权打算。”」 · 「“瓦尔特先生说得比我的合同还准。”他说。他没有再开玩笑。」 · 「“那条线，”砂金说，“是公司的。”」 · 「“公司的耳朵向来灵。”砂金说，“所以听不出，才叫人在意。”」 · 「“我在算这个。”」"
+    welt:
+      state: "Phong chieu. Vet nut tren mat kinh (ch05, ch06): ch07 nhanh nho tach ra them mot nhanh nua — dau nhanh 'rẽ them mot nga nho hon' (luc Himeko ke 'o cho co, nguoi o lai la co'); khi xem Jason chong lai dam dong, lai 'rẽ ra mot nga nho hon nua'. Welt khong cham. Cuoi chuong thao kinh lau roi deo lai, vet nut van o cho cu. Phat ngon o 7.03: nhan xet ve y do cua Cong ty mua mot nguoi nhu the: 「好让他不必再站在这样的走廊里，替别人站。」 Nhan xet o 7.04: 「每一枪都留了余地。」"
+      evidence: "「瓦尔特镜框边上那条细枝，尖端岔出了一道更小的叉。他没有去碰。」 · 「瓦尔特镜框边上那道细叉，又岔出一道更小的。他摘下眼镜，对着灯擦了擦，戴回去，裂痕还在原处。」 · 「“公司买这样一个人，”瓦尔特说，声音平稳，“是为了什么？”……“好让他不必再站在这样的走廊里，替别人站。”」 · 「“每一枪都留了余地。”瓦尔特说。」"
+    march-7th:
+      state: "Phong chieu. Mo chuong hoi Stelle 「这一段不会又往下掉吧？」; khi nghe thong bao dien tap noi: 「演习嘛。偏偏挑今晚，运气真差。」 (doc thuan tuy la 'xui', khong suy ra ai sap xep). Cau hoi cua Stelle ve gia do Aventurine ra: 「在砂金那儿是一回事。」 Cuoi: mo mieng noi, bi Stelle keo ao, thoi. Cam may anh, khong chup trong chuong."
+      evidence: "「三月七先开了口。她把相机抱在胸前……“这一段不会又往下掉吧？”」 · 「“演习嘛。”三月七说。“偏偏挑今晚，运气真差。”」 · 「“这两件事，”三月七也小声说，“在砂金那儿是一回事。”」 · 「三月七张了张嘴，被星拽了一下袖子，又合上了。」"
+    dan-heng:
+      state: "Phong chieu. Trong sanh: 「你上回爬到一半卡在窗框上」 (trach Rappa). Khi xem thong bao dien tap: 「通知是早就排进日程的。」 va im sau 「运气真差」. Tren dinh thap (phim): hien hinh Imbibitor Lunae (饮月), giu vai Blade: 「别催。」 Phong: 「条款里没有‘不’，说明写的人没打算被拒绝。」 Sau cuoc goi: 「他没叫名字。从头到尾，一次都没叫。」 · 「那就更奇怪了。他叫都不用叫。」 Nhin ra Sunday 'nhe vai': 「他刚才松了肩。」"
+      evidence: "「“通知是早就排进日程的。”丹恒说。」 · 「丹恒没有接话。」 · 「丹恒现出饮月的形态，双手压着刃的肩，把他按在原地。“别催。”他说。」 · 「“他没叫名字。”丹恒说。“从头到尾，一次都没叫。”」 · 「“那就更奇怪了。”丹恒说。“他叫都不用叫。”」 · 「“他刚才松了肩。”他说。」"
+    rappa:
+      state: "Phong chieu. Vui nhon nhu cu: 「爬高处，是忍者的本分」, 「那是窗框的错！」; goi Sunday 「光环无名忍者」, goi Jason 「保镖忍者」 (nhu ch06); khi Aventurine noi gia, hạ tay xuong, im. Sau cuoc goi: 「那位无名忍者，在下也没认出来。…在下认得出所有会翻窗的。那位不翻窗。」 (noi ve giong qua IPC Wolf, khong doan ai). Sau thap Fulwish: 「难得没有接话」, kiem dat ngang dui, tua kiem khong dong."
+      evidence: "「“在下也想爬！”Rappa 举起手，“爬高处，是忍者的本分！”」 · 「“光环无名忍者，潜伏得这样认真！”」 · 「“保镖忍者被围了！”」 · 「“在下认得出所有会翻窗的。”Rappa 说。“那位不翻窗。”」 · 「Rappa 难得没有接话。她把剑横在腿上，剑鞘上的流苏一动不动。」"
+    kuchiba:
+      # 朽叶. Da co trong MAIN-DATABASE (ch05, ch06). Chi ghi nhan chi tiet ch07.
+      state: "Phim: o ch07 xuat hien MOT lan, trong hanh lang. Tu cau thang bo len, ao khoac den dinh bui, tay xach cap tay con rong: 「人归我。」 Khi toi Jason noi 「你的人跑得挺快。」 — 「所以我来了。」 Hoi Jason co phai dua het di; Jason de nguoi nao di duoc tu di ra; cô khong hoi them. Hai nguoi dung lung vao lung giu doan hep. Khi ba Chien Binh tinh dau, thu lai tay con rong vao that lung; noi voi Jason cau 「你刚才那几下打在哪儿，我记着。」 — 「我没说你打错。」 roi di theo ba nguoi ra cua. Magnus (灰烬) KHONG xuat hien o ch07 (o lai cho giam, tro lai o 8.01)."
+      evidence: "「朽叶从楼梯井里翻出来，黑外套上沾着灰，手里拎着一副空手铐。“人归我。”她说。」 · 「“你的人跑得挺快。”杰森喘着气。 “所以我来了。”」 · 「“这些都要带走？”」 · 「两个人背靠背，守在走廊最窄的那一段。」 · 「“这三个，”她对杰森说，“你刚才那几下打在哪儿，我记着。”」 · 「“我没说你打错。”」 · 「她回头看了他一眼，什么也没再说，跟着那三个人往门外走。」"
+    pearl:
+      # 真珠. MAIN-DATABASE/HSR. Chi ghi chi tiet ch07.
+      state: "Phim: dai canh dau (7.01) tu choi loi moi tranh bien: 「真珠谢绝了辩论的邀请，画面不去管她，直接切进大厅。」 O 7.02 giong cua Pearl: 「……线路干扰……切片……」, dua lat du lieu IPC Wolf vao kenh nhom (nguoi tren phim thay 3 chu IPC Wolf). Khong xuat hien truc tiep."
+      evidence: "「真珠谢绝了辩论的邀请，画面不去管她，直接切进大厅。」 · 「所有人的通讯面板同时跳出三个字母和一个单词：IPC Wolf。真珠的声音断断续续：“……线路干扰……切片……”」 · 「“真珠切给他们的那一片，”砂金没有看他」"
+    fulwish:
+      # 满愿. MAIN-DATABASE/HSR (chua kiem co note project); chi ghi chi tiet ch07.
+      state: "Phim, 7.01–7.05. Tren moi man hinh dai: mac vay dai mau xanh xam nhat, cuoi thu hon cua o cua. Phat song: 「亲爱的观众，请不要惊慌」, vu cao Cong ty (tao virus tu te bao Shuhu) va Doan tau (「视而不见」), mo ra mau: 「不幸福，是有罪的」. O phong dieu khien tren thap: tu tiem mot ong thuy tinh co thu song ben trong, phan da quanh vet tiem sang trang; noi: 「十五年，我没有一次说得出疼。每回一开口，别人先听见的是笑。」 Sau cau Himeko: 「太晚了。笑是他们留给我的唯一一件。」 Hai luot danh voi Stelle: luot 1 nga roi dung lai, luot 2 khong dung day: 「十五年，这座星球，只用了十五年。」 (cau bo lung). Chuong KHONG viet chet ro rang; khong so nguoi chet."
+      evidence: "「满愿出现在每一块屏幕上，穿着浅灰蓝色的大衣式长裙，笑得比门口那张更饱满。」 · 「“十五年，我没有一次说得出疼。每回一开口，别人先听见的是笑。”」 · 「她从控制台底下取出一支针剂，玻璃管里的东西是活的，一鼓一鼓地顶着管壁。她把针扎进自己的手臂。」 · 「“太晚了。”她说，“笑是他们留给我的唯一一件。”」 · 「第一轮，满愿倒下，爬起来，身上的笑更亮了。第二轮，她没有再起来。“十五年，”她说，嗓音很轻，“这座星球，只用了十五年。”她没有说完。」"
+    blade:
+      state: "Phim, tren thap. Hung mau thit Shuhu tu toan thanh pho: 「倏忽的血肉从全城涌向塔顶，涌向刃」; nuot tung ngum, lung cong, anh sang kiem tat roi sang. Silver Wolf ngoi duoi chan, danh phim nen: 「压缩包太大，别催。」 Dan Heng (饮月) ep vai Blade. Ngon tay cam vao lan can da, lan can nut. Khong thoai."
+      evidence: "「倏忽的血肉从全城涌向塔顶，涌向刃。黑衣的剑客刃站在平台边缘，把它们一口一口吞进身体，吞得脊背弓起，剑身上的光暗了又亮。」 · 「银狼蹲在他脚边，十指在半空飞快地敲，把那团巨树一样的东西压成一束，塞进刃的身体。“压缩包太大，别催。”她头也不抬。」 · 「刃的指节陷进了石栏，石栏裂开一道缝。」"
+    chi-yan-cang-yi-shu-guang:
+      # 赤焰 · 苍翼 · 曙光 — gop mot muc. Chua co note project. De xuat khong tao (xem new_entities).
+      state: "Ba Chien Binh Biet Doi Binh Minh. O 7.04: bi keo vao Joy (da hoa Joy) cung dam dong, vao hanh lang sau luc Jason da dung 37 nguoi; deo tung nua bo con tay ha tay (dung vat: handcuffs 新款), ngon tay phat sang; nu cuoi 'qua tai', da duoi sang trang. 赤焰 lai go cau 「保镖大哥！手铐是新款，你要不要试试？」 (van nhi, lap lai mo-tip 'new-style'). Khong ai ban chet. Sau khi tin hieu bi cat (hop trung chuyen): bi mat huong, bi dan vao goc tuong. O 7.05: cung ngã xuong 'nhu con roi dut day', anh sang tan, tho tu nong sang sau. 赤焰 keu dau lan dau (「一声惨叫……真正疼的那种，叫得很难听。他自己愣住了」); 苍翼 「我肋骨，疼」; 曙光 「腰！我的腰！」. 赤焰 sau do chong tay con lanh, tu dung len, vao vai nguoi la: 「我扶你出去…别看我，我现在脸不好看。」 苍翼 va 曙光 dau doi nhau dung day, moi nguoi mot ben do mot nguoi la. 曙光 co dinh 'tao dang', eo dau, bo. Theo Kuchiba ra cua. Ba nguoi khong goi ten Jason, khong noi chuyen voi Jason."
+      evidence: "「保镖大哥！”赤焰的声音撞在墙上，“手铐是新款，你要不要试试？”」 · 「苍翼和曙光跟在他身后，各挂着半副手铐，铐在手腕上叮当响，两手空着，指尖发亮。三个人的笑都咧过了该有的位置，皮肤底下的光比周围所有人都亮，亮得发白。」 · 「墙角那三个人也躺下了。胸口起伏着，起先很浅，然后越来越深。」 · 「赤焰第一个出声。他的左臂折在身下，他试着抬，抬到一半，一声惨叫冲出了喉咙，是真正疼的那种，叫得很难听。他自己愣住了。」 · 「“我肋骨，”苍翼的声音哑了，“疼。”」 · 「“腰！我的腰！”曙光喊」 · 「“我扶你出去，”他说，疼得嘴都歪了，“别看我，我现在脸不好看。”」 · 「曙光走到一半想摆姿势，腰一疼，姿势摆成了半个，她干脆放弃了，咬着牙继续走。」"
+    crowd-and-staff:
+      # Dam nguoi o hanh lang + hai nhan vien sanh. Khong note, khong ten.
+      state: "Hai nhan vien sanh (dai Fulwish): goc 7.01 ngoi sau quay, go ban phim 'rat to, man hinh trong'; vua man hinh tat: mot nguoi cuoi toe ra qua tai, da toa sang nhu siro; nguoi kia dung day, ghe do. Ho theo vao hanh lang trong dam; hai trong so nguoi duoc ke bi ban vao goc/ket; nguoi tre hon bi Jason 'thu nua nam dam', dung vai day vao tuong (chua tinh ve gia hay vo tich). Nguoi ngoai pho tran vao: giao hang, nhan vien van phong, nguoi cam hop com. Co ca nguoi chua phau thuat. Khi tin hieu bi cat: mat huong, quay vong, hoi nhau 「哪边是开心的方向？」, tim bua toi. Khi het: tinh dau, khoc, tim giay, 「这是哪儿？」; mot nguoi om nap hop com ngoi sat tuong: 「我的晚饭呢？」. Khong so chet, khong chet o hanh lang."
+      evidence: "「接待台后头坐着两名职员，低着头敲键盘，敲得很响，屏幕上却什么也没有。」 · 「其中一个抬起头，脸上的笑一点一点咧开，咧过了耳根，皮肤底下透出糖浆一样发亮的颜色。另一个站起来，椅子倒在地上。」 · 「没做过手术的人也一样。」 · 「除了那两个，楼里的人早撤空了，其余全是从门外进来的。」 · 「那两个职员里年轻的那个扑上来时，杰森的拳头收回了一半，只用肩膀把他顶回墙上。十分钟前，这张脸还在假装敲键盘。」 · 「一个问另一个：“哪边是开心的方向？”另一个说：“不知道，你笑一个我看看。”」 · 「那个顶过饭盒盖的人抱着饭盒盖，坐在墙根，很茫然地说：“我的晚饭呢？”」"
+
+  relationships:
+    jason--ashveil-cls:
+      # Them dong lich su ch07 vao note dang co. Khong doi relation chinh.
+      # AUREL (7): Ashveil hay Jason goi nhau bang tieng gi o ch07? MAC DINH: khong tiep tuc 老板/领队 (khong co o than chuong ch07); chi ghi cau 「回来的时候，手脚别少」 · 「香蕉账还没结」.
+      note: "ch07: Ashveil mang tin ve ca phau thuat toi Jason va Sunday o sanh; Jason tu quyet o lai chan hau, Ashveil noi 「你一个人守不住」 (chu y: KHONG ngan, khong keo lai), roi di sau cung, dung nua buoc canh Jason, khong quay dau: 「回来的时候，手脚别少。」 — Jason 「香蕉账还没结」. Ashveil khong nhac gi toi cai bong, khong hoi them. Hai cau thanh mot cap (nguoi chay, nguoi dung) voi chu 'tien chuoi' van la cua ch06. Khong doi ten goi."
+    jason--kuchiba-cls:
+      # Chua co note. Lan dau Jason va Kuchiba phoi hop truc tiep (ch06: cung o ga bo hoang, khong hop).
+      # AUREL (8): tao note quan he Jason - Kuchiba? MAC DINH: khong — de xuat, chua tao. Co the tao khi Aurel dong y (ch07 la chuong co canh hai nguoi dung lung vao nhau).
+      note: "de xuat, chua tao (ch07: Kuchiba toi bang cau thang, 「人归我」; cung giu doan hanh lang hep; 「你刚才那几下打在哪儿，我记着」 — 「我没说你打错」 — 「我知道」; co dung cau 'ba nguoi cua co' va khong keo han vao viec bat giu. Khong lai nhin lau nhu ch06)."
+    jason--magnus-cls:
+      # Magnus KHONG xuat hien o ch07. Khong doi. (delta ch06 AUREL (6) van mo.)
+      note: "khong doi o ch07."
+    boothill--jason-cls:
+      # Chua co note. Boothill van chi o trong phong, Jason tren phim. Ch07 co nhieu nhan xet cua Boothill ve Jason.
+      # AUREL (9): tao note quan he Boothill - Jason? MAC DINH: khong — van chi la nguoi xem va nguoi duoc xem, chua tuong tac truc tiep (nhac lai delta ch06 AUREL 7).
+      note: "de xuat, chua tao"
+
+  timeline: {}
+    # Project chua co timeline/. Mui gio trong chuong: 「十九点起全员消防演习」 (to thong bao tren thang may); chuong khong noi ngay thang, khong noi 'bao lau sau ch06'.
+    # Bang chung: 「十九点起全员消防演习，请按排班表有序离岗」. AUREL (10): MAC DINH khong lap timeline; khong buoc ch07 vao 'cung dem sau ch06' hay 'hom sau'.
+
+  arcs: {}
+    # Khong doi status arc nao.
+
+  new_entities:
+    - "Ten rieng / cum co trong ch07-zh-bang-ten.md va than chuong, can Aurel doi chieu truoc khi ghi bang ten chinh: 流亡者星期日 (diễn ý), 饮月 (diễn ý), 不幸福，是有罪的 / 不幸福，就是罪 (diễn ý, khong chep cau game), 信号中继箱 (mo ta cua phien), 摄像头 / 消防演习通知 (mo ta). Bang ten ch07 da ghi ro tung muc."
+    - "AUREL (11) Ba Chien Binh (赤焰 · 苍翼 · 曙光): ch07–ch08 co vai tro lon (hoa quai vat, keu dau lan dau, tinh lai); chua co note nhan vat. delta ch06 AUREL 10 (MAC DINH chua tao) van dung. De xuat tao truoc ch08 — hoi Aurel. MAC DINH: chua tao."
+    - "AUREL (12) 灰烬 (Magnus): khong xuat hien o ch07 (o lai cho giam, ch08/01 tro lai). Khong co hanh dong."
+    - "AUREL (13) Fulwish (满愿): chuong KHONG viet chet ro rang (「她没有再起来」). Canon (wiki) noi chet sau tran hai. MAC DINH: ghi 'ngã, khong dung day'; KHONG ghi chet o delta; KHONG co so nguoi chet. Hoi Aurel co muon cau chu 'chet' o than chuong khong (can sua chuong, khong sua delta)."
+    - "AUREL (14) Himeko noi trong phong 「在我那儿，留在下面的人，是我」 — day la chi tiet AU moi ve 'noi cô den' (khong co canon). MAC DINH: ghi nhu loi ke cua Himeko trong phong (nhan [AU]), khong mo rong them (khong ke 'o chuong nao, ket cuc gi')."
+    - "AUREL (15) Sunday tra loi 「是」 voi cau hoi 'ban co phai mot minh' trong khi tren phim co mot am thu hai hoa vao luc chinh am (va Sunday da noi 「谢谢」 voi khong khi o sanh): Sunday trong phong noi that, noi doi, hay khong hay? MAC DINH: khong quyet; ghi dung cu chi (nhìn tay, lat sấp lật ngửa) va dung cau chu 「是」, khong ghi no la loi dung hay sai. (Ghi chu: bao doc soat L7 yeu cau 'khong goi y Sunday giau chuyen' — than chuong tuan thu.)"
+    - "AUREL (16) Jason noi 「他们现在是最不会骗人的一批」 (ve nguoi bi keo vao Joy): dung nghia 'luc nay ho chua the lua ai'? MAC DINH: ghi nguyen cau, khong dien giai; khong dung lam bang chung ve Jason biet gi ve phau thuat."
+    - "AUREL (17) 'cat hop trung chuyen' (信号中继箱) chi lam dam mat huong o MOT tang, khong giai quyet tham hoa (soat M3: nhan AU). Than chuong tuan thu: luc sau khi cat chi 'mat huong', va mai den luc chinh am moi dung han. MAC DINH: khong sua."
+    - "Chuong tuan thu: khong chu 「代价」/「诺言」 ve Jason; khong ai doan vi sao Jason chac; khong ai giai thich 「nguoi do」; khong ai hoi 'ai keo Jason vao'; khong con so tien trong gia IPC; khong so chet."
+
+  bookkeeping:
+    - "ch07-chapter.md: status draft -> final (sau khi Aurel chot). Dieu kien: Aurel chua tra loi cac muc AUREL (1)–(17) o tren; cac muc co MAC DINH an toan nen khong chan viec chot."
+    - "h-nguoi-do: bang Tien do them dong ch07 (lan 2: camera ghi canh rut nguoi trong nhu thu tuc — dung lua chon A 25/10; Sunday 「谢谢」; giong thu hai hoa vao chinh am; khong ai goi ten; status open)"
+    - "h-giong-khong-ten: bang Tien do them dong ch07 (IPC Wolf; ba cau hoi + duong tat 信号中继箱; 「你每次都……」 bi cat; phong 「听不出是谁」; status open)"
+    - "h-ipc-muon-jason: bang Tien do them dong ch07 (DINH: 悬赏 gap doi, 报价 co dieu khoan, khong con so; 「现在还不在」; status giu proposed; khong dong)"
+    - "h-nguoi-ta-ve-duoc: bang Tien do them dong ch07 (cam chan ma khong giet; keu dau lan dau; khong lap lai cau chu; khong ai binh luan; status open)"
+    - "h-ung-vien-gia-toc, h-thang-nhoc-crime-alley: khong them dong Tien do o ch07 (khong xuat hien)"
+    - "jason-todd.md: 'Trang thai hien tai — sau ch07', day ch06 xuong 'Truoc do' (giu nhu ch05 -> ch06)"
+    - "jason--ashveil-cls.md: them dong ch07 (xem relationships)"
+    - "dan-y-arc-1-jason-v5-cls: dong ch07 -> final sau khi Aurel chot; CLS _MOC / project_table --write"
+    - "ch07-zh-bang-ten.md: Aurel doi chieu cac ten 'chua chac' (xem new_entities); khong sua trong delta"
+    - "decisions/arc-1-ch07-08-ban-2-kenh-goi-va-dau-chan + sources/user-input/20261025-o-2-camera-ch07-chon-a: o 1 (IPC Wolf), o 2 (camera, A), o 4 (khong khang dinh hoi phuc), o 6 (cau cua Himeko giao nguoi viet) — than chuong khop"
+    - "Neu Aurel khong tra loi: ap MAC DINH cua tung muc; khong tu lap thanh canon; questions/ khong phai decisions/."

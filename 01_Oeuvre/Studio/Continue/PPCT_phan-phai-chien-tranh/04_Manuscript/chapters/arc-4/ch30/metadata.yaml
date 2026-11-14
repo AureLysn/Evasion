@@ -1,0 +1,71 @@
+﻿# PPCT ch30 — số đo bản nháp tiếng Trung, 23/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45), KHÔNG phải style_metrics.py (L26).
+chapter: 30
+file: ch30-chapter.md
+language: zh
+mode: doi_thuong_suy_luan
+status: final   # finalize-chapter 23/09/2026 — delta committed
+aurel_accepted_23_09:   # chi cho chuong nay
+  - "thoai 39,8 % sau #1–#4 (nay 41,0 %)"
+  - "thuat ngu canh 01 = 3/5"
+  - "cau trung vi 16 (dai 17–20)"
+  - "giu loi nguoi viet tiep 「其实是对的」"
+measured_at: 2026-09-23
+measured_by: han-char-script
+chapter_targets:  # theo ch30-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2100
+  dialogue_ratio: [0.40, 0.55]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 6
+  min_dialogue_turns: {"01": 10, "02": 10, "03": 3}
+  target_terms: {"01": 5, "02": 5, "03": 2}
+body:   # do lai 23/09/2026 sau khi sua #1–#7 cua ch30-review
+  han_chars: 1983
+  dialogue_ratio: 0.410
+  paragraphs: 55
+  han_per_paragraph_mean: 36.1
+  paragraphs_ge_100_han_ratio: 0.018
+  sentences_ge_50_han_ratio: 0.010
+  sentence_han_median: 16          # DUOI dai plan 17–20 — moi sau #5; CHO Aurel
+  sentences_le_4_han_per_1000: 1.51
+  paragraphs_with_dialogue_ratio: 0.709
+  bare_dialogue_paragraph_ratio: 0.0
+scene_han: {"01": 976, "02": 689, "03": 318}
+dialogue_turns_counted: {"01": 17, "02": 19, "03": 7}   # dem so dau “ — cach dem khac ban truoc, khong so sanh truc tiep
+terms_counted: {"01": 3, "02": 8, "03": 3}              # 01 duoi muc tieu 5 (cat 「魔力」×2 theo #3) — Aurel chap nhan 23/09
+per_1000_han:
+  question_mark: 7.06
+  exclamation: 1.51
+  ellipsis: 1.51
+  em_dash_pair: 0.0
+  terms: 7.06
+term_hits: {圣杯: 2, 御主: 2, 令咒: 2, 从者: 3, 彭格列: 1, 黑手党: 1, 直觉: 3}
+eye_motif_after_fix: 2   # them 「没有眼睛了」 (#7)
+before_review_fix: {han_chars: 2125, dialogue_ratio: 0.418, han_per_paragraph_mean: 38.6, sentence_han_median: 17, terms_per_1000: 7.53, scene_han: {"01": 1039, "02": 724, "03": 362}}
+after_fix_1_4: {han_chars: 2065, dialogue_ratio: 0.398, sentence_han_median: 17, terms_per_1000: 6.78}   # thoai 39,8 % Aurel chap nhan 23/09 — nay 41,0 %, da ve dai
+eye_motif: 1
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争30"
+  tag_after_quote_grep: 0
+first_draft:   # do ngay sau ban dau (buoc bat buoc), truoc ba luot sua trong write-chapter
+  han_chars: 1335
+  dialogue_ratio: 0.491
+  han_per_paragraph_mean: 27.8
+  sentence_han_median: 14
+  exclamation: 0.75
+  note: "ban dau qua ngan va nhip qua vun: duoi san do dai, doan TB 27,8, trung vi cau 14, ！ 0,75. Sua ba luot: them 9 doan mo ta/noi tam, them 4 cap thoai trong beat co san, gop cau ngan. KHONG them beat."
+pov_leak_check:   # chay lai 23/09/2026 — cong cu nay doc duoc chu Han (body_script: cjk); dong "valid: false — L29" cu da het dung
+  valid: true
+  exit: 1
+  findings: 0
+  uncheckable: ["dazai-mang-ky-uc-kiep-truoc — chua co leak_terms chu Han"]
+manual_grep:
+  terms: [言峰, 绮礼, 璃正, Assassin, 吉尔伽美什, 远坂, 时臣, 白兰, 马雷, 前世, 上辈子]
+  hits: 0
+  note: "To Caster KHONG biet Sola-Ui da roi Fuyuki; cau 「还在她手上」 la niem tin sai cua ho, co chu dich"

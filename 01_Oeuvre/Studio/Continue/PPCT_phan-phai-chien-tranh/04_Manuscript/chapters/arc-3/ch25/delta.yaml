@@ -1,0 +1,69 @@
+﻿# State delta — PPCT arc-3 ch25 (破魔)
+# TRANG THAI: committed 22/09/2026 (Aurel dong y de xuat).
+# Moi dong co cau lam bang chung (nguyen van ch25-chapter.md, ban da sua theo review Mode 3).
+# Co 4 cho can Aurel quyet, danh dau AUREL (1)..(4).
+# AUREL 22/09/2026: "dong y de xuat" — (1) CO event gae-buidhe-bi-pha · (2) he-qua -> partially_paid · (3) khac-che giu partially_paid · (4) CO cot thuat ngu tu ch26.
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi; doc bang TU DONG cua dry run tung duong dan.
+
+chapter: ch25
+status: committed
+committed_at: 2026-09-22
+proposed_at: 2026-09-22
+changes:
+
+  hooks:
+    hook-he-qua-thay-to-caster:
+      # AUREL (2): open -> partially_paid. Loi nguyen tan: Saber lanh tay trai.
+      # 「那四根一直搭在剑柄上的手指慢慢地收拢……稳稳地握住了剑柄。」
+      # Ba he qua tac gia neu o ch2 khep han khi Lancer chet (ch27) — luc do moi paid_off.
+      status: partially_paid
+    hook-to-caster-khac-che-to-saber:
+      # AUREL (3): DAO CHIEU — loi the to Caster giu tu ch4 mat. Status giu `partially_paid` — KHONG khai.
+      # 「Saber没有回头去看他。她把剑举了起来，两只手一起，握得很稳」
+
+  secrets: {}
+    # Khong secret nao doi known_by / suspected_by.
+    # kiritsugu-la-master-that: POV Lancer khong biet (dung unknown_to); POV Saber biet (dung known_by) — khong doi.
+
+  characters:
+    diarmuid:
+      state: "Rang sang ngay 7: quy truoc Sola-Ui va HOI xin — lan dau han hoi co mot dieu: 「在下有一件事，想问一问您的意思。」 Ly do ngan: 「因为在下想和Saber打一场。在她两只手都能握剑的时候。」 Duoc cho phep, be gay Gae Buidhe o bai dat truoc nha kho; chi con 破魔的红蔷薇. Khong biet Kiritsugu la Master that cua Saber."
+      evidence: "「从现在起，那位骑士王的左手，和她的右手一样了。」 · 「现在他身上只剩下一把枪了，红色的那一把，破魔的红蔷薇。」"
+    sola-ui:
+      state: "Rang sang ngay 7: nhan ra Lancer dang hoi minh; dong y cho han pha Gae Buidhe va HUA khong dung lenh chu can: 「三道令咒都还在我手上，我一道也不会用来拦你。」 Dung o cua xem thuong gay, khong quay mat. Tinh cam chi qua hanh vi: 「你第一次问我话，问的却是这个。」 — van chua co decision ve muc do."
+      evidence: "「我只是想知道，你问我的第一件事，我能不能答应。」 · 「她没有回答，也没有转开脸。」"
+    kayneth:
+      state: "Rang sang ngay 7: nam tren thung hang trong phong quay ton, nghe het loi Lancer xin, khong noi gi."
+      evidence: "「肯尼斯躺在那里，眼睛睁着，望着仓库顶上那个漏光的破洞，那只被木条夹住的手搁在大衣外面，一动不动，没有出声。」"
+    artoria:
+      state: "Sang ngay 7, lau dai Einzbern: dang luyen kiem mot tay thi tay trai nam lai duoc — loi nguyen Gae Buidhe tan. Hieu ngay 「是他。」 va hieu viec pha thuong la loi thach dau: 「这是他在向我下战书！」 Cam kiem bang hai tay lan dau tu dem kho cang. Chua giai phong Excalibur."
+      evidence: "「那四根一直搭在剑柄上的手指慢慢地收拢」 · 「他那样的英灵，不会让任何人碰自己的宝具。」 · 「从码头那天晚上以来，这是第一次。」"
+    kiritsugu:
+      state: "Sang ngay 7: dung o hanh lang lau dai, thay tay trai Saber nam chuoi kiem; im lang, cam dieu thuoc chua chau roi quay di. Noi tam khong len trang."
+      evidence: "「他没有说话，也没有走过来，只是把烟从嘴里取下来，捏在指间，转身走回了走廊深处。」"
+
+  relationships: {}
+    # Khong co note quan he diarmuid--sola-ui hay diarmuid--artoria trong relationships/. Xem AUREL (1) phan note moi.
+
+  timeline:
+    story_day: 7
+    row: "Ngay 7, rang sang–sang *(viet tiep)* | Lancer xin Sola-Ui cho pha Gae Buidhe; co dong y, hua khong dung lenh chu; Lancer be gay thuong; o lau dai Einzbern tay trai Saber lanh, Saber hieu la loi thach dau; Kiritsugu thay, im lang | ch25"
+    evidence: "「天快亮了。」 · 「仓库外面，雨已经停了」 · 「早上的阳光从高窗里落进来」"
+
+  arcs:
+    arc-3-hai-cay-thuong:
+      chapter_25: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch25. De xuat: CO — events/gae-buidhe-bi-pha.md (ten KHAC decision lancer-tu-pha-gae-buidhe-truoc-quyet-dau de tranh trung alias, L37). KHONG tao note quan he moi (diarmuid--sola-ui) o chuong nay — ghi vao muc Quan he cua hai note nhan vat."
+    - "AUREL (4): S1 cua review — tu ch26, the canh ghi them SO LAN THUAT NGU muc tieu cho tung canh (ban dau ch25: du luot thoai nhung thuat ngu 4,27/1000, san 9). De xuat: CO, chi cho plan/the canh arc 3; chua sua _TEMPLATE."
+
+  bookkeeping:
+    - "ch25-chapter.md, metadata.yaml: status draft -> final; plan va 4 the canh giu `planned`"
+    - "hook-he-qua-thay-to-caster: bang Tien do them ch25 (tra phan loi nguyen)"
+    - "hook-to-caster-khac-che-to-saber: bang Tien do them ch25 (dao chieu)"
+    - "diarmuid, sola-ui, kayneth, artoria, kiritsugu: muc 'Trang thai hien tai — sau ch25', day trang thai cu xuong 'Truoc do'"
+    - "Timeline/master.md: them dong ngay 7 rang sang–sang"
+    - "arc-3-hai-cay-thuong: dong ch25 -> final; PPCT-MOC chapters them arc-3/ch25; dem events"
+    - "Ghi cho ch27 vao arc-3: loi hua cua Sola-Ui 「一道也不会用来拦你」"
+    - "Khong doi: secrets, dazai, tsuna (to Caster khong len trang)"

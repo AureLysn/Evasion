@@ -1,0 +1,140 @@
+﻿# LUU TRU 2026-09-25: arc Child lam lai tu khung (emb-lam-lai-child-tu-khung). Delta nay KHONG con hieu luc;
+# cac dong cua no da duoc danh dau superseded trong note. Khong chay lai state_apply.
+# State delta — EMB / arc Child / Ch2 BAN VIET LAI 22/09 (POV Tsuna toan chuong)
+# TRANG THAI: proposed — CHUA commit. Cho Aurel duyet.
+#
+# Delta ban 20/09 DA commit 20/09 va nam o 80_Archive/personal/fiction-emb/child-ch2-delta-ban-20260920.yaml.
+# Nen delta nay lam HAI viec:
+#   1. supersede: nhung dong state cua ban 20/09 ma ban moi KHONG con xay ra. Khong xoa (bat bien 3),
+#      gach va ghi "thay 22/09" ngay trong note.
+#   2. state_add: su kien cua ban moi.
+# Bai hoc giu nguyen: khong dung khoi '>'; khong khai 'status' cho hook khong doi; state_apply chi tu
+# ghi secrets/hooks.status/arcs.status/questions — moi thu con lai la SUA TAY.
+
+chapter: child-ch2
+status: committed
+committed_at: 2026-09-22
+proposed_at: 2026-09-22
+project: EMB
+branch: aurel-main
+supersedes_delta: 80_Archive/personal/fiction-emb/child-ch2-delta-ban-20260920.yaml
+
+changes:
+
+  # ================================================================ BI MAT
+  secrets:
+    chi-chu-nhan-thay-cao:
+      evidence: "whether the look had stayed on his shoulder one breath longer than a look at a collar needs to stay"
+      aurel_A: "⚠️ MO — KHONG doi known_by / suspected_by. Chuong de Tsuna KHONG CHAC Bermuda co thay cao hay khong. Aurel chot sau."
+    tsuna-tai-sinh:
+      evidence: "He had stood in it at fourteen, with Reborn on his shoulder (chu nghieng/tuong thuat noi tam)"
+      aurel_B: "Khong doi. Chi o noi tam Tsuna. Bermuda khong biet."
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    tsuna:
+      supersede: "Ban 20/09: 'Cau ky bang bon chu: Agreed. I will not go.' va 'tim ra room trong chu himself trong chin muoi giay'. KHONG con xay ra."
+      state_add: "🔴 MOI VINDICE VE NHA AN TOI (8/1). Tu quyet tu tuan thu chin cua luc cho: nhung nguoi cau quan tam da lam cau lo ca nam, va day la 'tien thue'. Nghe Bermuda doc bon dieu khoan SAU MON TRANG MIENG va KY TEN o chan dieu khoan bon, tai ban an, truoc mat Musashi. Bon loai tien chuan bi hai thang (tien, dich vu, thong tin, cai ten) khong tieu duoc loai nao. 🔴 Tra loi yeu cau giam thi TRUOC Musashi: 'You're very welcome to visit.' 🔴 Giau do cua Kawahira va Mukuro (coc xanh, goi xam) trong bon giay; khong giau duoc van shogi."
+      evidence: "So if a Vindice walks into my town, I am going to invite him to dinner… And I am going to count that as rent. / He signed it. Sawada Tsunayoshi, in the square hand he uses for the town, at the foot of the fourth clause."
+      aurel_C: "🔵 Nhan ra Bermuda theo doi ung vien Sky de tim Checker Face, va Bermuda dang lap lai dung con duong trong cai hang tranh ve ma Tsuna tung dung o kiep truoc. 🔴 Nghi: Bermuda se la mot nguoi lon tot, TRU mot viec."
+      evidence_C: "He would be a good adult to have… Anything except one thing. / And about that one thing… he would pull this town apart with his fingers."
+
+    musashi:
+      supersede: "Ban 20/09: ba cau thu tuc + cau hoi 'Do you want it in the file?'; quyet KHONG dua cam khoan vao file; loi de nghi 'Ask me before, next time'. KHONG con xay ra."
+      state_add: "Doi kimono xam trong chin phut, bui toc bang mot soi Mist Flame (chi lam khi di dam tang). 🔴 Tu gioi thieu bang TEN NGHI LE: 'Sawada Ruriko. Ruri of the Sawada.' — dung tuong bang le nghi. Chon NABE de khong ai giu khoang cach duoc. Gap them ca cho Bermuda khong hoi. Nghe cam khoan TAN TAI va noi 'This touches the contract'. Dong y: HAI LAN MOT NAM, viet thu truoc, di bang duong bo. 🔴 Thua hai doi mat cun con (Tsuna + Nagi) sau CHIN GIAY. Biet Nagi noi doi ve shogi. Muon biet Bermuda an gi truoc mua he."
+      evidence: "Sawada Ruriko… You are welcome in this house. / Twice a year… Write first. Come by the road. / Grandmother lasted nine seconds. / And Nagi does not play shogi."
+      aurel_D: "⚠️ MO: dong 237 cua note musashi ghi 'cam khoan vao file, voi ngay ky that' (doc tu Ch4 dong 449). Ban 20/09 dua vao viec ba TUNG quyet khong dua vao file. Ban moi khong co quyet dinh ay. Ch4 dong 449 ('it went in the file… with the date it was signed on it') doc duoc la noi ve CHI THI Cradle. De xuat: sua dong 237 thanh 'chi thi Cradle vao file', bo chu cam khoan. Aurel chot."
+
+    nagi:
+      supersede: "Ban 20/09: 'Gen'ei bat len KHONG CHU Y lan dau, phu kin mai den'. KHONG con xay ra."
+      state_add: "SAU TUOI. Mua dong nay bat dau CHOI KHAM Tsuna bang Mist Flame (tach tra sai cho, cua mo nham phia, bac thang sai). 🔴 Cho Bermuda muon GOI THO — lan dau cho ai muon. 🔴 LOI NOI DOI DAU TIEN khong phai mot tro: nhan van shogi la cua minh, 'I play both sides. I'm losing.' Khong ai bao. 🔴 Len tieng binh Tsuna khi nghe cam khoan: 'He's the Kotei.' Bermuda cui chao co be."
+      evidence: "It's mine… I play both sides. I'm losing. / You can't tell him what he's not allowed… He's the Kotei. / He bowed to her."
+
+    kyouya:
+      supersede: "Ban 20/09: 'Is he staying?' / 'Then ask him.' KHONG con xay ra."
+      state_add: "MUOI TUOI. Ngoi tren lan can mai truong xem, xuong khi can. Dung trong san nha BON TIENG nhin cua so phong an. Mot cau hoi: 'Does he have a bicycle.' Bermuda khen 'a very orderly boundary, for a Cloud'; cau tra loi 'Yes.'"
+      evidence: "Does he have a bicycle. / You keep a very orderly boundary, for a Cloud. / Yes."
+
+    ayame:
+      supersede: "Ban 20/09: 'cho ghi ten nguoi dua tin vao so khach theo CAI MU'. KHONG con xay ra (Bermuda tu xung ten; nguoi doi mu khong xung)."
+      state_add: "Nguoi thay dau tien o bien gioi bac. Dung giua khach va thi tran voi Storm Flame ghim nong, khong nhuc nhich. Di SAU Bermuda len doi MUOI MOT PHUT vi bien gioi bac di sau khach. 'Jager's coat smelled of rain in a stone room.'"
+      evidence: "the longest eleven minutes of her life and that Jager's coat smelled of rain in a stone room"
+      aurel_E: "⚠️ MO: Ch3 dong 249 'Ayame had it copied twice… either of the two times' — lan dau la so khach thang Gieng (tu ban 20/09). Ban moi KHONG ta viec sao, nhung cung khong chong. De xuat: GIU nhu mot viec xay ra ngoai trang (Ayame sao trang so khach 8/1). Aurel chot."
+
+    kawahira:
+      state_add: "🔴 Di cung Mukuro tu 27/12 (ba ngay sau Giang sinh) lam mot viec KHONG noi la gi; ve khong hen ngay. Gui thu thu Hai cho Tsuna (hai la tinh toi 8/1): vui, ti mi, co hinh minh hoa. Len den CACH TUAN vao Chu Nhat voi hoc tro, an gi cung an, than gia muc mot tieng. Co mot GOI XAM CHAY GOC khong ai khac duoc ngoi. 🔴 VANG MAT toi 8/1 — Bermuda KHONG biet ong o Namimori."
+      evidence: "who had gone off together three days after Christmas on some errand neither of them would describe / On alternate Sundays it seats five"
+      aurel_F: "Ban 20/09 ghi 'da bao Tsuna do loi hang thang' — ban moi khong nhac, nhung Ch4 dua vao viec do loi. GIU, khong supersede."
+
+    mukuro:
+      state_add: "Di cung Kawahira tu 27/12. Coc XANH SUT chi minh uong ('xau, trong nhu mot nguoi'). Van SHOGI con MUOI MOT NUOC de nguyen tu 27/12, doa nguyen rua ai dong vao. 'Hop nhau nhu nha chay' voi Kawahira."
+      evidence: "the chipped blue one that only Mukuro would drink from… it looked like a person / a shogi board with a game on it, eleven moves from the end"
+
+    tomoko:
+      state_add: "KHONG DOI so voi ban 20/09 ve noi dung dong so (UNNAMED… MIE / THE WHOLE OF HER BOOK / NOT ACCEPTED). Chi doi CACH den tay Tsuna: so de lai tren ban an toi 8/1, khong qua cua so ngay 17/1."
+      evidence: "OFFERED: THE WHOLE OF HER BOOK. / NOT ACCEPTED. NO PERFORMANCE POSSIBLE."
+
+    aldo-ferri:
+      aurel_G: "⚠️ MO: moi dong state 'Sau Child Ch2' cua Ferri (o han, lam so sach tuan thu hai, 'nothing at all! It is restful') den tu ban 20/09. Ban moi KHONG co Ferri. Timeline Ch1 va Ch4 dua vao viec ong giu so sach den. De xuat: GIU, doi nguon thanh 'ban 20/09 (luu tru), khong bi ban moi chong'. Aurel chot."
+
+  # ================================================================ QUAN HE
+  relationships:
+    tsuna--musashi:
+      supersede: "Ban 20/09: bon tieng moi toi cua phong, bao cao muoi mot phut, 'Ask me before, next time'. KHONG con xay ra."
+      state_add: "🔴 Cau dua Vindice vao nha ba KHONG HOI va TRA LOI THAY BA tai ban cua ba. Ba khong mang cau vi viec moi khach — ba mang vi 'you gave away my answer'. Cau nhan, khong cai. Ba thua mat cun con chin giay. 🔵 Ba quyet 'danh' Bermuda bang do an."
+      evidence: "And then you gave away my answer. At my own table. / That one was fair, and he did not argue it."
+    tsuna--nagi:
+      state_add: "🔴 Nagi TU noi doi de che cho Tsuna (shogi) va tu len tieng binh cau truoc Warden. Dap mat ca chan cau duoi ban khi da lam xong mot viec va muon chac cau thay. Cung cau lam 'hai doi mat cun con'."
+      evidence: "under the table her foot found his ankle and pressed it once, hard / Where did that come from?… oh. From me."
+      aurel_H: "⚠️ Chua co note tsuna--nagi (ls relationships chi co tsuna--kyouya, tsuna--musashi…). Xem new_entities."
+
+  # ================================================================ HOOK
+  hooks:
+    hook-bermuda-to-mo:
+      supersede: "Dong state cuoi (ban 20/09): 'Mot Vindice khong ten dung o bia da bac BON MUOI PHUT… Warden… tinh tien bang MOT CAM KHOAN'. Thay bang dong duoi."
+      state_add: "🔴 BERMUDA LEN HINH, VA AN TOI O NHA SAWADA (8/1). Toi qua cong Ngon lua Dem o bia da bac, ngoi tren vai JAGER, them mot Vindice doi mu o lai chan doi. Cu xu quy toc Victoria; ngoi tren goi tho cua Nagi. Doc bon dieu khoan cam khoan SAU MON TRANG MIENG nhu loi dap le; Tsuna ky tai ban. Dieu khoan hai cua la thu cu VAN DANG XEM XET, noi dung VAN KHONG NEU. 🔴 Noi ro dong co: dem cac buc ve trong hang, moi bo Arcobaleno 20-30 nam, bo hien tai hon 30, Sky hao truoc; ong theo doi nhung Flame manh nhat de GAP LAI Checker Face. 🔴 Xin 'ghe lai' — Tsuna nhan, Musashi chot HAI LAN MOT NAM. ⛔ Ong KHONG biet Kawahira o Namimori. ⚠️ Co the da thay cao, chua chot."
+      evidence: "He comes, however, for the strongest… to be sitting nearby when he arrives. / I should like to call again. Once or twice in the year."
+      progress_add: "Child Ch2 — GAP MAT. Buoc thang cua chuong khong con la 'lan dau cau xin' ma la 'lan dau ong ngoi vao ban'. Tsuna chat vat o cho giau ghe trong, dung loi tac gia hua."
+
+    hook-dua-tre-saint-exavier:
+      supersede: "Dong state 'TIM RA DONG SO' (ban 20/09): bo hai chi tiet ban moi khong co — 'mo ra CHIN lan' (ban moi: TAM moc ngay kiem ben le) va 'dua tre khong nam trong so nhap Estraneo, Tsuna dem nam muoi mot dua'. ⚠️ Chi tiet sau lien quan hook-dua-tre-thu-52; ban moi KHONG khang dinh cung KHONG chong."
+      state_add: "🔴 TIM RA DONG SO, VA NO KHONG DONG HOOK. Mot to, SAU COT (TAKEN FROM BY DATE RETURNED NOTE), MUOI MOT DONG — muoi dong la con nha nguoi khac. Dong cua dua tre: bon cot dau da dien. Cot RETURNED de trong va GIU TRONG, TAM moc ngay kiem ben le. Cot NOTE: bon lan hoi, xep TU NHO TOI LON theo gia de nghi; nha Saint-Exavier de nghi du mua mot day pho; dong MIE o cuoi, lon hon ca con so ay."
+      evidence: "ruled into six columns, with eleven lines on it / Down the margin beside it ran eight small dates / the smallest at the top and the largest at the foot"
+      aurel_I: "⚠️ MO: bo hay giu y 'khong co trong so nhap Estraneo'? Aurel chot."
+
+  # ================================================================ MOC THOI GIAN (sua tay trong Timeline/master.md)
+  timeline:
+    - supersede: "8 thang Gieng, 14:09 — Mot Vindice dung o bia da bac BON MUOI PHUT… So khach ghi ten han theo cai mu. Tsuna nhan dieu khoan va ky trong dem"
+      when: "🔴 8 thang Gieng, 14:09"
+      what: "BERMUDA, JAGER va mot Vindice doi mu toi qua cong Ngon lua Dem o bia da bac. Bay nha o khap Dong A dat tay len bond BON MUOI PHUT, khong ai keo. Ban Ky luat hoi ba truong (ten, nha, xe dap). Tsuna xuong doi va MOI AN TOI."
+    - when: "🔴 toi 8 thang Gieng"
+      what: "Bua toi nabe o nha Sawada. Bermuda noi ve cai hang va phep so cac lan chuyen doi Arcobaleno; xin ghe lai. Sau mon trang mieng doc bon dieu khoan; Tsuna KY TAI BAN. Dong so de lai tren ban. Khach ve luc 20:40."
+    - supersede: "cung dem 8 thang Mot — Cau bao cao voi Musashi sau bon tieng. Ba quyet KHONG dua cam khoan vao file."
+      when: "dem 8 thang Gieng"
+      what: "Musashi mang vi 'you gave away my answer', thua mat cun con chin giay. Tsuna doc dong so: sau cot, muoi mot dong, dong Mie."
+    - supersede: "17 thang Mot — Dong so toi qua cua so, khong nguoi dua, khong thoi tiet."
+      when: "(bo)"
+      what: "Khong con su kien nay: dong so da den tay Tsuna toi 8/1."
+    - when: "27 thang Muoi Hai"
+      what: "Kawahira va Mukuro di cung nhau lam mot viec khong noi. Van shogi de nguyen."
+    - keep: "11 thang Mot — Tsuna quyet TRA to giay cho Tomoko. GIU (van khop Ch3)."
+
+  # ================================================================ ARC
+  arcs:
+    child-dan-y:
+      state_add: "🔴 Ch2 VIET LAI 22/09, 9.385 tu, theo emb-chot-bermuda-an-toi: Bermuda LEN HINH, an toi; cam khoan giu nguyen; chuong dau tien chay luat tu vung moi (chuc thi he AU, nguyen to thi he canon). Ch3, Ch4 KHONG phai sua tang su kien."
+      evidence: "the eleventh line / It's a very good clause."
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - id: bermuda (Characters/bermuda.md trong EMB)
+      note: "🔵 De xuat CO. Ong gio la nhan vat co thoai, co le nghi Victoria, co lich ghe hai lan mot nam — la ban cua NHANH nay, khac MAIN-DATABASE/KHR/Bermuda-von-Veckenschtein (canon). Note EMB lien ket len note canon, khong chep lai."
+    - id: tsuna--bermuda
+      note: "🔵 De xuat CO. 'Ban vong nien' Aurel dat; dieu kien 'nguoi lon dang tin KHI VA CHI KHI khong dinh Kawahira'."
+    - id: tsuna--nagi
+      note: "🔵 De xuat CO — chua co note, va Ch2 cho no hai su kien chiu luc."
+    - id: q-bermuda-thay-cao
+      note: "🔵 De xuat CO — question, needed_before: lan Bermuda ghe lai dau tien."
+    - id: jager
+      note: "⛔ De xuat KHONG — mot cau thoai khong co; tra canon truoc khi lam note."

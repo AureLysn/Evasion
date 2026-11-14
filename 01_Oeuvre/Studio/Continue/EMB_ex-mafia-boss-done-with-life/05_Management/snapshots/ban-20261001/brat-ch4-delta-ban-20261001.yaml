@@ -1,0 +1,125 @@
+﻿# State delta — EMB / arc Brat / Ch4 (POV Tsuna + khoi Kyouya + khoi Mammon)
+# TRANG THAI: proposed — CHUA commit. Khong ghi vao note nao truoc khi Aurel Accept.
+#
+# ⚠️ Bon bai hoc tu delta Ch1, Ch2 va Ch3, da ap dung o day:
+#   1. KHONG dung khoi '>' — parser cat van xuoi thanh key gia.
+#   2. KHONG khai 'status' cho hook khong doi — moi 'status' la mot lenh GHI.
+#   3. state_apply KHONG ho tro 'unknown_to_remove' — cho nao can thi ghi tay.
+#   4. 🔴 Ch3: resolver uu tien ALIAS hon TEN FILE. 'tuyen-xanxus' nam o arcs/ chu khong
+#      phai hooks/, nen KHONG duoc khai no duoi muc hooks. Da de o muc arcs.
+
+chapter: brat-ch4
+status: committed
+committed_at: 2026-09-19
+project: EMB
+branch: aurel-main
+
+changes:
+
+  # ================================================================ BI MAT
+  # 🔴 MUC QUAN TRONG NHAT. Day la L9 cua check-continuity.
+  secrets:
+    chi-chu-nhan-thay-cao:
+      known_by_add: ["character.EMB.mammon"]
+      evidence: "That, said the figure, is a kudagitsune. / It is currently sitting on absolutely nothing, at shoulder height, and it has been rating the people on this platform."
+      aurel_A: "🔴 Lan DAU TIEN mot nguoi thu ba nhin thay con cao. Ho thay NGAY cau dau tien, truoc moi thu khac — dung thu tu cong 1 cua the canh. Ghi vao known_by, khong phai suspected_by: ho goi thang ten loai."
+      aurel_B: "⚠️ state_apply KHONG go duoc khoi unknown_to — nhung Mammon von KHONG co trong unknown_to, nen khong co gi phai go. Sach."
+      aurel_C: "🔵 CAN AUREL QUYET: co them xanxus / squalo / belphegor / levi vao unknown_to khong? Ho dung ngay do va KHONG thay gi. Them thi Ch5 duoc pov_leak_check bao ve; khong them thi moi canh Varia o Ch5 khong co gi chan. De xuat: THEM."
+    # Khong secret nao khac doi. pov_leak_check tach ba POV: 0 / 0 / 0.
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    tsuna:
+      state_add: "TRON NHA DI, va de lai mot manh giay — nam ban nhap, ban thu tu bi vut vi ket bang 'I am sorry to be a burden'. Lan dau dung May thu cap de di xa: khong phai nen Bau troi xuong ma la khong boc lo ra. Sang Y mot minh bay tuoi qua mang luoi den. Sap xep cho DUA TRE THU 52 mot gia dinh o Mie va CO Y khong vao gap con be. Bi Varia bat gap o Genoa, thoat duoc, va Xanxus da dung tu 'acquisition'. Vut chiec ao khoac xam o Vercelli."
+      evidence: "I have gone to Italy. There is one thing there I did not finish and I am going to finish it. / You do not get to be forgiven by somebody you have not met. That's not what she's for. / He threw the coat away at Vercelli."
+      aurel_D: "🔴 Bac 3 da leo. Phep do la MANH GIAY: mot dua bo nha di thi khong de lai giay; mot dua biet minh se duoc nho thi co."
+
+    natsu:
+      state_add: "Lan DAU roi Namimori. Di Y trong tui ao. Bi mot nguoi thu ba nhin thay lan dau ke tu khi toi. Xep hang nguoi Y, duoi bo cau qua mot quang truong, va bi duoi khoi gia nen trong mot nha tho. Luc Tsuna chay, no di XUYEN QUA mot xe day hanh ly dung luc cau dong — khong ai bao no."
+      evidence: "It had gone through the trolley. It had not gone around it, and it had not gone over. It had gone through… and it had done that at the exact moment the boy moved, without being told."
+
+    mammon:
+      state_add: "LEN TRANG LAN DAU. Nhin thay con cao ngay cau dau tien, goi thang ten loai. Dung Thoughtography (nuoc mui) va ra dung MOT dia diem — mot thi tran o Nhat — trong khi mot nguoi binh thuong ra bon den sau. Mo so sach va tim thay mot cot khong cong duoc: ba trong bon lan 'duoc giup' co truoc cuoc dieu tra, va MOT lan co truoc ca vu xoa so. 🔴 Bao cao KHONG day du: giau ca con cao lan cot so."
+      evidence: "They did not mention the fox. They did not mention the column that did not add. / You got one. Seven years old, and the whole of you is one town."
+      aurel_E: "🔴 Ly do ho giau, chuong ghi ro: mot cau tra loi day du tieu ngay khi giao, mot cau tra loi khong day du thi con sinh loi. Va: ho la Arcobaleno AM ANH NHAT voi viec pha loi nguyen, nen 'thu moi dau tien trong muoi mot nam' la mot mon hang."
+
+    xanxus:
+      state_add: "LEN TRANG LAN DAU, khoang 17 tuoi, CHUA co seo. Da la thu linh Varia. Dan doi di dieu tra vu Estraneo; chinh doi cua ong DOT phong luu tru o Savona. Doi tu nghi ngo sang them muon dung luc thay mot Cloud — bao cau bat May len roi DUNG TRONG NO. Hoi Squalo ve thu tuc 'acquisition' cua Nono. Cuoi chuong ra lenh: 'Namimori. Pack.'"
+      evidence: "Turn it back on. The Cloud. You dropped it when I came up the platform. / How long does the Ninth's paperwork take on an acquisition. / Namimori, Xanxus said, trying the word out, and then, to the room: Pack."
+      aurel_F: "🔴 Rang buoc GIU NGUYEN: ong KHONG biet Tsuna la Sky. Ong duoi mot Cloud. Va tuyen-xanxus cho hoa hop hai chieu sau Cradle la 'May cua Tsuna -> Bau troi cua Xanxus', nen o day ong dang duoi theo dung cai thu sau nay se la May cua ong."
+
+    kyouya:
+      state_add: "Tinh luc 00:04 va biet 'con vat nho dang roi lanh tho'. Doc duoc HUONG va TOC DO. Lam phep tinh, thay moi phuong an deu toi muon hai toi chin tieng, nen nam xuong lai va khong ngu. 🔴 Ghi nhan soi day KHONG mong di — nhung cau ta KHONG biet vi sao minh cam duoc, va KHONG biet bond neo o dau."
+      evidence: "The small animal was leaving the territory. / He lay in the dark with his attention on the thread… and he noted without any interest in the fact that it had not gone thin."
+
+    musashi:
+      state_add: "Don ban cua Tsuna ra khoi kho lanh vao phong canh sanh chinh, CO Y khong hoi, va noi thang ly do: 'vi con se dong y trong khoang bon giay'. Tu nhan la da lam mot viec vo le co chu dich. Noi ra chuyen bon tieng tren san lanh mua dong truoc. Di lai phai dung tung chang."
+      evidence: "So I did not ask. I did the rude thing on purpose, so that at least one of us would know it was rude. / She got up in stages, the way she did now."
+      aurel_G: "🔴 CAN GHI NGUOC LAI — day la M5 cua check-continuity. Chuong cho ba SEVENTY-FOUR tuoi, va chua note nao co con so do. tuoi-va-moc §4 CHO PHEP chuong tu dinh, nhung ve ghi nguoc lai vao master thi phai lam o day."
+
+    nagi:
+      state_add: "🔴 Bon den nam tuoi. CHUA TU HA duoc mot Gen'ei xuong: no van chay cham tren tran nha sau khi con be ngu, va Grandmother da thoi bao no dung lam the."
+      evidence: "Nagi would have been asleep for an hour, with a Gen'ei still running slowly over the ceiling above her futon, because she could not yet put one down on purpose."
+      aurel_H: "Day la chi tiet nang luc MOI cho Nagi, va no khop voi ho so (nho hon Tsuna vai tuoi) lan voi Ch2 (dung Mist de gia vo da an ca tim)."
+
+    ayame:
+      state_add: "Khieng het cho so sach sang phong moi, va la nguoi noi cho Tsuna biet chuyen bon tieng tren san — noi voi chong so sach chu khong noi voi cau."
+    indra:
+      state_add: "Bao Tsuna rang Sugita se toi thu Nam, hai lan, va khong giai thich."
+
+  # ================================================================ QUAN HE
+  relationships:
+    tsuna--musashi:
+      history_add: "Ch4 — ba don phong cau ma khong hoi, va khi bi chat van thi khong bao chua: ba noi cau se dong y trong bon giay, roi tu tim ly do, va ba se khong phan biet duoc minh vua hoi hay vua ra lenh. Lan dau ba noi ra chuyen bon tieng tren san lanh."
+    tsuna--natsu:
+      history_add: "Ch4 — lan dau ra khoi Namimori cung nhau. Va o Genoa, luc Tsuna chay, no di xuyen qua mot xe day dung luc cau dong, khong ai bao."
+    tsuna--kyouya:
+      history_add: "Ch4 — Tsuna ra khoi thi tran luc nua dem va Kyouya TINH DAY vi dieu do, o 00:04. Cau ta cam duoc huong va toc do, va soi day khong mong di o khoang cach ba nghin cay so. Cau ta khong biet vi sao."
+
+  # ================================================================ HOOK
+  hooks:
+    bond-bam-vao-cay:
+      progress_add: "Ch4 — 🔴 BANG CHUNG CUNG DAU TIEN. Tsuna roi Namimori lan dau ke tu khi bond thanh, va Kyouya cam duoc dung luc thi tran khuat duoi duong chan troi. Soi day KHONG mong di o ba nghin cay so. Day la thu nghiem thuc te cho emb-chot-loi-dang-quay-ve: cai neo da dich ve nguoi."
+      evidence: "The small animal was leaving the territory. / it had not gone thin."
+
+  # 🔴 tuyen-xanxus KHONG khai o day — no nam o arcs/, khong phai hooks/.
+  # Khai duoi muc hooks thi resolver se di tim mot file khong ton tai, hoac te hon,
+  # khop vao mot alias o cho khac. Xem muc arcs.
+  # hook-bermuda-to-mo, so-cua-thay-thuoc, ong-tre, nguoi-ban-cu: KHONG cham o Ch4.
+
+  # ================================================================ THOI GIAN
+  timeline:
+    status: "CHUA GHI — con viec"
+    note: "Ch4 dat o dau thang Gieng, khoang muoi mot ngay sau canh bo song cua Ch3. Tsuna 7, Xanxus ~17. Chuyen di keo dai tam ngay; cau hen ve 'ngay muoi mot'. Phai ghi vao Timeline/master.md va Timeline/tuoi-va-moc.md, KEM tuoi Musashi 74 (aurel_G)."
+
+  # ================================================================ ARC
+  arcs:
+    brat-dan-y-ch3-ch6:
+      note: "Ch4 DA VIET. Tieu su kien 4 (tron nha di bang May) va 5a (Y: Varia, Mammon nhan ra, Tsuna chay tron). Leo bac 3. Con Ch5 va Ch6."
+    tuyen-xanxus:
+      note: "🔴 MO. Xanxus da gap Tsuna, va ong gap MOT CLOUD. Ghi tay: status proposed -> active, va them muc 'Brat Ch4 mo tuyen the nao'. Hoa hop hai chieu VAN o sau Cradle, khong doi."
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - "🔴 hook: MAMMON GIAU HAI THU — con cao, va cot so khong cong duoc. Day la tuyen manh nhat chuong sinh ra va no chua co note. Ho co mot thu Xanxus khong co, va ho biet gia cua no"
+    - "🔴 hook: DUA TRE THU 52 — so nhap Estraneo ghi 52, danh sach sang Mie co 51. Tsuna da sap xep cho con be mot gia dinh o Mie va khong vao gap. Chua co note"
+    - "relationship: tsuna--xanxus — chua co note. Va no la mot trong hai tuyen lon nhat con lai cua nhanh"
+    - "relationship: tsuna--mammon — chua co note"
+    - "character: Elena — dua tre thu 52, muoi mot tuoi, benh than kinh o tay trai. Co ten tren trang"
+    - "character: Ishii — ba cu tam mot tuoi o cong den, nguoi dua cau len thuyen. Co ten, co mot canh, va noi ra ly do ca thi tran khong giu cau lai"
+    - "🟡 co the khong can: Squalo (co mot luot thoai), Belphegor, Levi, Oda va con dau o Genoa, ba luat su Genovese"
+
+  # ================================================================ SUA TAY
+  bookkeeping:
+    - "brat-ch4-chapter.md · metadata.yaml: status -> final"
+    - "🔴 Timeline/master.md · Timeline/tuoi-va-moc.md: moc Ch4 (dau thang Gieng, Tsuna 7) VA tuoi Musashi 74 — M5 cua check-continuity"
+    - "🔴 arcs/tuyen-xanxus.md: status proposed -> active, them muc Brat Ch4"
+    - "Characters/tsuna.md: them muc sau Ch4, day muc sau Ch3 xuong"
+    - "Characters/natsu.md · mammon.md · xanxus.md · kyouya.md · musashi.md · nagi.md · ayame.md · indra.md: them dong Ch4"
+    - "relationships/tsuna--musashi.md · tsuna--natsu.md · tsuna--kyouya.md: them dong lich su"
+    - "hooks/bond-bam-vao-cay.md: bang Tien do"
+    - "secrets/chi-chu-nhan-thay-cao.md: them Mammon vao known_by (tu dong), va CAN AUREL QUYET ve bon nguoi Varia con lai (aurel_C)"
+    - "arcs/brat-dan-y-ch3-ch6.md · brat-khung-arc.md: danh dau Ch4 xong, bac 3 da leo"
+    - "chapters/_MOC.md · Characters/_MOC.md · relationships/_MOC.md · hooks/_MOC.md: cap nhat"
+    - "⚠️ CON MO tu check-continuity, KHONG thuoc delta nay: M4 (Seiran-san trong manh giay) · L7 (tuyen Elena va forbid #2) · L8 (chiec ao xam da vut)"

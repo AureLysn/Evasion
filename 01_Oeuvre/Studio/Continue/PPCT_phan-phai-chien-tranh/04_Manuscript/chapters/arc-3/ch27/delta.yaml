@@ -1,0 +1,77 @@
+﻿# State delta — PPCT arc-3 ch27 (决斗)
+# TRANG THAI: committed 22/09/2026 (Aurel dong y de xuat).
+# Moi dong co cau lam bang chung (nguyen van ch27-chapter.md, ban da sua theo review Mode 3).
+# Co 5 cho can Aurel quyet, danh dau AUREL (1)..(5).
+# AUREL 22/09/2026: "dong y de xuat" — (1) he-qua paid_off · (2) khac-che giu partially_paid · (3) CO event lancer-chet-trong-quyet-dau · (4) diarmuid giu active + ghi 'Da chet — ch27' · (5) CO hai buoc bat buoc cho writer tu ch28.
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi; doc bang TU DONG tung duong dan.
+
+chapter: ch27
+status: committed
+committed_at: 2026-09-22
+proposed_at: 2026-09-22
+changes:
+
+  hooks:
+    hook-he-qua-thay-to-caster:
+      # AUREL (1): partially_paid -> paid_off. Ba he qua tac gia neu o ch2 khep: Lancer da chet, Saber lanh tay, Excalibur dung duoc lai.
+      # 「构成他身体的魔力从膝盖开始，一点一点化成了光」
+      status: paid_off
+    hook-to-caster-khac-che-to-saber:
+      # AUREL (2): GIU partially_paid — KHONG khai. Kiritsugu bi mot con bo chan lan hai (y ch5), nhung du bao dao tam Saber vo (ghi chu ch15) chua toi.
+      # 「那次是蜻蜓，这次是苍蝇。」
+
+  secrets: {}
+    # Khong secret nao doi. kiritsugu-la-master-that: Lancer chet ma KHONG biet (dung unknown_to).
+    # Kiritsugu NGHI co ben thu ba (Dazai doan: 「他会想很久，那只虫子到底是谁放的」) — nghi, khong phai biet; khong co note secret nao cho to Caster doi voi Kiritsugu.
+
+  characters:
+    diarmuid:
+      state: "Dem ngay 8, kho cang: quyet dau tu nguyen voi Saber lanh lan, chi con 破魔的红蔷薇. Thua 'mot chut': 「可是她的剑，比他的枪快了一点点。」 Chet KHONG nguyen rua — 「是你赢了，Saber。堂堂正正地。」 · 「我不是为了圣杯来的」 · 「如愿了」. Nho kiep truoc (nuoc lot ke tay chu), nhan ra lan nay 「没有人背弃他」. Tan thanh anh sang vang nhat. Khong biet Kiritsugu vua that bai o nha kho, khong biet to Caster."
+      evidence: "「Lancer单膝跪了下去」 · 「他是自己走到这块空地上来的，一步也没有被谁推着。」"
+    sola-ui:
+      state: "Dem ngay 8, nha kho phia tay: dung chan truoc Kayneth khi Kiritsugu toi; giu loi hua — 「我答应过他，一道也不用。」 Sau vu no: KHONG len trang; to Caster suy ra co khong dung lenh chu vi Lancer van danh. Lancer da chet — co van giu ba dao lenh chu (khong con Servant)."
+      evidence: "「索拉乌从货箱边上站了起来，挡在肯尼斯前面。」 · 「那就说明，一道令咒都没有用。」"
+    kayneth:
+      state: "Dem ngay 8: nam tren thung hang khi Kiritsugu toi; sau vu no khong len trang."
+      evidence: "「索拉乌……挡在肯尼斯前面」"
+    kiritsugu:
+      state: "Dem ngay 8: biet lenh chu o tay Sola-Ui (off-page); toi nha kho ep co dung lenh chu ket thuc tran — 「一道就够让他停下来，不是吗？」 · 「那是你答应他的，不是答应我的。」 Bi mot con bo tu no chan; to Caster doan han rut lui va se NGHI co ben thu ba."
+      evidence: "「卫宫切嗣手里的枪口低低地垂着」 · 「他会想很久，那只虫子到底是谁放的。」"
+    artoria:
+      state: "Dem ngay 8, kho cang, cung Irisviel: quyet dau Lancer bang hai tay, toan luc (KHONG tu bo tay nhu canon — lech co chu dich C2); thang bang kiem, khong giai phong Excalibur. 「我的左手，比任何一封战书都要清楚。」 Dung mot minh sau khi Lancer tan; Irisviel cham tay co."
+      evidence: "「那你现在，如愿了吗？」 · 「下面只剩下Saber一个人，剑尖垂着」"
+    dazai:
+      state: "Dem ngay 8: xem tren 龙门吊 voi Tsuna, cam tablet noi voi cac con bo. Thay Kiritsugu o nha kho, cho con bo tren xa TU NO — 「那次是蜻蜓，这次是苍蝇」. Suy ra Sola-Ui khong dung lenh chu vi Lancer van danh. 「我只是帮她赶走了一个想替她开口的人。」 · 「我只是炸了一只苍蝇。」 Khong lo mat. Mat con bo o nha kho phia tay."
+      evidence: "「嘘，我知道。」 · 「她那句关于令咒的话，最后还是算数了。」"
+    tsuna:
+      state: "Dem ngay 8: xem tran dau tu tren cao; nhan ra Dazai lap lai ch5; suy ra lenh chu khong duoc dung tu viec Lancer van danh. 「他走的时候，好像在笑。」 · 「是你让它算数的。」"
+      evidence: "「和那天一样……你炸掉了他的瞄准镜。」"
+
+  relationships:
+    dazai--tsuna:
+      history_add: "ch27 — Xem quyet dau tu 龙门吊; Dazai no con bo chan Kiritsugu. Tsuna: 「是你让它算数的。」 — Dazai: 「我只是炸了一只苍蝇。剩下的，不都是他们两个自己打完的吗？」"
+
+  timeline:
+    story_day: 8
+    row: "Ngay 8, dem *(viet tiep)* | Quyet dau tu nguyen Saber–Lancer o kho cang; cung luc Kiritsugu ep Sola-Ui dung lenh chu o nha kho phia tay, bi con bo cua to Caster tu no chan; Lancer chet duoi kiem Saber, khong nguyen rua | ch27"
+    evidence: "「圣杯战争打到第八个晚上」"
+
+  arcs:
+    arc-3-hai-cay-thuong:
+      chapter_27: final
+
+  new_entities:
+    - "AUREL (3): note EVENT cho ch27. De xuat: CO — events/lancer-chet-trong-quyet-dau.md (ten KHAC decision ket-cuc-lancer-quyet-dau-tu-nguyen de tranh trung alias, L37)."
+    - "AUREL (4): Diarmuid da chet — `status` cua note Characters/diarmuid.md? De xuat: GIU `active` (note nhan vat van la noi tra cuu), ghi ro 「Đã chết — ch27」 o dau muc Trang thai hien tai. KHONG chuyen 80_Archive (bat bien 3 danh cho file xong viec, khong cho nhan vat da chet con duoc nhac lai o arc sau)."
+    - "AUREL (5): S1 cua review — ghi vao plan ch28 hai buoc bat buoc cho writer: chay han_metrics.py ngay sau ban dau; grep tag SAU ngoac 「”[^“]{0,4}说」 truoc khi do. KHONG them cot the canh. De xuat: CO."
+
+  bookkeeping:
+    - "ch27-chapter.md, metadata.yaml: status draft -> final; plan va 5 the canh giu `planned`"
+    - "hook-he-qua-thay-to-caster: bang Tien do them ch27 (tra het) — status tu dong"
+    - "hook-to-caster-khac-che-to-saber: bang Tien do them ch27 (Kiritsugu bi chan lan hai)"
+    - "diarmuid, sola-ui, kayneth, kiritsugu, artoria, dazai, tsuna: 'Trang thai hien tai — sau ch27'"
+    - "relationships/dazai--tsuna.md: them dong ch27"
+    - "Timeline/master.md: them dong ngay 8 dem"
+    - "fact-cong-nghe-vongola-trong-chien-tranh: them dong 'con bo o nha kho phia tay da no (ch27) — to Caster mat mat o do'"
+    - "arc-3-hai-cay-thuong: dong ch27 -> final; ghi cho ch28; PPCT-MOC chapters + events"
+    - "Khong doi: secrets, loi moi hien the (khong len trang)"

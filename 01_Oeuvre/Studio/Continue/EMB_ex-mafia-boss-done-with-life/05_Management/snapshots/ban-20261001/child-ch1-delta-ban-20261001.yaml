@@ -1,0 +1,108 @@
+﻿# State delta - EMB / arc Child (dung lai 25/09) / Ch1 (POV Tsuna, khoi Skull, Musashi, Ettore)
+# TRANG THAI: proposed - CHUA commit.
+#
+# Day la delta DAU TIEN cua arc Child moi. Arc cu da go 25/09 (emb-lam-lai-child-tu-khung);
+# moc state = cuoi Brat Ch7. KHONG phai Mode 4: khong co delta cu nao cho chuong nay de supersede
+# (delta cu cua 'child-ch1' ban 20/09 nam o 80_Archive, cua mot chuong KHAC da bi go).
+#
+# Bai hoc da ap dung: khong dung khoi '>'; khong khai 'status' cho hook khong doi;
+# key thuc the da kiem bang ls.
+
+chapter: child-ch1
+status: committed
+committed_at: 2026-09-26
+project: EMB
+branch: aurel-main
+
+changes:
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    skull:
+      state_add: "Toi Namimori cuoi thang Chin (Tsuna 7, ba tuan nua tron 8), chay bon ngay tu Palermo. Biet Namimori tu mot dong so ngung ban trong so o Palermo. Tu bo chuc QUAN SU cua Carcassa tai bia da bac, truoc mat ba nguoi Carcassa; Musashi nhan, hop dong giu. Tu nay la CU DAN Namimori va khong gi khac. Giu mu bao hiem - 'It's mine. I had it before them.' Sang hom sau hoi 'what am I supposed to do now?' va noi minh khong biet minh thich gi."
+      evidence: "I, Skull, resign as strategist of the Carcassa Famiglia. As of now. All of it. / Namimori receives him. From this hour he is a resident of this town, and nothing else"
+      aurel_A: "🔵 CAN AUREL: note skull.md dang 'status: draft'. De xuat nang len 'active' vi da len trang. state_apply khong sua status character - lam tay."
+      aurel_B: "⚠️ Skull o lai bao lau: VAN chua quyet (Ch5). Delta nay chi ghi la cu dan, khong ghi thoi han."
+
+    tsuna:
+      state_add: "Dung o bia da nhu 'dua chau' Masaya, khong duoc noi voi tu cach Kotei truoc nguoi ngoai. Hoi Skull mot cau tre con - 'does he have to give them back the helmet?' - va cau ay lam loi tu bo thanh chon duoc. Cam duoc hop dong cua chinh minh nhan Skull. Nhan ra Skull tu kiep truoc, khong de lo."
+      evidence: "if he stops working for them, does he have to give them back the helmet? / He had not said a single word he could not have said at seven."
+
+    musashi:
+      state_add: "Lan dau trong doi nhan mot nguoi la vao Sanctuary: noi loi nhan Skull o bia da bac, tay dat tren da. Doc cho Skull luat hai cua vao (khach / cu dan). Dat tap quan cho con bach tuoc cua Skull: 'a resident's dog that happens to be very large'. Quyet KHONG hoi Masaya ve cau hoi cai mu."
+      evidence: "I am Sawada Musashi, Ruriko, priest of this shrine and keeper of this compact. / Musashi looked at Tsuna for about as long as it took to decide not to ask him anything, ever, about this."
+
+    kyouya:
+      state_add: "Doc tu doan duong Carcassa se toi (duong bac, duy nhat du rong cho xe sau cau) va doi ca ban phan cong trong dem. Dung o bia da, cach Skull dung mot met, KHONG ai giao viec. Hai Getsufuji mot vach: 'You're loud.' / 'You're nine.'"
+      evidence: "The north road. They'll come by the north road. It's the only one wide enough for cars after the bridge. / I'm moving the roster."
+
+    indra:
+      state_add: "Ke cho Tsuna lan truoc Namimori nhan mot nguoi co ten tuoi (thoi cu co cua chong ba): mot Gen'ei nha o Kyushu bo chuc o bia bac; Kyoto cu hai ong gia len den trong vong mot thang hoi ai dang giu hop dong; ba co cua chong tra loi 'nhu van giu' va ho ve."
+      evidence: "Kyoto sent two old men up those steps within the month. / My husband's great-grandmother told them it was being held the way it had always been held."
+      aurel_C: "🔵 CAN AUREL: day la LORE MOI (review L4). Giu thi ghi vao namimori.md muc lich su; bo thi go khoi 1.6."
+
+    genichi:
+      state_add: "Len den thuong xuyen hon tu mua xuan; mot so lan khong vi Tsuna ma de ngoi voi Musashi va hoi ve Fire. Khong ghi gi truoc mat ba. To chung nhan thang Muoi Mot van trong ho so, chua gach."
+      evidence: "He came to sit on the veranda with Musashi and drink her very bad tea and ask her questions about Fire / The certificate from November was still in his files, uncrossed"
+
+    nagi:
+      state_add: "Mua he: hoc duoc dat Gen'ei tro lai cho cu, phan lon."
+      evidence: "Nagi learned to put her Gen'ei back where she found it, mostly."
+
+  # ================================================================ QUAN HE
+  relationships:
+    tsuna--musashi:
+      state_add: "Musashi cho Masaya o lai trong bep khi tiep Skull, khong hoi. O bia da, ba quyet khong bao gio hoi ve cau hoi cai mu - mot cho nua ba doc khong ra dua chau: 'could not read this one at all, and she found that she did not like it.'"
+      evidence: "Musashi, who had been reading that child's silences for seven years with the help of a pseudo-bond and every scrap of Fire she owned, could not read this one at all"
+
+  # ================================================================ HOOK
+  # Khong hook cu nao doi status o chuong nay (the canh: required_hooks rong).
+  hooks: {}
+
+  # ================================================================ BI MAT
+  secrets: {}
+  # ⚠️ CAN AUREL (khong tu quyet): Ettore Bassi nay tin 'somebody is holding it. Now. Tonight.'
+  # - tuc CO MOT NGUOI dang giu hop dong Namimori. Khong secret note nao phu dung dieu nay
+  # (loi-o-cay-sakaki la CHO cua loi; tsuna-am-tinh-tren-giay la to giay). De xuat: KHONG
+  # them suspected_by vao secret nao; ghi dieu Carcassa biet vao hook moi o new_entities.
+
+  # ================================================================ MOC THOI GIAN
+  timeline:
+    - when: "thang Hai -> thang Chin, Tsuna 7"
+      what: "Mua xuan yen nhat: seo mot muoi mot mui lanh · Indra khong tre nua · Ban Ky luat 31 dua va ban phan cong tu cuoi thang Hai · Gen'ichi len den thuong xuyen hon · Nagi dat Gen'ei tro lai duoc."
+    - when: "cuoi thang Chin, chang vang (Tsuna 7, ba tuan nua tron 8)"
+      what: "Skull chay toi Namimori sau bon ngay tu Palermo; Tako vao cang. Thi tran ap tap quan Getsufuji len Skull."
+    - when: "cung dem, bep nha Musashi"
+      what: "Musashi doc luat hai cua vao. Skull chua tra loi. Kyouya doi ban phan cong ra duong bac."
+    - when: "00:40 dem do"
+      what: "Ba nguoi Carcassa toi bia da bac. Skull tu bo chuc quan su; Musashi nhan; hop dong giu. Carcassa ve, khong ai danh ai."
+    - when: "sang hom sau"
+      what: "Ngu dan len den hoi tap quan cho con bach tuoc: 'cho rat to cua mot cu dan'. Indra ke lan Kyoto cu nguoi len hoi ai giu hop dong. Skull hoi minh phai lam gi bay gio."
+
+  # ================================================================ LUAT THE GIOI (lam tay - state_apply khong phu)
+  canon:
+    fact-sanctuary:
+      state_add: "M2 - Aurel GIU 26/09: hai cua vao. KHACH giu nguyen nhung gi mang toi, duoc thi tran che cho va theo luat thi tran; khong ai dua khach ra ngoai trai y; NHUNG khach van la nguoi cua phe kia - thi tran khong giao ra, cung khong gia vo han khong phai. CU DAN bo moi chuc vu va chi con la cu dan. Nguon: child-ch1-chapter canh 1.3, KHONG phai tac gia goc - source.type inference, authority user (Aurel giu)."
+      evidence: "There are two ways into this town. You can visit. Visitors keep what they came with / The other way is residence."
+    fact-tap-quan-doi-voi-tung-he-lua:
+      state_add: "Tap quan dau tien cho mot sinh vat khong phai nguoi: con bach tuoc cua Skull la 'cho rat to cua mot cu dan' - khong cho an tu tay, khong duoi, can thi hoi no dich ra, lich su. Va tap quan Getsufuji duoc ap len mot nguoi la (Skull) ngay khi Lua cua anh ta boc len - doc nhu doc thoi tiet, tha ra dong."
+      evidence: "Treat it as you'd treat a resident's dog that happens to be very large. / You'll feel better after an hour in a field. Everybody knows that."
+    namimori:
+      state_add: "CHO AUREL QUYET (aurel_C o tren): lan nhan cu dan co ten tuoi thoi cu co chong Indra; Kyoto cu hai ong gia hoi ai giu hop dong."
+      evidence: "The last time this town took someone in who had a name worth knowing, was in my husband's great-grandfather's day."
+
+  # ================================================================ ARC
+  arcs:
+    child-dan-y:
+      state_add: "Ch1 DA VIET, 7.930 tu (Aurel chap nhan lech so tu, cau trung vi, mat do thuat ngu). Nguoi xin vao la Skull. Viec tra so Hono doi sang Ch2 (cong 3 the Ch1)."
+      evidence: "I quit, said Skull."
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - id: hook-carcassa-biet-hop-dong-song
+      note: "🔵 DE XUAT HOOK MOI. Carcassa mang ve cho Don: hop dong Dong A cua Namimori KHONG phai giay, no con song, va CO NGUOI dang giu no - Ettore khong tim ra ai. 'I would not send men there again, Don. Not without knowing who.' Day la mat xich sang Ch2 (Kyoto). Can Aurel dong y truoc khi dung note."
+    - id: tako
+      note: "🔵 KHONG de xuat note rieng. Gop vao Characters/skull.md mot dong: toi bang duong bien, song o cang, cam ca cua ngu dan roi tra lai. Tap quan: xem fact-tap-quan."
+    - id: ettore-bassi
+      note: "🔵 KHONG de xuat note rieng. Nguoi lai xe cua Carcassa hai muoi hai nam, cung Nico va Paolo. Nhan vat mot canh. Ghi mot dong trong hook moi o tren neu Aurel dung hook."

@@ -1,0 +1,65 @@
+﻿# PPCT ch22 — số đo bản nháp tiếng Trung, 20/09/2026
+# Nguồn: script đếm chữ Hán trong scratchpad (ch_metrics.py), KHÔNG phải style_metrics.py (L26).
+chapter: 22
+file: ch22-chapter.md
+language: zh
+mode: det_canon_va_doi_thuong
+status: final
+measured_at: 2026-09-20
+measured_by: han-char-script
+chapter_targets:  # chi tieu rieng ch22 (che do tron), theo ch22-plan.md
+  dialogue_ratio: [0.40, 0.55]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 5
+body:   # do lai sau write-chapter Mode 3 (sua #1 loi A, #2, #3, #6)
+  han_chars: 2313
+  dialogue_han: 940
+  dialogue_ratio: 0.406
+  paragraphs: 50
+  han_per_paragraph_mean: 46.3
+  paragraphs_ge_100_han_ratio: 0.060
+  sentences_ge_50_han_ratio: 0.028
+  sentence_han_median: 20
+  sentences_le_4_han_per_1000: 3.89
+  paragraphs_with_dialogue_ratio: 0.660
+  bare_dialogue_paragraph_ratio: 0.120   # nguyen tac 0.091-0.233
+per_1000_han:
+  question_mark: 5.19
+  exclamation: 1.30
+  ellipsis: 0.86
+  em_dash_pair: 2.16
+  terms: 5.19
+term_hits: {圣杯: 1, 御主: 4, 魔力: 3, 令咒: 1, 从者: 3}
+eye_motif: 3
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+author_note_han: 70
+first_draft:  # do truoc cac luot sua trong chinh write-chapter
+  han_chars: 1690
+  dialogue_ratio: 0.385
+  han_per_paragraph_mean: 36.7
+  sentence_han_median: 11
+  sentences_le_4_han_per_1000: 11.24
+before_mode3:  # sau write-chapter, truoc khi sua theo review
+  han_chars: 2251
+  dialogue_ratio: 0.401
+  han_per_paragraph_mean: 45.9
+  sentence_han_median: 18
+aurel_decisions_20_09:   # tren ch22-review.md — Aurel goi "write-chapter Mode 3"
+  thiet_bi_giam_sat: "loi A — doi sang bo giam sat co ruoi, bo 'xem bu', noi ro may chi truyen truc tiep"
+  fix: [2, 3, 6]
+  giu_nguyen: [4, 5]   # #4 hat giong giac mo de ch23 theo plan; #5 giu loi dem '第六天'
+pov_leak_check:
+  exit: 1
+  reason: "khong khop duoc chu Han — nhat-ky-loi-lam-viec L29; da grep tay, xem manual_grep"
+style_metrics_py:
+  valid: false
+  reason: "khong dem duoc chu Han — nhat-ky-loi-lam-viec L26; san thuat ngu 9/1000 no dung la cua che do det canon, ch22 lay san 5"
+manual_grep:  # thay cho pov_leak_check (L29) — chay 20/09/2026 tren ch22-chapter.md
+  terms: [龙之介, 绮礼, 言峰, 白兰, 前世, 上辈子, 横滨, 织田,
+          下水道, 催眠, 新御主, 人间失格, 无效化]
+  hits: 0   # khong ai goi Sola-Ui la Master; khong ai neu ten hung thu

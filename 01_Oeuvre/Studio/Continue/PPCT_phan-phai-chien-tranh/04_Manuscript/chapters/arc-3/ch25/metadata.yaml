@@ -1,0 +1,67 @@
+﻿# PPCT ch25 — số đo bản nháp tiếng Trung, 22/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45), KHÔNG phải style_metrics.py (L26).
+chapter: 25
+file: ch25-chapter.md
+language: zh
+mode: det_canon
+status: final
+measured_at: 2026-09-22
+measured_by: han-char-script
+chapter_targets:  # theo ch25-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2300
+  dialogue_ratio: [0.20, 0.40]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 9
+  min_dialogue_turns: {"01": 1, "02": 10, "03": 2, "04": 6}   # quy dinh moi tu ch25 (Aurel 22/09)
+body:   # do lai sau write-chapter Mode 3 (#1, #2), 22/09/2026
+  han_chars: 2272
+  dialogue_ratio: 0.219
+  paragraphs: 61
+  han_per_paragraph_mean: 37.2
+  paragraphs_ge_100_han_ratio: 0.049
+  sentences_ge_50_han_ratio: 0.039
+  sentence_han_median: 19
+  sentences_le_4_han_per_1000: 0.88
+  paragraphs_with_dialogue_ratio: 0.525
+  bare_dialogue_paragraph_ratio: 0.131
+before_mode3: {han_chars: 2258, dialogue_ratio: 0.214, sentence_han_median: 20, terms: 9.74}
+dialogue_turns_counted: {"01": 2, "02": 15, "03": 4, "04": 11}   # dem tay tren ban nay; Kiritsugu 0 luot
+per_1000_han:
+  question_mark: 6.16
+  exclamation: 1.32
+  ellipsis: 1.32
+  em_dash_pair: 1.76
+  terms: 9.68
+term_hits: {圣杯: 3, 英灵: 3, 宝具: 5, 御主: 4, 魔力: 3, 令咒: 1, 从者: 3}
+eye_motif: 4
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争25"
+first_draft:   # truoc luot sua trong write-chapter
+  han_chars: 2107
+  dialogue_ratio: 0.189
+  han_per_paragraph_mean: 34.5
+  sentence_han_median: 14
+  sentences_le_4_han_per_1000: 6.17
+  exclamation: 0.0
+  terms_per_1000: 4.27
+  note: "luot thoai toi thieu DAT ngay tu ban dau; ty le thoai van hut — so luot khong du thay cho do dai luot"
+pov_leak_check:
+  exit: 1   # ca 4 the canh; "khong khop duoc chu Han"
+  valid: false
+  reason: "L29; da grep tay, xem manual_grep"
+manual_grep:
+  terms: [一把也没有断, 那样赢下来的一场, 现界, 邀请, 愿望, 马雷, 虫子, 监视, Master, 太宰, 纲吉, 龙之介, 绮礼, 白兰, 前世]
+  hits: 0   # ngoai dong 预警 chung dau chuong (「黑手党太宰治x英灵纲吉」) — khong thuoc than truyen
+writer_notes:
+  beats: "du 5 beat; khong them beat moi"
+  deviations:
+    - "Canh 03: Sola-Ui dung o cua, KHONG quay mat di (the canh de 🟡) — Lancer xin 「请您不必看」, co khong tra loi, cung khong quay mat"
+    - "Canh 04: Kiritsugu cam dieu thuoc chua chau, roi quay di — khong loi (the canh cho toi da 1)"
+    - "Ban dau viet than thuong la 「木头」 — trai ch21 「底下的金属露出来」; da doi thanh 「枪杆……露出底下金属」"
+    - "Ban dau ta mat Lancer 「琥珀色」 — khong co nguon trong vault; da bo mau"

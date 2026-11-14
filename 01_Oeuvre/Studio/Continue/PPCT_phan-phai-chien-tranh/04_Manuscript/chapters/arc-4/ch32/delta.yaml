@@ -1,0 +1,58 @@
+﻿# State delta — PPCT arc-4 ch32 (chuong nha — giac mo truoc cuoc dam phan)
+# TRANG THAI: committed 24/09/2026 (Aurel: "finalize-chapter Mode 2, dong y de xuat").
+# AUREL 24/09/2026: (1) CO event dazai-mo-buoi-truoc-cuoc-dam-phan · (2) CO dong ch32 o dam-phan-voi-byakuran · (3) CO dong ch32 o dazai-kiep-truoc.
+# Moi dong co cau lam bang chung (nguyen van ch32-chapter.md, ban da sua theo review Mode 3).
+# Co 3 cho can Aurel quyet, danh dau AUREL (1)..(3).
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi.
+
+chapter: ch32
+status: committed
+committed_at: 2026-09-24
+proposed_at: 2026-09-24
+changes:
+
+  hooks: {}
+    # hook-dazai-mo-tiep-kiep-truoc: DAY — giac mo len trang lan ba (ch10, ch18; ch26 ke lai). Giu `partially_paid`.
+    # Chi them dong ch32 vao bang Tien do (van xuoi, xem bookkeeping).
+    # Khong cham: hook-gokudera-dang-duoc-tim (giong 「十代目……去……小心……」 KHONG gan ten), hook-nhan-mare-trong-tay-tsuna, hook-bo-sung-ma-luc.
+
+  secrets: {}
+    # tsuna-bi-byakuran-giet · dazai-mang-ky-uc-kiep-truoc: known_by da co CA Tsuna va Dazai — khong doi.
+    # archer-doi-master-sang-kirei: to Caster VAN khong biet — 「昨天晚上，屏幕上什么也没有发生。」 known_by khong doi.
+    # Nguyen vong Dazai (nguyen-vong-to-caster-de-ngo): khong noi; cu chi vuot ao khong giai thich.
+
+  characters:
+    dazai:
+      state: "Dem ngay 10 -> sang ngay 11: mo ky uc cua Tsuna — lan cuoi Tsuna vao phong mo trang truoc cuoc dam phan voi Byakuran (tien truyen thuong), qua mat Tsuna thay chinh minh kiep truoc noi do 「你不用……」; roi hanh lang Vongola, giong khong ten, canh cua phong hop — tinh truoc khi cua mo. Sang: ke ngan cho Tsuna, treu mat minh kiep truoc 「皱得跟被人揉过的纸一样」. Tsuna hoi cau bo lung dinh noi gi — KHONG tra loi bang loi; lat lai co ao hoodie cua Tsuna, vuot phang nep nhan: 「歪了。」 Chieu: choi game, thang Tsuna."
+      evidence: "「后面的半句是什么，太宰治比谁都清楚。」 · 「门还没有推开，他就醒了。」 · 「太宰治没有回答，他坐了起来」 · 「把布料上那一道皱褶压平了」"
+    tsuna:
+      state: "Sang ngay 11: thay khong on tu bep (truc giac), hoi Dazai mo gi. Biet Dazai mo buoi minh di dam phan va dung o cua. Nho lan cuoi o phong mo — Dazai kiep truoc noi do, minh 「那天急着出门，没有追问」. Hoi cau do dinh noi gi; tu doan 「你不用去」; khong duoc tra loi, khong hoi them. Chieu: choi game, thua; lien man hinh — 「昨天晚上，屏幕上什么也没有发生」 (sai, khong biet ch31)."
+      evidence: "「纲吉是在厨房里觉得不对的，说不上是直觉还是别的什么。」 · 「我一直以为，你是想说‘你不用去’。」 · 「他没有再问下去」"
+
+  relationships: {}
+    # dazai--tsuna: khong doi muc/xung ho. Them mot dong 'Dien bien theo arc' (van xuoi, xem bookkeeping).
+
+  timeline:
+    story_day: 11
+    rows:
+      - "Dem ngay 10 -> ngay 11 *(viet tiep)* | Dazai mo ky uc Tsuna: buoi truoc cuoc dam phan voi Byakuran (phong mo trang -> hanh lang -> cua phong hop), tinh truoc khi cua mo. Sang ngay 11 ke cho Tsuna; cau 「你不用……」 khong duoc tra loi bang loi. Chieu: choi game. To Caster khong biet chuyen dem ngay 10 o 远坂宅 | ch32"
+    evidence: "「第十一天早上。」 · 「那天下午，纲吉还是输了。」"
+
+  arcs:
+    arc-4-ba-dao-lenh-chu:
+      chapter_32: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch32? De xuat: CO — events/dazai-mo-buoi-truoc-cuoc-dam-phan.md (theo mau event ch29–31; ch18 va ch26 cung co event rieng cho giac mo)."
+    - "AUREL (2): event dam-phan-voi-byakuran — them dong 'ch32 (viet tiep): phan TRUOC cuoc gap len trang qua giac mo — phong mo, hanh lang, cua; ben trong khong lap lai'? De xuat: CO."
+    - "AUREL (3): dazai-kiep-truoc — them dong 'ch32: len trang qua mat Tsuna, toc den xoan roi (theo Ngoai hinh); 「你不用……」'? De xuat: CO — de lan sau khong ai viet lai 'cung khuon mat' (review ch32 #1)."
+
+  bookkeeping:
+    - "ch32-chapter.md, metadata.yaml: status draft -> final; plan va 3 the canh giu `planned`"
+    - "dazai, tsuna: muc 'Trang thai hien tai — sau ch32'"
+    - "Timeline/master.md: them dong dem ngay 10 -> ngay 11"
+    - "hook-dazai-mo-tiep-kiep-truoc: dong ch32 vao bang Tien do; status giu partially_paid"
+    - "relationships/dazai--tsuna: dong ch32 o 'Dien bien theo arc'"
+    - "arc-4-ba-dao-lenh-chu: dong ch32 -> final; ghi C7 (go mot phan cam tsuna-bi-byakuran-giet cho rieng ch32); 'Ghi cho ch33' giu nguyen (to Caster chua biet)"
+    - "PPCT-MOC: chapters ch32 (+ event neu AUREL 1 = co)"
+    - "Khong doi: secret nao, question nao, relationship nao ngoai mot dong lich su"

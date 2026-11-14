@@ -1,0 +1,75 @@
+﻿# PPCT ch33 — số đo bản nháp tiếng Trung, 24/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45). style_metrics.py ghi đè file này bằng số
+# đếm cả tiêu đề + lời người viết tiếp và không nhận “” làm thoại — số của nó giữ ở cuối, KHÔNG dùng để chấm.
+chapter: 33
+file: ch33-chapter.md
+language: zh
+mode: doi_thuong_suy_luan
+pov: [tsuna]
+status: final   # finalize-chapter 24/09/2026 — delta committed (write-chapter · review · Mode 3 sua #1–#6, #8, #9)
+measured_at: 2026-09-24
+measured_by: han-char-script
+chapter_targets:  # theo ch33-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2150
+  dialogue_ratio: [0.35, 0.55]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 4
+  min_dialogue_turns: {"01": 8, "02": 8, "03": 8}
+  target_terms: {"01": 3, "02": 4, "03": 4}
+body:
+  han_chars: 2156                 # do lai 24/09 sau Mode 3
+  dialogue_ratio: 0.348            # DUOI dai 0,35 — Aurel chap nhan cho chuong nay (24/09, review #7)
+  paragraphs: 63
+  han_per_paragraph_mean: 34.2     # DUOI dai 35 — Aurel chap nhan cho chuong nay (24/09, review #7)
+  paragraphs_ge_100_han_ratio: 0.016
+  sentences_ge_50_han_ratio: 0.0
+  sentence_han_median: 17          # sat san 17
+  sentences_le_4_han_per_1000: 2.78
+  paragraphs_with_dialogue_ratio: 0.619
+  bare_dialogue_paragraph_ratio: 0.0
+scene_han: {"01": 809, "02": 832, "03": 515}
+scene_dialogue_ratio: {"01": 0.26, "02": 0.35, "03": 0.47}   # the canh: 40 % · 40 % · 50 %
+dialogue_turns_counted: {"01": 13, "02": 16, "03": 16}
+terms_counted: {"01": 2, "02": 3, "03": 8}                  # canh 01 thieu 1 (Aurel chap nhan, review #7); canh 02 thieu 1 sau Mode 3 — cat 「魔力」 theo review #1 — Aurel chap nhan (24/09)
+per_1000_han:
+  question_mark: 6.96
+  exclamation: 1.39
+  ellipsis: 0.93
+  em_dash_pair: 0.0
+  terms: 6.03
+term_hits: {圣杯: 1, 御主: 2, 魔力: 3, 令咒: 2, 从者: 3, 彭格列: 1, 直觉: 1}
+eye_motif: 5
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争33"
+  tag_after_quote_grep: 0            # grep theo dong 「”[^“]{0,4}说」
+first_draft:   # do ngay sau ban dau (buoc bat buoc)
+  han_chars: 2181
+  dialogue_ratio: 0.345
+  han_per_paragraph_mean: 31.2
+  sentence_han_median: 17
+  exclamation: 0.0
+  ellipsis: 0.46
+  note: "Ban dau ！ = 0 va …… 0,46 (duoi san). Sua MOT luot, khong them thoai: doi dau cau o 3 cau Tsuna da co (布丁 · 不是你的东西 · 不会让你拿走) sang ！ — dung giong 吐槽/cung cua Tsuna; them …… vao 「时臣」 (Tsuna nho lai). Bo mot ？ gan vao cau menh lenh 「想说什么就说吧」. Gop 7 cap doan ke ngan de nang doan TB 31,2 -> 34,7."
+pov_leak_check:
+  valid: true
+  exit: {"01": 1, "02": 0, "03": 1}   # 1 = khong kiem duoc kiritsugu-la-master-that (khong co leak_terms chu Han) -> grep tay
+  findings: {"01": 0, "02": 0, "03": 0}
+  uncheckable: [kiritsugu-la-master-that]
+  note: "Lan chay dau: HIGH o ca 3 canh do alias frontmatter 'Archer co chu moi ban nhap' trung alias cua secret archer-doi-master-sang-kirei — khong phai than truyen. Doi alias -> 0 phat hien."
+  scene_03_note: "archer-doi-master-sang-kirei CO Y khong o forbidden_secrets canh 03 (plan C9) — review tay."
+manual_grep:
+  terms: [切嗣, 卫宫, 魔术师杀手, Saber的御主, 爱丽丝菲尔, 戒指, 指环, 白兰, 教会, 绮礼, Azoth, 死, 挑不出, 像在念一张]
+  hits_in_body: 0
+  note: "Leak_terms cua archer-doi-master-sang-kirei (时臣死 · Archer的新御主 · 绮礼的从者 · Azoth剑 ...) : 0. Chu 死 khong xuat hien (plan C8)."
+style_metrics_raw:   # style_metrics.py --write, 24/09/2026 — dem ca ngoai than truyen; KHONG dung de cham
+  cjk_char_count: 2256
+  word_count: 2263
+  paragraph_mean: 31.9
+  term_density_per_1000: 7.07
+  verdict: "word count 1500-2200 LECH (bo qua — targets: do dai la san, khong tran); term density >= 9 LECH (bo qua — chuong doi thuong, plan >= 4)"

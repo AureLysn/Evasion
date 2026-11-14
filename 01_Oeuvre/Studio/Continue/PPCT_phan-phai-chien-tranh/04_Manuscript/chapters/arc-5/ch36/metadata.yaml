@@ -1,0 +1,88 @@
+﻿# PPCT ch36 — số đo bản nháp tiếng Trung, 25/09/2026
+# Nguồn: han_metrics.py (bản sao từ scratchpad phiên ppct-project-status-9aab04 — cùng script đã dùng cho ch35; từ 25/09 giữ ở PPCT/tools/han_metrics.py, SHA-256 khớp). style_metrics.py bản PR #64 cho đúng các số này trên ch36. style_metrics.py ghi đè file này bằng số
+# đếm cả tiêu đề + lời người viết tiếp và không nhận “” làm thoại — số của nó giữ ở cuối, KHÔNG dùng để chấm (L26).
+# ⚠️ han_metrics đếm thuật ngữ theo danh sách targets — KHÔNG có 魔术 (thẻ cảnh 02 đặt chữ này); số theo cảnh bên dưới đếm cả 魔术.
+chapter: 36
+file: ch36-chapter.md
+language: zh
+mode: doi_thoai_dam_phan_pov_tsuna
+pov: [tsuna]
+status: final   # finalize-chapter 25/09/2026 — delta committed (write-chapter · review · Mode 3 sua #1–#8, #9 chap nhan)
+measured_at: 2026-09-25
+measured_by: han-char-script
+chapter_targets:  # theo ch36-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2450
+  dialogue_ratio: "0.45-0.55 (plan) · dai chung 0.35-0.55 (targets)"
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_tendency: 4
+  min_dialogue_turns: {"01": 5, "02": 10, "03": 10, "04": 4}
+  target_terms: {"01": 2, "02": 3, "03": 4, "04": 1}
+body:
+  han_chars: 2803                  # do lai sau Mode 3 · tren san 1.500; vuot du kien 2.450 (~+14 %) — Aurel chap nhan (25/09, review #9)
+  dialogue_ratio: 0.313            # DUOI plan 0,45–0,55 va dai chung 0,35 — Aurel chap nhan (review #9)
+  paragraphs: 82
+  han_per_paragraph_mean: 34.2     # sat duoi dai 35 — Aurel chap nhan (review #9)
+  paragraphs_ge_100_han_ratio: 0.037
+  sentences_ge_50_han_ratio: 0.006
+  sentence_han_median: 14.5        # DUOI san 17 — thoai Kiritsugu cut (nhu ch35) — Aurel chap nhan (review #9)
+  sentences_le_4_han_per_1000: 1.78
+  paragraphs_with_dialogue_ratio: 0.59   # chua do lai sau Mode 3
+  bare_dialogue_paragraph_ratio: 0.0
+scene_han: {"01": 1038, "02": 524, "03": 749, "04": 492}          # the canh: 550 · 700 · 800 · 400
+scene_dialogue_ratio: {"01": 0.25, "02": 0.4, "03": 0.31, "04": 0.35}   # the canh: 35 % · 55 % · 55 % · 40 %
+dialogue_turns_counted: {"01": 14, "02": 14, "03": 13, "04": 11}  # dem theo dau “ — dat san ca bon canh
+terms_counted: {"01": 4, "02": 2, "03": 7, "04": 0}              # tinh ca 魔术 · canh 02, 04 thieu 1 — Aurel chap nhan (review #9)
+per_1000_han:
+  question_mark: 5.71
+  exclamation: 1.07
+  ellipsis: 1.43
+  em_dash_pair: 0.0
+  terms: 4.28                      # theo danh sach targets (khong 魔术) — dat huong ~4 cua plan
+term_hits: {圣杯: 1, 御主: 4, 令咒: 1, 从者: 3, 直觉: 3}   # Mode 3: bo 「Lancer的御主」 (#1)
+eye_motif: 5
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争36"
+  tag_after_quote_grep: 0            # grep theo dong 「”[^“]{0,4}说」
+first_draft:   # do ngay sau ban dau (buoc bat buoc)
+  han_chars: 2567
+  dialogue_ratio: 0.249
+  han_per_paragraph_mean: 34.7
+  sentence_han_median: 15
+  exclamation: 0.78
+  ellipsis: 1.17
+  note: "Ban dau thoai 24,9 % — nguoi ke ke thay nhieu cho nhan vat noi duoc. Sua MOT luot trong beat co san: cho doi (Tsuna hoi Kiritsugu co den mot minh khong · Saber); nguoi phu nu ben kia duong (Tsuna chi ra, Dazai 「总要在外面留一双眼睛」); bao cao cua Kiritsugu them mot ve; cau ch30 cua Dazai trich nguyen van trong ngoac khi Tsuna nho lai; khep (con bo · 「这扇门」 · 「他只是在记住这张脸」). Khong them beat. Thoai len 31,2 %, ! len 1,06. Dung o day: day tiep la nhoi thoai — phan con lai cua chuong la noi tam Tsuna (cau ch30, truc giac) va phai o lai trong loi ke."
+  preflight_catch: "Ban dau co 「像是在念一份早就写好的报告」 — cung ho mau cam 「像在念一张」 (plan ch36). Da thay. Hai chi tiet khong co nguon (tieng sung o pho kho; Tsuna dung duoi den o ben cang) da doi sang dieu co nguon (ch34 「第一天晚上就想在码头开枪的人」; ch35 「Caster就站在码头上」)."
+pov_leak_check:
+  valid: true
+  exit: {"01": 1, "02": 1, "03": 1, "04": 1}   # do lai sau Mode 3 · 1 = khong kiem duoc dazai-mang-ky-uc-kiep-truoc (khong co leak_terms chu Han) -> grep tay
+  findings: {"01": 0, "02": 0, "03": 0, "04": 0}
+  uncheckable: [dazai-mang-ky-uc-kiep-truoc]
+manual_grep:
+  terms: [前世, 上辈子, 上一世, 记忆, 记得, 梦, 彭格列, 首领, 白兰, 十年, 玛雷, 指环, 神父, 绮礼, 言峰, 魔力, 河对岸, Azoth, 爱丽丝菲尔, Assassin, 挑不出, 像在念, 像是在念]
+  hits_in_body: 0
+  expected_hits: {时臣: 1, 远坂: 1, Archer: 1, 令咒: 1, 索拉乌: 1, 死: 2}
+  note: "死 hai lan: 「死了？」 la cau HOI cua Kiritsugu, Dazai bac lai 「我说的是不在了」; 「吓死我了」 cua Tsuna. 令咒 va 索拉乌 chi o cau ch30 Tsuna nho lai — khong noi toi lenh chu o dau. Ten Kirei, 神父, bang toi ngay 10: 0. 彭格列 / 黑手党 than truyen: 0."
+chapter_gate: "khong chay — chapter_gate chi doc chu Latin; style/ai-tells.md (25/09) co y KHONG co khoi gate:"
+ai_tells_check:   # ban PR #65 + profile style/ai-tells.md, chay 25/09/2026 SAU khi viet (khong phai luc pre-flight)
+  exit: 0
+  hard: []
+  warnings: []
+style_metrics_raw:   # style_metrics.py --json, ban PR #64 (cay chinh), 25/09/2026 — --write tu choi ghi de file ghi tay (exit 2)
+  cjk_char_count: 2828
+  cjk_dialogue_ratio: 0.312
+  paragraph_mean: 34.1
+  cjk_sentence_median: 15
+  cjk_question_per_1000: 5.66
+  cjk_exclaim_per_1000: 1.06
+  cjk_ellipsis_per_1000: 1.41
+  cjk_dash_pair_per_1000: 0.0
+  em_dash_count: 0                 # ban cu (truoc PR #64) dem dong ke 「—————」 thanh 18
+  term_density_per_1000: 4.6
+  verdict: "han chars >= 1500 OK; term density >= 9 LECH (khong ap: chuong doi thoai, khong det canon — plan huong ~4)"
+  khop_han_metrics: true           # tung so trung body: o tren

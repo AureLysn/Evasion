@@ -1,0 +1,63 @@
+﻿# State delta — PPCT arc-1 ch18 (梦 · nhat ky ngoi mot)
+# TRANG THAI: committed 15/09/2026 — Aurel duyet — (1) partially_paid · (2) partially_paid · (3) de y, khong nghi · (4) co, ghi ro "ky uc"
+# Moi dong co cau lam bang chung (nguyen van ch18-chapter.md).
+# Ca 4 cho can quyet da duoc Aurel tra loi 15/09.
+
+chapter: ch18
+status: committed
+committed_at: 2026-09-15
+snapshot: Projects/PPCT_phan-phai-chien-tranh/snapshots/003-ch18
+changes:
+
+  hooks:
+    hook-dazai-mo-tiep-kiep-truoc:
+      # 「又做梦了。」 · 「我原本以为上一次就是最后一个。」 · 「明天大概还会做梦。那就明天再记。」
+      # Loi tac gia ch10 「你接下来没什么不做梦的日子了」 duoc thuc hien lan dau o phan viet tiep.
+      # Cung giai o hook: "giac mo cuoi" ch10 = canh cuoi cua ky uc, khong phai lan mo cuoi — chuong viet ro 「这一次沉到底，我看见的是离尽头还很远很远的某一天」.
+      # AUREL (1): open -> partially_paid, hay giu open (chi them dong Tien do)?
+      status: partially_paid
+    hook-gokudera-dang-duoc-tim:
+      # 「我要找的从来都不是他。」 · 「一条狗总会回到主人身边。只要找到狗，跟着它走，就能找到主人」 · 「所以那场寻找，已经没有意义了。」
+      # Ly do tim da noi ra (decision dazai-tim-gokudera-lam-dau-moi). Chuong KHONG noi Dazai da ra lenh dung tim.
+      # AUREL (2): partially_paid (de xuat — Cang Mafia van dang tim tren trang), hay paid_off (ly do da giai, viec tim mat nghia)?
+      status: partially_paid
+    hook-nhan-mare-trong-tay-tsuna:
+      # 「梦里，那根手指上是空的。」 · 「是左手，食指上戴着一枚戒指，两片银色的翅膀收拢着一颗橙色的宝石。」
+      # Chi GIEO (ngon tro trai trong khi Tsuna con song). Khong doi status — chi them dong Tien do (bookkeeping).
+
+  secrets: {}
+    # Khong secret nao doi known_by / suspected_by.
+    # tsuna-bi-byakuran-giet: nhat ky KHONG ke lai cai chet.
+    # dazai-mang-ky-uc-kiep-truoc: Tsuna da biet Dazai mo thay ky uc (ch10) — 「“太宰，你又做梦了？”」 khong mo rong.
+
+  characters:
+    dazai:
+      state: "Lai mo ky uc cua Tsuna — mot buoi sang binh thuong o Vongola the gioi A, qua mat Tsuna; ghi nhat ky. Nhan ra Gokudera, nguoi han cho tim; viec tim de lan theo 'con cho' toi 'chu' da mat nghia. Noi that voi Tsuna la lai mo. Thay ngon tro trai trong trong ky uc, doi voi nhan canh bac bay gio — khong hoi. Noi lai cau 「人不吃饭总归是不行的」, chia trung cho Tsuna."
+      evidence: "「我知道自己在纲吉的眼睛后面」 · 「所以那场寻找，已经没有意义了。」 · 「我没打算瞒他」 · 「梦里，那根手指上是空的。我没有问。」 · 「人不吃饭总归是不行的。」"
+      # AUREL (3): ghi Dazai "de y" chuyen ngon tay (nhu tren), hay ghi thanh "nghi" nhan Mare co sau khi Tsuna chet? Chuong chi viet 「我没有问」 — de xuat: de y, KHONG nghi.
+    tsuna:
+      state: "Sang ngay 4: hien hinh canh giuong Dazai, hoi co mo khong; nghe Dazai ke, cuoi — 「那是很久以前的事了」; vuot toc Dazai. Tu nau bua sang (trung chay); nhan ra cau Dazai noi la cau cua minh, an mieng trung Dazai chia."
+      evidence: "「“太宰，你又做梦了？”」 · 「他伸手，把我额前乱掉的头发拨开。」 · 「早饭是纲吉做的。」 · 「“……这句话，”他小声说，“是我说的吧？”」 · 「拿起叉子，把那块蛋吃了下去，吃得很慢。」"
+
+  relationships:
+    dazai--tsuna:
+      history_add: "ch18 — Dazai ke that giac mo buoi sang o Vongola; Tsuna vuot toc Dazai; bua sang Dazai tra lai cau Tsuna tung noi: 「人不吃饭总归是不行的。」"
+
+  timeline:
+    story_day: 4
+    row: "Ngay 4, rang sang *(viet tiep)* | Dazai mo mot buoi sang o Vongola (ky uc Tsuna), ghi nhat ky; bua sang Tsuna nau | ch18"
+    evidence: "「昨晚我又沉了下去。」 (dem sau Vuong Yen ch17) · 「醒来的时候，天刚蒙蒙亮。」"
+
+  new_entities:
+    - "event: Dazai mo mot buoi sang o Vongola (ch18) — can extract-entities Mode 2 hoac tao luc commit nhu ch17"
+
+  bookkeeping:
+    - "ch18-chapter.md, ch18-review.md, metadata.yaml: status -> final"
+    - "hook-dazai-mo-tiep-kiep-truoc: bang Tien do them ch18; ghi chu 'giac mo cuoi' — chuong viet tiep doc la canh cuoi cua ky uc"
+    - "hook-gokudera-dang-duoc-tim: bang Tien do them ch18 (ly do tim noi ra; viec tim mat nghia, chua dung)"
+    - "hook-nhan-mare-trong-tay-tsuna: bang Tien do them ch18 (gieo: ngon tro trai trong trong ky uc), status giu open"
+    - "dazai.md, tsuna.md: muc 'Trang thai hien tai — sau ch18', day ch17 xuong 'Truoc do'"
+    - "AUREL (4): gokudera.md, reborn.md — them dong ch18 vao 'Rieng trong fic nay' (xuat hien TRONG KY UC the gioi A, khong phai trang thai the gioi B)? De xuat: co, ghi ro 'ky uc'"
+    - "relationships/dazai--tsuna.md: bang lich su them ch18"
+    - "Timeline/master.md: them dong Ngay 4"
+    - "arc-1-vuong-yen-ha-man: dong ch18 -> final; PPCT-MOC"

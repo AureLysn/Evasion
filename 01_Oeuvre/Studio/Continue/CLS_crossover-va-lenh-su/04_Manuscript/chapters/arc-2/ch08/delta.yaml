@@ -1,0 +1,110 @@
+﻿# State delta - CLS arc-2 ch08 (第八章 叫人) - TRICH 30/10/2026
+# TRANG THAI: proposed 30/10/2026 (finalize-chapter Mode 1, chi de xuat). Trich boi PHIEN DIEU PHOI (Aurel 30/10: khong chay tac nhan) - cung phien da viet chuong, khong doc lap.
+# Nguon chuong: ch08-chapter.md ban HIEN TAI (tieng Trung, POV phong Phainon, draft, sau tu soat H1 V1 V2 N1-N4). Delta doc theo THAN CHUONG.
+# Moi cum 「…」 trong evidence la chuoi con cua than chuong (kiem bang may truoc khi done).
+# Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan. Khong muc nao chan.
+#
+# ===== Bi mat: `secrets: {}` =====
+#   Than chuong: han (khong ten) len phim o hoi tuong 8.03 va cuoc goi 8.06; 杰森 chi giong; nguoi thu hai chi mot cau ngoai khung 「我去。」.
+#   Khong 太宰/横滨/港口/绷带/织田/异能, khong 纲吉/泽田/彭格列/死气/大空, khong 复活/死而/哥谭/蝙蝠/红头罩 (grep 0). Khong doi known_by / suspected_by.
+#   Phong: Stelle goi han 黑泥 (bi danh, C7); March hoi nguoi thu hai la ai, khong ai doan (B7).
+#
+# ===== Hook =====
+#   h-nguoi-ta-ve-duoc: 杰森 noi 「回得来就行」 ve chuyen March; Himeko hoi lai cau cua Boothill arc 1; khong ai tra loi. Doc nhu tinh li, khong ve cai chet.
+#   h-nguoi-do: cuoc goi thu hai, mot cau ngoai khung; han khong goi ten; Sunday khong phan ung (mac dinh an toan Đ-5).
+#   h-cho-trong-phan-dien: khong cham (grep 座位/椅/席/观众/神话之外/幕后 = 0).
+#
+# Quy uoc ten: nhu ch07; them 长夜月 = Evernight, 忆庭 = Garden of Recollection, 杰森 = Jason.
+
+chapter: a2-ch08
+status: committed
+committed_at: 2026-10-30
+proposed_at: 2026-10-30
+changes:
+
+  hooks:
+    h-nguoi-ta-ve-duoc:
+      # Chung: 「“回得来就行。”杰森说。」 · 「“他凭什么这么笃定。”」 · 「谁也答不上来。」
+      status: open
+    h-nguoi-do:
+      # Chung: 「这一回响了很久。接起来的时候，那头没有声音。」 · 「“……我要借你的手。”」 · 「“我去。”」 · 「没有道谢，也没有叫名字。」
+      status: open
+
+  secrets: {}
+
+  characters:
+    phainon:
+      state: "Phong chieu, POV. Dem 97 tren dot ngon tay roi dung; thay minh tren phim (mau vang goi ra pha an Dai Dia; o mep dem noi troi se sang) - khong cam nghi; o dai mo ngoi thang, khong tim ban tay cam kiem (Đ-7). Khong doan han la ai."
+      evidence: "「白厄把这个数在指节上数了一遍。」 · 「白厄看着墙上的自己被金血叫出来，又散回金血里。」 · 「墙上没有给出握剑的那只手，他也没有去找。」 · 「他没有往下想这人是谁。」"
+    march-7th:
+      state: "Phong chieu va tren phim (qua Evernight). Phong: tu cuoi sang im khi thay Evernight mang mat minh; no o tau gia 'khong ai nho toi', duoc ba nguoi that noi 'chung toi nho'; khong nho canh han-Evernight; thay may anh cua minh thi thang lung; khi March tren phim hoi Evernight va duoc tra ky uc thi ve lai on ao; hoi nguoi thu hai la ai. Phim: 97 ngay vo hinh, trao ky uc; March nho tu may anh hoi 'quyen gi chon ho nguoi khac', om Stelle va Dan Heng."
+      evidence: "「“……这是我的脸。”她说。」 · 「“凭什么不记得我！”」 · 「“……这段，”她说，“我不记得。”」 · 「“我们凭什么，替别人选？」 · 「“我就说嘛！”她说，“我问得多好！”」 · 「“第一个是杰森，我听出来了。第二个呢？”」"
+    evernight:
+      state: "Phim. Mang dang March, dung yen, giong cham; tu xung 长夜月; che ky uc moi nguoi, muon loc ky uc roi dung lai the gioi; 'bong cua ngon nen March thap'; giau Stelle o tau gia; o dai mo muon dot het ky uc, dat bai toan mot nguoi/nam nguoi; bi may anh bat, tra ky uc cho March, dan coi chung 忆庭, ngu lai. Hoi tuong: chi giong sau lung han ('nguoi khong phai bon chung'). Ngoai hinh khac: [thieu]."
+      evidence: "「“我叫长夜月。”她说」 · 「“我是她点的那支蜡烛，落下来的影子。”」 · 「“你不是那些人。”」 · 「“还给你。”她说。」 · 「“我要睡一会儿。”长夜月说，“醒着的时候，当心忆庭。”」"
+    stelle:
+      state: "Phim va phong. Phim: o sau 涡心 gat dau Hysilens; hoi Evernight ve March; bi keo vao cho quen; o tau gia khong ai nho March; chim sau hon; o dai mo dung truoc mot hoc, khong cham; chup Evernight bang may anh cua March; dat tay len suc nang. Phong: lan dau nhin nguoi truoc tuong; dua ve 黑泥 va chen ruou; treu Dan Heng; hoi March khoc chua; tra loi 'tuong chi cho hai chu'."
+      evidence: "「星朝她点了一下头，那个影子也点了一下。」 · 「这一路看下来，她头一回先看人，后看墙。」 · 「“黑泥请人喝东西，”星说，“杯子还是空着端上来的。”」 · 「她举起来，对准长夜月，按下快门。」 · 「“墙只给了两个字。”星说。」"
+    dan-heng:
+      state: "Phim va phong. Phim: ve tau, thay phong March trong, 'toi quay lai'; tro lai cung 赞达尔, tu choi loi de nghi; danh thu khong lo, bong duoi chan doi khac (khong ten), nhan hoa chung Dai Dia, da dung len theo; goi mat khau bai; tim thay Stelle 'mot nguoi cung khong bo lai'; ghep su that thanh kiem. Phong: '97 ngay'; 'toi biet'; 'la anh ay' (ve cai bong, khong ten); khong rut tay ao khi March up mat."
+      evidence: "「“我回去。”他说。」 · 「“不用。”丹恒说。」 · 「“是他。”屋里的丹恒说。」 · 「“说好了，”他说，“一个都不落下。”」 · 「丹恒没有把袖子抽回去。」"
+    black-swan:
+      state: "Phim (hinh chieu tren tau; nguoc dong; bi keo vao dai mo) va phong. Phim: noi 忆庭 gom ky uc cai chet cua Menh Do, March bi Ky Uc chiem truoc; thay xac rong; tu choi ganh bai toan. Phong: 'toi di toi day thi quay lai', 'phan sau toi cung lan dau xem'; nhan minh da khong ganh noi, khong bao chua."
+      evidence: "「“忆庭里有一些人，一直在偷偷收集一样东西。”」 · 「屋里，黑天鹅说：“我走到这里，就回头了。”」 · 「“后面的，”她说，“我也是头一回看。”」 · 「“我那时候，”黑天鹅说，“是真的挑不动。”」"
+    himeko:
+      state: "Phong (va hinh chieu tren phim). Keo phong ('xem truoc'); dua ve hinh chieu va ca phe nhat cua ban gia; 'chung toi nho'; 'hoi hay'; cuoi chuong hoi lai cau Boothill arc 1 ve 杰森."
+      evidence: "「姬子没有转头，只说：“先看。”」 · 「“我们记得。”姬子说。」 · 「“问得好。”姬子说。」 · 「“他凭什么这么笃定。”」"
+    welt:
+      state: "Phong. Gat dau 'nho'; 'hai ben deu khong quay dau'; vet nut kinh dai them mot lan (dai mo)."
+      evidence: "「“两边都没回头。”瓦尔特说。」 · 「屋里，瓦尔特的镜片上，那道裂纹又往前走了一点。他没有去碰。」"
+    sunday:
+      state: "Phong (va giong tren phim: chinh am tu xa keo Stelle). Mot cau 'suyt nua'. Khong phan ung voi cuoc goi thu hai."
+      evidence: "「“差一点。”星期日说。」"
+    screwllum:
+      state: "Phong (va giong tren phim mo cong cho Dan Heng). 'Ket luan: 97 ngay khong ai hay'; 'do tin cay cua ban dong hanh: thap'."
+      evidence: "「“结论：九十七天，无人察觉。”螺丝咕姆说」 · 「“结论：同行者的可信度，低。”螺丝咕姆说。」"
+    cyrene:
+      state: "Phim. Chi con giong tu xa tu 'vong rat dai' (khop ch07), bi cat; trong ky uc Stelle tim thay March nho trong da anh; o dai mo bao Stelle 'chup lai'. Su that: kiem nghi le 'giet' co dau moi vong, cuoi vong co mang ky uc ve mo (theo loi Dan Heng ghep lai)."
+      evidence: "「很远的地方传来昔涟的声音，从那个很长很长的圈子里」 · 「“找到了。”她说，“三月七。”」 · 「“拍下来！”」 · 「“每一轮开头，”他说，“这把剑都要‘杀’她一次。」"
+    dazai:
+      state: "Phim, khong ten (lop ngoai). Hoi tuong truoc khi toa roi: o Okhema, dat hai chen, de cua ngo mo truoc bon lay trom ky uc mot buoc; sang ra bon chung thanh xac rong, chen thu hai can; dem do mot giong sau lung, han khong quay lai. Hien tai: gio ngu Okhema mo so tay lan dau (khong thay trang), goi hai cuoc qua hop den: nho 杰森 giu mot cho; noi voi nguoi thu hai 'muon tay', nhan 'toi di', khong cam on, khong goi ten. Khong di nang."
+      evidence: "「他面前放着两只杯子。」 · 「巷子尽头有一扇门，他把门推开，留着，没有关」 · 「他没有回头。“你也不是她。”」 · 「“帮我守个地方。”男人说」 · 「“……我要借你的手。”」"
+    jason-todd:
+      state: "Phim, chi giong qua hop den. Nhan loi giu mot cho ('duoc'); nghe chuyen co gai tu lam mat minh roi tim lai, dap 've duoc la duoc'. Khong gi ve qua khu."
+      evidence: "「“说。”」 · 「是杰森的声音。」 · 「“回得来就行。”杰森说。」"
+    castorice:
+      state: "Phim (dang ky uc). O dai mo dung canh Stelle, buom tim lam den, de buom dau vai Stelle, di truoc roi tranh cho."
+      evidence: "「遐蝶抬起手，一只蝴蝶落在星的肩上」 · 「遐蝶走在最前面，蝴蝶替她照路。」"
+    hysilens:
+      state: "Phim. Dau chuong: bong trang o xa gat dau voi Stelle. Dai mo: dang ky uc, kiem chui xuong, chan huong thuy trieu; chem mo duong trong tran."
+      evidence: "「海瑟音还站在原处，隔得很远，只剩一个白色的影子。」 · 「海瑟音什么也没说，剑尖朝下」"
+    zandar:
+      state: "Phim. Than may nhu Lygus di cung Dan Heng (lien minh tam, 那刻夏 nam diem yeu); de nghi rut duong, bi tu choi, im."
+      evidence: "「是赞达尔。」 · 「“鄙人可以替阁下省些路。”」"
+
+  relationships:
+    dazai--evernight-cls:
+      # Than chuong: hai ben khong noi thoa thuan; moi ben de cho cho ben kia (cua mo / chen can); mot cap cau. Khop chot Aurel 22/10.
+      # AUREL (1): canh cu the (chen, ngo, hai cau) la de xuat Đ-2. MAC DINH: ghi la 'de xuat da len trang'.
+      note: "de xuat da len trang ch08 arc 2: hoi tuong truoc khi toa roi - hai chen (mot can), cua ngo de mo, xac rong; 'Ban khong phai bon ho' / 'Ban cung khong phai co ay'. Khong danh, khong ket ban."
+    dazai--jason-cls:
+      # Nguong 2: cuoc goi ch08 KHONG dem (dan y arc 2 cau 5). Chi ghi su kien.
+      note: "ch08 arc 2: Dazai goi nho Jason giu mot cho (luat goi nho); khong dem nguong 2."
+
+  timeline: {}
+    # Project chua co timeline/. Moc: hoi tuong 8.03 TRUOC khi toa roi (thoi diem (c)); phan con lai theo thu tu nhiem vu 3.6.
+
+  arcs: {}
+
+  new_entities:
+    - "AUREL (2) Ten chua co (A4): Terravox, Dan Feng 丹枫 (khong viet ra), Memosnatcher, Zeph, Pillar of Stone, Judge of Oblivion, 金血 (phien dat), mat khau 三条两对一张A (phien dich). MAC DINH: giu theo ch08-zh-bang-ten; Aurel doi chieu."
+    - "AUREL (3) Ngoai hinh Evernight: [thieu]. MAC DINH: chi 'dang March'; bo sung Amphoreus-npc-ngoai-hinh khi co anh."
+
+  bookkeeping:
+    - "ch08-chapter.md (arc 2): status draft -> final (sau duyet). 5.838 chu Han."
+    - "h-nguoi-ta-ve-duoc: them dong Tien do ch08 arc 2: 杰森 (chi giong) noi 've duoc la duoc' ve chuyen March; Himeko hoi lai cau Boothill; khong ai tra loi. Doc nhu tinh li."
+    - "h-nguoi-do: them dong Tien do ch08 arc 2: cuoc goi thu hai qua hop den, han noi 'muon tay', mot cau ngoai khung 'toi di'; khong ten; March hoi la ai, Stelle 'tuong chi cho hai chu'; khong ai doan."
+    - "dazai--evernight-cls: ghi canh bat tay (de xuat da len trang)."
+    - "Secrets: khong doi. Khong dung secrets/."
+    - "Cho Aurel (khong chan): Đ-1 (a) hop den da ap; Đ-2 canh bat tay; Đ-5 cau 'toi di', Sunday khong phan ung; Đ-7 ai cam kiem; Đ-8 ten; Đ-9 ngoai hinh Evernight."
+    - "Diem tro sang ch09: han da goi hai nguoi - viec cu the chua noi; so tay mo lan dau (trang chua thay); 12 hoa chung tra ve; Evernight ngu, March ve; vet nut kinh Welt."

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kệ Sách</title>
+<link rel="stylesheet" href="/tokens.css">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="shell" id="shell">
+  <aside class="sidebar" aria-label="Điều hướng">
+    <a class="brand" href="#/"><span class="brand-mark">KS</span><span><b>Kệ Sách</b><small>đọc từ Drive · chỉ đọc</small></span></a>
+    <nav class="nav">
+      <a href="#/" data-nav="lib">Thư viện <span class="count" id="n-all"></span></a>
+      <a href="#/search" data-nav="search">Tìm kiếm</a>
+      <a href="#/comments" data-nav="comments">Bình luận</a>
+      <a href="#/senses" data-nav="senses">Từ điển nghĩa</a>
+      <a href="#/settings" data-nav="settings">Cài đặt</a>
+    </nav>
+    <input type="search" id="gs" class="gs" placeholder="Tìm trong truyện…  ( / )" aria-label="Tìm trong truyện">
+    <div class="side-section" id="tree" aria-label="Fandom và nhóm"></div>
+    <div class="side-section" id="colls" aria-label="Bộ sưu tập"></div>
+    <div class="side-section" id="tagbox" aria-label="Tag"></div>
+    <div class="side-section"><div class="side-head">Loại</div>
+      <button class="shelf-item" data-kind="" id="k-all">Tất cả</button>
+      <button class="shelf-item" data-kind="comic">Truyện tranh <span class="count" id="n-comic"></span></button>
+      <button class="shelf-item" data-kind="text">Truyện chữ <span class="count" id="n-text"></span></button>
+    </div>
+    <div class="side-foot"><span class="live-dot"></span><span>Đang chạy · <span id="side-host"></span><br><span class="muted">Thư viện: chỉ đọc</span></span></div>
+  </aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+<script src="/app.js"></script>
+<script src="/tts.js"></script>
+<script src="/comic.js"></script>
+<script src="/thumbs.js"></script>
+<script src="/dnd.js"></script>
+<script src="/ocr.js"></script>
+<script src="/comic-tr.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+# AureLysn — Evasion repository
+
+# Dependencies, caches, per-machine state
+node_modules/
+__pycache__/
+*.pyc
+.claude/
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
+
+# Runtime data of the local apps — kept by the zip snapshot, not by Git
+# The three dictionaries: VP.json is 68 MB, over GitHub's 50 MB warning line
+03_Subsystems/Verba/zh_to_vi/*.json
+03_Subsystems/Nexus/data/dicts/
+# The writing database changes whenever Nexus is open
+03_Subsystems/Nexus/data/library.db*
+03_Subsystems/Nexus/data/staging/

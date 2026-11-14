@@ -1,0 +1,71 @@
+﻿# PPCT ch32 — số đo bản nháp tiếng Trung, 24/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45). style_metrics.py ghi đè file này bằng số
+# đếm cả tiêu đề + lời người viết tiếp và không nhận “” làm thoại — số của nó giữ ở cuối, KHÔNG dùng để chấm.
+chapter: 32
+file: ch32-chapter.md
+language: zh
+mode: doi_thuong_giac_mo
+pov: [dazai, tsuna]
+status: final   # finalize-chapter 24/09/2026 — delta committed
+measured_at: 2026-09-24
+measured_by: han-char-script
+chapter_targets:  # theo ch32-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2100
+  dialogue_ratio: [0.35, 0.55]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 4
+  min_dialogue_turns: {"01": 3, "02": 10, "03": 4}
+  target_terms: {"01": 3, "02": 4, "03": 2}
+body:
+  han_chars: 1981                  # do lai 24/09 sau Mode 3 (review #1, #3, #4)
+  dialogue_ratio: 0.213            # DUOI dai 0,35–0,55 — Aurel chap nhan cho chuong nay (24/09, Mode 3 'sua theo de xuat')
+  paragraphs: 61
+  han_per_paragraph_mean: 32.5     # DUOI dai 35 — Aurel chap nhan cho chuong nay (24/09)
+  paragraphs_ge_100_han_ratio: 0.033
+  sentences_ge_50_han_ratio: 0.02
+  sentence_han_median: 17          # sat san 17
+  sentences_le_4_han_per_1000: 0.51
+  paragraphs_with_dialogue_ratio: 0.557
+  bare_dialogue_paragraph_ratio: 0.0
+scene_han: {"01": 742, "02": 872, "03": 356}
+scene_dialogue_ratio: {"01": 0.06, "02": 0.31, "03": 0.31}   # the canh: 15 % · 50 % · 40 %
+dialogue_turns_counted: {"01": 5, "02": 20, "03": 10}
+terms_counted: {"01": 3, "02": 4, "03": 4}
+per_1000_han:
+  question_mark: 9.59
+  exclamation: 1.01
+  ellipsis: 3.03
+  em_dash_pair: 0.0
+  terms: 5.55
+term_hits: {圣杯: 1, 御主: 2, 从者: 2, 彭格列: 1, 黑手党: 1, 直觉: 4}
+eye_motif: 7
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争32"
+  tag_after_quote_grep: 0            # grep theo dong 「”[^“]{0,4}说」
+first_draft:   # do ngay sau ban dau (buoc bat buoc)
+  han_chars: 1711
+  dialogue_ratio: 0.151
+  han_per_paragraph_mean: 31.1
+  sentence_han_median: 17.5
+  ellipsis: 3.51
+  terms_per_1000: 5.26
+  note: "Ban dau thoai 15 % (canh 02 chi 21 % so voi 50 % the canh). Sua MOT luot trong beat co san: canh 02 them Dazai tu treu mat minh kiep truoc + Tsuna doan 「你不用去」; canh 03 them vai cau khi choi game. Len 21,4 % — van duoi dai. KHONG them thoai lan nua de cham so (review ch31 #1). Them 1 chu 直觉 vao cau mo canh 02 (cau da ta truc giac). Doan TB 32,3 duoi 35: chuong nhieu doan thoai ngan."
+pov_leak_check:
+  valid: true
+  exit: 0
+  findings: {"01": 0, "02": 0, "03": 0}
+  uncheckable: []      # dazai-mang-ky-uc-kiep-truoc: POV known -> skipped
+manual_grep:
+  terms: [戒指, 指环, 戒, 枪响, 棉花糖, 龙, 时臣, 远坂, Archer, 绮礼, 令咒, 抚平]
+  hits_in_body: 0
+  note: "Byakuran chi la cai ten; khong nhan, khong ben trong phong hop. Cu chi vuot ao khong trich 「抚平西服上的皱褶」 (chu 皱褶 co, 抚平 khong)."
+style_metrics_raw:   # style_metrics.py --write, 24/09/2026 — dem ca ngoai than truyen; KHONG dung de cham
+  cjk_char_count: 2041
+  term_density_per_1000: 5.87
+  verdict: "word count 1500-2200 pass; term density >= 9 fail (bo qua — chuong doi thuong, targets khong dat san; plan >= 4)"

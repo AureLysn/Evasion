@@ -1,0 +1,101 @@
+﻿# State delta — TDTB arc-1 ch17 VIET LAI (Mode 4, 03/10/2026) — 装B的第十七天, rang sang S2 → toi S2, het tap 1
+# Thay delta 01/10 (80_Archive/personal/fiction-tdtb/ch17-delta-ban-20261001.yaml).
+# Moi dong co cau lam bang chung tu ch17-chapter.md BAN MOI. Dong cu con dung thi GIU va ghi vi sao.
+# Aurel 03/10: 'dong y ca hai delta, theo de xuat' — AUREL (n) theo de xuat (xem dong AUREL).
+
+chapter: ch17
+status: committed
+committed_at: 2026-10-03
+proposed_at: 2026-10-03
+supersedes_delta: 80_Archive/personal/fiction-tdtb/ch17-delta-ban-20261001.yaml
+changes:
+
+  hooks:
+    h-0038-kiem-tra-yamamoto-tdtb:
+      status: paid_off
+    # ^ GIU nhu delta 01/10 (Aurel dong y paid): canh Tuyet giu nguyen van.
+    # Dong ch17 trong bang Tien do (cac hook khac giu `open`):
+    # h-tuyet-quay-sang-tsuna-tdtb: GIU dong 01/10 (keo diem, dot 100 diem, cau "不用勉强"), THEM: bop dua khi Tsuna benh Yamamoto.
+    #   「饭桌另一头，鹿野雪手里的筷子捏得发白。」 · 「他的语气软软的，眉头还担心地皱着，只有纲吉的后背又凉了一下。」
+    # h-chi-nam-nhiem-vu-tdtb: GIU dong 01/10.
+    # h-kenichi-vua-thay-da-yeu-tdtb: SUPERSEDE "Kenichi noi 一见钟情 o phong khach" → "Kenichi noi moc o ban an truoc camera (一见钟情 + 'Tsuna dung canh Yamamoto moi len hinh'), bi Yamamoto dap, ha thap Yamamoto, bi Tsuna bat thu lai, xin loi, roi ban. KHONG noi chuyen cai phong."
+    #   「一见钟情这种事，原来真的有啊。」 · 「说到底，离了球场，也就是个只会打球的alpha嘛。」 · 「“……抱歉，是我失言了。”」
+    # h-tsuna-khong-co-ban-tdtb: SUPERSEDE "我哪来的朋友" → "Tsuna doi sang goi 武; Yamamoto nhac 'nhieu them mot nguoi ban'"
+    #   「“……武。”」 · 「明明说了多了个朋友……原来朋友是叫姓的啊。」
+    # h-dien-dan-cong-kich-tsuna-tdtb: SUPERSEDE dong 01/10 → "dien dan CHIA PHE sau bua trua: van '蹭热度' / '心机beta', co nguoi khen 'rat ngau'; danmaku 'phan chenh'; Tsuna doc, 'o', ngu"
+    #   「56L：只有我觉得午饭那段很帅吗？」 · 「58L：作秀能把健一怼走？」 · 【这是什么反差，我宣布我粉了】 · 「“哦”了一声」
+    # h-mot-tap-roi-xuong-xe-tdtb: SUPERSEDE "ke hoach hong lan mot; 那就第二集下车" → "khong ai xuong xe; Tsuna thu dong: tap hai chac khong ai chon minh"
+    #   「“本集没有嘉宾下车。”」
+    # h-gokudera-thay-livestream-tdtb: SUPERSEDE "qua cuoc goi cua me: khach toc bac o nha" → "Gokudera len trang o 并盛, truoc nha co bien ten 沢田, den tat, dung cho"
+    #   「狱寺隼人站在一扇门前，门边的名牌上写着两个字：沢田。」 · 「十代目总会回家的。」
+
+  secrets: {}
+    # Khong doi known_by / suspected_by. Dong 📌 ch17 cua tsuna-la-omega, loc-da-tuyet-co-he-thong-0038: GIU (canh Tuyet giu nguyen).
+    # Truc giac bao ac y: 3 lan (bep · ban an · phong khach) — van KHONG tinh la suspected_by.
+
+  characters:
+    sawada-tsunayoshi-tdtb:
+      supersede: "01/10: 'muc tieu la khach vo vi nhat de diem thap', 「骂得越狠越好」, 「说得好啊……快把我请下车吧」, 1 diem, 「山本是我初中同学，就只是同学而已」, duoi theo hoi dao dien, 「一定是他还不够无聊」, 「那就第二集下车」, nghe me goi 「我哪来的朋友」 — khong con xay ra"
+      state_add: "Ngay S2: nhat, vung, nga tren dat bang hai lan (them mot lan suyt nga), khong co tinh nhat. Cau 'gao hom nay trang' vi lung tung that. Mac ke loi moc nham vao minh, nhung nghiem tuc benh Yamamoto khi Kenichi ha thap anh (「请你收回去」); roi lap bap. Doi sang goi Yamamoto la 武; cuoi lan dau trong ngay, 【】 bung. Doc dien dan, khong ban tam. Phong khach: dong y cau cua Tuyet ('chac la khong hop'). Phong van: tu cham 3 diem, lan man 'moi nguoi deu tot', 'chang ai chon minh'; 5 diem moi nguoi. Khong ai xuong xe; tap hai chac khong ai chon minh; 50 van tap 1 'chac'. Ve nha bang xe show, nghi toi bo game co giap."
+      evidence: "「平平整整的地板上什么也没有，他的左脚偏偏绊上了右脚」 · 「“但是山本不是那样的人。……这种话，请你收回去。”」 · 「“……武。”」 · 「那是他今天第一次笑。」 · 「“嗯，可能是不太适合吧。”」 · 「“反正也没有人会选我吧，我这种废柴，干什么都不行。”」 · 「第一集的五十万已经稳稳到手了」"
+    yamamoto-takeshi-tdtb:
+      supersede: "01/10: 'an sang roi ra ngoai 有点事, vang ca ngay' — khong con xay ra (q-yamamoto-di-dau-ngay-s2 da dong 03/10)"
+      state_add: "Ngay S2 co mat ca ngay: an sang, bep (khuan do), do Tsuna khi nga. Ban an: dap lai Kenichi khi Tsuna bi moc (「冲我来就好」). Sau khi Tsuna benh minh, cuoi, roi 'tra xanh' noi nho chi Tsuna nghe: minh goi 阿纲, cau goi ho minh (山本). Duoc goi 武."
+      evidence: "「“阿纲，早。”」 · 「“小心。”山本从后面伸手捞了他一把」 · 「“铃木先生，阿纲是我请过来坐的。有什么话，冲我来就好，用不着拐着弯说他。”」 · 「把声音压得只有他们两个人听得见」 · 「“武。”」"
+    suzuki-kenichi-tdtb:
+      supersede: "01/10: 'phan cam tuong cuoi tap 1: noi 一见钟情' — doi thanh mau noi moc o ban an"
+      state_add: "Ban an trua S2, truoc camera: moc Tsuna va Yamamoto (一见钟情; Tsuna dung canh Yamamoto moi len hinh). Bi Yamamoto dap thi mat mat, buot ra cau ha thap Yamamoto; bi Tsuna bat thu lai, xin loi, roi ban. Toi: chi 'con khong te', khong nhin ve phia hai nguoi. KHONG noi chuyen Yamamoto ra khoi phong Tsuna."
+      evidence: "「也难怪，纲吉君站在山本先生旁边，镜头才终于拍得到他嘛。」 · 「铃木健一的笑容僵了一下」 · 「“……抱歉，是我失言了。我吃好了，各位慢用。”」 · 「铃木健一只说了一句“还不错”，从头到尾没往这边看。」"
+    loc-da-tuyet-tdtb:
+      keep: "Dong 01/10 giu: canh 01 nguyen van. Them: bop dua (ban an), cau 不用勉强 (D2) — Tsuna dong y that long, cuoi cua Tuyet cung lai."
+      evidence: "「饭桌另一头，鹿野雪手里的筷子捏得发白。」 · 「鹿野雪脸上的笑僵了一下。」"
+    gokudera-hayato-tdtb:
+      state_add: "Toi S2, 并盛: dung truoc mot ngoi nha co bien ten 沢田, tay xach tui qua cua hang o 成田; nha khong den; dinh bam chuong roi thoi (十代目 con quay show); lui vao bong cot dien, cho."
+      evidence: "「狱寺隼人站在一扇门前，门边的名牌上写着两个字：沢田。」 · 「屋里没有亮灯。」 · 「退进对面电线杆的影子里」 · 「十代目总会回家的。」"
+    sawada-nana-tdtb:
+      supersede: "01/10: 'LAN DAU len trang qua dien thoai' — khong con xay ra; Nana chua len trang (qd-nha-namimori-bo-hoang). Cach goi 阿纲 (D5) giu, chua co cho dung."
+    pho-dao-dien-tdtb:
+      supersede: "01/10: 'mat mo vi Yamamoto vang va luong khan gia tut' — khong con xay ra"
+      keep: "Giuc Tsuna 'noi nhieu hon' → 「今天的米，挺白的」: giu."
+    dao-dien-tdtb:
+      keep: "Giu: tong dao dien chinh la nguoi mang hop dong toi 宿舍 cua Tsuna (cau giu nguyen); 「沢田君，下一集也拜托啦」 giu."
+      supersede: "01/10: Tsuna duoi theo hoi, 「这是节目组综合考虑的结果」 — khong con xay ra"
+    yuuko-tdtb:
+      keep: "Dan dau chia viec bep, goi 雪君 / 纲吉君 / 山本君; them: giao Yamamoto 'khuan do', doi Tsuna sang vo gao sau khi do rau; danh roi dua khi Tsuna cuoi."
+
+  relationships: {}
+    # tsuna--yamamoto-tdtb: THEM dong ch17 — XUNG HO DOI: Tsuna goi Yamamoto la 武 (tu ban an trua S2); Yamamoto van goi 阿纲.
+    #   Tsuna benh Yamamoto truoc Kenichi. Bo dong 01/10 'chi la ban hoc' va 'Yamamoto vang'.
+    # tsuna--loc-da-tuyet-tdtb: GIU dong 01/10 (cham thap nhat, cau quan tam, Tsuna van cham 5); them: Tsuna dong y cau cua Tuyet.
+    # loc-da-tuyet--0038-tdtb: GIU.
+
+  timeline:
+    story_day: S2
+    rows:
+      - "**S2**, rang sang *(viet tiep)* | Tuyet nhan ket qua 0038, tra 100 diem 完整档案调阅 — to ho so cu | show-tap-1 | ch17"
+      - "**S2**, ban ngay *(ban 03/10)* | Yamamoto co mat. Bep: toan the khach lam bua trua; Tsuna nga, vo gao, 'gao trang'; Tuyet liec → goc bep, dua nuoc tro ly thu am. **Ban an trua: Kenichi moc, Yamamoto dap, Tsuna benh Yamamoto, Kenichi xin loi roi ban; Tsuna goi 武, cuoi** | show-tap-1 | ch17"
+      - "**S2**, toi | Phong khach: cam tuong (cau Tuyet 不用勉强, Tsuna dong y); phong rieng + phieu (Tsuna tu cham 3, 5 diem moi nguoi); cong bo **khong ai xuong xe** | show-tap-1 | ch17"
+      - "**S2**, toi (sau quay) | Xe show dua khach ve (giua tap 1 va 2: vai ngay). **Cung luc, 并盛: Gokudera dung truoc nha bien ten 沢田, den tat, cho** | show-tap-1 | ch17"
+    evidence: "「今天是第一集的最后一天」 · 「午饭摆上桌的时候」 · 「天黑以后」 · 「与此同时，爱知县，并盛町。」"
+
+  arcs:
+    dan-y-ch16-ch18-lam-lai-tdtb:
+      chapter_17: final
+
+  new_entities: []
+
+  aurel:
+    - "AUREL (1): canon/sau-khach-moi-mua-4 ghi Yamamoto la 'khach dac biet ky nay', khong phai khach moi chinh. Ban moi cho anh lam bep va ngoi phong khach luc cham diem nhung trang KHONG noi anh co cham / bi cham khong. Giu mo, hay ghi ro?"
+    - "AUREL (2): Cau tra xanh noi nho 'chi hai nguoi nghe' (sua M1 cua continuity-review) — nen live stream khong bat duoc cau 'nhieu them mot nguoi ban'; nhung chu 「武」 thi bat duoc. Dong y?"
+    - "AUREL (3): Khong co note quan he Tsuna–Kenichi. De xuat: chua tao, cho toi khi Kenichi quay lai voi Tsuna."
+
+  bookkeeping:
+    - "ch17-chapter.md, metadata.yaml: draft -> final"
+    - "the cu scenes/01-04, ch17-plan.md, ch17-tong-ket.md: status -> superseded, superseded_by ch17-the-lam-lai"
+    - "Characters sawada-tsunayoshi, yamamoto-takeshi, suzuki-kenichi, loc-da-tuyet, gokudera-hayato, sawada-nana, pho-dao-dien, dao-dien, yuuko: muc 'sau ch17' — gach dong cu kem ngay 03/10, them dong moi"
+    - "hooks: 6 hook o tren — gach dong ch17 cu, them dong moi"
+    - "relationships tsuna--yamamoto (xung ho 武), tsuna--loc-da-tuyet"
+    - "canon/the-le-show-lam-long-nguoi-dong-tdtb: bo trich 'V4 这是节目组综合考虑的结果' (khong con tren trang); the thuc cham diem giu"
+    - "canon/cat-xe-50-van, locations/biet-thu-tam-dong, Characters/tro-ly-thu-am, canon/he-thong-chi-nam-0038: kiem — cau trich con nguyen, giu"
+    - "events: ket-tap-1-khong-ai-xuong-xe (sua phan Tsuna), tsuna-dua-nuoc-cho-tro-ly-thu-am (giu), kenichi-thay-yamamoto-ra-phong (giu)"
+    - "Timeline/master.md: thay 4 dong S2"

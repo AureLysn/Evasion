@@ -1,0 +1,58 @@
+﻿# State delta — PPCT arc-4 ch29 (交换)
+# TRANG THAI: committed 22/09/2026 (Aurel: "finalize-chapter Mode 2" — hieu la dong y ca 5 de xuat).
+# AUREL 22/09/2026: (1) CO event sola-ui-doi-lenh-chu-lay-duong-ve · (2) giu active + "Da roi Fuyuki — ch29" · (3) chap nhan thoai 30,4 % · (4) CO ghi lenh chu o note Kirei · (5) CO sua nha-tho-fuyuki.
+# Moi dong co cau lam bang chung (nguyen van ch29-chapter.md, ban da sua theo review Mode 3 #1–#5).
+# Co 5 cho can Aurel quyet, danh dau AUREL (1)..(5).
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi; doc bang TU DONG tung duong dan.
+
+chapter: ch29
+status: committed
+committed_at: 2026-09-22
+proposed_at: 2026-09-22
+changes:
+
+  hooks: {}
+    # Khong hook nao duoc cham o ch29 (plan: khong cham can-dazai, archer-rider, khac-che).
+
+  secrets: {}
+    # kirei-van-la-master: known_by KHONG doi. Nguoi doc tien them (Kirei keo tay ao cua minh sau khi lay lenh chu);
+    # Sola-Ui tin lenh chu ve tay nha tho — 「从现在起，它们就由教会保管了」. Co nghi NHA THO, khong nghi Kirei la Master: 「他答应得太快了。」
+
+  characters:
+    sola-ui:
+      state: "Chieu ngay 9, nha tho: tu thay ba dao lenh chu la moi (「总会有人再来拿」). Kirei de nghi nha tho giu ho; co mac ca — 「这种东西没有白给的道理！」 — doi lay xe ra san bay, khong ai bam theo. TU NGUYEN trao (「我愿意。」); Kirei rut lenh chu theo canon, dau mot choc, khong vet thuong. Tin chung ve tay nha tho. Chang vang: roi Fuyuki cung Kayneth. Giu tron loi hua voi Lancer — 「她到最后也没有用过一道」."
+      evidence: "「她的手背上什么也没有了，没有伤口，没有血」 · 「给了教会，换了一辆车，还有回家的路。」"
+    kayneth:
+      state: "Ngay 9: ngu luc Sola-Ui trao lenh chu; tinh tren xe, mot cau — 「令咒呢？你把御主的东西，换成了什么？」 Roi Fuyuki; tay nep, can ve London chua."
+      evidence: "「肯尼斯没有再说话，把头转向了窗外。」"
+    kirei:
+      state: "Chieu ngay 9: mo loi — lenh chu chua dung la muc tieu, nha tho von giu lenh chu thua (canon). Nhan gia cua Sola-Ui (xe ra san bay); rut ba dao lenh chu bang chua tri tam linh, keo tay ao cua minh xuong. Noi voi co: 「从现在起，它们就由教会保管了」. Khong noi tam, khong POV."
+      evidence: "「保管。」 · 「和其他的放在一起。」 · 「顺手把自己的袖口往下拉了拉」"
+
+  relationships: {}
+
+  timeline:
+    story_day: 9
+    rows:
+      - "Ngay 9, chieu–chang vang *(viet tiep)* | O nha tho: Sola-Ui trao ba dao lenh chu cho Kirei (tin la giao nha tho), doi lay duong roi Fuyuki; co va Kayneth len xe ra san bay | ch29"
+    evidence: "「车会在傍晚到坡道下面等。」 · 「傍晚。」"
+
+  arcs:
+    arc-4-ba-dao-lenh-chu:
+      chapter_29: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch29 — De xuat: CO — events/sola-ui-doi-lenh-chu-lay-duong-ve.md (ten khac event ch28 de tranh trung alias)."
+    - "AUREL (2): Sola-Ui va Kayneth roi truyen, song — status note nhan vat? De xuat: GIU `active`, ghi 「Đã rời Fuyuki — ch29」 o dau muc Trang thai hien tai (nhu diarmuid 'Da chet — ch27')."
+    - "AUREL (3): thoai 30,4 % — sat san 30. De xuat: CHAP NHAN, ghi vao metadata."
+    - "AUREL (4): Kirei — ghi ro trong note: 'giu ba dao lenh chu cua Sola-Ui (sau ch29) + lenh chu Chen trao lai (canon, khong len trang)'? De xuat: CO, o muc Trang thai + Chua len trang."
+    - "AUREL (5): nha-tho-fuyuki — muc 'Ai dang o day' bo Sola-Ui + Kayneth? De xuat: CO; them 'xe cua nha tho, ra san bay' vao Mo ta."
+
+  bookkeeping:
+    - "ch29-chapter.md, metadata.yaml: status draft -> final; plan va 3 the canh giu `planned`"
+    - "sola-ui, kayneth, kirei: 'Trang thai hien tai — sau ch29'"
+    - "Timeline/master.md: them dong ngay 9 chieu–chang vang"
+    - "kirei-van-la-master: dong ch29 (nguoi doc tien them, known_by khong doi)"
+    - "arc-4-ba-dao-lenh-chu: dong ch29 -> final; ghi cho ch30"
+    - "PPCT-MOC: chapters ch29 + event moi"
+    - "Khong doi: hook nao, relationships, loi moi hien the"

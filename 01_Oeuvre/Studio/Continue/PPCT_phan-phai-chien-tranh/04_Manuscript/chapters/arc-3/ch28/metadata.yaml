@@ -1,0 +1,62 @@
+﻿# PPCT ch28 — số đo bản nháp tiếng Trung, 22/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45), KHÔNG phải style_metrics.py (L26).
+chapter: 28
+file: ch28-chapter.md
+language: zh
+mode: mixed
+status: final
+measured_at: 2026-09-22
+measured_by: han-char-script
+chapter_targets:  # theo ch28-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2200
+  dialogue_ratio: [0.35, 0.55]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 6
+  min_dialogue_turns: {"01": 6, "02": 10, "03": 6}
+  target_terms: {"01": 6, "02": 6, "03": 4}
+body:   # do lai sau write-chapter Mode 3 (#1–#4), 22/09/2026
+  han_chars: 2247
+  dialogue_ratio: 0.356            # sat san 0,35 — canh 01 (30 %) keo xuong. AUREL (5) 22/09: CHAP NHAN
+  paragraphs: 60
+  han_per_paragraph_mean: 37.5
+  paragraphs_ge_100_han_ratio: 0.0
+  sentences_ge_50_han_ratio: 0.019
+  sentence_han_median: 19
+  sentences_le_4_han_per_1000: 0.89
+  paragraphs_with_dialogue_ratio: 0.667
+  bare_dialogue_paragraph_ratio: 0.0
+dialogue_turns_counted: {"01": 8, "02": 18, "03": 12}   # dem tay; 01: Sola-Ui 4, Kirei 3, Kayneth 1
+terms_counted: {"01": 12, "02": 11, "03": 5}            # dem tay, khong tinh dong 预警
+per_1000_han:
+  question_mark: 7.57
+  exclamation: 1.78
+  ellipsis: 1.78
+  em_dash_pair: 0.0
+  terms: 12.02
+term_hits: {圣杯: 4, 英灵: 1, 御主: 9, 令咒: 4, 从者: 9}   # gom ca dong 预警 (英灵 1)
+eye_motif: 8
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争28"
+  tag_after_quote_grep: 0          # 「”[^“]{0,4}说」 — buoc bat buoc tu ch28
+before_mode3: {han_chars: 2251, dialogue_ratio: 0.354, sentence_han_median: 18, terms_per_1000: 11.99}
+first_draft:   # do ngay sau ban dau (buoc bat buoc tu ch28), truoc luot sua trong write-chapter
+  han_chars: 2189
+  dialogue_ratio: 0.351
+  han_per_paragraph_mean: 34.2
+  sentence_han_median: 16
+  terms_scene_03: 1
+  note: "hut doan TB va trung vi cau (gop 10 cho doan/cau ngan); canh 03 thieu thuat ngu (1/4) — them 4 cho, khong them beat"
+pov_leak_check:
+  valid: false   # khong khop duoc chu Han — L29
+manual_grep:
+  terms: [白兰, 马雷, 前世, 上辈子, 璃正, 愿望, 留下来, 现世, 平行世界, 家族]
+  hits: 0
+  scene_scoped:
+    言峰_绮礼_trong_canh_02_03: 0
+    卫宫_切嗣_trong_canh_01: 0

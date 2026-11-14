@@ -1,0 +1,67 @@
+﻿# State delta — PPCT arc-5 ch37 (Bo ma — POV Tsuna, chuong nha)
+# TRANG THAI: committed 26/09/2026 (Aurel: "dong y de xuat, finalize-chapter Mode 2"). Snapshot 012-ch37 (so = dem thu muc + 1; trung so voi 012-ch27, ten khac nhau).
+# AUREL 26/09/2026: (1) CO event dazai-lo-ba-dao-lenh-chu · (2) CO fact cong nghe Vongola (muc doan cua Tsuna) · (3) CO fact ma luc Dazai · (4) CO lenh chu duoi bang vao dazai · (5) KHONG dong ch37 o hook-can-dazai
+# Moi dong co cau lam bang chung (nguyen van ch37-chapter.md, ban da sua theo review Mode 3).
+# Co 5 cho can Aurel quyet, danh dau AUREL (1)..(5).
+# Bai hoc ch22 + L37: chi khai `status` cho hook THAT SU doi.
+
+chapter: ch37
+status: committed
+committed_at: 2026-09-26
+proposed_at: 2026-09-26
+changes:
+
+  hooks:
+    hook-bo-sung-ma-luc:
+      # Len trang LAN DAU sau loi tac gia ch7: 「补魔啊。听说有一种，不用令咒，也不用地脉，只要御主和从者两个人……」 ·
+      # 「令咒这种东西，大家都当它是三次命令。其实它也是一团魔力」 · Tsuna 「留着。一共就只有三次」.
+      # Chua tra han: khong ai dung lenh chu, "cach kia" chi la cau dua (plan C8).
+      status: partially_paid
+    # hook-can-dazai-de-thang-archer: chi VONG cau ch8 trong dau Tsuna (「大概还没分出输赢，就先把魔力用光了」) — khong hua gi.
+    #   Giu `open`; them dong ch37 vao bang Tien do? De xuat: KHONG (chi vong lai, khong day) — xem AUREL (5).
+
+  secrets: {}
+    # archer-doi-master-sang-kirei: Dazai/Tsuna giu L2. Archer ×3 tren trang, KHONG cau nao noi lenh chu voi Archer (plan C9).
+    # kirei-van-la-master · tsuna-bi-byakuran-giet · dazai-mang-ky-uc-kiep-truoc: khong cham (grep tay 0).
+
+  characters:
+    tsuna:
+      state: "Toi ngay 13, can cu: tat con bo cong lau dai TU XA, khong no — giu loi Dazai hua o ch36; doan ong kinh va cho thu tieng da bi ban tay deo gang an hong tu chieu ngay 12, con bo van co truyen nen van phat tin hieu. Sau bua toi, tu cau ch33 hoi nguoc ve minh: 「Archer的魔力有人替他付账。那我呢？」 — biet minh song bang dia mach Fuyuki va chut ma luc cua Dazai; biet chuon chuon, bo an phan ma luc cua minh. Nho cau ch8 (dau Archer truc dien thi can ma luc) — khong noi ra. Lan dau thay ba dao lenh chu cua Dazai (duoi bang, mu ban tay phai); biet lenh chu cung la ma luc; tu choi de Dazai dung — 「留着」. Do mat vi cau dua bo ma (「太宰！」); roi nam lay ban tay co lenh chu, quan bang lai cho Dazai. Sang ngay 14: pha ca phe — 「今天这杯咖啡，算我付的」."
+      evidence: "「纲吉按住了那个键。指示灯闪了最后一下，灭了。」 · 「纲吉猜，装镜头和收声的那一小块，大概就是那时候被按坏的。」 · 「Archer的魔力有人替他付账。那我呢？」 · 「还有一句话，纲吉没有说出来。」 · 「留着。一共就只有三次，不能花在这种事情上。」 · 「干脆把那只手整个握住了。」 · 「今天这杯咖啡，算我付的。」"
+    dazai:
+      state: "Toi ngay 13: dua tay cam cho Tsuna tat con bo — 「中午答应过人家的事，总不好拖到半夜」; doan Kiritsugu se nghe rat lau ma khong co gi. Tra loi Tsuna ai tra ma luc: dai phan la dia mach (Tsuna la Caster), phan cua minh 「大概……够你泡一杯咖啡吧」 — 「魔术回路这种东西，我身上本来就没几条」; chuon chuon, bo 「吃的是你的那一份」. THAO BANG mu ban tay phai — ba dao lenh chu, 「一道都没用过」; bang: 「一半是」 de giau, 「另一半是习惯」. Noi lenh chu cung la mot khoi ma luc, mot dao du bu cho Tsuna; bi tu choi. Dua ve bo ma — 「我什么都还没说呢」. De Tsuna nam tay, khong noi gi. KHONG noi lenh chu voi Archer. Sang ngay 14: bang quan lai, nut cu."
+      evidence: "「中午答应过人家的事，总不好拖到半夜。」 · 「大概……够你泡一杯咖啡吧。」 · 「魔术回路这种东西，我身上本来就没几条。」 · 「它们吃的是你的那一份。」 · 「一道都没用过。」 · 「一半是。」 · 「另一半是习惯。」 · 「其实它也是一团魔力，压得很紧的那种。」 · 「补魔啊。」 · 「太宰治没有再说话，也没有把手抽回去。」"
+
+  relationships:
+    dazai--tsuna:
+      # Van xuoi (bang Dien bien) — them dong ch37: Dazai dua ba dao lenh chu ra nhu mot thu de cho; Tsuna tu choi, 「留着」;
+      # cau dua bo ma, 「太宰！」; Tsuna nam ban tay co lenh chu, quan bang lai — 「三道令咒贴在他的掌心里，有一点热。」
+      # Sang: 「今天这杯咖啡，算我付的。」 — 「那我可得好好喝。」
+      history_add: "ch37 (viet tiep): ba dao lenh chu len trang; Tsuna 「留着」; bo ma chi la cau dua; Tsuna nam ban tay co lenh chu (muc b)"
+
+  timeline:
+    story_day: 14
+    rows:
+      - "**Ngay 13**, toi → **ngay 14**, sang *(viet tiep)* | Can cu (POV Tsuna): Tsuna tat con bo cong lau dai tu xa, khong no — giu loi ch36. Tsuna hoi ma luc cua minh ai tra: dia mach Fuyuki + chut ma luc cua Dazai; chuon chuon, bo cung an phan cua Tsuna. Dazai thao bang — ba dao lenh chu con nguyen; lenh chu cung la ma luc; Tsuna 「留着」. Cau dua bo ma; Tsuna nam tay Dazai. Sang ngay 14: ca phe | ch37"
+    evidence: "「第十三天晚上。」 · 「第十四天早上。」"
+
+  arcs:
+    arc-5-ke-san-va-con-moi:
+      chapter_37: final
+
+  new_entities:
+    - "AUREL (1): note EVENT cho ch37? De xuat: CO — events/dazai-lo-ba-dao-lenh-chu.md (theo mau event chuong nha ch32 dazai-mo-buoi-truoc-cuoc-dam-phan)."
+    - "AUREL (2): canon/fact-cong-nghe-vongola-trong-chien-tranh — them (a) con bo cong lau dai TAT tu xa toi ngay 13, khong no; (b) tay cam co 「一排米粒大小的指示灯，每一盏对应外面的一只虫子」; (c) sau khi bi go, ong kinh + cho thu tieng DOAN la hong (「纲吉猜」), con bo van co truyen nen van phat tin hieu — ghi o muc SUY LUAN CUA TSUNA, khong phai su that. (d) chuon chuon/bo 「吃的是你的那一份」 — vi du cua luat nang luong 25/09. De xuat: CO."
+    - "AUREL (3): canon/fact-ma-luc-dazai-rat-thap — them dong ch37: nhac lai tren trang (dia mach, 「魔术回路…没几条」, 「够你泡一杯咖啡」); lenh chu cung la ma luc (Command-Spells luat 6) — Tsuna tu choi dung. De xuat: CO."
+    - "AUREL (4): Dazai — muc 'Rieng trong fic': ba dao lenh chu o mu ban tay phai, DUOI BANG QUAN (chi tiet au-specific, canon BSD co bang nhung PPCT chua tung ta); 「一道都没用过」 — nay la cau TREN TRANG, khong con la suy ra (plan C5). De xuat: CO."
+    - "AUREL (5): hook-can-dazai-de-thang-archer — them dong ch37? De xuat: KHONG — chi vong cau ch8 trong dau Tsuna, khong day tuyen."
+
+  bookkeeping:
+    - "ch37-chapter.md, metadata.yaml: status draft -> final; plan va 4 the canh giu `planned`"
+    - "tsuna, dazai: muc 'Trang thai hien tai — sau ch37' + muc 'BIET gi' (Tsuna: lenh chu = ma luc; Dazai con ba dao)"
+    - "relationships/dazai--tsuna: dong ch37 vao bang Dien bien"
+    - "Timeline/master.md: mot dong toi ngay 13 -> sang ngay 14"
+    - "hook-bo-sung-ma-luc: dong ch37 vao bang Tien do (tool doi status open -> partially_paid)"
+    - "arc-5-ke-san-va-con-moi: dong ch37 -> final; 'Ghi cho ch37' danh dau da dung; them 'Ghi cho ch38': manh 'lenh chu = ma luc' DA tren trang (ch37 dong 113 — ch38 khong giai thich lai); Dazai con ba dao lenh chu (mu ban tay phai, duoi bang); con bo lau dai da tat toi ngay 13 — to Caster mu hoan toan o phia Saber; Kiritsugu co toi 远坂宅 hay khong: VAN ngoai trang, to Caster khong biet"
+    - "PPCT-MOC: chapters ch37 (+ event neu AUREL 1 = co)"
+    - "Khong doi: secret nao, question nao"

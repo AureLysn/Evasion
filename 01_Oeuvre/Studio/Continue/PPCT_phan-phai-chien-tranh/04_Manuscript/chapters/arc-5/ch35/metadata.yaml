@@ -1,0 +1,74 @@
+﻿# PPCT ch35 — số đo bản nháp tiếng Trung, 24/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45). style_metrics.py ghi đè file này bằng số
+# đếm cả tiêu đề + lời người viết tiếp và không nhận “” làm thoại — số của nó giữ ở cuối, KHÔNG dùng để chấm.
+# ⚠️ han_metrics đếm thuật ngữ theo danh sách targets — KHÔNG có 魔术 · 使魔 (thẻ cảnh 01 đặt hai chữ này); số theo cảnh bên dưới đếm cả hai.
+chapter: 35
+file: ch35-chapter.md
+language: zh
+mode: det_canon_pov_kiritsugu
+pov: [kiritsugu]
+status: final   # finalize-chapter 24/09/2026 — delta committed (write-chapter · review · Mode 3 sua #1, #2, #4)
+measured_at: 2026-09-24
+measured_by: han-char-script
+chapter_targets:  # theo ch35-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2100
+  dialogue_ratio: "~0.31 (plan) · san chuong det canon ~0.20 (targets)"
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: 4
+  min_dialogue_turns: {"01": 5, "02": 5, "03": 6}
+  target_terms: {"01": 4, "02": 2, "03": 3}
+body:
+  han_chars: 1871                  # do lai sau Mode 3 · tren san 1.500, duoi du kien plan 2.100 — Aurel chap nhan (24/09, review #5)
+  dialogue_ratio: 0.176            # DUOI plan 0,31 va sat duoi san det canon ~0,20 — Aurel chap nhan (24/09, review #5)
+  paragraphs: 61
+  han_per_paragraph_mean: 30.7     # DUOI dai 35 — Aurel chap nhan (review #5)
+  paragraphs_ge_100_han_ratio: 0.016
+  sentences_ge_50_han_ratio: 0.018
+  sentence_han_median: 14          # DUOI san 17 — thoai Kiritsugu/Maiya rat cut — Aurel chap nhan (review #5)
+  sentences_le_4_han_per_1000: 5.34  # sat tran 5,5
+  paragraphs_with_dialogue_ratio: 0.557
+  bare_dialogue_paragraph_ratio: 0.0
+scene_han: {"01": 1002, "02": 501, "03": 368}
+scene_dialogue_ratio: {"01": 0.14, "02": 0.22, "03": 0.21}   # the canh: 25 % · 30 % · 40 %
+dialogue_turns_counted: {"01": 14, "02": 10, "03": 11}
+terms_counted: {"01": 12, "02": 1, "03": 3}                 # tinh ca 魔术 · 使魔; canh 02 thieu 1 (the canh >= 2) — Aurel chap nhan (review #5)
+per_1000_han:
+  question_mark: 5.88
+  exclamation: 0.53                # DUOI san 1 — chi mot 「切嗣！」 cua Saber — Aurel chap nhan (review #5)
+  ellipsis: 0.53
+  em_dash_pair: 0.0
+  terms: 5.34                      # theo danh sach targets (khong 魔术/使魔)
+term_hits: {圣杯: 1, 御主: 5, 从者: 4}
+eye_motif: 1
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争35"
+  tag_after_quote_grep: 0            # grep theo dong 「”[^“]{0,4}说」
+first_draft:   # do ngay sau ban dau (buoc bat buoc)
+  han_chars: 1728
+  dialogue_ratio: 0.099
+  han_per_paragraph_mean: 36
+  sentence_han_median: 16.5
+  exclamation: 0.0
+  ellipsis: 0.0
+  note: "Ban dau thoai 9,9 % — nhieu cho Maiya nen noi thi lai de nguoi ke ke. Sua MOT luot trong beat co san: chuyen ke -> thoai (Maiya hoi tat bo · camera cot dien · xe nha tho · camera cong ghi duoc gi · hoi hoi am; Kiritsugu 「让它说」 · 「去就是回信」 · 「我们去，不是为了打」; Saber goi 「切嗣！」). Khong them beat. Doi 「新都」 -> 「河对岸」 (khong ne ten khu gan can cu). Thoai len 18 %; doan TB va cau trung vi TUT vi thoai cut — gia cua giong Kiritsugu."
+pov_leak_check:
+  valid: true
+  exit: {"01": 1, "02": 1, "03": 1}   # 1 = khong kiem duoc assassin-chua-chet, dazai-mang-ky-uc-kiep-truoc (khong co leak_terms chu Han) -> grep tay
+  findings: {"01": 0, "02": 0, "03": 0}
+  uncheckable: [assassin-chua-chet, dazai-mang-ky-uc-kiep-truoc]
+manual_grep:
+  terms: [时臣, 远坂, Archer, 令咒, 索拉乌, 彭格列, Azoth, 爱丽丝菲尔, 容器, 没有魔力, 新都, 白兰, 上辈子, 梦, Assassin, 哈桑, 暗杀者, 挑不出, 像在念一张]
+  hits_in_body: 0
+  note: "Kiritsugu KHONG biet Tokiomi chet; dem ngay 10 chi la 'linh muc xuong doc'. Ten Kirei: dung 言峰绮礼 mot lan (khong xen 神父). Khong chu nao ve lenh chu Sola-Ui. Irisviel khong len trang."
+style_metrics_raw:   # style_metrics.py --write, 24/09/2026 — dem ca ngoai than truyen; KHONG dung de cham
+  cjk_char_count: 1953
+  word_count: 1955
+  paragraph_mean: 28.3
+  term_density_per_1000: 6.14
+  verdict: "word count 1500-2200 OK; term density >= 9 LECH (plan ghi lech co chu dich: chuong nua doi thuong, plan >= 4)"

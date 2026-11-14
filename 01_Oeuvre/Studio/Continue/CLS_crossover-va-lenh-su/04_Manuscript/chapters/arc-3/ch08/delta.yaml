@@ -1,0 +1,113 @@
+﻿# State delta - CLS arc-3 ch08 (第八章 烟花) - TRICH 03/11/2026 - POV phong Robin - 8.01 dam phan Oti/Jade/Topaz, to 当票 -> 8.02 Firefly mot minh len tau, tiem cam do -> 8.03 duoi tau, la thu khong ky ten, lan can lanh -> 8.04 bom, lan thu ba, phao hoa
+# TRANG THAI: proposed 03/11/2026 (finalize-chapter Mode 1, chi de xuat; KHONG apply). Trich boi xuong-lam (mot tac nhan), cung phien viet/sua chuong - khong doc lap.
+# Nguon chuong: ch08-chapter.md ban HIEN TAI (tieng Trung, POV phong Robin, draft, 5.618 chu Han, sau soat mach ch08-review.md).
+# Delta doc theo THAN CHUONG (sau frontmatter), khong theo plan. Moi cum trong dau ngoac vuong goc la chuoi con NGUYEN VAN cua than chuong (kiem bang may truoc khi bao xong).
+# Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan. Aurel chua tra loi = chua ap mac dinh. Khong muc nao chan.
+# Khoa "chapter" = a3-ch08 (khuon ch01-ch07).
+#
+# ===== Bi mat: KHONG dung secrets/ (changes.secrets de trong) =====
+#   Chuong khong doi ai biet / nghi gi ve: ten nguoi do (khong len trang, khong ai doan), Jason chet/song lai (khong co Jason o ch08), giong Dazai (khong co), than phan lenh su / Hoa hop (khong 令使/同谐 canh nguoi do), bi mat cua chinh Tsuna (Oti, Jade, Topaz khong noi gi ve ho so/dong ho cua nguoi do).
+#   Nguoi do o 8.01 chi hien la "nguoi tre ghe sau, thay chung toi thu"; Robin chi thay net chu cua la thu giong net chu to 当票 - khong ten, khong ket luan. nguoi-do-la-tsuna: khong doi.
+#   Chuong khong cho thay nguoi do o 8.03, 8.04.
+#
+# ===== Hook =====
+#   h-nguoi-do: GIU partially_paid (mat - ch3 arc 3; ten - chua). Bac moi tren phim: (1) lan dau gap THAT Jade + Oti (khong qua hinh chieu), ngoi ghe sau phia Gia toc, giu chu 「保管」, khong noi thay ai; (2) trao lien kia cua to giay cho Jade; (3) lan dau de lai mot la thu chuc mung khong ky ten cho Firefly (la thu, noi dung: phien dat); Robin thay net chu giong to 当票, khong noi. Khong ten. Them dong Tien do (sua tay).
+#   h-giong-khong-ten, h-ung-vien-gia-toc, h-ipc-muon-jason: KHONG cham.
+#
+# ===== Ve viec go (an) - #16-#19 =====
+#   Chuong KHONG cho thay bat ky viec go nao. Phim chi cho thay: Firefly hoi 「是凉的吗」 dau canh, sau mot khuc nhac 「凉的」; khong ai noi vi sao, khong noi toi nguoi do. Delta chi ghi dieu do ben trong characters.firefly (dieu chuong cho thay). Viec go la su that tac gia, KHONG len trang, KHONG vao known_by / suspected_by cua ai - xem bookkeeping.
+#
+# Quy uoc ten: 知更鸟 = Robin, 星期日 = Sunday, 星 = Stelle, 三月七 = March 7th, 丹恒 = Dan Heng, 姬子 = Himeko, 瓦尔特 = Welt, 流萤 = Firefly, 银狼 = Silver Wolf, 花火 = Sparkle, 翡翠 = Jade, 托帕 = Topaz, 老奥帝 = Oti.
+# Tinh huong khung: phong chieu (POV Robin), giu cho ngoi, 11 nguoi. Phim ke tu ngoai, phong ke tu Robin. Ban 2.x (khong Finality, phao hoa tu no).
+# Nhan: cho ngoi va viec cua nguoi do o 8.01, toan bo 8.03 (la thu), cac cau trong phong = PHIEN DAT / DE XUAT (khong canon).
+
+chapter: a3-ch08
+status: committed
+committed_at: 2026-11-03
+proposed_at: 2026-11-03
+
+changes:
+
+  hooks:
+    h-nguoi-do:
+      # Bac moi: (1) 8.01 gap that Jade va Oti; ghe sau phia Gia toc; giu chu 「保管」; im truoc khach, khong noi thay ai. (2) trao lien kia cho Jade. (3) 8.03 la thu chuc mung khong ky ten cho Firefly; Robin thay net chu giong to 当票, khong noi. Khong ten, khong lenh su.
+      # (phim, 8.01) 「年轻人没有应声，压着外套的手也没有动。」 · 「写的是：基石二枚，暂为保管。」 · 「“那就一直是保管。”他把话接过去，压得很低，说完就收住了，没有添别的。」 · 「“那不是我能说的。”」
+      # (phim, 8.01) 「年轻人看了她一眼，从里袋取出另一联，放进她手里。」 · 「翡翠对着灯看了看那枚印，折好，收进袖口。“当票，我收着了。”」
+      # (phim, 8.03) 「外面一行字：给流萤小姐。」 · 「里头也只有一行：谐乐大典快乐。愿你今晚，随心。没有落款，没有印，没有一点花纹。」
+      # (phong, 8.03) 「知更鸟看出来了：笔画平，不斜，最后一笔收得利落，和刚才那张当票上的字是一路的。」
+      status: partially_paid
+      # payoff_status: KHONG doi so voi ch07 (guong mat - ch3 arc 3; ten - chua dat).
+
+  secrets: {}
+
+  characters:
+    robin:
+      state: "Phong, POV, hang dau canh Sunday; khong quay lai lan nao. Nghe chu 「保管」 tren tuong khong nhin anh. Nghe giong minh tren phim (chi duong cho Firefly; phat bieu tang tau cho Doan tau). Thay net chu tren la thu giong net chu tren to 当票; khong noi ra. Tra loi Firefly (phong) mot cau ve doan phat bieu bi bo: 「……都是些道谢的话。」"
+      evidence: "「她没有去看身边的星期日。」 · 「知更鸟看出来了：笔画平，不斜，最后一笔收得利落，和刚才那张当票上的字是一路的。」 · 「知更鸟没有转身。她对着墙，答：“……都是些道谢的话。”」 · 「知更鸟听着墙上自己的那句指路，清清楚楚，没有一点犹豫」"
+    sunday:
+      state: "Phong. Nghe 「橡木」 bi noi la bi Trat tu che mat, ngoi thang, tay khong dong. Nghe Firefly noi 「到最后，总要醒的」 tren phim: ngua mat, khe noi nho chi Robin nghe: 「……她也这么说。」 (tra loi lan hai cua cau da nghe o ch07). Khong noi gi ve nguoi do."
+      evidence: "「身边的星期日坐得很直，两只手放在膝上，指节也没有动。」 · 「身边的星期日下巴抬了一点，脸朝着墙，一直没有移开。他呼出一口气，短短的，呼完才发出声音，轻得只有她听得见：“……她也这么说。”」"
+    stelle:
+      state: "Phong va phim. Phim: giu o phong game choi, Firefly nhin tu xa khong lai gan; sau do bi Sparkle day khoi lan can o 8.04, Firefly do duoc. Phong: bat cuoi hoi Firefly co thay mot minh khong; cau tra loi 「一只袜子」."
+      evidence: "「流萤在门口站住。她看了一会儿，没有往里走，把脚收回来，往走廊那头去了。」 · 「“……她看见我了？”星的声音有点发虚。」 · 「星脚下一空，人被推出了栏杆。」"
+    firefly:
+      state: "Phim 8.01: cung Soi Bac o goc mo, noi 「往后的路，我想照自己的意思走。」 Phim 8.02: mot minh len tau, hoi duong Robin, thay Stelle tu xa khong lai gan, tiem 慈玉典押: Jade tu choi vi khong co gi ngang gia, noi Cong ty chua duoc benh voi gia lon. Phim 8.03: mot minh o duoi tau; tay an lan can, hoi 「……是凉的吗。」; tay cham la thu gap doi khong ky ten, doc hai lan, cat vao tui ao; sau mot khuc nhac, chong tay dung day: 「……凉的。」; tin nhan khong ten tren thiet bi, di theo huong nguoc dai le. Phim 8.04: tu goi 「第三次的头一步」 truoc qua bom, tu chon mang bom xuong nguyen so, thuc giap bay; phao hoa tu no, do duoc Stelle. Phong: hoi Robin doan bi bo; noi voi Stelle 「你问了。」 Chuong khong noi Firefly biet ai viet la thu, khong noi vi sao lan can lanh."
+      evidence: "「“往后的路，我想照自己的意思走。”」 · 「“您身上带着的那个病，公司倒是治得了。只是价钱不低，很不低。”」 · 「“……是凉的吗。”她对自己说。」 · 「她照着原来的折痕把纸折好，放进外衣的口袋，隔着布按了一下。」 · 「“……凉的。”」 · 「手腕上的设备亮了：一条消息，没有署名。」 · 「那么眼下站在这里的，大概就是第三次的头一步。」 · 「“我穿着萨姆。”流萤说，“它够快，来得及。说不定，我还能回来。”她顿了顿，“这是我自己挑的。”」 · 「第三排传来流萤自己的声音，低低的，朝着星的方向：“你问了。”」"
+    march-7th:
+      state: "Phong. Phan nan may quay bo bai phat bieu cua Robin; hoi ai viet la thu (khong ai dap); hoi bua tren tuong con nhay so khong; reo khi Himeko thanh doc lap董事."
+      evidence: "「“诶，镜头怎么跑了！知更鸟小姐还在讲呢！”三月七喊。」 · 「“谁写的呀……”三月七小声嘀咕。」 · 「“那个娃娃上的数，还在跳吗？”三月七问，椅子往前挪了半寸，吱的一声。」"
+    himeko:
+      state: "Phim 8.01: vao ban, Doan tau nhan 5% va co lam doc lap董事 (cam ket: dung de ai lam lech con duong lan nua). Phong: keo nhip 「后半场才是正题。」; noi se pha them ca phe khi hop."
+      evidence: "「翡翠说，公司愿意从三成里分出百分之五，送给她的列车，再请她来做独立董事。」 · 「“后半场才是正题。”姬子说。」 · 「“开会的时候，咖啡我得多备一些。”姬子说。」"
+    welt:
+      state: "Phong. 「船要开了。」 (8.01); kinh: vet nut keu them mot tieng o 8.04 (khong ai dem)."
+      evidence: "「“船要开了。”瓦尔特说。」 · 「后头，瓦尔特那边，镜片又细细地响了一声，是那道老裂在往前走。」"
+    dan-heng:
+      state: "Phong. 「她进店了。」 (8.02, mot lan khuon <<她X了>>)."
+      evidence: "「“她进店了。”丹恒说。」"
+    silver-wolf:
+      state: "Phim 8.01: noi voi Firefly o goc mo, 「存档在你手里。」 Phong: mot tieng 「啧」 nho khi phim chuyen. Chuong khong noi Soi Bac biet gi ve nguoi do."
+      evidence: "「“随你。”她说，“存档在你手里。”」 · 「第三排传来一声“啧”，很小，是银狼，后头没有话。」"
+    jade:
+      state: "Phim. 8.01: gap that nguoi tre ghe sau (khong qua hinh chieu), hoi tra, thu moi noi thay Gia toc ve 3 thanh, bi tu choi, khong ep; nhan lien kia cua to giay. 8.02: tiem 慈玉典押, tu choi Firefly vi khong co gi ngang gia; cho xem gia cua nhung dieu uoc; noi Cong ty chua duoc benh voi gia lon."
+      evidence: "「“茶，这回我喝得到了吧？”」 · 「“船上的茶，不归我管。”」 · 「翡翠没有再劝。她直起腰，笑意一分没少，回自己的座位去了。」 · 「“当票，我收着了。”」"
+    oti:
+      state: "Phim 8.01 (phien dat cho phan nguoi do): noi voi khach to giay 「当它没有」; rieng voi nguoi tre ghe sau, noi 「年轻人别往心里去」, thay chu 「保管」, cuoi, vo vai roi buong; nhan 30% sau khi Jade thang loi."
+      evidence: "「自己人之间写着玩的，当它没有，当它没有。」 · 「“刚才那句，年轻人别往心里去。”」 · 「老奥帝呵呵笑了两声，抬手在他肩上拍了一下，拍完就松开」 · 「老奥帝想了好一阵，“呵呵呵”，点了头。」"
+
+  relationships:
+    # Chi ghi nhan cho nguoi viet tu cap nhat prose. Khong dem tren he thong. Khong dong nao ghi viec go.
+    nguoi-do-jade:
+      note: "8.01 (phien dat, phim): lan dau gap that, khong qua hinh chieu. Jade thu hai huong: tra, roi moi noi thay Gia toc ve 3 thanh; nguoi do tu choi hai lan bang mot cau ngan, giu dung chu 「保管」; cuoi buoi trao lien kia cua to giay cho Jade. Doi tac ngang hang, khong ai lam ho ai; Jade cuoi, khong ep. Khong ten, khong ho so."
+      evidence: "「“船上的茶，不归我管。”」 · 「“您这样守信的人，下半场替他们说一句，如何？三成的股份，您点个头就行。”」 · 「“那不是我能说的。”」 · 「年轻人看了她一眼，从里袋取出另一联，放进她手里。」"
+    nguoi-do-firefly:
+      note: "8.03 (phim, phien dat): chieu nguoi do -> Firefly. Mot la thu chuc mung gap doi khong ky ten, khong dau, khong hoa van; Firefly doc, cat, khong hoi ai viet. Nguoi do khong xuat hien tren phim. Chieu Firefly -> nguoi do: khong co (cho den het chuong, co khong biet ai viet). Khong doi con so. Robin thay net chu giong to 当票, khong noi."
+      evidence: "「里头也只有一行：谐乐大典快乐。愿你今晚，随心。没有落款，没有印，没有一点花纹。」 · 「抬起头，身后的走廊空着。」 · 「知更鸟看出来了：笔画平，不斜，最后一笔收得利落，和刚才那张当票上的字是一路的。」"
+    robin-sunday:
+      note: "Phong, hang dau: Robin khong nhin Sunday khi nghe 「保管」; Sunday nghe 「橡木」 bi che, im; 8.04 Sunday noi khe mot cau chi Robin nghe (「……她也这么说。」), Robin khong dap, dat tay len tay vin phia anh, khong cham. Khong doi con so."
+      evidence: "「她没有去看身边的星期日。」 · 「知更鸟没有应。她把手放在扶手上，靠他那一侧，没有碰他。」"
+
+  timeline:
+    # Project chua co timeline/. Moc ghi cho nguoi viet.
+    a3-ch08-phong: "Noi tu cuoi ch07 (tuong: bục vong lun). Phong van 11 nguoi giu cho ngoi, khong ai vao ra, Robin khong quay lai. Kinh Welt nut them mot tieng o 8.04 (khong ai dem). Cuoi chuong: phao hoa, hinh khong doi canh; Robin cho doan sau, khong co."
+    a3-ch08-phim: "Ban 2.x. Theo thu tu 2.3: Firefly/Soi Bac o goc mo -> 晖长石号, Oti/Jade/Topaz dam phan (30% / 5% / Himeko doc lap董事; nguoi do ghe sau, to 当票, lien kia trao Jade) -> Firefly mot minh len tau, hoi duong Robin, thay Stelle tu xa, tiem 慈玉典押 -> dai le (Robin phat bieu, tang tau cho Doan tau; may quay roi bục) -> duoi tau: Firefly, la thu khong ky ten, lan can lanh -> Sparkle, bom, lan thu ba, Firefly mang bom di, phao hoa tu no, Sparkle day Stelle, Firefly do."
+
+  arcs: {}
+    # AUREL: trang thai arc 3 van proposed. Ch08 khong doi trang thai arc. MAC DINH: khong doi.
+
+  new_entities:
+    - "AUREL (1) V2: bo <<等台上讲完了，去跟他们道个别>> (trai thu tu canon: chao truoc bai phat bieu); thay bang 「她看了一会儿，没有往那边去。」 - MAC DINH: giu ban thay trong chuong (da sua). Neu Aurel muon giu cau cu, sua chuong; delta khong doi."
+    - "AUREL (2) V4: net chu la thu doi tu <<认得这种笔画>> (keo ve Sunday) sang 「和刚才那张当票上的字是一路的」 - MAC DINH: giu ban moi (Robin thay net chu giong to 当票, khong ket luan, khong keo ve Sunday). Neu Aurel muon Robin khong nhan ra gi (phuong an thay the cua plan), bo cau do trong chuong; delta khong doi (doi dong relationship nguoi-do-firefly va hook)."
+    - "AUREL (3) N13 da dong 03/11: Aurel chon Giu bom, goc la Ken Sinh Soi (#20) - 8.04 giu qua bom; phien chinh them loi Firefly 「上一回撕开那道口子用的力气，是借来的。借了，总要还。」 noi cai chet thu ba ve lan dung suc 繁育 o ch06."
+    - "AUREL (4) noi dung la thu: 「给流萤小姐」 / 「谐乐大典快乐。愿你今晚，随心。」 la PHIEN DAT (chu, bo cuc, giay trang gap doi, ke vao khe tru lan can). Khong ky ten. MAC DINH: giu. Neu Aurel doi noi dung, sua chuong; neu la thu bi bo thi hook va relationship nguoi-do-firefly can viet lai."
+    - "Khong co note moi can tao tu delta. Ngoai hinh Oti, Topaz, Jade, Sparkle, Firefly, Robin theo Penacony-npc-ngoai-hinh.md (da co)."
+
+  bookkeeping:
+    - "ch08-chapter.md (arc 3): status draft -> final (sau duyet). 5.618 chu Han."
+    - "Secrets: KHONG doi (changes.secrets rong) - xem khoi chu thich dau file."
+    - "Su that tac gia, KHONG len trang, khong vao known_by / suspected_by cua ai (#16, #17, #18): Tsuna go phan <<nhanh lên>> lam ra ket 3.8 cua Firefly, mot lan, ngoai phim, khong ai biet ke ca Firefly. Chuong chi de lai mot chi tiet: lan can lanh (Firefly hoi 「是凉的吗」, sau do 「凉的」). Ghi o day de nguoi viet nho; KHONG ap vao note nhan vat nao nhu mot su kien phim cho thay."
+    - "Hook: h-nguoi-do giu partially_paid; payoff khong doi; them mot dong Tien do (sua tay). h-giong-khong-ten khong cham."
+    - "SUA TAY - hooks/h-nguoi-do.md, bang Tien do (them dong ch08 arc 3, sau dong ch07): | ch08 arc 3 *(chot 03/11, hang doi)* | **Lan dau gap that Jade va Oti**, khong qua hinh chieu *(8.01, phien dat)*: ngoi ghe sau phia Gia toc, im truoc khach khi Oti noi to giay 「当它没有」; rieng voi Oti, giu dung chu 「保管」 *(「那就一直是保管」)*; Jade moi noi thay Gia toc ve 3 thanh, **tu choi** *(「那不是我能说的」)*; trao lien kia cho Jade *(「当票，我收着了」)*. **Lan dau de lai loi cho Firefly:** mot **la thu chuc mung khong ky ten** *(8.03, phien dat; 【谐乐大典快乐。愿你今晚，随心。】)*, nguoi do khong xuat hien tren phim; Firefly doc, cat, khong biet ai viet. Phong: **Robin thay net chu giong to 当票** *(「和刚才那张当票上的字是一路的」)*, khong noi, March hoi ai viet, khong ai dap. Khong ten, khong ai doan. | partially_paid |"
+    - "SUA TAY - relationships/tsuna--jason-cls.md: ch08 khong goi (1 : 1 sau ch07 giu nguyen). Khong sua."
+    - "SUA TAY - tien-do-ba-arc.md: ghi arc 3 ch08 (sua tay)."
+    - "Diem tro sang ch09: phim dung o phao hoa, khong sang canh; moi viec sau do la ch09. Ch08 khong tro truoc."

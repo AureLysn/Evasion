@@ -1,0 +1,61 @@
+﻿---
+id: project.pca
+type: project
+scope: project
+project: PCA
+universes: ["KHR"]
+lane: personal
+canon_layer: project_locked
+status: draft
+title: "Please Come Again"
+aliases: ["PCA", "Please come again", "please come again"]
+related: ["[[_OEUVRE-MOC]]", "[[drop-point]]"]
+source:
+  type: user_input
+  ref: "old-vault:00_Inbox/Fandom/Viết tiếp fanfic/Please come again/ — 25 file, 582,9 KB, do 23/08/2026. Duong dan that: stores.md dong old-vault. Kiem ke: 90_Meta/kiem-ke-vault-cu.md"
+authority: user
+confidence: 1.0
+always_load: false
+tags: [d/fanfic, k/deliverable, p/personal]
+last_updated: 2026-08-19
+---
+
+# Please Come Again
+
+**Mã:** `PCA` · **Ngôn ngữ:** Tiếng Việt
+
+Có `00-huong-dan-van-hanh.md` và `template-ho-so-truyen.md` — hai file này là **phương pháp chung**, nên lên `Templates/`, không nằm trong project.
+
+## Quy mô đã có
+
+16 chương (ch16–ch31) + 9 file phương pháp
+
+**Nguồn:** `00_Inbox/Fandom/Viết tiếp fanfic/Please come again/`
+
+## Trạng thái nhập vault
+
+- [ ] `sources/` — bản gốc của tác giả, **bất biến**
+- [ ] `style/` — `signature` (đo từ nguyên tác) · `targets` · `hard-rules`
+- [ ] `canon/` — thiết lập thế giới, mỗi note có `source.ref`
+- [ ] `Characters/` — hồ sơ nhân vật, **không** chứa bí mật nhân vật khác chưa biết
+- [ ] `decisions/` — lựa chọn đã khoá
+- [ ] `questions/` — vấn đề chưa quyết, mỗi cái có `needed_before`
+- [ ] `chapters/` — chương đã viết
+- [ ] Chạy `vault_doctor.py --include-fiction --zone 05_Evasion/01_Oeuvre/Studio/Continue/PCA_please-come-again` → `Errors: 0`
+
+## Trước khi viết chương tiếp theo
+
+1. **Đo văn phong nguyên tác trước.** Không có [[signature]] thì đang bịa giọng,
+   không phải mimic. Tối thiểu ~5.000 từ nguyên tác để đo đáng tin.
+2. **Viết tự do → chạy gate → sửa theo số.** Không giữ luật trong đầu.
+   Xem [[principles]] nguyên lý 2.
+3. **Outline trước, văn sau.** Đề xuất 3–5 chương, chờ duyệt. Hướng sai thì cả 5 chương là rác.
+
+## Ranh giới với tác giả gốc
+
+Đây là **sáng tác cá nhân dựa trên tác phẩm của người khác**.
+
+- Mọi file phải ghi `source:` trỏ về tác phẩm gốc + tên tác giả.
+- Không bao giờ trình bày bản viết tiếp như tác phẩm chính thức của tác giả gốc.
+- Muốn public: ghi rõ "fan continuation", ghi công tác giả gốc, kiểm tác giả/nền tảng
+  có cấm không. `lane: personal` — **không** vào portfolio trừ khi khai `promoted_from`.

@@ -1,0 +1,68 @@
+﻿# PPCT ch37 — số đo bản nháp tiếng Trung, 25/09/2026
+# Nguồn: style_metrics.py --json (bản PR #64 — khớp han_metrics.py; từ ch36 là bước bắt buộc số 1 của arc 5).
+# File ghi tay — style_metrics.py --write sẽ TỪ CHỐI ghi đè (exit 2), đúng như thiết kế.
+chapter: 37
+file: ch37-chapter.md
+language: zh
+mode: doi_thuong_pov_tsuna
+pov: [tsuna]
+status: final   # finalize-chapter 26/09/2026 — delta committed (write-chapter · review · Mode 3 sua #1–#6, #7 chap nhan, #8 -> quy uoc plan)
+measured_at: 2026-09-25
+measured_by: style_metrics.py --json (PR #64)
+chapter_targets:  # theo ch37-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2050
+  dialogue_ratio: "0.45-0.55 (plan) · doi thuong cho phep toi ~0.65 (targets)"
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_tendency: 3.5
+  min_dialogue_turns: {"01": 4, "02": 8, "03": 10, "04": 2}
+  target_terms: {"01": 1, "02": 3, "03": 3, "04": 0}
+body:
+  han_chars: 1735                  # do lai sau Mode 3 · tren san 1.500; duoi du kien 2.050 (~-15 %) — Aurel chap nhan (26/09, review #7)
+  dialogue_ratio: 0.315            # DUOI plan va dai chung — Aurel chap nhan (review #7); xu huong 3 chuong -> review #8
+  han_per_paragraph_mean: 27.1     # DUOI dai 35 — nhieu doan thoai ngan — Aurel chap nhan (review #7)
+  paragraphs_ge_100_han_ratio: 0.016
+  sentences_ge_50_han_ratio: 0.009
+  sentence_han_median: 13          # DUOI san 17 — Aurel chap nhan (review #7)
+  sentences_le_4_han_per_1000: 1.15
+scene_han: {"01": 394, "02": 592, "03": 616, "04": 133}           # the canh: 400 · 650 · 750 · 250 (do lai sau Mode 3)
+scene_dialogue_ratio: {"01": 0.23, "02": 0.38, "03": 0.35, "04": 0.14}
+dialogue_turns_counted: {"01": 7, "02": 15, "03": 21, "04": 3}   # dem dau “ — dat san ca bon canh
+terms_counted: {"01": 0, "02": 8, "03": 8, "04": 0}              # canh 01 thieu 1 (御主 >= 1) — Aurel chap nhan (review #7)
+per_1000_han:
+  question_mark: 10.95
+  exclamation: 1.73
+  ellipsis: 2.88
+  em_dash_pair: 0.0
+  terms: 9.22                      # vuot huong ~3,5 — 魔力 ×6, 令咒 ×3: chuong NOI VE ma luc
+term_hits: {圣杯: 1, 宝具: 1, 御主: 2, 魔力: 6, 令咒: 3, 从者: 3}
+eye_motif: 1                       # 「眨了一下眼睛」
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争37"
+ai_tells_check:   # style/ai-tells.md, 6 extra_constructs
+  exit: 0
+  hard: []
+  warnings: []
+manual_grep:
+  terms: [时臣, 教会, 索拉乌, 绮礼, 人间失格, 无效, 咖喱, 吻, 河对岸, 远坂, 挑不出, 像在念, 意识到, 这才发现, 前世, 上辈子, 梦, 白兰, 十年, 玛雷, 指环]
+  hits_in_body: 0
+  expected_hits: {Archer: 3}
+  note: "Archer ×3: cau hoi cua Tsuna (「Archer的魔力有人替他付账。那我呢？」), 「那时候他们说的是Archer」, ky uc ch8 — KHONG cau nao noi lenh chu voi Archer (plan C9). 不是X，是Y trong loi ke: 0. 「没有…而是」 1 -> da bo. Bua toi la 炖菜, khong phai ca ri (tranh mach Oda)."
+first_draft:   # do ngay sau ban dau (buoc bat buoc)
+  han_chars: 1605
+  dialogue_ratio: 0.28
+  han_per_paragraph_mean: 28.7
+  sentence_han_median: 14
+  exclamation: 2.49
+  ellipsis: 2.49
+  note: "Ban dau ngan va ke nhieu. Sua MOT luot trong beat co san: chuon chuon / bo an ma luc cua Tsuna -> doi dap (luat Aurel 25/09, the canh 02 muc 4b); Tsuna hoi ve lop bang (「一半是。」 「另一半是习惯。」 — giai thich plan C4). Khong them beat. Thoai 28 % -> 32,3 %. Dung o day: phan con lai la noi tam Tsuna (cau ch8, cu chi) — phai o trong loi ke."
+pov_leak_check:
+  valid: true
+  exit: {"01": 1, "02": 1, "03": 1, "04": 1}   # 1 = khong kiem duoc dazai-mang-ky-uc-kiep-truoc (khong co leak_terms chu Han) -> grep tay
+  findings: {"01": 0, "02": 0, "03": 0, "04": 0}
+  uncheckable: [dazai-mang-ky-uc-kiep-truoc]

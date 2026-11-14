@@ -1,0 +1,63 @@
+﻿# PPCT ch26 — số đo bản nháp tiếng Trung, 22/09/2026
+# Nguồn: han_metrics.py trong scratchpad (đã kiểm trên ch22 — L45), KHÔNG phải style_metrics.py (L26).
+chapter: 26
+file: ch26-chapter.md
+language: zh
+mode: doi_thuong
+status: final
+measured_at: 2026-09-22
+measured_by: han-char-script
+chapter_targets:  # theo ch26-plan.md
+  han_chars_floor: 1500
+  han_chars_plan: 2250
+  dialogue_ratio: [0.45, 0.65]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_min_count: 10          # doi thuong: khong san mat do, nhung giu so lan
+  min_dialogue_turns: {"01": 8, "02": 7, "03": 10, "04": 5}
+  target_terms: {"01": 6, "02": 0, "03": 1, "04": 3}
+body:   # do lai sau write-chapter Mode 3 (#1, #2), 22/09/2026
+  han_chars: 1968            # duoi du kien ~13 %, tren san 1.500 — khong nhoi chu
+  dialogue_ratio: 0.583
+  paragraphs: 52
+  han_per_paragraph_mean: 37.8
+  paragraphs_ge_100_han_ratio: 0.0
+  sentences_ge_50_han_ratio: 0.032
+  sentence_han_median: 20
+  sentences_le_4_han_per_1000: 2.54
+  paragraphs_with_dialogue_ratio: 0.846   # tren dai chung 63,6–76,9 — chuong doi thuong nang thoai
+  bare_dialogue_paragraph_ratio: 0.212
+dialogue_turns_counted: {"01": 12, "02": 8, "03": 16, "04": 7}   # dem tay
+terms_counted: {"01": 9, "02": 0, "03": 1, "04": 3}              # dem tay; tong 13 (Mode 3 #1 bo mot 从者)
+per_1000_han:
+  question_mark: 7.62
+  exclamation: 1.52
+  ellipsis: 2.03
+  em_dash_pair: 2.03
+  terms: 6.61
+term_hits: {圣杯: 1, 英灵: 1, 宝具: 4, 御主: 2, 令咒: 3, 从者: 1, 彭格列: 1}
+before_mode3: {han_chars: 1947, dialogue_ratio: 0.579, sentence_han_median: 19, terms_count: 14}
+eye_motif: 5
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+  title: "【太纲无差】反派战争26"
+first_draft:
+  note: "ban dau DAT moi chi tieu ngay luot dau (lan dau trong 5 chuong) — hai quy dinh the canh (luot thoai + thuat ngu) co tac dung"
+  han_chars: 1913
+  dialogue_ratio: 0.571
+pov_leak_check:
+  exit: {"01": 1, "02": 1, "03": 0, "04": 1}   # 03 exit 0 vi the canh 03 co y KHONG cam dazai-mang-ky-uc-kiep-truoc; exit 0 KHONG chung minh sach (L29)
+  valid: false
+manual_grep:
+  terms: [白兰, 前世, 上辈子, 白色的房间, 马雷, 戒指, 横滨, 中也, 补魔, 魔力供给, 绮礼, 切嗣, 梦得到啊, 人不吃饭]
+  hits: 0   # 「死」 1 lan trong thanh ngu 「怕得要死」 — khong phai cai chet
+writer_notes:
+  beats: "du 5 beat; khong them beat moi"
+  deviations:
+    - "Mon an: 味噌汤 + 煎豆腐 (the canh de 🟡)"
+    - "Doi thu trong giac mo khong ten; Reborn la 「穿西装的小婴儿」 roi Tsuna goi ten — dung nhu the canh cho phep"
+    - "Ban dau de Dazai ta mat Tsuna tu ngoai va 「站在你旁边」 — trai goc nhin giac mo QUA MAT Tsuna (ch18, event dazai-mo-mot-buoi-sang-o-vongola); da sua truoc khi trinh: 「我是从你的眼睛看出去的」"
+    - "Dazai tat man hinh o cuoi chuong (the canh 04 de 🟡)"

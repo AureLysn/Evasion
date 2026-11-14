@@ -1,0 +1,144 @@
+﻿# State delta - CLS arc-3 ch02 (第二章 星期日的朋友) - TRICH 02/11/2026 - Tsuna . Penacony, POV phong Robin
+# TRANG THAI: proposed 02/11/2026 (finalize-chapter Mode 1, chi de xuat; KHONG apply). Trich boi xuong-lam (mot tac nhan), cung phien viet/sua chuong - khong doc lap.
+# Nguon chuong: ch02-chapter.md ban HIEN TAI (tieng Trung, POV phong Robin, draft, 6.263 chu Han, sau soat mach ch02-review.md: V1-V4, N1-N16 da sua).
+# Delta doc theo THAN CHUONG (sau frontmatter), khong theo plan. Moi cum 「…」 trong delta la chuoi con NGUYEN VAN cua than chuong (kiem bang may truoc khi bao xong).
+# Bang "moi doan chieu phoi ra su that gi, ai chua biet" cua ch02-plan-a3 dung de DE XUAT known_by cua nguoi / quan he (xuong duoi), KHONG phai secrets/.
+# Cho can Aurel quyet danh dau "AUREL (n)"; moi muc co MAC DINH an toan. Aurel chua tra loi = chua ap mac dinh. Khong muc nao chan.
+# Khoa "chapter" = a3-ch02 (khuon ch01) de thu muc snapshot cua state_apply khong trung voi ch02 cac arc truoc.
+#
+# ===== Bi mat: KHONG dung secrets/ (changes.secrets de trong) =====
+#   Ca ba secret (nguoi-do-la-tsuna, giong-khong-ten-la-dazai, jason-da-chet-va-song-lai) la ve DANH TINH / su that nguoi ngoai khung.
+#   Than chuong khong dua ai den gan danh tinh do: phong chi nghe mot giong co loi, thay bong lung, mot ban tay dua coc, mot dong ke "ban cua Sunday".
+#   Khong ai trong phong goi ten, doan ten, hay noi "toi biet nguoi nay". Cac nhan vat xem (Robin, Firefly, Soi Bac, Dahlia) da nam trong unknown_to tu ch01; khong co ai chuyen sang suspected_by hay known_by.
+#   Phong chi noi giong voi giong: March noi 「是【我去】那个……」 va Robin nghe giong nay cung mot noi voi not thap o ch01 - noi GIONG voi GIONG, khong noi voi ten (B7). Do la trang thai nhan vat (xem characters), khong phai doi ai biet bi mat.
+#   Sunday tren phim, Stelle tren phim, Robin tren phim da nam trong known_by tu ch01; ch02 khong them ai.
+#   Da kiem (so tung chu trong leak_terms cua ba note secret voi than chuong): 0 ket qua. Delta nay KHONG chep cac chu do.
+#   Than chuong KHONG nhac Tsuna, Dazai, Jason, 候选, Gotham; khong ten, khong mat, khong toc, khong mau ao, khong lua nguoi ngoai khung.
+#   AUREL (2) o duoi nhan manh lai muc nay.
+#
+# ===== Hook =====
+#   h-nguoi-do: GIEO TIEP, KHONG TRA (tra cuoi ch3). Bac hai: giong co loi (cau dai), dang lung ben canh Sunday, mot ban tay dua coc. Khong mat, khong ten, khong toc, khong lua.
+#   h-ung-vien-gia-toc, h-giong-khong-ten: KHONG cham (khong ai nhac 候选; khong giong luoi).
+#
+# ===== Nguong =====
+#   Nguong 2 (Dazai->Tsuna 2 : Tsuna->Dazai 1, theo arc-3-chot-01-11 #8): ch02 KHONG dem gi. Dazai, Jason, Tsuna khong xuat hien tren trang.
+#
+# Quy uoc ten: 知更鸟 = Robin, 星期日 = Sunday, 星 = Stelle, 三月七 = March 7th, 丹恒 = Dan Heng, 姬子 = Himeko, 瓦尔特 = Welt, 黑天鹅 = Black Swan,
+#   流萤 = Firefly, 银狼 = Silver Wolf, 大丽花 = Dahlia, 桑博 = Sampo, 加拉赫 = Gallagher, 爱德华医生 = bac si Edward, 帕姆 = Pom-Pom.
+# Tinh huong khung: phong chieu (POV Robin), 11 nguoi, giu nguyen cho ngoi cuoi ch01. Phim: Gio Vang -> ba nguoi di ve -> cua hang Mong canh (bong bong mo) -> ga, Gallagher giai vay -> huong dan vien (Robin theo xa) -> Sampo.
+# Nhan: cau dai cua nguoi ngoai khung, canh "ba nguoi", coc nuoc, cau Sunday o moc cuoi, cau Firefly hoi Robin, chon giong Dan Heng cho bong bong mo, nhanh banh cuon = PHIEN DAT, khong canon.
+
+chapter: a3-ch02
+status: committed
+committed_at: 2026-11-02
+proposed_at: 2026-11-02
+
+changes:
+
+  hooks:
+    h-nguoi-do:
+      # GIEO TIEP lan thu hai o arc 3, KHONG tra. Khong gan voi ai; khong hinh.
+      # (phim, 2.01) Giong thu ba ngoai khung noi cau dai voi Stelle: 「你们的房间换好了。」 / 「下回想睡觉，先说一声。大堂的沙发再软，也不是床。」 Stelle dap nhu voi nguoi quen: 「她回话的口气，是熟到不必看人的口气。镜头没有转过去。」
+      # (phim, 2.01) Bong lung: 「这个人比星期日矮半个头，大半个身子被星期日长袍的下摆遮着」, giu tay chao sau vai, khong quay dau.
+      # (phim, 2.02) Ban tay dua coc: 「右边伸过来一只手，手里托着一只小小的白瓷杯，杯口冒着细细的热气。」 Tay: 「那只手不宽不窄，骨节利落，五指空空。」
+      # (phong) Robin nghe giong nay CUNG MOT NOI voi not thap o ch01: 「和上一幕她唱歌时沉进她嗓音底下的那个低音，对上了。」 March, Stelle noi voi giong o arc 2 (xem characters). Khong ai doan la ai.
+      # Prose cua note hook (bang Tien do) lieu ke cho nguoi viet tu them dong ch02 arc 3 - tool khong tu sua prose.
+      # AUREL (1): them dong "ch02 arc 3" vao bang Tien do cua h-nguoi-do? MAC DINH: co (sua tay sau khi duyet); status giu open, payoff giu "arc 3 / chua dat" (ke hoach: ch3 cuoi).
+      status: open
+
+  # secrets: KHONG dung (xem khoi chu thich dau file). Khoa de trong.
+  secrets: {}
+
+  characters:
+    robin:
+      # Co note MAIN-DATABASE/HSR/characters/Robin.md (lap 01/11, sau ch01). POV phong.
+      state: "Phong, POV. Nghe giong thu ba noi cau dai voi Stelle: nghe HINH CUA CAU truoc, chua nghe noi dung; nhan ra cung mot cho ha xuong, cung mot cho de trong voi not thap o ch01; ngon tro go hai nhip dung nhip cau. Khong biet 【我去】 la gi (bon nguoi moi khong xem arc 2). Khong suy ra la ai (B7). Xem canh 'ba nguoi': Robin phong KHONG nho co coc nuoc, chi nho dem do chi co hai anh em; nho dem do co co hoi hoi anh mot chuyen, tren phim cau cuoi thanh cuoi, hoi khong duoc hoi; tren phim cau tach di mot minh ('toi muon di mot minh'), vi sao re thi khong noi. Xem canh nap tren ban cong va hanh lang: tren phim Robin hat khe, giong Firefly khong vong lai gi. Phong: nhin sang Firefly mot hoi; khi Firefly hoi 'nguoi theo sau do la co a?' tra loi 'la toi', cho ai hoi vi sao - khong ai hoi. Cuoi: Sunday hoi nguoi tren tuong dua cho cau cai gi, Robin 'noi do hong' (润喉的), Sunday noi dem do anh khong dua; Robin khong dap, nhin tay anh. KHONG biet nguoi ngoai khung la ai, khong biet Sampo la ai ngoai ten, khong cham buoi gap o Rac Mong Luu va chuyen Dahlia dot ky uc."
+      evidence: "「和上一幕她唱歌时沉进她嗓音底下的那个低音，对上了。」 · 「她的食指在膝头敲了两下，正好是那句话的节拍。」 · 「【我去】是什么，哪两个字，谁说的，知更鸟不知道。」 · 「可她的记忆里没有杯子。」 · 「那天晚上，走在哥哥身边，她是有机会问他一件事的。」 · 「那天晚上她为什么拐了弯，她没有说。」 · 「没有回声，也没有应和。」 · 「她发现自己的头也转了过去，往后，朝着屋里的流萤，看了足足一息。」 · 「“是我。”知更鸟说。」 · 「知更鸟等着有人问她为什么。」 · 「“润喉的。”她说。」 · 「知更鸟没有去碰。」"
+    sunday:
+      # Phong va phim. Khong biet / khong noi gi ve 'nguoi ban': chuong khong cho Sunday noi ten, khong noi anh nho hay khong nho (watch-frame: khong nho) - giu nguyen.
+      state: "Phong: nghe giong cau dai cua nguoi ngoai khung 'lau hon do dai cau'; tay phai mo ra, rut thanh nam dam, khong noi gi. Xem chinh minh tren phim doa vui voi nguoi ban, giong long: ngoi thang len mot doan, tay vuon toi khan tay, cham roi buong. Dat mot ban tay len tay vin giua hai ghe, canh khan tay (khong nhin Robin, khong lap tieng). Cuoi: hoi Robin nguoi truoc tren tuong dua cho cau cai gi; Robin 'noi do hong'; Sunday: dem do anh khong dua (giong phang). Khong bi kich hoa: mot cau, phim chay tiep. Phim: dung giua, noi chuyen voi nguoi ben phai, tu nhan 'thoi quen nghe nghiep' (职业习惯), cuoi mot tieng ngan roi ep mieng; noi 'di thoi' voi nguoi ben phai. Chuong KHONG cho Sunday goi ten nguoi ban, KHONG ghi Sunday 'nho' ai; chi 'da thay tren phim'."
+      evidence: "「他听这句话听了很久，久过那句话本身的长度。」 · 「知更鸟看见他搭在膝上的右手慢慢张开，五指摊平，又慢慢收拢，合成一个拳。」 · 「声音松得很，是对自己人才有的松法。」 · 「知更鸟看见他的脊背离开了椅背，坐直了一截，手伸向扶手上那块白手帕，摸到了，又放开。」 · 「星期日把一只手从膝头抬起来，放到两把椅子之间的扶手上，搁在那块手帕旁边。」 · 「“前面墙上，那个人递给你的，是什么？”」 · 「“那天晚上，”他说，“我没有给过你。”」 · 「他的声音很平。」"
+    stelle:
+      state: "Phong va phim. Phim: o Gio Vang, di vung hon, co hoi nhan xet; nhan tin nhan tu nguoi gui trong ve cua hang Mong canh. Nghe giong ngoai khung, dap 'biet roi biet roi' khong nhin, voi cai khau khi quen nhau. Chao tam biet, mai gap voi nguoi di xa va nhan lai mot tieng co cuoi. Phong: noi chuyen voi khong khi ma tron the, nhan xet 'lan nay khong chi hai chu'. Bong bong mo: chon giong Dan Heng cho bi cao Akivili. Giai vay o ga, duoc Firefly dan tham quan, an banh cuon, den cong vien. Phong: nhan ra Sampo: 'lai la ong ta'."
+      evidence: "「“我在跟空气说话？”星在椅子里直起腰，球棒险些滑到地上，“我对着空气，还说得挺顺！”」 · 「“这回不止两个字了。”星说。」 · 「她回话的口气，是熟到不必看人的口气。镜头没有转过去。」 · 「星想都没想：“丹恒。”」 · 「“桑博！”星一巴掌拍在椅背上，“又是他！”」"
+    march-7th:
+      # March CO len hinh trong ch02? Khong - Dan Heng/March khong len hinh trong mong (Đ-11); chi o phong.
+      state: "Phong. Nghe giong ngoai khung, noi voi 【我去】 o arc 2: noi giong voi giong, khong noi ten. Doan 'bien ra' ve coc nuoc ('chac la biet ao thuat'). Khi Robin tren phim len ban cong, March hoi 'sao co ay chay len mai nha'. Phim: khong len hinh (Đ-11), chi o phong."
+      evidence: "「“是【我去】那个……”三月七猛地转过头来。」 · 「“变出来的。”三月七说，“这个人肯定会变魔术。”」 · 「三月七小声说：“她怎么跑到房顶上去了？”」"
+    dan-heng:
+      state: "Phong. Nghe giong ngoai khung: 'lan truoc chi co hai chu, lan nay la mot cau'. Khep sach sau khi Stelle chon giong minh cho bi cao ('Cam on'). Nhan xet Firefly: 'co ay di vong ba duong', 'duong tat khong di nguoc'. Phim: o lai tren tau, khong len hinh o ch02."
+      evidence: "「“上回只有两个字。”丹恒把不知什么时候摊在膝上的书合起来，用拇指压住封面，“这回是一整句。”」 · 「“谢谢。”丹恒说。」 · 「“她绕了三条路。”」 · 「“近路不会往回走。”」"
+    himeko:
+      state: "Phong. Duy tri nhip: 'ca phe con nong, March ngoi cho vung, tiep tuc xem'; 'xem tiep di, chuyen con dai'; 'chuyen banh cuon doi xem xong roi tinh'. Khong tra loi cau nao ve nguoi ngoai khung. Phim: khong len hinh."
+      evidence: "「“咖啡还热着。三月，坐稳，我们接着看。”」 · 「“蛋糕卷的事，”姬子说，“等看完再算。往下吧。”」"
+    welt:
+      state: "Phong. 'Cu xem het': noi sau khi giong ngoai khung va Sunday sang tay; vet nut tren kinh DAI THEM mot doan (watch-frame, mac dinh moi chuong). Khong noi gi them. Phim: o khach san thuc, khong len hinh."
+      evidence: "「镜片边缘那道裂纹趁这一下又往里爬出一小截」 · 「“都看下去。”他说。」"
+    black-swan:
+      state: "Phong. Nhin Sunday mot hoi khi canh 'ba nguoi' tren phim (khong noi gi); nhin len tuong roi cui xuong khi Sampo ra. Khong phan ung ro ve nguoi ngoai khung hay Sampo (Kiem phong). Khong noi gi."
+      evidence: "「黑天鹅看着星期日，看了一阵，什么也没有说。」 · 「黑天鹅抬眼看了一下墙，又垂下去。」"
+    firefly:
+      state: "Phong. Lan dau thay minh tren phim (ga, Gallagher giai vay): che mat, cam on Stelle, tai do. Khi phim den canh Robin nap tren ban cong, nghieng nguoi ve phia truoc, tay len lung ghe Robin, hoi 'nguoi theo sau do la co a?'; Robin 'la toi'; Firefly 'o' roi quay lai tuong, khong hoi them. Phim: ga; dan Stelle di vong, mua banh cuon, 'moi ngay mot cai'; o cong vien doc tin nhan lau, nhin quanh; noi voi Stelle 'co nguoi bam theo'; Sampo buoc ra. Khong hien chu tin nhan; khong biet ai gui."
+      evidence: "「“那时候……真的，谢谢你。”」 · 「“那天……”她停了停，换了个更轻的问法，“跟在后面的那个，是你吗？”」 · 「“我叫流萤，鸢尾花家系的，在剧团里演配角。」 · 「她读得很慢，读了不止一遍。」 · 「“其实我一直带您绕路，是因为……有人在跟着我们。”」 · 「流萤把头埋得更低，耳朵红透了。」"
+    silver-wolf:
+      # Phien dat - chi mo ta hanh vi; KHONG ghi Soi Bac 'nhan ra' hay 'biet' dieu gi (Kiem phong).
+      state: "Phong, form thuong. Mat khong roi may choi game suot chuong, tru mot lan: ngon cai dung lai tren nut khi Firefly doc tin nhan tren phim, roi lai chay. Nhan xet Firefly: 'vai phu? Thoai khong it'. Phim: khong len hinh. KHONG ghi Soi Bac biet / nghi gi - xem AUREL (6)."
+      evidence: "「银狼的拇指停在了掌机的按键上。」 · 「银狼的眼睛没有离开掌机：“配角？台词倒不少。”」"
+    dahlia:
+      state: "Phong. Hang cuoi, im lang suot chuong; khong phan ung voi gi tren phim. Khong biet Robin chinh la nguoi theo (khong ai hoi), khong chinh sua. Khong noi gi."
+      evidence: "「后排，戴帽子的女士一直没有动，白手套和黑甲套叠在膝头，帽檐压得很低。」"
+    sampo:
+      # Chi tren phim; chua co note project / MAIN-DATABASE (xem new_entities).
+      state: "Phim. O cong vien Aideen buoc ra tu sau bon hoa, tu xung Sampo, chao Doan tau, noi Yarilo-VI noi lai duoc voi vu tru nho Doan tau, moi Stelle 'xem the gioi nguoi lon cua thanh pho'. Phong: Stelle, March nhan ra va cuoi; Black Swan, Soi Bac im (Kiem phong, Đ-12). KHONG ghi Sampo la ai khac."
+      evidence: "「“哎呀呀，可算见着了！”他嗓门洪亮，笑得很殷勤」 · 「“桑博，桑博在此！」"
+    gallagher:
+      state: "Phim. O ga, giai vay cho Stelle va Firefly, quo dan em: nhan chung tra mot thanh nien toc bac (khong phai khach); xin loi, di. Phong khong phan ung rieng. Khong ghi Gallagher la ai khac."
+      evidence: "「“我是加拉赫，猎犬家系的。」"
+
+  relationships:
+    # Khong doi con so (khong intimacy +/-). Ghi nhan cho nguoi viet tu cap nhat prose. Nguong 2 khong dem (khong Jason/Dazai/Tsuna tren trang).
+    robin-sunday:
+      # Plan: Sunday <-> Robin known_by Sunday: 'dem do nguoi ban lo cho giong Robin, anh khong'.
+      note: "Anh em (canon). Ch02: Robin phong khong tra loi Sunday ngay; Sunday dat tay len tay vin giua hai ghe (khong lap tieng), roi hoi coc nuoc. Robin 'noi do hong'; Sunday: dem do anh khong dua. Robin khong dap, nhin tay anh. Robin van chua noi vi sao dem do re; Sunday chua hoi."
+      evidence: "「星期日把一只手从膝头抬起来，放到两把椅子之间的扶手上，搁在那块手帕旁边。」 · 「“那天晚上，”他说，“我没有给过你。”」"
+    sunday-nguoi-do:
+      # Plan: quan he Sunday <-> 'nguoi do' known_by them ca phong: 'than, quen viec nho'. Khong ten, khong mat.
+      note: "Tren phim: Sunday doa vui voi nguoi di ben phai, giong long, cuoi mot tieng; nguoi kia tra 'chu thich de mai phat, toi nay nghi'. Ca phong thay quan he than (khong ten, khong giai thich). Chuong khong cho Sunday phong noi anh nho hay khong nho nguoi nay."
+      evidence: "「总比有人对着一个刚学会走路的客人，讲了半页讲义强。」 · 「“注脚明天再发。”」 · 「声音松得很，是对自己人才有的松法。」"
+    robin-nguoi-do:
+      note: "Tren phim: nguoi ben phai Sunday dua coc nuoc am cho Robin, khong noi gi; Robin nhan, uong hai ngum, tra lai, khong cam on - hai ben quen tay nhu viec van thuong. Robin phong KHONG nho coc; nho dem do chi co hai anh em. Robin nhan ra giong nay la giong cua not thap o ch01 (cung mot noi), khong suy ra ai."
+      evidence: "「右边伸过来一只手，手里托着一只小小的白瓷杯，杯口冒着细细的热气。」 · 「可她的记忆里没有杯子。」 · 「和上一幕她唱歌时沉进她嗓音底下的那个低音，对上了。」"
+    stelle-nguoi-do:
+      note: "Tren phim: Stelle dap giong ngoai khung nhu voi nguoi quen, khong nhin; sau do vay tay chao tam biet nguoi di xa, nhan lai mot tieng co cuoi. Ca phong thay Stelle quen nguoi nay. Stelle phong hoi 'coc o dau ra', March 'bien ra'."
+      evidence: "「她回话的口气，是熟到不必看人的口气。镜头没有转过去。」 · 「星把球棒夹在腋下，也举起手，使劲晃了晃，又扯开嗓子补了一句：“晚安啦！明天见！”」 · 「远处有一个声音回了她一个字。隔得太远，字听不清，只听得出里面带着笑。」"
+    robin-firefly:
+      # Plan: Robin <-> Firefly known_by Firefly: 'Robin la nguoi theo minh dem do' (Robin nhan trong phong).
+      note: "Firefly phong hoi, Robin xac nhan: nguoi theo sau dem do la Robin. Firefly chi 'o' roi quay lai tuong, khong hoi them. Ca phong da thay Robin nap tren ban cong va hanh lang tren phim (March noi ra); ai khong nghe cau tra loi thi 'la Robin' la dieu thay tren phim, khong phai nghe (xem AUREL (7))."
+      evidence: "「“那天……”她停了停，换了个更轻的问法，“跟在后面的那个，是你吗？”」 · 「“是我。”知更鸟说。」 · 「“哦。”流萤点点头，把脸转回墙上，没有再问。」 · 「三月七小声说：“她怎么跑到房顶上去了？”」"
+
+  timeline:
+    # Project chua co timeline/. Moc ghi cho nguoi viet.
+    a3-ch02-phong: "Ngay sau cuoi ch01: man tuong van sang, Stelle tap di o Gio Vang; 11 nguoi giu nguyen cho (Robin canh Sunday, Firefly cho Stelle, Soi Bac canh Firefly, Dahlia hang cuoi). Khong ai vao, khong ai ra. Vet nut kinh Welt dai them."
+    a3-ch02-phim: "Dem 2.0 (nhiem vu Sleepless Night / Tales from the Golden Age): Gio Vang -> ba nguoi di ve (Sunday, Robin, nguoi ngoai khung) -> Robin ra di mot minh -> cua hang Mong canh, bong bong Akivili -> ga, Firefly bi dan em nha Cho San duoi, Gallagher giai vay -> Firefly dan tham quan (Oti Mall, banh cuon Soi, tuong Clockie, Aideen) voi Robin theo xa tren mai / hanh lang -> cong vien Aideen, Firefly doc tin nhan, noi 'co nguoi bam theo', Sampo ra. Cac canh xep theo thu tu nhiem vu, canh 'ba nguoi' la phien dat (Đ-3)."
+
+  arcs: {}
+    # AUREL (3): arc 3 (arcs/dan-y-arc-3-tsuna-v2-cls) van proposed. Ch02 khong doi trang thai arc. MAC DINH: khong doi.
+
+  new_entities:
+    - "AUREL (4) Sampo, Gallagher, bac si Edward, Clockie chua co note canon (MAIN-DATABASE/HSR/characters/ khong co). Chi hien tren phim, vai nho. MAC DINH: khong lap note ngay; lap khi can (Sampo co the can truoc ch04+)."
+    - "AUREL (5) da xu ly 02/11 (phien dieu phoi): van doi thanh 「被星期日长袍的下摆遮着」 - vat ao la cua Sunday, khong phai dac diem nguoi ngoai khung."
+    - "AUREL (6) Soi Bac: ngon cai dung tren nut khi Firefly doc tin nhan (Đ-5). Co the doc la 'biet ai gui tin nhan' (Kiem phong: khong doi), hoac chi nhip. MAC DINH: khong ghi Soi Bac biet / nghi gi; chi ghi hanh vi. Khong doi gi o secrets/."
+    - "AUREL (7) Ai nghe 「是我」: Firefly hoi nho, Stelle nghieng dau, March keo tay ao; chuong khong noi Sunday, Dahlia, Black Swan nghe. MAC DINH: chi Firefly va Robin chac chan; Cac nguoi con lai 'da thay Robin nap tren ban cong tren phim' (tu thay, khong tu nghe). Sunday: ghi 'da thay tren phim', khong khang dinh biet tu truoc (watch-frame)."
+    - "AUREL (8) Phien dat, khong canon: coc nuoc am (2.02), cau 「我没有给过你。」 (moc cuoi; Sunday noi 「那天晚上，」 roi 「我没有给过你。」 tach hai nhip), giong Dan Heng cho bong bong Akivili, nhanh banh cuon 03, huy hieu Doan tau, 「配角？台词倒不少」 (N3, mac dinh an toan). MAC DINH: giu het; neu doi, giu y 'viec nho lap lai ma Sunday khong lam' va khong bi kich hoa (C4)."
+    - "AUREL (9) Tieng 'xa' dap lai Stelle (远处有一个声音回了她一个字): chuong khong noi ro la nguoi thu ba hay ai khac. MAC DINH: coi la nguoi thu ba (tay vua gio len; khong ten, khong mat)."
+    - "Khong co note moi can tao tu delta ngoai (4); Penacony-npc-ngoai-hinh.md va Robin.md (MAIN-DATABASE) da co tu phien truoc, khong thuoc delta."
+
+  bookkeeping:
+    - "ch02-chapter.md (arc 3): status draft -> final (sau duyet). 6.263 chu Han (so cua soat mach ch02-review.md)."
+    - "Secrets: KHONG dung. changes.secrets de trong; ba note secret khong doi known_by / suspected_by / unknown_to. Ly do trong khoi chu thich dau file va AUREL (2)."
+    - "Hook: h-nguoi-do giu open (khong tra), can sua tay bang Tien do. tien-do-ba-arc.md: ghi arc 3 ch02 (sua tay)."
+    - "Vet nut kinh Welt: dai them mot doan (mac dinh watch-frame)."
+    - "Rang buoc ngoai hinh cho ch03 (q-arc-3-ngoai-hinh-tsuna): cao thap hon Sunday nua cai dau; tay khong gang, khong nhan; di ben phai Sunday, gio tay chao khong quay lai. Toc, mat, mau ao de trong."
+    - "Cho Aurel (khong chan): AUREL (1)-(9) o tren."
+    - "Diem tro sang ch03: nguoi ngoai khung co giong cau dai, dang (thap hon Sunday nua cai dau), ban tay; Robin nho dem do chi co hai anh em; Sunday noi dem do anh khong dua coc; Gia toc / ung vien (h-ung-vien-gia-toc) tra o ch3."
+    - "AUREL (2): secrets/ - MAC DINH: khong dung, khong them suspected_by cho ai (Robin, March, Stelle noi giong voi giong, khong ten). Neu Aurel coi 'phong nhan ra cung mot nguoi qua giong o arc 2 va arc 3' la mot muc nghi, de xuat rieng; delta nay khong tu quyet."

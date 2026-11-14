@@ -1,0 +1,55 @@
+﻿# PPCT ch20 — số đo bản nháp tiếng Trung, 20/09/2026
+# Nguồn: script đếm chữ Hán trong scratchpad (ch_metrics.py), KHÔNG phải style_metrics.py (L26).
+chapter: 20
+file: ch20-chapter.md
+language: zh
+mode: doi_thuong
+status: final
+measured_at: 2026-09-20  # do lai sau write-chapter Mode 3 (sua #1-#5, S1-S3)
+measured_by: han-char-script
+chapter_targets:  # chi tieu rieng ch20 (che do doi thuong), duyet 20/09
+  dialogue_ratio: [0.45, 0.65]
+  han_per_paragraph_mean: [35, 55]
+  sentence_han_median: [17, 20]
+  terms_per_1000_min: null
+body:
+  han_chars: 2363
+  dialogue_han: 1064
+  dialogue_ratio: 0.450
+  paragraphs: 54
+  han_per_paragraph_mean: 43.8
+  paragraphs_ge_100_han_ratio: 0.0
+  sentences_ge_50_han_ratio: 0.008
+  sentence_han_median: 17  # trong dai 17-20; so 16 truoc do la do truoc 2 cau thoai cuoi (L37)
+  sentences_le_4_han_per_1000: 5.08
+  paragraphs_with_dialogue_ratio: 0.815   # nguyen tac doi thuong 0.636-0.769
+  bare_dialogue_paragraph_ratio: 0.0      # doan chi co thoai, khong co chu ke nao
+per_1000_han:
+  question_mark: 6.35
+  exclamation: 2.12
+  ellipsis: 1.69
+  em_dash_pair: 1.69
+  terms: 5.92
+term_hits: {圣杯: 3, 英灵: 2, 魔力: 3, 令咒: 1, 彭格列: 2, 黑手党: 1, 直觉: 2}
+eye_motif: 1
+net_slang: 2  # 摆烂, 真香 — tran 2
+hard_rules:
+  corner_brackets: 0
+  first_person_outside_quotes: 0
+  kaomoji: 0
+  fan_continuation_notice: true
+author_note_han: 60
+first_draft:  # do truoc cac luot sua trong write-chapter
+  han_chars: 1538
+  dialogue_ratio: 0.321
+  han_per_paragraph_mean: 20.5
+  sentences_le_4_han_per_1000: 15.6
+accepted_by_aurel: [dialogue_ratio, eye_motif]  # Aurel chap nhan 20/09: thoai dung san 45.0%, motif mat 1
+measurement_note: >
+  Chi so "bare_dialogue_paragraph_ratio" o ban review dau (0.618) la SAI —
+  script dem moi doan mo dau va ket thuc bang ngoac kep la "thoai tro",
+  nen doan co tag o giua cung bi tinh. Do lai dung dinh nghia: ch20 0%,
+  ch19 14.5%, ch18 18.3%; nguyen tac ch1 23.3%, ch3 11.5%, ch4 9.1%.
+style_metrics_py:
+  valid: false
+  reason: "khong dem duoc chu Han — nhat-ky-loi-lam-viec L26"

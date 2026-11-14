@@ -1,0 +1,115 @@
+﻿# State delta — EMB / arc Child / Ch2 (POV Tsuna toan chuong)
+# TRANG THAI: proposed — CHUA commit.
+#
+# ⚠️ Bai hoc tu tam delta truoc, da ap dung:
+#   1. KHONG dung khoi '>'.  2. KHONG khai 'status' cho hook khong doi.
+#   3. state_apply KHONG go duoc suspected_by / unknown_to — phai go tay.
+#   4. 🔴 L37: resolver uu tien ALIAS hon TEN FILE. Da kiem tung key bang ls.
+#   5. 🔴 H1/H2/M1-M4 DA SUA TAY o buoc check-continuity. Khong khai lai.
+
+chapter: child-ch2
+status: committed
+committed_at: 2026-09-20
+project: EMB
+branch: aurel-main
+
+changes:
+
+  # ================================================================ BI MAT
+  secrets:
+    tsuna-am-tinh-tren-giay:
+      evidence: "KHONG CO. Chuong nay khong dung toi to giay ay mot lan nao."
+      aurel_A: "🔴 KHONG doi gi. Khai o day de ghi rang da kiem chu khong phai da quen: khong ai moi biet, khong ai moi nghi, va chuong khong vien dan no."
+      aurel_B: "⚠️ NHUNG co mot dieu dang ghi vao than note: Vendicare goi Tsuna la 'the Sky of Namimori' TREN VAN BAN. To giay am tinh che cau trong cac so Nhat; no chua bao gio che cau o phia kia. De xuat mot dong trong muc 'gioi han'."
+
+  # ================================================================ NHAN VAT
+  characters:
+
+    tsuna:
+      state_add: "🔴 DA KY MOT CAM KHOAN CUA VENDICARE. Warden tra loi sau MUOI TUAN (cau uoc bon). Dieu khoan hai: khong lay tien, hang, dich vu hay thong tin — 'khong ban viec doc mot quyen sach'. Dieu khoan bon: 'the enquirer will not himself recover the child', khong di, khong sai, khong sap xep, khong la ban tay; neu dua tre TU TOI thi khong phai viec cua cau. Han: cho toi khi dieu khoan hai cua la thu cu duoc quyet, va Warden KHONG dat ngay. Cau ky bang bon chu: Agreed. I will not go."
+      evidence: "He has charged me in permission. / He has not taken one thing I own. He has taken something I am allowed to do. / Agreed. I will not go."
+      aurel_C: "🔴 VA DAY LA CHO DOI NHAN VAT: cau chuan bi bon loai tien suot hai thang (tien, dich vu, thong tin, va CAI TEN) va khong tieu duoc loai nao. Cai cau mat la mot QUYEN, va cau tu noi rang cau khong co ngan nao trong dau cho loai tien ay."
+      aurel_D: "⚠️ Cau tim ra 'room' trong chu himself va trong dong thu nam TRONG chin muoi giay, va TU CHAN minh lai. Do la lan dau tren trang cau lam the."
+      aurel_E: "🔵 Do lai loi: crux dung cho, soulscape CHIN BUOC (khop brat-ch3-chapter, 11 -> 9), Flame di dau o day. Do hang thang, theo loi Kawahira."
+
+    musashi:
+      state_add: "BAY MUOI LAM — sinh nhat 14 thang Muoi Hai. 🔴 Ba HOI cau ba cau thu tuc roi hoi cau thu tu la MOT CAU HOI THAT: 'co muon dua no vao file khong'. Ba quyet KHONG dua vao file, vi file la de cho nhung viec file lam duoc gi do, va cam khoan ay khong tao nghia vu lan khong go bo che cho nao cua thi tran. Khi nao co viec file lam duoc thi vao NGAY HOM AY, voi ngay ky that."
+      evidence: "Three questions. / Do you want it in the file? / There is nothing in that instrument that the file can act upon."
+      aurel_F: "🔴 Ba KHONG mang, va ba noi thang ly do: 'neu ta lam dem nay dat do, thi lan sau con se can viec ke voi cai gia cua viec ke'. Do la mot phep tinh, ba goi thang no la mot phep tinh."
+      aurel_G: "🔵 Va cau cuoi cua ba la MOT LOI DE NGHI, khong phai mot menh lenh: 'Hoi ta truoc, lan sau. Khong phai vi ta se ngan con.' Ba ngoi trong phong ay toi ba ru sang."
+
+    kyouya:
+      state_add: "MUOI TUOI. Ban Ky luat len BON MUOI nguoi va het bang tay; lo bang tay moi sai mau trang mot chut va viec ay thanh vinh vien. 🔴 Cau xu mot Vindice bang DUNG QUY TRINH DANH CHO KHACH, vi khong co quy trinh nao khac, va cau chi co mot cau hoi: 'han o lai khong'."
+      evidence: "Is he staying? / He has not said, Getsufuji. / Then ask him."
+
+    ayame:
+      state_add: "Chay bien gioi phia bac. Cho ghi ten nguoi dua tin vao so khach theo CAI MU, vi han khong cho ten, va cho SAO SO AY HAI BAN — mot vao kho luu tru den, mot dua cho dua tre da viet no. Va ba la nguoi bao Nagi ghi ngay len khung cua."
+      evidence: "Put the hat. / Ayame had it copied twice that same week."
+
+    nagi:
+      state_add: "SAU TUOI. 🔴 Gen'ei cua co be BAT LEN KHONG CHU Y lan dau, phu kin mai den, khi mot Vindice dung o bien gioi. ⚠️ Thang Chin co be da keo duoc CO Y cho khan gia; day la mot buoc NGUOC, va no la mot lua chon: moi de doa that thi khac mot bai tap."
+      evidence: "her Gen'ei had gone up over the shrine roof without her asking it to / it went up by itself!"
+
+    aldo-ferri:
+      state_add: "Da o han. Nhan phong nho sau van phong den. Xin lam so sach tuan thu hai; Ayame tu choi roi nghi chin ngay roi dong y. Hoi xem chu nao la ong va duoc tra loi la KHONG CHU NAO, va ong thay do la mot tin vui. Mua xuan sau moi biet co hai nha thoi noi chuyen voi nha da bo phieu chong; ong toi ngoi mot tieng trong tiem nha ay va mua nhung thu khong can."
+      evidence: "In thirty-one years nobody has ever told me I was nothing. Nothing at all! It is restful."
+
+    kawahira:
+      state_add: "Da bao Tsuna DO LOI HANG THANG. Khong len trang trong chuong nay."
+      evidence: "He measured the core on the first Sunday of every month, because Kawahira had told him to"
+
+    tomoko:
+      state_add: "🔴 SU KIEN LON, VA BA KHONG BIET AI DA BIET. Thang Hai tam nam truoc, SAU TUAN sau khi vao Namimori, ba hoi Vendicare ve dua tre Saint-Exavier va DE NGHI CA QUYEN SO CUA MINH — toan bo danh sach khach hang. Bi tra loi NOT ACCEPTED. NO PERFORMANCE POSSIBLE. Do la loi de nghi LON NHAT tung co ai dat cho dong ay, lon hon ca con so du mua mot day pho cua chinh nha Saint-Exavier."
+      evidence: "OFFERED: THE WHOLE OF HER BOOK. / NOT ACCEPTED. NO PERFORMANCE POSSIBLE."
+      aurel_H: "⚠️ Ba KHONG xuat hien trong chuong. Muc nay la mot su that ve ba duoc lo ra qua mot to giay, va Tsuna la nguoi duy nhat tren doi dang giu ca to giay lan ten ba."
+
+  # ================================================================ QUAN HE
+  relationships:
+    tsuna--musashi:
+      state_add: "🔴 Doi. Cau mat BON TIENG moi di toi cua phong ba, roi bao cao muoi mot phut khong noi mot chu nao. Ba khong mang, va ba giai thich vi sao bang mot phep tinh. Va ba ket bang mot LOI DE NGHI ma cau co the tu choi — cau tu ghi nhan rang khong ai lam the voi cau ke tu nam cau bon muoi."
+      evidence: "Ask me before, next time. Not because I will stop you, because I will not and we both know it. Because I should like to have been asked."
+      aurel_I: "🔵 Day la nguoi thu hai cua loi C trong arc nay (nguoi thu nhat la Genichi o Ch1), va cho no hien ra la BA KHONG MANG."
+
+  # ================================================================ HOOK
+  hooks:
+    hook-bermuda-to-mo:
+      state_add: "🔴 DA TRA LOI, VA DA RA GIA. Mot Vindice khong ten dung o bia da bac BON MUOI PHUT trong mua tuyet; bay nha de tay tren bond ca bon muoi phut va KHONG AI KEO. Warden khong lay gi (dieu khoan hai) va tinh tien bang MOT CAM KHOAN (dieu khoan bon). 🔴 Dieu khoan ba vien dan la thu thang Bay muoi tam thang truoc va ghi: THE SECOND CLAUSE REMAINS UNDER CONSIDERATION. Noi dung dieu khoan hai VAN KHONG DUOC NEU."
+      evidence: "The Warden has answered. There are terms. / The second clause remains under consideration. / The Warden sets no date."
+
+    hook-dua-tre-saint-exavier:
+      state_add: "🔴 TIM RA DONG SO, VA NO KHONG DONG HOOK. Sau cot: TAKEN FROM BY DATE RETURNED NOTE. Bon cot dau da dien, ben lay la nha Estraneo. Cot RETURNED DE TRONG va duoc GIU TRONG — tam nam ghi chu ben le, mo ra chin lan, khong lan nao ai viet chu cho phep dong lai. Cot NOTE ghi BON lan hoi trong tam nam, xep theo HANG chu khong theo thoi gian. 🔴 Va dua tre KHONG nam trong so nhap Estraneo: Tsuna da dem nam muoi mot dua hai lan, no khong o trong do, vi no chua bao gio duoc dinh liet ke nhu mot dua tre."
+      evidence: "He is not lost. He is outstanding. / The Estraneo entered fifty-one children in a book and did not enter him."
+
+  # ================================================================ MOC THOI GIAN
+  timeline:
+    - when: "dem Chu Nhat dau thang Muoi Mot, Tsuna 8"
+      what: "La thu thu hai di. Sau do KHONG CO GI trong muoi tuan — cau uoc bon."
+    - when: "thang Muoi Mot"
+      what: "Ferri o han; lam so sach den tu tuan thu hai. Hai nha thoi noi chuyen voi nha bo phieu chong; Musashi dep trong mot ngay."
+    - when: "dau thang Muoi Hai"
+      what: "Ban Ky luat len BON MUOI nguoi. Khung hoang bang tay chin ngay. Bang tay moi sai mau va thanh vinh vien."
+    - when: "14 thang Muoi Hai"
+      what: "Musashi tron BAY MUOI LAM."
+    - when: "🔴 8 thang Mot, 14:09"
+      what: "Mot Vindice dung o bia da bac BON MUOI PHUT. Bay nha khong keo bond. So khach ghi ten han theo CAI MU. Tsuna nhan dieu khoan va KY trong dem."
+    - when: "cung dem 8 thang Mot"
+      what: "🔴 Cau bao cao voi Musashi sau bon tieng. Ba quyet KHONG dua cam khoan vao file."
+    - when: "17 thang Mot"
+      what: "Dong so toi qua cua so, khong nguoi dua, khong thoi tiet. Mot to, sau cot, muoi mot muc."
+    - when: "11 thang Mot"
+      what: "🔴 Tsuna quyet TRA to giay cho Tomoko — khong phai sai ba di, ma tra lai thu ba da co tra tien mua. Chua di trong dem ay."
+
+  # ================================================================ ARC
+  arcs:
+    child-dan-y:
+      state_add: "🔴 Ch2 DA VIET, 10.253 tu. Bon cong di dung ban chot. Con Ch3 (nha tu te + cap song sinh + Tomoko lo mat) va Ch4 (dua tre + tin Cradle). ⚠️ Ch3 gio co CHAN DE san: Tomoko da hoi Vendicare tam nam truoc va bi tu choi, va Tsuna dang giu dung to giay ay."
+      evidence: "Giving a person the thing they already tried to pay for is not arranging. It is returning."
+
+  # ================================================================ THUC THE MOI
+  new_entities:
+    - id: emb-chot-cam-khoan-vendicare
+      note: "🔴 CAN NOTE decision. Cam khoan la thu se chi phoi ca Ch3 lan Ch4 lan cach doc doan dong arc (Cradle: biet ma khong dong). Can ghi ro: noi dung bon dieu khoan, cai 'room' o chu himself, va lan can 'dua tre TU TOI thi khong pham'. De xuat: CO."
+    - id: tsuna--tomoko
+      note: "🔵 Chua co note quan he nay. Gio no chiu luc: cau giu to giay ba da co mua, va Ch3 dung tren do. De xuat: CO, dung TRUOC khi viet Ch3."
+    - id: nguoi-dua-tin-vendicare
+      note: "⛔ De xuat KHONG. Han khong co ten, khong co thoai ngoai ba cau, va canon nhan dang Vindice bang mu va co ao chu khong bang ten. Mot note se lam han thanh mot nhan vat, va cai dang gia la han KHONG phai."

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trạm Dịch</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%237aa2f7'/%3E%3Ctext x='32' y='44' font-size='32' font-family='Georgia,serif' font-weight='bold' fill='%231a1b26' text-anchor='middle'%3ETĐ%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+<script>
+  // app theme before first paint, so a light theme does not flash dark
+  try { const t = JSON.parse(localStorage.getItem('td_app_theme') || '"tokyo"'); if (t && t !== 'tokyo') document.documentElement.dataset.theme = t; } catch {}
+  if (document.documentElement.dataset.theme && !['than-am'].includes(document.documentElement.dataset.theme)) document.documentElement.dataset.light = '';
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main" onclick="event.preventDefault();document.getElementById('main').focus()">Bỏ qua tới nội dung</a>
+<div class="shell">
+  <aside class="sidebar" id="sidebar" aria-label="Thanh bên">
+    <a class="brand" href="#/">
+      <span class="brand-mark">TĐ</span>
+      <span><b>Trạm Dịch</b><small>zh · en → vi</small></span>
+    </a>
+    <nav class="nav" aria-label="Trang">
+      <a href="#/" data-nav="library"><svg viewBox="0 0 24 24"><path d="M4 4h4v16H4zM10 4h4v16h-4zM16 5l3.5-1 2 15.5-3.5 1z"/></svg><span>Thư viện</span><span class="count" id="nav-total"></span></a>
+      <a href="#/vault" data-nav="vault"><svg viewBox="0 0 24 24"><path d="M3 6.5A1.5 1.5 0 0 1 4.5 5H9l2 2.5h8.5A1.5 1.5 0 0 1 21 9v9.5a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 3 18.5z"/></svg><span>Mở từ vault</span></a>
+      <a href="#/quick" data-nav="quick"><svg viewBox="0 0 24 24"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg><span>Dịch nhanh</span></a>
+      <a href="#/names" data-nav="names"><svg viewBox="0 0 24 24"><path d="M3 12V4h8l10 10-8 8z"/><circle cx="7.5" cy="8.5" r="1.3"/></svg><span>Tên riêng</span></a>
+      <a href="#/settings" data-nav="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2 12h3M19 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg><span>Cài đặt</span></a>
+    </nav>
+    <div class="side-section">
+      <div class="side-head"><span>Tủ sách</span><button class="icon-btn add-btn" id="add-shelf" title="Tạo tủ mới" aria-label="Tạo tủ mới">＋</button></div>
+      <div id="shelf-list"></div>
+    </div>
+    <div class="side-section">
+      <div class="side-head"><span>Tag</span><button class="link-btn" id="tag-more" hidden>Xem hết</button></div>
+      <div id="tag-list" class="tag-cloud"></div>
+    </div>
+    <div class="side-foot"><span class="live-dot"></span><span>Đang chạy · <span id="side-host"></span><br><span class="muted" title="Trạm Dịch chỉ đọc vault; mọi thứ ghi vào vault đi qua gate của vault">Vault: chỉ đọc</span></span></div>
+  </aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+<div id="jobs" class="jobs" aria-label="Việc đang dịch"></div>
+<div id="toasts" class="toasts" aria-live="polite"></div>
+<script src="vnspell.js"></script>
+<script src="desk.js"></script>
+<script src="app.js"></script>
+<script src="tts.js"></script>
+</body>
+</html>
