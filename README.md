@@ -33,7 +33,7 @@ Start from `_EVASION-MOC.md`, then `01_Oeuvre/_OEUVRE-MOC.md`.
 ## What is not here
 
 - Book files (`.epub`, `.txt`, `.html`). The library itself is kept in cloud storage; this repository holds the reader and its settings.
-- The Nexus database (`library.db`), its dictionaries and staging files. They change while the app runs and are backed up separately.
+- The Nexus dictionaries and staging files. They are large or temporary and are backed up separately. The Nexus database (`03_Subsystems/Nexus/data/library.db`) is in the repository; commit it with the app closed.
 - The vault's contract, schema and checking tools. Links such as `[[AGENTS]]` or `[[09-gates]]` point to notes of the private vault and do not resolve here.
 
 ## Sources and credit

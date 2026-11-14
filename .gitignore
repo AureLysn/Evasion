@@ -16,6 +16,8 @@ desktop.ini
 # The three dictionaries: VP.json is 68 MB, over GitHub's 50 MB warning line
 03_Subsystems/Verba/zh_to_vi/*.json
 03_Subsystems/Nexus/data/dicts/
-# The writing database changes whenever Nexus is open
-03_Subsystems/Nexus/data/library.db*
+# The writing database library.db is tracked (commit it with Nexus closed); its runtime side files and old copies are not
+03_Subsystems/Nexus/data/library.db-shm
+03_Subsystems/Nexus/data/library.db-wal
+03_Subsystems/Nexus/data/library.db.bak-*
 03_Subsystems/Nexus/data/staging/
