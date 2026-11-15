@@ -3237,6 +3237,10 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/04_Manuscript/chapters/arc-6/ch42/scenes/01-ch42-ye-li.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/irisviel-binh-chua-chi-he-qua-tsuna.md"
   ],
+  "tsuna phuc hung lampmoth": [
+   "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261114-thu-huong-lampmoth.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/structure/de-xuat-tsuna-phuc-hung-lampmoth.md"
+  ],
   "tsuna reborn": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/relationships/tsuna--reborn-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/relationships/tsuna--reborn-hnqt.md"
@@ -4146,8 +4150,8 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/world-rules/fact-he-thong-hac-nguyet-quang-hnqt.md"
   ]
  },
- "built": "2026-11-14",
- "count": 2333,
+ "built": "2026-11-15",
+ "count": 2359,
  "missing_aliases": [],
  "notes": [
   {
@@ -10829,7 +10833,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1249
+   "words": 1405
   },
   {
    "aliases": [
@@ -25792,6 +25796,43 @@
   },
   {
    "aliases": [
+    "quy trinh nhieu model",
+    "quy trình nhiều model",
+    "DeepSeek GPT Gemini trong day chuyen",
+    "model ngoai viet Claude kiem",
+    "multi-model pipeline CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "note.CLS.de-xuat-quy-trinh-nhieu-model",
+   "keys": [
+    "de xuat quy trinh nhieu model",
+    "deepseek gpt gemini trong day chuyen",
+    "model ngoai viet claude kiem",
+    "multi model pipeline cls",
+    "note cls de xuat quy trinh nhieu model",
+    "quy trinh nhieu model",
+    "quy trình nhiều model"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/00_Overview/de-xuat-quy-trinh-nhieu-model.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 590
+  },
+  {
+   "aliases": [
     "# Drop Point",
     "Drop Point",
     "drop-point",
@@ -25856,7 +25897,7 @@
     "p/personal"
    ],
    "type": "note",
-   "words": 6991
+   "words": 7040
   },
   {
    "aliases": [
@@ -28309,6 +28350,190 @@
   },
   {
    "aliases": [
+    "chat deepseek CLS",
+    "dan y dong nhan HSR deepseek",
+    "Dàn ý đồng nhân HSR",
+    "Sunday van len tau",
+    "hoang kim due ket ban sau ha man",
+    "biet danh dong vat",
+    "tho hac mieu chim co do"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.9,
+   "id": "source.CLS.20261114-chat-deepseek-dan-y-dong-nhan",
+   "keys": [
+    "20261114 chat deepseek dan y dong nhan",
+    "biet danh dong vat",
+    "chat deepseek cls",
+    "dan y dong nhan hsr",
+    "dan y dong nhan hsr deepseek",
+    "dàn ý đồng nhân hsr",
+    "hoang kim due ket ban sau ha man",
+    "source cls 20261114 chat deepseek dan y dong nhan",
+    "sunday van len tau",
+    "tho hac mieu chim co do"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-14",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261114-chat-deepseek-dan-y-dong-nhan.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 968
+  },
+  {
+   "aliases": [
+    "thu huong Lampmoth",
+    "thử hướng Lampmoth",
+    "Tsuna phuc hung Lampmoth",
+    "Gia Toc Lampmoth Tsuna",
+    "灯蛾 Tsuna"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.9,
+   "id": "source.CLS.20261114-thu-huong-lampmoth",
+   "keys": [
+    "20261114 thu huong lampmoth",
+    "gia toc lampmoth tsuna",
+    "source cls 20261114 thu huong lampmoth",
+    "thu huong lampmoth",
+    "thử hướng lampmoth",
+    "tsuna phuc hung lampmoth",
+    "灯蛾 tsuna"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-14",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261114-thu-huong-lampmoth.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 129
+  },
+  {
+   "aliases": [
+    "ung vien la Lampmoth",
+    "ứng viên là Lampmoth",
+    "chot ung vien Gia toc",
+    "Gia toc tim ung vien thap lai Lampmoth"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.95,
+   "id": "source.CLS.20261114-ung-vien-la-lampmoth",
+   "keys": [
+    "20261114 ung vien la lampmoth",
+    "chot ung vien gia toc",
+    "gia toc tim ung vien thap lai lampmoth",
+    "source cls 20261114 ung vien la lampmoth",
+    "ung vien la lampmoth",
+    "ứng viên là lampmoth"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-14",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261114-ung-vien-la-lampmoth.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 902
+  },
+  {
+   "aliases": [
+    "Jason tuyen an Planarcadia",
+    "Jason tuyến ẩn Planarcadia",
+    "Jason khong lam tro li",
+    "sua arc Jason 15/11"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.95,
+   "id": "source.CLS.20261115-jason-tuyen-an-planarcadia",
+   "keys": [
+    "20261115 jason tuyen an planarcadia",
+    "jason khong lam tro li",
+    "jason tuyen an planarcadia",
+    "jason tuyến ẩn planarcadia",
+    "source cls 20261115 jason tuyen an planarcadia",
+    "sua arc jason 15 11"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261115-jason-tuyen-an-planarcadia.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 337
+  },
+  {
+   "aliases": [
+    "quy trinh ba model",
+    "quy trình ba model",
+    "Claude len ke hoach DeepSeek viet GPT kiem",
+    "chot quy trinh nhieu model"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.95,
+   "id": "source.CLS.20261115-quy-trinh-ba-model",
+   "keys": [
+    "20261115 quy trinh ba model",
+    "chot quy trinh nhieu model",
+    "claude len ke hoach deepseek viet gpt kiem",
+    "quy trinh ba model",
+    "quy trình ba model",
+    "source cls 20261115 quy trinh ba model"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261115-quy-trinh-ba-model.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 109
+  },
+  {
+   "aliases": [
     "Akutagawa",
     "Akutagawa Ryūnosuke",
     "Akutagawa Ryunosuke",
@@ -29236,6 +29461,41 @@
   },
   {
    "aliases": [
+    "sua arc 1 theo deepseek",
+    "sửa arc 1 theo DeepSeek",
+    "arc 1 ban 6 CLS",
+    "ke hoach sua arc Jason 15/11"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "arc.CLS.arc-1-sua-theo-deepseek-20261115",
+   "keys": [
+    "arc 1 ban 6 cls",
+    "arc 1 sua theo deepseek 20261115",
+    "arc cls arc 1 sua theo deepseek 20261115",
+    "ke hoach sua arc jason 15 11",
+    "sua arc 1 theo deepseek",
+    "sửa arc 1 theo deepseek"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/arcs/arc-1-sua-theo-deepseek-20261115.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "arc",
+   "words": 626
+  },
+  {
+   "aliases": [
     "dai cuong tong CLS",
     "đại cương tổng CLS",
     "dan y tong quat CLS",
@@ -29309,7 +29569,7 @@
     "p/personal"
    ],
    "type": "arc",
-   "words": 1298
+   "words": 1340
   },
   {
    "aliases": [
@@ -29534,6 +29794,43 @@
   },
   {
    "aliases": [
+    "dan y arc 1 CLS ban 6",
+    "dàn ý arc 1 CLS bản 6",
+    "Jason mat luoi",
+    "Jason mắt lưới",
+    "arc 1 tuyen an Jason"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.55,
+   "id": "arc.CLS.dan-y-arc-1-jason-v6-cls",
+   "keys": [
+    "arc 1 tuyen an jason",
+    "arc cls dan y arc 1 jason v6 cls",
+    "dan y arc 1 cls ban 6",
+    "dan y arc 1 jason v6 cls",
+    "dàn ý arc 1 cls bản 6",
+    "jason mat luoi",
+    "jason mắt lưới"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/arcs/dan-y-arc-1-jason-v6-cls.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "arc",
+   "words": 1579
+  },
+  {
+   "aliases": [
     "dan y arc 2 CLS",
     "dàn ý arc 2 CLS",
     "arc 2 Dazai Amphoreus",
@@ -29734,6 +30031,200 @@
    ],
    "type": "arc",
    "words": 1920
+  },
+  {
+   "aliases": [
+    "de bai deepseek arc 1",
+    "đề bài DeepSeek arc 1",
+    "goi boi canh deepseek arc 1"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "note.CLS.de-bai-deepseek-dan-y-arc-1",
+   "keys": [
+    "de bai deepseek arc 1",
+    "de bai deepseek dan y arc 1",
+    "goi boi canh deepseek arc 1",
+    "note cls de bai deepseek dan y arc 1",
+    "đề bài deepseek arc 1"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/arcs/rewrite-20261115/de-bai-deepseek-dan-y-arc-1.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 1150
+  },
+  {
+   "aliases": [
+    "gpt nhan xet ch1-3",
+    "GPT nhận xét ch1–3 bản 6",
+    "beta reader GPT CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "note.CLS.gpt-nhan-xet-ch1-3-ban-6",
+   "keys": [
+    "beta reader gpt cls",
+    "gpt nhan xet ch1 3",
+    "gpt nhan xet ch1 3 ban 6",
+    "gpt nhan xet ch1–3 ban 6",
+    "gpt nhận xét ch1–3 bản 6",
+    "note cls gpt nhan xet ch1 3 ban 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/arcs/rewrite-20261115/gpt-nhan-xet-ch1-3-ban-6.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 1778
+  },
+  {
+   "aliases": [
+    "kiem dan y deepseek arc 1",
+    "kiểm dàn ý DeepSeek arc 1",
+    "Jason mat luoi Shuhu",
+    "Jason tuyen an mat luoi"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "note.CLS.kiem-dan-y-deepseek-arc-1-luot-1",
+   "keys": [
+    "jason mat luoi shuhu",
+    "jason tuyen an mat luoi",
+    "kiem dan y deepseek arc 1",
+    "kiem dan y deepseek arc 1 luot 1",
+    "kiểm dàn ý deepseek arc 1",
+    "note cls kiem dan y deepseek arc 1 luot 1"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/arcs/rewrite-20261115/kiem-dan-y-deepseek-arc-1-luot-1.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 1070
+  },
+  {
+   "aliases": [
+    "Tsuna phuc hung Lampmoth",
+    "Tsuna phục hưng Lampmoth",
+    "Gia Toc Lampmoth CLS",
+    "灯蛾 CLS",
+    "ung vien cho viec gi",
+    "nha lai co sau nguoi",
+    "ghe thu sau Gia toc",
+    "Tsuna chuong quan Gia toc",
+    "Tsuna chưởng quản Gia tộc",
+    "hai bac Tsuna Gia toc",
+    "Dai gia chu",
+    "Đại gia chủ",
+    "Tsuna Dai gia chu"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "structure.CLS.de-xuat-tsuna-phuc-hung-lampmoth",
+   "keys": [
+    "dai gia chu",
+    "de xuat tsuna phuc hung lampmoth",
+    "ghe thu sau gia toc",
+    "gia toc lampmoth cls",
+    "hai bac tsuna gia toc",
+    "nha lai co sau nguoi",
+    "structure cls de xuat tsuna phuc hung lampmoth",
+    "tsuna chuong quan gia toc",
+    "tsuna chưởng quản gia tộc",
+    "tsuna dai gia chu",
+    "tsuna phuc hung lampmoth",
+    "tsuna phục hưng lampmoth",
+    "ung vien cho viec gi",
+    "đại gia chủ",
+    "灯蛾 cls"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-14",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/structure/de-xuat-tsuna-phuc-hung-lampmoth.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 1267
+  },
+  {
+   "aliases": [
+    "doi chieu deepseek",
+    "đối chiếu DeepSeek",
+    "de xuat cai thien cot truyen CLS 14/11",
+    "Tam trong hoi huong",
+    "三重回响",
+    "y lay tu chat deepseek"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "structure.CLS.doi-chieu-deepseek-20261114",
+   "keys": [
+    "de xuat cai thien cot truyen cls 14 11",
+    "doi chieu deepseek",
+    "doi chieu deepseek 20261114",
+    "structure cls doi chieu deepseek 20261114",
+    "tam trong hoi huong",
+    "y lay tu chat deepseek",
+    "đối chiếu deepseek",
+    "三重回响"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-14",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/structure/doi-chieu-deepseek-20261114.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 2420
   },
   {
    "aliases": [
@@ -30149,7 +30640,8 @@
    "aliases": [
     "h ung vien gia toc",
     "ung vien cua Gia toc",
-    "ứng viên của Gia tộc"
+    "ứng viên của Gia tộc",
+    "ung vien Lampmoth"
    ],
    "always_load": false,
    "authority": "ai",
@@ -30160,6 +30652,7 @@
     "h ung vien gia toc",
     "hook cls h ung vien gia toc",
     "ung vien cua gia toc",
+    "ung vien lampmoth",
     "ứng viên của gia tộc"
    ],
    "lane": "personal",
@@ -30171,7 +30664,7 @@
    "strength": "",
    "tags": [],
    "type": "hook",
-   "words": 215
+   "words": 305
   },
   {
    "aliases": [
@@ -30321,6 +30814,106 @@
    ],
    "type": "info",
    "words": 446
+  },
+  {
+   "aliases": [
+    "kiem ch01 ban 6",
+    "kiểm ch01 bản 6",
+    "ch01 v6 review"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "note.CLS.ch01-v6-kiem",
+   "keys": [
+    "ch01 v6 kiem",
+    "ch01 v6 review",
+    "kiem ch01 ban 6",
+    "kiểm ch01 bản 6",
+    "note cls ch01 v6 kiem"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/rewrite-20261115/ch01-v6-kiem.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 564
+  },
+  {
+   "aliases": [
+    "ch01 ban 6 nhap",
+    "chương 1 bản 6 nháp",
+    "第一章 箭 ban 6"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.4,
+   "id": "chapter.CLS.ch01-v6-nhap",
+   "keys": [
+    "ch01 ban 6 nhap",
+    "ch01 v6 nhap",
+    "chapter cls ch01 v6 nhap",
+    "chuong 1 ban 6 nhap",
+    "chương 1 bản 6 nháp",
+    "第一章 箭 ban 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/rewrite-20261115/ch01-v6-nhap.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "draft",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/deliverable",
+    "p/personal"
+   ],
+   "type": "chapter",
+   "words": 201
+  },
+  {
+   "aliases": [
+    "the canh ch01 ban 6",
+    "thẻ cảnh ch01 bản 6",
+    "ch01 v6 CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "scene.CLS.ch01-v6-the-canh",
+   "keys": [
+    "ch01 v6 cls",
+    "ch01 v6 the canh",
+    "scene cls ch01 v6 the canh",
+    "the canh ch01 ban 6",
+    "thẻ cảnh ch01 bản 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/rewrite-20261115/ch01-v6-the-canh.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "scene",
+   "words": 769
   },
   {
    "aliases": [
@@ -30558,6 +31151,106 @@
    ],
    "type": "info",
    "words": 295
+  },
+  {
+   "aliases": [
+    "kiem ch02 ban 6",
+    "kiểm ch02 bản 6",
+    "ch02 v6 review"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "note.CLS.ch02-v6-kiem",
+   "keys": [
+    "ch02 v6 kiem",
+    "ch02 v6 review",
+    "kiem ch02 ban 6",
+    "kiểm ch02 bản 6",
+    "note cls ch02 v6 kiem"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/rewrite-20261115/ch02-v6-kiem.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 502
+  },
+  {
+   "aliases": [
+    "ch02 ban 6 nhap",
+    "chương 2 bản 6 nháp",
+    "第二章 管辖"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.4,
+   "id": "chapter.CLS.ch02-v6-nhap",
+   "keys": [
+    "ch02 ban 6 nhap",
+    "ch02 v6 nhap",
+    "chapter cls ch02 v6 nhap",
+    "chuong 2 ban 6 nhap",
+    "chương 2 bản 6 nháp",
+    "第二章 管辖"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/rewrite-20261115/ch02-v6-nhap.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "draft",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/deliverable",
+    "p/personal"
+   ],
+   "type": "chapter",
+   "words": 241
+  },
+  {
+   "aliases": [
+    "the canh ch02 ban 6",
+    "thẻ cảnh ch02 bản 6",
+    "ch02 v6 CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "scene.CLS.ch02-v6-the-canh",
+   "keys": [
+    "ch02 v6 cls",
+    "ch02 v6 the canh",
+    "scene cls ch02 v6 the canh",
+    "the canh ch02 ban 6",
+    "thẻ cảnh ch02 bản 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/rewrite-20261115/ch02-v6-the-canh.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "scene",
+   "words": 603
   },
   {
    "aliases": [
@@ -30828,6 +31521,106 @@
    ],
    "type": "info",
    "words": 270
+  },
+  {
+   "aliases": [
+    "kiem ch03 ban 6",
+    "kiểm ch03 bản 6",
+    "ch03 v6 review"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "note.CLS.ch03-v6-kiem",
+   "keys": [
+    "ch03 v6 kiem",
+    "ch03 v6 review",
+    "kiem ch03 ban 6",
+    "kiểm ch03 bản 6",
+    "note cls ch03 v6 kiem"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/rewrite-20261115/ch03-v6-kiem.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 410
+  },
+  {
+   "aliases": [
+    "ch03 ban 6 nhap",
+    "chương 3 bản 6 nháp",
+    "第三章 小鸟"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.4,
+   "id": "chapter.CLS.ch03-v6-nhap",
+   "keys": [
+    "ch03 ban 6 nhap",
+    "ch03 v6 nhap",
+    "chapter cls ch03 v6 nhap",
+    "chuong 3 ban 6 nhap",
+    "chương 3 bản 6 nháp",
+    "第三章 小鸟"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/rewrite-20261115/ch03-v6-nhap.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "draft",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/deliverable",
+    "p/personal"
+   ],
+   "type": "chapter",
+   "words": 207
+  },
+  {
+   "aliases": [
+    "the canh ch03 ban 6",
+    "thẻ cảnh ch03 bản 6",
+    "ch03 v6 CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "scene.CLS.ch03-v6-the-canh",
+   "keys": [
+    "ch03 v6 cls",
+    "ch03 v6 the canh",
+    "scene cls ch03 v6 the canh",
+    "the canh ch03 ban 6",
+    "thẻ cảnh ch03 bản 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/rewrite-20261115/ch03-v6-the-canh.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "scene",
+   "words": 379
   },
   {
    "aliases": [
@@ -31130,6 +31923,139 @@
    ],
    "type": "info",
    "words": 524
+  },
+  {
+   "aliases": [
+    "the canh J1 ch04",
+    "Sunday doa Jason",
+    "ch04 chen J1"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "scene.CLS.ch04-chen-j1-sunday-doa",
+   "keys": [
+    "ch04 chen j1",
+    "ch04 chen j1 sunday doa",
+    "scene cls ch04 chen j1 sunday doa",
+    "sunday doa jason",
+    "the canh j1 ch04"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/rewrite-20261115/ch04-chen-j1-sunday-doa.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "scene",
+   "words": 400
+  },
+  {
+   "aliases": [
+    "kiem ch04 ban 6",
+    "kiểm ch04 bản 6",
+    "ch04 v6 review"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.7,
+   "id": "note.CLS.ch04-v6-kiem",
+   "keys": [
+    "ch04 v6 kiem",
+    "ch04 v6 review",
+    "kiem ch04 ban 6",
+    "kiểm ch04 bản 6",
+    "note cls ch04 v6 kiem"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/rewrite-20261115/ch04-v6-kiem.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "note",
+   "words": 1008
+  },
+  {
+   "aliases": [
+    "ch04 ban 6 nhap",
+    "chương 4 bản 6 nháp",
+    "第四章 侧门"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.4,
+   "id": "chapter.CLS.ch04-v6-nhap",
+   "keys": [
+    "ch04 ban 6 nhap",
+    "ch04 v6 nhap",
+    "chapter cls ch04 v6 nhap",
+    "chuong 4 ban 6 nhap",
+    "chương 4 bản 6 nháp",
+    "第四章 侧门"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/rewrite-20261115/ch04-v6-nhap.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "draft",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/deliverable",
+    "p/personal"
+   ],
+   "type": "chapter",
+   "words": 236
+  },
+  {
+   "aliases": [
+    "the canh ch04 ban 6",
+    "thẻ cảnh ch04 bản 6",
+    "ch04 v6 CLS"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "planned",
+   "confidence": 0.6,
+   "id": "scene.CLS.ch04-v6-the-canh",
+   "keys": [
+    "ch04 v6 cls",
+    "ch04 v6 the canh",
+    "scene cls ch04 v6 the canh",
+    "the canh ch04 ban 6",
+    "thẻ cảnh ch04 bản 6"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-15",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/rewrite-20261115/ch04-v6-the-canh.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "proposed",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "scene",
+   "words": 497
   },
   {
    "aliases": [

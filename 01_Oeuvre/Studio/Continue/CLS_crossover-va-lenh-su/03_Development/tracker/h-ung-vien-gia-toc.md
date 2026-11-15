@@ -12,10 +12,10 @@ introduced:
   chapter: "ch5"
 payoff:
   status: planned
-  arc: "vong 2 (arc 4-6, chua chot arc) - ung vien cho viec gi"
+  arc: "vong 2 (arc 4-6, chua chot arc) - ung vien cho ghe tren nam toc truong (Tsuna chuong quan Gia toc sau Penacony; truoc do hoi sinh Lampmoth) - Aurel 14/11 luot bon"
   chapter: "chua dat"
-aliases: ["h ung vien gia toc", "ung vien cua Gia toc", "ứng viên của Gia tộc"]
-related: ["[[CLS]]", "[[dan-y-arc-1-jason-v5-cls]]", "[[arc-mo-dau-jason-dazai-tsuna]]"]
+aliases: ["h ung vien gia toc", "ung vien cua Gia toc", "ứng viên của Gia tộc", "ung vien Lampmoth"]
+related: ["[[CLS]]", "[[dan-y-arc-1-jason-v5-cls]]", "[[arc-mo-dau-jason-dazai-tsuna]]", "[[de-xuat-tsuna-phuc-hung-lampmoth]]", "[[20261114-ung-vien-la-lampmoth]]"]
 source:
   type: inference
   ref: "plan-continuation 03/10/2026 — dan y arc 1 huong B (Aurel chon), proposed"
@@ -39,3 +39,5 @@ last_updated: 2026-11-02
 | ch03 arc 3 *(chốt 02/11, hàng đợi)* | Phòng nối gương mặt với câu Aventurine 【匹诺康尼的家族，也在找一位候选人】 *(Dan Heng nhắc)*; March 「……会是他吗？」, không ai đáp. Trên phim không có chữ 「候选人」; không nói ứng viên cho việc gì | partially_paid |
 
 **Hạn trả (05/11):** 「ứng viên cho việc gì」 **không trả ở arc 3**, dời sang vòng 2, chưa chốt arc nào *([[arc-3-chot-01-11]] #28)*.
+
+**Trả bằng gì — Aurel 14/11, lượt bốn** *([[20261114-ung-vien-la-lampmoth]])*: khi Tsuna vào Gia tộc, họ muốn **tôn cậu làm vương**, cậu từ chối và **hồi sinh Lampmoth** làm nhịp cầu; **sau Penacony** cậu **chưởng quản Gia tộc**, đứng trên các tộc trưởng. **[đề xuất]**: 「ứng viên」 Gia tộc tìm *(lời nhắc đều nằm sau Penacony)* = ứng viên cho **ghế trên năm tộc trưởng** — [[de-xuat-tsuna-phuc-hung-lampmoth]] mục 3. **Tên ghế — Aurel 15/11:** **Đại gia chủ** *(năm nhà vẫn là gia chủ như game)*. **Chưa chốt:** arc và chương trả.
