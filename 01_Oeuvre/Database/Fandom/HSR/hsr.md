@@ -85,6 +85,11 @@ Chữ Trung kiểm qua: BWIKI trang 派系 và 星神 (đọc 25/09/2026), đo�
 > ⊕ **12/10/2026 — browser tích hợp của app đọc được fandom.** `WebFetch` vẫn trả 402 ở `fandom.com` (cả HSR và JJK), nhưng **browser tích hợp** (`navigate` rồi `get_page_text`) mở được trang fandom và trả **văn bản thô** *(Aurel xác nhận, và JJK arc Star Plasma Vessel nạp bằng cách này)*. Dùng browser tích hợp **trước** khi nhờ Aurel dán nội dung. Tên trang phải đúng tiêu đề wiki (vd arc anime "Hidden Inventory / Premature Death" của JJK nằm ở trang "Gojo's Past Arc").
 `honkai-star-rail.fandom.com` (cả API) trả **402**; `baike.baidu.com/item/...` trả **403**; HoYoWiki và HoYoLAB chỉ trả trang tải rỗng; Moegirl chỉ trả tiêu đề; BWIKI trang lẻ 404/567. **Đọc được:** `hoyodex.miraheze.org` (bản chép Data Bank), `baike.baidu.com/en/...` (bản dịch máy), BWIKI trang 派系 và 星神, Wikipedia. Xem [[_HSR-MOC]].
 
+> ⊕ **14/11/2026 — thoại có tên người nói:** fandom **tiếng Việt** đọc được bằng browser tích hợp. Trang nhiệm vụ khai phá chép thoại kèm tên người nói và mã file thoại *(vd 「Giờ Phút Hấp Hối Của Tôi」)*; mục lục ở trang 「Nhiệm Vụ Khai Phá」 *(Aurel gợi ý)*. Tìm nhanh bằng `vi/wiki/Special:Search?query=…&fulltext=1`. TextMap chỉ có chuỗi; muốn biết **ai nói** thì tra fandom VI. Chú giải 「Bên Lề」 trên wiki là diễn giải của người biên tập, không phải game text.
+>
+> ⊕ **14/11/2026 — đường dẫn đổi.** `D:\Game\Star Rail Games` **không còn**. Bản cài hiện tại *(HoYoPlay, bản **4.7.0** theo `config.ini`)*:
+> `D:\GameVault\HoYoPlay\games\Star Rail Games\StarRail_Data\Persistent\DesignData\Windows\` — có hai thư mục TextMap **`vi/`** *(~79 MB)* và **`en/`** *(~63 MB)*, mỗi thư mục một file `.bytes`; **không có `zh`**. Cách đọc như dưới. Tên file `.bytes` là mã băm, đổi theo bản cập nhật — liệt kê thư mục trước khi đọc.
+>
 > ⊕ **03/10/2026 — văn bản game đọc được từ bản cài trên máy Aurel** *(Aurel gợi ý: "trong máy có HSR")*. Bản **4.6.0**,
 > thư mục `D:\Game\Star Rail Games`. TextMap **tiếng Việt chính thức** nằm ở
 > `StarRail_Data/Persistent/DesignData/Windows/vi/` — một file `.bytes` ~72 MB, chuỗi UTF-8 đọc thẳng được. Cách đọc: script **chỉ đọc**

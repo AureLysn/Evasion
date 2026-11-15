@@ -78,7 +78,7 @@ trong phim sự kiện xảy ra theo thứ tự Penacony → Amphoreus → Plana
 | **Kẻ ngoại lai** | người **giống 「Jason ngày xưa」** **[Aurel]** | được **ghi vào chỗ hắn định tới** **[Aurel]** | **người trong nhà kiêm ứng viên kế vị** **[Aurel]** |
 | **Người ở nhà** | nửa tin — tự phóng chiếu đứa trẻ trong ký ức **[Aurel]** | người từng quen vẫn nhớ; **bản ghi** thì không còn chỗ cho hắn **[Aurel]** | bị cấy ký ức — nhớ kẻ ngoại lai 「vẫn luôn ở đó」 **[Aurel]** |
 | **Nét tính cách đem về** | không tin mình được ai đó muốn | không nhận việc gì là của mình | không để ý chỗ mình đau |
-| **Khúc mắc được giải thế nào** | **[mở]** | **[mở]** — điểm trả đã chốt: lần đầu Dazai nói được 「của tôi」 **[Aurel]** | **[mở]** — hiền không phải yếu **[Aurel]** |
+| **Khúc mắc được giải thế nào** | **[mở]** | **[mở]** — điểm trả đã chốt: lần đầu Dazai nói được 「của tôi」 **[Aurel]** | **[mở]** — hiền không phải yếu **[Aurel]** · ⊕ 14/11 **[Aurel]**: Gia tộc muốn tôn Tsuna làm vương, cậu từ chối, **hồi sinh Lampmoth** làm nhịp cầu; **sau Penacony** cậu **chưởng quản Gia tộc** với danh hiệu **Đại gia chủ**, trên năm gia chủ — [[de-xuat-tsuna-phuc-hung-lampmoth]] *(arc trả: [mở])* |
 | **Còn chặn** | kẻ ngoại lai và trẻ Crime Alley | — | mốc canon cụ thể của Tsuna |
 
 Không ai ở nhà bị viết thành ác — dòng trope T1. Kẻ ngoại lai **không bao giờ** có POV.

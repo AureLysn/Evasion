@@ -96,6 +96,8 @@ Hàng đợi **dừng sẵn ở arc 2** cho tới khi Aurel duyệt dàn ý và 
 
 ## Đề xuất cần Aurel xem
 
+**Chat DeepSeek (14/11):** 8 ý mới N1–N8, phần lớn cho vòng 2 / phần gộp — [[doi-chieu-deepseek-20261114]] §4 *(tra TextMap 4.7.0 ngày 14/11: N3 là **Bronya**, đã khớp arc 2 ch10; N6 **Gia Tộc Lampmoth** có thật trong canon — chờ Aurel chọn)*. Quy trình nhiều model: [[de-xuat-quy-trinh-nhieu-model]] §4.
+
 **Arc 2 (25/10):** Đ1 ngoại hình Dazai bản HSR · Đ2 thời điểm tới · Đ3 cơ chế 「chạy lại từ đầu」 và lần dị năng duy nhất — ở [[dan-y-arc-2-dazai-v3-cls]] mục *Đề xuất cần Aurel xem*.
 
 **ch03 — đã tự chốt theo đề xuất (17/10):** câu ra giá của Aventurine = gieo sớm `h-ipc-muon-jason` (status giữ proposed) · note quan hệ Jason–灰烬 để tới ch06 · không lập timeline · 幻月游戏 là canon (TextMap) · lời Ashveil với Stelle là canon (note Ashveil).
