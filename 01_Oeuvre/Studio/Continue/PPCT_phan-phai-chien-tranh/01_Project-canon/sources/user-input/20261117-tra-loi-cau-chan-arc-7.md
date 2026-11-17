@@ -45,3 +45,10 @@ Lệnh: "hỏi các câu chặn".
   - Irisviel sống bằng cách nào (canon: đủ bốn Servant chết thì thân thể cô bị huỷ): "Tsuna cứu cô" → [[tsuna-cuu-irisviel]].
   - Nét hiền vương của Archer hiện ra ở đâu: "mình nghĩ đại khái giống archer đối đãi tsuna giống TYL Xanxus (suy nghĩ của mình) có thể lấy thêm thông tin từ gpt và deepseek. mình khó mô tả" → [[archer-doi-tsuna-nhu-tyl-xanxus]].
   - Nhắn thêm giữa lượt: "tính cách theo fannon hơn là canon".
+- "Merge và lập plan" → plan ch47 + khung ch47–50. Rồi "Sửa trước"; chọn sửa cả K1, K2, K3/K4 và khung. Trả lời:
+  - K1: "Hai trục như đề xuất".
+  - K2: "dùng lệch chú bổ sung ma lực" (sửa [[dazai-khong-dung-lenh-chu-dem-cuoi]]).
+  - K3/K4: "Dazai vào cùng".
+  - Khung: "Thêm một chương" (tách cảnh Archer–Tsuna thành chương riêng).
+- "Sửa tiếp": C7 "Hai, giữ một"; C3 "Dazai nói"; C5 "Thấy được hai trục"; C6 "Irisviel mở mắt".
+- "Duyệt, viết ch47" — duyệt toàn bộ [[ch47-ds-plan]].
