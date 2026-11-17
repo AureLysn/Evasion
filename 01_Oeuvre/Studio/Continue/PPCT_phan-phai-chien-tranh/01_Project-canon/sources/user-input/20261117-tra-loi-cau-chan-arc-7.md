@@ -41,3 +41,7 @@ Lệnh: "hỏi các câu chặn".
 
 - "Lập plan ch45–46" (chọn giữa lập plan ch45–46 và tra canon cho ch47).
 - "Duyệt đề xuất" — duyệt C1–C6 của [[ch45-ds-plan]] và C1–C6 của [[ch46-ds-plan]].
+- "Tra canon". Sau khi tra, hai câu hỏi:
+  - Irisviel sống bằng cách nào (canon: đủ bốn Servant chết thì thân thể cô bị huỷ): "Tsuna cứu cô" → [[tsuna-cuu-irisviel]].
+  - Nét hiền vương của Archer hiện ra ở đâu: "mình nghĩ đại khái giống archer đối đãi tsuna giống TYL Xanxus (suy nghĩ của mình) có thể lấy thêm thông tin từ gpt và deepseek. mình khó mô tả" → [[archer-doi-tsuna-nhu-tyl-xanxus]].
+  - Nhắn thêm giữa lượt: "tính cách theo fannon hơn là canon".
