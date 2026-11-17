@@ -1,11 +1,11 @@
-﻿---
+---
 id: question.PPCT.q-hau-qua-chen-va-dam-chay
 type: question
 scope: project
 lane: personal
 project: PPCT
 canon_layer: planned
-status: unresolved
+status: resolved
 needed_before:
   arc: "arc 7 — dem cuoi"
   chapter: "ch47"
@@ -19,12 +19,12 @@ authority: ai
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-05
+last_updated: 2026-11-17
 ---
 
 # Hậu quả Chén / lửa — và tổ Caster làm gì với cái chỉ họ thấy
 
-> ⚠️ Đây là câu hỏi CHƯA CHỐT. Không phương án nào dưới đây được dùng như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ✅ **Đã chốt 17/11/2026** — [[tsuna-chan-dam-chay-bang-zero-point]] (Aurel: "cháy nhưng Tsuna ngăn lại bằng zero point breakthought").
 
 ## Vì sao cần quyết
 
