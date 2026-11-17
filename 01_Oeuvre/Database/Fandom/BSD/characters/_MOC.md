@@ -24,4 +24,9 @@ last_updated: 2026-09-28
 - [[Edogawa-Ranpo]] — không dị năng, suy luận; cảnh BEAST · `confidence: 0.7` · *28/09/2026*
 - [[Fukuzawa-Yukichi]] — Giám đốc Cơ quan; cảnh BEAST · `confidence: 0.7` · *28/09/2026*
 
+- [[Ogai-Mori]] — thủ lĩnh Cảng Mafia; 36 tuổi ở Hắc Thời Đại; chính Mori đưa Mimic vào Nhật · `confidence: 0.65` · *17/11/2026*
+- [[Koyo-Ozaki]] — cán bộ, Golden Demon, yếm thế · *17/11/2026*
+- [[Ryuro-Hirotsu]] — chỉ huy Hắc Thằn Lằn · *17/11/2026*
+- [[Andre-Gide]] — thủ lĩnh Mimic, dị năng giống Oda · *17/11/2026*
+
 Template dùng cho thư mục này: `Templates/Character-Note.md`

@@ -13,6 +13,6 @@ last_updated: 2026-09-05
 
 # MOC — BSD / organizations
 
-Chưa có note.
+- [[Mimic]] — du kích châu Âu, Hắc Thời Đại; trình tự canon tới cái chết của Oda · *17/11/2026*
 
 Template dùng cho thư mục này: `Templates/Organization-Note.md`
