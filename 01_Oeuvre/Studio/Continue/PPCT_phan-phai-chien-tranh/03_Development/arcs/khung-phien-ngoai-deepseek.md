@@ -16,7 +16,7 @@ authority: ai
 confidence: 0.45
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 # Khung phiên ngoại — nhánh deepseek-20261115 · V1–V4, V7, V8, V11 ✅ Aurel chốt 17/11/2026
@@ -59,7 +59,7 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V11 | Waver khi Rider quay lại | không nhắc | ch45–46: Waver tự rời cầu | Arc I |
 | V12 | Tri-ni-sette ở thế giới BSD (Checker Face tồn tại?) | có | chưa nói | Arc II |
 
-## Đã chốt (Aurel 17/11/2026)
+## Đã chốt (Aurel 17–18/11/2026)
 
 | # | Aurel chọn | Hệ quả |
 |---|---|---|
@@ -69,8 +69,11 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V7 | "Như canon" | Bar Lupin là chỗ Dazai–Oda–Ango uống; lũ trẻ ở nhờ tiệm cà ri của ông chủ không tên; Dazai dẫn Tsuna tới Lupin ([[q-tiem-ca-ri-va-oda]] trả lời phần địa điểm) |
 | V8 | "Để DeepSeek/GPT đề xuất" | DS đưa 3–5 tên, GPT chấm, Aurel chọn khi plan pn1-01 |
 | V11 | "Rider tìm Waver trước" | Một đoạn ngắn: Rider đã gặp lại Waver rồi mới tới quán; Waver không lên trang |
+| V9 | "Như bản cũ" (18/11) | Dazai đoán ra mưu Mori dùng Mimic, tống tiền đổi lấy Oda rút khỏi Cảng an toàn, rồi tự rời Cảng vào Tổ Trinh Thám (Arc II) |
+| V10 | "Akutagawa hiện tại" (18/11) | Akutagawa đúng tuổi canon (~16), dưỡng thương sau Mimic; Tsuna cho ăn, khen Rashōmon, gần như nhận nuôi |
+| V2/V12 | "Lộ một phần" (18/11) | Checker Face có thật ở thế giới này, mời Tsuna; Tsuna biết họ từ trước, không nói vì sao; 7³ và vai quản trị chỉ ngầm; 白兰, nhẫn Mare để Arc III |
 
-Còn mở cho Arc II trở đi: V2 (mức cụ thể), V5, V6 (chén rượu — gợi ý ở pn1-01), V9, V10, V12.
+Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Còn mở: V5 (Kirei), V6 (chén rượu).
 
 ## Trình tự đề xuất
 

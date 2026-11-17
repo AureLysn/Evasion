@@ -15,7 +15,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 # Aurel trả lời 12 câu ❌ chặn ch45–ch50 (arc 7, hướng V2-1) — 17/11/2026
@@ -64,3 +64,7 @@ Lệnh: "hỏi các câu chặn".
 - "Merge, tra canon" → [[20261117-canon-phien-ngoai-arc-1]]. Ba câu: Q-P1 "Gide bắt một đứa (Recommended)"; Q-P2 "Sống lâu, đón được Illya (Recommended)"; Q-P3 "Cả nhà (Recommended)".
 - "Merge, lập plan Arc I" → [[pn-arc-1-ds-plan]]. "Sửa trước": chọn sửa cả bốn nhóm; C1–C12 đều "Để DeepSeek/GPT đề xuất".
 - "Duyệt, viết pn1-01" — duyệt toàn bộ [[pn-arc-1-ds-plan]].
+- "Merge, viết pn1-02" (PR AureLysn/Evasion#16, pn1-01). "Merge, viết pn1-03" (PR #17, pn1-02). "Merge, viết pn1-04" (PR #18, pn1-03).
+- "Merge, lập plan Arc II" (PR AureLysn/Evasion#19, pn1-04 — hết Arc I). Bốn câu: V9 "Như bản cũ (Recommended)"; V10 "Akutagawa hiện tại (Recommended)"; V2/V12 "Lộ một phần (Recommended)"; quy mô "Giữ 9 chương (Recommended)".
+- Canon Arc II ([[20261118-canon-phien-ngoai-arc-2]]): Q-P4 "Để DS/GPT đề xuất"; Q-P5 "Để DS/GPT đề xuất"; Q-P6 "Canon + Tsuna (Recommended)"; Q-P7 "Nuôi trẻ và viết (Recommended)".
+- "Duyệt, viết pn2-01" — duyệt toàn bộ [[pn-arc-2-ds-plan]] (C1–C13 theo đề xuất; C2, C7 để DeepSeek/GPT).
