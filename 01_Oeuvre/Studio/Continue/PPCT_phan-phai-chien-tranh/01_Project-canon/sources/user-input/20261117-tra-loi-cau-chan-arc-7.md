@@ -52,3 +52,5 @@ Lệnh: "hỏi các câu chặn".
   - Khung: "Thêm một chương" (tách cảnh Archer–Tsuna thành chương riêng).
 - "Sửa tiếp": C7 "Hai, giữ một"; C3 "Dazai nói"; C5 "Thấy được hai trục"; C6 "Irisviel mở mắt".
 - "Duyệt, viết ch47" — duyệt toàn bộ [[ch47-ds-plan]].
+- "Merge đi" (PR AureLysn/Evasion#8, ch47). "Lập plan ch48" → [[ch48-ds-plan]]. "Sửa trước"; chọn sửa C8: "Kết ở Saber tan".
+- "Duyệt, viết ch48" — duyệt toàn bộ [[ch48-ds-plan]].
