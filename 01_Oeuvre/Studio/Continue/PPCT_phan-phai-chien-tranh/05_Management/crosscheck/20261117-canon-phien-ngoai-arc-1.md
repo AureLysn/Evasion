@@ -55,13 +55,13 @@ last_updated: 2026-11-17
 - **Kiritsugu và Irisviel** — canon Kiritsugu mất ma thuật vì lời nguyền, không vào được lâu đài Einzbern. Irisviel là homunculus nhà Einzbern: cô có vào được lâu đài đón Illya không — mở cho pn1-02. Avalon đã ở trong Shirō.
 - **Tuổi thọ Irisviel** — canon homunculus làm bình chứa vốn không sống lâu; nhánh đã tách Chén khỏi cô (ch47) nhưng chưa nói cô còn bao lâu. → câu Q-P2.
 
-## 4. Câu hỏi cho Aurel (chặn pn1-02 / pn1-03)
+## 4. Câu hỏi cho Aurel — ✅ chốt 17/11/2026
 
 | # | Câu | Chặn |
 |---|---|---|
-| Q-P1 | Lũ trẻ được sơ tán an toàn thì **vì sao Oda vẫn một mình đi gặp Gide**? | pn1-03 |
-| Q-P2 | Irisviel còn sống được bao lâu (homunculus); cô có đón được Illya về không | pn1-02 |
-| Q-P3 | pn1-02: ai đi cùng Irisviel tới quán — một mình / Kiritsugu / cả nhà (Kiritsugu, Shirō, Illya) | pn1-02 |
+| Q-P1 | Lũ trẻ được sơ tán an toàn thì **vì sao Oda vẫn một mình đi gặp Gide**? | pn1-03 — ✅ Aurel: **"Gide bắt một đứa"**: sơ tán sót một đứa, Gide giữ làm mồi, Oda đi một mình; Tsuna cứu đứa trẻ, Dazai và Tsuna kịp tới chỗ Oda |
+| Q-P2 | Irisviel còn sống được bao lâu (homunculus); cô có đón được Illya về không | pn1-02 — ✅ Aurel: **"Sống lâu, đón được Illya"**: cô vào được lâu đài Einzbern (Kiritsugu thì không), đón Illya; không giải thích cơ chế |
+| Q-P3 | pn1-02: ai đi cùng Irisviel tới quán — một mình / Kiritsugu / cả nhà (Kiritsugu, Shirō, Illya) | pn1-02 — ✅ Aurel: **"Cả nhà"**: Kiritsugu, Shirō, Illya; Kiritsugu đứng ngoài cửa nhiều hơn trong quán |
 
 ## 5. Chưa xác minh
 
