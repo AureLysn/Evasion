@@ -1,4 +1,4 @@
-﻿---
+---
 id: arc.PPCT.de-xuat-arc-7-v2-huong-1
 type: arc
 scope: branch
@@ -16,10 +16,12 @@ authority: ai
 confidence: 0.45
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-13
+last_updated: 2026-11-17
 ---
 
 # Đề xuất arc 7 — vòng 2, Hướng V2-1: Người xem đến cuối · ✅ ĐÃ CHỌN (Aurel 05/10/2026 — [[huong-arc-7-nguoi-xem-den-cuoi]])
+
+> ✅ **17/11/2026 — Aurel trả lời 12 câu ❌** ([[20261117-tra-loi-cau-chan-arc-7]]). Q6 Risei · Q7 Tsuna qua con mắt · Q11 không lệnh chú · Q18 ch48 POV Kiritsugu · Q19 nới 容器 chỉ ở POV Kiritsugu · Q20 kết giới · Q21 như canon · Q24 POV Tsuna, không ai hiện · Q25 phiên ngoại theo nghiêng của bảng. **Ba câu khác bảng:** Q15 Archer ở lại **với nét hiền vương** ([[archer-o-lai-net-hien-vuong]]); Q16 lửa bắt đầu và **Tsuna chặn bằng Zero Point Breakthrough** ([[tsuna-chan-dam-chay-bang-zero-point]]); Q17 **Irisviel sống** ([[irisviel-song]]). Hệ quả: dòng ch47–ch49 trong bảng chương dưới đây **không còn dùng được nguyên**; trục "chỉ nhìn" đổi ở cuối đêm; ch45–46 giữ được khung. Trước khi plan ch47: `crosscheck-canon` Fate (bình chứa còn sống thì Chén giáng thế nào; Gilgamesh thời hiền vương).
 
 > **Mọi thứ trong file này là đề xuất.** Chưa có gì được chốt. Đây là một trong ba hướng vòng 2, viết song song. Mình **không** đọc được file của hai worker kia, nên mục 8 so với vòng 1 và với trục được giao, không so với V2-2, V2-3.
 > Không tạo note `question` nào. Câu hỏi chỉ liệt kê ở mục 4, đánh số `V2-1-Q…`.

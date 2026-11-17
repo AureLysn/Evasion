@@ -1,11 +1,11 @@
-﻿---
+---
 id: question.PPCT.q-pov-chuong-cau
 type: question
 scope: project
 lane: personal
 project: PPCT
 canon_layer: planned
-status: unresolved
+status: resolved
 needed_before:
   arc: "arc 7 — dem cuoi"
   chapter: "ch45"
@@ -19,12 +19,12 @@ authority: ai
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-05
+last_updated: 2026-11-17
 ---
 
 # POV Waver cho chương cầu?
 
-> ⚠️ Đây là câu hỏi CHƯA CHỐT. Không phương án nào dưới đây được dùng như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ✅ **Đã chốt 17/11/2026** — [[chuong-cau-pov-tsuna-qua-con-mat]] (Aurel: "Tsuna qua con mắt (Recommended)").
 
 ## Vì sao cần quyết
 

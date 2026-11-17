@@ -1,11 +1,11 @@
-﻿---
+---
 id: question.PPCT.q-saber-truoc-lenh-pha-chen
 type: question
 scope: project
 lane: personal
 project: PPCT
 canon_layer: planned
-status: unresolved
+status: resolved
 needed_before:
   arc: "arc 7 — dem cuoi"
   chapter: "ch48"
@@ -19,12 +19,12 @@ authority: ai
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-05
+last_updated: 2026-11-17
 ---
 
 # Phản ứng của Saber trước lệnh phá Chén có phải là chỗ "đạo tâm vỡ" (ghi chú ch15) hiện ra không; có đổi số lệnh chú Kiritsugu phải dùng không (canon 2)
 
-> ⚠️ Đây là câu hỏi CHƯA CHỐT. Không phương án nào dưới đây được dùng như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ✅ **Đã chốt 17/11/2026** — [[saber-pha-chen-nhu-canon]] (Aurel: "Như canon (Recommended)").
 
 ## Vì sao cần quyết
 
