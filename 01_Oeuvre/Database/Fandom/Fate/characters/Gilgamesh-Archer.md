@@ -6,7 +6,7 @@ lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Gilgamesh Fate", "Gilgamesh Fate/Zero", "Archer lan 4", "英雄王", "吉尔伽美什", "金闪闪", "Servant cua Tokiomi", "Gilgamesh va Kirei", "Enkidu", "Chains of Heaven", "Xich Thien", "天の鎖", "天之锁", "Enkidu vs lenh chu"]
+aliases: ["Gilgamesh Fate", "Gilgamesh Fate/Zero", "Archer lan 4", "英雄王", "吉尔伽美什", "金闪闪", "Servant cua Tokiomi", "Gilgamesh va Kirei", "Enkidu", "Chains of Heaven", "Xich Thien", "天の鎖", "天之锁", "Enkidu vs lenh chu", "Gilgamesh hien vuong", "Gilgamesh Caster", "wise king Uruk", "bao chua va hien vuong"]
 related: ["[[fate]]", "[[Fate/characters/_MOC|characters/_MOC]]", "[[Kirei-Kotomine]]", "[[Command-Spells]]", "[[Gate-of-Babylon]]", "[[Iskandar]]", "[[Artoria-Pendragon]]"]
 source:
   type: fandom_wiki
@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-11-13
+last_updated: 2026-11-17
 ---
 
 # Gilgamesh — Archer, Chiến tranh Chén Thánh lần 4
@@ -51,6 +51,19 @@ Servant Archer do **Tōsaka Tokiomi** (远坂时臣) triệu hồi, thánh di v�
 | Lệnh chú vs xích — Fate/Zero | **Không có cảnh.** Lúc Rider bị trói, Waver **không còn lệnh chú** (đã dùng hết ba ở Act 15 Part 4) | Act 15 Part 4; Act 16 Part 4 | 0.7 |
 | Lệnh chú vs xích — stay night UBW | Wiki Nhật mục lệnh chú: Illya ra lệnh **cưỡng chế rút lui** cho Berserker, bị Xích Thiên **vô hiệu hóa**. Không rõ là lệnh "dịch chuyển/gọi về" hay chỉ lệnh bỏ chạy | wiki TYPE-MOON Nhật 令呪, mục 第五次聖杯戦争 | 0.55 |
 | Lệnh chú dịch chuyển có kéo được Servant khỏi xích | **No canon ruling found** — đã tìm Act 16 Part 4, wiki Nhật (令呪, ギルガメッシュ, エルキドゥ), một lượt tìm web; FGO material và Fate/Strange Fake **chưa tìm trực tiếp**. Trang cộng đồng nói "xích trói không gian nên lệnh chú dịch chuyển vô hiệu" — **không đối được nguồn** (fanon/chưa kiểm). Dòng wiki Nhật mục FGO: 「空間転移もこの令呪単体では不可能」 là về lệnh chú ở Chaldea, **không** liên quan xích | — | — |
+
+## Hai thời kỳ trong một đời: bạo chúa và hiền vương (thêm 17/11/2026)
+
+> Nguồn: TYPE-MOON Wiki (Fandom), trang *Gilgamesh* (mục Profile > Immortality; Personality) và *Gilgamesh (Caster)* (mục Profile > Identity; Personality), đọc bằng trình duyệt tích hợp 17/11/2026. Phần Caster chủ yếu là **Fate/Grand Order**, không phải Fate/Zero. Độ tin 0.75.
+
+| Điểm | Trang nói | Độ tin |
+|---|---|---|
+| Archer (Fate/Zero, chiến tranh lần 4) | Hồ sơ FGO: *"cruel and heartless. Never hearing people's opinions, a tyrant who holds only his own standards as absolute"*; coi mọi vua và anh hùng khác là *"a collection of mongrels"*; người duy nhất ngang hàng là Enkidu (lời với Iskandar: *"I do not require a second friend"*) | 0.8 |
+| Điểm chuyển | Sau khi con rắn lấy mất cỏ bất tử, hắn cười chính mình; *"reached physical maturity in the time with Enkidu and mental maturity at that moment, marking the end of his youth"*; về Uruk *"governed Uruk as the ruler of heroes"* | 0.75 |
+| Hiền vương (Caster, FGO) | *"a more mature mindset, he comes from after his journey to find immortality"*; *"not of a hero that personifies raging power, but that of a wise king that governs the masses"*; *"At times ruthless, at times approving of human nature"*; sau chuyến đi thấy Uruk suy vì chính hắn sao nhãng, từ đó dồn sức *"repairing and maintaining his kingdom"*; tự nói sợ nhất là *"death from overwork"* | 0.75 |
+| Hiền vương nhìn con người | *"an adjudicator that tries to keep humans on a fair scale. That is why he protects mankind, but he doesn't favor individuals"*; *"Humans themselves are foolish, but the things humans create have meaning"* | 0.7 (đoạn trích lời người khác trong trang) |
+| Không đổi giữa hai thời kỳ | Thái độ với Master *"does not appear to be much different from that as an Archer"*; quan niệm kho báu: mọi thứ được gọi là "bảo vật" là của hắn, kẻ trộm kho không đáng được thưởng (trang *Gilgamesh*, Personality); mềm lòng hiếm hoi với trẻ con | 0.75 |
+| Archer được triệu hồi từ giai đoạn nào | Trang **không nói rõ** bằng một câu; chỉ có đối lập "Archer = sức mạnh cuồng nộ / Caster = hiền vương sau chuyến tìm bất tử" | — (không tìm thấy câu nêu tuổi) |
 
 ## Giọng
 

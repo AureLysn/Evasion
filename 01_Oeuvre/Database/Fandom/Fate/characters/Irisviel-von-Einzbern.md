@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-17
 ---
 
 # Irisviel von Einzbern — Chiến tranh Chén Thánh lần 4
@@ -89,6 +89,19 @@ Mỏ neo duy nhất: *-04:08:29 = 02:00 sáng* (Act 16 Part 1), tức hết chi�
 
 - Note [[Kirei-Kotomine]] và cách gọi "hầm ẩn"/"giam ở hầm ẩn" (Act 14 Part 3–4) **sai chỗ**: hai part đó không nói nơi giam; nơi giam chỉ lộ ở Act 15 Part 3, là **cống ngầm/hang Caster cũ**, không phải hầm nhà thờ.
 - *(01/10/2026)* Bảng cũ ghi Kiritsugu bỏ tìm vào "sáng/chiều hôm sau" — đúng hơn là **trưa** (Part 2 nói "since noon"), và chỉ ghi "lập tức tấn công nhà thờ" mà không gắn đêm nào. Giờ đã gắn: Matō → Tōsaka → nhà thờ **cùng một đêm** với vụ bắt cóc (Act 14 Part 4 + Act 15 Part 2). Câu "đột kích nhà thờ **ngày hôm sau**" ở nơi khác là **sai** — xem báo cáo gửi người gọi (note `_crosscheck` dòng 2 không thuộc file này).
+
+## Cơ chế bình chứa trong cơ thể (thêm 17/11/2026)
+
+> Nguồn: TYPE-MOON Wiki (Fandom), trang *Irisviel von Einzbern*, mục Role > Fate/Zero và Abilities > Vessel of the Grail (dẫn *Fate/Zero material*, Encyclopedia: Vessel of the Holy Grail, p.098), đọc bằng trình duyệt tích hợp 17/11/2026. Độ tin 0.75.
+
+| Điểm | Trang nói |
+|---|---|
+| Bình nằm ở đâu | *"Although Irisviel's homunculus body is unmistakably organic, the inorganic Holy Grail was broken down and fused with her organs."* |
+| Khi Servant chết | *"As each Servant dies, its energy would flow into her artificial body. When four Servants have died, her body would be destroyed and give birth to the Holy Grail."* |
+| Suy dần | Chức năng người bị ép xuống để thân thể làm Chén; Avalon trong người giúp *"preserve her human functions to an extent"* khi ở cạnh Saber; rồi cô *"became physically incapacitated and was unable to do anything but lie inside a magic circle and talk"*; trao Avalon cho Kiritsugu trước khi mất ý thức |
+| Sống sót khi Chén thành | Trang **không nói** có cách nào cho bình chứa sống khi đủ bốn linh hồn |
+
+Nối với [[Holy-Grail]]: ngưỡng **bốn** linh hồn ở bình khớp với tiểu thuyết (bình hiện ra ở linh hồn thứ tư); con số "sáu" ở Chén lớn vẫn chưa nối được.
 
 ## Giới hạn / chưa xác minh
 
