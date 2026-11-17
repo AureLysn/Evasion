@@ -24,7 +24,9 @@ last_updated: 2026-11-17
 
 ## Quyết định
 
-**Không đạo nào** trong cả arc 7. Ba đạo còn nguyên tới hết.
+~~**Không đạo nào** trong cả arc 7. Ba đạo còn nguyên tới hết.~~
+
+> 🔄 **Sửa cùng ngày 17/11/2026 (Aurel, khi duyệt khung ch47):** "dùng lệch chú bổ sung ma lực". Dazai **dùng lệnh chú để bù ma lực** cho Tsuna ở cuối đêm (cứu Irisviel, chặn đám cháy). Vẫn giữ: Dazai **không ra lệnh** cho Tsuna đi hay không đi (ch46 bản DS giữ nguyên nghĩa). Đây là lần trả lời câu ch37 bản DS 「令咒本身也是魔力，压得很紧的一团。用掉一道，至少能帮你撑过一阵。」 — Tsuna nói 「留着」, và đêm cuối là lúc dùng. Số đạo: Aurel chốt "Hai, giữ một" — một ở ch47, một ở ch49, giữ một tới hết truyện chính.
 
 ## Lý do chọn
 
