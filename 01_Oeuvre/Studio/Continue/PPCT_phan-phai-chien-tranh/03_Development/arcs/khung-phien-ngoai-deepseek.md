@@ -75,6 +75,6 @@ Còn mở cho Arc II trở đi: V2 (mức cụ thể), V5, V6 (chén rượu —
 ## Trình tự đề xuất
 
 1. ~~Aurel chốt V1–V4, V7–V8, V11~~ ✅ 17/11/2026.
-2. `crosscheck-canon` BSD cho Arc I: Mori, Chuuya, Kouyou, Hirotsu, Oda, Ango, Gide/Mimic, Lupin, tiệm cà ri; Fate: gia đình Emiya sau chiến tranh (Kiritsugu, Shirō, Illya ở lâu đài Einzbern) — note mới trong `Database/Fandom/BSD/`.
+2. ✅ [[20261117-canon-phien-ngoai-arc-1]] (17/11/2026; Q-P1–Q-P3 đã chốt). `crosscheck-canon` BSD cho Arc I: Mori, Chuuya, Kouyou, Hirotsu, Oda, Ango, Gide/Mimic, Lupin, tiệm cà ri; Fate: gia đình Emiya sau chiến tranh (Kiritsugu, Shirō, Illya ở lâu đài Einzbern) — note mới trong `Database/Fandom/BSD/`.
 3. Plan Arc I (gồm chương Irisviel pn1-02) → duyệt → viết ba model như truyện chính.
 4. Arc II–V: chốt V2, V5, V9, V10, V12 khi tới; mỗi arc crosscheck riêng (KHR Arcobaleno, Byakuran; BSD Guild, BEAST).

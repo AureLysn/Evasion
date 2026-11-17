@@ -78,6 +78,15 @@ Hai part **không nhắc** Risei đã chết; Risei chết từ Act 11 Part 2 (*
 - **Phá Chén** (Act 16 Part 9): ba lệnh bên trên; Archer nói *"Are you trying to ruin my wedding, mongrel?!"* với hắn; hậu quả bùn và đám cháy: [[Holy-Grail]].
 - **Sau cùng** (Act 16 Part 10, *-03:11:56*): đi trong đống đổ nát như cái vỏ rỗng, **không nhận ra Kirei** ở gần.
 
+## Sau chiến tranh lần 4 *(thêm 17/11/2026 — TYPE-MOON Wiki "Kiritsugu Emiya", đọc trực tiếp qua trình duyệt)*
+
+- Lời nguyền: khi Kiritsugu từ chối "Irisviel" trong Chén, nó nguyền hắn **không bao giờ thoát khỏi hối hận cho tới cái chết đau đớn**. [C~]
+- Ngay sau khi phá Chén hắn hiểu ra sai lầm: Chén lớn còn nguyên, bùn từ lõi tràn xuống phố gây đại hoả. [C]
+- Tìm thấy **Shirō** sắp chết, có vẻ là người duy nhất sống sót trong đám cháy; vui mừng vì cứu được một mạng; **cấy Avalon vào Shirō** để cứu cậu; nhận làm con nuôi, sống ở **nhà Emiya mới** mua trong chiến tranh. [C]
+- Gặp Fujimura Taiga, chiều chuộng cô vì giống mối tình đầu Shirley. [C]
+- Khi Shirō đủ lớn, nhiều lần về **lâu đài Einzbern cũ** để gặp con gái (**Illya**); đổi tin vị trí Einzbern với tổ chức Morte lấy ba viên Origin Bullet; **không qua được kết giới**, vì đã mất gần hết khả năng ma thuật. [C]
+- Chết **năm năm sau chiến tranh**, 34 tuổi, nhìn trăng, trao cho Shirō lý tưởng "anh hùng chính nghĩa". [C]
+
 ## Vũ khí
 
 | Vũ khí | Canon |

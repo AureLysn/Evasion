@@ -14,5 +14,6 @@ last_updated: 2026-09-13
 # MOC — BSD / locations
 
 - [[Suribachi-City]] — thành phố trong miệng hố nổ · *13/09/2026*
+- [[Bar-Lupin]] — quán bar tầng hầm của Dazai, Oda, Ango; vị trí chưa xác minh · *17/11/2026*
 
 Template dùng cho thư mục này: `Templates/Location-Note.md`

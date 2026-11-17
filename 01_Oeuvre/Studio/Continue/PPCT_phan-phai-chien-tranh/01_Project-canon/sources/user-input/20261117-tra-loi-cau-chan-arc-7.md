@@ -61,3 +61,4 @@ Lệnh: "hỏi các câu chặn".
 - "Duyệt, viết ch51" — duyệt toàn bộ [[ch51-ds-plan]].
 - "Merge đi" (PR AureLysn/Evasion#13, ch51 — hết truyện chính). "tiếp tục hoàn thiện phiên ngoại". Bốn câu: phạm vi "Cả năm arc" → [[phien-ngoai-du-nam-arc]]; Anh linh "Hiện như bản cũ" → [[anh-linh-hien-trong-phien-ngoai]]; Oda "Như bản cũ: cứu Oda" → [[oda-duoc-cuu-trong-phien-ngoai]]; Irisviel "Một chương riêng" → [[irisviel-co-chuong-rieng-phien-ngoai]].
 - Điểm va chạm phiên ngoại ([[khung-phien-ngoai-deepseek]]): V1 "Xen trong Arc I" + "Sau khai trương, POV Iri"; V2/V3 "Arc I không giải thích (Recommended)"; V4 "Khách thi thoảng (Recommended)"; V11 "Rider tìm Waver trước (Recommended)"; V7 "Như canon (Recommended)"; V8 "Để DeepSeek/GPT đề xuất (Recommended)".
+- "Merge, tra canon" → [[20261117-canon-phien-ngoai-arc-1]]. Ba câu: Q-P1 "Gide bắt một đứa (Recommended)"; Q-P2 "Sống lâu, đón được Illya (Recommended)"; Q-P3 "Cả nhà (Recommended)".
