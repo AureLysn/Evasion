@@ -57,3 +57,5 @@ Lệnh: "hỏi các câu chặn".
 - "Merge đi" (PR AureLysn/Evasion#9, ch48). "Lập plan ch49" → [[ch49-ds-plan]]; "Duyệt đề xuất" (C1–C7, gồm C1 (a): giữ cậu bé trong đám cháy như canon).
 - "Merge, viết ch49"; "Merge đi" (PR AureLysn/Evasion#11, ch49). "Lập plan ch50" → [[ch50-ds-plan]]. "Sửa trước": C3 "Ban tên như ân huệ"; C4 "Quà nhưng không phải ma lực"; C2 "Kiếm vào Dazai"; C5/C7/C8 "Để DeepSeek/GPT đề xuất".
 - "Duyệt, viết ch50" — duyệt toàn bộ [[ch50-ds-plan]].
+- "Merge đi" (PR AureLysn/Evasion#12, ch50). "Lập plan ch51" → [[ch51-ds-plan]]. "Sửa trước": C1 "Cô tự xuống xe"; C2/C3/C4, C5/C6, C7 "Để DeepSeek/GPT đề xuất".
+- "Duyệt, viết ch51" — duyệt toàn bộ [[ch51-ds-plan]].
