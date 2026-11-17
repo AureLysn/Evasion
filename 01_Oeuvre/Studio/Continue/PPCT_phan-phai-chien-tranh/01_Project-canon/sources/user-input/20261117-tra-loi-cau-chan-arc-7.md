@@ -54,3 +54,4 @@ Lệnh: "hỏi các câu chặn".
 - "Duyệt, viết ch47" — duyệt toàn bộ [[ch47-ds-plan]].
 - "Merge đi" (PR AureLysn/Evasion#8, ch47). "Lập plan ch48" → [[ch48-ds-plan]]. "Sửa trước"; chọn sửa C8: "Kết ở Saber tan".
 - "Duyệt, viết ch48" — duyệt toàn bộ [[ch48-ds-plan]].
+- "Merge đi" (PR AureLysn/Evasion#9, ch48). "Lập plan ch49" → [[ch49-ds-plan]]; "Duyệt đề xuất" (C1–C7, gồm C1 (a): giữ cậu bé trong đám cháy như canon).
