@@ -23,7 +23,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-18
 ---
 
-# Plan phiên ngoại Arc II bản DeepSeek — «I Prescelti Sette» · chờ Aurel duyệt
+# Plan phiên ngoại Arc II bản DeepSeek — «I Prescelti Sette» · ✅ AUREL DUYỆT 18/11/2026
 
 > Chín chương, sau [[pn1-04-ds-nhap]]. Hai mạch chạy song song: **Tsuna và nhóm bảy người mạnh nhất** (lời nguyền Arcobaleno) và **Yokohama** (Dazai rời Cảng, vào Tổ Trinh Thám). Giọng: mode **B** (đời thường hài), một chương **A** (II.6, căng), kết ấm.
 > Anh linh ở quán vẫn không giải thích ([[anh-linh-hien-trong-phien-ngoai]]). Sự thật B **lộ một phần** (V2/V12): Checker Face có thật ở thế giới này và mời Tsuna; Tsuna biết họ từ trước nhưng không nói vì sao; 7³ và vai quản trị chỉ ngầm.
@@ -133,7 +133,7 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 - Tiêu đề: 【太纲无差】反派战争 番外·<số> <tên chương> — nối số từ Arc I (番外·五 … 番外·十三) *(C13)*.
 - Cảnh báo OOC kép như truyện chính; lời người viết tiếp một hai câu.
 
-## Điểm C — đề xuất (Aurel chọn: duyệt / sửa / để DeepSeek/GPT)
+## Điểm C — ✅ Aurel duyệt đề xuất 18/11/2026 (C2, C7 để DeepSeek/GPT)
 
 | # | Câu hỏi | Đề xuất | Khác |
 |---|---|---|---|
@@ -157,5 +157,5 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 |---|---|
 | Khung V9, V10, V2/V12; giữ 9 chương | ✅ 18/11/2026 |
 | Canon Arc II, Q-P4–Q-P7 | ✅ [[20261118-canon-phien-ngoai-arc-2]] (Q-P4, Q-P5 để DS/GPT) |
-| Aurel duyệt C1–C13 | ⏳ |
+| Aurel duyệt C1–C13 | ✅ 18/11/2026 ("Duyệt, viết pn2-01": duyệt các đề xuất; C2, C7 để DeepSeek/GPT) |
 | Tra canon Luce, Aria, Talbot (trước pn2-03, pn2-06); Cơ quan Thám tử, Kunikida (trước pn2-05) | ⏳ từng trang |
