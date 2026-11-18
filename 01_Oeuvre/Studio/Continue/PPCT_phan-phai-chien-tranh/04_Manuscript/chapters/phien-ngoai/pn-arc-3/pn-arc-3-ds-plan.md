@@ -169,7 +169,7 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 | C5 | Byakuran thấy "sai" chỗ nào (bản cũ: Reborn dạy Dino không phải em bé — **không khớp**, nhánh để Reborn vẫn là em bé) | **Ở các thế giới khác, bảy người đó không bao giờ ngồi chung một quán** | DS/GPT đề xuất |
 | C6 | 「你比我认识的那个瘦。」 | **Nói ra**, Byakuran không hiểu | Chỉ trong đầu Tsuna |
 | C7 | Báo nhà Giglio Nero | **Gọi Luce**; Luce nhìn huy hiệu dưới mắt trái Yuni rồi im — không ai tính tuổi (V14) | Gọi Aria như bản cũ |
-| C8 | Lưới gặp gỡ trong Arc III | **Q** (pn3-04) và **Kyouka** (pn3-02, theo Atsushi) lên trang; Shibusawa, Fyodor, Thiên Nhân Ngũ Suy dời sau Arc III | Đủ Lưới như bản cũ |
+| C8 | Lưới gặp gỡ trong Arc III | ⚠️ 18/11: Kyouka chưa lên ở pn3-02; Q bỏ khỏi pn3-04 (GPT 4/10 trong chương) → dời chương có Dazai. Đề xuất gốc: **Q** (pn3-04) và **Kyouka** (pn3-02, theo Atsushi) lên trang; Shibusawa, Fyodor, Thiên Nhân Ngũ Suy dời sau Arc III | Đủ Lưới như bản cũ |
 | C9 | Gọi hai Tsuna trên trang | Người lớn **纲吉**; bé **小纲** (Nana gọi 阿纲) | Bé gọi là 纲吉, người lớn là 阿纲 |
 | C10 | Dazai và phong ấn | **Từng thấy một mảnh mơ** (ông già hiền chạm trán đứa bé) không hiểu nghĩa; nghe kể mới ghép lại | "Lần đầu biết" như bản cũ |
 | C11 | Mukuro tìm ra Chrome | **Để sau, nhắc thoáng**: Mukuro nói "còn một người nữa" — Chrome lên trang ở pn3-11 | Như bản cũ, ngay pn3-08 |

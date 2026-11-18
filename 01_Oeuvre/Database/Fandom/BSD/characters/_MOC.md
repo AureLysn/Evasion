@@ -32,5 +32,6 @@ last_updated: 2026-09-28
 - [[Ryuro-Hirotsu]] — chỉ huy Hắc Thằn Lằn · *17/11/2026*
 - [[Andre-Gide]] — thủ lĩnh Mimic, dị năng giống Oda · *17/11/2026*
 - [[Francis-Scott-Key-Fitzgerald]] — thủ lĩnh Guild, dị năng tiêu tiền · *18/11/2026*
+- [[Yumeno-Kyusaku]] — Q, Dogra Magra, búp bê; bị Dazai cho nhốt · *18/11/2026*
 
 Template dùng cho thư mục này: `Templates/Character-Note.md`

@@ -15,14 +15,22 @@ authority: fandom
 confidence: 0.65
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Uni (ユニ) — Giglio Nero
 
 > Nhãn nguồn: `[WP-ja]` · `[wiki-snippet]` (HTTP 402) · `[Baidu]` · `[suy luận]`. Chưa lật manga.
 
-## Nhận dạng
+## Ngoại hình, tính cách, năng lực — đọc trang Uni (reborn.fandom.com, tab Overview) 18/11/2026
+
+- Sinh 15/1; cao 148 cm; trông khoảng **10 tuổi**. Tóc ngắn phía trước, dài phía sau, xanh lam đậm (anime: xanh mòng két tối); mắt xanh.
+- Đồ Giglio Nero: **mũ trắng to hình nấm** có nửa huy hiệu, sọc đen và hai sọc cam; áo choàng dài có huy hiệu ở hai vạt dưới; quần-váy, áo ngắn hở bụng. Huy hiệu Giglio Nero **xăm dưới mắt trái** như Aria và Luce.
+- Tốt bụng, lễ phép, **cảm ơn nhiều lần**, luôn gọi người khác kèm hậu tố "-san"; vị tha, sẵn sàng hy sinh mạng mình; không oán Byakuran.
+- **Đọc được suy nghĩ và cảm xúc người khác**; thấy tương lai (yếu dần vì lời nguyền); **chia sẻ tâm trí với các bản Uni ở thế giới song song** như Byakuran.
+- Tri-ni-sette đáp lại mong muốn của Uni; Byakuran nói Arcobaleno Sky có quyền trên Tri-ni-sette.
+
+## Nhận dạng (ghi chú cũ)
 
 - **Arcobaleno Sky đời thứ ba** (sau Luce → Aria), con gái Aria, cháu Luce; **boss Giglio Nero** vì Aria mất sớm. `[wiki-snippet]`
 - Ở tương lai: boss **Black Spell** của Millefiore. `[WP-ja]`
