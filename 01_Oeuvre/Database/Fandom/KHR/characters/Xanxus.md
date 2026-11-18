@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.85
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-18
 ---
 
 # Xanxus — thủ lĩnh Varia
@@ -49,6 +49,13 @@ Kiêu ngạo vì là con của Nono; coi thường cả đồng minh lẫn kẻ 
 ## Cradle — *"tám năm trước"*
 
 Bị **Zero Point Breakthrough: First Edition** của Nono đóng băng. Sẹo đen toàn thân là từ đó; **trước Cradle ông KHÔNG có sẹo**.
+
+## Cradle Affair — đọc trang reborn.fandom.com/wiki/Cradle_Affair 18/11/2026
+
+- 揺りかご: **cuộc đảo chính** của Xanxus và Varia nhằm lật Nono, ở **tổng hành dinh Vongola**, **tám năm trước arc Varia** (Xanxus ~16).
+- Varia gần như phá sạch căn cứ (HQ bốc cháy) thì Nono đóng băng Xanxus bằng Zero Point Breakthrough → sẹo trên mặt và người.
+- Ngay trước khi bị đóng băng, Xanxus nói với Nono rằng **mình biết bí mật về việc được nhận nuôi** — lúc đó **Squalo mới lần đầu nghe**. Squalo hứa mang chuyện này xuống mồ.
+- **Ottavio**, phó đội trưởng Varia khi ấy, đã lén báo trước kế hoạch cho Nono (nguồn: Secret Bullet 2 *X-Fiamma*).
 
 ## Varia
 
