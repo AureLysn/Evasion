@@ -64,17 +64,20 @@ last_updated: 2026-11-18
 
 Các điểm nhân quả (Lambo, Cradle, Dino, Dazai và phong ấn, Guild, Yuni trên trang, tên gọi hai Tsuna) đã thành C-point có đề xuất trong plan. Không chặn việc duyệt plan.
 
-## 5. Chưa có note Database — tra từng trang khi cần
+## 5. Note Database đã tra trong Arc III — ✅ cập nhật 18/11/2026
 
-| Cần | Trước chương |
-|---|---|
-| Cơ quan Thám tử Vũ trang (tổ chức), *Entrance Exam* (Dazai vào Cơ quan) | pn3-01 |
-| Atsushi gặp Dazai ở bờ sông, ochazuke; Guild (Fitzgerald) | pn3-02 |
-| Kyouka (nếu lên trang theo Lưới) | pn3-02 hoặc pn3-04 |
-| Yumeno Kyuusaku (Q) | pn3-04 |
-| Estraneo (gia tộc), Chrome, Ken và Chikusa | pn3-08 |
-| Verlaine sau Stormbringer | pn3-08 |
-| Kyoko, Ryohei, Haru, Kusakabe | pn3-09 |
-| Nono (Timoteo), Cradle | pn3-07, pn3-10 |
+| Cần | Note | Chương dùng |
+|---|---|---|
+| Cơ quan Thám tử Vũ trang, *Entrance Exam* | ✅ [[Armed-Detective-Agency]] (+ bổ sung Kunikida, Ranpo, Fukuzawa, Dazai, Taneda, Akutagawa, Yosano) | pn3-01 |
+| Atsushi gặp Dazai (manga ch.1); Guild — Fitzgerald | ✅ [[Nakajima-Atsushi]] (bổ sung), [[Francis-Scott-Key-Fitzgerald]] | pn3-02 |
+| Byakuran (ngoại hình, tính cách, nối thế giới song song) | ✅ [[Byakuran-Gesso]] (bổ sung) | pn3-03 |
+| Yuni; Q | ✅ [[Uni]] (bổ sung), [[Yumeno-Kyusaku]] | pn3-04 |
+| Estraneo, Ken và Chikusa; Verlaine | ✅ [[Estraneo-Famiglia]], [[Paul-Verlaine]], [[Rokudo-Mukuro]] (bổ sung), [[Nakahara-Chuuya]] (bổ sung) | pn3-08 |
+| Kyoko, Ryohei, Haru | ✅ [[Kyoko-Sasagawa]], [[Ryohei-Sasagawa]], [[Haru-Miura]] | pn3-09 |
+| Cradle Affair | ✅ [[Xanxus]] (bổ sung) | pn3-10 |
+| Chrome / Nagi | ✅ [[Chrome-Dokuro]] | pn3-11 |
+| Kyouka, Kusakabe, Nono (Timoteo) | ⏳ chưa tra — Kyouka chưa lên trang; Kusakabe chỉ một câu; Nono chỉ qua lời kể | — |
+
+**Sửa điểm vênh cũ (18/11/2026):** note [[Colonnello]] ghi Colonnello là "cấp trên của Lal" — **sai**; trang Colonnello: Colonnello là học trò của Lal ở COMSUBIN, Lal là hôn thê (infobox). Đã sửa Colonnello và bổ sung [[Lal-Mirch]].
 
 Nhớ luật: đọc từng trang một, không quét hàng loạt.

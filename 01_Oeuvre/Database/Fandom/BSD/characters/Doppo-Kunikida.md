@@ -45,7 +45,14 @@ Nhãn: [C] canon qua wiki (đọc trực tiếp) · [?] chưa xác minh.
 
 ## Giới hạn
 
-- Mới đọc tab Introduction; chưa đọc Synopsis, chưa đọc light novel *Entrance Exam*.
+- Mới đọc tab Introduction; chưa đọc Synopsis. *Entrance Exam*: chỉ qua tóm tắt wiki (18/11/2026), chưa đọc light novel.
+
+## Bổ sung 18/11/2026 — *Osamu Dazai's Entrance Exam* (tóm tắt wiki, xem [[Armed-Detective-Agency]])
+
+- Light novel kể qua mắt Kunikida. Fukuzawa giao Kunikida **coi kỳ thi của Dazai**, kèm lệnh riêng: nếu Dazai dính âm mưu hại Cơ quan thì giết.
+- Kunikida **giả bắn Dazai** để lừa kẻ đứng sau (Azure Messenger); dùng The Matchless Poet tái tạo khoá huỷ để cứu chiếc máy bay; đánh tay đôi với Akutagawa khi Akutagawa tấn công chiếc taxi.
+- Kết: Kunikida cho Dazai đậu; Dazai khuyên anh đừng đuổi theo thế giới lý tưởng nữa.
+- Mạch chính chương 1: Kunikida đứng bờ bên kia sông Tsurumi, bị Dazai bắt trả tiền bữa chazuke cho Atsushi; mảnh giấy Dazai gửi ghi chỗ hổ xuất hiện.
 
 ## Project nào dùng theo hướng nào
 

@@ -43,6 +43,10 @@ Tóc đen cắt bob qua cằm, mái bằng; **mắt đỏ tím (magenta)**. Áo 
 - Khi dùng: **bướm** bay ra từ người cô, đậu xung quanh; người bị thương chạm bướm thì lành ngay.
 - Kỹ năng: cận chiến bằng **dao phay lớn**; cưa máy là dụng cụ "chữa" quen thuộc; kiến thức giải phẫu.
 
+## Bổ sung 18/11/2026
+
+- *Entrance Exam*: có mặt ở buổi họp của Cơ quan về vụ Azure Messenger (tóm tắt wiki). Manga chương 1: ở vòng vây ngoài nhà kho bắt hổ. Xem [[Armed-Detective-Agency]]. [C~]
+
 ## Giới hạn / chưa xác minh
 
 - Mới đọc tab Introduction; chưa đọc Synopsis, Relationships, chưa lật manga. Quan hệ cụ thể với Mori thời Đại Chiến chưa đọc trực tiếp (chỉ biết cùng bối cảnh chiến tranh).

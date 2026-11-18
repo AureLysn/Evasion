@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.65
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Nakahara Chūya (BSD)
@@ -40,6 +40,10 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [I] · [?].
 - Cán bộ Port Mafia, quyền **chỉ dưới thủ lĩnh Dazai**. Muốn giết Dazai nhưng **bảo vệ** hắn vì không muốn phản tổ chức. [C~]
 - Sau khi Dazai tự sát mà **không nói gì với hắn**, Chūya mất kiểm soát, phá mọi thứ trên đường đến khi **bị quân đội bắt**. [?] — một trích đoạn duy nhất, không rõ nguồn gốc (LN / phim / tác phẩm khác).
 - Phim live-action: Ueda Keisuke đóng Chūya. [C] — en.wikipedia.
+
+## Bổ sung 18/11/2026
+
+- **Paul Verlaine** là "anh trai danh dự" của Chuuya; Verlaine đồng cảm vì cả hai là thực thể nhân tạo, từng là mẫu thí nghiệm — xem [[Paul-Verlaine]]. [C]
 
 ## Giới hạn
 

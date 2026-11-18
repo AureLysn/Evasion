@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.65
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Dazai Osamu (BSD)
@@ -145,6 +145,13 @@ Dị năng **Nhân gian thất cách** (人間失格, *Ningen Shikkaku*): **vô 
 - [N] ***"Dazai biết hết, không bao giờ sai."*** Phản chứng canon mạnh nhất: hắn **không cứu được Oda**. Gide giết lũ trẻ rồi Oda chết trong trận đấu [C — Wikipedia]. Việc Dazai không ngăn được là suy luận của mình từ cốt truyện, `authority: ai`. Ở *Dead Apple*, hắn sống sót nhờ **kế hoạch + Chuuya**, tức là có dựa vào người khác [C — Wikipedia]. Chính Oda nói trí óc hắn **không đưa hắn tới đâu hơn**, và đó mới là nỗi khổ [C — bản dịch fan LN]. Nháp AI cũ ghi "tác giả nói Dazai hoài nghi mọi người như nhau". **Chưa tìm được nguồn** cho lời tác giả đó [?].
 - [N] ***"Cá thu / sên"*** (Mackerel / Slug, 青鯖 / 蛞蝓). TV Tropes (snippet, trong [[trope-fandom-bsd]]) nói hai từ này **chỉ có trong một omake**. **Baidu thì ngược lại**: liệt "Blue Mackerel / Sardine" vào biệt danh của Dazai, và nói hắn **lưu số Chuuya là "Slug"**. **Nguồn vênh nhau, chưa xác minh** [?]. Dùng như câu thoại canon thì rủi ro.
 - [N] ***"Nhân gian thất cách hoạt động theo vùng / hào quang."*** Canon nói **phải chạm** [C — Wikipedia].
+
+## Bổ sung 18/11/2026 — vào Cơ quan và gặp Atsushi (xem [[Armed-Detective-Agency]], [[Nakajima-Atsushi]])
+
+- Sau **hai năm** ẩn mình, **Taneda** giới thiệu Dazai cho Fukuzawa; hồ sơ sạch tới mức đáng ngờ. Kỳ thi vào Cơ quan do **Kunikida** coi (light novel *Entrance Exam*, tóm tắt wiki): kẻ đứng sau đổ tội cho Dazai, Kunikida giả bắn hắn để gài bẫy; Dazai đậu. [C~]
+- Dazai chạm Ranpo để thử: "siêu suy luận" không bị vô hiệu → không phải dị năng. [C~]
+- Manga chương 1: trôi trên **sông Tsurumi**, được Atsushi kéo lên, trách bị phá vụ tự tử "sạch sẽ"; ví trôi mất; đãi Atsushi **chazuke** bằng tiền Kunikida; đêm ở **nhà kho phía Tây quận 15** vô hiệu hoá hổ trắng, đề nghị nhận Atsushi vào Cơ quan. [C]
+- Cho nhốt **Q** sau một vụ làm nhiều người Cảng chết (xem [[Yumeno-Kyusaku]]); là cách duy nhất đã biết để chặn Dogra Magra. [C]
 
 ## Giới hạn / chưa xác minh
 

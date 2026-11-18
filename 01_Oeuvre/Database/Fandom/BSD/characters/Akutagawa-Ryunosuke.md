@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.65
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Akutagawa Ryūnosuke (BSD)
@@ -110,6 +110,11 @@ Bối cảnh chung: [[BEAST-IF]]. **Thế giới khác — không bê sang mạc
 - [N] *"Hắn lạnh lùng, tàn nhẫn với Gin."* — Các trích đoạn về quan hệ anh em đọc được **nói ngược lại**.
 - [N] *"Chó điên của Port Mafia" là danh hiệu chính thức.* — Xem mục 3: chưa truy được về văn bản gốc.
 - [N]/[C] *"Dazai bạo hành hắn."* — Cách dạy khắc nghiệt là canon (ciatr; Hắc Thời Đại); còn gọi đó là gì, và mức độ ra sao, là **cách đọc** của fandom.
+
+## Bổ sung 18/11/2026 — *Entrance Exam* (tóm tắt wiki, xem [[Armed-Detective-Agency]])
+
+- Người Cảng tấn công chiếc taxi chở tài xế nhân chứng; Akutagawa đánh với **Kunikida**, trận bị cắt ngang. [C~]
+- Interlude 2: Akutagawa tìm và giết kẻ có dị năng "số" vì đã lừa Cảng trong vụ buôn nội tạng; một người da trắng (gặp ở đại sứ quán) lộ là đặc vụ làm cho **Guild** tiếp cận hắn; Akutagawa tiếp tục truy tìm Dazai. [C~]
 
 ## Giới hạn / chưa xác minh
 

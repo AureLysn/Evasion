@@ -37,7 +37,7 @@ last_updated: 2026-09-28
 
 ## Chưa xác minh
 
-- `[Baidu]` Lal **cưới Colonnello** — chỉ Baidu, không số chương. ⛔ Đừng dùng như canon.
+- `[Baidu]` Lal **cưới Colonnello** — chỉ Baidu, không số chương. ⛔ Đừng dùng như canon. — Bổ sung 18/11/2026: infobox trang Colonnello (reborn.fandom.com) ghi Lal là **hôn thê** (fiancée) của Colonnello; vẫn chưa có chương xác nhận cưới.
 
 ## Project nào dùng theo hướng nào
 
