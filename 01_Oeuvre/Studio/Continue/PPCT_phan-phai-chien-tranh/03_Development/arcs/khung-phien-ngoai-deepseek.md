@@ -38,7 +38,7 @@ last_updated: 2026-11-18
 | II | I Prescelti Sette | 9 | Akutagawa · Checker Face mời Tsuna vào nhóm 7 · lời nguyền Arcobaleno · Yokohama song song (Dazai rời Cảng, vào Tổ Trinh Thám) · ngày định mệnh · 修罗场 · nhà thêm phòng · khách trà (Kawahira, Vindice) | **sự thật B** (7³, quản trị viên); BSD sau Hắc Thời Đại, Guild |
 | III | Ba đứa trẻ | **11** (V13) | **pn3-01 vào Tổ · pn3-02 Atsushi** · Byakuran nhớ mang máng · Yuni · bé Tsuna 5 tuổi bị phong ấn · hai Tsuna · chuyện cũ · Estraneo · nhặt đủ một bầu trời · Xanxus kế vị · Oda viết tiểu thuyết | **sự thật B** (Byakuran, 7³); fanon phê phán Nono/Iemitsu |
 | IV | Tuyển tập gag Fate | 4 (V17–V20) | Bé Tsuna làm Master của Enkidu · Tsuna+Dazai rơi vào F/Z canon · quấy Kiritsugu · Chén Thánh 14 người | Gilgamesh; gia đình Emiya |
-| V | Xem và phản ứng | 6 | A-BSD: Cuốn Sách, chiếu Hắc Thời Đại gốc, BEAST · B-KHR: Byakuran+Uni không-Tsuna, 7³ | **sự thật B** lộ toàn phần |
+| V | Xem và phản ứng | **3** (V21, chỉ bản A) | A-BSD: Cuốn Sách, chiếu Hắc Thời Đại gốc, BEAST · B-KHR: Byakuran+Uni không-Tsuna, 7³ | **sự thật B** lộ toàn phần |
 
 Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor, Thiên Nhân Ngũ Suy, Verlaine…) và quy ước CP phụ của dàn ý cũ (Phần III).
 
@@ -80,8 +80,12 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V18 | IV.2: "Fate/Zero canon đã có một tổ Caster rồi" (18/11) | IV.2 tập trung vào những gì **không xảy ra** trong nhánh vì Tsuna và Dazai đã thành tổ Caster (Gilles–Ryūnosuke, quái vật biển…); **thế giới canon không có dị năng hay năng lực khác** |
 | V19 | "Kirei canon sao thì đây vậy, hai Kirei khác nhau" (18/11) | Kirei ở thế giới Fate/Zero canon theo đúng canon; Kirei của nhánh là người khác, không đụng |
 | V20 | "Ngoại truyện là các đoạn ngắn hài hước, xuyên qua du lịch xong lại trở về" (18/11) | Arc IV: mỗi chương một chuyến đi rồi về; **không** trả nợ chén rượu của vua (V6) — chén ở nhà Dazai vẫn để ngỏ |
+| V21 | "Chỉ bản A (BSD)" (18/11) | Arc V còn **3 chương** — bản A «Cuốn Sách»; bỏ bản B (KHR, Byakuran–Uni thế giới không Tsuna, 7³) |
+| V22 | "Giữ cả ba ở mức ngầm" (18/11) | Arc V **không** lộ bằng lời: Tsuna kế vị 7³ · Dazai mang ký ức kiếp trước · Tsuna bị Byakuran giết; tránh mọi leak_terms (kể cả 「那本书」 — gọi Cuốn Sách là 「书」/「那本会自己翻页的书」) |
+| V23 | "BSD canon thay vì BEAST" (18/11) | V-A.3 chiếu **mạch chính BSD canon** (thế giới Oda đã chết: Dazai vào Cơ quan, Atsushi, Akutagawa…), **không** chiếu BEAST |
+| V24 | "Đổi thành có, ngắn" (18/11) | Nguyện vọng (c) của Cuốn Sách — "một người viết với mong muốn đủ mạnh" — nối với 《晴日》 của Oda (pn3-11) bằng **một nhịp ngắn**, không giải thích |
 
-Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Arc III xong 11 chương (18/11). Arc IV khung V17–V20 (18/11); V5 → V19; V6 vẫn để ngỏ (V20).
+Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Arc III xong 11 chương (18/11). Arc IV khung V17–V20 (18/11); Arc V khung V21–V24 (18/11), plan [[pn-arc-5-ds-plan]] chờ duyệt; V5 → V19; V6 vẫn để ngỏ (V20).
 
 ## Trình tự đề xuất
 
