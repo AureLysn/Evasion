@@ -50,4 +50,8 @@ last_updated: 2026-09-28
 - [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Fon|Fon]] — Arcobaleno Bão; và câu hỏi họ hàng với nhà Hibari
 - [[Uni]] — Arcobaleno Sky đời ba, boss Giglio Nero; gửi ký ức tương lai về quá khứ; Team Uni
 
+- [[Kyoko-Sasagawa]] — em gái Ryohei, tóc dài tới hết mẫu giáo, vô tư tin người · *18/11/2026*
+- [[Ryohei-Sasagawa]] — cực hạn, quyền anh, sẹo từ tai nạn hồi tiểu học · *18/11/2026*
+- [[Haru-Miura]] — đuôi ngựa, thể dục dụng cụ, đi thăng bằng trên tường · *18/11/2026*
+
 Template dùng cho thư mục này: `Templates/Character-Note.md`
