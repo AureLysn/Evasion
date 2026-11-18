@@ -104,4 +104,4 @@ Những người được cứu khỏi một số phận phải ngồi xem đún
 |---|---|
 | Khung V21–V24 | ✅ 18/11/2026 |
 | Aurel duyệt C1–C8 | ✅ 18/11/2026 |
-| Tra *Dark Era* (Oda chết, lời trăng trối) trước pn5-02; Akutagawa–Atsushi trận đầu trước pn5-03 | ⏳ |
+| Tra *Dark Era* (Oda chết, lời trăng trối) trước pn5-02; Akutagawa–Atsushi trận đầu trước pn5-03 | ✅ 18/11/2026 (wiki, ghi vào Database) |

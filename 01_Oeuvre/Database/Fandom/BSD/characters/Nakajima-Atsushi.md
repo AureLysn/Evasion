@@ -38,6 +38,15 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [I] · [?].
 - Atsushi hoá hổ, Dazai né rồi chạm → vô hiệu; Atsushi ngất, **không nhớ** lúc hoá hổ. Kunikida tới; mảnh giấy ghi chỗ hổ xuất hiện và lệnh vây; Yosano, Ranpo, Kenji có mặt. Dazai đề nghị nhận Atsushi vào Cơ quan. [C]
 - Kỳ thi của Atsushi (trang [[Armed-Detective-Agency]]): Tanizaki đóng giả kẻ đánh bom; Atsushi lấy thân che bom → đậu. [C]
 
+## Canon — trận đầu với Akutagawa (manga ch.3–4)
+
+- Vụ đầu tiên: một phụ nữ nhờ điều tra buôn lậu sau toà nhà công ty; Kunikida phái **Tanizaki, Atsushi** (Naomi đi theo), dặn Atsushi gặp **Akutagawa** ("chó của Cảng Mafia") thì chạy. Người phụ nữ là **Higuchi Ichiyō** — dẫn họ vào **ngõ cụt**, là bẫy. [C]
+- Higuchi bắn; **Naomi đỡ đạn cho anh**; Tanizaki tàng hình (Light Snow) bóp cổ Higuchi thì bị **Rashōmon** đâm xuyên. Akutagawa tự giới thiệu là chó giữ nhà của Cảng; tát Higuchi vì lệnh là **bắt sống người-hổ**; nói Atsushi mang tai hoạ cho người quanh mình. [C]
+- Atsushi nhặt súng bắn hết đạn — Rashōmon **nuốt cả không gian** đạn bay qua. Akutagawa làm đúng lời doạ: Rashōmon chém đứt chân Atsushi; Atsushi nhớ lại cô nhi viện, rồi **hoá hổ**, tái sinh vết thương, hất Akutagawa vào tường. Tanizaki dùng ảo ảnh đánh lạc hướng. [C]
+- **Dazai** tới (đã gài máy nghe lén vào túi Higuchi lúc rủ cô "tự tử đôi"), **vô hiệu cả hai dị năng**; Atsushi ngất. Akutagawa cho biết đầu Atsushi treo **bảy tỷ yên**; Dazai thách Cảng gây chiến với Cơ quan; Akutagawa lộ ra Dazai **từng là người Cảng Mafia**. [C]
+
+Nguồn mục này: trang wiki *Chapter 3*, *Chapter 4* (bungostraydogs.fandom.com, đọc 18/11/2026).
+
 ## BEAST — ⚠️ spoiler
 
 - Thuộc **Port Mafia**, bị sợ với danh **"Tử thần Trắng"** (White Reaper). [C] — yenpress.com, synopsis chính thức.
