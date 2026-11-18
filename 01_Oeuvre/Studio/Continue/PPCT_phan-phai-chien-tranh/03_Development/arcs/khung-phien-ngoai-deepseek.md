@@ -37,7 +37,7 @@ last_updated: 2026-11-18
 | I | Yokohama & quán Lupin | **4** | pn1-01 Khai trương (Chuuya, Kouyou, Hirotsu, Mori; Rider/Saber/Lancer ở quán; Archer ghé) · **pn1-02 Irisviel (POV Iri, tìm tới quán)** · pn1-03 Lupin, Mimic, lỡ Oda · pn1-04 cứu Oda, bệnh viện, Ango | BSD Hắc Thời Đại; lời mời lên trang; gia đình Emiya |
 | II | I Prescelti Sette | 9 | Akutagawa · Checker Face mời Tsuna vào nhóm 7 · lời nguyền Arcobaleno · Yokohama song song (Dazai rời Cảng, vào Tổ Trinh Thám) · ngày định mệnh · 修罗场 · nhà thêm phòng · khách trà (Kawahira, Vindice) | **sự thật B** (7³, quản trị viên); BSD sau Hắc Thời Đại, Guild |
 | III | Ba đứa trẻ | **11** (V13) | **pn3-01 vào Tổ · pn3-02 Atsushi** · Byakuran nhớ mang máng · Yuni · bé Tsuna 5 tuổi bị phong ấn · hai Tsuna · chuyện cũ · Estraneo · nhặt đủ một bầu trời · Xanxus kế vị · Oda viết tiểu thuyết | **sự thật B** (Byakuran, 7³); fanon phê phán Nono/Iemitsu |
-| IV | Tuyển tập gag Fate | 4 | Bé Tsuna làm Master của Enkidu · Tsuna+Dazai rơi vào F/Z canon · quấy Kiritsugu · Chén Thánh 14 người | Gilgamesh; gia đình Emiya |
+| IV | Tuyển tập gag Fate | 4 (V17–V20) | Bé Tsuna làm Master của Enkidu · Tsuna+Dazai rơi vào F/Z canon · quấy Kiritsugu · Chén Thánh 14 người | Gilgamesh; gia đình Emiya |
 | V | Xem và phản ứng | 6 | A-BSD: Cuốn Sách, chiếu Hắc Thời Đại gốc, BEAST · B-KHR: Byakuran+Uni không-Tsuna, 7³ | **sự thật B** lộ toàn phần |
 
 Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor, Thiên Nhân Ngũ Suy, Verlaine…) và quy ước CP phụ của dàn ý cũ (Phần III).
@@ -76,8 +76,12 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V14 | "Lệch thời gian có chủ đích, giữ Yuni" (18/11) | Luce mới mang thai Aria ở Arc II mà Yuni vẫn có mặt ở Arc III; nhánh không giải thích, trên trang không tính tuổi Luce/Aria/Yuni |
 | V15 | "Byakuran lên trang, 7³ vẫn ngầm" (18/11) | 白兰, thế giới song song, nhẫn Mare được nhắc; Tsuna kế vị 7³ / quản trị viên vẫn chỉ ngầm tới Arc V |
 | V16 | "Như bản cũ" (18/11) | Nono phong ấn, Iemitsu biệt tăm, Nana bản manga — gắn nhãn [Fanon-phê phán canon] |
+| V17 | "Tính vào dòng chính như là thời gian không xác định, không cần khớp hoàn toàn" (18/11) | Arc IV là phiên ngoại trong nhánh, không gắn mốc năm; được lệch nhẹ với Arc I–III |
+| V18 | IV.2: "Fate/Zero canon đã có một tổ Caster rồi" (18/11) | IV.2 tập trung vào những gì **không xảy ra** trong nhánh vì Tsuna và Dazai đã thành tổ Caster (Gilles–Ryūnosuke, quái vật biển…); **thế giới canon không có dị năng hay năng lực khác** |
+| V19 | "Kirei canon sao thì đây vậy, hai Kirei khác nhau" (18/11) | Kirei ở thế giới Fate/Zero canon theo đúng canon; Kirei của nhánh là người khác, không đụng |
+| V20 | "Ngoại truyện là các đoạn ngắn hài hước, xuyên qua du lịch xong lại trở về" (18/11) | Arc IV: mỗi chương một chuyến đi rồi về; **không** trả nợ chén rượu của vua (V6) — chén ở nhà Dazai vẫn để ngỏ |
 
-Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Còn mở: V5 (Kirei), V6 (chén rượu).
+Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Arc III xong 11 chương (18/11). Arc IV khung V17–V20 (18/11); V5 → V19; V6 vẫn để ngỏ (V20).
 
 ## Trình tự đề xuất
 
