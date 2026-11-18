@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争26（DeepSeek版）"
 aliases: ["ch26 ban DeepSeek nhap", "chương 26 bản song song DeepSeek", "反派战争26 DeepSeek"]
 related: ["[[ch26-ds-the-canh]]", "[[ch26-ds-kiem]]", "[[deepseek-20261115]]", "[[ch25-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch26/ch26-chapter|ch26-chapter (aurel-main, final)]]"]
 source:

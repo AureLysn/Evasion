@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.diarmuid, character.PPCT.artoria]
 language: zh
+title: "【太纲无差】反派战争25（DeepSeek版）"
 aliases: ["ch25 ban DeepSeek nhap", "chương 25 bản song song DeepSeek", "反派战争25 DeepSeek"]
 related: ["[[ch25-ds-the-canh]]", "[[ch25-ds-kiem]]", "[[deepseek-20261115]]", "[[ch24-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch25/ch25-chapter|ch25-chapter (aurel-main, final)]]"]
 source:

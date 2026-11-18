@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争51（DeepSeek版）"
 aliases: ["ch51 ban DeepSeek nhap", "chương 51 bản song song DeepSeek", "反派战争51 DeepSeek", "chuong cuoi truyen chinh nhanh DeepSeek"]
 related: ["[[ch51-ds-plan]]", "[[ch51-ds-the-canh]]", "[[ch51-ds-kiem]]", "[[deepseek-20261115]]", "[[ch50-ds-nhap]]"]
 source:

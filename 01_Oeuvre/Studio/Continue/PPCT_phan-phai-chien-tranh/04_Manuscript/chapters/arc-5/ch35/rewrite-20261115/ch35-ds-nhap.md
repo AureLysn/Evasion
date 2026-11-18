@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.kiritsugu]
 language: zh
+title: "【太纲无差】反派战争35（DeepSeek版）"
 aliases: ["ch35 ban DeepSeek nhap", "chương 35 bản song song DeepSeek", "反派战争35 DeepSeek"]
 related: ["[[ch35-ds-the-canh]]", "[[ch35-ds-kiem]]", "[[deepseek-20261115]]", "[[ch34-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter|ch35-chapter (aurel-main, final)]]"]
 source:

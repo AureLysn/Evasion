@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争32（DeepSeek版）"
 aliases: ["ch32 ban DeepSeek nhap", "chương 32 bản song song DeepSeek", "反派战争32 DeepSeek"]
 related: ["[[ch32-ds-the-canh]]", "[[ch32-ds-kiem]]", "[[deepseek-20261115]]", "[[ch31-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch32/ch32-chapter|ch32-chapter (aurel-main, final)]]"]
 source:

@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争20（DeepSeek版）"
 aliases: ["ch20 ban DeepSeek nhap", "chương 20 bản song song DeepSeek", "反派战争20 DeepSeek"]
 related: ["[[ch20-ds-the-canh]]", "[[ch20-ds-kiem]]", "[[deepseek-20261115]]", "[[ch19-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch20/ch20-chapter|ch20-chapter (aurel-main, final)]]"]
 source:

@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争45（DeepSeek版）"
 aliases: ["ch45 ban DeepSeek nhap", "chương 45 bản song song DeepSeek", "反派战争45 DeepSeek"]
 related: ["[[ch45-ds-plan]]", "[[ch45-ds-the-canh]]", "[[ch45-ds-kiem]]", "[[deepseek-20261115]]", "[[ch44-ds-nhap]]"]
 source:

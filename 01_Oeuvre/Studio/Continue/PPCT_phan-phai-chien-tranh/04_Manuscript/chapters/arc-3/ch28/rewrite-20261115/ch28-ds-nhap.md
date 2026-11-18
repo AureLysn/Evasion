@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.sola-ui, character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争28（DeepSeek版）"
 aliases: ["ch28 ban DeepSeek nhap", "chương 28 bản song song DeepSeek", "反派战争28 DeepSeek"]
 related: ["[[ch28-ds-the-canh]]", "[[ch28-ds-kiem]]", "[[deepseek-20261115]]", "[[ch27-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter|ch28-chapter (aurel-main, final)]]"]
 source:

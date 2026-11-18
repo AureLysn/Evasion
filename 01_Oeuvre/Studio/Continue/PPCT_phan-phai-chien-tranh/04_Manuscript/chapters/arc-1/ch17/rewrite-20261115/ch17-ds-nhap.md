@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.waver, character.PPCT.dazai]
 language: zh
+title: "【太纲无差】反派战争17（DeepSeek版）"
 aliases: ["ch17 ban DeepSeek nhap", "chương 17 bản song song DeepSeek", "反派战争17 DeepSeek"]
 related: ["[[ch17-ds-the-canh]]", "[[ch17-ds-kiem]]", "[[deepseek-20261115]]", "[[ch16-ds-nhap]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17-chapter (aurel-main, final)]]"]
 source:

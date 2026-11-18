@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.kariya]
 language: zh
+title: "【太纲无差】反派战争39（DeepSeek版）"
 aliases: ["ch39 ban DeepSeek nhap", "chương 39 bản song song DeepSeek", "反派战争39 DeepSeek"]
 related: ["[[ch39-ds-the-canh]]", "[[ch39-ds-kiem]]", "[[deepseek-20261115]]", "[[ch38-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-chapter|ch39-chapter (aurel-main, final)]]"]
 source:
