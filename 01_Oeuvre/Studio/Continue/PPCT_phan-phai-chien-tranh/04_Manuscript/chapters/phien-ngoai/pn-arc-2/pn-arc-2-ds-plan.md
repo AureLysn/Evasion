@@ -146,7 +146,7 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 | C7 | Khoảng thời gian Arc II (Q-P5) | ✅ **Aurel 18/11/2026: "Ngắn, Dazai ẩn mình"** — Arc II dưới một năm (canon: Luce mang thai Aria lúc bị nguyền); Dazai rời Cảng, ẩn mình ở quán; vào Tổ, Ranpo, Kunikida, Atsushi, Guild dời sang đầu Arc III; pn2-07 bỏ Moby Dick. DS viết 3 bản; GPT chọn ~4 năm (không biết chi tiết Luce) | — |
 | C8 | Vindice ở ngày định mệnh | **Tới vì Checker Face** (mối thù của họ), không vì Tsuna gọi | Tsuna mời trước qua Bermuda |
 | C9 | Kết quả lời nguyền | **Lời nguyền kích hoạt rồi được giải ngay** — họ thành em bé, chỉ Lal về dáng người lớn (như canon sau giải nguyền) | Giải trước khi kích hoạt — không ai bị thu nhỏ |
-| C10 | Yosano ở pn2-07 | **Có** — "bác sĩ duy nhất dám quát cả bảy người ra khỏi phòng" | Không; để Arc III |
+| C10 | Yosano ở pn2-07 | **Có** — "bác sĩ duy nhất dám quát cả bảy người ra khỏi phòng" · giá (C-b, GPT chọn): Dazai nợ Yosano một lần "tự xác nhận" — gieo Arc III | Không; để Arc III |
 | C11 | Câu kết pn2-07 | 「每次都让我来晚。」 | DS/GPT đề xuất |
 | C12 | Khách ở pn2-09 | Akutagawa, Gin, Oda và lũ trẻ, Chuuya, Kawahira, Bermuda (Ranpo, Atsushi dời — C7) | Bớt Gin (để Arc III) |
 | C13 | Tiêu đề | 番外·五 … 番外·十三 | 番外 II·一 … |
