@@ -85,7 +85,7 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V23 | "BSD canon thay vì BEAST" (18/11) | V-A.3 chiếu **mạch chính BSD canon** (thế giới Oda đã chết: Dazai vào Cơ quan, Atsushi, Akutagawa…), **không** chiếu BEAST |
 | V24 | "Đổi thành có, ngắn" (18/11) | Nguyện vọng (c) của Cuốn Sách — "một người viết với mong muốn đủ mạnh" — nối với 《晴日》 của Oda (pn3-11) bằng **một nhịp ngắn**, không giải thích |
 
-Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Arc III xong 11 chương (18/11). Arc IV khung V17–V20 (18/11); Arc V khung V21–V24 (18/11), plan [[pn-arc-5-ds-plan]] chờ duyệt; V5 → V19; V6 vẫn để ngỏ (V20).
+Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Arc III xong 11 chương (18/11). Arc IV khung V17–V20 (18/11); Arc V khung V21–V24 (18/11), plan [[pn-arc-5-ds-plan]] Aurel duyệt 18/11/2026; V5 → V19; V6 vẫn để ngỏ (V20).
 
 ## Trình tự đề xuất
 

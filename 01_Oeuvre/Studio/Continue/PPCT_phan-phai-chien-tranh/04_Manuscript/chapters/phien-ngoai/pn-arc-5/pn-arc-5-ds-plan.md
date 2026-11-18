@@ -23,7 +23,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-18
 ---
 
-# Plan phiên ngoại Arc V bản DeepSeek — «Xem và phản ứng» · CHỜ AUREL DUYỆT
+# Plan phiên ngoại Arc V bản DeepSeek — «Xem và phản ứng» · ✅ AUREL DUYỆT 18/11/2026
 
 > Ba chương, chỉ **bản A «Cuốn Sách»** (V21). Thể loại "xem và phản ứng": mỗi chương tách rõ khối **«nội dung xem»** và khối **«phản ứng»**; phản ứng đúng tính cách canon từng người.
 > **Ba bí mật của truyện chính giữ ngầm** (V22): không lời nào nói Tsuna kế vị 7³, Dazai mang ký ức kiếp trước, Tsuna bị Byakuran giết. Tránh mọi `leak_terms` — gọi Cuốn Sách là 「书」 / 「那本会自己翻页的书」, **không** 「那本书」, 「前世」.
@@ -85,7 +85,7 @@ Những người được cứu khỏi một số phận phải ngồi xem đún
 - Mỗi chương đánh dấu khối bằng hai tiêu đề nhỏ trong văn bản: 【放映】 và 【反应】 *(C8)*.
 - Cảnh báo OOC kép; chương pn5-02 thêm cảnh báo nhân vật chết (canon).
 
-## Điểm C — chờ Aurel duyệt
+## Điểm C — ✅ Aurel duyệt đề xuất 18/11/2026 ("Duyệt, viết pn5-01"; C4 vốn để DeepSeek/GPT)
 
 | # | Câu hỏi | Đề xuất | Khác |
 |---|---|---|---|
@@ -103,5 +103,5 @@ Những người được cứu khỏi một số phận phải ngồi xem đún
 | Điều kiện | Trạng thái |
 |---|---|
 | Khung V21–V24 | ✅ 18/11/2026 |
-| Aurel duyệt C1–C8 | ⏳ |
+| Aurel duyệt C1–C8 | ✅ 18/11/2026 |
 | Tra *Dark Era* (Oda chết, lời trăng trối) trước pn5-02; Akutagawa–Atsushi trận đầu trước pn5-03 | ⏳ |
