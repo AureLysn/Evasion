@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.85
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-18
 ---
 
 # Byakuran Gesso
@@ -23,6 +23,13 @@ last_updated: 2026-09-13
 ## Nhận dạng
 
 Thủ lĩnh Gesso rồi Millefiore; phản diện arc Tương Lai.
+
+## Ngoại hình và tính cách — đọc lại trang Byakuran (tab Overview) 18/11/2026
+
+- Sinh **14/3**; cao 183 cm. Tóc trắng dựng, mắt tím nhạt; **hình xăm tím dưới mắt trái**. Hiện tại mặc thường: áo gi-lê có mũ, sơ mi dài tay, vòng cổ choker, thắt lưng lỏng, jeans rách.
+- Tương lai: vui vẻ với cấp dưới chừng nào họ còn làm hắn hứng thú; chán ai là giết; giấu tàn nhẫn sau vẻ hiền; coi người và thế giới là đồ chơi.
+- Hiện tại: sau khi bản tương lai thua Tsuna, đổi tính nhờ lòng tốt của Uni (cứu hắn khỏi **cô đơn**); vẫn thảnh thơi, dễ dãi, khiến Gamma bực.
+- **Nối với các thế giới song song:** vì Shoichi du hành tới tương lai và gặp hai bản Byakuran, Byakuran nối tinh thần với mọi Byakuran ở các thế giới song song; dùng xong phải mất một ngày hồi sức. Uni nói năng lực này **yếu dần**.
 
 ## Canon
 
