@@ -68,3 +68,4 @@ Lệnh: "hỏi các câu chặn".
 - "Merge, lập plan Arc II" (PR AureLysn/Evasion#19, pn1-04 — hết Arc I). Bốn câu: V9 "Như bản cũ (Recommended)"; V10 "Akutagawa hiện tại (Recommended)"; V2/V12 "Lộ một phần (Recommended)"; quy mô "Giữ 9 chương (Recommended)".
 - Canon Arc II ([[20261118-canon-phien-ngoai-arc-2]]): Q-P4 "Để DS/GPT đề xuất"; Q-P5 "Để DS/GPT đề xuất"; Q-P6 "Canon + Tsuna (Recommended)"; Q-P7 "Nuôi trẻ và viết (Recommended)".
 - "Duyệt, viết pn2-01" — duyệt toàn bộ [[pn-arc-2-ds-plan]] (C1–C13 theo đề xuất; C2, C7 để DeepSeek/GPT).
+- "Merge, viết pn2-02" (PR AureLysn/Evasion#20 plan, #21 pn2-01); "Merge, viết pn2-03" (#22); "Merge, viết pn2-04" (#23); "Merge, viết pn2-05" (#24). Khi viết pn2-05, C7 vướng chi tiết canon Luce mang thai lúc bị nguyền → hỏi lại; Aurel: "Ngắn, Dazai ẩn mình (Recommended)".

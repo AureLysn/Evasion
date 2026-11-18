@@ -70,8 +70,8 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 1. Dazai ở nhà phá phách vì bị bỏ lại; **Chuuya** chịu trận nặng nhất.
 2. Dazai **đoán ra mưu Mori** dùng Mimic lấy giấy phép dị năng (hạt giống pn1-04), **tống tiền Mori** đổi lấy việc Oda rút khỏi Cảng an toàn (V9); rồi tự rời Cảng. Ango và hồ sơ của Dazai *(C6)*.
 3. Oda rút khỏi Cảng: sống với năm đứa trẻ, phụ tiệm cà ri / quán, bắt đầu viết (Q-P7).
-4. Dazai vào **Tổ Trinh Thám**; **Ranpo** bị quấn, đổi đồ ngọt lấy "trinh thám xem bao giờ Tsuna về"; Kunikida thành nạn nhân thứ hai. **Khoảng thời gian** của chương và của arc *(C7 = Q-P5)*. Dazai vớt **Atsushi** ở sông như canon (Q-P6) — nếu C7 cho đủ thời gian.
-5. **Akutagawa** ở lại Cảng, "sắc mà không gãy"; Atsushi tò mò về "người mà cả Ranpo lẫn Akutagawa đều nhắc" (Q-P6).
+4. ~~Dazai vào Tổ Trinh Thám; Ranpo; Kunikida; Atsushi~~ → **dời sang đầu Arc III** (C7, Aurel 18/11/2026). Thay bằng: Dazai **ẩn mình ở quán 「晴れの日」** trong lúc Ango xoá hồ sơ — đứng quầy lau ly, ngủ ghế dài; Tsuna không về lần nào.
+5. **Akutagawa** ở lại Cảng, "sắc mà không gãy" — ghé quán sau nhiệm vụ, vẫn "trấn quán"; giữa hai người còn vướng chuyện Dazai bỏ đi.
 
 ## pn2-06 ★ · Ngày định mệnh — POV Tsuna (mode A)
 
@@ -84,7 +84,7 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 ## pn2-07 · 修罗场 — POV Dazai
 
 **Beat:**
-1. Dazai nhận cuộc gọi giữa đêm (còn mệt sau một vụ của Tổ — Moby Dick nếu C7 cho phép); lôi Chuuya bay tới bất chấp.
+1. Dazai (đang ẩn mình ở quán) nhận cuộc gọi giữa đêm; lôi Chuuya bay tới bất chấp. Không Moby Dick (C7).
 2. Tu la tràng bên giường bệnh: bảy người mạnh nhất + một cựu mafia đang ghen + một mafia bị lôi đi oan; Reborn lần đầu thấy "kẻ dám vỗ ngực nhận là người nhà của thiếu niên đó". Yosano chữa thương *(C10: Yosano có mặt không)*.
 3. Tsuna tỉnh giữa bãi chiến trường mồm mép, mệt tới chỉ cười.
 4. Kết lặng: Dazai ngồi lại sau cùng, nắm bàn tay băng bó — 「每次都让我来晚。」 *(C11: câu kết)*.
@@ -100,7 +100,7 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 ## pn2-09 · Khách trà đặc biệt — POV Tsuna
 
 **Beat:**
-1. Khách quen: Ranpo (đồ ngọt), Atsushi, Akutagawa (ghế ruột từ trước); Atsushi–Akutagawa hạ nhiệt quanh quầy. Gin ghé "kiểm tra kẻ thuần hoá anh trai", ở lại vì trà *(C12: khách nào lên trang)*.
+1. Khách quen: Akutagawa (ghế ruột từ trước), Oda và năm đứa trẻ, Chuuya (Ranpo, Atsushi dời sang Arc III — C7). Gin ghé "kiểm tra kẻ thuần hoá anh trai", ở lại vì trà *(C12: khách nào lên trang)*.
 2. **Kawahira** thành bạn trà của Tsuna; hai người nói chuyện bằng im lặng — chỉ ngầm vai "quản trị" (V2 lộ một phần).
 3. **Bermuda/Vindice** ghé uống trà; gag băng quấn: "phong cách nhà ai đây?" — Dazai và Vindice nhìn nhau qua lớp băng.
 4. Kết arc: ảnh chụp tập thể treo sau quầy — đông tới mức phải chụp hai kiểu.
@@ -143,12 +143,12 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 | C4 | Cách chuyển POV pn2-03/04 | Mỗi người một khối, ngăn bằng tên in đậm | Một ngày nhiệm vụ, mỗi giờ một POV |
 | C5 | Colonnello | **Gia nhập theo Lal** như canon | Đã ở trong nhóm từ đầu |
 | C6 | Ango và hồ sơ Dazai | **Ango vẫn xoá hồ sơ**, hai người đổi việc mà không làm hoà | Mori tự xoá như một phần giá tống tiền |
-| C7 | Khoảng thời gian Arc II (Q-P5) | ✅ **để DS/GPT** — gợi ý: ~4 năm, nhảy thời gian ở pn2-05 | Gọn dưới một năm, Atsushi/Moby Dick sang Arc III |
+| C7 | Khoảng thời gian Arc II (Q-P5) | ✅ **Aurel 18/11/2026: "Ngắn, Dazai ẩn mình"** — Arc II dưới một năm (canon: Luce mang thai Aria lúc bị nguyền); Dazai rời Cảng, ẩn mình ở quán; vào Tổ, Ranpo, Kunikida, Atsushi, Guild dời sang đầu Arc III; pn2-07 bỏ Moby Dick. DS viết 3 bản; GPT chọn ~4 năm (không biết chi tiết Luce) | — |
 | C8 | Vindice ở ngày định mệnh | **Tới vì Checker Face** (mối thù của họ), không vì Tsuna gọi | Tsuna mời trước qua Bermuda |
 | C9 | Kết quả lời nguyền | **Lời nguyền kích hoạt rồi được giải ngay** — họ thành em bé, chỉ Lal về dáng người lớn (như canon sau giải nguyền) | Giải trước khi kích hoạt — không ai bị thu nhỏ |
 | C10 | Yosano ở pn2-07 | **Có** — "bác sĩ duy nhất dám quát cả bảy người ra khỏi phòng" | Không; để Arc III |
 | C11 | Câu kết pn2-07 | 「每次都让我来晚。」 | DS/GPT đề xuất |
-| C12 | Khách ở pn2-09 | Ranpo, Atsushi, Akutagawa, Gin, Kawahira, Bermuda | Bớt Gin (để Arc III) |
+| C12 | Khách ở pn2-09 | Akutagawa, Gin, Oda và lũ trẻ, Chuuya, Kawahira, Bermuda (Ranpo, Atsushi dời — C7) | Bớt Gin (để Arc III) |
 | C13 | Tiêu đề | 番外·五 … 番外·十三 | 番外 II·一 … |
 
 ## Điều kiện trước `write-chapter`

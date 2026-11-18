@@ -54,7 +54,7 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V6 | Chén rượu của vua | — | ch51: đặt trên bàn nhà Dazai, chưa ai uống | Arc I (gợi ý) |
 | V7 | Tiệm cà ri / quán Lupin / lũ trẻ của Oda | I.2 "bar Lupin"; đính chính: tiệm cà ri, chủ không tên | [[q-tiem-ca-ri-va-oda]] còn mở | Arc I |
 | V8 | Tên quán, vị trí quán | để mở | [[tsuna-mo-quan-ca-phe-o-yokohama]]: giáp ranh trung lập | Arc I |
-| V9 | Dazai rời Cảng Mafia, vào Tổ Trinh Thám | II.5 | [[moc-bsd-truoc-cai-chet-cua-oda]]: còn ở Cảng; canon BSD Dazai rời Cảng **sau** cái chết của Oda — nếu Oda sống, lý do rời Cảng phải khác | Arc II |
+| V9 | "Như bản cũ" (18/11) | Dazai đoán ra mưu Mori dùng Mimic, tống tiền đổi lấy Oda rút khỏi Cảng an toàn, rồi tự rời Cảng (Arc II); **vào Tổ Trinh Thám ở đầu Arc III** (C7 "Ngắn, Dazai ẩn mình", 18/11) |
 | V10 | Akutagawa 8 tuổi được Tsuna nhận nuôi | II.1 | Canon: Dazai nhặt Akutagawa ở khu ổ chuột, Hắc Thời Đại Akutagawa đã là cấp dưới Dazai — tuổi phải đối chiếu | Arc II |
 | V11 | Waver khi Rider quay lại | không nhắc | ch45–46: Waver tự rời cầu | Arc I |
 | V12 | Tri-ni-sette ở thế giới BSD (Checker Face tồn tại?) | có | chưa nói | Arc II |
