@@ -90,6 +90,7 @@ Bối cảnh chung: [[BEAST-IF]]. **Thế giới khác — không bê sang mạc
 - Ở **Cơ quan Thám tử**. Được [[Sakunosuke-Oda]] cứu khi sắp chết đói, cưu mang; qua **kỳ thi vào** (gỡ quả bom giả do Tanizaki cầm), nhưng vẫn bị Kunikida + Tanizaki giám sát ngầm xem có đủ kỷ luật và đạo đức. [C~ — trích đoạn BSD Wiki]
 - Mục tiêu: **cứu em gái Gin** khỏi tay Port Mafia. [C] — yenpress.com, synopsis chính thức.
 - Kẻ thù: **"gã áo đen"** (man in black) đã bắt Gin. Khi xông vào trụ sở Mafia, hắn **nhận ra giọng Dazai** từ một đoạn phim bí mật → gã áo đen là Dazai. [C~] Gin ở BEAST là **thư ký của Dazai**. [C~]
+- Trận đầu với Atsushi (manga ch.3–4): bẫy ngõ cụt cùng Higuchi; Rashōmon nuốt cả không gian đạn bay qua; Dazai vô hiệu hoá cả hai — chi tiết ở [[Nakajima-Atsushi]]. [C]
 - Đối thủ: [[Nakajima-Atsushi]], "Tử thần Trắng" của Mafia. Trận cuối hắn thắng nhưng **tha** Atsushi. [C~]
 - Là một trong **hai người** Dazai kể sự thật về Sách trước khi chết. [C~]
 - Phim: Hashimoto Shōhei đóng. [C] — en.wikipedia.
