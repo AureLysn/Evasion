@@ -158,4 +158,4 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 | Khung V9, V10, V2/V12; giữ 9 chương | ✅ 18/11/2026 |
 | Canon Arc II, Q-P4–Q-P7 | ✅ [[20261118-canon-phien-ngoai-arc-2]] (Q-P4, Q-P5 để DS/GPT) |
 | Aurel duyệt C1–C13 | ✅ 18/11/2026 ("Duyệt, viết pn2-01": duyệt các đề xuất; C2, C7 để DeepSeek/GPT) |
-| Tra canon Luce, Aria, Talbot (trước pn2-03, pn2-06); Cơ quan Thám tử, Kunikida (trước pn2-05) | ⏳ từng trang |
+| Tra canon Luce, Aria, Talbot (trước pn2-03, pn2-06); Cơ quan Thám tử, Kunikida (trước pn2-05) | ✅ Luce, Aria (18/11), Kunikida (pn2-05), Talbot (pn2-06) — note Database; còn Cơ quan Thám tử (Arc III) |
