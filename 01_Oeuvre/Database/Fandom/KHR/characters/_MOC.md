@@ -53,5 +53,6 @@ last_updated: 2026-09-28
 - [[Kyoko-Sasagawa]] — em gái Ryohei, tóc dài tới hết mẫu giáo, vô tư tin người · *18/11/2026*
 - [[Ryohei-Sasagawa]] — cực hạn, quyền anh, sẹo từ tai nạn hồi tiểu học · *18/11/2026*
 - [[Haru-Miura]] — đuôi ngựa, thể dục dụng cụ, đi thăng bằng trên tường · *18/11/2026*
+- [[Chrome-Dokuro]] — Nagi, bị bỏ mặc, chỉ mở lòng với Mukuro, không cãi lại · *18/11/2026*
 
 Template dùng cho thư mục này: `Templates/Character-Note.md`
