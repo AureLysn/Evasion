@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.68
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Colonnello
@@ -30,7 +30,7 @@ last_updated: 2026-09-28
 
 ## Quan hệ với Lal Mirch
 
-- Từng là **cấp trên trực tiếp của Lal Mirch** khi còn ở COMSUBIN.
+- ⚠️ Sửa 18/11/2026 (đọc reborn.fandom.com/wiki/Colonnello): Colonnello là **thành viên cũ của COMSUBIN, do Lal Mirch dạy** — Lal là thầy/cấp trên của anh, **không phải ngược lại** như ghi cũ. Infobox ghi Lal là **hôn thê** (fiancée).
 - Trở thành Arcobaleno vì **che chở cho Lal Mirch** (bảo vệ cô khỏi việc bị biến thành Arcobaleno, hoặc khỏi hậu quả tương ứng) — nội dung này chỉ có ở mức tóm tắt, **chưa trích dẫn nguyên văn/chương cụ thể**.
 
 ## Thú cưng / trang bị
@@ -42,6 +42,11 @@ last_updated: 2026-09-28
 ## Vai trò với Yamamoto
 
 - ⚠️ **Chưa xác minh — hạ 28/09 (phiên chính):** việc đặt cảnh này ở arc Kokuyo **mâu thuẫn** với tên đối thủ "Ugetsu" (Thủ hộ Mưa đời 1 xuất hiện ở các thử thách cuối arc Tương Lai, theo trí nhớ, chưa kiểm nguồn). Không dùng dòng này như canon cho tới khi đọc được nguồn gốc. — Là **gia sư huấn luyện Yamamoto** cho kỳ sát hạch trở thành Thủ hộ Mưa chính thức. Nhận ra bất ổn tâm lý của Yamamoto trong quá trình huấn luyện nhưng chọn quan sát từ xa thay vì chỉ ra trực tiếp; can thiệp khi phát hiện đối thủ sát hạch (Ugetsu — tên phiên âm "雨月", **chưa xác minh romaji chuẩn**) cố tình để lộ sơ hở. Sau khi Yamamoto trượt lần đầu, đưa lời khuyên gián tiếp giúp anh vượt qua ở lần sát hạch lại. (Nguồn: Wikipedia tiếng Nhật, mục 家庭教師ヒットマンREBORN!の登場人物.)
+
+## Bổ sung 18/11/2026 — trang Colonnello (tab Overview)
+
+- Sinh **7/7**; Rain Flame; súng trường; bạn đồng hành **Falco** (chim ưng); phụ trách **bãi huấn luyện sau Mafia Land**; cũ ở COMSUBIN, **học trò của Lal**.
+- Tóc vàng dựng, mắt xanh nhạt, quân phục xanh lá. Ganh đua, ghét thua, kình với Reborn; thích chọc người nghiêm túc như Lal; trọng tình bạn, dám hy sinh; hay thêm "-kora!" (コラ) cuối câu.
 
 ## Giới hạn / chưa xác minh
 

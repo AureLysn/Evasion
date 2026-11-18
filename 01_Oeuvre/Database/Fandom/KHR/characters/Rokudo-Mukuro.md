@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.75
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Rokudo Mukuro (六道骸) — chỉ phần nhập xác
@@ -75,6 +75,11 @@ Sau khi đánh bại Daemon Spade, **Vindice thả Mukuro**; hắn vào Đại c
 - ⚠️ **Cách Mukuro gọi Tsuna**: chưa tìm được trích dẫn nguyên văn xác nhận cách xưng hô cụ thể (ví dụ có gọi bằng họ tên đầy đủ hay biệt danh riêng) — **chưa xác minh**.
 - ⚠️ Chi tiết sáu "đạo" trong Lục Đạo Luân Hồi (địa ngục đạo, ngạ quỷ đạo, súc sinh đạo, tu la đạo, nhân đạo, thiên đạo) — đây là hiểu biết phổ biến của fandom nhưng **chưa trích dẫn được đoạn gốc** trong lần tra cứu này.
 - ⚠️ Cơ chế chính xác quan hệ Mukuro–Chrome (chia sẻ nội tạng/cơ thể) — chỉ có mô tả tổng quát, chưa đối chiếu chương/tập cụ thể.
+
+## Bổ sung 18/11/2026 — Estraneo, Ken, Chikusa, Chrome
+
+- Sinh ra ở **Estraneo Famiglia** cùng **Ken Joshima** và **Chikusa Kakimoto**; gia tộc thí nghiệm trên trẻ con của chính mình, trẻ chết dần; khi chỉ còn Ken và Chikusa, **Mukuro dùng Lục Đạo Luân Hồi giết toàn bộ người lớn** → gia tộc xoá sổ. Xem [[Estraneo-Famiglia]]. [C]
+- Chrome (tên cũ **Nagi**) có note riêng: [[Chrome-Dokuro]].
 
 ## Project nào dùng theo hướng nào
 

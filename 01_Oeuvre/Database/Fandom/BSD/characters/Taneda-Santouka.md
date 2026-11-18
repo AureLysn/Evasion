@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Taneda Santōka (BSD)
@@ -41,6 +41,10 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 - **Không tìm thấy** vai trò của Taneda trong BEAST. [?]
 
 Độ tin nguồn: vị trí trưởng Ban 0.9; phần còn lại 0.5; liên hệ với Teruko 0.
+
+## Bổ sung 18/11/2026
+
+- Là người **giới thiệu Dazai** cho Fukuzawa sau hai năm Dazai ẩn mình (trang Armed Detective Agency, light novel *Entrance Exam*). Xem [[Armed-Detective-Agency]]. [C]
 
 ## Project nào dùng theo hướng nào
 

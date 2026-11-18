@@ -15,7 +15,7 @@ authority: fandom
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-18
 ---
 
 # Edogawa Ranpo (BSD)
@@ -34,6 +34,13 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 - Phim: Nagae Ryōki đóng. [C] — en.wikipedia.
 
 Độ tin nguồn: nhận dạng 0.9; cảnh BEAST 0.55.
+
+## Bổ sung 18/11/2026 — đọc trang Armed Detective Agency và *Entrance Exam* (xem [[Armed-Detective-Agency]])
+
+- **Fukuzawa lập Cơ quan sau khi gặp Ranpo**, hơn mười năm trước mạch chính.
+- "Siêu suy luận" **không phải dị năng**: trong *Entrance Exam*, Dazai chạm vào Ranpo để thử vô hiệu hoá — không có gì bị huỷ. [C~]
+- Trong vụ *Entrance Exam* Ranpo **đang ở Kyushu** (nhận việc của một quan chức trung ương) mà vẫn suy ra quả bom ở tiệm đồ câu. [C~]
+- Mạch chính chương 1: có mặt ở vòng vây ngoài nhà kho bắt hổ cùng Yosano, Kenji. [C]
 
 ## Project nào dùng theo hướng nào
 
