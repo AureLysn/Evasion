@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.gilgamesh]
 language: zh
+title: "【太纲无差】反派战争31（DeepSeek版）"
 aliases: ["ch31 ban DeepSeek nhap", "chương 31 bản song song DeepSeek", "反派战争31 DeepSeek"]
 related: ["[[ch31-ds-the-canh]]", "[[ch31-ds-kiem]]", "[[deepseek-20261115]]", "[[ch30-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch31/ch31-chapter|ch31-chapter (aurel-main, final)]]"]
 source:

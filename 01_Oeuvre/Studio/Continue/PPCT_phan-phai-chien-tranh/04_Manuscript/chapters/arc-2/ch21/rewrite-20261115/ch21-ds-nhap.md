@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.diarmuid]
 language: zh
+title: "【太纲无差】反派战争21（DeepSeek版）"
 aliases: ["ch21 ban DeepSeek nhap", "chương 21 bản song song DeepSeek", "反派战争21 DeepSeek"]
 related: ["[[ch21-ds-the-canh]]", "[[ch21-ds-kiem]]", "[[deepseek-20261115]]", "[[ch20-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch21/ch21-chapter|ch21-chapter (aurel-main, final)]]"]
 source:

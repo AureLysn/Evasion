@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna, character.PPCT.diarmuid]
 language: zh
+title: "【太纲无差】反派战争27（DeepSeek版）"
 aliases: ["ch27 ban DeepSeek nhap", "chương 27 bản song song DeepSeek", "反派战争27 DeepSeek"]
 related: ["[[ch27-ds-the-canh]]", "[[ch27-ds-kiem]]", "[[deepseek-20261115]]", "[[ch26-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch27/ch27-chapter|ch27-chapter (aurel-main, final)]]"]
 source:

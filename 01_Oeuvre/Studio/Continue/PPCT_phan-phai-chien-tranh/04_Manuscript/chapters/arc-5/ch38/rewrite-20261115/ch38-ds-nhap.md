@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争38（DeepSeek版）"
 aliases: ["ch38 ban DeepSeek nhap", "chương 38 bản song song DeepSeek", "反派战争38 DeepSeek"]
 related: ["[[ch38-ds-the-canh]]", "[[ch38-ds-kiem]]", "[[deepseek-20261115]]", "[[ch37-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch38/ch38-chapter|ch38-chapter (aurel-main, final)]]"]
 source:

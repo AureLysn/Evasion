@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争44（DeepSeek版）"
 aliases: ["ch44 ban DeepSeek nhap", "chương 44 bản song song DeepSeek", "反派战争44 DeepSeek"]
 related: ["[[ch44-ds-plan]]", "[[ch44-ds-the-canh]]", "[[ch44-ds-kiem]]", "[[deepseek-20261115]]", "[[ch43-ds-nhap]]"]
 source:

@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争36（DeepSeek版）"
 aliases: ["ch36 ban DeepSeek nhap", "chương 36 bản song song DeepSeek", "反派战争36 DeepSeek"]
 related: ["[[ch36-ds-the-canh]]", "[[ch36-ds-kiem]]", "[[deepseek-20261115]]", "[[ch35-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter|ch36-chapter (aurel-main, final)]]"]
 source:

@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.kiritsugu]
 language: zh
+title: "【太纲无差】反派战争48（DeepSeek版）"
 aliases: ["ch48 ban DeepSeek nhap", "chương 48 bản song song DeepSeek", "反派战争48 DeepSeek"]
 related: ["[[ch48-ds-plan]]", "[[ch48-ds-the-canh]]", "[[ch48-ds-kiem]]", "[[deepseek-20261115]]", "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]"]
 source:

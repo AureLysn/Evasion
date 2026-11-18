@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.kiritsugu, character.PPCT.dazai]
 language: zh
+title: "【太纲无差】反派战争19（DeepSeek版）"
 aliases: ["ch19 ban DeepSeek nhap", "chương 19 bản song song DeepSeek", "反派战争19 DeepSeek"]
 related: ["[[ch19-ds-the-canh]]", "[[ch19-ds-kiem]]", "[[deepseek-20261115]]", "[[ch18-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch19/ch19-chapter|ch19-chapter (aurel-main, final)]]"]
 source:

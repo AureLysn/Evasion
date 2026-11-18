@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.artoria, character.PPCT.irisviel]
 language: zh
+title: "【太纲无差】反派战争16（DeepSeek版）"
 aliases: ["ch16 ban DeepSeek nhap", "chương 16 bản song song DeepSeek", "反派战争16 DeepSeek"]
 related: ["[[ch16-ds-the-canh]]", "[[ch16-ds-kiem]]", "[[deepseek-20261115]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter (aurel-main, final)]]"]
 source:

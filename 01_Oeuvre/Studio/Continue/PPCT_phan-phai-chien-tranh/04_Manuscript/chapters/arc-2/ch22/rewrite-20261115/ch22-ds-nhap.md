@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
+title: "【太纲无差】反派战争22（DeepSeek版）"
 aliases: ["ch22 ban DeepSeek nhap", "chương 22 bản song song DeepSeek", "反派战争22 DeepSeek"]
 related: ["[[ch22-ds-the-canh]]", "[[ch22-ds-kiem]]", "[[deepseek-20261115]]", "[[ch21-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter|ch22-chapter (aurel-main, final)]]"]
 source:

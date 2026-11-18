@@ -11,6 +11,7 @@ canon_layer: planned
 status: draft
 pov: [character.PPCT.kiritsugu]
 language: zh
+title: "【太纲无差】反派战争41（DeepSeek版）"
 aliases: ["ch41 ban DeepSeek nhap", "chương 41 bản song song DeepSeek", "反派战争41 DeepSeek"]
 related: ["[[ch41-ds-the-canh]]", "[[ch41-ds-kiem]]", "[[deepseek-20261115]]", "[[ch40-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch41/ch41-chapter|ch41-chapter (aurel-main, final)]]"]
 source:
