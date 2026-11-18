@@ -23,7 +23,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-18
 ---
 
-# Plan phiên ngoại Arc III bản DeepSeek — «Ba đứa trẻ» · CHỜ AUREL DUYỆT
+# Plan phiên ngoại Arc III bản DeepSeek — «Ba đứa trẻ» · ✅ AUREL DUYỆT 18/11/2026 — C1–C17 để DeepSeek/GPT
 
 > Mười một chương, sau [[pn2-09-ds-nhap]]. Hai chương đầu là **Yokohama**: Dazai vào Tổ Trinh Thám, rồi Atsushi (V13). Chín chương sau là **ba đứa trẻ** của dàn ý cũ: Byakuran, Yuni, bé Tsuna của thế giới này. Giọng: mode **B** (đời thường hài); pn3-07 lặng; kết ấm.
 > Dòng thời gian KHR **lệch có chủ đích** (V14): Yuni có mặt, không ai giải thích. Sự thật B: **Byakuran lên trang, 7³ vẫn ngầm** (V15). Gia đình Sawada và Nono **như bản cũ**, gắn nhãn [Fanon-phê phán canon] (V16).
@@ -156,7 +156,9 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 - Tiêu đề: 【太纲无差】反派战争 番外·<số> <tên chương> — nối số từ Arc II: **番外·十四 … 番外·二十四**.
 - Cảnh báo OOC kép như truyện chính; lời người viết tiếp một hai câu.
 
-## Điểm C — chờ Aurel duyệt
+## Điểm C — ✅ Aurel 18/11/2026: "Để DS/GPT đề xuất" (C1–C17)
+
+> Khi viết từng chương: DeepSeek đưa 2–3 phương án cho mỗi điểm C của chương đó, GPT chấm và chọn. Cột "Đề xuất" dưới đây là gợi ý của Claude, đưa vào prompt làm một phương án, không phải bản chốt. Claude vẫn kiểm canon và luật nhánh (V14, V15, cấm 「」, cấm giải thích) trên phương án GPT chọn.
 
 | # | Câu hỏi | Đề xuất | Khác |
 |---|---|---|---|
@@ -184,5 +186,5 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 |---|---|
 | Khung V13–V16 | ✅ 18/11/2026 |
 | Canon Arc III | ✅ [[20261118-canon-phien-ngoai-arc-3]] (mục 5 còn tra từng trang) |
-| Aurel duyệt C1–C17 | ⏳ |
+| Aurel duyệt C1–C17 | ✅ 18/11/2026 — "Để DS/GPT đề xuất" |
 | Tra Cơ quan Thám tử, *Entrance Exam* (trước pn3-01) | ⏳ |

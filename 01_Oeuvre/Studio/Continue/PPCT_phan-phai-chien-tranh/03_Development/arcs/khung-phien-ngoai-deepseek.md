@@ -77,7 +77,7 @@ Kèm **Lưới gặp gỡ xen kẽ** (Yosano, Gin, Kyouka, Q, Shibusawa, Fyodor,
 | V15 | "Byakuran lên trang, 7³ vẫn ngầm" (18/11) | 白兰, thế giới song song, nhẫn Mare được nhắc; Tsuna kế vị 7³ / quản trị viên vẫn chỉ ngầm tới Arc V |
 | V16 | "Như bản cũ" (18/11) | Nono phong ấn, Iemitsu biệt tăm, Nana bản manga — gắn nhãn [Fanon-phê phán canon] |
 
-Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] chờ duyệt. Còn mở: V5 (Kirei), V6 (chén rượu).
+Arc II giữ 9 chương (18/11). Canon Arc II: [[20261118-canon-phien-ngoai-arc-2]] (Q-P4–Q-P7). Canon Arc III: [[20261118-canon-phien-ngoai-arc-3]]; plan [[pn-arc-3-ds-plan]] Aurel duyệt 18/11/2026 (C1–C17 để DeepSeek/GPT). Còn mở: V5 (Kirei), V6 (chén rượu).
 
 ## Trình tự đề xuất
 
