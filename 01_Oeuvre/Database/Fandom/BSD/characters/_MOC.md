@@ -23,6 +23,7 @@ last_updated: 2026-09-28
 - [[Sakaguchi-Ango]] — gián điệp chính phủ ở Mafia; không tìm thấy vai trò BEAST · `confidence: 0.65` · *28/09/2026*
 - [[Edogawa-Ranpo]] — không dị năng, suy luận; cảnh BEAST · `confidence: 0.7` · *28/09/2026*
 - [[Fukuzawa-Yukichi]] — Giám đốc Cơ quan; cảnh BEAST · `confidence: 0.7` · *28/09/2026*
+- [[Doppo-Kunikida]] — Cơ quan Thám tử, sổ tay lý tưởng, 20 tuổi khi Dazai vào Cơ quan, dễ tin lời bịa của Dazai · `confidence: 0.8` · *18/11/2026*
 
 - [[Ogai-Mori]] — thủ lĩnh Cảng Mafia; 36 tuổi ở Hắc Thời Đại; chính Mori đưa Mimic vào Nhật · `confidence: 0.65` · *17/11/2026*
 - [[Koyo-Ozaki]] — cán bộ, Golden Demon, yếm thế · *17/11/2026*

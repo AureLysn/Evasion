@@ -59,7 +59,7 @@ last_updated: 2026-11-18
 | # | Câu | Chặn |
 |---|---|---|
 | Q-P4 | Tsuna ở nhóm bảy người với tư cách gì, khi bảy chỗ đã đủ (Luce cũng là Sky)? | II.1–II.4 — ✅ Aurel: **"Để DS/GPT đề xuất"** (gợi ý: người thứ tám, không bị nguyền) |
-| Q-P5 | Arc II kéo dài bao lâu (Dazai vào Tổ ~2 năm sau, Atsushi và Moby Dick 4 năm sau)? | II.5–II.7 — ✅ Aurel: **"Để DS/GPT đề xuất"** (gợi ý: ~4 năm, nhảy thời gian ở II.5) |
+| Q-P5 | Arc II kéo dài bao lâu (Dazai vào Tổ ~2 năm sau, Atsushi và Moby Dick 4 năm sau)? | II.5–II.7 — ✅ Aurel "Để DS/GPT đề xuất", rồi khi viết pn2-05 (18/11) chốt lại **"Ngắn, Dazai ẩn mình"**: canon [[Luce]] mang thai Aria lúc bị nguyền → ngày nguyền trong vài tháng; Dazai ẩn mình ở quán; vào Tổ, Atsushi, Guild sang Arc III |
 | Q-P6 | Ai nhặt Atsushi; Akutagawa ở lại Cảng hay theo Dazai? | II.5, II.9 — ✅ Aurel: **"Canon + Tsuna"**: Dazai vớt Atsushi ở sông; Akutagawa ở lại Cảng, được Tsuna dạy nên "sắc mà không gãy"; hai đứa gặp qua cái tên Tsuna |
 | Q-P7 | Oda làm gì sau khi rút khỏi Cảng? | II.5 — ✅ Aurel: **"Nuôi trẻ và viết"**: sống với năm đứa trẻ, phụ tiệm cà ri hoặc quán của Tsuna, bắt đầu viết; không vào tổ chức nào |
 
