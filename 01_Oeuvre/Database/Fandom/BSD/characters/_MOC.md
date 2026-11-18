@@ -25,6 +25,7 @@ last_updated: 2026-09-28
 - [[Fukuzawa-Yukichi]] — Giám đốc Cơ quan; cảnh BEAST · `confidence: 0.7` · *28/09/2026*
 - [[Doppo-Kunikida]] — Cơ quan Thám tử, sổ tay lý tưởng, 20 tuổi khi Dazai vào Cơ quan, dễ tin lời bịa của Dazai · `confidence: 0.8` · *18/11/2026*
 - [[Akiko-Yosano]] — bác sĩ Cơ quan Thám tử, Thou Shalt Not Die (chỉ chữa người nửa sống nửa chết, bướm), ~21 khi Dazai 18, đã ở Cơ quan trước Dazai · `confidence: 0.8` · *18/11/2026*
+- [[Gin-Akutagawa]] — em gái Akutagawa, Black Lizard, không dị năng, mặt nạ trắng, im lặng, dễ đỏ mặt, giọng dễ thương; vào Port Mafia theo anh · `confidence: 0.8` · *18/11/2026*
 
 - [[Ogai-Mori]] — thủ lĩnh Cảng Mafia; 36 tuổi ở Hắc Thời Đại; chính Mori đưa Mimic vào Nhật · `confidence: 0.65` · *17/11/2026*
 - [[Koyo-Ozaki]] — cán bộ, Golden Demon, yếm thế · *17/11/2026*
