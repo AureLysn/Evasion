@@ -23,7 +23,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-18
 ---
 
-# Plan phiên ngoại Arc IV bản DeepSeek — «Tuyển tập gag Fate» · CHỜ AUREL DUYỆT
+# Plan phiên ngoại Arc IV bản DeepSeek — «Tuyển tập gag Fate» · ✅ AUREL DUYỆT 18/11/2026 — C1–C8 để DeepSeek/GPT
 
 > Bốn chương ngắn, mỗi chương **một chuyến đi rồi về** (V20). Tính vào dòng chính nhánh nhưng **thời điểm không xác định**, được lệch nhẹ với Arc I–III (V17). Giọng: mode **B** thuần (hài), một nhịp ấm cuối mỗi chương. Không chương nào để lại hệ quả cho Arc V.
 > Thế giới **Fate/Zero canon** là thế giới khác: ở đó đã có tổ Caster thật (Gilles de Rais – Uryū Ryūnosuke), **không có dị năng, không có lửa ý chí** (V18); Kirei ở đó là Kirei canon, khác Kirei của nhánh (V19). **Chén rượu của vua** ở nhà Dazai vẫn để ngỏ (V20 — V6 không đụng).
@@ -90,7 +90,9 @@ Những người từng đánh một cuộc Chén Thánh bằng cả mạng số
 - Tiêu đề: 【太纲无差】反派战争 番外·<số> <tên chương> — nối số: **番外·二十五 … 番外·二十八**.
 - Đầu mỗi chương thêm một dòng nhỏ dưới cảnh báo: chương này là chuyến xuyên ngắn, thời điểm không xác định *(C8)*.
 
-## Điểm C — chờ Aurel duyệt
+## Điểm C — ✅ Aurel 18/11/2026: "Để DS/GPT đề xuất" (C1–C8)
+
+> Khi viết từng chương: DeepSeek đưa 2–3 phương án cho mỗi điểm C của chương đó, GPT chấm và chọn. Cột "Đề xuất" là gợi ý của Claude, đưa vào prompt làm một phương án. Claude vẫn kiểm canon và luật V17–V20. C1 (cách xuyên chung) chốt ở pn4-01 và giữ cho cả arc.
 
 | # | Câu hỏi | Đề xuất | Khác |
 |---|---|---|---|
@@ -108,5 +110,5 @@ Những người từng đánh một cuộc Chén Thánh bằng cả mạng số
 | Điều kiện | Trạng thái |
 |---|---|
 | Khung V17–V20 | ✅ 18/11/2026 |
-| Aurel duyệt C1–C8 | ⏳ |
+| Aurel duyệt C1–C8 | ✅ 18/11/2026 — "Để DS/GPT đề xuất" |
 | Tra Enkidu, *Fate/strange Fake* (trước pn4-01); Gilles, quái vật biển (trước pn4-02); EMIYA, Shirō, Illya (trước pn4-04) | ⏳ |
