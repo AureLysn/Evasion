@@ -34,7 +34,7 @@ Những người từng đánh một cuộc Chén Thánh bằng cả mạng số
 
 ## Cách xuyên — chung cả arc *(C1)*
 
-Đề xuất: **Byakuran** (giờ đã lớn hơn, giấc mơ song song thành "cửa") lỡ tay mở cửa; mỗi chương một lần "lỡ". Không 7³, không nhẫn Mare, không Kawahira làm cửa.
+✅ **Chốt ở pn4-01 (GPT chọn 门一 + nét mơ của 门三):** một **khe** tự mở ở chỗ bất kỳ khi Byakuran ngủ mơ; Byakuran không điều khiển được, chỉ "hình như đã mơ thấy chỗ này"; **đường về**: khe tự mở lại sau một lúc. Không 7³, không nhẫn Mare, không Kawahira làm cửa.
 
 ## pn4-01 · Bạn của vua — POV Tsuna *(C2)*
 

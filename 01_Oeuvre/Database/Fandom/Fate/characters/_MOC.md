@@ -28,4 +28,6 @@ last_updated: 2026-09-23
 - [[Lancelot-Berserker]] — Berserker lần 4, Master Matō Kariya
 - [[Gilgamesh-Archer]] — Archer lần 4: chán Tokiomi, dẫn Kirei tới "khoái lạc", để Kirei giết Tokiomi, khế ước mới *(chỉ phần Fate/Zero liên quan Tokiomi–Kirei)*
 
+- [[Enkidu]] — bạn duy nhất của Gilgamesh; Fake Lancer (*strange Fake*) do sói bạc triệu hồi ở Snowfield · *18/11/2026*
+
 Template dùng cho thư mục này: `Templates/Character-Note.md`
