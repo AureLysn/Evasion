@@ -31,5 +31,6 @@ last_updated: 2026-09-28
 - [[Koyo-Ozaki]] — cán bộ, Golden Demon, yếm thế · *17/11/2026*
 - [[Ryuro-Hirotsu]] — chỉ huy Hắc Thằn Lằn · *17/11/2026*
 - [[Andre-Gide]] — thủ lĩnh Mimic, dị năng giống Oda · *17/11/2026*
+- [[Francis-Scott-Key-Fitzgerald]] — thủ lĩnh Guild, dị năng tiêu tiền · *18/11/2026*
 
 Template dùng cho thư mục này: `Templates/Character-Note.md`
