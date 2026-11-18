@@ -30,4 +30,6 @@ last_updated: 2026-09-23
 
 - [[Enkidu]] — bạn duy nhất của Gilgamesh; Fake Lancer (*strange Fake*) do sói bạc triệu hồi ở Snowfield · *18/11/2026*
 
+- [[Gilles-de-Rais-Caster]] — Caster lần 4 (canon), Master Ryūnosuke; nhầm Saber là Jeanne; quái vật khổng lồ, Excalibur · *18/11/2026*
+
 Template dùng cho thư mục này: `Templates/Character-Note.md`
