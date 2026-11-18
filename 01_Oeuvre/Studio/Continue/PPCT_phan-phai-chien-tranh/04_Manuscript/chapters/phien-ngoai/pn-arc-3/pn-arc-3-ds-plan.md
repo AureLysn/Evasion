@@ -187,4 +187,4 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 | Khung V13–V16 | ✅ 18/11/2026 |
 | Canon Arc III | ✅ [[20261118-canon-phien-ngoai-arc-3]] (mục 5 còn tra từng trang) |
 | Aurel duyệt C1–C17 | ✅ 18/11/2026 — "Để DS/GPT đề xuất" |
-| Tra Cơ quan Thám tử, *Entrance Exam* (trước pn3-01) | ⏳ |
+| Tra Cơ quan Thám tử, *Entrance Exam* (trước pn3-01) | ✅ 18/11/2026 — [[Armed-Detective-Agency]] |
