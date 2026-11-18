@@ -18,6 +18,7 @@ last_updated: 2026-09-28
 - [[Hayato-Gokudera]] — Thủ hộ Bão, cánh tay phải của Tsuna; thuốc nổ
 - [[Reborn]] — gia sư, sát thủ mạnh nhất, Arcobaleno Mặt Trời; Leon. *28/09: sau giải nguyền lớn lại **từ từ** từ dạng em bé*
 - [[Kawahira]] — Checker Face, người quản lý núm vú Tri-ni-sette · *13/09/2026*
+- [[Luce]] — Arcobaleno Sky đời trước, boss Giglio Nero, mẹ Aria; biết trước lời nguyền, mời bánh quy; đang mang thai Aria khi bị nguyền · *18/11/2026*
 - [[Xanxus]] — thủ lĩnh Varia, Sky Flame *(Flames of Wrath)*, con nuôi Nono; sẹo là từ Cradle · *19/09/2026*
 - [[Viper]] — Mammon, Arcobaleno Indigo, Mist; 🔴 **canon không tiết lộ giới tính** · *19/09/2026*
 - [[Superbia-Squalo]] — phó tướng Varia, Rain, **Kiếm Đế đời thứ hai**; 🔴 **trước Cradle thì tóc NGẮN và mặc đồng phục học sinh** · *20/09/2026*
