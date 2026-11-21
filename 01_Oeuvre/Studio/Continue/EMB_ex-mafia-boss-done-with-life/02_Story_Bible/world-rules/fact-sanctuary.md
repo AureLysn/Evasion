@@ -57,7 +57,7 @@ Nên vị trí của Tsuna không phải "đứa trẻ đặc biệt" — cậu 
 
 ## Hai cửa vào — **khách** và **cư dân** *(luật của nhánh, 26/09/2026)*
 
-> ⚠️ **Nguồn là *văn xuôi đã xóa* cảnh 1.3, không phải tác giả gốc.** Aurel giữ luật này khi duyệt review *(M2, 26/09/2026)*. Tầng: nhánh.
+> ⚠️ **Luật của nhánh, không phải tác giả gốc.** Aurel giữ luật này khi duyệt review *(M2, 26/09/2026)*. Tầng: nhánh.
 
 | | Khách | Cư dân |
 |---|---|---|
@@ -65,6 +65,4 @@ Nên vị trí của Tsuna không phải "đứa trẻ đặc biệt" — cậu 
 | Được che chở | có — không ai đưa khách ra ngoài trái ý, không ai động vào khách | có |
 | Là người của ai | **vẫn là người của phe kia**: thị trấn không giao ra, nhưng cũng không giả vờ họ không phải | **không của ai** |
 | Hệ quả | hai phe có thể **ngồi hai bên vạch** bao lâu cũng được | phe kia **mất quyền đòi** |
-
-> *"There are two ways into this town. You can visit. Visitors keep what they came with … But a visitor is still somebody else's man."* — [[musashi]], *văn xuôi đã xóa*
 

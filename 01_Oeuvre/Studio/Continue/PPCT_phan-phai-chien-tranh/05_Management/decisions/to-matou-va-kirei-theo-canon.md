@@ -17,7 +17,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Nhà Matō và Kotomine Kirei có trong truyện, theo canon
@@ -40,4 +40,3 @@ last_updated: 2026-09-14
 
 - Chi tiết về hai tổ này lấy từ canon (`Database/Fandom/Fate/`) khi văn bản im lặng; `fic_explicit` vẫn thắng nếu có.
 - *14/09/2026:* [[Kariya-Matou]] · [[Kirei-Kotomine]].
-- Ch17 (tập kích Assassin) hết bị chặn ở vế này.

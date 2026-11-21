@@ -19,7 +19,7 @@ always_load: true
 load_for: [writer, planner, reviewer]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing, flame]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Namimori có **tập quán ứng xử riêng cho từng hệ lửa**
@@ -36,34 +36,20 @@ Namimori có hệ danh xưng riêng cho bảy ngọn lửa — [[rule-danh-xung-
 | **Không ai giải thích được** | Hỏi một người Namimori vì sao họ làm thế thì họ sẽ ngạc nhiên vì câu hỏi |
 | **Và nó chạy** | Bốn trăm năm, không hỏng lần nào |
 
-## Cái đã nằm sẵn trên trang — **đây là bằng chứng, không phải suy diễn**
+## Tập quán từng hệ
 
-| Hệ | Tập quán | Ở đâu |
+| Hệ | Tập quán | Liên quan |
 |---|---|---|
-| **Getsufuji** *(Cloud)* | Đọc cậu ta **như đọc thời tiết**. Không tranh cãi với nó, chỉ đi đường khác. Và **để yên sau khi bắt đứng im** — *"a Cloud who has been made to do nothing for two hours needs leaving in a field for a while afterwards, like a horse"* | *văn xuôi đã xóa* · [[fact-cloud-ben-bi-cach-ly-la-xa-hoi]] |
-| **Yasuragi** *(Rain)* | Dùng để **giữ**, không dùng để dỗ. [[indra]] trùm Yasuragi xuống cả con đường và đỡ con trai bằng một tay | *văn xuôi đã xóa* |
-| **Ketsueki** *(Storm)* | **Rò khi vui**, và cả nhà coi đó là bình thường. Đèn hành lang giở chứng thì không ai đi sửa đèn | *văn xuôi đã xóa* |
+| **Getsufuji** *(Cloud)* | Đọc cậu ta **như đọc thời tiết**. Không tranh cãi với nó, chỉ đi đường khác. Và **để yên sau khi bắt đứng im** | [[fact-cloud-ben-bi-cach-ly-la-xa-hoi]] |
+| **Yasuragi** *(Rain)* | Dùng để **giữ**, không dùng để dỗ. | [[indra]] |
+| **Ketsueki** *(Storm)* | **Rò khi vui**, và cả nhà coi đó là bình thường. Đèn hành lang giở chứng thì không ai đi sửa đèn | — |
 | **Gen'ei** *(Mist)* | Trẻ con **chưa hạ được** thì **thôi bảo nó hạ**. [[musashi]] đã ngừng nhắc [[nagi]] từ lâu | [[nagi]] |
-| **Kotei** *(Sky)* | Thị trấn **thu xếp chung quanh cậu** và không hỏi. Và khi cần thì **đọc điều khoản hai lần** thay vì đánh | *văn xuôi đã xóa* |
-
-## 🔴 Và phép thử mạnh nhất là taki ⛔ — nơi **không có** tập quán
-
-*văn xuôi đã xóa*: năm mươi mốt đứa trẻ Flame, mười tám tháng, một thị trấn bốn nghìn dân **không có một ngày truyền thống nào**.
-
-Nên nó **tự chế**:
-
-> Bốn cái **xô** ở bốn ngã tư. Một tấm chăn chữa cháy mới hơn mọi thứ chung quanh. Một **vạch sơn** cao một mét trên tường nhà kho, gọi là *vạch của Sachi*, vì Sachi là một **Sun** và Sachi là đứa tệ nhất.
->
-> *"It is **stupid**, but it works, so nobody will let us stop."*
-
-🔵 **Hai thị trấn, cùng một bài toán, hai lời giải, và cả hai đều đúng.** Namimori giải bằng bốn trăm năm. Taki giải bằng mười tám tháng và một cái xô kẽm.
-
-⚠️ Đừng viết Taki thành vụng về. Cái xô **chạy được**, và [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] là người nhìn ra rằng bản thân cậu đã định giải nó bằng *"specialist support, to be arranged locally"* trong một ô biểu mẫu — hook-tre-estraneo-co-flame ⛔.
+| **Kotei** *(Sky)* | Thị trấn **thu xếp chung quanh cậu** và không hỏi. Và khi cần thì **đọc điều khoản hai lần** thay vì đánh | — |
 
 ## Hệ quả dùng được
 
 - **Người ngoài bước vào Namimori thấy một thị trấn không sợ gì cả**, và đọc nhầm đó là ngây thơ. Nó là **tập quán**, và tập quán thì không trông giống phòng bị.
-- 🔴 **Nó giải thích vì sao [[genichi]] lạc lõng.** Ông là người lớn duy nhất trong thị trấn **không có tập quán nào** — *văn xuôi đã xóa* cho ông tám từ không định nghĩa được và một cuốn sổ. Musashi định nghĩa các từ; **tập quán thì không dạy được trong một đêm.**
+- 🔴 **Nó giải thích vì sao [[genichi]] lạc lõng.** Ông là người lớn duy nhất trong thị trấn **không có tập quán nào**. **Tập quán thì không dạy được trong một đêm.**
 - **Và nó là mặt sau của [[emb-chot-nguyen-to-di-san]]**: một thị trấn có tập quán cho từng hệ lửa thì cũng có tập quán cho việc **ai đó động vào Kotei của nó** — kể cả khi tập quán ấy không được viết vào hợp đồng.
 
 ## ⛔ Lằn can

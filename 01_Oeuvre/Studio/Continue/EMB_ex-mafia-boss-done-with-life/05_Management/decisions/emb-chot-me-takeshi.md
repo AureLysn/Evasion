@@ -28,8 +28,6 @@ last_updated: 2026-11-21
 
 > 🔁 **01/10/2026 — mở lại một phần**. **Giữ:** mục 2, tên **Yamamoto Sachiko** và hồ sơ [[sachiko]]. **Mở lại:** mục 1 *(ai quyết trên trang)* — nó gắn cảnh 2.2 của dàn ý đã lưu trữ; nay là câu hỏi q-me-takeshi-ai-quyet.
 
-> Giải q-me-takeshi-ai-quyet, mở khoá cảnh **2.2** của *văn xuôi đã xóa*.
-
 ## Quyết định
 
 | # | Câu | Chốt |

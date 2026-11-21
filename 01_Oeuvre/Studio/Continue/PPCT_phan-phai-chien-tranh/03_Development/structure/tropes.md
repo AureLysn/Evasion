@@ -129,7 +129,7 @@ Ch3, ch7, ch11, ch12, ch13 **không có** thay đổi nào với tổ Caster. T�
   | Hứa sắp tới Vấn đáp | ch11 → ch12 | 1 |
   | Lý do mua quần áo | ch11 → ch15 | 4 |
 
-- **Bí ẩn lớn không trả trong cả 15 chương**, **0/13**. Hook note ghi `major` có 13 cái. Không cái nào được trả trong nguyên tác: hai cái đã trả (Assassin, Saber xem thế giới) đều trả ở ch16–17, tức phần viết tiếp.
+- **Bí ẩn lớn không trả trong cả 15 chương**, **0/13**. Hook note ghi `major` có 13 cái. Không cái nào được trả trong nguyên tác.
 
 ### 1e. Nhân vật đổi qua hành động hay qua hé lộ
 
@@ -261,7 +261,7 @@ PPCT **chưa có note `crossover-contract`** gom các luật này lại. Xem m�
 
 ## 6. Trục chưa đặt — ứng viên thành `question`
 
-Sau reset 21/11/2026, các trục từng được chốt qua dàn ý cũ đều mở lại: kết cục từng Servant, lời mời hiện thế, lời giải bí ẩn trung tâm, Tsuna sau chiến tranh, mức lệch ở mỗi trạm canon *(luật chung vẫn giữ: [[moi-tram-canon-lech-co-he-qua]])*, 8 trục time travel của phiên ngoại (mục 3). Khung mới quyết.
+Sau reset 21/11/2026, các trục từng được chốt qua dàn ý cũ đều mở lại: kết cục từng Servant, lời mời hiện thế, lời giải bí ẩn trung tâm, Tsuna sau chiến tranh, mức lệch ở mỗi trạm canon *(luật chung vẫn giữ: moi-tram-canon-lech-co-he-qua)*, 8 trục time travel của phiên ngoại (mục 3). Khung mới quyết.
 
 ---
 

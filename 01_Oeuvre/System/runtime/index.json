@@ -3266,7 +3266,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1672,
+ "count": 1669,
  "missing_aliases": [],
  "notes": [
   {
@@ -26528,7 +26528,7 @@
     "warden of vendicare"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-25",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/bermuda.md",
    "project": "EMB",
    "scope": "branch",
@@ -27159,7 +27159,7 @@
     "nguoi to bang cai cua"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-20",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/levi.md",
    "project": "EMB",
    "scope": "branch",
@@ -27171,7 +27171,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 312
+   "words": 193
   },
   {
    "aliases": [
@@ -27206,7 +27206,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 523
+   "words": 512
   },
   {
    "aliases": [
@@ -27704,7 +27704,7 @@
     "squalo trong nhanh"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-20",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/squalo.md",
    "project": "EMB",
    "scope": "branch",
@@ -27716,7 +27716,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 343
+   "words": 226
   },
   {
    "aliases": [
@@ -28367,7 +28367,7 @@
     "tsuna va warden"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-25",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/relationships/tsuna--bermuda.md",
    "project": "EMB",
    "scope": "branch",
@@ -28403,7 +28403,7 @@
     "tsuna kawahira"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/relationships/tsuna--kawahira.md",
    "project": "EMB",
    "scope": "branch",
@@ -29396,7 +29396,7 @@
     "vi sao khong ai lai gan cloud"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/fact-cloud-ben-bi-cach-ly-la-xa-hoi.md",
    "project": "EMB",
    "scope": "project",
@@ -29408,7 +29408,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 474
+   "words": 463
   },
   {
    "aliases": [
@@ -30083,7 +30083,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 689
+   "words": 652
   },
   {
    "aliases": [
@@ -30157,7 +30157,7 @@
     "vi sao thi tran khong so"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/fact-tap-quan-doi-voi-tung-he-lua.md",
    "project": "EMB",
    "scope": "project",
@@ -30169,7 +30169,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 832
+   "words": 568
   },
   {
    "aliases": [
@@ -30292,7 +30292,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 501
+   "words": 457
   },
   {
    "aliases": [
@@ -32104,7 +32104,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 1018
+   "words": 910
   },
   {
    "aliases": [
@@ -32240,7 +32240,7 @@
     "vo tinh bi phat hien"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-19",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/hook-su-co-nha-khoa-hoc-vongola.md",
    "project": "EMB",
    "scope": "branch",
@@ -32252,7 +32252,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 192
+   "words": 187
   },
   {
    "aliases": [
@@ -33618,7 +33618,7 @@
     "vi sao cloud khong phat trien"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-19",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-chot-may-nhan-loi-sky.md",
    "project": "EMB",
    "scope": "project",
@@ -33630,7 +33630,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 562
+   "words": 563
   },
   {
    "aliases": [
@@ -33669,7 +33669,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 530
+   "words": 518
   },
   {
    "aliases": [
@@ -33712,7 +33712,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 1378
+   "words": 1309
   },
   {
    "aliases": [
@@ -34017,7 +34017,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 466
+   "words": 454
   },
   {
    "aliases": [
@@ -42081,7 +42081,7 @@
     "大庭叶藏"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-14",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten.md",
    "project": "PPCT",
    "scope": "project",
@@ -42093,7 +42093,7 @@
     "p/personal"
    ],
    "type": "rule",
-   "words": 704
+   "words": 544
   },
   {
    "aliases": [
@@ -42830,7 +42830,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 203
+   "words": 119
   },
   {
    "aliases": [
@@ -43477,7 +43477,7 @@
     "p/personal"
    ],
    "type": "location",
-   "words": 82
+   "words": 63
   },
   {
    "aliases": [
@@ -45079,7 +45079,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 4119
+   "words": 4102
   },
   {
    "aliases": [
@@ -49926,39 +49926,6 @@
   },
   {
    "aliases": [
-    "七天 chi la loi nhan vat",
-    "bay ngay khong phai luat PPCT",
-    "Rider chi o hien the 7 ngay"
-   ],
-   "always_load": false,
-   "authority": "ai",
-   "canon_layer": "user_canon",
-   "confidence": 0.8,
-   "id": "decision.PPCT.bay-ngay-chi-la-loi-nhan-vat",
-   "keys": [
-    "bay ngay chi la loi nhan vat",
-    "bay ngay khong phai luat ppct",
-    "decision ppct bay ngay chi la loi nhan vat",
-    "rider chi o hien the 7 ngay",
-    "七天 chi la loi nhan vat"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/bay-ngay-chi-la-loi-nhan-vat.md",
-   "project": "PPCT",
-   "scope": "project",
-   "status": "locked",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 69
-  },
-  {
-   "aliases": [
     "chi tieu van phong theo tac gia",
     "thoai theo muc tac gia",
     "do dai chuong la san",
@@ -50311,7 +50278,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 161
+   "words": 158
   },
   {
    "aliases": [
@@ -50349,42 +50316,6 @@
    ],
    "type": "decision",
    "words": 259
-  },
-  {
-   "aliases": [
-    "moi tram canon lech co he qua",
-    "muc lech toi thieu moi tram",
-    "Stations of the Canon PPCT",
-    "tram canon PPCT",
-    "lech canon co y nghia"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "user_canon",
-   "confidence": 1.0,
-   "id": "decision.PPCT.moi-tram-canon-lech-co-he-qua",
-   "keys": [
-    "decision ppct moi tram canon lech co he qua",
-    "lech canon co y nghia",
-    "moi tram canon lech co he qua",
-    "muc lech toi thieu moi tram",
-    "stations of the canon ppct",
-    "tram canon ppct"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/moi-tram-canon-lech-co-he-qua.md",
-   "project": "PPCT",
-   "scope": "project",
-   "status": "locked",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 379
   },
   {
    "aliases": [
@@ -50450,7 +50381,7 @@
     "死气的顶点 khong bi vo hieu"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-14",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat.md",
    "project": "PPCT",
    "scope": "project",
@@ -50462,7 +50393,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 663
+   "words": 657
   },
   {
    "aliases": [
@@ -50627,7 +50558,7 @@
     "to matou va kirei theo canon"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-14",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/to-matou-va-kirei-theo-canon.md",
    "project": "PPCT",
    "scope": "project",
@@ -50639,43 +50570,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 142
-  },
-  {
-   "aliases": [
-    "tuyen co trung tra trong 0-1 chuong",
-    "nhip giu tuyen PPCT",
-    "tuyen ngan tra ngay",
-    "khoang cach gieo tra PPCT",
-    "nhip tac gia tuyen ngan"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "user_canon",
-   "confidence": 1.0,
-   "id": "decision.PPCT.tuyen-co-trung-tra-trong-0-1-chuong",
-   "keys": [
-    "decision ppct tuyen co trung tra trong 0 1 chuong",
-    "khoang cach gieo tra ppct",
-    "nhip giu tuyen ppct",
-    "nhip tac gia tuyen ngan",
-    "tuyen co trung tra trong 0 1 chuong",
-    "tuyen ngan tra ngay"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/tuyen-co-trung-tra-trong-0-1-chuong.md",
-   "project": "PPCT",
-   "scope": "project",
-   "status": "locked",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 173
+   "words": 131
   },
   {
    "aliases": [

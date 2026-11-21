@@ -11,7 +11,7 @@ aliases: ["Tsuna Shouichi", "Tsuna va Shouichi", "quan he Tsuna Shouichi", "ban 
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[shouichi]]", "[[emb-chot-shouichi-kiep-truoc]]", "[[tomoko]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[phan-biet-hai-the-gioi]]", "[[ao3-tags]]"]
 source:
   type: user_input
-  ref: "Aurel chot 17/09/2026 (emb-chot-shouichi-kiep-truoc). Canh goc — brat-ch1-chapter.md canh 1.5. Tag AO3 'Irie Shouichi & Sawada Tsunayoshi' co san trong nguyen tac."
+  ref: "Aurel chot 17/09/2026 (emb-chot-shouichi-kiep-truoc). Canh goc — brat-ch1-chapter.md canh 1.5. Tag AO3 'Irie Shouichi & Sawada Tsunayoshi' co san trong nguyen tac. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: user
 confidence: 1.0
 addressing:

@@ -24,15 +24,11 @@ last_updated: 2026-11-21
 
 Master của [[berserker]], theo canon — [[to-matou-va-kirei-theo-canon]]. Canon: [[Kariya-Matou]].
 
-Chữ Hán 间桐雁夜: ✅ kiểm 29/09/2026 (0.85) — 20260929-canon-arc-6-co-xe-gia f.
+Chữ Hán 间桐雁夜: ✅ kiểm 29/09/2026 (0.85).
 
 ## Riêng trong fic này
 
 - **Nguyên tác (ch1–15): không lên trang.** Berserker thì có: ch7–9 ở kho cảng. Master chỉ hiện ra qua việc Berserker **rút lui theo lệnh Master** sau khi Archer bị gọi về.
-- **Khác canon mà truyện đã chốt:**
-  - **Tokiomi đã chết** từ đêm ngày 10 (tokiomi-chet-archer-doi-master). Kariya **không biết** — kariya-khong-biet-tokiomi-chet-kirei-hua-chen (Aurel 29/09).
-  - Lệnh chú Kirei nạp cho Kariya là **một đạo của Sola-Ui**, không phải dự trữ của Risei — kirei-nap-mot-dao-lenh-chu-cho-kariya.
-  - **Không có cảnh Aoi** — bo-canh-kariya-va-aoi.
 
 ## Giọng và cách nói
 
@@ -40,10 +36,8 @@ Chưa có trên trang. Canon: hiền, chịu đau phi thường. Trùng ăn cả
 
 ## Nhân vật này BIẾT gì
 
-- **Không** biết: [[kirei-van-la-master]] · archer-doi-master-sang-kirei (cả hai ghi `unknown_to`).
+- **Không** biết: [[kirei-van-la-master]] (ghi `unknown_to`).
 - **Không** biết bất cứ gì về tổ Caster.
-- **Không** biết lệnh chú Kirei nạp từng là của Sola-Ui.
-- Biết Irisviel là gì: chưa đủ dữ kiện — irisviel-binh-chua-chi-he-qua-tsuna cấm chữ 容器 trên trang.
 
 ## Quan hệ
 

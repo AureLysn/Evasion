@@ -11,7 +11,7 @@ aliases: ["Tsuna Bermuda", "ban vong nien", "Tsuna va Warden", "nguoi lon dang t
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[bermuda]]", "[[Bermuda-von-Veckenschtein]]", "[[hook-bermuda-to-mo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]"]
 source:
   type: user_input
-  ref: "Aurel 22/09/2026: 'bang cach nao do tro thanh ban vong nien cua Bermuda'; dieu kien nguoi lon dang tin khi va chi khi khong lien quan Kawahira. Len trang o child-ch2-chapter ban viet lai."
+  ref: "Aurel 22/09/2026: 'bang cach nao do tro thanh ban vong nien cua Bermuda'; dieu kien nguoi lon dang tin khi va chi khi khong lien quan Kawahira. Len trang o child-ch2-chapter ban viet lai. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: user
 confidence: 1.0
 addressing:
@@ -20,7 +20,7 @@ addressing:
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [relationship]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Bermuda — **bạn vong niên, trừ một việc**

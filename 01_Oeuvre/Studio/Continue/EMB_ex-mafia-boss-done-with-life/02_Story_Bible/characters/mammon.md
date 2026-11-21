@@ -11,7 +11,7 @@ aliases: ["Mammon EMB", "Viper trong nhanh", "nguoi nhan ra dieu ki la", "Arcoba
 related: ["[[Viper]]", "[[xanxus]]", "[[chi-chu-nhan-thay-cao]]", "[[natsu]]", "[[tsuna]]", "[[xoa-so-estraneo]]", "[[tomoko]]", "[[kitsune-phan-loai]]", "[[kawahira]]", "[[truc-chinh]]"]
 source:
   type: inference
-  ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Viper]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ho."
+  ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Viper]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ho. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 always_load: false
@@ -29,7 +29,7 @@ last_updated: 2026-11-21
 
 Canon **chưa bao giờ** tiết lộ giới tính của Viper; mọi tài liệu dùng **đại từ trung tính**.
 
-⚠️ **Các note kế hoạch AI viết ngày 19/09 đã gọi Mammon là "ông" suốt** — *văn xuôi đã xóa*, emb-chot-tuyen-varia. **Sai**, và đã sửa.
+⚠️ **Các note kế hoạch AI viết ngày 19/09 (đã xóa khi reset) gọi Mammon là "ông" suốt.** **Sai** — đừng lặp lại.
 
 | | |
 |---|---|
@@ -38,7 +38,7 @@ Canon **chưa bao giờ** tiết lộ giới tính của Viper; mọi tài liệ
 
 ## 🔴 Vì sao Mammon là người nhận ra, chứ không phải Xanxus
 
-emb-chot-tuyen-varia để ngỏ *"nhận ra điều gì"*; *văn xuôi đã xóa* cổng 1 chốt **lối C**, và canon cho đúng hai chân:
+Nếu nhánh cần một người nhận ra, canon cho Mammon đúng hai chân:
 
 | Chân | Canon chống đỡ |
 |---|---|

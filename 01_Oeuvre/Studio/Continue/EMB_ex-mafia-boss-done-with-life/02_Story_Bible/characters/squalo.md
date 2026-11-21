@@ -11,14 +11,14 @@ aliases: ["Squalo EMB", "Squalo trong nhanh", "pho tuong Varia muoi lam tuoi", "
 related: ["[[Superbia-Squalo]]", "[[xanxus]]", "[[mammon]]", "[[belphegor]]", "[[levi]]", "[[tuoi-va-moc]]"]
 source:
   type: inference
-  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR."
+  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 ---
 
 # Squalo — trong nhánh `aurel-main`
@@ -39,13 +39,7 @@ last_updated: 2026-09-20
 | **Vẫn đang đi học** | Canon: trước Cradle cậu ta mặc **đồng phục học sinh**. Mười lăm tuổi, và là phó tướng một đội ám sát |
 | **Thuận tay trái** | Nên nếu bàn tay ấy đã mất ở mốc này, thì cậu ta **đang tập lại từ đầu** bằng tay yếu, và đó là chất liệu chưa ai dùng |
 
-🔵 **Chưa chốt:** ở mốc Brat cậu ta **đã chặt tay trái chưa**. Canon không cho thời điểm rõ, chỉ nói việc ấy gắn với trận thắng Tyr. *văn xuôi đã xóa* gọi cậu ta là *"a Rain with a sword"* — đúng cả hai đường, nên cửa vẫn mở.
-
-## Nhánh này đã cho cậu ta làm gì
-
-*văn xuôi đã xóa* — sân ga Genoa. Cười một tiếng rồi tắt khi không ai cười theo: *"VOOOI! He's doing paperwork!"*
-
-*văn xuôi đã xóa* — bị cả thị trấn đối xử lịch sự và **không chịu nổi điều đó**: *"They are being polite at me specifically!"* Bị Xanxus chặn bằng một ngón tay giơ lên. Và [[musashi]] nhìn cậu ta lúc ấy, nhận ra mình đang nói chuyện với **một đứa chưa lớn hết trong cái áo khoác của người to hơn** — rồi đọc chậm lại.
+🔵 **Chưa chốt:** ở mốc Brat cậu ta **đã chặt tay trái chưa**. Canon không cho thời điểm rõ, chỉ nói việc ấy gắn với trận thắng Tyr. Cửa vẫn mở.
 
 ## Chưa dùng tới
 

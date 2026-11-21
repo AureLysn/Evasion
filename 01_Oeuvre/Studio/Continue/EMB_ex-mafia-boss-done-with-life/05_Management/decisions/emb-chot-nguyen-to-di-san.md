@@ -65,15 +65,9 @@ Bà làm một việc **xứng với một Hibari và một Rain nghịch đảo
 
 Rain là nguyên tố **làm dịu**. Nghịch đảo của nó thì làm điều ngược lại — nên bị một Yasuragi đảo chiều đi săn thì không có gì dịu ở bất kỳ khâu nào.
 
-*văn xuôi đã xóa* đã viết sẵn câu cho bà, khi ấy còn nói về con trai bà:
-
-> *"Hibari Indra had spent eleven years being the person who arrives forty minutes after you would like her to… and there was **exactly one person in the world** for whom she had never once been late."*
-
-→ Câu ấy giờ **nới ra**.
-
 🔵 **Và có thể bà là người lôi [[fon]] vào.** Aurel: *"ai tốt hơn một Arcobaleno để trở thành một nguyên tố chứ — mà thậm chí còn không suy xét trong đầu việc ngọn lửa của họ có phù hợp không."*
 
-⚠️ Khung arc đang để ngỏ đúng chỗ này: *"Fon vào qua dòng Wu của Indra."* Đây là **hạt giống**, chưa phải một cảnh, và **không thuộc arc Brat**.
+⚠️ Hướng *"Fon vào qua dòng Wu của Indra"* là **hạt giống**, chưa phải một cảnh, và **không thuộc arc Brat**.
 
 ### [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] — **nhắm lên trên**, và bắt đầu thấy tội
 

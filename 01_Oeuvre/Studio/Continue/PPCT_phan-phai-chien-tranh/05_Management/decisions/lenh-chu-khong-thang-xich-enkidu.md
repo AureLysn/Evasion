@@ -29,7 +29,7 @@ Trong PPCT, lệnh chú **không** kéo được Servant ra khỏi xích Enkidu 
 ## Lý do chọn
 
 - Aurel chọn ngày 01/10/2026 (phương án B).
-- Khớp ca canon gần nhất: Fate/stay night UBW — lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki TYPE-MOON, 0.55 — 20261001-canon-diem-chan-arc-7 A4).
+- Khớp ca canon gần nhất: Fate/stay night UBW — lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki TYPE-MOON, 0.55).
 - Không phải lệch có chủ đích; không cần giải thích trên trang.
 
 ## Phương án đã loại và vì sao
