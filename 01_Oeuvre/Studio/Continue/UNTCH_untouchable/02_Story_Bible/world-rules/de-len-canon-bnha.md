@@ -24,7 +24,7 @@ last_updated: 2026-09-01
 > **Vì sao note này tồn tại.** Tới 31/08/2026, bảy note trong `Database/Fandom/BNHA/` chứa nội dung
 > **chỉ đúng với UNTCH** — số chương fic, tên nhân vật KHR, cả bảng *"chỗ chạm vào UNTCH"*.
 > `DUA` cũng là fic BNHA × KHR và đọc chung thư mục đó, nên nó **thừa hưởng luôn cốt truyện
-> UNTCH**. Đúng thứ `AGENTS.md` §2.4 cấm. Aurel yêu cầu chuyển về đây, 01/09/2026.
+> UNTCH**. Đúng thứ luật tách project cấm ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4). Aurel yêu cầu chuyển về đây, 01/09/2026.
 >
 > Hồ sơ lỗi:  mục **L04**.
 

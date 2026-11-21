@@ -42,7 +42,7 @@ Thư mục chưa tạo (`relationships/` `locations/` `organizations/` `events/`
 
 ## Canon dùng chung — **không** ở đây
 
-- KHR → `Database/Fandom/KHR/rules/` — đã có 8 note, dùng lại.
+- KHR → `Database/Fandom/KHR/Power_System/` *(trước là `rules/`)* — đã có note, dùng lại.
 - BNHA → `Database/Fandom/BNHA/` — **chưa tồn tại**, tạo trước bước 4.
 
 ## Đọc tới đâu

@@ -177,4 +177,4 @@ Chưa có — reset 21/11/2026. Khi dàn ý từng khối, ánh xạ `known_by`/
 - [ ] **7b · 8 — khung và dàn ý chương** — chưa có *(reset 21/11/2026)*
 - [ ] **9 — viết** (tiếng Anh) — **chưa mở**, chờ khung và dàn ý
 
-⚠️ Hai chỗ **bắt buộc dừng chờ người** theo `AGENTS.md`: **sau OUTLINE**, và **trước COMMIT**.
+⚠️ Hai chỗ **bắt buộc dừng chờ người** theo Two-Gate Protocol ([[session-handbook]], [[09-gates]]): **sau OUTLINE**, và **trước COMMIT**.

@@ -23,7 +23,7 @@ last_updated: 2026-09-13
 
 > ⚠️ **Bất biến.** Không sửa, không xoá.
 >
-> 🔴 **Và đây là PHÂN TÍCH PHÁI SINH, không phải bằng chứng.** Bất biến 5 của [[AGENTS]]:
+> 🔴 **Và đây là PHÂN TÍCH PHÁI SINH, không phải bằng chứng.** Bất biến 5 của [[CLAUDE]]:
 > *"kết luận do một lượt AI trước tạo ra **không phải là bằng chứng**, bất kể file chứa nó
 > nghe chính thức tới đâu."* Bốn file dưới đây nghe **rất** chính thức — có bảng, có nhãn
 > `[Canon]`, có chữ "BẢN KHOÁ". Chúng vẫn là kết luận. `authority: ai`, `confidence: 0.7`.

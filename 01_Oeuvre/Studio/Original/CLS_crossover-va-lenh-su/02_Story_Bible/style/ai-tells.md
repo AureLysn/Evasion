@@ -53,7 +53,7 @@ last_updated: 2026-10-12
 | 1 | Câu tổng kết cảm xúc cuối đoạn *(「và đó là lúc… hiểu rằng」)* | `Global/personal/forbidden-patterns` #1 |
 | 2 | Cặp đối lập sáo *(「không phải X, mà là Y」)* | `forbidden-patterns` #2 |
 | 3 | Mở đoạn bằng trạng ngữ thời gian lặp lại | `forbidden-patterns` #5 |
-| 4 | 「Không ai nói gì」 và họ hàng của nó | danh sách tật model dùng chung — `AGENTS.md` sub-vault mục 5 |
+| 4 | 「Không ai nói gì」 và họ hàng của nó | danh sách tật model dùng chung — trước ở `AGENTS.md` sub-vault mục 5, nay không còn văn bản riêng; luật gần nhất là `forbidden-patterns` |
 | 5 | So sánh đệm *(dường như, như thể)* | tật model dùng chung |
 | 6 | Hít sâu, thở ra | tật model dùng chung |
 | 7 | Khoé môi, nhếch mép | tật model dùng chung |

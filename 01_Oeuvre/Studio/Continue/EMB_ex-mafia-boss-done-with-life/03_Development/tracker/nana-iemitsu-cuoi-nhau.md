@@ -69,4 +69,4 @@ Cả hai là chất liệu tốt, nhưng chúng **chi tiết hoá một lời gi
 
 ## Bài học cho quy trình
 
-Sai lầm ở đây có dạng cụ thể: **đọc nguồn dẫn xuất (comment, lời hứa) trước nguồn sơ cấp (thân truyện), rồi để kết luận từ nguồn dẫn xuất đứng nguyên.** Đúng thứ tự là đọc thân truyện trước, dùng comment để bổ sung — không phải ngược lại. Xem [[CLAUDE]] §6.
+Sai lầm ở đây có dạng cụ thể: **đọc nguồn dẫn xuất (comment, lời hứa) trước nguồn sơ cấp (thân truyện), rồi để kết luận từ nguồn dẫn xuất đứng nguyên.** Đúng thứ tự là đọc thân truyện trước, dùng comment để bổ sung — không phải ngược lại. Xem [[CLAUDE]] bất biến 5.

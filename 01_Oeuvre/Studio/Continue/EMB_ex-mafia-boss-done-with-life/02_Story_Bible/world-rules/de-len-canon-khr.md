@@ -26,11 +26,11 @@ last_updated: 2026-11-21
 > **Vì sao note này tồn tại.** Tới 02/09/2026, **chín** note trong `Database/Fandom/KHR/` chứa nội
 > dung **chỉ đúng với EMB** (dưới tên cũ `KOHAKU`) — tuyến chính của fic, log project, việc cần
 > làm của project, và cả một tên project nằm trong `tags`. Bất kỳ fic KHR nào khác đọc chung thư
-> mục đó đều **thừa hưởng luôn cốt truyện EMB**. Đúng thứ `AGENTS.md` §2.4 cấm.
+> mục đó đều **thừa hưởng luôn cốt truyện EMB**. Đúng thứ luật tách project cấm ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4).
 > Aurel duyệt chuyển về đây, 02/09/2026.
 >
 > Hồ sơ lỗi:  mục **L04**.
-> Khuôn này copy từ phía BNHA: `05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/01_Project-canon/notes/de-len-canon-bnha.md`.
+> Khuôn này copy từ phía BNHA: `05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/world-rules/de-len-canon-bnha.md`.
 
 ⚠️ **Note này KHÔNG phải canon.** `canon_layer: general_reference` — nó là **bản chỉ đường**:
 EMB dùng luật KHR nào, ở mức nào, và chỗ nào còn hở. Fact thật nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon/_MOC]].
@@ -125,7 +125,7 @@ Aurel đánh dấu **bản Revised** là **quan trọng với EMB**.
 > Nếu là cố ý thì đây là **một hook rất chặt** và nên ghi thành `hook` note.
 > **Mình không tự kết luận.**
 
-⬜ Chờ Aurel. Nếu chốt là cố ý ⇒ dựng note trong `Studio/Continue/EMB_ex-mafia-boss-done-with-life/hooks/`.
+⬜ Chờ Aurel. Nếu chốt là cố ý ⇒ dựng note trong `Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/`.
 
 ---
 

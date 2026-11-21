@@ -131,7 +131,7 @@ Guardian thì không đủ tư cách chăm sóc. Musashi và Maro đã già. Aya
 
 | | |
 |---|---|
-| Ở đâu | `Studio/Continue/EMB_ex-mafia-boss-done-with-life/inbox/` — một file `.md` mỗi lần, tên là ngày |
+| Ở đâu | `Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/inbox/` — một file `.md` mỗi lần, tên là ngày |
 | Ghi gì | **bất cứ gì**, không cần đúng, không cần đủ, không cần đặt đúng chỗ |
 | Ai dọn | mình — mỗi đợt mở đầu bằng việc **rà inbox** và phân vào note đúng |
 | Vì sao | ý tưởng đến lúc không cần thì **phải có chỗ rơi vào**, nếu không nó mất |

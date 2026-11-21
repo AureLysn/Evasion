@@ -22,7 +22,7 @@ last_updated: 2026-09-25
 # Chữ ký văn phong — 西州 · 《反派战争》
 
 > **Cách đo.** Đơn vị là **chữ Hán** trong thân truyện, không phải "từ". Thoại = nội dung trong ngoặc kép `“”` ([[thoai-la-cau-trong-ngoac-kep]]). Đoạn = một dòng không trống. Câu = cắt ở `。！？`.
-> **Cỡ mẫu:** 28.131 chữ Hán / 15 chương — đủ ngưỡng ~5.000 của `05_Evasion/01_Oeuvre/AGENTS.md` §3.
+> **Cỡ mẫu:** 28.131 chữ Hán / 15 chương — đủ ngưỡng ~5.000 của `05_Evasion/01_Oeuvre/AGENTS.md` §3 *(hợp đồng sub-vault cũ, nay không còn; ngưỡng này chưa có trong luật hiện hành — kiểm 21/11/2026)*.
 > **Tiền truyện đo riêng**, không gộp: phần hạ là giọng phỏng Dazai Osamu, tác giả tự nói.
 
 ## Bảng gốc — 15 chương
