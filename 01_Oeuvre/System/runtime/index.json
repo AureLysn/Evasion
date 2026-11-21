@@ -10964,7 +10964,7 @@
    ],
    "always_load": false,
    "authority": "ai",
-   "canon_layer": "general_reference",
+   "canon_layer": "official_canon",
    "confidence": 0.7,
    "id": "lore.HSR.ten-tieng-trung-hsr",
    "keys": [
@@ -10988,7 +10988,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 3962
+   "words": 3614
   },
   {
    "aliases": [
