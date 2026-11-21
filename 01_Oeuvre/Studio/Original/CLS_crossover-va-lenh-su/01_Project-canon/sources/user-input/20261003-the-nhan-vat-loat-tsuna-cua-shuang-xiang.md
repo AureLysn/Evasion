@@ -31,7 +31,7 @@ last_updated: 2026-10-03
 
 ## ⚠️ Ranh giới
 
-- Một cuốn trong loạt này — 《纲吉的横滨！》 — là **nguồn của một project khác** trong vault. `AGENTS.md` sub-vault §2.4: **hai project
+- Một cuốn trong loạt này — 《纲吉的横滨！》 — là **nguồn của một project khác** trong vault. Luật tách project ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` sub-vault §2.4): **hai project
   không thấy nhau**. CLS **không** đọc note của project đó; tư liệu này vào CLS **chỉ** với tư cách thứ Aurel đưa trong chat.
 - Loạt này lấy Tsuna làm tâm và để **mọi người hướng về Tsuna**. CLS có [[luat-doi-xung-quan-he-ngang-hang]] *(ngưỡng 3: một nhân vật
   chỉ được dàn phụ của ≤ 1 thế giới ngưỡng mộ)* đúng để tránh hình dạng đó. Mượn **chất** của từng cặp được; mượn **cấu trúc** thì không.

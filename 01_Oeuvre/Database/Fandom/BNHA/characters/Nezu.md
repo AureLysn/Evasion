@@ -212,7 +212,7 @@ Năm mệnh đề dưới đây là **canon chính thức**, và cũng là nhữ
 5. **Ông cực giàu**, và đã tự bỏ tiền nâng cấp phòng thủ cho U.A.
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi viết Nezu cho một truyện cụ thể, đọc
-`01_Project-canon/` của **chính truyện đó**. Xem `AGENTS.md` §2.4 — hai project không thấy
+`01_Project-canon/` của **chính truyện đó**. Xem luật tách project ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4) — hai project không thấy
 nhau, và MAIN-DATABASE **không** phải chỗ để một project rò quyết định sang project khác.
 
 ## Ghi chú ngoài truyện — dùng cẩn thận

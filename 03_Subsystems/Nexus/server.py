@@ -1290,7 +1290,7 @@ def engines(h, conn, q):
 
 
 def consent_gate(h, conn, book_id, engine, allow_external, source_lang=None):
-    """fiction AGENTS.md §6: vault content is not uploaded to an external service unless asked.
+    """Former fiction AGENTS.md §6 (no current rule text yet): vault content is not uploaded to an external service unless asked.
 
     Every route that sends a book's text to an engine goes through here. Returns _SENT when it
     has already answered 409 needs_consent; None when the caller may go ahead.

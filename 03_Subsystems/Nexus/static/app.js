@@ -316,7 +316,7 @@ function onJobFinished(j) {
   if (currentView === 'library') renderLibrary();
 }
 
-/** fiction AGENTS.md §6: ask before a vault book's text goes to a server engine. */
+/** Former fiction AGENTS.md §6 (no current rule text yet): ask before a vault book's text goes to a server engine. */
 async function askConsent(engine) {
   const label = state.engines?.[engine]?.label || engine;
   const ok = await confirmBox('Gửi nội dung vault ra ngoài?',

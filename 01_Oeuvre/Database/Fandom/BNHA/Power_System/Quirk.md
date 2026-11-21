@@ -109,7 +109,7 @@ Hai mệnh đề canon dưới đây bị viết lại thường xuyên nhất:
    itself, **even going against its own user's command**"* — canon **vốn đã** cho nó cãi lệnh.
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc
-`01_Project-canon/` của **chính truyện đó**. Xem `AGENTS.md` §2.4 — hai project không thấy nhau.
+`01_Project-canon/` của **chính truyện đó**. Xem luật tách project ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4) — hai project không thấy nhau.
 
 
 ## Chưa nghiên cứu
