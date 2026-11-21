@@ -2423,7 +2423,7 @@ async function renderVault(query) {
   main.innerHTML = `
     <div class="page-head">
       <h1>Mở từ vault</h1>
-      <span class="path-pill" title="${esc(info.projects_root)}">${esc(info.projects_root)}</span>
+      <span class="path-pill" title="${esc((info.projects_roots || [info.projects_root]).join('\n'))}">${esc((info.projects_roots || [info.projects_root]).join(' · '))}</span>
     </div>
     <div class="info-banner">ⓘ <span><b>Chỉ đọc.</b> App chép nội dung vào thư viện; sửa hay dịch ở đây <b>không ghi ngược</b> vào vault. Chương muốn chốt vẫn đi qua gate của vault.</span></div>
     <ol class="steps">${['Chọn dự án', 'Tick file .md / .txt', 'Cấu hình &amp; nhập'].map((t, i) => `<li class="${i + 1 === step ? 'on' : i + 1 < step ? 'done' : ''}"><span>${i + 1}</span>${t}</li>`).join('')}</ol>
@@ -2790,7 +2790,7 @@ async function renderSettings() {
       + group('Vault', 'chỉ đọc', `
         <label class="field">Gốc vault (để trống = tự tìm vault chứa app này)<input type="text" id="s-vault" value="${esc(s.vault_root)}" placeholder="D:\\AureLysn"></label>
         <p class="small" id="s-vault-status"></p>
-        <p class="muted small">Chỉ đọc <code>05_Evasion/01_Oeuvre/Studio/Continue</code>. File gốc của note nguồn được tìm qua <code>01_Origine/03_Systems/Config/stores.md</code>.</p>`)],
+        <p class="muted small">Chỉ đọc <code>05_Evasion/01_Oeuvre/Studio/Continue</code> và <code>Studio/Original</code>. File gốc của note nguồn được tìm qua <code>01_Origine/03_Systems/Config/stores.md</code>.</p>`)],
     dicts: ['Từ điển offline', group('Từ điển VietPhrase', 'dùng khi dịch không qua server', `
         <div class="dict-list">${[['name', 'Names'], ['vp', 'VietPhrase'], ['hv', 'Hán Việt']].map(([k, l]) => `
           <div class="dict-row"><b>${l}</b><span class="muted small">${dicts[k].present ? fmtSize(dicts[k].bytes) + (dicts[k].entries ? ` · ${dicts[k].entries.toLocaleString('vi-VN')} mục` : '') : 'chưa có'}</span>

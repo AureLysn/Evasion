@@ -849,7 +849,8 @@ def vault_info(h, conn, q):
     root, reason = vault.find_root(db.get_settings(conn))
     # draft_labels: this build stores a chapter's vault `status:` — tram_dich_push.py asks before pushing drafts
     return {"root": str(root) if root else None, "error": reason, "draft_labels": True,
-            "projects_root": str(vault.projects_root(root)) if root else None}
+            "projects_root": str(vault.projects_root(root)) if root else None,
+            "projects_roots": [str(p) for p in vault.projects_roots(root)] if root else []}
 
 
 @route("GET", r"/api/vault/list")

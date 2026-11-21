@@ -47,7 +47,7 @@ khi đó tăng giãn cách trong Cài đặt hoặc đổi engine.
 
 ## Mở từ vault
 
-Mục **Mở từ vault** duyệt `05_Evasion/01_Oeuvre/Studio/Continue/` của AureLysn Vault.
+Mục **Mở từ vault** duyệt `05_Evasion/01_Oeuvre/Studio/Continue/` và `Studio/Original/` của AureLysn Vault (một danh sách dự án chung).
 
 - **Chỉ đọc**, trừ một nút: **Lưu thành file… → vault** ở Bàn viết tạo note mới cạnh chương (xem mục
   Bàn viết). Ngoài nút đó, nội dung chỉ được chép vào thư viện; sửa hay dịch trong app không ghi ngược
