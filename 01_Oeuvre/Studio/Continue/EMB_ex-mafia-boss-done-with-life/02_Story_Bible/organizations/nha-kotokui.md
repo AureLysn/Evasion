@@ -18,7 +18,7 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [organization]
-last_updated: 2026-09-21
+last_updated: 2026-11-21
 ---
 
 # Nhà Kōtokui — **nhà làm lịch**
@@ -62,7 +62,7 @@ Song sinh là **điềm xấu** với một nhà thuật pháp — **畜生腹**
 
 Họ nghe tin Namimori có **một phép thử Flame bằng văn bản**, và với họ đó vừa là **một sự xúc phạm nghề nghiệp** vừa là **lối thoát duy nhất còn lại**: một tờ giấy nói hộ, để hồ sơ không ghi rằng gia chủ đã quyết.
 
-Họ về tay không — xem hook-chuan-sugita-bi-sao-chep.
+Họ về tay không.
 
 ## Danh xưng — **họ dùng chung hệ chữ với cả nước**
 

@@ -37,8 +37,6 @@ Mọi cảnh có Gokudera/Yamamoto phụ thuộc vào câu này. Dữ kiện có
 
 ## Cần chốt trước
 
-Cần trước: truoc khi lap khung
-
 ## Ai quyết
 
 ❌ Bắt buộc người viết

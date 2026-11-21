@@ -7,7 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: branch_locked
 status: locked
-resolves: [question.EMB.q-me-takeshi-ai-quyet]
+resolves: []
 decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17

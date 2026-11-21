@@ -98,8 +98,8 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - [x] `style/` — đo trên **nguyên văn Trung** 26/09 ([[nguyen-van-zh-tdtb]]): [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]. Chỉ tiêu bằng chữ Hán; [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]] lập 27/09, 0 lỗi cứng trên 15 chương gốc. Cổng: `style_metrics` + `ai_tells_check`
 - [x] `crossover-contract` — không bắt buộc: các fandom khác là thế giới nhiệm vụ, không phải crossover ngang hàng ([[qd-pham-vi-universe-tdtb]])
 - [x] `canon/` + `Characters/` — trích xuất lần 1, 25/09
-- [x] `questions/` — lập 26/09; sau reset còn 24 câu, 21 đã giải *(đếm 21/11/2026)*
-- [x] `decisions/` — lập 26/09; sau reset còn 30 quyết định *(đếm 21/11/2026)*
+- [x] `questions/` — lập 26/09; sau reset còn 24 câu, 20 đã giải, 4 mở *(đếm lại 21/11/2026 sau PR #57)*
+- [x] `decisions/` — lập 26/09; sau reset còn 28 quyết định *(đếm lại 21/11/2026 sau PR #57)*
 
 ## 🔴 Trạng thái — reset về sau trích xuất (21/11/2026)
 

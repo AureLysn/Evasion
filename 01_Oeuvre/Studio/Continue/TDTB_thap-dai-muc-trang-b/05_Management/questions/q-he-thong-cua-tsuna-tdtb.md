@@ -35,8 +35,6 @@ Văn bản chỉ cho biết cơ chế ([[he-thong-nhiem-vu-tsuna-tdtb]]), không
 
 ## Cần chốt trước
 
-Cần trước: truoc khi lap khung
-
 ## Ai quyết
 
 ❌ Bắt buộc người viết

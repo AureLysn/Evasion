@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, toi"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.yamamoto-takeshi-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.kesuke-tdtb", "character.TDTB.dao-dien-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]] — sân nướng, vườn nhỏ sau biệt thự"]
 aliases: ["Loc Da Tuyet bo thuoc", "bỏ thuốc Yamamoto", "máy bán nước", "mị lực dược thủy", "tiệc nướng", "BBQ TDTB", "Yamamoto ném chai", "tỏ tình giả"]

@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "vai ngay truoc ngay quay show (suy tu ch11 'hom qua ve nuoc' va ch13 'da may ngay')"
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.reborn-tdtb", "character.TDTB.dino-tdtb", "character.TDTB.gokudera-hayato-tdtb", "character.TDTB.angelie-tap-tdtb", "character.TDTB.yamamoto-takeshi-tdtb"]
 location: ["giáo đường ở Iceland", "biệt thự ở Ý", "phòng thay đồ đội bóng chày ở Mỹ"]
 aliases: ["ba nguoi nham mat", "ba người nhắm mắt", "Reborn Gokudera Yamamoto nhắm mắt", "Gokudera mat tri nho", "Gokudera mất trí nhớ", "Ta vì sao lại ở đây", "Reborn Iceland", "Yamamoto phòng thay đồ"]

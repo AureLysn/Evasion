@@ -21,4 +21,4 @@ last_updated: 2026-11-21
 
 # Sức mạnh Săn bắn của Jason trông thế nào?
 
-> ✅ **Đóng 04/10/2026** — Aurel đồng ý: đã chọn mục tiêu thì không trượt, tả bằng hệ quả. arc-1-the-canh-da-duyet mục 2.
+> ✅ **Đóng 04/10/2026** — Aurel đồng ý: đã chọn mục tiêu thì không trượt, tả bằng hệ quả. Nguồn: [[20261004-chin-cau-sau-plan-reviewer]].

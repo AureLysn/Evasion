@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, dem"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.yamamoto-takeshi-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]] — phòng Tsuna, lầu hai bên trái"]
 aliases: ["Yamamoto den phong Tsuna", "Yamamoto đến phòng Tsuna", "A Cương chớ đi", "pheromone Yamamoto", "Thiên Lan quỳ tràn hành lang", "đêm đầu tiên", "cá ướp muối Tsuna"]

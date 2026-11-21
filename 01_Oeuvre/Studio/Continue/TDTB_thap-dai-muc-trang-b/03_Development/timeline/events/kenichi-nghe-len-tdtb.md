@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, dem"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.suzuki-kenichi-tdtb", "character.TDTB.dao-dien-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["phòng họp của tổ đạo diễn"]
 aliases: ["Kenichi nghe len", "Kenichi nghe lén", "vừa thấy đã yêu sao", "họp tổ đạo diễn", "bản tinh hoa", "đài truyền hình mời", "cảnh cuối TDTB", "drop point TDTB"]

@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "khoang 4 nam truoc ch4 (Tsuna 15 tuoi)"
   arc: "tien-su"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["Tokyo (Đông Kinh thị)"]
 aliases: ["U Linh Omega", "U linh omega", "u linh omega", "幽灵Omega", "ghost Omega", "sự kiện pheromone Tokyo", "bon nam truoc", "4 năm trước", "Tokyo pheromone incident"]

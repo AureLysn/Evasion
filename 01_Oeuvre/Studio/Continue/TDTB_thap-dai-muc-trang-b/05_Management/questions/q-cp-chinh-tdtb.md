@@ -33,8 +33,6 @@ Trang JJWXC ghi nhân vật chính **27** (视角) và ô 互动 (người tươ
 
 ## Cần chốt trước
 
-Cần trước: truoc khi lap khung
-
 ## Ai quyết
 
 ❌ Bắt buộc người viết

@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 > ⚠️ **CHƯA CHỐT.** Ngày 25/09/2026 Aurel bỏ thiết lập 「ba Aeon cùng hào phóng một mức」 vì canon
 > HSR không có nó ([[lech-su-la-suc-manh-menh-do]]). Chỗ nó từng đứng giờ **trống**.
 
-> ⊕ **04/10/2026 — Aurel:** hỗ trợ **khác** trực tiếp tham gia; tham gia trực tiếp thì **phải có cảnh gọi nhờ**. Bóng 「người đó」 ở ch7 arc 1 là hỗ trợ → câu hỏi này **không buộc** arc 1. Câu hỏi gốc bên dưới **vẫn mở** — arc-1-chot-sau-plan-reviewer.
+> ⊕ **04/10/2026 — Aurel:** hỗ trợ **khác** trực tiếp tham gia; tham gia trực tiếp thì **phải có cảnh gọi nhờ**. Bóng 「người đó」 ở ch7 arc 1 là hỗ trợ → câu hỏi này **không buộc** arc 1. Câu hỏi gốc bên dưới **vẫn mở**. Nguồn: [[20261004-chin-cau-sau-plan-reviewer]].
 
 ## Vì sao cần hỏi
 

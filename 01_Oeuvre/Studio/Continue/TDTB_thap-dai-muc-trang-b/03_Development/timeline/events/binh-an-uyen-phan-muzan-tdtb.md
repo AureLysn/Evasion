@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "the gioi nhiem vu, dem cua ngay nhiem vu"
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.binh-an-uyen-hoang-tdtb", "character.TDTB.kien-chi-lang-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["nhà sau Ngọc Sinh Viên", "vọng lâu cửa thành, Gion"]
 aliases: ["Binh An Uyen phan boi", "chủ Ngọc Sinh Viên phản bội", "Gion so tan", "báo động cửa thành", "con diều", "dao cạo"]

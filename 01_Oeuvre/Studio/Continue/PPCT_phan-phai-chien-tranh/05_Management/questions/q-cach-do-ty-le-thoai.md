@@ -43,7 +43,6 @@ Bước đo văn phong · trước khi viết `style/targets.md`
 | Chương cũ | Ghi chú cũ tự báo | Đo được (ký tự trong 「」) |
 |---|---|---|
 | ch25 | ~55% | 38,9% |
-| ch37 | — | 29,4% |
 | I.1 | ~58% | 29,7% |
 | II.4 | ~48% | 25,5% |
 | II.5 | ~52% | 28,5% |

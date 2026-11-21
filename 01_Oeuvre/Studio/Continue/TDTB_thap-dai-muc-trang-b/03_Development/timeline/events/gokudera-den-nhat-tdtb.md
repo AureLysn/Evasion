@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1 (cung luc voi buoi day bong ch13; 'xe chieu hom nay co hop bao')"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.gokudera-hayato-tdtb", "character.TDTB.angelie-tap-tdtb"]
 location: ["sân bay Narita", "cửa hàng quà tặng ở Narita"]
 aliases: ["Gokudera den Nhat", "Gokudera đến Nhật", "Narita", "san bay Narita", "quà cho mười đời mắt", "Mười đời mắt a a a", "bỏ họp báo"]

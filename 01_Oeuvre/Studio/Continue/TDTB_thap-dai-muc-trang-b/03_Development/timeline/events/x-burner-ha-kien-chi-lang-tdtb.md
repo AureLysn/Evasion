@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "the gioi nhiem vu, dem → rang dong"
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.kien-chi-lang-tdtb", "character.TDTB.illumi-zoldyck-tdtb"]
 location: ["núi sau Gion, gần đền hoang"]
 aliases: ["X-burner", "X—burner", "Tsuna dung lua", "Tsuna dùng lửa", "kien chi lang chet", "kiện chi lang chết", "Illumi ket lieu", "nhiệm vụ hoàn thành Quỷ diệt 2.0"]

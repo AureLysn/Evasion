@@ -57,7 +57,7 @@ last_updated: 2026-11-21
 
 Aurel: *"reset tất cả về trạng thái trước khi lập dàn ý"* — áp cho mọi project fanfic. Với PPCT, Aurel chọn **reset thật** (21/11/2026):
 
-- 27 chương `final` ch16–ch42 (arc 1–6), cùng bản nháp arc 7 và phiên ngoại, **vẫn nằm trong `04_Manuscript/`** nhưng **không còn là canon**.
+- 27 chương ch16–ch42 (trước là `final`, nay `draft`) (arc 1–6), cùng bản nháp arc 7 và phiên ngoại, **vẫn nằm trong `04_Manuscript/`** nhưng **không còn là canon**.
 - Đã xóa: mọi arc và đề xuất arc, nhánh `deepseek-20261115`, snapshot, event sinh từ chương viết tiếp, decision và câu hỏi phục vụ dàn ý (kể cả 10 decision kết cục), crosscheck gắn với chương.
 - Mốc state để lập kế hoạch: **cuối ch15** của nguyên tác.
 - Nhật ký: commit `efd4731` trên nhánh `chore/reset-fanfic-sau-trich-xuat` của repo Evasion.
