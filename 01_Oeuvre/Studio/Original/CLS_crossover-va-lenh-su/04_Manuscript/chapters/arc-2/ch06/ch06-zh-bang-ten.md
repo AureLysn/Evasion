@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch06 arc 2 CLS", "bảng tên tiếng Trung ch06 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch06 arc 2. Ten MOI lay tu bang de xuat trong ch06-plan-a2 (TextMap cn), phien viet doc lai TextMap cn tren may 27/10 (chi doc, grep chuoi cu the) de kiem cac chuoi 「无缘黎明的卡厄斯兰那」, 「仪式剑」, 「33550336比0」, 「拿去吧…我背负的一切」, 「泰坦」, 「天才俱乐部」 va cau cua Cyrene moi. CHUA doi chieu Name HSR - Tong.csv cua Aurel (A4). Ten da co o ch01-ch05 arc 2 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan."
@@ -82,7 +82,7 @@ Tên dùng lại từ ch01–ch05 arc 2: 白厄 · 星 · 三月七 · 丹恒 ·
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]], **mỗi người một nét hoặc hai**:
+Tả theo Amphoreus-npc-ngoai-hinh, **mỗi người một nét hoặc hai**:
 - **Phainon** *(trên phim)*: 「一缕白发翘着」 · 「披风的下摆」 · 「披风上的金线」 *(áo choàng trắng lót vàng)*. Trong phòng: 「披风下摆」 trên đầu gối · 「那只露着指节的手套」.
 - **Stelle**:球棒 *(ch01–ch05)*. **Mem**: 「粉色的小东西」 / 「粉色」, bay, ở vai/cổ áo.
 - **Aglaea** *(vòng #1)*: 「金色的月桂环，金线在指间绕了半圈」. **Tribbie**: 「红色的短发，尖耳朵，肩头一对小小的金翅」.

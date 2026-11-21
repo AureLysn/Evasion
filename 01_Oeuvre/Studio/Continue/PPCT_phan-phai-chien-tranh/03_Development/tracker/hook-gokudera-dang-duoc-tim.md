@@ -45,4 +45,4 @@ Dazai tìm một người **hắn chưa từng gặp**, gọi người đó là 
 
 ## Phương án payoff đang cân nhắc
 
-Cách đọc của Aurel: q-dazai-tim-gokudera-de-lam-gi.
+Chưa.

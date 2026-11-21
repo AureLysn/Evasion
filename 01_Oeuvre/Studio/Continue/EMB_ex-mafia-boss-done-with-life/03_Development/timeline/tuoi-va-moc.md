@@ -99,7 +99,7 @@ Và fic gốc nói thẳng, P1 Ch3:
 
 > **Aurel, 09/09/2026, nguyên văn:** *"7 tuổi lúc nào thì phải xem phát triển nội dung chứ không quyết định trước"*.
 
-Bối cảnh: khi đối chứng `DANY` bản cũ với v3 ([[dany-v2-vs-v3]]), có một chương *"Local Sky Turns Seven"* không tìm được khe trong Child Arc v3 — v3 mở arc khi Tsuna **đã** 7 tuổi. AI đề xuất chốt mốc sinh nhật trước để xếp lại chương đó. **Aurel bác.**
+Bối cảnh: khi đối chứng `DANY` bản cũ với v3 (báo cáo đã xóa khi reset), có một chương *"Local Sky Turns Seven"* không tìm được khe trong Child Arc v3 — v3 mở arc khi Tsuna **đã** 7 tuổi. AI đề xuất chốt mốc sinh nhật trước để xếp lại chương đó. **Aurel bác.**
 
 Ranh giới, vì nó không mâu thuẫn với mục 1–3 ở trên:
 

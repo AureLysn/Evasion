@@ -1483,10 +1483,6 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/world-rules/fact-loi-tac-gia-hnqt.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/03_Development/timeline/master.md"
   ],
-  "lich quay show tdtb": [
-   "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/decisions/qd-moi-tap-hai-ngay-tdtb.md",
-   "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/questions/q-nhip-tap-show-tdtb.md"
-  ],
   "loc da tien sinh": [
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/loc-da-tuyet-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/relationships/loc-da-tuyet--yamamoto-tdtb.md"
@@ -1964,10 +1960,6 @@
   "quirk cua all might": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/All-Might.md",
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Power_System/One-For-All.md"
-  ],
-  "quy mo cls": [
-   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/quy-mo-arc-khep-kin.md",
-   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-quy-mo-cls.md"
   ],
   "quê tsuna": [
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/locations/namimori-tdtb.md",
@@ -3150,10 +3142,6 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/kikyo-hnqt.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/organizations/millefiore-hnqt.md"
   ],
-  "知更鸟": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Robin.md",
-   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh.md"
-  ],
   "禅院家": [
    "05_Evasion/01_Oeuvre/Database/Fandom/JJK/organizations/Zenin-clan.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/organizations/ngu-tam-gia-hnqt.md"
@@ -3274,7 +3262,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1670,
+ "count": 1662,
  "missing_aliases": [],
  "notes": [
   {
@@ -9591,7 +9579,7 @@
     "moc nhân vật hsr"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/_MOC.md",
    "project": "",
    "scope": "universe",
@@ -9603,7 +9591,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 477
+   "words": 443
   },
   {
    "aliases": [
@@ -10422,7 +10410,7 @@
     "知更鸟：调查不协和音"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Robin.md",
    "project": "",
    "scope": "universe",
@@ -10434,7 +10422,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 1140
+   "words": 1123
   },
   {
    "aliases": [
@@ -29122,7 +29110,7 @@
     "p/personal"
    ],
    "type": "style",
-   "words": 2010
+   "words": 2071
   },
   {
    "aliases": [
@@ -31880,7 +31868,7 @@
     "p/personal"
    ],
    "type": "timeline",
-   "words": 1294
+   "words": 1299
   },
   {
    "aliases": [
@@ -33121,45 +33109,6 @@
   },
   {
    "aliases": [
-    "soat nen du kien 01/10",
-    "check-conflicts lam lai lan ba",
-    "audit EMB sau khi luu tru tam chuong",
-    "du kien sot tu van xuoi da bo",
-    "Kyoya hay Kyouya",
-    "diem danh nhan vat khung nam arc"
-   ],
-   "always_load": false,
-   "authority": "ai",
-   "canon_layer": "user_canon",
-   "confidence": 0.8,
-   "id": "info.EMB.20261001-soat-nen-du-kien",
-   "keys": [
-    "20261001 soat nen du kien",
-    "audit emb sau khi luu tru tam chuong",
-    "check conflicts lam lai lan ba",
-    "diem danh nhan vat khung nam arc",
-    "du kien sot tu van xuoi da bo",
-    "info emb 20261001 soat nen du kien",
-    "kyoya hay kyouya",
-    "soat nen du kien 01 10"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-10-01",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/20261001-soat-nen-du-kien.md",
-   "project": "EMB",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/note",
-    "p/personal"
-   ],
-   "type": "info",
-   "words": 1634
-  },
-  {
-   "aliases": [
     "doi chung",
     "so sanh moi cu",
     "ket qua test",
@@ -33178,7 +33127,7 @@
     "so sanh moi cu"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/_MOC.md",
    "project": "EMB",
    "scope": "project",
@@ -33190,53 +33139,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 630
-  },
-  {
-   "aliases": [
-    "dany v2 vs v3",
-    "doi chung dan y",
-    "dot 7 doi chung",
-    "dan y Child Arc ban cu",
-    "vat lieu roi mat",
-    "chuong bi mat khi len v3",
-    "Illusionist chapter",
-    "Sky Turns Seven",
-    "Ring Says Something Useful",
-    "child arc ban cu"
-   ],
-   "always_load": false,
-   "authority": "ai",
-   "canon_layer": "user_canon",
-   "confidence": 0.9,
-   "id": "info.EMB.dany-v2-vs-v3",
-   "keys": [
-    "child arc ban cu",
-    "chuong bi mat khi len v3",
-    "dan y child arc ban cu",
-    "dany v2 vs v3",
-    "doi chung dan y",
-    "dot 7 doi chung",
-    "illusionist chapter",
-    "info emb dany v2 vs v3",
-    "ring says something useful",
-    "sky turns seven",
-    "vat lieu roi mat"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/dany-v2-vs-v3.md",
-   "project": "EMB",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/note",
-    "p/personal"
-   ],
-   "type": "info",
-   "words": 1888
+   "words": 552
   },
   {
    "aliases": [
@@ -33466,7 +33369,7 @@
     "ten rieng viet the nao"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-chot-chinh-ta-ten.md",
    "project": "EMB",
    "scope": "branch",
@@ -33478,7 +33381,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 234
+   "words": 244
   },
   {
    "aliases": [
@@ -42014,7 +41917,7 @@
     "tuyen con mo ppct"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-09",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point.md",
    "project": "PPCT",
    "scope": "project",
@@ -42026,7 +41929,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 2492
+   "words": 2471
   },
   {
    "aliases": [
@@ -42651,7 +42554,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 444
+   "words": 442
   },
   {
    "aliases": [
@@ -42764,7 +42667,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 117
+   "words": 112
   },
   {
    "aliases": [
@@ -43993,7 +43896,7 @@
     "p/personal"
    ],
    "type": "relationship",
-   "words": 209
+   "words": 207
   },
   {
    "aliases": [
@@ -46300,7 +46203,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 105
+   "words": 101
   },
   {
    "aliases": [
@@ -46450,7 +46353,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 123
+   "words": 109
   },
   {
    "aliases": [
@@ -46664,7 +46567,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 142
+   "words": 124
   },
   {
    "aliases": [
@@ -50094,7 +49997,7 @@
     "nhan do la nhan simon"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/dinh-danh-vat-pham-tren-nguoi-tsuna.md",
    "project": "PPCT",
    "scope": "project",
@@ -50106,7 +50009,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 290
+   "words": 286
   },
   {
    "aliases": [
@@ -50974,7 +50877,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 414
+   "words": 419
   },
   {
    "aliases": [
@@ -51414,7 +51317,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 433
+   "words": 425
   },
   {
    "aliases": [
@@ -51686,7 +51589,7 @@
     "p/personal"
    ],
    "type": "project",
-   "words": 999
+   "words": 997
   },
   {
    "aliases": [
@@ -55805,7 +55708,7 @@
     "p/personal"
    ],
    "type": "rule",
-   "words": 587
+   "words": 556
   },
   {
    "aliases": [
@@ -56856,7 +56759,7 @@
     "p/personal"
    ],
    "type": "timeline",
-   "words": 1017
+   "words": 1016
   },
   {
    "aliases": [
@@ -58621,7 +58524,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 697
+   "words": 653
   },
   {
    "aliases": [
@@ -59171,41 +59074,6 @@
   },
   {
    "aliases": [
-    "moi tap hai ngay TDTB",
-    "nhip tap show da chot",
-    "lich quay show TDTB",
-    "khoang trong giua hai tap"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "user_canon",
-   "confidence": 1.0,
-   "id": "decision.TDTB.qd-moi-tap-hai-ngay-tdtb",
-   "keys": [
-    "decision tdtb qd moi tap hai ngay tdtb",
-    "khoang trong giua hai tap",
-    "lich quay show tdtb",
-    "moi tap hai ngay tdtb",
-    "nhip tap show da chot",
-    "qd moi tap hai ngay tdtb"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/decisions/qd-moi-tap-hai-ngay-tdtb.md",
-   "project": "TDTB",
-   "scope": "project",
-   "status": "locked",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/note",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 165
-  },
-  {
-   "aliases": [
     "nguoi mang ky uc nhu trong sinh",
     "ca dam trong sinh TDTB",
     "trong sinh tap the TDTB",
@@ -59319,7 +59187,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 310
+   "words": 309
   },
   {
    "aliases": [
@@ -59615,51 +59483,6 @@
   },
   {
    "aliases": [
-    "Tsuna tren show thu dong",
-    "Tsuna OOC ch16 ch17",
-    "Tsuna khong co tinh lam nhat",
-    "Tsuna khong quan tam nguoi la",
-    "Tsuna dat bang quang nga",
-    "Tsuna phe sai",
-    "Tsuna bao ve nguoi cua minh",
-    "Tsuna chi de y he thong va dong doi cu",
-    "xuong xe thu dong"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "user_canon",
-   "confidence": 1.0,
-   "id": "decision.TDTB.qd-tsuna-tren-show-thu-dong-tdtb",
-   "keys": [
-    "decision tdtb qd tsuna tren show thu dong tdtb",
-    "qd tsuna tren show thu dong tdtb",
-    "tsuna bao ve nguoi cua minh",
-    "tsuna chi de y he thong va dong doi cu",
-    "tsuna dat bang quang nga",
-    "tsuna khong co tinh lam nhat",
-    "tsuna khong quan tam nguoi la",
-    "tsuna ooc ch16 ch17",
-    "tsuna phe sai",
-    "tsuna tren show thu dong",
-    "xuong xe thu dong"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/decisions/qd-tsuna-tren-show-thu-dong-tdtb.md",
-   "project": "TDTB",
-   "scope": "project",
-   "status": "locked",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/note",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 631
-  },
-  {
-   "aliases": [
     "Tsuna xung dang duoc yeu",
     "vi sao ai cung yeu Tsuna",
     "mi luc Tsuna co ly do",
@@ -59765,7 +59588,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 576
+   "words": 579
   },
   {
    "aliases": [
@@ -60371,7 +60194,7 @@
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/questions/q-nhip-tap-show-tdtb.md",
    "project": "TDTB",
    "scope": "project",
-   "status": "resolved",
+   "status": "unresolved",
    "strength": "",
    "tags": [
     "d/fanfic",
@@ -60379,7 +60202,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 333
+   "words": 335
   },
   {
    "aliases": [
@@ -62020,7 +61843,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 134
+   "words": 50
   },
   {
    "aliases": [
@@ -64388,93 +64211,6 @@
   },
   {
    "aliases": [
-    "ngoai hinh nhan vat Amphoreus",
-    "Phainon ngoai hinh",
-    "Black Swan ngoai hinh",
-    "Screwllum ngoai hinh",
-    "Tribbie ngoai hinh",
-    "Mydei ngoai hinh",
-    "Castorice ngoai hinh",
-    "Aglaea ngoai hinh",
-    "Pom-Pom ngoai hinh",
-    "Hyacine ngoai hinh",
-    "Krateros ngoai hinh",
-    "Cipher ngoai hinh",
-    "Lygus ngoai hinh",
-    "Cyrene ngoai hinh",
-    "Hysilens ngoai hinh",
-    "Cerydra ngoai hinh",
-    "海瑟音",
-    "刻律德菈",
-    "Caenis ngoai hinh",
-    "赛飞儿",
-    "凯妮斯",
-    "风堇",
-    "克拉特鲁斯",
-    "黑天鹅",
-    "螺丝咕姆",
-    "缇宝",
-    "万敌",
-    "遐蝶",
-    "阿格莱雅",
-    "帕姆"
-   ],
-   "always_load": false,
-   "authority": "fandom",
-   "canon_layer": "official_canon",
-   "confidence": 0.6,
-   "id": "character.amphoreus-npc-ngoai-hinh",
-   "keys": [
-    "aglaea ngoai hinh",
-    "amphoreus npc ngoai hinh",
-    "black swan ngoai hinh",
-    "caenis ngoai hinh",
-    "castorice ngoai hinh",
-    "cerydra ngoai hinh",
-    "character amphoreus npc ngoai hinh",
-    "cipher ngoai hinh",
-    "cyrene ngoai hinh",
-    "hyacine ngoai hinh",
-    "hysilens ngoai hinh",
-    "krateros ngoai hinh",
-    "lygus ngoai hinh",
-    "mydei ngoai hinh",
-    "ngoai hinh nhan vat amphoreus",
-    "phainon ngoai hinh",
-    "pom pom ngoai hinh",
-    "screwllum ngoai hinh",
-    "tribbie ngoai hinh",
-    "万敌",
-    "克拉特鲁斯",
-    "凯妮斯",
-    "刻律德菈",
-    "帕姆",
-    "海瑟音",
-    "缇宝",
-    "螺丝咕姆",
-    "赛飞儿",
-    "遐蝶",
-    "阿格莱雅",
-    "风堇",
-    "黑天鹅"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Amphoreus-npc-ngoai-hinh.md",
-   "project": "CLS",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/reference",
-    "p/personal"
-   ],
-   "type": "character",
-   "words": 1082
-  },
-  {
-   "aliases": [
     "Dazai",
     "Dazai Osamu",
     "Osamu Dazai",
@@ -64600,117 +64336,6 @@
    ],
    "type": "character",
    "words": 1015
-  },
-  {
-   "aliases": [
-    "ngoai hinh nhan vat Penacony",
-    "Robin ngoai hinh",
-    "Firefly ngoai hinh",
-    "Dahlia ngoai hinh",
-    "The Dahlia ngoai hinh",
-    "Constance ngoai hinh",
-    "知更鸟",
-    "知更鸟 ngoai hinh",
-    "流萤 ngoai hinh",
-    "大丽花 ngoai hinh",
-    "康斯坦丝 ngoai hinh",
-    "Gallagher ngoai hinh",
-    "加拉赫 ngoai hinh",
-    "Sampo ngoai hinh",
-    "桑博 ngoai hinh",
-    "bac si Edward ngoai hinh",
-    "Dr. Edward ngoai hinh",
-    "爱德华医生",
-    "Acheron ngoai hinh",
-    "黄泉 ngoai hinh",
-    "Sparkle ngoai hinh",
-    "花火 ngoai hinh",
-    "Jade ngoai hinh",
-    "翡翠 ngoai hinh",
-    "Dr. Ratio ngoai hinh",
-    "真理医生 ngoai hinh",
-    "Hendrick ngoai hinh",
-    "亨德列克",
-    "Micah ngoai hinh",
-    "米凯 ngoai hinh",
-    "Dreammaster ngoai hinh",
-    "梦主 ngoai hinh",
-    "Swarm Nightmare ngoai hinh",
-    "深魇蝗灾 ngoai hinh",
-    "Great Septimus ngoai hinh",
-    "神主日 ngoai hinh",
-    "Embryo of Philosophy ngoai hinh",
-    "哲学的胎儿",
-    "Oti ngoai hinh",
-    "老奥帝 ngoai hinh",
-    "Topaz ngoai hinh",
-    "托帕 ngoai hinh"
-   ],
-   "always_load": false,
-   "authority": "fandom",
-   "canon_layer": "official_canon",
-   "confidence": 0.6,
-   "id": "character.penacony-npc-ngoai-hinh",
-   "keys": [
-    "acheron ngoai hinh",
-    "bac si edward ngoai hinh",
-    "character penacony npc ngoai hinh",
-    "constance ngoai hinh",
-    "dahlia ngoai hinh",
-    "dr edward ngoai hinh",
-    "dr ratio ngoai hinh",
-    "dreammaster ngoai hinh",
-    "embryo of philosophy ngoai hinh",
-    "firefly ngoai hinh",
-    "gallagher ngoai hinh",
-    "great septimus ngoai hinh",
-    "hendrick ngoai hinh",
-    "jade ngoai hinh",
-    "micah ngoai hinh",
-    "ngoai hinh nhan vat penacony",
-    "oti ngoai hinh",
-    "penacony npc ngoai hinh",
-    "robin ngoai hinh",
-    "sampo ngoai hinh",
-    "sparkle ngoai hinh",
-    "swarm nightmare ngoai hinh",
-    "the dahlia ngoai hinh",
-    "topaz ngoai hinh",
-    "亨德列克",
-    "加拉赫 ngoai hinh",
-    "哲学的胎儿",
-    "大丽花 ngoai hinh",
-    "康斯坦丝 ngoai hinh",
-    "托帕 ngoai hinh",
-    "桑博 ngoai hinh",
-    "梦主 ngoai hinh",
-    "流萤 ngoai hinh",
-    "深魇蝗灾 ngoai hinh",
-    "爱德华医生",
-    "真理医生 ngoai hinh",
-    "知更鸟",
-    "知更鸟 ngoai hinh",
-    "神主日 ngoai hinh",
-    "米凯 ngoai hinh",
-    "翡翠 ngoai hinh",
-    "老奥帝 ngoai hinh",
-    "花火 ngoai hinh",
-    "黄泉 ngoai hinh"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-13",
-   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh.md",
-   "project": "CLS",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/reference",
-    "p/personal"
-   ],
-   "type": "character",
-   "words": 1807
   },
   {
    "aliases": [
@@ -65152,7 +64777,7 @@
     "tien de cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise.md",
    "project": "CLS",
    "scope": "project",
@@ -65164,7 +64789,7 @@
     "p/personal"
    ],
    "type": "note",
-   "words": 1556
+   "words": 1520
   },
   {
    "aliases": [
@@ -67439,7 +67064,7 @@
     "p/personal"
    ],
    "type": "rule",
-   "words": 1395
+   "words": 1376
   },
   {
    "aliases": [
@@ -68107,7 +67732,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 409
+   "words": 375
   },
   {
    "aliases": [
@@ -68396,7 +68021,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 209
+   "words": 204
   },
   {
    "aliases": [
@@ -68888,89 +68513,6 @@
   },
   {
    "aliases": [
-    "POV phan Aeon",
-    "POV phần Aeon",
-    "Aeon khong co khoi POV",
-    "Aeon không có khối POV",
-    "ke qua nguoi HSR dang xem",
-    "kể qua người HSR đang xem"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "project_locked",
-   "confidence": 1.0,
-   "id": "decision.CLS.pov-phan-aeon-qua-nguoi-xem",
-   "keys": [
-    "aeon khong co khoi pov",
-    "aeon không có khối pov",
-    "decision cls pov phan aeon qua nguoi xem",
-    "ke qua nguoi hsr dang xem",
-    "kể qua người hsr đang xem",
-    "pov phan aeon",
-    "pov phan aeon qua nguoi xem",
-    "pov phần aeon"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/pov-phan-aeon-qua-nguoi-xem.md",
-   "project": "CLS",
-   "scope": "project",
-   "status": "active",
-   "strength": "hard",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 163
-  },
-  {
-   "aliases": [
-    "quy mo CLS",
-    "quy mô CLS",
-    "arc khep kin 8-12 chuong",
-    "arc khép kín 8–12 chương",
-    "luat sinh chuong",
-    "luật sinh chương",
-    "khong chuong dem",
-    "không chương đệm"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "project_locked",
-   "confidence": 1.0,
-   "id": "decision.CLS.quy-mo-arc-khep-kin",
-   "keys": [
-    "arc khep kin 8 12 chuong",
-    "arc khep kin 8–12 chuong",
-    "arc khép kín 8–12 chương",
-    "decision cls quy mo arc khep kin",
-    "khong chuong dem",
-    "không chương đệm",
-    "luat sinh chuong",
-    "luật sinh chương",
-    "quy mo arc khep kin",
-    "quy mo cls",
-    "quy mô cls"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/quy-mo-arc-khep-kin.md",
-   "project": "CLS",
-   "scope": "project",
-   "status": "active",
-   "strength": "hard",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "decision",
-   "words": 151
-  },
-  {
-   "aliases": [
     "the gioi thu ba",
     "chon Batman",
     "Jason Todd Red Hood",
@@ -69108,7 +68650,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 422
+   "words": 442
   },
   {
    "aliases": [
@@ -69187,7 +68729,7 @@
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-aeon-va-phe-co-khoi-pov.md",
    "project": "CLS",
    "scope": "project",
-   "status": "resolved",
+   "status": "unresolved",
    "strength": "",
    "tags": [
     "d/fanfic",
@@ -69195,7 +68737,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 263
+   "words": 278
   },
   {
    "aliases": [
@@ -69553,7 +69095,7 @@
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-quy-mo-cls.md",
    "project": "CLS",
    "scope": "project",
-   "status": "resolved",
+   "status": "unresolved",
    "strength": "",
    "tags": [
     "d/fanfic",
@@ -69561,7 +69103,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 514
+   "words": 529
   },
   {
    "aliases": [

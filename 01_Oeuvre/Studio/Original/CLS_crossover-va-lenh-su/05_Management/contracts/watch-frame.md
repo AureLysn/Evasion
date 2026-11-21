@@ -10,7 +10,7 @@ status: active
 strength: hard
 stance: plot_driven
 aliases: ["hop dong khung xem anh the", "watch frame contract CLS", "luat phong chieu", "phong chieu CLS", "xem anh the CLS", "dung duoc khong tua lai", "stance plot driven"]
-related: ["[[CLS]]", "[[khung-chieu-xem-gop]]", "[[hai-vong-chieu]]", "[[crossover]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[pov-phan-aeon-qua-nguoi-xem]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[chon-mau-ket-cau-bo-a-va-xem-anh-the]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[20261004-san-la-san-chot-watch-frame]]"]
+related: ["[[CLS]]", "[[khung-chieu-xem-gop]]", "[[hai-vong-chieu]]", "[[crossover]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[chon-mau-ket-cau-bo-a-va-xem-anh-the]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[20261004-san-la-san-chot-watch-frame]]"]
 source:
   type: user_input
   ref: "Aurel 13/09/2026: stance = plot_driven; time_flow = 'dung duoc nhung khong tua lai'. 24/09: co che hop den. 25/09 va 03/10: nguoi xem. 04/10: 'chot watch-frame roi viet ch1' — sources/user-input/20261004-san-la-san-chot-watch-frame.md"
@@ -34,7 +34,6 @@ last_updated: 2026-11-21
 |---|---|
 | **Người xem** | **Người của vũ trụ HSR phía xem** — Aeon kéo vào. Mỗi arc một nhóm |
 | **Không ngồi xem** | **Ba nhân vật trục** *(Jason, Dazai, Tsuna)* — họ là người **trên phim** |
-| **Không có POV** | Aeon và các phe — phần của họ kể qua người xem ([[pov-phan-aeon-qua-nguoi-xem]]) |
 
 Người xem **không phải ai cũng lên tiếng** *(Aurel 03/10)*.
 

@@ -15,7 +15,7 @@ authority: user
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tiền đề — CLS
@@ -133,7 +133,7 @@ ai biết là đã mất.)*
 | [[q-them-lenh-su-ve-sau]] — thêm lệnh sứ về sau | arc đầu có lệnh sứ mới |
 | Các buổi chiếu về sau: cướp lại · thế giới tự cứu · Aeon diễu võ dương oai | Aurel chưa chọn — [[khung-aeon-hai-nhom]] |
 
-**Đã chốt**: bao nhiêu chương → arc khép kín 8–12 chương, [[quy-mo-arc-khep-kin]] *(03/10)* · thời điểm ba nhân vật → cả ba ở đáy, [[moc-thoi-gian-ca-ba-o-day]] *(14/09)* · kẻ chiếm chỗ → ba kẻ ngoại lai cùng một nguồn, [[ke-ngoai-lai-thay-cho]] *(24/09)* · cơ chế lệnh sứ → không giải thích, [[lech-su-la-suc-manh-menh-do]] *(24/09)* · POV phía Aeon → kể qua người HSR đang xem, [[pov-phan-aeon-qua-nguoi-xem]] *(03/10)* · mệnh đồ Dazai, Jason → Ký ức, Săn bắn *(03/10)* · mở arc → Jason → Dazai → Tsuna, arc-mo-dau-jason-dazai-tsuna *(03/10)*.
+**Đã chốt**: thời điểm ba nhân vật → cả ba ở đáy, [[moc-thoi-gian-ca-ba-o-day]] *(14/09)* · kẻ chiếm chỗ → ba kẻ ngoại lai cùng một nguồn, [[ke-ngoai-lai-thay-cho]] *(24/09)* · cơ chế lệnh sứ → không giải thích, [[lech-su-la-suc-manh-menh-do]] *(24/09)* · mệnh đồ Dazai, Jason → Ký ức, Săn bắn *(03/10)*.
 
 ## ⚠️ Ba rủi ro đã biết trước, kèm cách chặn
 

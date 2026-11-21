@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 4 arc 3 CLS", "chương 4 arc 3 CLS", "ch04 arc 3 CLS zh", "第四章 替身", "ban nhap tieng Trung ch04 arc 3 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch03/ch03-chapter|ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch03/ch03-chapter|ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam) theo ch04-plan-a3 va nam the canh a3-ch04-01..05 (da sua sau review-plan 02/11). Noi tu cuoi ch03 arc 3 (final): 'tuong con sang, canh cua da dong'. Canon: wiki Whodunit recap 01-22, Double Indemnity recap 03-23 (thoai ghi nguoi noi), TextMap cn 30072-30075, 112053-112061, 113145-113147, 179666-179673, 179846-179854, 194838-194875 - chi dien y, khong chep thoai (B1). Ngoai hinh Jade, Dr. Ratio, Hendrick theo Penacony-npc-ngoai-hinh (anh In-Game wiki, arc-3-chot-01-11 #10); Sam ta theo thoai (khong co anh). PHIEN DAT / DE XUAT (khong canon): cau trong phong cua Stelle, March, Dan Heng, Himeko, Welt, Sunday, Sói Bac; canh Tsuna doi Jade (4.05) - toan bo, theo chot Aurel 22/10; loi nhan, hinh chieu, bien nhan, dau Gia toc, tra cho hinh chieu, dong ho moc cuoi. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban nhap, tieng Trung."

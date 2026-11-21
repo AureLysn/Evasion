@@ -28,7 +28,7 @@ last_updated: 2026-11-21
 
 - **D1** = ngày của ch1 (Tsuna đi chơi thử cơ giáp). **D2** = hôm sau.
 - **S1** = ngày quay đầu tiên của show (ch9–15). Khoảng cách D2 → S1 **không nêu**.
-- **S2** = ngày quay thứ hai, cũng là ngày cuối của tập 1 ([[qd-moi-tap-hai-ngay-tdtb]]).
+- **S2** = ngày quay thứ hai, ngày quay thứ hai của tập 1.
 - **TW** = thời gian trong thế giới nhiệm vụ, **trôi riêng**, không cộng vào lịch đời thực.
 - Tuổi Tsuna hiện tại: **19** (ch3).
 

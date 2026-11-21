@@ -32,6 +32,8 @@ last_updated: 2026-11-21
 | [[q-ke-ngoai-lai-jason-va-crime-alley]] — kẻ ngoại lai ở Gotham và trẻ Crime Alley | khi lập khung | Aurel |
 | [[q-quen-truoc-hay-sau-khi-bi-thay-cho]] — ba người quen nhau trước hay sau khi bị thay chỗ | khi lập khung | Aurel |
 | [[q-tsuna-truoc-mot-minh]] — mở bằng một mình Tsuna *(chốt 03/10 đã xóa khi reset 21/11/2026)* | khi lập khung | Aurel |
+| [[q-quy-mo-cls]] — truyện dài bao nhiêu chương *(chốt 03/10 đã xóa khi reset)* | khi lập khung | Aurel |
+| [[q-aeon-va-phe-co-khoi-pov]] — Aeon và phe có khối POV không *(chốt 03/10 đã xóa khi reset)* | khi lập khung | Aurel |
 
 ## Đã giải quyết
 
@@ -42,8 +44,6 @@ last_updated: 2026-11-21
 | [[q-timeline-ba-nhan-vat]] — mỗi nhân vật đứng ở mốc nào trong canon | [[moc-thoi-gian-ca-ba-o-day]] |
 | [[q-aeon-len-ke-hoach-co-lenh-su]] — Aeon thấy lệnh sứ hợp ý ở thế giới khác, lên kế hoạch có lệnh sứ của mình *(biên bản năm lượt trả lời)* | [[khung-aeon-hai-nhom]] |
 | [[q-xet-lai-menh-do]] — mệnh đồ của Dazai và Jason *(03/10: Dazai Ký ức, Jason Săn bắn)* | [[lech-su-la-suc-manh-menh-do]] |
-| [[q-quy-mo-cls]] — truyện dài bao nhiêu chương | [[quy-mo-arc-khep-kin]] |
-| [[q-aeon-va-phe-co-khoi-pov]] — Aeon và phe có khối POV không | [[pov-phan-aeon-qua-nguoi-xem]] |
 | [[q-ba-nguoi-quen-nhau-o-the-gioi-gop]] — ba người có quen nhau không *(04/10: ở phía được chiếu **đã quen**; ở ba thế giới chưa dung hợp thì không)* | [[ba-nguoi-da-quen-o-phia-duoc-chieu]] |
 | [[q-nhan-vat-nguoi-choi-la-ai]] — nhân vật người chơi *(04/10: Stelle)* | trong note *(note chốt cũ đã xóa khi reset)* |
 | [[q-suc-manh-san-ban-cua-jason]] — sức mạnh Săn bắn *(04/10: đã chọn thì không trượt)* | trong note *(note chốt cũ đã xóa khi reset)* |

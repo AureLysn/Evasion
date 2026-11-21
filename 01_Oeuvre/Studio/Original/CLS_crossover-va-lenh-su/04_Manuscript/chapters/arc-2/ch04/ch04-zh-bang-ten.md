@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch04 arc 2 CLS", "bảng tên tiếng Trung ch04 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch04 arc 2. Ten MOI lay tu bang de xuat trong ch04-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01-ch03 arc 2 lay lai tu cac bang ten truoc (dan bang alias 'ch01 arc 2 CLS zh', 'ch02 arc 2 CLS zh', 'bang ten tieng Trung ch03 arc 2 CLS'). Ten khong tra ra thi ghi ro, khong doan. Alias 'ch04 arc 2 CLS zh' thuoc ve ch04-chapter."
@@ -72,7 +72,7 @@ Tên dùng lại từ ch01–ch03 arc 2: 白厄 · 星 · 三月七 · 丹恒 ·
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]]:
+Tả theo Amphoreus-npc-ngoai-hinh:
 - **Cipher** *(đủ một lần, D4, 4.01)*: mũ trùm đen, hai tai mèo lót xanh, huy hiệu trăng lưỡi liềm vàng giữa mũ; tóc bạc xám; mắt xanh lục ngả lam; áo choàng lót xanh lam đậm; một cái đuôi dài; găng đen hở ngón. **Không** cái chuông bên hông, **không** giáp đùi / ống chân *(Đ-13 — không cài vật)*; chương có hai lần Cipher đội lốt: kẻ áo đen giả *(4.02)* và dáng Phainon *(4.04)*, hai lần đều một nét.
 - **Caenis** *(đủ một lần, D4, 4.03)*: tóc tím bạc tết một bên vai; lá nguyệt quế vàng; áo dài trắng kiểu cổ; dải khăn xám đậm viền hoa văn vàng; vòng tay vàng. **Không** tả mắt *(file ngoại hình không ghi)*.
 - **Bartholos** *(một nét, D4, 4.05, **thiếu ảnh**)*: một hồn linh nhỏ, tay tròn, bụng to đến nuốt được cả một rương báu. Tan thành bụi cuối đoạn.

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch03 arc 2 CLS", "bảng tên tiếng Trung ch03 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch03 arc 2. Ten MOI lay tu bang de xuat trong ch03-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01, ch02 arc 2 lay lai tu cac bang ten truoc (dan bang alias 'ch01 arc 2 CLS zh', 'ch02 arc 2 CLS zh'). Ten khong tra ra thi ghi ro, khong doan. Alias 'ch03 arc 2 CLS zh' thuoc ve ch03-chapter (tien le ch02 dung chung alias cho ca hai file; o day tach de khong trung)."
@@ -71,7 +71,7 @@ Tên dùng lại từ ch01–ch02 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS z
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]]: **Hyacine** *(đủ một lần, D4: tóc hồng hai lọn đuôi xanh ngọc; mũ đỏ đô có cánh trắng; mắt xanh ngọc; nơ xanh ngọc; váy đỏ đô viền vàng; tay áo trắng phồng — chương **không** nhắc con thú trên túi treo, chuỗi hạt, giày)* · **Krateros** *(đủ một lần: tóc râu xám, áo choàng đỏ có tua, khoá đầu sư tử vàng, giáp ống chân đồng)* · **Trinnon / Trianne** *(một câu 「cùng gương mặt với Tribbie」; Trinnon thêm: nói chậm, hay buồn ngủ)* · Mydei *(hình xăm đỏ ngực, tay; áo choàng đỏ đen một vai; giáp vàng sau 登神 — **[thiếu]** ảnh dạng thần)* · Tribbie · Aglaea · Castorice *(một nét: đứng cách năm bước)*. **Cerces / 卡吕普索**: chỉ một hồn linh bay ra từ bức tượng, **không** tả mặt *(thiếu ảnh)*. **Anaxa**: không lên khung. **黑袍剑士**: bóng đen cầm kiếm lớn, không mặt. **Người được Trianne tìm thấy ngoài thành**: không lên khung, chỉ là sau tấm rèm.
+Tả theo Amphoreus-npc-ngoai-hinh: **Hyacine** *(đủ một lần, D4: tóc hồng hai lọn đuôi xanh ngọc; mũ đỏ đô có cánh trắng; mắt xanh ngọc; nơ xanh ngọc; váy đỏ đô viền vàng; tay áo trắng phồng — chương **không** nhắc con thú trên túi treo, chuỗi hạt, giày)* · **Krateros** *(đủ một lần: tóc râu xám, áo choàng đỏ có tua, khoá đầu sư tử vàng, giáp ống chân đồng)* · **Trinnon / Trianne** *(một câu 「cùng gương mặt với Tribbie」; Trinnon thêm: nói chậm, hay buồn ngủ)* · Mydei *(hình xăm đỏ ngực, tay; áo choàng đỏ đen một vai; giáp vàng sau 登神 — **[thiếu]** ảnh dạng thần)* · Tribbie · Aglaea · Castorice *(một nét: đứng cách năm bước)*. **Cerces / 卡吕普索**: chỉ một hồn linh bay ra từ bức tượng, **không** tả mặt *(thiếu ảnh)*. **Anaxa**: không lên khung. **黑袍剑士**: bóng đen cầm kiếm lớn, không mặt. **Người được Trianne tìm thấy ngoài thành**: không lên khung, chỉ là sau tấm rèm.
 
 ## Người ở hàng tạp hoá *(thiết kế Đ1, đề xuất, chờ Aurel — dùng lại từ ch02)*
 

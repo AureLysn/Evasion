@@ -33,4 +33,4 @@ last_updated: 2026-11-21
 
 ## Quan hệ
 
-- Mục tiêu tìm kiếm của [[dazai]]. Giả thuyết của Aurel: q-dazai-tim-gokudera-de-lam-gi.
+- Mục tiêu tìm kiếm của [[dazai]].

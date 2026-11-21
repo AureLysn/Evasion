@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch02 arc 3 CLS", "bảng tên ch02 arc 3 CLS", "bang ten 第二章 星期日的朋友"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]", "[[Robin]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Robin]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch02-plan-a3 (TextMap cn 30071, 30091, 113140, 20751, 19985, 151248; wiki fandom Sleepless Night, Tales from the Golden Age) va bang ten ch01 arc 3. Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."

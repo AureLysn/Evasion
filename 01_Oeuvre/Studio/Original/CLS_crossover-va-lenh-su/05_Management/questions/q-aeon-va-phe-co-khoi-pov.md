@@ -5,7 +5,8 @@ scope: project
 project: CLS
 lane: personal
 canon_layer: planned
-status: resolved
+status: unresolved
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["Aeon co POV khong", "phe co khoi POV khong", "POV Aeon", "POV Gia toc", "canh len ke hoach viet tu mat ai", "Aeon hut dat dien"]
 related: ["[[CLS]]", "[[khung-aeon-hai-nhom]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[q-tsuna-truoc-mot-minh]]"]
@@ -21,7 +22,7 @@ last_updated: 2026-11-21
 
 # Aeon và phe có khối POV không?
 
-> ✅ **ĐÃ CHỐT 03/10/2026** — hướng **B**, kể qua người HSR đang xem: [[pov-phan-aeon-qua-nguoi-xem]].
+> 🔁 **Mở lại 21/11/2026.** Chốt 03/10/2026 (hướng **B**, kể qua người HSR đang xem) đã xóa khi reset theo quyết định của Aurel; trả lời lại khi lập khung.
 
 > ⚠️ **CHƯA CHỐT.** Câu này đã nêu ở [[q-aeon-len-ke-hoach-co-lenh-su]] nhưng chưa được trả lời.
 > Tách ra khi chốt [[khung-aeon-hai-nhom]].

@@ -88,7 +88,7 @@ chưa cần và cũng không vi phạm luật"*.
 | Các buổi chiếu về sau đi hướng nào: **cướp lại** · **thế giới tự cứu** · **Aeon diễu võ dương oai** *("các ngươi lấy mắt cá đương minh châu…")* | Aurel liệt kê ba hướng, chưa chọn |
 | Nhóm đi tìm bị thay chỗ bằng **vấn đề gì** | [[ke-ngoai-lai-thay-cho]] — đang tạm hoãn |
 | Mốc **trước canon** cụ thể của nhóm đi tìm | chưa đối chiếu canon |
-| **Aeon và phe có khối POV không** — ✅ chốt 03/10: không, kể qua người xem | [[pov-phan-aeon-qua-nguoi-xem]] |
+| **Aeon và phe có khối POV không** — chốt 03/10 đã xóa khi reset; mở lại | [[q-aeon-va-phe-co-khoi-pov]] |
 | Mệnh đồ của **Dazai** và Jason — ✅ chốt 03/10: Dazai Ký ức · Jason Săn bắn | [[lech-su-la-suc-manh-menh-do]] |
 | Mở bằng một mình Tsuna? — chốt 03/10 đã xóa khi reset 21/11/2026; mở lại | [[q-tsuna-truoc-mot-minh]] |
 | Thêm lệnh sứ về sau | [[q-them-lenh-su-ve-sau]] |

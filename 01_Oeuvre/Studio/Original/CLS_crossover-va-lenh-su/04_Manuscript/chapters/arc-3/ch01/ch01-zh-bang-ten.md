@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch01 arc 3 CLS", "bảng tên ch01 arc 3 CLS", "bang ten 第一章 余音"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 01/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch01-plan-a3 (TextMap cn 112032, 30069, 112033, 27207, 30071, 30094 doc 01/11 + BWIKI 30/10) va bang ten ch10 arc 2 (ten cu). Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."
@@ -80,4 +80,4 @@ last_updated: 2026-11-01
 - **Phainon**: câu 「我那把椅子刚腾出来，还热着」 · **Screwllum**: 「结论：走两位，来一位，座位有余。逻辑：算术。」 — theo nét đã lên trang ở arc 2 *(Phainon lễ độ có hài; Screwllum mở bằng 「结论」 / 「逻辑」)*.
 - **Himeko, 「吧台」**: nét lặp từ ch10 arc 2 *(Himeko che nửa mặt)*; Robin không hiểu vì sao cả phòng cười.
 - Stelle 「不送！」, 「那是闭目养神」, 「那是在跳舞」, Dan Heng lật sách giữa cú xóc: **gia vị D2** *(hài là mặc định)*.
-- **Ngoại hình Robin, Firefly, Dahlia**: theo [[Penacony-npc-ngoai-hinh]] *(ảnh In-Game wiki 01/11, Aurel 「Theo wiki」)*. Trang chọn nét: Robin *(tóc xanh lam nhạt, hai nhúm tóc cuộn như cánh trắng, vòng vàng ba bông chuông trắng, váy trắng, tay áo tím sẫm, khoá sol vàng)*; Firefly *(tóc bạc xám, băng đô đen, áo choàng ngắn đen, khăn cam hình cánh bướm, váy xanh ngọc chuyển vàng nhạt)*; Dahlia *(mũ trắng rộng vành, sừng đen viền vàng, tay phải giáp đen vân vàng, đuôi váy trắng chuyển xanh đen)*.
+- **Ngoại hình Robin, Firefly, Dahlia**: theo Penacony-npc-ngoai-hinh *(ảnh In-Game wiki 01/11, Aurel 「Theo wiki」)*. Trang chọn nét: Robin *(tóc xanh lam nhạt, hai nhúm tóc cuộn như cánh trắng, vòng vàng ba bông chuông trắng, váy trắng, tay áo tím sẫm, khoá sol vàng)*; Firefly *(tóc bạc xám, băng đô đen, áo choàng ngắn đen, khăn cam hình cánh bướm, váy xanh ngọc chuyển vàng nhạt)*; Dahlia *(mũ trắng rộng vành, sừng đen viền vàng, tay phải giáp đen vân vàng, đuôi váy trắng chuyển xanh đen)*.

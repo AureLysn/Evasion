@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 7 arc 3 CLS", "chương 7 arc 3 CLS", "ch07 arc 3 CLS zh", "第七章 第七日", "ban nhap tieng Trung ch07 arc 3 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch06/ch06-chapter|ch06-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch06/ch06-chapter|ch06-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam) theo ch07-plan-a3 (da duyet) va bon the canh a3-ch07-01..04 (da sua 02/11). Noi tu cuoi ch06 arc 3 (final): 'tuong, jie dao tran, them da co mot vet gap'. Canon: TextMap cn 30097, 46145, 102916, 408875, 19027-19033, 196000-196075 va wiki Every Dawn of the World (thoai ghi nguoi noi, scratchpad wk7) - chi dien y, khong chep thoai (B1). Ngoai hinh Septimus/Embryo theo Penacony-npc-ngoai-hinh (anh In-Game wiki, tai 02/11). PHIEN DAT / DE XUAT (khong canon): toan bo 7.03 (cuoc goi), cach nguoi do chan Sunday o 7.04, cac cau trong phong, mot so cau dien y cua Sparkle va Doan tau. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban nhap, tieng Trung."

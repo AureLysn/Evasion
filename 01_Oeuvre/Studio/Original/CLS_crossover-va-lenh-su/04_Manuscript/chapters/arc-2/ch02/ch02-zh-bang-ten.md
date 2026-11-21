@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["ch02 arc 2 CLS zh", "bang ten tieng Trung ch02 arc 2 CLS", "bảng tên tiếng Trung ch02 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 25/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch02 arc 2. Ten MOI lay tu bang de xuat trong ch02-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01 arc 2 va arc 1 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan. SUA 26/10/2026 (xuong-lam, theo Aurel 26/10): bo muc lien quan bun that (be nuoc, ao phu bun, chi tiet o dau/toc dinh bun); muc 黑泥 doi thanh bien danh theo loi noi u am (hard-rules C7); them thuat ngu moi cua canh gap nguoi la o hang tap hoa. Nguon thuat ngu moi: TextMap cn nhiem vu Kremnos I."
@@ -55,7 +55,7 @@ Tên dùng lại từ ch01 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, k
 | tiếng búa, ba ngả đường | **锤子** · **三条巷子** | mô tả; 「鸽子」 nối với câu đùa của Tribbie ở 2.01 |
 | nền cao nhất của Okhema | **最高处的那座平台** | giữ chữ của ch01 *(「最高处的一座平台」)*; cuối 2.04 và 2.03 March nhắc lại |
 | lính gác | **守卫** | mô tả |
-| vòng gai của Castorice | **荆棘冠** | mô tả theo [[Amphoreus-npc-ngoai-hinh]] |
+| vòng gai của Castorice | **荆棘冠** | mô tả theo Amphoreus-npc-ngoai-hinh |
 | 「cách năm bước」 | **五步** · **保持五步** | giữ cách ch01; trong 2.02 Castorice đứng **三步** — mô tả của phiên, để người đọc thấy cô gần hơn thường lệ |
 | Aglaea đối đáp qua tơ | **线颤 · 线没有动** | mô tả; bốn câu hỏi trong chương đều **diễn ý** *(B1)*, wiki-thoại không có nguyên văn |
 | Titan từng đốt thành vì có người muốn bay | **一位泰坦，曾经因为有人想飞上天，烧掉了一整座城** | diễn ý wiki-thoại *(Aquila, 艾格勒 — chương **không** gọi tên)* |
@@ -72,7 +72,7 @@ Tên dùng lại từ ch01 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, k
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]]: Tribbie *(chỉ nhắc)* · Mydei *(áo choàng đỏ đen một vai)* · Castorice *(vạt váy tím, găng tím, vương miện gai, bước chân)* · Aglaea *(tơ vàng ở đầu ngón; không tả lại vòng nguyệt quế)* · Phainon *(áo choàng trắng lót vàng, giáp vai)*. **Damianos: không tả ngoại hình** *(thiếu nguồn)*; chỉ tả bằng việc làm và cách nói. **Nikador, Gnaeus**: không tả.
+Tả theo Amphoreus-npc-ngoai-hinh: Tribbie *(chỉ nhắc)* · Mydei *(áo choàng đỏ đen một vai)* · Castorice *(vạt váy tím, găng tím, vương miện gai, bước chân)* · Aglaea *(tơ vàng ở đầu ngón; không tả lại vòng nguyệt quế)* · Phainon *(áo choàng trắng lót vàng, giáp vai)*. **Damianos: không tả ngoại hình** *(thiếu nguồn)*; chỉ tả bằng việc làm và cách nói. **Nikador, Gnaeus**: không tả.
 
 ## Người ở hàng tạp hoá *(thiết kế Đ1, đề xuất, chờ Aurel)*
 
