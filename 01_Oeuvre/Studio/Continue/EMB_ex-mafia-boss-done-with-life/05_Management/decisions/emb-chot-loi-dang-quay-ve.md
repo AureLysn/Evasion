@@ -10,7 +10,7 @@ decided: 2026-09-19
 decided_by: user
 decided_at: 2026-09-19
 aliases: ["loi dang quay ve", "loi khong con hoan toan tren cay", "Natsu giup loi", "dong bo loi voi Tsuna", "bond con chay khi xa Namimori", "cai co tac dung khong phai cai ong", "Natsu la mot phan lua cua Tsuna"]
-related: ["[[fact-loi-flame]]", "[[ong-tre]]", "[[natsu]]", "[[fact-cao-la-natsu]]", "[[nguoi-ban-cu]]", "[[le-cuoi-cao]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[bond-bam-vao-cay]]", "[[loi-o-cay-sakaki]]", "[[brat-dan-y-ch3-ch6-ban-20261001]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
+related: ["[[fact-loi-flame]]", "[[ong-tre]]", "[[natsu]]", "[[fact-cao-la-natsu]]", "[[nguoi-ban-cu]]", "[[le-cuoi-cao]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[bond-bam-vao-cay]]", "[[loi-o-cay-sakaki]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: user_input
   ref: "Aurel, 19/09/2026: 'Natsu cung da giup nen minh nghi hien thoi diem cua su kien loi khong hoan toan o tren cay nua ma dan chuyen ve tren nguoi Tsuna roi'."
@@ -19,7 +19,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Chốt — lõi **không còn hoàn toàn ở trên cây**, nó đang dần quay về
@@ -77,22 +77,22 @@ Nên mốc thời gian đọc lại thành một chuyển động liên tục, k
 
 ## Hệ quả cơ học — nó giải một lỗ hổng đã nêu
 
-[[bond-bam-vao-cay]] ghi: bond của [[kyouya]] bám vào **cây**, không vào người. [[brat-dan-y-ch3-ch6-ban-20261001]] §Ch6 nêu một câu chưa ai trả lời: **nếu Tsuna ở xa Namimori thì bond có còn chạy không?**
+[[bond-bam-vao-cay]] ghi: bond của [[kyouya]] bám vào **cây**, không vào người. Nó để ngỏ một câu: **nếu Tsuna ở xa Namimori thì bond có còn chạy không?**
 
-→ **Có.** Vì lõi đang dần về người, nên **cái neo cũng đang dần dịch theo**. Kyouya cảm được cậu ở Ý.
+→ **Có.** Vì lõi đang dần về người, nên **cái neo cũng đang dần dịch theo**. Kyouya cảm được cậu kể cả khi cậu ở rất xa.
 
 🔴 Và điều đó **không miễn phí**: nếu neo dịch về người thì **đường dẫn tới cây** mà [[bond-bam-vao-cay]] cảnh báo cũng đổi hình — nó không mất, nó **đổi đầu**. Ai lần theo bond bây giờ sẽ lần tới **Tsuna**, không tới cây.
 
-## 🔴 Đơn vị đo — chương sinh ra, 19/09
+## 🔴 Đơn vị đo *(ý từ bản nháp đã xóa, 19/09)*
 
-[[brat-ch3-chapter-ban-20261001]] cảnh 3.3 cho tuyến này một **thước đo được**, và vault nên giữ nó vì không có cái nào khác:
+Bản nháp từng cho tuyến này một **thước đo được**. Giữ làm ý, vì chưa có cái nào khác:
 
 Tsuna cắm một **mốc** trong soulscape từ năm bốn tuổi, ở chỗ hệ cây tới gần **crux** nhất. Mốc không di chuyển — đó là toàn bộ công dụng của một cái mốc.
 
 | Mùa | Khoảng cách |
 |---|---|
 | mọi lần đo trước đó | **11 bước** |
-| **Ch3** *(Tsuna 7)* | 🔴 **9 bước** |
+| Tsuna **7** | 🔴 **9 bước** |
 
 → **Hai bước một năm.** Và cậu tự làm phép nhân: về tới nơi mất **hàng chục năm**.
 
@@ -100,5 +100,5 @@ Tsuna cắm một **mốc** trong soulscape từ năm bốn tuổi, ở chỗ h�
 
 ## Dùng ở đâu
 
-- **Ch3** — Natsu lên trang, và chuyện này là **cái nó đang làm**, không phải một lời tuyên bố
-- **Ch6** — [[kyouya]] tìm ra cậu **vì bond đã dịch**. Đây là lý do cơ học cho bậc 4
+- Khi con cáo lên trang: chuyện này là **cái nó đang làm**, không phải một lời tuyên bố
+- Khi [[kyouya]] tìm ra cậu ở xa: lý do cơ học là **bond đã dịch**

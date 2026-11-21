@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["chuong 18 PPCT", "ban nhap tieng Trung ch18", "nhat ky Dazai ch18", "反派战争18 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]", "[[arc-1-vuong-yen-ha-man]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-09-15

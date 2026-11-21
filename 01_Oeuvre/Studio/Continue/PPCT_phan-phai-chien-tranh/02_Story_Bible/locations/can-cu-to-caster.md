@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Căn cứ của tổ Caster ở Fuyuki
@@ -35,4 +35,3 @@ Nơi Dazai chỉ huy từ xa và các cảnh "nhà" của hai người.
 
 Địa chỉ, loại nhà: không nói.
 
-- **Ch40** *(30/09/2026)*: từ căn cứ bay về phía rừng Einzbern thì **qua sông** (「越过商店街的屋顶，越过河」). **`fic_explicit` từ ch40, không có nguồn canon** (review ch40 #3) — [[to-caster-thay-xe-gia]].

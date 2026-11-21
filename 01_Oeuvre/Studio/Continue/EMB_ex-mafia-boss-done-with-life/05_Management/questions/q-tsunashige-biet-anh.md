@@ -12,7 +12,7 @@ needed_before:
   chapter: "truoc khi dung khung arc — quyet dinh hinh dang cuoc gap nam 18 tuoi"
 decision_owner: user
 aliases: ["Tsunashige biet anh khong", "Tsunashige hieu sai ve Tsuna", "cuoc gap ba chieu", "C2-2 dot 7"]
-related: ["[[emb-chot-khung-arc]]", "[[emb-lam-lai-tu-nguon]]", "[[dot7-quyet-dinh]]", "[[tsunashige]]", "[[iemitsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]
+related: [ "[[tsunashige]]", "[[iemitsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]
 source:
   type: user_input
   ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 — decisions/dot7-quyet-dinh.md muc C2-2"
@@ -20,14 +20,14 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Tsunashige biết gì về người anh của mình?
 
-> ✅ **ĐÃ CHỐT 17/09/2026** — [[emb-chot-khung-arc]] mục 3. Tsunashige **biết có anh nhưng biết sai, qua Iemitsu**; cuộc gặp năm 18 tuổi lệch ba chiều. Phần dưới giữ để truy vết.
+> ✅ **ĐÃ CHỐT 17/09/2026** — emb-chot-khung-arc mục 3. Tsunashige **biết có anh nhưng biết sai, qua Iemitsu**; cuộc gặp năm 18 tuổi lệch ba chiều. Phần dưới giữ để truy vết.
 
-> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026 theo [[emb-lam-lai-tu-nguon]]. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 
 ## Vì sao cần quyết
 
@@ -41,7 +41,7 @@ Trước khi dựng khung arc mới.
 
 ❌ Bắt buộc người viết
 
-## Đề xuất cũ — đợt 7 *(Aurel, 16/08/2026)*
+## Đề xuất cũ của Aurel *(16/08/2026)*
 
 Tsunashige **biết** mình có một người anh, nhưng hiểu biết về Tsuna **sai rất nhiều, do [[iemitsu]]**.
 

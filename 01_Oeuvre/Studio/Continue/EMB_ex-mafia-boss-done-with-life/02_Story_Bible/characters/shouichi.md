@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Shouichi", "Shoichi", "Irie Shouichi", "Irie Shoichi", "con trai Tomoko", "thang be thuoc da day", "dua tre cung tuoi dau tien", "nha Irie"]
-related: ["[[tomoko]]", "[[tsuna]]", "[[khung-oc]]", "[[brat-dan-y-ban-20261001]]", "[[khung-nam-arc]]", "[[ao3-tags]]", "[[shouichi-phan-cu]]"]
+related: ["[[tomoko]]", "[[tsuna]]", "[[khung-oc]]", "[[ao3-tags]]"]
 source:
   type: fic_text
   ref: "P2 Ch1 (POV tron Tomoko — nha Irie, nep sinh hoat, thuoc da day, dua di hoc); tag AO3 'Irie Shouichi & Sawada Tsunayoshi'. Tong hop tu [[tomoko]], da doi chieu nguon 16/09/2026."
@@ -16,7 +16,7 @@ confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Irie Shouichi — **đứa trẻ cùng tuổi đầu tiên**
@@ -39,7 +39,7 @@ last_updated: 2026-10-01
 
 Shouichi là **ứng viên duy nhất có sẵn trong nguyên tác**: cùng tuổi, đã ở Namimori, và có một người mẹ đã đứng trọn một chương POV.
 
-[[khung-nam-arc]] xếp cậu vào **Brat → Child**, và Aurel duyệt 17/09 — [[emb-duyet-khung-nam-arc]] mục 2.
+Aurel duyệt 17/09 *(khi duyệt khung năm arc, khung đó đã xóa khi reset)*: cậu thuộc **Brat → Child**.
 
 ## Đường vào nhân vật — **đi qua mẹ cậu**
 

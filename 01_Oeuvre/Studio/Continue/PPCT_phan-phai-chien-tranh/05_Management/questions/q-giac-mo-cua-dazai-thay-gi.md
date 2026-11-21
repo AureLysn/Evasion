@@ -8,11 +8,11 @@ canon_layer: planned
 status: resolved
 resolved_by: giac-mo-dazai-chi-la-ky-uc-cua-tsuna
 needed_before:
-  arc: "arc-1-vuong-yen-ha-man"
-  chapter: "ch18 — giac mo tiep theo cua Dazai"
+  arc:
+  chapter: "giac mo tiep theo cua Dazai"
 decision_owner: user
 aliases: ["giac mo cua Dazai thay gi", "Dazai mo ky uc cua Tsuna", "lien ket giac mo Master Servant PPCT", "前世最后一个梦", "Dazai co mo thay dam tang the gioi A khong"]
-related: ["[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-thay-cai-chet-cua-tsuna]]", "[[q-loi-giai-bi-an-trung-tam]]", "[[arc-1-vuong-yen-ha-man]]", "[[Master-Servant-Dream]]"]
+related: ["[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-thay-cai-chet-cua-tsuna]]", "[[Master-Servant-Dream]]"]
 source:
   type: fic_text
   ref: "反派战争 ch10 (giac mo + ghi chu tac gia); canon Fate qua typemoon wiki trang Master (doc 15/09/2026)"
@@ -20,7 +20,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 # Giấc mơ của Dazai cho thấy những gì — chỉ ký ức của Tsuna, hay cả thứ Tsuna không thể nhớ?
@@ -44,7 +44,7 @@ Dàn ý v3.1 cũ (đề xuất, không phải nguồn) đặt ch18 là: Dazai m�
 
 ## Cần chốt trước
 
-ch18.
+Giấc mơ tiếp theo của Dazai lên trang.
 
 ## Ai quyết
 
@@ -53,5 +53,5 @@ ch18.
 ## Các phương án
 
 - **A — Chỉ ký ức của Tsuna** (khớp ch10 + canon Fate thông thường). Giấc mơ ch18 lấy một đoạn đời Tsuna ở thế giới A **trước** cái chết. "Cuối cùng" ở ch10 = cảnh cuối theo thời gian, không phải lần mơ cuối. *Giá:* bỏ cảnh đám tang và phục bút "nhẫn trên thi thể" của dàn ý cũ.
-- **B — Ký ức của Tsuna, cộng thứ Tsuna cảm được ở ranh giới sau khi chết** (nối lời giải cũ: di sản đặt vào linh hồn ở ranh giới tử–sinh). Giữ được phục bút nhẫn Mare nhưng **dính chặt** vào [[q-loi-giai-bi-an-trung-tam]] — phải chốt câu đó trước.
+- **B — Ký ức của Tsuna, cộng thứ Tsuna cảm được ở ranh giới sau khi chết** (nối lời giải cũ: di sản đặt vào linh hồn ở ranh giới tử–sinh). Giữ được phục bút nhẫn Mare nhưng **dính chặt** vào q-loi-giai-bi-an-trung-tam — phải chốt câu đó trước.
 - **C — Giấc mơ không chỉ từ liên kết Master–Servant** (vd Sách / ký ức kiếp trước của chính Dazai). *Giá:* ch1 nói Dazai nhặt Sách thấy **ký ức kiếp trước của mình**, nhưng giấc mơ ch10 lại là ký ức **của Tsuna** — hai nguồn này phải được phân rõ, là luật mới.

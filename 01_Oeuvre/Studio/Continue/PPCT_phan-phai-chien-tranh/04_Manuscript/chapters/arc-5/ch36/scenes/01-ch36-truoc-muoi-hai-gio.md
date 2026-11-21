@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 36-01 truoc muoi hai gio", "quan an truoc nha ga", "Kiritsugu buoc vao quan", "家庭餐厅 十二点"]
-related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[to-caster-hen-gap-kiritsugu]]", "[[kiritsugu-nhan-loi-hen]]", "[[fact-chi-so-tsuna]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[fact-chi-so-tsuna]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-25
 ---

@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-10-11
 aliases: ["co che to doi nhiem vu", "chia doi nhiem vu TDTB", "to doi chu dong", "nhiem vu het nguoi thi an", "goi nguoi quen vao nhiem vu"]
-related: ["[[20261011-thien-su-quen-tsuna-co-che-to-doi]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[20261011-thien-su-quen-tsuna-co-che-to-doi]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel 11/10/2026 — sources/user-input/20261011-thien-su-quen-tsuna-co-che-to-doi.md"

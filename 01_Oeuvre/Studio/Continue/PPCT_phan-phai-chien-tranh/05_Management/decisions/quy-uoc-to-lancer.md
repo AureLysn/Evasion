@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-20
 aliases: ["quy uoc to Lancer", "Lancer xung ho PPCT", "肯尼斯大人", "在下", "Kayneth con ba lenh chu", "三道令咒 PPCT"]
-related: ["[[diarmuid]]", "[[kayneth]]", "[[sola-ui]]", "[[sola-ui-gianh-lenh-chu]]", "[[Kayneth-El-Melloi-Archibald]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
+related: ["[[diarmuid]]", "[[kayneth]]", "[[sola-ui]]", "[[Kayneth-El-Melloi-Archibald]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
 source:
   type: user_input
   ref: "Aurel, chat 20/09/2026 tren ch21-review: 'A, sua #2 #3, 三道 giu, 肯尼斯大人, 在下, #8 sua'"
@@ -16,20 +16,20 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 ---
 
 # Quy ước viết tổ Lancer
 
-> Ba quy ước chốt cùng lúc khi soát ch21. Dùng lại ở **mọi chương sau** có tổ Lancer, không hỏi lại.
+> Ba quy ước chốt 20/09/2026. Dùng lại ở **mọi chương sau** có tổ Lancer, không hỏi lại.
 
-## 1. Kayneth chưa dùng đạo lệnh chú nào trước ch21 — còn đủ 三道
+## 1. Kayneth chưa dùng đạo lệnh chú nào ở cuối nguyên tác — còn đủ 三道
 
-**Chốt:** giữ 「三道红色的纹路」 ở ch21.
+**Chốt:** Kayneth còn đủ 「三道红色的纹路」.
 
 **Vì sao cần chốt:** canon Fate/Zero cho Kayneth dùng **một** đạo ở trận kho cảng để ép Lancer đánh Saber cùng Berserker — [[Kayneth-El-Melloi-Archibald]] bước 1. Nguyên tác PPCT có trận kho cảng (ch4–9) nhưng **không câu nào** nói hắn dùng lệnh chú; [[do-tham-saber-lancer-kho-cang]] không nhắc. Chỗ văn bản im lặng, PPCT chọn **lệch canon**: hắn chưa dùng đạo nào.
 
-**Hệ quả:** Sola-Ui cầm **ba** đạo từ ch21 trở đi. Chương nào đếm lệnh chú của tổ Lancer phải đếm từ ba.
+**Hệ quả:** Chương nào đếm lệnh chú của tổ Lancer phải đếm từ ba.
 
 ## 2. Lancer gọi Kayneth là 「肯尼斯大人」
 

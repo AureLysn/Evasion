@@ -12,7 +12,7 @@ needed_before:
   chapter: "dan y arc Child"
 decision_owner: user
 aliases: ["Bermuda an toi", "Tsuna moi Vindice", "Bermuda len hinh", "ban vong nien Bermuda"]
-related: ["[[emb-chot-bermuda-an-toi]]", "[[emb-lam-lai-lan-ba]]", "[[bermuda]]", "[[tsuna--bermuda]]", "[[hook-bermuda-to-mo]]", "[[q-cam-khoan-vendicare]]"]
+related: [ "[[bermuda]]", "[[tsuna--bermuda]]", "[[hook-bermuda-to-mo]]", "[[q-cam-khoan-vendicare]]"]
 source:
   type: user_input
   ref: "Aurel, 01/10/2026: dong y danh sach B cua emb-lam-lai-lan-ba. Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
@@ -22,12 +22,12 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Bermuda có tới Namimori ăn tối không, và ở chương nào?
 
-> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 01/10/2026 theo [[emb-lam-lai-lan-ba]]. Không dùng chốt cũ như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 01/10/2026. Không dùng chốt cũ như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 
 ## Vì sao cần quyết
 
@@ -39,7 +39,7 @@ Sự kiện này từng là đỉnh chuỗi của arc Child. Chốt cũ là **l�
 
 ## Chốt cũ
 
-[[emb-chot-bermuda-an-toi]] — toàn bộ là lời Aurel.
+emb-chot-bermuda-an-toi — toàn bộ là lời Aurel.
 
 ## Ghi chú
 

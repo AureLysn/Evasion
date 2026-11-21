@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.diarmuid, character.PPCT.artoria]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch25 PPCT", "dan y chuong 25 PPCT", "破魔 ch25", "Lancer tu pha Gae Buidhe", "tay trai Saber lanh"]
-related: ["[[arc-3-hai-cay-thuong]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[to-caster-biet-lenh-chu-doi-tay]]", "[[sola-ui-gianh-lenh-chu]]", "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Diarmuid-Ua-Duibhne]]", "[[diarmuid]]", "[[sola-ui]]", "[[artoria]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Diarmuid-Ua-Duibhne]]", "[[diarmuid]]", "[[sola-ui]]", "[[artoria]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — Aurel duyet ca C1–C6 theo de xuat, 22/09/2026"
@@ -29,7 +29,7 @@ last_updated: 2026-09-22
 
 ## Mục tiêu chương
 
-Lancer tự tay trả lại cho Saber bàn tay trái — lợi thế mà cả tổ Caster lẫn chính hắn đã giữ từ đêm kho cảng. Lời nguyền tan. Hook dài nhất từ ch2 ([[hook-he-qua-thay-to-caster]]) **được trả**, và nước cờ ch6 của Dazai **đảo chiều hẳn**. Không có quái vật, không có khủng hoảng: lý do duy nhất là ý muốn của Lancer, gieo từ ch21 ([[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]).
+Lancer tự tay trả lại cho Saber bàn tay trái — lợi thế mà cả tổ Caster lẫn chính hắn đã giữ từ đêm kho cảng. Lời nguyền tan. Hook dài nhất từ ch2 ([[hook-he-qua-thay-to-caster]]) **được trả**, và nước cờ ch6 của Dazai **đảo chiều hẳn**. Không có quái vật, không có khủng hoảng: lý do duy nhất là ý muốn của Lancer, gieo từ ch21 (lancer-tu-pha-gae-buidhe-truoc-quyet-dau).
 
 ## Beat bắt buộc
 
@@ -105,7 +105,7 @@ Chương **dệt canon** (như ch21) — [[05_Evasion/01_Oeuvre/Studio/Continue/
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu hỏi ❌ nào chặn. [[q-loi-moi-hien-the]] vẫn mở, không lên trang.
+Không có câu hỏi ❌ nào chặn. q-loi-moi-hien-the vẫn mở, không lên trang.
 
 ## Ghi cho ch26–27
 

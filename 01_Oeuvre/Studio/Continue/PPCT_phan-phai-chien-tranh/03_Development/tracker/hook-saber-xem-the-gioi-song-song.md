@@ -5,15 +5,15 @@ scope: project
 lane: personal
 project: PPCT
 canon_layer: author_confirmed
-status: paid_off
+status: open
 importance: major
 introduced:
   arc: chien-tranh-chen-thanh
   chapter: 15
 payoff:
-  status: paid
-  arc: arc-1-vuong-yen-ha-man
-  chapter: 16
+  status: unplanned
+  arc:
+  chapter:
 aliases: ["Saber xem the gioi song song", "dao tam Saber vo", "道心破碎", "diem drop Saber nam tay", "Saber da thua"]
 related: ["[[van-dap-nguyen-vong-saber-nam-tay]]", "[[fact-nhan-mare-quan-trac-song-song]]", "[[tsuna--artoria]]"]
 source:
@@ -21,7 +21,7 @@ source:
   ref: "反派战争 ch15 (cau cuoi) + ghi chu tac gia ch15"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -42,7 +42,6 @@ Ghi chú ch15:
 | Chương | Tiến triển |
 |---|---|
 | ch15 | Saber nắm tay — **truyện dừng** |
-| ch16 *(viết tiếp)* | **Trả**: Saber xem các nước Anh song song, tự dừng khi thấy mình đang chọn giữa các vị vua — 「……够了。」 |
 
 ## Phương án payoff đang cân nhắc
 

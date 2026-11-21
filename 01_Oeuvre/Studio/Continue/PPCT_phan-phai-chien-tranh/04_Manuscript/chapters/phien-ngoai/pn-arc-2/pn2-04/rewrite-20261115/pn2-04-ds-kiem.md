@@ -10,7 +10,7 @@ chapter: "pn2-04"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-04 ban DeepSeek", "kiểm phiên ngoại Bảy người xa lạ hạ", "pn2-04 ds kiem PPCT"]
-related: ["[[pn2-04-ds-nhap]]", "[[pn2-04-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
+related: ["[[pn2-04-ds-nhap]]", "[[pn2-04-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/969c7c42-f500-4aba-949c-a5f68d948906 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afcec79-4074-83ec-aca4-6863e3a4782a"

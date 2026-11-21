@@ -5,14 +5,14 @@ scope: project
 lane: personal
 project: PPCT
 canon_layer: fic_explicit
-status: partially_paid
+status: open
 importance: minor
 introduced:
   arc: chien-tranh-chen-thanh
   chapter: 7
 payoff:
-  status: planned
-  arc: arc-7-dem-cuoi
+  status: unplanned
+  arc:
   chapter:
 aliases: ["Tsuna nhin Saber im lang", "纲吉难得地沉默了一下，看向Saber", "Tsuna biet gi ve Berserker", "cai nhin cua Tsuna khi Berserker xuat hien"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[berserker]]", "[[artoria]]", "[[archer-va-berserker-giao-tranh]]", "[[Lancelot-Berserker]]"]
@@ -21,7 +21,7 @@ source:
   ref: "反派战争 ch7"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -42,7 +42,6 @@ Ch7. Tác giả **không nhắc trong ghi chú**.
 | ch7 | Gieo |
 | ch9 | Berserker nhắm vào Saber |
 | ch8–15 | Không nhắc lại cái nhìn đó |
-| ch40 *(viết tiếp)* | **Trả một phần:** lần đầu Tsuna nói ra cái nhìn ch7 — 「那天晚上，它一出来，我就想去看Saber。」 · 「只是觉得，它跟Saber……是认识的。」 Trực giác, **không** chân danh. `open` → `partially_paid` (Aurel 30/09). Trả hẳn: trận Saber–Berserker, đêm cuối (arc 7) — [[to-caster-thay-xe-gia]] |
 
 ## Phương án payoff đang cân nhắc
 

@@ -10,7 +10,7 @@ chapter: "pn1-04"
 canon_layer: planned
 status: active
 aliases: ["kiem pn1-04 ban DeepSeek", "kiểm phiên ngoại Người sống", "pn1-04 ds kiem PPCT"]
-related: ["[[pn1-04-ds-nhap]]", "[[pn1-04-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[Mimic]]", "[[Andre-Gide]]", "[[oda-duoc-cuu-trong-phien-ngoai]]"]
+related: ["[[pn1-04-ds-nhap]]", "[[pn1-04-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[Mimic]]", "[[Andre-Gide]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/53b55361-0c23-4eb0-8641-82d83096b5e8 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afccfec-0640-83ec-b43b-947cb98dec59"

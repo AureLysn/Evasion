@@ -10,7 +10,7 @@ chapter: 17
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch17 ban DeepSeek", "thẻ cảnh ch17 bản song song", "ch17 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan|plan ch17]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan|plan ch17]]", "[[hard-rules]]", "[[ai-tells]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch17-plan + 4 thẻ scenes/ (Aurel duyệt 14/09/2026, sửa 15/09). Không dùng văn bản ch17-chapter final."

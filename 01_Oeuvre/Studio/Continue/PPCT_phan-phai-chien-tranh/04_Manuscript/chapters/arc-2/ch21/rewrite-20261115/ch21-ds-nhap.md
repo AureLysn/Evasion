@@ -13,7 +13,7 @@ pov: [character.PPCT.diarmuid]
 language: zh
 title: "【太纲无差】反派战争21（DeepSeek版）"
 aliases: ["ch21 ban DeepSeek nhap", "chương 21 bản song song DeepSeek", "反派战争21 DeepSeek"]
-related: ["[[ch21-ds-the-canh]]", "[[ch21-ds-kiem]]", "[[deepseek-20261115]]", "[[ch20-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch21/ch21-chapter|ch21-chapter (aurel-main, final)]]"]
+related: ["[[ch21-ds-the-canh]]", "[[ch21-ds-kiem]]", "[[ch20-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch21/ch21-chapter|ch21-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch21-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch21-ds-kiem). Không dùng văn bản ch21-chapter final. Chat arc 2: https://chat.deepseek.com/a/chat/s/f8a57c82-9618-459e-b001-264e6620c29a"

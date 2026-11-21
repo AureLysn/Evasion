@@ -10,7 +10,7 @@ decided: 2026-09-19
 decided_by: user
 decided_at: 2026-09-19
 aliases: ["Tsunayoshi khong phai Decimo", "cau be hien lanh luong thien cung dau vung ve", "kham pha lai ban than", "Tsuna va Natsu giong nhau", "ho co nhau va hieu nhau", "khong phai cai gia"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[emb-chot-xuong-song-brat]]", "[[fact-cao-la-natsu]]", "[[q-cao-con-lai-gi]]", "[[brat-ch3-the-canh-ban-20261001]]", "[[bon-lan-can]]", "[[567-ke-hoach]]", "[[tsuna--shouichi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[emb-chot-xuong-song-brat]]", "[[fact-cao-la-natsu]]", "[[q-cao-con-lai-gi]]", "[[bon-lan-can]]", "[[567-ke-hoach]]", "[[tsuna--shouichi]]"]
 source:
   type: user_input
   ref: "Aurel, 19/09/2026, nguyen van trong muc Aurel noi gi."

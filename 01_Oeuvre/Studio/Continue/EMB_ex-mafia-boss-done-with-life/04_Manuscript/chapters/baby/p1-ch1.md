@@ -27,7 +27,7 @@ last_updated: 2026-09-15
 
 # P1 Ch1 — *Local Mafia Boss Unamused By Transmigration Bullshit. Says He Should've Stayed Dead*
 
-> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Đối chiếu với bản 15/08 và hồ sơ cũ: [[20260915-p1-ch1]].
+> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt emb-lam-lai-tu-nguon. Đối chiếu với bản 15/08 và hồ sơ cũ: [[20260915-p1-ch1]].
 >
 > ⚠️ **Sửa cùng ngày sau khi đọc P1 Ch2:** tuổi Tsuna, và ba chỗ Ch2 làm rõ — xem [[20260915-p1-ch2]].
 >

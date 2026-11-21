@@ -10,7 +10,7 @@ chapter: "pn5-02"
 canon_layer: planned
 status: active
 aliases: ["kiem pn5-02 ban DeepSeek", "kiểm phiên ngoại Hắc Thời Đại gốc", "pn5-02 ds kiem PPCT"]
-related: ["[[pn5-02-ds-nhap]]", "[[pn5-02-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[deepseek-20261115]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]"]
+related: ["[[pn5-02-ds-nhap]]", "[[pn5-02-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/60e47adf-26c0-47e4-be79-485957c0c613 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdbef4-6c64-83ec-b9cd-28b41ca2e1ad"

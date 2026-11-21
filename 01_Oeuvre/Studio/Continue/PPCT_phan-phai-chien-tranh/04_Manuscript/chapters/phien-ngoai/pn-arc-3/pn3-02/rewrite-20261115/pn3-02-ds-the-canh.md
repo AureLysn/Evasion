@@ -10,7 +10,7 @@ chapter: "pn3-02"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-02 ban DeepSeek", "thẻ cảnh hổ ở bờ sông", "pn3-02 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-01-ds-nhap]]", "[[pn3-01-ds-kiem]]", "[[pn2-07-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[Doppo-Kunikida]]", "[[Armed-Detective-Agency]]", "[[Akutagawa-Ryunosuke]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-01-ds-nhap]]", "[[pn3-01-ds-kiem]]", "[[pn2-07-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[Doppo-Kunikida]]", "[[Armed-Detective-Agency]]", "[[Akutagawa-Ryunosuke]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-02 (Aurel duyệt; C1–C17 để DeepSeek/GPT); note Database Nakajima-Atsushi (bổ sung chương 1 manga 18/11/2026), Francis-Scott-Key-Fitzgerald (tạo 18/11/2026), Akiko-Yosano; dữ kiện pn3-01-ds-kiem, pn2-07 (món nợ Yosano)."

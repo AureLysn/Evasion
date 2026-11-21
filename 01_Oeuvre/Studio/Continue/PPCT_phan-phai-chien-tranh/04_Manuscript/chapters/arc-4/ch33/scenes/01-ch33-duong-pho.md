@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 33-01 duong pho", "Archer tim Tsuna", "不会再有人把本王叫回去了", "先是那个征服王"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[gilgamesh]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[tokiomi-chet-archer-doi-master]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[gilgamesh]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-24
 # Cảnh 01 — 街上 · POV Tsuna · ~850 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác. Archer **biết** mọi chuyện đêm ngày 10. Tsuna thì **không**, và cảnh này **chỉ** được ghi lại những gì Archer nói ra thành lời.
-> 🔴 Archer **không** nói 时臣, **không** nói Master mới, **không** nói Tsuna là loại bảo vật gì. Không nhẫn (❌ [[q-loi-giai-bi-an-trung-tam]]).
+> 🔴 Archer **không** nói 时臣, **không** nói Master mới, **không** nói Tsuna là loại bảo vật gì. Không nhẫn (❌ q-loi-giai-bi-an-trung-tam).
 
 ## Ngân sách
 

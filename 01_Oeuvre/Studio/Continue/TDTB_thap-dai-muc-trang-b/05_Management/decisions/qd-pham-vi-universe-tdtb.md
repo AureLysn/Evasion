@@ -17,7 +17,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer, researcher]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 # Quyết định — universe là **KHR**, cộng các **thế giới nhiệm vụ**
@@ -43,6 +43,6 @@ Giải [[q-kimetsu-co-mat-den-dau-tdtb]]. Làm rõ lựa chọn 25/09 *"các uni
 
 | | Vai trò | Canon tra ở đâu |
 |---|---|---|
-| Jujutsu Kaisen | **thế giới nhiệm vụ 1** (arc Star Plasma Vessel) — Aurel: "jjk" | `Database/Fandom/JJK` *(mới có một bản nháp Gojo do AI viết, chưa đối chiếu manga; cần nạp canon trước ch19)* |
+| Jujutsu Kaisen | **một thế giới nhiệm vụ** — Aurel: "jjk" | `Database/Fandom/JJK` *(mới có một bản nháp Gojo do AI viết, chưa đối chiếu manga; cần nạp canon trước ch19)* |
 
-Nguồn: [[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]. Phần chốt 26/09 phía trên không đổi.
+Nguồn: Aurel 11/10/2026 *(decision nhiệm vụ 1 đã xóa khi reset 21/11/2026; JJK vẫn là thế giới nhiệm vụ dùng được)*. Phần chốt 26/09 phía trên không đổi.

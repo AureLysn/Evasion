@@ -23,12 +23,12 @@ last_updated: 2026-09-15
 
 **Kiểm máy:** `pov_leak_check.py` cho 4 thẻ cảnh → exit 0. ⚠️ Không đủ tin với chữ Hán —  L29. Grep tay (迪卢木多 · 言峰 · 绮礼 · 阿瓦隆 · Avalon · 前世 · 白兰 · Saber的御主 · 「): 0 lần.
 
-**Đối chiếu:** nguyên văn ch3–ch6, ch13 · [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]] · `secrets/` · [[kiritsugu]] · [[kayneth]] · [[diarmuid]] · canon [[Kiritsugu-Emiya]] · [[Kayneth-El-Melloi-Archibald]] · [[Diarmuid-Ua-Duibhne]] · [[Maiya-Hisau]] · decision [[hyatt-da-sap-kayneth-chua-bi-phe]] · [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]] · [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]].
+**Đối chiếu:** nguyên văn ch3–ch6, ch13 · [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]] · `secrets/` · [[kiritsugu]] · [[kayneth]] · [[diarmuid]] · canon [[Kiritsugu-Emiya]] · [[Kayneth-El-Melloi-Archibald]] · [[Diarmuid-Ua-Duibhne]] · [[Maiya-Hisau]] · decision hyatt-da-sap-kayneth-chua-bi-phe · lancer-tu-pha-gae-buidhe-truoc-quyet-dau · [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]].
 
 | # | Loại | Mức | Vị trí | Chương viết | Nguồn nói | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 | knowledge · canon | **medium** | dòng 137 | Dazai: 「一个废掉的魔术师，也还是御主，手上的令咒一道都没少。」 | Canon: ở trận kho cảng Kayneth **đã dùng một lệnh chú** ép Lancer đánh Saber cùng Berserker — [[Kayneth-El-Melloi-Archibald]] bước 1. Nguyên văn PPCT ch6–10 **không** có cảnh này (grep 令咒: chỉ Tokiomi, ch9). Thêm: Dazai không có cách biết số lệnh chú còn lại — hình ảnh drone bị nhiễu 「巨大的电场干扰了无线电的传输」 (ch5). Câu khẳng định chắc chắn điều Dazai **không thể biết** | ✅ xử lý 15/09 — xem "Kết quả sửa" |
-| 2 | knowledge · decision | **medium** | dòng 143 | Tsuna: 「他是来报仇的吧。」「酒店的事。」 — tổ Caster **biết** vụ Hyatt | [[hyatt-da-sap-kayneth-chua-bi-phe]]: 「Nguyên văn không nhắc Hyatt: **tổ Caster biết vụ sập hay không** do plan chương quyết, không mặc định.」 — plan ch19 và thẻ 04 **không** quyết vế này | ✅ xử lý 15/09 — xem "Kết quả sửa" |
+| 2 | knowledge · decision | **medium** | dòng 143 | Tsuna: 「他是来报仇的吧。」「酒店的事。」 — tổ Caster **biết** vụ Hyatt | hyatt-da-sap-kayneth-chua-bi-phe: 「Nguyên văn không nhắc Hyatt: **tổ Caster biết vụ sập hay không** do plan chương quyết, không mặc định.」 — plan ch19 và thẻ 04 **không** quyết vế này | ✅ xử lý 15/09 — xem "Kết quả sửa" |
 | 3 | knowledge | low | dòng 131–133 | Tsuna: 「他以后再也用不了魔术了吧？」 · Dazai: 「大概吧。那一枪打的就是这个。」 | Origin Bullet là bí thuật riêng của Kiritsugu — [[Kiritsugu-Emiya]]. Căn cứ có thể: ch5 「由于是caster职阶降世，所以被灌了一脑袋的魔术知识的纲吉这样吐槽道，“可惜我都不会用。”」 — [[fact-ky-nang-caster-cu-tuong-hoa-vongola]]; Dazai nói có rào (「大概吧」). *Mình không chắc là lỗi* | ✅ xử lý 15/09 — xem "Kết quả sửa" |
 | 4 | canon (fic) | low | dòng 121, 163 | Tổ Caster có hình **trong lâu đài** và **trong rừng** Einzbern | ch3 chỉ nói bọ cỡ ruồi giám sát Irisviel/Saber (「只有飞虫大小，但同时兼顾监视，传声，和小型炸弹的功能」, cảnh bãi biển), **không** nói cài trong lâu đài; ch4–5 dùng chuồn chuồn máy bay tới chỗ quan sát. Thẻ 04 ghi "đã cài ở lâu đài" là **suy ra**. *Không chắc là lỗi* — có thể đọc là chuồn chuồn bay tới | ✅ xử lý 15/09 — xem "Kết quả sửa" |
 | 5 | canon (fic) | low | dòng 121 | 「隔着十几块屏幕」 | ch3: 「太宰治看向房间内数十个屏幕」 — hàng **chục** màn hình | ✅ xử lý 15/09 — xem "Kết quả sửa" |
@@ -43,8 +43,8 @@ last_updated: 2026-09-15
 | Secret | Kayneth **không** gọi Kiritsugu là Master của Saber; chỉ nói "爱因兹贝伦…雇…下三滥" (dòng 57) | [[kiritsugu-la-master-that]] · plan ch19 C2 "Kéo theo" |
 | Secret | Kiritsugu không biết ai điều khiển máy (dòng 43) | [[kiritsugu]] (ch5) |
 | Secret | Không Kirei, không Avalon, không dị năng Dazai, không kế hoạch ngày 2 | plan ch19 |
-| Decision | Hyatt đã sập; Kayneth chưa bị phế tới đêm nay (dòng 33) | [[hyatt-da-sap-kayneth-chua-bi-phe]] |
-| Decision | Tay trái Saber vẫn nguyền; Gáe Buidhe không bị phá (dòng 81, 139, 163) | [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]] · [[hook-he-qua-thay-to-caster]] (ch6) |
+| Decision | Hyatt đã sập; Kayneth chưa bị phế tới đêm nay (dòng 33) | hyatt-da-sap-kayneth-chua-bi-phe |
+| Decision | Tay trái Saber vẫn nguyền; Gáe Buidhe không bị phá (dòng 81, 139, 163) | lancer-tu-pha-gae-buidhe-truoc-quyet-dau · [[hook-he-qua-thay-to-caster]] (ch6) |
 | Nguyên văn | Khẩu bắn tỉa hỏng vì chuồn chuồn (dòng 41) | ch5 「震碎了狙击枪的瞄准镜」 |
 | Nguyên văn | Kayneth tự xưng Lord Tháp Đồng hồ (dòng 59) | ch6 「肯尼斯·艾尔梅洛伊·阿其波卢德，魔术协会时钟塔的十二君主（Lord）之一」 |
 | Nguyên văn | Lancer có hai ngọn thương; ngọn đỏ (dòng 81, 113) | ch4 「破魔的红蔷薇，以及必灭的黄蔷薇」 |
@@ -128,7 +128,7 @@ Aurel: "sửa #1–#7, chốt tổ Caster biết vụ Hyatt, sửa S1–S3". #8 
 | # | Trước | Sau |
 |---|---|---|
 | 1 | 「一个废掉的魔术师，也还是御主，手上的令咒一道都没少。」 | 「一个废掉的魔术师，只要令咒还在手上，就还是御主。」 — bỏ khẳng định số lệnh chú |
-| 2 | Tsuna 「酒店的事」 — chưa có quyết định | **Giữ câu**; Aurel chốt tổ Caster biết vụ Hyatt → ghi vào [[hyatt-da-sap-kayneth-chua-bi-phe]], plan ch19, thẻ 04 |
+| 2 | Tsuna 「酒店的事」 — chưa có quyết định | **Giữ câu**; Aurel chốt tổ Caster biết vụ Hyatt → ghi vào hyatt-da-sap-kayneth-chua-bi-phe, plan ch19, thẻ 04 |
 | 3 | 「“可是那个人……”纲吉顿了一下，“他以后再也用不了魔术了吧？”」 | thêm căn cứ: 「被圣杯灌进脑子里的那些魔术知识，让他看得出刚才那一枪做了什么」 — nối ch5 |
 | 4–5 | 「城堡里的枪声，隔着十几块屏幕，传进了冬木另一头的据点。」 · 「另一块屏幕上，森林里…」 | 「城堡里发生的一切，由几只停在窗框上的机械蜻蜓，传回了冬木另一头的据点。」 · 「另一块屏幕连着悬在森林上空的蜻蜓…」 — chuồn chuồn máy bay tới (ch4–5), bỏ số màn hình |
 | 6 | 「事后他把碎掉的镜片翻来覆去看过很多遍…使魔留不下这么干净的痕迹」 | 「如果那是使魔，他自己或者Lancer的御主不可能一直没有察觉，那就只能是纯粹的机械造物。」 — theo lập luận ch5 |

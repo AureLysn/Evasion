@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.050"
 aliases: ["plan ch38 PPCT", "dan y chuong 38 PPCT", "noi ba dao lenh chu", "三道令咒的去处 ch38", "khep arc 5", "chuon chuon chan doc nha tho"]
-related: ["[[arc-5-ke-san-va-con-moi]]", "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[nha-tho-fuyuki]]", "[[hook-can-dazai-de-thang-archer]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[Command-Spells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: [ "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[kirei-van-la-master]]", "[[nha-tho-fuyuki]]", "[[hook-can-dazai-de-thang-archer]]", "[[Command-Spells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 27/09/2026 — chuong 5, khep arc 5. Aurel 27/09: 'H1, H2 phu. i va ii dong y de xuat' — noi trong nha (H1) + chuon chuon ra chan doc nha tho (H2 phu); L3 muc (b) — nghieng ve Master cua Assassin, khong ket luan; soi Kirei–Kariya KHONG len trang. AI de xuat C1–C10; Aurel 27/09: 'duyet'."
@@ -25,7 +25,7 @@ last_updated: 2026-09-27
 
 # Kế hoạch chương 38 — Nơi ba đạo lệnh chú tới · ✅ AUREL DUYỆT 27/09/2026
 
-> Chương 5, **khép arc 5**. Khung arc: *Dazai nối ba đầu mối (L3); tổ Caster nhìn nhà thờ khác đi. Nền: Kirei đã tìm tới Kariya 🟡. Khép arc **trước** đêm cuối* ([[arc-5-ke-san-va-con-moi]]).
+> Chương 5, **khép arc 5**. Khung arc: *Dazai nối ba đầu mối (L3); tổ Caster nhìn nhà thờ khác đi. Nền: Kirei đã tìm tới Kariya 🟡. Khép arc **trước** đêm cuối* (arc-5-ke-san-va-con-moi).
 > **Đã chốt (Aurel 27/09):** hướng **H1** (nối ngay trong nhà) + **H2 phụ** (chuồn chuồn ra ngoài nhìn nhà thờ); L3 mức **(b)** — nêu **hai** người ở nhà thờ, **nghiêng** về Master của Assassin (mối nghi ch17), **không** kết luận, **không** tên; sợi Kirei–Kariya **không** lên trang.
 > Aurel duyệt **cả C1–C10 theo đề xuất** (27/09/2026). Thẻ cảnh 01–04 đã viết.
 > **Quy ước đặt số từ ch38** (arc 5, review ch37 #8): thoại **30–40 %**; đoạn TB / câu trung vị là `tendency`.
@@ -56,7 +56,7 @@ Bốn mảnh tổ Caster nhặt được qua bốn chương khác nhau nằm lê
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- 🔴 [[archer-doi-master-sang-kirei]] — Dazai/Tsuna **L2 → L3**: Archer có người nuôi, người đó **ở nhà thờ**, dùng (có lẽ) ba đạo của Sola-Ui. **Cấm:** tên 言峰绮礼 / 绮礼; khẳng định người đó là Master **mới** của Archer (vẫn có thể chỉ là "người cấp ma lực"); chữ 死 chắc chắn cho 时臣; Kirei giết 时臣; Azoth剑; đêm ngày 10 (băng của Kiritsugu — họ không có).
+- 🔴 archer-doi-master-sang-kirei — Dazai/Tsuna **L2 → L3**: Archer có người nuôi, người đó **ở nhà thờ**, dùng (có lẽ) ba đạo của Sola-Ui. **Cấm:** tên 言峰绮礼 / 绮礼; khẳng định người đó là Master **mới** của Archer (vẫn có thể chỉ là "người cấp ma lực"); chữ 死 chắc chắn cho 时臣; Kirei giết 时臣; Azoth剑; đêm ngày 10 (băng của Kiritsugu — họ không có).
 - 🔴 [[kirei-van-la-master]] — Dazai `suspected_by` (giữ, **gần hơn**). **Tsuna: `unknown_to` → `suspected_by`** — nghe Dazai nghiêng về Master của Assassin *(ghi vào delta)*. **Cấm:** tên; kết luận; POV Kirei; Kirei lên hình.
 - 🔴 **Risei:** chỉ là 「监督者」 (như ch28). **Không** tên; **không** nói ông ta vô can hay có can.
 - 🔴 **Sợi Kirei–Kariya:** **không** lên trang (Aurel 27/09, ii). Không Berserker, không 间桐.
@@ -126,4 +126,4 @@ Bốn mảnh tổ Caster nhặt được qua bốn chương khác nhau nằm lê
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌ nào có `needed_before` rơi vào ch38. **Không chạm:** ❌ [[q-loi-giai-bi-an-trung-tam]] · ❌ [[q-loi-moi-hien-the]] · ❌ [[q-ke-hoach-that-bai-cua-dazai]] · kết cục Rider/Waver.
+Không có câu ❌ nào có `needed_before` rơi vào ch38. **Không chạm:** ❌ q-loi-giai-bi-an-trung-tam · ❌ q-loi-moi-hien-the · ❌ [[q-ke-hoach-that-bai-cua-dazai]] · kết cục Rider/Waver.

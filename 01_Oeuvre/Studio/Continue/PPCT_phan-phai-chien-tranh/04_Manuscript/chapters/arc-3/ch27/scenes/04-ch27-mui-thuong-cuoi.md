@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 27-04 mui thuong cuoi", "最后一枪 ch27", "Lancer chet", "Lancer chet khong oan", "ket cuc Lancer PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[Diarmuid-Ua-Duibhne]]", "[[q-loi-moi-hien-the]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -55,11 +55,11 @@ Decision khó nhất arc được thực hiện: Lancer chết **trong quyết �
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- Decision: [[ket-cuc-lancer-quyet-dau-tu-nguyen]] — chết trong quyết đấu tự nguyện với Saber; không chết dưới lệnh chú phản bội.
+- Decision: ket-cuc-lancer-quyet-dau-tu-nguyen — chết trong quyết đấu tự nguyện với Saber; không chết dưới lệnh chú phản bội.
 - Canon: Lancer chết cursing — [[Diarmuid-Ua-Duibhne]]; PPCT **khác** vì không có phản bội.
 - Canon: kiếp trước Fionn để Diarmuid chết (nước cứu mạng, lần thứ ba đã muộn) — [[Diarmuid-Ua-Duibhne]] mục bổ sung 20/09. ch21: 「那一次的路，他是自己走到尽头的。」
 - Canon anime: đạo diễn đổi cảnh chết từ "tan thành hạt sáng" sang "sương đen" **vì hắn chết trong nguyền rủa** — [[Diarmuid-Ua-Duibhne]] (trang wiki, mục staff). Ở PPCT không nguyền rủa → ánh sáng hợp lý.
-- Lời mời hiện thế: **không lên trang** (Aurel 22/09) — [[q-loi-moi-hien-the]].
+- Lời mời hiện thế: **không lên trang** (Aurel 22/09) — q-loi-moi-hien-the.
 
 ## Kết cảnh phải đạt được gì
 

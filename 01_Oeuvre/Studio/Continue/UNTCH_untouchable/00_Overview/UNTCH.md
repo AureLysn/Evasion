@@ -18,7 +18,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Untouchable
@@ -96,17 +96,13 @@ Thứ tự bắt buộc, xem [[quy-uoc-ma-project]]. **Bước 7 trước bướ
       ✅ `Characters/`: **11 hồ sơ** — xem [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/_MOC|Characters/_MOC]].
       ⬜ **Còn lại, mức vừa/thấp:** Ý chí Namimori · luật Sky/Cloud Kidnapping · Tri-ni-sette
       trong fic · hồ sơ Liliya, Dabi, Yuni, Mukuro, Bermuda
-- [~] **5. `questions/`** — **6 note**, tất cả có `needed_before` từ 31/08. Ba câu chặn arc-01
-      **đã đóng**; [[q-izuku-va-cai-chet-bakugo]] **cố ý để treo**
-- [~] **6. `decisions/`** — **8 note**: 5 phán quyết + [[qd-mau-do-van-phong]] +
-      [[qd-huong-arc-01]] + bản ghi sai đã `superseded`
+- [~] **5. `questions/`** — **3 note**. Ba câu chặn arc 01 đã xóa cùng khung khi reset 21/11/2026;
+      [[q-izuku-va-cai-chet-bakugo]] **cố ý để treo**
+- [~] **6. `decisions/`** — **6 note**: 5 phán quyết + [[qd-mau-do-van-phong]]
 - [x] **7a. Hợp đồng nhánh** — ✅ 31/08/2026: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]. **Mục này không có trong bảng cũ**,
       nhưng skill `plan-continuation` coi nó là **bắt buộc**. Mẫu: `Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/`
-- [x] **7b. Khung arc từ trên xuống** — ✅ 31/08/2026: [[arc-01-menh-lenh]] (ch128–147, 20 chương,
-      **`status: active`, Aurel đã duyệt**). Chỉ mục: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/03_Development/arcs/_MOC|arcs/_MOC]].
-      ✅ Cả 20 chương `planned`, **không còn chương nào `blocked`**
-- [~] **8. Dàn ý chương** — ✅ **Hồi I xong 31/08/2026**: [[ch128]] · [[ch129]] · [[ch130]] ·
-      [[ch131]] (~10.100 từ). Chỉ mục: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/04_Manuscript/chapters/_MOC|chapters/_MOC]]. ⬜ Hồi II–IV chưa
+- [ ] **7b. Khung arc từ trên xuống** — 🔴 **reset 21/11/2026**: khung arc 01 *(ch128–147)*, khung 3 hồi nhánh `aurel-watch`, 13 kế hoạch chương và các decision/câu hỏi dàn ý đã xóa. Lập lại từ đầu.
+- [ ] **8. Dàn ý chương** — chưa có.
 - [ ] **9. Viết**
 
 ⚠️ **Sửa 31/08/2026 — bảng cũ ghi bước 3 chưa xong và bỏ sót hợp đồng nhánh.**

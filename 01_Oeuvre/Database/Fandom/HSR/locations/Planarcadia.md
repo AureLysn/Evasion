@@ -138,7 +138,7 @@ Tuyến của Sparxie, Evanescia, Nihilux, Graphia; kết cục của Trò Chơi
 
 ## ⊕⊕ Đọc thoại 61 trang Planarcadia + Astropolis — 22/10/2026 *(tinh chỉnh bản tóm tắt cũ)*
 
-Ba tóm tắt phái sinh *(AI, không phải bằng chứng)*: `Continue/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-a.md` · `Continue/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-b.md` · `Continue/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-c.md`. **[wiki-thoại]** Phạm vi: *Welcome to Arcadia* → *Good Hunting (4.6)* + Zero-Dollar Strategy. **Không** gồm *Imagenae: Holy Grail War* *(Fate, Wonweek — xem [[Penacony]])*; **không** có Hayek, Boothill, Rappa, Aventurine *(chỉ nhắc tên)* trong các trang đã đọc.
+Ba tóm tắt phái sinh *(AI, không phải bằng chứng)*: `Original/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-a.md` · `Original/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-b.md` · `Original/CLS_crossover-va-lenh-su/05_Management/crosscheck/20261022-planarcadia-doc-thoai-nhom-c.md`. **[wiki-thoại]** Phạm vi: *Welcome to Arcadia* → *Good Hunting (4.6)* + Zero-Dollar Strategy. **Không** gồm *Imagenae: Holy Grail War* *(Fate, Wonweek — xem [[Penacony]])*; **không** có Hayek, Boothill, Rappa, Aventurine *(chỉ nhắc tên)* trong các trang đã đọc.
 
 1. **Tên:** Tổ Chức Đồng Nguyện = *Synwish Syndicate*; Hội Nghiên Cứu Hạnh Phúc = *Research Society of Happy Smiles*; Biệt Đội Bình Minh = *Daybreak Squadron*; **Magnus = Cinderborne** *(biệt danh 「Gray」)*; ba người còn lại **Wilhelm, Theana, Lucius**. Ashveil gọi Cinderborne là 「Magnus」, 「kid」.
 2. **Fulwish** là **phàm nhân** *(Yao Guang)*, tự cấy tế bào Shuhu *(Dan Heng)*, **chết sau trận hai** *(Sunday xác nhận)* — **không phải** 「vỏ của Shuhu」. Himeko *(khoá 1984)* cũng được kể là người sống sót; danh tính Himeko bị tranh cãi trong cốt truyện.
@@ -160,4 +160,4 @@ Ba tóm tắt phái sinh *(AI, không phải bằng chứng)*: `Continue/CLS_cro
 
 ## Fic nào dùng theo hướng nào
 
-- **CLS:** điểm 5 của mục đọc thoại 22/10/2026 *(người bị phẫu thuật có hồi phục không — wiki tự mâu thuẫn)* ảnh hưởng hook [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/03_Development/tracker/h-nguoi-ta-ve-duoc|h-nguoi-ta-ve-duoc]].
+- **CLS:** điểm 5 của mục đọc thoại 22/10/2026 *(người bị phẫu thuật có hồi phục không — wiki tự mâu thuẫn)* ảnh hưởng hook h-nguoi-ta-ve-duoc.

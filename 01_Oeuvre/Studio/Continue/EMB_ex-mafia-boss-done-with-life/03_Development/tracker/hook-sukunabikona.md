@@ -17,12 +17,12 @@ payoff:
 aliases: ["Sukunabikona", "Sukunahikona", "than chua benh", "Shinno-Entei", "Shennong", "ke hoach de danh", "plans set aside", "Sun Flame than bao tro"]
 related: ["[[author-notes]]", "[[dot5-canon-vs-fanon]]", "[[rule-danh-xung-flame]]", "[[maro]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Sukunabikona — **kế hoạch tác giả để dành**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Tác giả nói gì
 

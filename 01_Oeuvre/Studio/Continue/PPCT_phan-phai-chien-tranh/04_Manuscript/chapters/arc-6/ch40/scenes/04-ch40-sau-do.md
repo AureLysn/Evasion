@@ -20,7 +20,7 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 40-04 sau do", "之后 ch40", "Saber danh nham nguoi", "khong noi voi ai ch40", "Rider mat chien xa"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[hook-archer-tuyen-chien-rider]]", "[[saber-pha-gordius-wheel-to-caster-thay]]", "[[moi-tram-canon-lech-co-he-qua]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[hook-archer-tuyen-chien-rider]]", "[[moi-tram-canon-lech-co-he-qua]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

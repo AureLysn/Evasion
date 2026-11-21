@@ -10,7 +10,7 @@ chapter: 40
 canon_layer: planned
 status: active
 aliases: ["kiem ch40 ban DeepSeek", "kiểm ch40 bản song song", "ch40 ds kiem PPCT"]
-related: ["[[ch40-ds-nhap]]", "[[ch40-ds-the-canh]]", "[[deepseek-20261115]]", "[[ch38-ds-nhap]]"]
+related: ["[[ch40-ds-nhap]]", "[[ch40-ds-the-canh]]", "[[ch38-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat arc 6 https://chat.deepseek.com/a/chat/s/3b76100c-0bb7-49b4-8671-dcd538f53aac · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af9c572-c870-83ec-b0cb-5a2eca994e8a"

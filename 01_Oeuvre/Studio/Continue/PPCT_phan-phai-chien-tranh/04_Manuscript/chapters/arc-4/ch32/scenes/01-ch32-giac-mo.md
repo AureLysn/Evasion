@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 32-01 giac mo", "梦 ch32", "Dazai mo buoi Tsuna di dam phan", "phong mo truoc cuoc dam phan", "你不用"]
-related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dam-phan-voi-byakuran]]", "[[phong-mo-trang]]", "[[dazai-kiep-truoc]]", "[[tsuna-bi-byakuran-giet]]", "[[dazai-tim-gokudera-lam-dau-moi]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dam-phan-voi-byakuran]]", "[[phong-mo-trang]]", "[[dazai-kiep-truoc]]", "[[tsuna-bi-byakuran-giet]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
@@ -29,7 +29,7 @@ last_updated: 2026-09-24
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
 > [[tsuna-bi-byakuran-giet]] **không** ở danh sách cấm của cảnh — cả Tsuna và Dazai đều biết (plan C7). Nhưng **chỉ** được: tên Byakuran, việc đi đàm phán. 🔴 **CẤM** mọi thứ **bên trong** phòng họp.
-> 🔴 **Nhẫn** — ❌ [[q-loi-giai-bi-an-trung-tam]]: không một chiếc nhẫn nào, không lửa trên nhẫn.
+> 🔴 **Nhẫn** — ❌ q-loi-giai-bi-an-trung-tam: không một chiếc nhẫn nào, không lửa trên nhẫn.
 
 ## Ngân sách
 

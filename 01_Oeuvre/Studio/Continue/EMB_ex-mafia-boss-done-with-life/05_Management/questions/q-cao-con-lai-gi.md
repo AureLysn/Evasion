@@ -12,16 +12,16 @@ owner: user
 resolved_by: "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]"
 resolved_at: 2026-09-19
 aliases: ["cao con lai gi", "cai gia cua cao", "cao co tan khong", "lua ve nha thi binh chua con gi", "gia cua kudagitsune"]
-related: ["[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[natsu]]", "[[emb-chot-loi-dang-quay-ve]]", "[[fact-cao-la-natsu]]", "[[kitsune-phan-loai]]", "[[bon-lan-can]]", "[[ong-tre]]", "[[fact-loi-flame]]", "[[brat-ch3-the-canh-ban-20261001]]", "[[truc-chinh]]", "[[maro]]", "[[musashi]]"]
+related: ["[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[natsu]]", "[[emb-chot-loi-dang-quay-ve]]", "[[fact-cao-la-natsu]]", "[[kitsune-phan-loai]]", "[[bon-lan-can]]", "[[ong-tre]]", "[[fact-loi-flame]]", "[[truc-chinh]]", "[[maro]]", "[[musashi]]"]
 source:
   type: inference
-  ref: "Nay sinh 19/09/2026 khi dung the canh Ch3: neu cao la binh chua thu hai va lua dang ve nguoi Tsuna, thi cai binh con lai gi."
+  ref: "Nay sinh 19/09/2026 tu ban nhap arc Brat (da xoa): neu cao la binh chua thu hai va lua dang ve nguoi Tsuna, thi cai binh con lai gi."
 authority: ai
 confidence: 0.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Lửa về nhà rồi thì **cái bình còn lại gì**
@@ -66,8 +66,8 @@ last_updated: 2026-09-19
 | **B** | **Cáo ở lại, nhưng đổi vai** — hết là bình chứa thì nó là cái khác, và nó **tự chọn** cái khác ấy | Trả đúng chỗ từ chối của nó: lần đầu nó **được chọn** thay vì được gán. ⚠️ Nhẹ hơn A |
 | **C** | **Chưa ai biết, nhưng có người lo** — [[maro]] hoặc [[musashi]] biết truyền thuyết. Treo suốt Brat, trả ở arc sau | Giữ Brat gọn, và [[natsu]] đã nêu sẵn lối này |
 
-🔵 **Nghiêng về C cho Brat, mở sang A hoặc B ở arc sau.** Ch3 chỉ cần **chạm** — chỗ đóng arc mới đến hạn.
+🔵 **Nghiêng về C cho Brat, mở sang A hoặc B ở arc sau.** Giữa arc chỉ cần **chạm**; chỗ đóng arc mới đến hạn.
 
 ## Chặn cái gì
 
-Không chặn Ch3 *(Ch3 chỉ chạm, không trả)*. **Chặn chỗ đóng arc Brat**, và mọi cảnh có cáo từ Ch4 trở đi.
+Không chặn lần đầu chạm tới. **Chặn chỗ đóng arc Brat**, và mọi cảnh trả lời câu này.

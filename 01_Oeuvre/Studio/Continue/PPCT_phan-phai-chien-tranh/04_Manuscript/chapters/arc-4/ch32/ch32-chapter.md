@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 32 PPCT", "ban nhap tieng Trung ch32", "chuong nha ch32 ban nhap", "反派战争32 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan|plan ch32]]", "[[arc-4-ba-dao-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan|plan ch32]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

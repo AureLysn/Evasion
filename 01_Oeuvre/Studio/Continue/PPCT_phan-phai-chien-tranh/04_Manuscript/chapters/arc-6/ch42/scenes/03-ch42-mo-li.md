@@ -20,7 +20,7 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 42-03 mo li", "魔力 ch42", "Tsuna met vi ma luc", "bo ma cham nhe ch42"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[hook-bo-sung-ma-luc]]", "[[dazai-lo-ba-dao-lenh-chu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[hook-bo-sung-ma-luc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

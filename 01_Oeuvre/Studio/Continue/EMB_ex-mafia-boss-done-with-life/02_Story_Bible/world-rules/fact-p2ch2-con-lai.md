@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["P2 Ch2 sau thu dang giu", "ao co dau la giap", "kamikakushi seal", "da tung giai loi nguyen", "thi tran vu trang", "keystone species", "cuteness aggression", "tong cua ca truyen trong mot canh"]
-related: ["[[p2-ch2]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[20260916-p2-ch2]]", "[[fact-hibari-sakura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]", "[[kyouya-loai-chu-chot]]", "[[y-chinh-cac-arc]]", "[[truc-chinh]]", "[[chong-loi-dung-som]]"]
+related: ["[[p2-ch2]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[20260916-p2-ch2]]", "[[fact-hibari-sakura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]", "[[kyouya-loai-chu-chot]]", "[[truc-chinh]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html — Chapter 2, toan chuong. Doc lai toan van 16/09/2026 — xem [[20260916-p2-ch2]]"
@@ -54,7 +54,7 @@ Cấu trúc cảnh là **câu cá**, chính Tsuna đánh dấu: *Hook* → *Line
 
 Cả thị trấn ra đường dự lễ **mang theo hoả lực hạng nặng**, phòng khi Vongola tới phá — và Namimori tự mô tả mình là **nơi quái vật tới ngủ**.
 
-→ Nếu nhánh cần một arc mà cả thị trấn âm thầm làm khó người của Vongola thì **không phải bịa động cơ**: nó có sẵn. *(Đề xuất arc là của [[y-chinh-cac-arc]], không phải của chương.)*
+→ Nếu nhánh cần một arc mà cả thị trấn âm thầm làm khó người của Vongola thì **không phải bịa động cơ**: nó có sẵn. *(Đề xuất arc là của y-chinh-cac-arc, không phải của chương.)*
 
 ## 5. Kyouya nghĩ bằng **sinh thái học**
 
@@ -80,4 +80,4 @@ Tenmei-sama nhỏ xíu trên chiếc kiệu to; các bậc cha mẹ trong đám 
 
 ## 📌 Ghi chú về chính note này
 
-Bản cũ mở đầu bằng một *gate độ phủ* đếm theo dòng của một bản chuyển đổi, và xen ba đề xuất arc vào giữa các dữ kiện chương. Cả hai đã được gỡ: **độ phủ giờ đo bằng năm sổ đối chiếu**, và đề xuất arc **thuộc về [[y-chinh-cac-arc]]**. Bài học gốc thì vẫn đứng — [[chong-loi-dung-som]]: **phần chưa đọc chứa thứ quan trọng nhất**, và ở đây nó là [[fact-hibari-sakura]].
+Bản cũ mở đầu bằng một *gate độ phủ* đếm theo dòng của một bản chuyển đổi, và xen ba đề xuất arc vào giữa các dữ kiện chương. Cả hai đã được gỡ: **độ phủ giờ đo bằng năm sổ đối chiếu**, và đề xuất arc **thuộc về y-chinh-cac-arc**. Bài học gốc thì vẫn đứng — chong-loi-dung-som: **phần chưa đọc chứa thứ quan trọng nhất**, và ở đây nó là [[fact-hibari-sakura]].

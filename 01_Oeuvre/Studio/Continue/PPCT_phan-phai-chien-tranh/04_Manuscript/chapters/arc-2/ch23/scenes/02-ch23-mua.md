@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 19
 status: planned
 aliases: ["canh 23-02 mua", "Tsuna chi dung nha", "truc giac trong mua", "雨 ch23"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]]", "[[khu-nha-ryunosuke]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-21
 ---

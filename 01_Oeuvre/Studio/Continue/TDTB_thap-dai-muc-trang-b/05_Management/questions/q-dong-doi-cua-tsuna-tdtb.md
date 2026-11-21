@@ -13,7 +13,7 @@ needed_before:
   chapter: "truoc arc dau tien co canh dong doi cua Tsuna"
 decision_owner: "user"
 aliases: ["dong doi cua Tsuna", "dong ban cua Tsuna TDTB", "Tsuna co dong doi", "Illumi co den the gioi thuc khong", "ai o ben Tsuna truoc nguoi ky uc"]
-related: ["[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[nhiem-vu-da-lam-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: [ "[[nhiem-vu-da-lam-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: inference
   ref: "plan-continuation 28/09/2026 — he qua cua qd-ket-cuc-he-thong-va-dong-doi (Aurel 27/09: 'Tsuna nay co dong ban, co dong doi') doi chieu ch15 '纲吉没有朋友'"
@@ -26,7 +26,7 @@ last_updated: 2026-09-28
 
 # "Đồng bạn, đồng đội" của Tsuna là ai — và họ có ở thế giới thực không?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-dong-doi-tu-fandom-khac-tdtb]]. Đồng đội đến từ các fandom khác; không ai từ thế giới KHR. Họ có sang thế giới thực không thì **chưa chốt**. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
+> ✅ **Đã giải 28/09/2026** → [[qd-dong-doi-tu-fandom-khac-tdtb]]. Đồng đội đến từ các fandom khác; không ai từ thế giới KHR. Họ có sang thế giới thực không thì **chưa chốt**. Nguyên văn: 20260928-tra-loi-plan-continuation.
 
 > ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật.
 

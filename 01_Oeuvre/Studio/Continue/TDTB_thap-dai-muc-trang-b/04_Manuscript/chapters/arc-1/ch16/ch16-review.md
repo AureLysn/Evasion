@@ -25,7 +25,7 @@ last_updated: 2026-10-03
 
 # Soát chương 16 — 《装B的第十六天》
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Chỉ đọc, không sửa. Quyết định sửa hay giữ thuộc về Aurel.
 > ✅ **Aurel 30/09 (finalize-chapter, "Theo đề xuất"):** sửa M1 (bỏ 宿主), L1 ("离别人都远"), S3 (一点 11→7, 小声 4→2), S4 (bỏ một chuỗi liệt kê, đổi câu 滤镜); giữ S1, S2. Sau sửa: 2.957 chữ · thoại 14,8 % · ai_tells exit 1 (project_12 ×2) · pov_leak 5/5 exit 0. Chương `final`, delta committed.

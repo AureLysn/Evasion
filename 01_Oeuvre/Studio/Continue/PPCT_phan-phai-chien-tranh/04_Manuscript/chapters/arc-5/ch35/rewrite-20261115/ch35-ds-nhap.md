@@ -13,7 +13,7 @@ pov: [character.PPCT.kiritsugu]
 language: zh
 title: "【太纲无差】反派战争35（DeepSeek版）"
 aliases: ["ch35 ban DeepSeek nhap", "chương 35 bản song song DeepSeek", "反派战争35 DeepSeek"]
-related: ["[[ch35-ds-the-canh]]", "[[ch35-ds-kiem]]", "[[deepseek-20261115]]", "[[ch34-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter|ch35-chapter (aurel-main, final)]]"]
+related: ["[[ch35-ds-the-canh]]", "[[ch35-ds-kiem]]", "[[ch34-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter|ch35-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch35-ds-the-canh (2 lượt; lượt 2 gửi lại sau lỗi mạng); Claude kiểm lượt 1 và sửa (xem ch35-ds-kiem). Không dùng văn bản ch35-chapter final. Chat arc 5: https://chat.deepseek.com/a/chat/s/1d618e18-7086-41df-a58e-9d0341907277"

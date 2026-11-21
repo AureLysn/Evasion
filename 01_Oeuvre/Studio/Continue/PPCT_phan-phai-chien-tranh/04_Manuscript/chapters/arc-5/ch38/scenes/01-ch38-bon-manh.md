@@ -20,7 +20,7 @@ target_paragraph_mean: 34
 target_sentence_median: 15
 status: planned
 aliases: ["canh 38-01 bon manh", "noi bon manh lenh chu", "cau ch30 tra loi tron", "三道令咒 教会"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[Command-Spells]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[Command-Spells]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-27
 ---

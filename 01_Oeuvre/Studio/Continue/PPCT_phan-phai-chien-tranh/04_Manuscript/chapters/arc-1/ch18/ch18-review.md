@@ -37,8 +37,8 @@ last_updated: 2026-09-15
 |---|---|---|
 | Decision | Giấc mơ là ký ức của Tsuna, qua mắt Tsuna; ký ức **trước** cái chết | [[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]] · dòng 43 「我知道自己在纲吉的眼睛后面」 |
 | Decision | P1: tay trái trong ký ức 「干干净净的」 (dòng 45); tỉnh dậy 「梦里，那根手指上是空的。我没有问。」 (dòng 137–139) | ch15 「左手的食指上戴着一个指环…」 · plan ch18 |
-| Decision | Lý do tìm Gokudera: 「一条狗总会回到主人身边」 (dòng 105) | [[dazai-tim-gokudera-lam-dau-moi]] · ch2 |
-| Decision | "Việc tìm mất nghĩa" — không nói đã dừng (dòng 111) | [[dazai-tim-gokudera-lam-dau-moi]] |
+| Decision | Lý do tìm Gokudera: 「一条狗总会回到主人身边」 (dòng 105) | dazai-tim-gokudera-lam-dau-moi · ch2 |
+| Decision | "Việc tìm mất nghĩa" — không nói đã dừng (dòng 111) | dazai-tim-gokudera-lam-dau-moi |
 | Knowledge | Chuuya nghi nguyện vọng liên quan Gokudera (dòng 103) | ch2 Chuuya: 「你想要实现的愿望，同你一直找的那个叫狱寺隼人的人有关吗？」 |
 | Knowledge | Nhẫn đá xanh tay phải, 「里世界权柄的象征」 (dòng 45) | tiền truyện thượng 「右手中指…蓝宝石戒指，纲吉同他讲过那是里世界权柄的象征」 |
 | Knowledge | Không giấu nhau chuyện mơ (dòng 121) | ch10 |

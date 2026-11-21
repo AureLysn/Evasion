@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 31-02 le vat", "礼物 ch31", "Azoth剑 ch31", "Tokiomi chet", "Kirei dam Tokiomi"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[20260923-canon-lenh-chu-tokiomi]]", "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[tokiomi]]", "[[kirei]]", "[[gilgamesh]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[tokiomi]]", "[[kirei]]", "[[gilgamesh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
@@ -58,7 +58,7 @@ Tokiomi làm **đúng việc một người thầy tử tế nên làm**, và ch
 - **ch9 nguyên tác (Tokiomi):** 「若是可以，远坂时辰也不想在这么早就动用令咒。」 · 「时臣的表情苦涩，凝视着右手的手背。」 — **lệnh chú Tokiomi ở mu bàn tay phải**; còn **hai** đạo.
 - **ch9:** 「远坂宅邸的方向」 · **ch6:** 「在冬木市郊区的远坂宅里」.
 - **ch6 (giọng Tokiomi):** 「这下……不妙了啊。」 — lo âu, giữ lễ.
-- Canon: Tokiomi coi Kirei là đệ tử trung thành; Azoth剑 là quà chia tay/xuất sư; Kirei đâm sau lưng khi Tokiomi rời phòng — [[20260923-canon-lenh-chu-tokiomi]] #11 · [[Gilgamesh-Archer]].
+- Canon: Tokiomi coi Kirei là đệ tử trung thành; Azoth剑 là quà chia tay/xuất sư; Kirei đâm sau lưng khi Tokiomi rời phòng — 20260923-canon-lenh-chu-tokiomi #11 · [[Gilgamesh-Archer]].
 
 ## Kết cảnh phải đạt được gì
 

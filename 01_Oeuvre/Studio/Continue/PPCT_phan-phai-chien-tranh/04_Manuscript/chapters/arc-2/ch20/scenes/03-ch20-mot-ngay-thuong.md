@@ -18,7 +18,7 @@ target_paragraph_mean: 36
 target_sentence_median: 16
 status: planned
 aliases: ["canh 20-03 mot ngay thuong", "nau an choi game ch20", "cai gia dem qua"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-doi-bu-dap]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[fact-ky-nang-caster-cu-tuong-hoa-vongola]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-doi-bu-dap]]", "[[fact-ky-nang-caster-cu-tuong-hoa-vongola]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -52,7 +52,7 @@ Ngày thường diễn ra thật. Giữa lúc vui, Tsuna hỏi một câu về �
 
 - ch3 (game): 「纲吉眼睛甚至还放在游戏机的屏幕上」
 - ch18 *(viết tiếp)*: Tsuna nấu bữa sáng, trứng cháy viền; 「人不吃饭总归是不行的。」
-- ch19 *(viết tiếp)*: Kayneth bị Origin Bullet phế, Dazai không can thiệp — [[kayneth-tap-kich-lau-dai-einzbern]]
+- ch19 *(viết tiếp)*: Kayneth bị Origin Bullet phế, Dazai không can thiệp — kayneth-tap-kich-lau-dai-einzbern
 - [[fact-ky-nang-caster-cu-tuong-hoa-vongola]]: đồ Tsuna dựng lên là thành quả Vongola cụ tượng hóa bằng ma lực
 
 ## Kết cảnh phải đạt được gì

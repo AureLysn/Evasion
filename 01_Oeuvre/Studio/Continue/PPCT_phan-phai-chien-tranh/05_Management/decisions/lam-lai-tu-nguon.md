@@ -16,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Làm lại toàn bộ PPCT từ nguồn; bản cũ chỉ còn là tài liệu tham khảo
@@ -51,12 +51,14 @@ last_updated: 2026-09-13
 - Bản nháp II.7 viết ngày 13/09/2026 dựa trên bản cũ → `status: archived`.
 - Quy ước viết trong briefing (danh xưng, định dạng chương, tỷ lệ thoại) **chưa khóa lại**; xét ở bước đo văn phong.
 - Các quyết định cũ đang chờ xét lại — toàn bộ nằm trong `questions/`:
-  - [[q-loi-moi-hien-the]]
-  - [[q-ket-cuc-lancer]]
-  - [[q-tsuna-mo-quan-ca-phe]]
-  - [[q-akutagawa-gap-tsuna-truoc-cf]]
-  - [[q-loi-giai-bi-an-trung-tam]]
-  - [[q-khung-arc-v]]
-  - [[q-bach-ki-lan]]
-  - [[q-tiem-ca-ri-va-oda]]
-  - [[q-cach-do-ty-le-thoai]] — vấn đề mới, phát hiện 13/09
+  - Phần còn lại sau reset 21/11/2026: [[q-akutagawa-gap-tsuna-truoc-cf]] · [[q-bach-ki-lan]] · [[q-tiem-ca-ri-va-oda]] · [[q-cach-do-ty-le-thoai]] *(đã chốt)*. Các câu khác đã xóa cùng dàn ý.
+
+## Lần reset thứ hai — 21/11/2026
+
+Aurel: *"reset tất cả về trạng thái trước khi lập dàn ý"* — áp cho mọi project fanfic. Với PPCT, Aurel chọn **reset thật** (21/11/2026):
+
+- 27 chương `final` ch16–ch42 (arc 1–6), cùng bản nháp arc 7 và phiên ngoại, **vẫn nằm trong `04_Manuscript/`** nhưng **không còn là canon**.
+- Đã xóa: mọi arc và đề xuất arc, nhánh `deepseek-20261115`, snapshot, event sinh từ chương viết tiếp, decision và câu hỏi phục vụ dàn ý (kể cả 10 decision kết cục), crosscheck gắn với chương.
+- Mốc state để lập kế hoạch: **cuối ch15** của nguyên tác.
+- Nhật ký chi tiết: `06_Station/00_Inbox/fanfic-cleanup-progress.md` (tạm).
+

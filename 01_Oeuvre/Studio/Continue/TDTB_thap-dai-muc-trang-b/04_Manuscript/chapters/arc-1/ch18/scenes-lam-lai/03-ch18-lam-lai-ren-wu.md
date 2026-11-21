@@ -22,7 +22,7 @@ min_dialogue_turns: 3
 target_terms: "≥ 15 — 系统 · 任务 · 积分 · 抑制剂 · 信息素 · 节目 · 嘉宾"
 status: final
 aliases: ["the ch18 canh 03 ren wu", "Tsuna mo danh sach nhiem vu", "可选任务 ch18", "het arc 1 TDTB canh cuoi"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[tram-trung-chuyen-tdtb]]", "[[qd-thuoc-da-mua-lai-truoc-show-tdtb]]", "[[qd-tsuna-tren-show-thu-dong-tdtb]]", "[[q-dong-doi-cu-the-la-ai-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[tram-trung-chuyen-tdtb]]", "[[qd-thuoc-da-mua-lai-truoc-show-tdtb]]", "[[qd-tsuna-tren-show-thu-dong-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
@@ -40,12 +40,12 @@ last_updated: 2026-10-03
 3. **Vào trạm trung chuyển** ([[he-thong-nhiem-vu-tsuna-tdtb]] luật 6): nhắm mắt gọi hệ thống → không gian trắng → mục *"可选任务"* (nguyên văn ch4; sửa 03/10 từ 可选择任务).
    🔴 **Không** nêu tên thế giới, thân phận, nhiệm vụ nào trong danh sách — chỉ "mấy dòng chữ" sáng lên.
 4. **Một thoáng nhớ đồng đội cũ, nhắc chung, không tên** — mặc định theo [[qd-tsuna-tren-show-thu-dong-tdtb]] (Tsuna chỉ để ý hệ thống
-   và *"các đồng đội cũ từng tham gia nhiệm vụ"*; trên trang nhắc chung, không tên). Thêm chi tiết hay không: ❓ [[q-dong-doi-trong-ch18-tdtb]].
+   và *"các đồng đội cũ từng tham gia nhiệm vụ"*; trên trang nhắc chung, không tên). Thêm chi tiết hay không: ❓ q-dong-doi-trong-ch18-tdtb.
 5. **Chọn đi.** Câu cuối chương ngắn, giọng 乐博 (C9), ví dụ *"打工人，上班了。"* / *"咸鱼，出海了。"*. Không nói đi đâu.
 
 ## Cấm
 
-- 🔴 Không tên thế giới, không tên / đặc điểm nhận dạng đồng đội ([[q-dong-doi-cu-the-la-ai-tdtb]] — ❌, `needed_before` ch19).
+- 🔴 Không tên thế giới, không tên / đặc điểm nhận dạng đồng đội (q-dong-doi-cu-the-la-ai-tdtb — ❌, `needed_before` ch19).
 - 🔴 Tsuna không nghĩ gì về kiếp trước; không biết Gokudera đang ở Namimori.
 - 🔴 Không bi kịch hoá chuyện một mình / bố mẹ. Không phong thư (chưa có thẻ cho nó).
 - 🔴 Không Lửa ở thế giới thực.
@@ -53,7 +53,7 @@ last_updated: 2026-10-03
 
 ## ❓ Cần Aurel — thông tin đồng đội cho nhịp 4
 
-Đã chuyển thành note câu hỏi [[q-dong-doi-trong-ch18-tdtb]]. Mặc định (b) có căn cứ decision; bảng dưới giữ để đối chiếu:
+Đã chuyển thành note câu hỏi q-dong-doi-trong-ch18-tdtb. Mặc định (b) có căn cứ decision; bảng dưới giữ để đối chiếu:
 
 | | Chọn | Ràng buộc gì |
 |---|---|---|

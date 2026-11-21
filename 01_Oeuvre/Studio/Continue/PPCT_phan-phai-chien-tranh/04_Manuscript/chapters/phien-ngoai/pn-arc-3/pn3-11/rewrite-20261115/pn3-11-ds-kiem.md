@@ -10,7 +10,7 @@ chapter: "pn3-11"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-11 ban DeepSeek", "kiểm phiên ngoại người viết ở quán", "pn3-11 ds kiem PPCT"]
-related: ["[[pn3-11-ds-nhap]]", "[[pn3-11-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Chrome-Dokuro]]", "[[Sakunosuke-Oda]]"]
+related: ["[[pn3-11-ds-nhap]]", "[[pn3-11-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Chrome-Dokuro]]", "[[Sakunosuke-Oda]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/78fb259f-adeb-4abe-99a7-32b69f9ded71 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afda40c-0034-83ec-93aa-f0655bc66d29"

@@ -27,7 +27,7 @@ last_updated: 2026-10-03
 
 # Cảnh 04 — 天亮 · POV Tsuna · ~500 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Cảnh **thoại nhiều nhất** chương (~40 %). Nhịp nhanh, hài. Không ai nói ra điều gì nặng.
 > 🔴 Không ánh nắng mùa, không thời tiết mùa. "Trời sáng" là đủ.

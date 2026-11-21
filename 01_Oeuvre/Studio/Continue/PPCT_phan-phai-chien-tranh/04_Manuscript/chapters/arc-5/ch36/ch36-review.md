@@ -10,7 +10,7 @@ chapter: 36
 canon_layer: user_canon
 status: active
 aliases: ["review ch36 PPCT", "soat ch36", "check-continuity ch36", "check-style ch36", "ngoi doi dien review"]
-related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[kiritsugu]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[lancer-chet-trong-quyet-dau]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[kiritsugu]]", "[[kirei-van-la-master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 25/09/2026, tren ban nhap ch36 (2.828 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."
@@ -199,10 +199,10 @@ Không có lỗi 🔴. Không có lỗi luật cứng. 📌 Profile [[05_Evasion
 
 ## Để `finalize-chapter` biết (không phải lỗi)
 
-- **Kiritsugu: `unknown_to` → `suspected_by` (L2)** của [[archer-doi-master-sang-kirei]] — nghe 时臣「大概已经不在了」 và 「Archer还在」 từ Dazai (plan ch36, điểm 2 đã chốt ở arc). Trên trang **không** có việc hắn ghép với băng tối ngày 10.
+- **Kiritsugu: `unknown_to` → `suspected_by` (L2)** của archer-doi-master-sang-kirei — nghe 时臣「大概已经不在了」 và 「Archer还在」 từ Dazai (plan ch36, điểm 2 đã chốt ở arc). Trên trang **không** có việc hắn ghép với băng tối ngày 10.
 - [[kirei-van-la-master]]: **không đổi**. Một dòng 📌: Kiritsugu **giữ lại** băng tối ngày 10 (C4).
 - **Kiritsugu biết mặt Dazai, biết Dazai là Master của Caster**, và biết hai lần chặn (ch5, ch27) là của tổ Caster → [[kiritsugu]]. **Không** biết tên, căn cứ, Tsuna là gì.
-- **Tổ Caster biết tổ Lancer rời nhà thờ bằng xe nhà thờ chạng vạng ngày 9** → [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]], [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]], [[sola-ui-doi-lenh-chu-lay-duong-ve]] (người biết thêm). Câu ch30 của Dazai 「教会会护着他们…」 được biết là **sai một nửa**.
+- **Tổ Caster biết tổ Lancer rời nhà thờ bằng xe nhà thờ chạng vạng ngày 9** → [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]], [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]], sola-ui-doi-lenh-chu-lay-duong-ve (người biết thêm). Câu ch30 của Dazai 「教会会护着他们…」 được biết là **sai một nửa**.
 - **Con bọ cổng lâu đài tắt tối ngày 13** (off-page, theo lời Dazai) → [[fact-cong-nghe-vongola-trong-chien-tranh]] ở mức **lời nói**: chương chưa cho thấy nó tắt thật. Kế hoạch 「河对岸」 của Kiritsugu → không thành, **off-page**.
 - Hook: [[hook-to-caster-khac-che-to-saber]] thêm dòng ch36, giữ `partially_paid` (C7). [[hook-can-dazai-de-thang-archer]] thêm dòng chạm nhẹ, giữ `open`.
 - 「Ghi cho ch37」 ở arc: Kiritsugu có thể tới 远坂宅 off-page (plan ch36, mục ảnh hưởng).

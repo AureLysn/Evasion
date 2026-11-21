@@ -13,7 +13,7 @@ addressing:
   tsuna_to_yamamoto: "trong dau: 'núi bản võ' / 'Sơn Bản Vũ' (ch11-13); noi thang: 'Yamamoto-kun' (ch14) → Yamamoto xin bo -kun: 'Bảo ta núi vốn là có thể' → ch15 Tsuna goi 'Núi bản' (Yamamoto, tron)"
   dai_tu_convert: "ta / ngươi ca hai chieu"
 aliases: ["Tsuna Yamamoto", "8027", "A Cương", "Yamamoto om Tsuna", "bạn rất thân", "cùng lớp sơ trung", "Tsuna x Yamamoto"]
-related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[yamamoto-gap-tsuna-tokyo-dome-tdtb]]", "[[yamamoto-den-phong-tsuna-tdtb]]", "[[h-80-doi-tuong-to-tinh-tdtb]]", "[[q-cp-chinh-tdtb]]", "[[tsuna--yamamoto-tdtb-phan-cu]]"]
+related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[yamamoto-gap-tsuna-tokyo-dome-tdtb]]", "[[yamamoto-den-phong-tsuna-tdtb]]", "[[h-80-doi-tuong-to-tinh-tdtb]]", "[[q-cp-chinh-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch11, ch12, ch13, ch14, ch15"
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Yamamoto
@@ -41,8 +41,6 @@ last_updated: 2026-10-03
 | ch13 | *"Bạn rất thân!"* Tay khoác eo Tsuna trước ống kính. Biết món hamburger. Chỉnh tư thế đánh bóng *"vô cùng mập mờ"* |
 | ch14 | Xiên thịt, che mắt, dắt đi rửa mắt. Tsuna gọi *"Yamamoto-kun"* → được bảo bỏ kính ngữ |
 | ch15 | Đêm, vào phòng Tsuna, ôm, *"A Cương, chớ đi......"*. Tsuna ở lại |
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] *(viết lại 03/10)* | Đêm chỉ có một cái ôm. Khăn lạnh, không gọi ai. **Tâm tình**: Tsuna nhớ mờ, ngưỡng mộ Yamamoto thời sơ trung; *"不过多了个朋友，好像也挺不错的。"* Sáng: *"谢谢你留下来。"* Xưng hô 阿纲 / 山本. |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)* | Yamamoto có mặt; đỡ Tsuna khi ngã; đáp Kenichi thay Tsuna. Tsuna **bênh** Yamamoto: *"请你收回去。"* Trà xanh nói nhỏ → Tsuna gọi **武** từ đây; Yamamoto vẫn gọi 阿纲. |
 
 ## Cách xưng hô
 

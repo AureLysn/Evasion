@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["tuoi nhan vat", "bang tuoi", "moc thoi gian chot", "Tsunashige 14", "Kyouya cung tuoi Tsuna", "Cradle lui lai", "the gioi da lech", "mau thuan tuoi Kyouya", "sinh nhat khong chot truoc", "Tsuna tron 7 luc nao", "moc tuoi de noi dung quyet"]
-related: ["[[master]]", "[[tuyen-xanxus]]", "[[tsunashige]]", "[[kyouya]]", "[[fact-toan-canh-tuong-lai]]", "[[dot8d-thu-tu-p2]]", "[[y-chinh-cac-arc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[tuoi-va-moc-phan-cu]]"]
+related: ["[[master]]", "[[tuyen-xanxus]]", "[[tsunashige]]", "[[kyouya]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16 — chot moc tuoi"
@@ -18,10 +18,10 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [timeline, load-bearing, decision]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
-# Tuổi và mốc — **chốt ở đợt 8l**
+# Tuổi và mốc
 
 ## Aurel chốt ba điều
 
@@ -36,7 +36,7 @@ last_updated: 2026-10-01
 
 ✅ **Khớp văn bản gốc.** [[tomoko]] ở P2 Ch1: Tsunashige *"born a year or two after the inheritance crisis at Vongola settled down at last"*. Khủng hoảng kết thúc khoảng **3 năm sau khi Tsuna sinh** *(P1 Ch1)* → Tsunashige sinh khoảng **năm thứ 4–5**. **Bốn tuổi cách nhau là con số khớp nhất.**
 
-⚠️ Và nó cho Arc 6 một tầng nữa: Reborn bước vào với **một cậu bé 14 tuổi và một sổ tay cũ**, còn người 18 tuổi đứng cạnh **đã sống hết đời cậu bé đó rồi**.
+⚠️ Và nó cho đoạn kết một tầng nữa: Reborn bước vào với **một cậu bé 14 tuổi và một sổ tay cũ**, còn người 18 tuổi đứng cạnh **đã sống hết đời cậu bé đó rồi**.
 
 ## 2. 🔴 Tuổi Kyouya — **mâu thuẫn thứ tư của nguyên tác**
 
@@ -60,7 +60,7 @@ Aurel nhớ tác giả đặt hai người **cùng tuổi**. Văn bản thì có
 
 ✅ **Chốt 16/09**: thứ tự là **P2 Ch2 trước, P2 Ch1 sau vài tháng** — [[emb-chot-sau-p2-ch2]]. Hai mâu thuẫn đầu bảng vì thế **tự tan**; hai cái còn lại vẫn là lỗi của nguồn.
 
-🔴 **Bốn lần, cùng một chương.** Đây không còn là trùng hợp — nó củng cố chẩn đoán ở [[dot8d-thu-tu-p2]]: **P2 Ch1 là chỗ tác giả bị rối, và bà dừng ngay sau đó.**
+🔴 **Bốn lần, cùng một chương.** Đây không còn là trùng hợp — nó củng cố chẩn đoán ở [[q-thu-tu-p2]]: **P2 Ch1 là chỗ tác giả bị rối, và bà dừng ngay sau đó.**
 
 ### Chốt cho nhánh
 
@@ -87,9 +87,9 @@ Và fic gốc nói thẳng, P1 Ch3:
 
 | | Canon | Nhánh này |
 |---|---|---|
-| Cradle xảy ra khi Tsuna | ~6 tuổi | **~9–10 tuổi** — Arc 3 |
+| Cradle xảy ra khi Tsuna | ~6 tuổi | **~9–10 tuổi** — giai đoạn Child |
 | Xanxus nằm băng | 8 năm | **4–6 năm** |
-| Tsuna phá băng khi | — | **13–15 tuổi** — Arc 5, [[tuyen-xanxus]] |
+| Tsuna phá băng khi | — | **13–15 tuổi** — giai đoạn Teen, [[tuyen-xanxus]] |
 
 ✅ Giải được vấn đề mình nêu ở [[tuyen-xanxus]]: không còn phải giải thích *"vì sao cậu để cái tên đó lại suốt mười năm"*.
 
@@ -133,17 +133,14 @@ Lấy **năm Tsuna sinh = năm 0**.
 
 Bảng trên cho một **khoảng** *(~6–7 khi Tsuna 6)*, và [[kyouya]] cho **chênh tối đa 1–2**. Một khoảng thì không viết được. Aurel chốt **+2**:
 
-| | Tsuna 7 *(Brat Ch5–7)* | Tsuna 8 *(Child Ch1)* |
+| | Tsuna 7 | Tsuna 8 |
 |---|---|---|
 | [[kyouya]] | **9** | **10** |
 
-🔴 **Vì sao phải chốt:** bốn chương đã viết cậu ta **11 rồi 12** — con số này ghi vào **bảng dàn nhân vật của thẻ cảnh Ch5** từ **trí nhớ**, không tra note. Đã sửa **29 chỗ** ngày 20/09 theo lối (a): *sửa chương cho khớp note*.
+🔴 **Vì sao phải chốt:** bản nháp đã xóa từng viết cậu ta **11 rồi 12**, lấy từ trí nhớ, không tra note. Con số phải lấy từ bảng này.
 
-⚠️ Và nó không phải một con số. [[kyouya]] ghi: *"courtship của cậu là chuyện giữa **hai đứa trẻ ngang tuổi** — hai con thú nhỏ đang đo nhau."* Ở 11 câu ấy sai; ở 9 nó đúng trở lại.
+⚠️ Và nó không phải một con số. [[kyouya]] ghi: *"courtship của cậu là chuyện giữa **hai đứa trẻ ngang tuổi** — hai con thú nhỏ đang đo nhau."* Ở 11 câu ấy sai; ở 9 nó đúng.
 
-## Việc phải làm theo
+## Luật kèm theo
 
-- [[master]] — nạp bảng này vào, và sửa mục *"chưa rõ: tuổi Kyouya, Nagi"*
-- [[kyouya]] — sửa tuổi, và sửa cách đọc courtship
-- [[tuyen-xanxus]] — cập nhật mốc Cradle
-- 🔴 **Mọi `chapter_plan` về sau phải khai tuổi Tsuna** — luật số 2 ở [[dot8d-thu-tu-p2]]
+- 🔴 **Mọi `chapter_plan` phải khai tuổi Tsuna.**

@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn3-02 ban DeepSeek nhap", "phiên ngoại hổ ở bờ sông DeepSeek", "反派战争 番外十五 河边的虎 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-02-ds-the-canh]]", "[[pn3-02-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-01-ds-nhap]]", "[[pn2-07-ds-nhap]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[Doppo-Kunikida]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-02-ds-the-canh]]", "[[pn3-02-ds-kiem]]", "[[pn3-01-ds-nhap]]", "[[pn2-07-ds-nhap]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[Doppo-Kunikida]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 欠债 (C-a) và ba bản 支票 (C-b); GPT chấm (chọn 欠债二 sửa lại, ghép 支票三 + 支票一) và đọc thử; Claude kiểm, sắp lại thời gian, viết bù lên ~2.200 chữ (xem pn3-02-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/9a3bc3dd-399c-4ff2-9635-850a01f08bf7"

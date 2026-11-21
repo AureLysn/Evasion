@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn2-01 ban DeepSeek nhap", "phiên ngoại Trước ngày có khách lạ DeepSeek", "反派战争 番外五 有客来之前 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-the-canh]]", "[[pn2-01-ds-kiem]]", "[[deepseek-20261115]]", "[[pn1-04-ds-nhap]]", "[[Akutagawa-Ryunosuke]]", "[[Kawahira]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-the-canh]]", "[[pn2-01-ds-kiem]]", "[[pn1-04-ds-nhap]]", "[[Akutagawa-Ryunosuke]]", "[[Kawahira]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A, B, D và ba bản C2; GPT chấm (ghép C-3 + C-1: mời riêng ngoài bảy suất, việc là trông chừng cục diện); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa (xem pn2-01-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/9d5a18d5-0cc9-4db2-8e62-07fd4f3e320a"

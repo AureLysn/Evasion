@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 38 PPCT", "ban nhap tieng Trung ch38", "noi ba dao lenh chu ban nhap", "反派战争38 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan|plan ch38]]", "[[arc-5-ke-san-va-con-moi]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan|plan ch38]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

@@ -10,7 +10,7 @@ chapter: 35
 canon_layer: planned
 status: active
 aliases: ["kiem ch35 ban DeepSeek", "kiểm ch35 bản song song", "ch35 ds kiem PPCT"]
-related: ["[[ch35-ds-nhap]]", "[[ch35-ds-the-canh]]", "[[deepseek-20261115]]"]
+related: ["[[ch35-ds-nhap]]", "[[ch35-ds-the-canh]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat arc 5 https://chat.deepseek.com/a/chat/s/1d618e18-7086-41df-a58e-9d0341907277 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af9b8b3-aa7c-83ec-b9fa-9a4b1ee99fc2"

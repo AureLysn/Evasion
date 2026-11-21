@@ -12,7 +12,7 @@ needed_before:
   chapter: "truoc khi chot q-loi-giai-bi-an-trung-tam"
 decision_owner: user
 aliases: ["vat pham tren nguoi Tsuna la gi", "nhan do la gi", "nhan deo o co", "nhan xanh co phai nhan Vongola", "num vu cam co phai bau troi", "ba vat pham bau troi co du khong"]
-related: ["[[fact-vat-pham-tren-nguoi-tsuna]]", "[[q-loi-giai-bi-an-trung-tam]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[Vongola-Ring]]", "[[Tri-ni-sette]]"]
+related: ["[[fact-vat-pham-tren-nguoi-tsuna]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[Vongola-Ring]]", "[[Tri-ni-sette]]"]
 source:
   type: fic_text
   ref: "Tien truyen thuong; 反派战争 ch4, ch8, ch9, ch14, ch15 + ghi chu tac gia ch15"
@@ -35,7 +35,7 @@ Giả thuyết trung tâm của Aurel — Tsuna đeo đủ **ba vật phẩm b�
 
 ## Cần chốt trước
 
-Trước khi chốt [[q-loi-giai-bi-an-trung-tam]].
+Trước khi chốt q-loi-giai-bi-an-trung-tam.
 
 ## Ai quyết
 

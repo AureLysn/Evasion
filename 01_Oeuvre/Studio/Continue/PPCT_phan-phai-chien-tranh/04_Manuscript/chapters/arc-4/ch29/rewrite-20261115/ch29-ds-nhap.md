@@ -13,7 +13,7 @@ pov: [character.PPCT.sola-ui]
 language: zh
 title: "【太纲无差】反派战争29（DeepSeek版）"
 aliases: ["ch29 ban DeepSeek nhap", "chương 29 bản song song DeepSeek", "反派战争29 DeepSeek"]
-related: ["[[ch29-ds-the-canh]]", "[[ch29-ds-kiem]]", "[[deepseek-20261115]]", "[[ch28-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch29/ch29-chapter|ch29-chapter (aurel-main, final)]]"]
+related: ["[[ch29-ds-the-canh]]", "[[ch29-ds-kiem]]", "[[ch28-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch29/ch29-chapter|ch29-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch29-ds-the-canh (2 lượt: A, rồi B–D); Claude kiểm lượt 1 và sửa (xem ch29-ds-kiem). Không dùng văn bản ch29-chapter final. Chat arc 4: https://chat.deepseek.com/a/chat/s/1e453ac0-73fe-49db-8741-b8d25c292c9a"

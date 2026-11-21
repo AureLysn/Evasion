@@ -10,7 +10,7 @@ chapter: "pn2-06"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-06 ban DeepSeek", "kiểm phiên ngoại ngày định mệnh", "pn2-06 ds kiem PPCT"]
-related: ["[[pn2-06-ds-nhap]]", "[[pn2-06-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Talbot]]", "[[Lal-Mirch]]", "[[Luce]]", "[[Bermuda-von-Veckenschtein]]", "[[Kawahira]]"]
+related: ["[[pn2-06-ds-nhap]]", "[[pn2-06-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Talbot]]", "[[Lal-Mirch]]", "[[Luce]]", "[[Bermuda-von-Veckenschtein]]", "[[Kawahira]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/aab31dcc-1a5c-44c2-bf7b-7cf3c3786c64 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd3969-cd64-83ec-947b-fa5847f9b33b"

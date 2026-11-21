@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争49（DeepSeek版）"
 aliases: ["ch49 ban DeepSeek nhap", "chương 49 bản song song DeepSeek", "反派战争49 DeepSeek"]
-related: ["[[ch49-ds-plan]]", "[[ch49-ds-the-canh]]", "[[ch49-ds-kiem]]", "[[deepseek-20261115]]", "[[ch48-ds-nhap]]", "[[ch47-ds-nhap]]"]
+related: ["[[ch49-ds-plan]]", "[[ch49-ds-the-canh]]", "[[ch49-ds-kiem]]", "[[ch48-ds-nhap]]", "[[ch47-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch49-ds-the-canh (3 lượt: A–B; C–D; một đoạn bù giữa B và C); Claude kiểm, chia đoạn và sửa; GPT đọc thử, Claude áp các điểm đã kiểm (xem ch49-ds-kiem). Bản aurel-main chưa có ch49. Chat ch49: https://chat.deepseek.com/a/chat/s/5fa51a23-00bb-4df0-b5f4-900ff295eb66"

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch24 PPCT", "dan y chuong 24 PPCT", "令咒 ch24", "Dazai thay lenh chu doi tay", "nuoc co sup ch24"]
-related: ["[[arc-3-hai-cay-thuong]]", "[[sola-ui-gianh-lenh-chu]]", "[[to-caster-bat-ryunosuke]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-he-qua-thay-to-caster]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[diarmuid]]", "[[sola-ui]]", "[[kayneth]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-to-caster-khac-che-to-saber]]", "[[hook-he-qua-thay-to-caster]]", "[[diarmuid]]", "[[sola-ui]]", "[[kayneth]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — Aurel duyet ca C1–C6 theo de xuat, 22/09/2026"

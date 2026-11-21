@@ -7,7 +7,7 @@ project: BCMF
 canon_layer: planned
 status: proposed
 aliases: ["tropes BCMF", "dinh vi trope BCMF", "định vị trope BCMF", "ban do trope BCMF", "BCMF dung trope nao", "tang 1 2 3 4 BCMF", "analyze tropes BCMF", "nhip tra hook BCMF", "ket cau BCMF", "kết cấu BCMF"]
-related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/00_Overview/drop-point|drop-point-bcmf]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[crossover-bcmf]]", "[[aurel-main-bcmf]]", "[[khung-conan-bcmf]]", "[[arc-1-nha-kudo-bcmf]]", "[[qd-truc-conan-to-chuc-bcmf]]", "[[trope-fandom-khr]]", "[[trope-fandom-bsd]]", "[[trope-fandom-conan]]", "[[Beika-Murder-Rate]]", "[[Floating-Timeline]]", "[[quan-anh-the-reaction-fic]]", "[[xuyen-viet-cong-luoc-van-nhan-me]]", "[[q-ky-uc-sau-buoi-chieu-bcmf]]"]
+related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/00_Overview/drop-point|drop-point-bcmf]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[crossover-bcmf]]", "[[aurel-main-bcmf]]", "[[trope-fandom-khr]]", "[[trope-fandom-bsd]]", "[[trope-fandom-conan]]", "[[Beika-Murder-Rate]]", "[[Floating-Timeline]]", "[[quan-anh-the-reaction-fic]]", "[[xuyen-viet-cong-luoc-van-nhan-me]]", "[[q-ky-uc-sau-buoi-chieu-bcmf]]"]
 source:
   type: inference
   ref: "analyze-tropes 28/09/2026. Tang 1: nguyen van zh ch1-24 (nguyen-van-zh-bcmf, doc lai 28/09 cho 阅前须知, 直播, cau mo ch24) + events/ (16) + hooks/ (25) + drop-point + style/. Buoc tag BO QUA theo Aurel 28/09 (epub khong co dc:subject). Tang 2: trope-fandom-khr (0.5), trope-fandom-bsd (0.6), trope-fandom-conan (0.55). Tang 3: quan-anh-the-reaction-fic (0.55), xuyen-viet-cong-luoc-van-nhan-me (0.6). hook_ledger.py exit 2 (khong co chapter_summary; hook ghi 'chN' khong phai 'P1-ChN') - nhip DO TAY tu events/, Aurel chon huong A 28/09"
@@ -16,7 +16,7 @@ confidence: 0.5
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # BCMF — trope và cấu trúc, trên bốn tầng
@@ -34,7 +34,7 @@ last_updated: 2026-09-28
 | 1. Tác giả gốc | ✅ một phần | **Bỏ bước tag** (Aurel 28/09 — epub không có tag). **`hook_ledger.py` thoát 2**: không có `chapter_summary`, và hook ghi chương dạng `"ch4"` trong khi ledger ghép khoá `P1-Ch4`. Nhịp **đo tay** từ `events/` (Aurel chọn hướng A, 28/09). Số trạng thái đổi / chương: **chưa đo** |
 | 2. Fandom | ✅ | KHR · BSD · Conan — ba bản đồ, đọc phần dự án chạm tới |
 | 3. Thể loại | ✅ | [[quan-anh-the-reaction-fic]] · [[xuyen-viet-cong-luoc-van-nhan-me]] |
-| 4. Định vị | ✅ | neo vào [[khung-conan-bcmf]] + [[arc-1-nha-kudo-bcmf]] (cả hai `draft`, chờ duyệt) |
+| 4. Định vị | 🟡 | khung cũ đã xóa khi reset 21/11/2026; mọi dòng `proposed`, định lại khi có khung mới |
 
 ---
 
@@ -224,16 +224,16 @@ Trục F: chưa mở câu hỏi. Chỉ mở khi một dàn ý **muốn** tua l�
 |---|---|---|---|---|---|---|
 | 1 | Phòng chiếu **trực tiếp hiện tại**, không chiếu quá khứ/tương lai | nguồn · thể loại B | giữ **bẻ** | mọi chương | cách tác giả tự đặt (直播, ch7–8) | `proposed` |
 | 2 | Vạn nhân mê quanh 27 | nguồn · KHR 2e · BSD Trục 3 | giữ **bẻ**: chú ý đến từ máy quay, không từ sức hút; Dazai **nhìn**, không được nhìn | mọi chương có phòng | ch24 hai đoạn đầu; xung đột KHR ↔ BSD đã được tác giả phân xử | `proposed` — nếu chốt, ghi vào [[crossover-bcmf]] |
-| 3 | Phòng sửa tương lai | nguồn · thể loại D | giữ **một cửa**: đèn đỏ, người trong phòng tự chọn | arc 1 ch31 (đèn đỏ 3) | 1.5, 1.6 — người trong phòng chỉ đổi bằng biết | `proposed` |
-| 4 | Tổ chức bị diệt / lật mục tiêu cuối | Conan §2.5 (`impression`) | **tránh** | cả 柯南篇 | — | ✅ **đã chốt** — [[qd-truc-conan-to-chuc-bcmf]] |
-| 5 | Án mạng Beika | nguồn · [[Beika-Murder-Rate]] | giữ **mổ xẻ** — là dữ liệu, không phải gag | arc 1 ch28 · arc 2 trục chính | ch14–16 | `proposed` |
-| 6 | Dòng thời gian nổi | nguồn · [[Floating-Timeline]] | giữ **mổ xẻ** — trả ở arc 3 (27 chặn một lần nhảy ngày) | [[khung-conan-bcmf]] arc 3 | ch7, ch16 | `proposed` |
-| 7 | Conan = Shinichi lộ trước ai | Conan Trục 3 · thể loại nhịp 3 | **chưa định** | arc 2 | — | ❌ [[q-ai-biet-conan-la-shinichi-bcmf]] |
+| 3 | Phòng sửa tương lai | nguồn · thể loại D | giữ **một cửa**: đèn đỏ, người trong phòng tự chọn | — | 1.5, 1.6 — người trong phòng chỉ đổi bằng biết | `proposed` |
+| 4 | Tổ chức bị diệt / lật mục tiêu cuối | Conan §2.5 (`impression`) | **tránh** | cả 柯南篇 | — | `proposed` *(decision trục Conan đã xóa khi reset)* |
+| 5 | Án mạng Beika | nguồn · [[Beika-Murder-Rate]] | giữ **mổ xẻ** — là dữ liệu, không phải gag | — | ch14–16 | `proposed` |
+| 6 | Dòng thời gian nổi | nguồn · [[Floating-Timeline]] | giữ **mổ xẻ** | — | ch7, ch16 | `proposed` |
+| 7 | Conan = Shinichi lộ trước ai | Conan Trục 3 · thể loại nhịp 3 | **chưa định** | — | — | ❌ [[q-ai-biet-conan-la-shinichi-bcmf]] |
 | 8 | Ran phát hiện rồi chia tay · 快新 | Conan Trục 3, 6 | **tránh** | — | Ran không trong phòng; Kaito chỉ ở góc | `proposed` |
 | 9 | Fix-it 警校组 | Conan Trục 5 | **tránh** | — | Mốc sau M25, 4/5 đã chết trong canon; không phải trục 柯南篇 (thời gian). [[h-satou-quen-thuoc-furuya-bcmf]] là **nhịp nhận ra**, không phải cửa fix-it — dàn ý dễ với tay tới nó theo mặc định | `proposed` |
 | 10 | Thay thế Tsuna / Mary Sue / OC | KHR 2b–2d · xuyên việt B | **tránh** | — | tác giả không có OC | `proposed` |
-| 11 | Conan nghi người mới | Conan nhịp 2 (`impression`) | nguồn đã làm **thẳng** (ch6, ch23–24); arc 1 ch27 đi tiếp | arc 1 ch27 | neo vào **nguồn**, không vào bản đồ | `proposed` |
-| 12 | Nhịp trả hook | nguồn 1.4 | cảnh khép trong **0–2 chương**; chi tiết nhỏ được phép nằm **~11 chương** | arc 1: [[h-coi-cua-cho-o-tam-bcmf]] trả ở ch25 (khoảng 1) ✅ · [[h-nua-dem-tiep-theo-bcmf]] trả ở ch30 (khoảng 14) — dài hơn cả hai ngoại lệ của tác giả | đo tay | `proposed` — Aurel xem ch30 |
+| 11 | Conan nghi người mới | Conan nhịp 2 (`impression`) | nguồn đã làm **thẳng** (ch6, ch23–24) | — | neo vào **nguồn**, không vào bản đồ | `proposed` |
+| 12 | Nhịp trả hook | nguồn 1.4 | cảnh khép trong **0–2 chương**; chi tiết nhỏ được phép nằm **~11 chương** | — | đo tay | `proposed` |
 | 13 | Nhân vật trong phòng đổi qua hé lộ | nguồn 1.6 | giữ | mọi chương | lệch cơ chế = lệch giọng | `proposed` |
 
 ---
@@ -242,8 +242,6 @@ Trục F: chưa mở câu hỏi. Chỉ mở khi một dàn ý **muốn** tua l�
 
 1. ✅ **"all27" và "xem ảnh phi điển hình" không có trong nguyên văn** (1.1). Aurel 28/09: hạ xuống *"theo bản convert"* —
    đã sửa ở [[watch-frame-bcmf]] và [[BCMF]]. Trang Lofter chưa kiểm.
-2. **Dòng 12 — ch30**: [[h-nua-dem-tiep-theo-bcmf]] mở 14 chương mới trả; ngoại lệ dài nhất của tác giả là 11–12. Có thể chấp nhận
-   (0 giờ cần dựng), nhưng là con số để Aurel biết khi duyệt [[arc-1-nha-kudo-bcmf]].
 3. **`hook_ledger`**: muốn dùng được cho BCMF thì cần `chapter_summary` cho ch1–24 **và** đổi `introduced.chapter` của 25 hook sang
    dạng `P1-ChN`. Ngay cả khi đó, khoảng trả vẫn trống — note `hook` chỉ giữ tuyến **còn mở**. Aurel chọn không làm (28/09).
 4. **Chưa đo**: số trạng thái đổi / chương.

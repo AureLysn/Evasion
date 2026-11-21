@@ -19,7 +19,7 @@ target_paragraph_mean: 45
 target_sentence_median: 19
 status: planned
 aliases: ["canh 25-03 pha thuong", "破魔 ch25", "Lancer be gay Gae Buidhe", "hoang tuong vi gay"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[Diarmuid-Ua-Duibhne]]", "[[hook-he-qua-thay-to-caster]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[Diarmuid-Ua-Duibhne]]", "[[hook-he-qua-thay-to-caster]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -55,7 +55,7 @@ Hành động lớn nhất arc — viết **nhỏ**. Một bảo cụ gãy như 
 - Canon: *"Lancer broke his Gae Buidhe in order for Saber to use her Excalibur."* — lời nguyền tan khi thương bị phá — [[Diarmuid-Ua-Duibhne]]. Canon **không** mô tả chi tiết cách bẻ trong note này → writer tự dựng, giữ **ngắn**.
 - ch21: 「两把宝具都还在他手里。一把也没有断。」 — cảnh này là lúc câu đó hết đúng. **Không** lặp nguyên câu.
 - Tên: 必灭的黄蔷薇 (Gáe Buidhe, ngắn, vàng) · 破魔的红蔷薇 (Gáe Dearg, dài, đỏ) — ch4 nguyên tác 「破魔的红蔷薇，以及必灭的黄蔷薇。」
-- Decision: [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]] — trước quyết đấu, cùng arc; không khủng hoảng thay thế.
+- Decision: lancer-tu-pha-gae-buidhe-truoc-quyet-dau — trước quyết đấu, cùng arc; không khủng hoảng thay thế.
 
 ## Kết cảnh phải đạt được gì
 

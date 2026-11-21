@@ -13,7 +13,7 @@ pov: [character.PPCT.kiritsugu]
 language: zh
 title: "【太纲无差】反派战争41（DeepSeek版）"
 aliases: ["ch41 ban DeepSeek nhap", "chương 41 bản song song DeepSeek", "反派战争41 DeepSeek"]
-related: ["[[ch41-ds-the-canh]]", "[[ch41-ds-kiem]]", "[[deepseek-20261115]]", "[[ch40-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch41/ch41-chapter|ch41-chapter (aurel-main, final)]]"]
+related: ["[[ch41-ds-the-canh]]", "[[ch41-ds-kiem]]", "[[ch40-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch41/ch41-chapter|ch41-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch41-ds-the-canh (3 lượt: A–B; C–E; đoạn bù sàn phòng Irisviel); Claude kiểm lượt 1 và sửa (xem ch41-ds-kiem). Không dùng văn bản ch41-chapter final. Chat arc 6 (ch41–42): https://chat.deepseek.com/a/chat/s/48c4c382-085c-4b4d-b57a-172b04c43e65"

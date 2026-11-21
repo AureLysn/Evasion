@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.gilgamesh]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch31 PPCT", "dan y chuong 31 PPCT", "礼物 ch31", "Tokiomi chet PPCT", "Archer doi Master PPCT", "POV Gilgamesh ch31"]
-related: ["[[arc-4-ba-dao-lenh-chu]]", "[[20260923-canon-lenh-chu-tokiomi]]", "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[Command-Spells]]", "[[gilgamesh]]", "[[tokiomi]]", "[[kirei]]", "[[kirei-van-la-master]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[Command-Spells]]", "[[gilgamesh]]", "[[tokiomi]]", "[[kirei]]", "[[kirei-van-la-master]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 23/09/2026 — chuong 3 arc 4; POV Gilgamesh do Aurel chot 23/09; AI de xuat C1–C7; Aurel duyet ca bay 23/09/2026"
@@ -25,8 +25,8 @@ last_updated: 2026-09-23
 
 # Kế hoạch chương 31 — 礼物 (Quà) · ✅ AUREL DUYỆT 23/09/2026
 
-> Chương 3 arc 4. Khung arc: *Đêm ngày 10: Kirei và Gilgamesh; Tokiomi tặng dao; Tokiomi chết; Archer đổi Master* ([[arc-4-ba-dao-lenh-chu]]).
-> **Đã chốt:** POV **Gilgamesh** (Aurel 23/09/2026). Canon đã đối chiếu: [[20260923-canon-lenh-chu-tokiomi]].
+> Chương 3 arc 4. Khung arc: *Đêm ngày 10: Kirei và Gilgamesh; Tokiomi tặng dao; Tokiomi chết; Archer đổi Master* (arc-4-ba-dao-lenh-chu).
+> **Đã chốt:** POV **Gilgamesh** (Aurel 23/09/2026). Canon đã đối chiếu: 20260923-canon-lenh-chu-tokiomi.
 > Aurel duyệt **cả C1–C7 theo đề xuất** (23/09/2026). Thẻ cảnh 01–03 đã viết.
 
 ## Mục tiêu chương
@@ -50,12 +50,12 @@ Tokiomi chết **đúng như canon**, dưới con dao chính ông tặng. Ngư�
 
 ## Bí mật CẤM lộ / chi tiết CẤM viết
 
-- 🔴 **Bản chất Tsuna** — ❌ [[q-loi-giai-bi-an-trung-tam]]. [[gilgamesh]] đã **ngờ** "Tsuna là loại bảo vật thời không nào" (ch9), và POV hắn là chỗ **dễ lộ nhất** arc 4. Nội tâm Gilgamesh **không** gọi tên loại, **không** nhắc nhẫn Mare, **không** nhắc thế giới song song, **không** nhắc 「时空」.
+- 🔴 **Bản chất Tsuna** — ❌ q-loi-giai-bi-an-trung-tam. [[gilgamesh]] đã **ngờ** "Tsuna là loại bảo vật thời không nào" (ch9), và POV hắn là chỗ **dễ lộ nhất** arc 4. Nội tâm Gilgamesh **không** gọi tên loại, **không** nhắc nhẫn Mare, **không** nhắc thế giới song song, **không** nhắc 「时空」.
 - [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]]: Gilgamesh không biết. Không lên trang.
-- ❌ [[q-ke-hoach-that-bai-cua-dazai]] · ❌ [[q-loi-moi-hien-the]]: không lên trang.
+- ❌ [[q-ke-hoach-that-bai-cua-dazai]] · ❌ q-loi-moi-hien-the: không lên trang.
 - **Dị năng của Dazai** ([[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]): không. Gilgamesh có thể nhớ Dazai là **"tên trộm"** (ch9), không hơn.
 - **POV Kirei / nội tâm Kirei:** không (arc 4, Đã chốt 3). Gilgamesh **đọc** Kirei từ bên ngoài được, nhưng không kể thay Kirei.
-- **Số lệnh chú của Kirei:** **không** nêu con số — hai nguồn canon lệch nhau ([[20260923-canon-lenh-chu-tokiomi]] #9).
+- **Số lệnh chú của Kirei:** **không** nêu con số — hai nguồn canon lệch nhau (20260923-canon-lenh-chu-tokiomi #9).
 - **Lệnh chú của Tokiomi sau khi ông chết:** không viết (#10, không nguồn).
 - **Chi tiết tàn nhẫn ngoài canon:** không (arc 4, Ràng buộc). Gilgamesh **không động tay**.
 - **Risei:** không lên trang (vẫn sống, ch29 C3).
@@ -85,7 +85,7 @@ Chương **dệt canon** (sự kiện canon, POV mới) — [[05_Evasion/01_Oeuv
 ## Định dạng
 
 - Tiêu đề `【太纲无差】反派战争31`; dòng `※本章为同人续写，非原作者西州所写。`
-- Tên riêng: 远坂时臣 (**không** dùng lỗi gõ 远坂时辰) · 吉尔伽美什 / Archer · 言峰绮礼 · Azoth剑 · 英雄王 — [[20260923-canon-lenh-chu-tokiomi]] #12.
+- Tên riêng: 远坂时臣 (**không** dùng lỗi gõ 远坂时辰) · 吉尔伽美什 / Archer · 言峰绮礼 · Azoth剑 · 英雄王 — 20260923-canon-lenh-chu-tokiomi #12.
 - Chữ Hán cho **dinh thự Tōsaka**: ✅ **远坂宅** (ch6 nguyên tác) · **远坂宅邸** (ch9 nguyên tác) — tra 23/09/2026.
 - Cách Gilgamesh gọi người: 「杂种」 — [[gilgamesh]] *Giọng*. Với Tokiomi: **「时臣」** *(C3)* — khớp nguyên văn ch9 「你真是胆大包天哪，时臣」.
 
@@ -94,7 +94,7 @@ Chương **dệt canon** (sự kiện canon, POV mới) — [[05_Evasion/01_Oeuv
 | # | Câu hỏi | Đề xuất | Vì sao · phương án khác |
 |---|---|---|---|
 | C1 | **Vì sao Tokiomi tiễn Kirei**, khi trigger canon (liên minh với Irisviel, Risei chết) không có trong PPCT | **(a) Assassin đã mất từ ch17, vai trò của Kirei đã xong.** Tokiomi, đúng kiểu "ưu nhã", thấy phải tiễn đệ tử về **trước khi** chiến tranh vào nửa nguy hiểm, và thấy "Master bại trận" ở lại lâu chỉ thêm rủi ro cho sự trung lập của nhà thờ | Không cần nhân vật mới hay dữ kiện mới; Tokiomi tự quyết, đúng tính ông. *Khác:* (b) Tokiomi nghe Kiritsugu đang để mắt tới nhà thờ, nối được với ch30, nhưng Tokiomi biết qua đâu? Phải bịa thêm một kênh tin; (c) Risei đề nghị, kéo Risei lên trang, ngược ch28–29 C3 |
-| C2 | Gilgamesh và Kirei **đã trò chuyện trước** chưa ([[20260923-canon-lenh-chu-tokiomi]] #6) | **Rồi, nhiều lần, off-page từ sau Vương Yến** (theo canon). ch31 chỉ nhắc **một câu** hồi tưởng | "Để Kirei giết chủ" cần một lịch sử; canon đã có. *Khác:* ch31 là lần đầu, khiến Gilgamesh đồng ý quá nhanh và mất đà |
+| C2 | Gilgamesh và Kirei **đã trò chuyện trước** chưa (20260923-canon-lenh-chu-tokiomi #6) | **Rồi, nhiều lần, off-page từ sau Vương Yến** (theo canon). ch31 chỉ nhắc **một câu** hồi tưởng | "Để Kirei giết chủ" cần một lịch sử; canon đã có. *Khác:* ch31 là lần đầu, khiến Gilgamesh đồng ý quá nhanh và mất đà |
 | C3 | Gilgamesh gọi Tokiomi thế nào trong thoại | 🟡 **「时臣」**, gọi thẳng tên, **không** kính ngữ | Đúng thế vua–thần canon. *Khác:* 「那个男人」 lạnh hơn, nhưng dùng một lần ở beat 2 là đủ |
 | C4 | Cái cớ PPCT cho chữ "nhàm chán" | **ch9:** Tokiomi dùng **lệnh chú duy nhất** gọi hắn về **đúng lúc** hắn định rút một thứ khỏi kho trước Caster. Đó là lần hắn vui nhất trận, và Tokiomi cắt ngang | Nối canon ("Tokiomi nhàm chán") với `fic_explicit` ch9 mà không bịa gì. Chạm [[hook-vi-sao-tsuna-khong-phai-nguoi]] ở mức **"một món đồ chưa kịp lấy"**. *Khác:* không nhắc Tsuna, an toàn hơn nhưng mất sợi chỉ duy nhất nối ch31 với tổ Caster |
 | C5 | Gilgamesh **thấy** lệnh chú của Sola-Ui trên tay Kirei không | **Có**. Hắn thấy **nhiều hơn** mức một Master "đã thua" đáng có, đoán ra nguồn, và thấy thú vị. **Không** con số | Là **payoff** cho ch28–29 với người đọc. Gilgamesh ở `known_by` [[kirei-van-la-master]], nên thấy là hợp lệ. *Khác:* không thấy, sạch hơn, nhưng ba đạo lệnh chú thành một đạo cụ không ai nhìn |
@@ -106,7 +106,7 @@ Chương **dệt canon** (sự kiện canon, POV mới) — [[05_Evasion/01_Oeuv
 | Điều kiện | Trạng thái |
 |---|---|
 | POV Gilgamesh | ✅ Aurel 23/09/2026 |
-| Canon: lệnh chú Tokiomi, kế tự sát, Azoth剑, Gilgamesh không động tay | ✅ [[20260923-canon-lenh-chu-tokiomi]] · [[Gilgamesh-Archer]] |
+| Canon: lệnh chú Tokiomi, kế tự sát, Azoth剑, Gilgamesh không động tay | ✅ 20260923-canon-lenh-chu-tokiomi · [[Gilgamesh-Archer]] |
 | Chốt C1–C7 và duyệt plan này | ✅ 23/09/2026 |
 | Thẻ cảnh 01–03: lượt thoại, thuật ngữ, trích nguyên văn ch9 (lệnh chú của Tokiomi, 「英雄王」) | ✅ 23/09 |
 | Chữ Hán dinh thự Tōsaka (tra ch6 nguyên tác) | ✅ 远坂宅 / 远坂宅邸 |

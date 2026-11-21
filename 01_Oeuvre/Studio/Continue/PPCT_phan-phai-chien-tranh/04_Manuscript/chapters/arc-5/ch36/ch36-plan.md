@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.450"
 aliases: ["plan ch36 PPCT", "dan y chuong 36 PPCT", "ngoi doi dien ch36", "对坐 ch36", "Dazai gap Kiritsugu"]
-related: ["[[arc-5-ke-san-va-con-moi]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[to-caster-hen-gap-kiritsugu]]", "[[kiritsugu-nhan-loi-hen]]", "[[to-caster-nhan-ra-archer-doi-chu]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-can-dazai-de-thang-archer]]", "[[fact-chi-so-tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[kirei-van-la-master]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-can-dazai-de-thang-archer]]", "[[fact-chi-so-tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 25/09/2026 — chuong 3 arc 5. AI de xuat C1–C10; Aurel 25/09: dong y C1–C10 theo de xuat"
@@ -25,7 +25,7 @@ last_updated: 2026-09-25
 
 # Kế hoạch chương 36 — Ngồi đối diện · ✅ AUREL DUYỆT 25/09/2026
 
-> Chương 3 arc 5. Khung arc: *Buổi gặp: Dazai (+ Tsuna 🟡) và Kiritsugu (+ Maiya/Saber 🟡). Đàm phán, **không đánh**. Đổi tin. Tên Kirei có lên không 🟡* ([[arc-5-ke-san-va-con-moi]]).
+> Chương 3 arc 5. Khung arc: *Buổi gặp: Dazai (+ Tsuna 🟡) và Kiritsugu (+ Maiya/Saber 🟡). Đàm phán, **không đánh**. Đổi tin. Tên Kirei có lên không 🟡* (arc-5-ke-san-va-con-moi).
 > Đã chốt ở arc (Aurel 24/09): **trao đổi tin, không liên minh** — Kiritsugu đưa "tổ Lancer đã rời Fuyuki", Dazai đưa 时臣「不在了」; **mỗi bên về với một nửa bức tranh**; căn cứ **không** lộ; dị năng Dazai **không** lên trang.
 > Aurel duyệt **cả C1–C10 theo đề xuất** (25/09/2026) — POV **Tsuna**; Kiritsugu **giữ lại** băng tối ngày 10 (C4). Thẻ cảnh 01–04 đã viết.
 
@@ -53,7 +53,7 @@ Hai kẻ đã chơi cờ với nhau từ xa suốt mười hai ngày, lần đ�
 ## Bí mật / chi tiết — cho phép và CẤM
 
 - [[kiritsugu-la-master-that]]: Tsuna và Dazai đã biết (ch4). Được viết tự nhiên.
-- 🔴 [[archer-doi-master-sang-kirei]]:
+- 🔴 archer-doi-master-sang-kirei:
   - **Dazai/Tsuna (L2):** được nói 时臣「不在了」 và 「Archer还在」 ở mức **đoán**. **Cấm:** chữ 死 cho 时臣 như điều chắc chắn; tên Kirei; nối Master mới với nhà thờ, với Master của Assassin hay với lệnh chú của Sola-Ui — **đó là ch38**.
   - **Kiritsugu: `unknown_to` → `suspected_by` (L2)** — nghe 时臣「不在了」 từ Dazai. Đây là **hệ quả của điểm 2 đã chốt ở arc** — ghi vào delta. POV Tsuna nên nội tâm Kiritsugu **không lên trang**; trên trang chỉ có một nhịp im.
 - 🔴 [[kirei-van-la-master]]: **không đổi** với ai. **Cấm** tên 言峰绮礼 trên trang *(C4)*; cấm Kiritsugu nói ra băng ghi tối ngày 10; cấm Dazai nói Assassin còn sống ([[dazai-biet-assassin-con-song]] — không đưa cho Kiritsugu).
@@ -62,7 +62,7 @@ Hai kẻ đã chơi cờ với nhau từ xa suốt mười hai ngày, lần đ�
 - **Tên:** Dazai **không** tự giới thiệu; tại bàn **không** ai gọi tên ai *(C8)*.
 - Đồ Vongola: **không** viết "không dùng ma lực". Con bọ "thôi nói" — tả ở mức **kết quả**, không giải thích cơ chế.
 - Saber **không** lên trang (Kiritsugu để cô ở lâu đài — ch35). Irisviel **không**.
-- ❌ [[q-loi-giai-bi-an-trung-tam]] · ❌ [[q-loi-moi-hien-the]] · ❌ [[q-ke-hoach-that-bai-cua-dazai]]: **không chạm**. Khi Kiritsugu hỏi *vì sao* chặn anh ta, Dazai **không** được giải thích mưu ngày 2 hay mục đích của tổ Caster.
+- ❌ q-loi-giai-bi-an-trung-tam · ❌ q-loi-moi-hien-the · ❌ [[q-ke-hoach-that-bai-cua-dazai]]: **không chạm**. Khi Kiritsugu hỏi *vì sao* chặn anh ta, Dazai **không** được giải thích mưu ngày 2 hay mục đích của tổ Caster.
 - **Không đánh.** Súng ở dưới áo Kiritsugu và trong tay Maiya — Tsuna cảm được, **không ai rút**. **Đừng bi kịch hoá:** không ai bị đe doạ thành lời.
 
 ## Ngân sách theo cảnh
@@ -128,4 +128,4 @@ Hai kẻ đã chơi cờ với nhau từ xa suốt mười hai ngày, lần đ�
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌ nào có `needed_before` rơi vào ch36. Phải **né**: [[q-loi-giai-bi-an-trung-tam]] · [[q-loi-moi-hien-the]] · [[q-ke-hoach-that-bai-cua-dazai]].
+Không có câu ❌ nào có `needed_before` rơi vào ch36. Phải **né**: q-loi-giai-bi-an-trung-tam · q-loi-moi-hien-the · [[q-ke-hoach-that-bai-cua-dazai]].

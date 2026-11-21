@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 22-02 ban tin", "tre mat tich Fuyuki", "an khong co ma luc"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[ryunosuke-gay-an-khong-servant]]", "[[Ryuunosuke-Uryuu]]", "[[fact-to-caster-thay-to-caster-goc]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[Ryuunosuke-Uryuu]]", "[[fact-to-caster-thay-to-caster-goc]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -49,7 +49,7 @@ last_updated: 2026-09-20
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- Chốt 15/09: Ryūnosuke gây án **không có Servant**; tổ Caster bắt hắn — [[ryunosuke-gay-an-khong-servant]]
+- Chốt 15/09: Ryūnosuke gây án **không có Servant**; tổ Caster bắt hắn — ryunosuke-gay-an-khong-servant
 - Canon (phần **không** phụ thuộc Servant): sát nhân hàng loạt, nhắm **phụ nữ trẻ và trẻ em**, đã giết 42 người mà **chưa từng bị nghi** — [[Ryuunosuke-Uryuu]]
 - Tác giả xác nhận tổ Caster gốc **không tồn tại** trong PPCT — [[fact-to-caster-thay-to-caster-goc]]
 - Canon **đã loại**: hang ổ cống ngầm, vòng tay thôi miên — đồ của Caster gốc

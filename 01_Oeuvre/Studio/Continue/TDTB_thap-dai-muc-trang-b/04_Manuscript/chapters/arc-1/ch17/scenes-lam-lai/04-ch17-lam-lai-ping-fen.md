@@ -19,7 +19,7 @@ foreshadow:
 target_words: 1000
 status: final
 aliases: ["the lam lai ch17 canh 04", "ch17 lam lai ping-fen"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---

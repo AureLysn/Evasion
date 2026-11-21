@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Byakuran", "白蘭", "vua Bac Trieu Tien", "Sky Mare Ring", "boss Gesso", "soulmate cua Tsuna", "em trai Hawks", "nguoi nghe cac phien ban song song", "Parallel Sight"]
-related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[soulmate-au]]", "[[he-bond]]", "[[hawks-takami-keigo]]", "[[midoriya-izuku]]", "[[qd-huong-arc-01]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[soulmate-au]]", "[[he-bond]]", "[[hawks-takami-keigo]]", "[[midoriya-izuku]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch5, ch12, ch36-38, ch46, ch53, ch58, ch120, ch122, ch123, ch126."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Byakuran
@@ -118,7 +118,3 @@ phải cản. **Đang né vấn đề Hawks**, cùng Izuku.
 - **Sáu Funeral Wreath** — Kikyo · Zakuro · Bluebell · Daisy · Torikabuto · Izuku
 - **Yuni** — cậu đã lừa cô ở dòng thời gian trước; giờ cô ngủ dựa vào cậu
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #3: **Hawks tìm tới cậu.** Và [[theodor-manz]] đang **giết dần
-các Fake Funeral Wreath của cậu** mà cậu không biết — một trong ba ngòi nổ của arc.

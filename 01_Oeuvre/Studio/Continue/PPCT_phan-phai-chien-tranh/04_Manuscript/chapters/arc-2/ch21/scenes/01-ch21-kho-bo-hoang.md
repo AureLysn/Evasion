@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 18
 status: planned
 aliases: ["canh 21-01 kho bo hoang", "mang chu ve", "Kayneth mat ma thuat"]
-related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[hyatt-da-sap-kayneth-chua-bi-phe]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -49,8 +49,8 @@ last_updated: 2026-09-20
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch19 *(viết tiếp)*: Kayneth bị Origin Bullet phế; Lancer bỏ trận với Saber, về kịp mang chủ đi — [[kayneth-tap-kich-lau-dai-einzbern]]
-- Canon: sau vụ Hyatt, tổ Lancer dời về **một nhà kho bỏ hoang** — [[Kayneth-El-Melloi-Archibald]] · [[hyatt-da-sap-kayneth-chua-bi-phe]]
+- ch19 *(viết tiếp)*: Kayneth bị Origin Bullet phế; Lancer bỏ trận với Saber, về kịp mang chủ đi — kayneth-tap-kich-lau-dai-einzbern
+- Canon: sau vụ Hyatt, tổ Lancer dời về **một nhà kho bỏ hoang** — [[Kayneth-El-Melloi-Archibald]] · hyatt-da-sap-kayneth-chua-bi-phe
 - Canon: Sola-Ui **chữa được nội tạng**, nhưng cơ và thần kinh hỏng không cứu được; Kayneth **không dùng được ma thuật nữa** — [[Sola-Ui-Nuada-Re-Sophia-Ri]] · [[Kayneth-El-Melloi-Archibald]]
 - ch6 (cách gọi đủ tên): 「肯尼斯·艾尔梅洛伊·阿其波卢德，魔术协会时钟塔的十二君主（Lord）之一」
 

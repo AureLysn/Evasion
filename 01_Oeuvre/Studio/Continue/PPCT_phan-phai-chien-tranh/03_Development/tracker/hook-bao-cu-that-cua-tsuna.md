@@ -11,17 +11,17 @@ introduced:
   arc: chien-tranh-chen-thanh
   chapter: 9
 payoff:
-  status: planned
-  arc: arc-7-dem-cuoi
-  chapter: 
+  status: unplanned
+  arc:
+  chapter:
 aliases: ["bao cu that cua Tsuna", "Tsuna co bao cu gi", "纲吉的宝具到底是什么", "cau do bao cu"]
-related: ["[[fact-zero-point-so-dai]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[q-loi-giai-bi-an-trung-tam]]", "[[loi-giai-bi-an-trung-tam]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
+related: ["[[fact-zero-point-so-dai]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
 source:
   type: author_comment
   ref: "Ghi chu tac gia cuoi ch9"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -44,4 +44,3 @@ Ghi chú ch9: 「你们可以猜猜纲吉的宝具到底是什么？」
 
 ## Phương án payoff đang cân nhắc
 
-✅ *30/09/2026 — lời giải chốt: [[loi-giai-bi-an-trung-tam]].* Payoff ở **arc 7** theo **mức lộ C**: được lộ Tsuna là bảo vật / bảo cụ mang bộ bầu trời (hai trục thời–không); **không** lộ Byakuran là người tặng, **không** lộ kế vị 7³ — [[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]. `status` giữ `open` tới khi một chương trả.

@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Levi EMB", "Levi A Than trong nhanh", "Lightning cua Xanxus", "nguoi to bang cai cua"]
-related: ["[[Levi-A-Than]]", "[[xanxus]]", "[[squalo]]", "[[belphegor]]", "[[mammon]]", "[[emb-chot-tuyen-varia]]", "[[tuoi-va-moc]]", "[[brat-ch4-chapter-ban-20261001]]", "[[brat-ch5-chapter-ban-20261001]]"]
+related: ["[[Levi-A-Than]]", "[[xanxus]]", "[[squalo]]", "[[belphegor]]", "[[mammon]]", "[[tuoi-va-moc]]"]
 source:
   type: inference
   ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR."
@@ -41,9 +41,9 @@ Cái làm anh ta thành trò cười không phải năng lực, mà là **mức 
 
 ## Nhánh này đã cho anh ta làm gì
 
-**[[brat-ch4-chapter-ban-20261001]]** — *"a Lightning the size of a door"*, và người gõ cửa báo [[mammon]] rằng boss muốn báo cáo trong mười phút, *"và anh ta nói bằng cái giọng ấy"*.
+*văn xuôi đã xóa* — *"a Lightning the size of a door"*, và người gõ cửa báo [[mammon]] rằng boss muốn báo cáo trong mười phút, *"và anh ta nói bằng cái giọng ấy"*.
 
-**[[brat-ch5-chapter-ban-20261001]]** — hai lần anh ta **nói đúng**:
+*văn xuôi đã xóa* — hai lần anh ta **nói đúng**:
 
 | | |
 |---|---|

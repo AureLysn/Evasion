@@ -10,7 +10,7 @@ chapter: 16
 canon_layer: planned
 status: active
 aliases: ["kiem ch16 ban DeepSeek", "kiểm ch16 bản song song", "ch16 ds kiem PPCT"]
-related: ["[[ch16-ds-nhap]]", "[[ch16-ds-the-canh]]", "[[deepseek-20261115]]"]
+related: ["[[ch16-ds-nhap]]", "[[ch16-ds-the-canh]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72 · GPT (project PPCT, Project-only memory) https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af976dd-1bb4-83ec-934c-378b3ddc3623"

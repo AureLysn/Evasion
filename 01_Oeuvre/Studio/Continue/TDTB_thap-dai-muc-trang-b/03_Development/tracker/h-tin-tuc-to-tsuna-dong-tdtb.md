@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Pheromone của Tsuna "rục rịch" khi ở gần Yamamoto
@@ -45,4 +45,3 @@ Thuốc cường hiệu che được mũi và máy, nhưng **chưa được th�
 | Chương | |
 |---|---|
 | ch15 | pheromone Tsuna *"蠢蠢欲动"* trước Yamamoto mất kiểm soát |
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] | thuốc **chịu được** qua đêm; hệ thống: *"检测结果：beta"*. Cái làm Tsuna căng người là **áp lực alpha đỉnh cấp**, không phải pheromone (*"可那跟信息素没有多大关系"*). Hook giữ `open`: thuốc mới thử một lần |

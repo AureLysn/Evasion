@@ -24,14 +24,14 @@ status: superseded
 superseded_by: "[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]"
 superseded_at: 2026-10-03
 aliases: ["canh 16-05 jian yi", "健一 ch16 TDTB", "Kenichi thay Yamamoto ra khoi phong Tsuna", "nhan chung Kenichi"]
-related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-plan]]", "[[suzuki-kenichi-tdtb]]", "[[kesuke-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[qd-kenichi-loi-dung-truoc-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[qd-co-che-hao-quang-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-plan]]", "[[suzuki-kenichi-tdtb]]", "[[kesuke-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[qd-co-che-hao-quang-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 05 — 健一 · POV Kenichi · ~500 chữ Hán · **khép chương**
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Mở bằng `与此同时` hoặc vạch `……`. Giọng Kenichi của 乐博: **lịch sự, nhấp trà, móc câu** — tính toán, không ác.
 > 🔴 Kenichi là **beta**: có thể ngửi thấy mùi alpha còn vương (C7), **không** suy ra gì về giới của Tsuna. Với anh, Tsuna là beta.
@@ -49,7 +49,7 @@ last_updated: 2026-10-03
    鹿野雪 sẽ mải tranh ở phía đó — và buông 圭介. Anh nghĩ tới việc đó như ở ch10: một câu nhẹ, đặt đúng chỗ, là đủ. **Chưa** làm gì.
 5. **Hạt A loé** (C5, một câu): *khuôn mẫu* quanh 鹿野雪 — tổ đạo diễn nói cậu ta là người *"最有眼缘"*, hình như ai gặp cũng thế;
    **trừ** 山本武, người vừa đi ra từ phòng người kia. Kenichi thấy lạ — một thoáng — rồi gác lại. **Không** nghĩ tiếp.
-   Chuyện 圭介 từng thế nào với 鹿野雪: [[qd-kenichi-loi-dung-truoc-tdtb]] cho phép **một ý thoáng**; thẻ này đề nghị **không** dùng ở ch16 (C5).
+   Chuyện 圭介 từng thế nào với 鹿野雪: qd-kenichi-loi-dung-truoc-tdtb cho phép **một ý thoáng**; thẻ này đề nghị **không** dùng ở ch16 (C5).
 6. **Câu cuối chương**: ngắn, móc, của Kenichi — ví dụ anh đổi hướng, không đi tìm tổ đạo diễn nữa, hoặc một câu thoại khẽ. Không lặp
    *"一见钟情吗……"*.
 

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch22 PPCT", "dan y chuong 22 PPCT", "ban tin ch22", "tre mat tich Fuyuki", "chia khoa xe ch22"]
-related: ["[[arc-2-moi-va-luoi]]", "[[ryunosuke-gay-an-khong-servant]]", "[[sola-ui-gianh-lenh-chu]]", "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Ryuunosuke-Uryuu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Ryuunosuke-Uryuu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 20/09/2026 — Aurel chot: POV Tsuna · Dazai biet mot nua · Ryunosuke khong len trang · ngay 6"
@@ -31,7 +31,7 @@ Ngày 6, màn hình bật lại. Chiến tranh Chén Thánh vẫn chạy — nh�
 
 ## Beat bắt buộc
 
-1. **Màn hình bật lại**: hết ngày nghỉ — 「明天屏幕还是要开的。」 Dazai rà lại tổ Lancer: Kayneth **còn sống**, Sola-Ui ở cạnh. **Không** thấy lệnh chú đã đổi tay — hai người đã hứa không mở màn hình suốt đêm ngày 5, nên đêm đó không ai ghi được gì ([[mot-ngay-khong-co-chien-tranh-chen-thanh]] · [[sola-ui-gianh-lenh-chu]]).
+1. **Màn hình bật lại**: hết ngày nghỉ — 「明天屏幕还是要开的。」 Dazai rà lại tổ Lancer: Kayneth **còn sống**, Sola-Ui ở cạnh. **Không** thấy lệnh chú đã đổi tay — hai người đã hứa không mở màn hình suốt đêm ngày 5, nên đêm đó không ai ghi được gì (mot-ngay-khong-co-chien-tranh-chen-thanh · sola-ui-gianh-lenh-chu).
 2. **Nước cờ ch19 được nhắc lại — và còn đứng, tạm thời**: Dazai lặp lại tính toán của mình (một pháp sư bị phế mà còn lệnh chú thì vẫn là Master, vẫn cầm chân được đối thủ). Tsuna thấy **có gì đó không khớp** nhưng không gọi tên được — trực giác, không phải suy luận.
 3. **Bản tin**: trẻ em mất tích ở Fuyuki, con số tăng dần. Không ma lực, không dấu vết ma thuật — **một vụ án người thường**. Không ai biết tên hung thủ; hắn **không lên trang** ở chương này.
 4. **「不是我们的事。」**: Dazai nói thẳng — chuyện đó nằm ngoài Chén Thánh, xen vào là phí quân cờ. Tsuna **đứng dậy trước**, không cãi bằng lý lẽ.
@@ -51,7 +51,7 @@ Ngày 6, màn hình bật lại. Chiến tranh Chén Thánh vẫn chạy — nh�
 - **Kế của Dazai ở ngày 2** — ❌ [[q-ke-hoach-that-bai-cua-dazai]] còn mở: không nhắc, không ám chỉ.
 - **Lệnh chú đã đổi tay**: Dazai và Tsuna **chưa biết**. Không câu nào nói Sola-Ui là Master; không cảnh nào cho thấy tay cô.
 - **Tên Uryū Ryūnosuke**: không ai biết hung thủ là ai. Không nêu tên, không tả hắn.
-- Hang ổ cống ngầm · vòng tay thôi miên — đồ của tổ Caster gốc, đã loại ([[ryunosuke-gay-an-khong-servant]]).
+- Hang ổ cống ngầm · vòng tay thôi miên — đồ của tổ Caster gốc, đã loại (ryunosuke-gay-an-khong-servant).
 - Yokohama — ⏸ hoãn ([[hook-tsuna-muon-den-yokohama]]); lời giải bí ẩn trung tâm; nguyện vọng tổ Caster; nhẫn Mare.
 
 ## Ngân sách theo cảnh

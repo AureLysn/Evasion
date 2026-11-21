@@ -10,7 +10,7 @@ chapter: 45
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch45 ban DeepSeek", "thẻ cảnh ch45 bản song song", "ch45 ds PPCT"]
-related: ["[[ch45-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch44-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch40-ds-nhap]]"]
+related: ["[[ch45-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch44-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch40-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch45-ds-plan (Aurel duyệt C1–C6 17/11/2026)."

@@ -10,7 +10,7 @@ chapter: 39
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch39 ban DeepSeek", "thẻ cảnh ch39 bản song song", "ch39 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan|plan ch39]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch29-ds-nhap]]", "[[ch31-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan|plan ch39]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch29-ds-nhap]]", "[[ch31-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch39-plan + 3 thẻ scenes/ (Aurel duyệt C1–C8 29/09/2026). Không dùng văn bản ch39-chapter final."

@@ -25,7 +25,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Tsuna là Omega, và chính là "U Linh Omega"
@@ -61,8 +61,3 @@ last_updated: 2026-10-01
 
 - Thuốc có hạn 3–4 tháng, cần 1000 điểm để mua lại: [[h-uc-che-te-het-han-tdtb]].
 - Ở gần alpha đỉnh cấp: [[h-tin-tuc-to-tsuna-dong-tdtb]].
-
-## 📌 Theo chương viết tiếp
-
-- [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]]: qua một đêm cạnh alpha đỉnh cấp mất kiểm soát; thuốc giữ. Yamamoto ngửi ra **beta** (*"是beta的味道，里面混着些蜂蜜和柠檬的甜"*); Kenichi coi Tsuna là beta (*"一个beta嘉宾"*). `known_by` không đổi.
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]]: hồ sơ của 0038 **vẫn ghi beta** — *"出生时带有信息素腺体，在15岁那年分化为beta。人物评级：B级普通男。"*; Tuyết trả 100 积分 đọc lại và không nghi. Dân mạng gọi cậu là beta (*"这个beta到底是来干嘛的，米都快被他淘没了"* · *"17L：上午那段也太作秀了吧，心机beta一个。"*). Tsuna không nghĩ gì về Omega trên trang. `known_by` không đổi.

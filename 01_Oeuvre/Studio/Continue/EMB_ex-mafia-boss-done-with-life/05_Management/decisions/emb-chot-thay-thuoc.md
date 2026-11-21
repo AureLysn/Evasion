@@ -12,7 +12,7 @@ decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17
 aliases: ["chot thay thuoc", "thay thuoc gia dinh la ai", "Sugita Genichi", "tach hai thay thuoc", "thay thuoc khong biet Lua", "POV chuong 1 Brat chot"]
-related: ["[[q-thay-thuoc-gia-dinh]]", "[[genichi]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[brat-dan-y-ban-20261001]]", "[[musashi]]", "[[indra]]", "[[maro]]", "[[emb-chot-me-takeshi]]"]
+related: ["[[q-thay-thuoc-gia-dinh]]", "[[genichi]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[musashi]]", "[[indra]]", "[[maro]]", "[[emb-chot-me-takeshi]]"]
 source:
   type: user_input
   ref: "Aurel, 17/09/2026: 'khong biet ve lua, ten ban dat minh khong gioi ten lam, thay thuoc gia dinh sawada' — roi 'dong y voi cac de xuat cua ban ve nhan vat' sau khi phien nay bao cao cham khung-oc."
@@ -21,12 +21,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Chốt — thầy thuốc gia đình là ai
 
-> Từ thời điểm khoá, đây là sự thật cấp branch. Giải [[q-thay-thuoc-gia-dinh]], mở khoá toàn bộ chương 1 của [[brat-dan-y-ban-20261001]].
+> Từ thời điểm khoá, đây là sự thật cấp branch. Giải [[q-thay-thuoc-gia-dinh]].
 
 ## Quyết định
 
@@ -51,13 +51,13 @@ Tách ra thì **không mất gì**: thầy thuốc Ấn Độ vẫn nguyên vẹ
 
 | Loại | Vì sao |
 |---|---|
-| **Một người** = thầy thuốc Ấn Độ, **biết** Lửa | ông thành người trong cuộc; [[nguoi-lon-co-trach-nhiem]] mất đúng nhân vật nó đòi, và chỉ số `?` của Ch1 tụt |
+| **Một người** = thầy thuốc Ấn Độ, **biết** Lửa | ông thành người trong cuộc; [[nguoi-lon-co-trach-nhiem]] mất đúng nhân vật nó đòi, và chỉ số `?` tụt |
 | **Một người**, biết Lửa tồn tại nhưng không được cấp ca của Tsuna | mạnh, nhưng Aurel chốt **không biết** — để dành, không dùng lần này |
 | Thầy thuốc **của thị trấn** | yếu hơn: người ngoài thì không có nợ cũ với nhà, và mất beat Musashi |
 
 ## Ràng buộc kéo theo
 
-- 🔴 **Sugita không được biết chuyện Lửa** — không ở chương 1, không ở arc Brat. Mọi cảnh có ông phải qua kiểm tra [[05-visibility]].
+- 🔴 **Sugita không được biết chuyện Lửa** — ít nhất suốt arc Brat. Mọi cảnh có ông phải qua kiểm tra [[05-visibility]].
 - Thầy thuốc **Ấn Độ** của [[khung-oc]] từ nay là **nhân vật riêng, chưa đặt tên, chưa tiêu**. Không được lẫn hai người.
-- Sugita **đã là thầy thuốc nhà Sawada từ trước khi Musashi hôn mê** — mốc này khoá, vì beat chương 1 dựa vào nó.
+- Sugita **đã là thầy thuốc nhà Sawada từ trước khi Musashi hôn mê** — mốc này khoá, vì beat nợ cũ với Musashi dựa vào nó.
 - Nguồn cho cái tên: **Sugita Genpaku** (杉田玄白), thầy thuốc Rangaku dịch *Kaitai Shinsho*. Theo đúng cách tác giả gốc đặt tên *(Azuma Maro ← Kada no Azumamaro)* — [[maro]].

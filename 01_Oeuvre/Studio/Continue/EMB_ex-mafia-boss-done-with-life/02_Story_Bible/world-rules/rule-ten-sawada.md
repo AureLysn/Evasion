@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [rule, naming, sawada]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Luật đặt tên — nhà Sawada tư tế
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > ⚠️ Luật này **chỉ áp cho [[sawada-tu-te]]** (dòng gốc Namimori, bên ngoại của Tsuna). Dòng [[sawada-ieyasu]] có luật **khác hẳn** — xem [[rule-ten-tokugawa]].
 
@@ -70,9 +70,9 @@ Nguyên văn, và tác giả **tự gọi tên hiện tượng**:
 
 Số **đếm theo thế hệ nối tiếp**, một người một số, không phải thứ tự sinh trong một thế hệ.
 
-## ⚠️ Đợt 7 — bộ đếm này **không phải** thứ lời tiên tri nói tới
+## ⚠️ Bộ đếm này **không phải** thứ lời tiên tri nói tới
 
-Đợt 3–6 đọc chữ số như "bộ đếm của lời tiên tri". **Sai.** Lời tiên tri nói *"a tenth, **borne on a throne**"* — tức **Vongola Decimo**, không phải thế hệ thứ mười của dòng tư tế. Xem [[fact-loi-tien-tri-muoi]].
+Các lượt đọc đầu từng đọc chữ số như "bộ đếm của lời tiên tri". **Sai.** Lời tiên tri nói *"a tenth, **borne on a throne**"* — tức **Vongola Decimo**, không phải thế hệ thứ mười của dòng tư tế. Xem [[fact-loi-tien-tri-muoi]].
 
 Bộ đếm vẫn tồn tại, vẫn quan trọng khi đặt tên, và [[kimiko]] vẫn dùng nó khi bảo Kawahira *"đếm đến tám"*. Nó chỉ **không phải** thứ hội đồng trưởng lão tưởng.
 

@@ -18,7 +18,7 @@ target_paragraph_mean: 38
 target_sentence_median: 17
 status: planned
 aliases: ["canh 24-02 cho khong khop", "哪里不对 ch24", "Tsuna goi ten cho khong khop", "dem ngay 5 khong ai xem"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[to-caster-quyet-dinh-ra-tay]]", "[[mot-ngay-khong-co-chien-tranh-chen-thanh]]", "[[sola-ui-gianh-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -54,7 +54,7 @@ Trả cái trực giác Tsuna để trôi ở ch22: nó có tên rồi. Và ch�
 - ch22 dòng 57: Tsuna 「……没什么。可能是我看错了吧。」
 - ch20, lời hứa: 「不许看屏幕……」 (dòng 59) · 「说好了哦，中途不许反悔，也不许偷偷去看屏……」 (dòng 69)
 - ch22 plan beat 1: hai người đã hứa không mở màn hình suốt đêm ngày 5, nên đêm đó không ai ghi được gì.
-- Timeline: đêm ngày 5, Sola-Ui giành lệnh chú — [[sola-ui-gianh-lenh-chu]]
+- Timeline: đêm ngày 5, Sola-Ui giành lệnh chú — sola-ui-gianh-lenh-chu
 
 ## Kết cảnh phải đạt được gì
 

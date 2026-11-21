@@ -10,7 +10,7 @@ chapter: 20
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch20 ban DeepSeek", "thẻ cảnh ch20 bản song song", "ch20 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hard-rules]]", "[[ai-tells]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch20-plan + 4 thẻ scenes/ (Aurel duyệt 20/09/2026). Không dùng văn bản ch20-chapter final."

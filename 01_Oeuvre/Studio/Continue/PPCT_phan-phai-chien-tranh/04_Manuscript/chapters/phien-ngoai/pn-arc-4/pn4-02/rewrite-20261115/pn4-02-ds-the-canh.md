@@ -10,7 +10,7 @@ chapter: "pn4-02"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn4-02 ban DeepSeek", "thẻ cảnh thế giới không có tổ Caster như ta", "pn4-02 ds PPCT"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-01-ds-nhap]]", "[[pn4-01-ds-kiem]]", "[[khung-phien-ngoai-deepseek]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]", "[[Artoria-Pendragon]]", "[[ryunosuke-gay-an-khong-servant]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn4-01-ds-nhap]]", "[[pn4-01-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]", "[[Artoria-Pendragon]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-4-ds-plan mục pn4-02 (Aurel duyệt; C3, C4 để DeepSeek/GPT), V18 (thế giới canon có tổ Caster thật, không có năng lực), V19 (Kirei canon khác); C1 chốt ở pn4-01 (khe tự mở khi Byakuran ngủ mơ); note Database Gilles-de-Rais-Caster (tạo 18/11/2026), Ryuunosuke-Uryuu; quyết định ryunosuke-gay-an-khong-servant (ở nhánh, Ryūnosuke gây án không Servant, bị tổ Caster bắt)."
@@ -30,7 +30,7 @@ Cốt truyện = [[pn-arc-4-ds-plan]] mục pn4-02. POV **Dazai**. Mode B (một
 - Caster bắt cóc trẻ con; Risei treo thưởng. Cuối cùng Caster nhập quái vật thành **con quái khổng lồ trên sông Mion**; **Saber** thiêu bằng **Excalibur**; trong ánh sáng ấy Caster nhớ Jeanne, rơi nước mắt.
 - Kirei ở đây là Kirei canon, khác Kirei của nhánh (V19) — **không cho xuất hiện** trong chương này.
 
-**Nhánh:** ở nhánh của Tsuna và Dazai, **tổ Caster gốc không tồn tại** — Tsuna là Caster, Dazai là Master; Ryūnosuke gây án không Servant và bị họ bắt ([[ryunosuke-gay-an-khong-servant]]). Nên Gilles, con quái sông Mion là **những thứ họ chưa từng thấy**. Saber của nhánh giờ bưng bê ở quán 「晴れの日」. **C1:** khe tự mở khi Byakuran ngủ mơ; về khi khe tự mở lại.
+**Nhánh:** ở nhánh của Tsuna và Dazai, **tổ Caster gốc không tồn tại** — Tsuna là Caster, Dazai là Master; Ryūnosuke gây án không Servant và bị họ bắt (ryunosuke-gay-an-khong-servant). Nên Gilles, con quái sông Mion là **những thứ họ chưa từng thấy**. Saber của nhánh giờ bưng bê ở quán 「晴れの日」. **C1:** khe tự mở khi Byakuran ngủ mơ; về khi khe tự mở lại.
 **V18:** thế giới canon **không có dị năng, không có năng lực khác**.
 
 | Khối | Nội dung | Chữ Hán |

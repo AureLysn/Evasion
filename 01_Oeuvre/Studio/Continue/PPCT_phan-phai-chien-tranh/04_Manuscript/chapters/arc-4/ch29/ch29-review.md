@@ -10,7 +10,7 @@ chapter: 29
 canon_layer: user_canon
 status: active
 aliases: ["review ch29 PPCT", "soat ch29", "check-continuity ch29", "check-style ch29"]
-related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-chapter]]", "[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[lenh-chu-con-sau-khi-servant-chet]]", "[[Command-Spells]]", "[[20260922-canon-chuyen-lenh-chu]]", "[[kirei-van-la-master]]", "[[kirei]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-chapter]]", "[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[Command-Spells]]", "[[kirei-van-la-master]]", "[[kirei]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch29 (2.000 chu Han)"
@@ -51,7 +51,7 @@ last_updated: 2026-09-22
 
 **Chương, dòng 61:** Kirei 「昨天晚上西郊那间仓库，好像就有人去找过它们。」
 
-**ch27:** Kiritsugu nói với Sola-Ui 「你手里有三道令咒，一道就够让他停下来，不是吗？」 **trong nhà kho, không ai khác nghe** ngoài Kayneth và con bọ của tổ Caster (đã nổ). Assassin bị diệt ở ch17 — [[assassin-tap-kich-vuong-yen]]; chưa chương nào cho Kirei một nguồn tin khác.
+**ch27:** Kiritsugu nói với Sola-Ui 「你手里有三道令咒，一道就够让他停下来，不是吗？」 **trong nhà kho, không ai khác nghe** ngoài Kayneth và con bọ của tổ Caster (đã nổ). Assassin bị diệt ở ch17 — assassin-tap-kich-vuong-yen; chưa chương nào cho Kirei một nguồn tin khác.
 
 → Nhà thờ biết **có vụ nổ** thì hợp (canon: giám sát viên lo che giấu sự cố), nhưng biết **người tới tìm gì** là thông tin Kirei không có đường nào lấy. Người đọc nhạy sẽ hỏi hắn nghe từ đâu — và câu trả lời duy nhất là "hắn còn tai mắt", tức gần lộ [[kirei-van-la-master]] **qua lời hắn**, không qua cái nhìn.
 
@@ -61,7 +61,7 @@ last_updated: 2026-09-22
 
 **Chương, dòng 61:** Kirei 「御主一旦失去从者，按理说就已经退出了这场战争，可是令咒还在，就等于还有人会把您当成对手。」
 
-**[[lenh-chu-con-sau-khi-servant-chet]], Ràng buộc kéo theo:** 「Không nhân vật nào trên trang **giải thích** vì sao lệnh chú còn. Không nhân vật nào nói luật "mất Servant thì mất lệnh chú".」
+**lenh-chu-con-sau-khi-servant-chet, Ràng buộc kéo theo:** 「Không nhân vật nào trên trang **giải thích** vì sao lệnh chú còn. Không nhân vật nào nói luật "mất Servant thì mất lệnh chú".」
 
 → Câu này không nói thẳng luật, nhưng cấu trúc 「按理说……可是令咒还在」 đặt lệnh chú còn lại như **một điều bất thường** — độc giả Fate sẽ đọc ra đúng chỗ lệch mà decision muốn để im.
 

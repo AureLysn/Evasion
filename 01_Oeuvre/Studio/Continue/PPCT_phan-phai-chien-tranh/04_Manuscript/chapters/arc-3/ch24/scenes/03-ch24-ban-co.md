@@ -18,7 +18,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 24-03 ban co", "棋 ch24", "nuoc co sup", "他不想那样赢", "Dazai chuyen moi lo sang lenh chu"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-he-qua-thay-to-caster]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-he-qua-thay-to-caster]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -53,9 +53,9 @@ Nước cờ ch6 sụp, nói thành tiếng. Rồi đổi mục tiêu: mối lo 
 - ch22 dòng 47: 「一个废掉的魔术师，只要令咒还在手上，Lancer就得听他的。所以卫宫切嗣不敢把眼睛从他身上挪开：他要是死了，Lancer就没了；Lancer没了，我们那位骑士王的左手，说不定哪天就好起来了。」
 - ch5 (nguyên tác): 「可不能让lancer在今天出局，如果我推测没错的话，saber的宝具会是个……」 — [[dazai-chan-phat-ban-cua-kiritsugu]]
 - ch4 (nguyên tác), Dazai nhận xét Lancer: 「该说不说，不愧是骑士职阶吗？」
-- ch19: Lancer bỏ trận với Saber, quay về cứu Kayneth — [[kayneth-tap-kich-lau-dai-einzbern]]
+- ch19: Lancer bỏ trận với Saber, quay về cứu Kayneth — kayneth-tap-kich-lau-dai-einzbern
 - ch21 (người đọc biết, **nhân vật không biết**): 「可是那样赢下来的一场，他不要。」 — Tsuna chỉ đoán gần đúng, **không** được trích nguyên câu này như lời Lancer.
-- Decision: Lancer chết trong quyết đấu tự nguyện, không chết vì lệnh chú phản bội — [[ket-cuc-lancer-quyet-dau-tu-nguyen]] (planner biết; nhân vật không biết).
+- Decision: Lancer chết trong quyết đấu tự nguyện, không chết vì lệnh chú phản bội — ket-cuc-lancer-quyet-dau-tu-nguyen (planner biết; nhân vật không biết).
 
 ## Kết cảnh phải đạt được gì
 

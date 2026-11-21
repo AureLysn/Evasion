@@ -7,7 +7,7 @@ project: EMB
 canon_layer: branch_locked
 status: active
 aliases: ["gia thuyet Aurel", "he thong gia thuyet KHR", "luan de trung tam", "Tsuna it quan trong nhat", "headcanon Aurel", "y do tac gia viet tiep", "dinh huong sang tac"]
-related: ["[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[Harmonization]]", "[[khung-sau-arc]]", "[[character-arcs]]", "[[nana]]", "[[iemitsu]]"]
+related: ["[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[Harmonization]]", "[[character-arcs]]", "[[nana]]", "[[iemitsu]]"]
 source:
   type: user_input
   ref: "KHR_Gia_thuyet_Tong_hop_Khong_AU.docx — Aurel gui 2026-08-16"
@@ -17,7 +17,7 @@ always_load: true
 load_for: [writer, planner]
 tags: []
 legacy_tags: [source, primary, thesis, load-bearing]
-last_updated: 2026-08-16
+last_updated: 2026-11-20
 ---
 
 # Hệ thống giả thuyết của Aurel — **luận đề trung tâm của cả nhánh**
@@ -102,11 +102,11 @@ Aurel nói rõ: *"Tsuna sẽ muốn **sửa chữa những bất hạnh của m�
 
 Tài liệu có hẳn một mục *"Các điểm cần sửa hoặc ghi thận trọng"* — 12 mục, tự phân loại canon manga / canon anime / suy luận / fanon / headcanon cá nhân.
 
-⚠️ Đáng chú ý: **phong ấn Flame của Tsuna là canon anime, không phải manga canon.** Và **"Wrath = Sky + Storm"** nên ghi là *"biến thể Sky mang đặc tính Storm"* — đúng như mình đã cảnh báo ở [[dot7-quyet-dinh]].
+⚠️ Đáng chú ý: **phong ấn Flame của Tsuna là canon anime, không phải manga canon.** Và **"Wrath = Sky + Storm"** nên ghi là *"biến thể Sky mang đặc tính Storm"* — đúng như AI đã cảnh báo từ trước.
 
 **Đây là thói quen làm việc giống hệt cái vault đang cố áp.** Tài liệu này đã tự phân tầng nguồn trước khi vault yêu cầu.
 
-## ✅ Đã nạp hết — đợt 8h
+## ✅ Đã nạp hết
 
 Tài liệu 618 dòng, 9 phần. Note này giữ **luận đề, mười quy tắc, phần Tsuna** — tầng `branch_locked`.
 

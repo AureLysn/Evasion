@@ -10,7 +10,7 @@ chapter: 22
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch22 ban DeepSeek", "thẻ cảnh ch22 bản song song", "ch22 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Ryuunosuke-Uryuu]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[hard-rules]]", "[[ai-tells]]", "[[Ryuunosuke-Uryuu]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch22-plan + 4 thẻ scenes/ (Aurel duyệt). Không dùng văn bản ch22-chapter final."

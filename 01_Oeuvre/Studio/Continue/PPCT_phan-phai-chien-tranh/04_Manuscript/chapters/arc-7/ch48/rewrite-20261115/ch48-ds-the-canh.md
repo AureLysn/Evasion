@@ -10,7 +10,7 @@ chapter: 48
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch48 ban DeepSeek", "thẻ cảnh ch48 bản song song", "ch48 ds PPCT"]
-related: ["[[ch48-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]", "[[ch36-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Holy-Grail]]"]
+related: ["[[ch48-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]", "[[ch36-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Holy-Grail]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch48-ds-plan (Aurel duyệt C1–C8 17/11/2026)."

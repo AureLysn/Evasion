@@ -58,7 +58,7 @@ Một câu hỏi không được trả lời bằng lời, và một cử chỉ 
 
 - **ch10** dòng 42–47: 「灵子在他身边聚合，汇成沢田纲吉的人形」 · 「纲吉放在床沿的手抖了一下。“………你看到了吗？”」 · 「“是啊，我看到你明知道白兰不怀好意但还是赴约了，看到你的死亡。”」 — **không** lặp nguyên văn.
 - **Tiền truyện thượng** dòng 60 (nội tâm Dazai kiếp trước — **CHỈ cho writer hiểu cử chỉ, KHÔNG trích lên trang**): 「会在出门前为他抚平西服上的皱褶，会与他一起在周末打游戏，纲吉应该会输得很惨。」
-- **ch18**: Tsuna hiện hình cạnh giường, hỏi có mơ không — [[dazai-mo-mot-buoi-sang-o-vongola]]. **ch26**: Dazai **tự** kể giấc mơ — lần này **đảo lại**, Tsuna hỏi (C2).
+- **ch18**: Tsuna hiện hình cạnh giường, hỏi có mơ không — dazai-mo-mot-buoi-sang-o-vongola. **ch26**: Dazai **tự** kể giấc mơ — lần này **đảo lại**, Tsuna hỏi (C2).
 - Xưng hô: 太宰 / 纲吉 — [[dazai--tsuna]].
 
 ## Kết cảnh phải đạt được gì

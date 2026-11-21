@@ -10,7 +10,7 @@ chapter: 28
 canon_layer: user_canon
 status: active
 aliases: ["review ch28 PPCT", "soat ch28", "check-continuity ch28", "check-style ch28"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[kirei-van-la-master]]", "[[assassin-chet-gia-truoc-dem-kho-cang]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[Kirei-Kotomine]]", "[[lancer-chet-trong-quyet-dau]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[kirei-van-la-master]]", "[[Kirei-Kotomine]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch28 (2.251 chu Han)"
@@ -37,7 +37,7 @@ last_updated: 2026-09-22
 
 | Nhóm | Kết quả |
 |---|---|
-| Timeline | ✅ Cảnh 01 gần sáng ngày 9 (「天还没有亮」), Lancer 「昨天晚上」 — khớp [[lancer-chet-trong-quyet-dau]] (đêm ngày 8). Cảnh 02 「第九天早上」 — đúng [[quy-uoc-dem-ngay-trong-loi-ke]]. 「第一天晚上是一只蜻蜓」 — ch5 ✓ |
+| Timeline | ✅ Cảnh 01 gần sáng ngày 9 (「天还没有亮」), Lancer 「昨天晚上」 — khớp lancer-chet-trong-quyet-dau (đêm ngày 8). Cảnh 02 「第九天早上」 — đúng [[quy-uoc-dem-ngay-trong-loi-ke]]. 「第一天晚上是一只蜻蜓」 — ch5 ✓ |
 | Ranh giới tri thức | 🟠 **#1** nguồn tin 「教会就通知过所有的御主」 và việc tổ Caster biết Master của Assassin ở nhà thờ. 🟠 **#2** Tsuna 「他不是早就输了吗」. ✅ Dazai chỉ **nghi**, không tên — câu đùa 「教会倒是一个很方便的地方呢」 nằm trong mức cho phép của [[kirei-van-la-master]] (「nghi ngờ nhà thờ nếu POV có dữ kiện」). ✅ Sola-Ui chỉ **đoán** người áo đen là phe Saber — 「可是也只是猜」 |
 | Trạng thái nhân vật | ✅ Sola-Ui giữ đủ ba đạo lệnh chú, không dùng đạo nào; Kayneth tay nẹp gỗ (ch25 「bàn tay nẹp gỗ」 ↔ 「夹着木板的手」). 🔵 **#3** lệnh chú 「颜色比昨天暗了一些」 |
 | Luật thế giới | ✅ Master mất Servant xin nhà thờ che chở — canon, plan C1. ✅ Bảy Anh Linh còn năm: Assassin bị Rider diệt ở ch17, Lancer ở ch27 |
@@ -53,7 +53,7 @@ last_updated: 2026-09-22
 **Chương, dòng 89 (Dazai):** 「你还记得Assassin的御主现在住在哪里吗？」 — Tsuna đáp 「也在教会」.
 
 **[[Kirei-Kotomine]]:** 「dàn màn Gilgamesh "giết" một Assassin trước mặt các Master → mọi người tin Kirei đã thua. Kirei ở nhà thờ làm "Master bại trận"」 — **không** nói có lời thông báo gửi mọi Master.
-**[[assassin-chet-gia-truoc-dem-kho-cang]]:** 「Dazai và Tsuna biết tin **lần đầu ở trận kho cảng**, qua lời Rider」.
+**assassin-chet-gia-truoc-dem-kho-cang:** 「Dazai và Tsuna biết tin **lần đầu ở trận kho cảng**, qua lời Rider」.
 
 → Lời thông báo chính thức "gửi mọi Master" là chi tiết **tự đặt**. Nếu có, Dazai cũng là Master và phải nhận — không mâu thuẫn thẳng với A1 (「没几天」 có thể là sau ngày 1), nhưng nó mở một kênh tin cho tổ Caster mà chưa chương nào có. Câu 「你还记得……住在哪里吗」 còn giả định Tsuna **đã được biết** việc này từ trước — chưa chương PPCT nào cho thấy. Mình **không chắc** canon có màn Risei thông báo hay không — không tìm được nguồn trong vault.
 
@@ -65,7 +65,7 @@ last_updated: 2026-09-22
 
 **Chương, dòng 91:** 纲吉：「也在教会……可是他不是早就输了吗？」
 
-**[[assassin-chet-gia-truoc-dem-kho-cang]]:** 「Ngay sau đó Tsuna thấy Assassin còn sống qua hồng ngoại」 (ch7); ch17 Tsuna đứng trong Ionioi Hetairoi thấy Rider diệt sạch Assassin.
+**assassin-chet-gia-truoc-dem-kho-cang:** 「Ngay sau đó Tsuna thấy Assassin còn sống qua hồng ngoại」 (ch7); ch17 Tsuna đứng trong Ionioi Hetairoi thấy Rider diệt sạch Assassin.
 
 → 「早就」 trỏ về màn chết giả — thứ Tsuna đã biết là giả từ ch7. Câu này để Tsuna tin một điều cậu biết là sai.
 

@@ -15,19 +15,19 @@ payoff:
   arc:
   chapter:
 aliases: ["ong tre", "bamboo tube", "qua cua Kawahira", "kudagitsune", "cao ong", "thu giup duoc van de cua cau"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[nguoi-ban-cu]]", "[[fact-loi-flame]]", "[[fact-cao-la-natsu]]", "[[ong-tre-giai-quyet-gi]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[fic-part2]]", "[[emb-chot-sau-p2-ch2]]", "[[kitsune-phan-loai]]", "[[ong-tre-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[nguoi-ban-cu]]", "[[fact-loi-flame]]", "[[fact-cao-la-natsu]]", "[[ong-tre-giai-quyet-gi]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[fic-part2]]", "[[emb-chot-sau-p2-ch2]]", "[[kitsune-phan-loai]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2 — hai cau ap chot va End Notes; reply tac gia 03/12/2024. Doc lai 16/09/2026"
 authority: original_author
 confidence: 1.0
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Ống tre để trước cửa
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 
 ## Tuyến này là gì
 
@@ -85,7 +85,6 @@ Nghĩa là **thứ trong ống tre đã làm đúng việc nó hứa** — suy l
 | Chương | Tiến triển |
 |---|---|
 | P2 Ch2 *(gốc)* | ống tre đến. Fic dừng ở đây |
-| nhánh `aurel-main` Ch3 | bản v3 đã viết cảnh cáo ra khỏi ống — **chưa duyệt lại ở đợt này** |
 
 ## Vì sao đây là hook quan trọng nhất
 

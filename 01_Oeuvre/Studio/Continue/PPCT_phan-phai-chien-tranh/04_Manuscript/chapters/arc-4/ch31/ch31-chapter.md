@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.gilgamesh]
 language: zh
 aliases: ["chuong 31 PPCT", "ban nhap tieng Trung ch31", "礼物 ban nhap", "反派战争31 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan|plan ch31]]", "[[arc-4-ba-dao-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan|plan ch31]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

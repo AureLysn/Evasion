@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["gia thuyet Aurel phan 2", "Reborn va Arcobaleno", "Guardians canon", "Kawahira hai tang", "Tsuyoshi chua thuoc ve Sky", "Byakuran Uni", "Enma", "Xanxus phan chieu", "chuc nang thay danh tinh"]
-related: ["[[gia-thuyet-aurel]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[tsuyoshi]]", "[[trope-fandom]]", "[[y-chinh-cac-arc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[gia-thuyet-aurel]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[tsuyoshi]]", "[[trope-fandom]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "KHR_Gia_thuyet_Tong_hop_Khong_AU.docx — PHAN IV, V, VI. Aurel gui 2026-08-16"
@@ -17,7 +17,7 @@ always_load: false
 load_for: [planner]
 tags: []
 legacy_tags: [source, primary, ideas]
-last_updated: 2026-08-16
+last_updated: 2026-11-20
 ---
 
 # Giả thuyết Aurel — phần còn lại
@@ -52,7 +52,7 @@ Và văn bản gốc thêm hai người nữa mà Aurel chưa nối vào:
 
 ---
 
-## Reborn — và điều này **sửa Arc 6**
+## Reborn — và điều này **sửa cách đọc đoạn kết**
 
 ### Cung nhân vật của ông ở kiếp trước
 
@@ -66,13 +66,13 @@ Và văn bản gốc thêm hai người nữa mà Aurel chưa nối vào:
 
 Ông bước vào đền để đánh giá **một ứng viên Decimo khác**. Tức là ông đang ở **đúng điểm xuất phát cũ** — giai đoạn *"tin rằng kết quả có thể biện minh cho phương pháp"*.
 
-⚠️ **Sửa cách mình viết Arc 6 ở đợt 8g.** Mình viết *"Reborn không biết cậu là ai"* như một sự vắng mặt. Sai — nó là một **sự đảo ngược**:
+⚠️ **Sửa một cách đọc cũ về đoạn kết.** Mình viết *"Reborn không biết cậu là ai"* như một sự vắng mặt. Sai — nó là một **sự đảo ngược**:
 
 > Người duy nhất từng học được cách nhìn Tsuna như một con người, giờ tới nơi **chưa từng học**, và đang làm đúng cái việc mà bài học đó đã chữa.
 
 Cái Tsuna phải đối mặt không phải một người lạ. Là **phiên bản chưa được sửa của thầy mình**.
 
-### Bảng trước/sau lời nguyền — dùng được cho Arc 5
+### Bảng trước/sau lời nguyền — dùng được cho giai đoạn Teen
 
 Aurel dựng mô hình phát triển cho cả tám Arcobaleno. **Không phải canon**, tự đánh dấu như vậy. Trích ba dòng liên quan nhất:
 
@@ -130,7 +130,7 @@ Câu chốt:
 
 **Cậu từ chối vì sợ mình sẽ không nhìn thấy họ. Nhưng ở đời trước, chính họ mới là người không nhìn thấy cậu.**
 
-⚠️ Cậu **không biết** điều đó — hoặc biết mà không cho phép mình nghĩ tới. Đó là một cảnh, và nó thuộc Arc 5 hoặc 6.
+⚠️ Cậu **không biết** điều đó — hoặc biết mà không cho phép mình nghĩ tới. Đó là một cảnh, và nó thuộc giai đoạn Teen hoặc đoạn kết.
 
 ### Giới hạn của fanon "Guardian phản bội"
 

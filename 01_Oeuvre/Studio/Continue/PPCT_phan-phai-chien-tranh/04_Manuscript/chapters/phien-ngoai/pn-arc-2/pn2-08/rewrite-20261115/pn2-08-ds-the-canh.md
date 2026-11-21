@@ -10,7 +10,7 @@ chapter: "pn2-08"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-08 ban DeepSeek", "thẻ cảnh nhà thêm phòng song song", "pn2-08 ds PPCT"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-07-ds-nhap]]", "[[pn2-07-ds-kiem]]", "[[pn2-06-ds-kiem]]", "[[pn2-05-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-07-ds-nhap]]", "[[pn2-07-ds-kiem]]", "[[pn2-06-ds-kiem]]", "[[pn2-05-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-08 (Aurel duyệt 18/11/2026), dữ kiện pn2-06-ds-kiem, pn2-07-ds-kiem."

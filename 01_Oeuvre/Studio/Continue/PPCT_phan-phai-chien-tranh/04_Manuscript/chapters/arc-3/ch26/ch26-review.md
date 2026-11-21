@@ -10,7 +10,7 @@ chapter: 26
 canon_layer: user_canon
 status: active
 aliases: ["review ch26 PPCT", "soat ch26", "check-continuity ch26", "check-style ch26"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-chapter]]", "[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[gae-buidhe-bi-pha]]", "[[do-tham-saber-lancer-kho-cang]]", "[[saber-lancer-dau-lan-hai]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-chapter]]", "[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[do-tham-saber-lancer-kho-cang]]", "[[saber-lancer-dau-lan-hai]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch26 (1.947 chu Han)"

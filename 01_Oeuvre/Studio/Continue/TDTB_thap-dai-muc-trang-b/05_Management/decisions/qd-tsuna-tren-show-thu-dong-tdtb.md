@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-10-03
 aliases: ["Tsuna tren show thu dong", "Tsuna OOC ch16 ch17", "Tsuna khong co tinh lam nhat", "Tsuna khong quan tam nguoi la", "Tsuna dat bang quang nga", "Tsuna phe sai", "Tsuna bao ve nguoi cua minh", "Tsuna chi de y he thong va dong doi cu", "xuong xe thu dong"]
-related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, chat phien Claude Code 03/10/2026 (tin nhan dai ve Tsuna OOC o ch16-17, muc 1) va 'theo de xuat' cung ngay cho ba cau: xuong xe thu dong, su kien san thuong khong xay ra, Kenichi noi moc. Trich nguyen van o than note."
@@ -17,12 +17,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Tsuna trên show: **thụ động, không cố tình**, chỉ cứng lên khi bảo vệ người của mình
 
-Thay cho cách viết của ch16 beat 2 và ch17 beat 2 ở [[dan-y-ch16-ch19-tdtb]]: Tsuna **tự tính toán** để mình nhạt nhẽo mà bị loại.
+Thay cho cách viết của dàn ý cũ (đã xóa khi reset 21/11/2026):
 Aurel 03/10 coi đó là OOC: *"hành động của tsuna khi quyết định mình sẽ không thu hút ooc"*.
 
 ## Chốt — lời Aurel, 03/10/2026
@@ -43,7 +43,7 @@ Aurel 03/10 coi đó là OOC: *"hành động của tsuna khi quyết định m�
    lộn xộn này kia."*
 5. **Với Yamamoto:** Tsuna vui, *"vui vẻ hơn ở cuộc sống thật khi có người trở thành bạn"*. Cậu nhớ Yamamoto ngày trước không rõ,
    chỉ còn *"một loại ấn tượng, hâm mộ"*. *"có lẽ nên để hai người chia sẽ tâm tình một chút mới đúng"*.
-6. **Nội tâm Yamamoto** (ch16): *"thêm miêu tả nội tâm của yamamoto về mọi thứ khi tin tức tố hỗn loạn, đầu óc không thanh tỉnh và
+6. **Nội tâm Yamamoto**: *"thêm miêu tả nội tâm của yamamoto về mọi thứ khi tin tức tố hỗn loạn, đầu óc không thanh tỉnh và
    người quan trọng nhất đang ở ngay bên cạnh và đang ở trong quá khứ."*
 
 ## Ba câu Aurel chọn "theo đề xuất" — 03/10
@@ -52,11 +52,10 @@ Aurel 03/10 coi đó là OOC: *"hành động của tsuna khi quyết định m�
 |---|---|
 | Tsuna còn muốn xuống xe sau tập 1 không | **Còn, nhưng thụ động**: "chắc chẳng ai chọn mình". Không làm gì để được loại. Lý do 50 vạn giữ |
 | Sự kiện sân thượng (manga) có xảy ra ở thế giới này không | **Không.** Tsuna chỉ còn ấn tượng ngưỡng mộ Yamamoto thời sơ trung |
-| Ai nói móc ở ch17 | **Kenichi** — xem [[dan-y-ch16-ch18-lam-lai-tdtb]] |
 
 ## Ranh giới — đọc cùng hợp đồng nhánh
 
 - **Người mang ký ức chiếm chỗ trong lòng Tsuna dễ dàng** là dòng cấm của [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]. Niềm vui có bạn và việc đổi sang gọi
   *武* là **tình bạn ở đời thường**, không phải Yamamoto đã có chỗ trong lòng Tsuna. Người Tsuna để tâm vẫn là hệ thống và đồng đội cũ.
 - Mặt cường thế là **lời nói và thái độ**. Không Lửa, không trạng thái Hyper ([[qd-lua-o-the-gioi-thuc-tdtb]]).
-- Đồng đội cũ trên trang chỉ được nhắc chung, **không tên**: [[q-dong-doi-cu-the-la-ai-tdtb]] còn mở tới ch19 (dời 03/10).
+- Đồng đội cũ trên trang chỉ được nhắc chung, **không tên**, tới khi Aurel chọn đồng đội cụ thể.

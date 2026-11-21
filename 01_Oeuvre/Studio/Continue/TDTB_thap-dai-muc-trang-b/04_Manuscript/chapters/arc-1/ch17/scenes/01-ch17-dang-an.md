@@ -31,7 +31,7 @@ last_updated: 2026-10-03
 
 # Cảnh 01 — 档案 · POV Tuyết · ~800 chữ Hán · **mở chương**
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Số đoạn nguyên văn đếm **cả hai dòng `*`** của ch9 (quy ước vault — ✅ Aurel đồng ý 30/09, N3).
 > 🔴 0038 **chỉ biết hồ sơ** ([[qd-0038-quet-bang-ho-so-tdtb]]): không Omega, không hệ thống của Tsuna, không ký ức, không Lửa, không
@@ -98,7 +98,7 @@ last_updated: 2026-10-03
   ([[qd-0038-quet-bang-ho-so-tdtb]]). Tsuna là Omega: không ở đâu ghi. Hệ thống của Tsuna: không ở đâu ghi.
 - **Kỳ bảo hộ** (tập 1–2 không bị loại, 9.65 *"没有摆在台面上的惯例"*) là lệ **không ghi ra**, nên **0038 cũng không biết**, và Tuyết
   không biết. Kế hoạch của Tuyết hỏng ở cảnh 03 vì **đúng cùng một luật ngầm** làm hỏng kế hoạch của Tsuna.
-- Tuyết đốt điểm vào một tờ hồ sơ rỗng: đây là **lần đầu** của cơ chế tự diệt vong ([[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]). Không ai
+- Tuyết đốt điểm vào một tờ hồ sơ rỗng: đây là **lần đầu** của cơ chế tự diệt vong (qd-ket-cuc-he-thong-va-dong-doi-tdtb). Không ai
   phải làm gì với cậu ta. Không nói ra điều này trên trang.
 - Tsuna, cùng lúc đó, cũng muốn tự xuống xe (cảnh 02). Tuyết không biết. Sự trớ trêu là của người đọc.
 

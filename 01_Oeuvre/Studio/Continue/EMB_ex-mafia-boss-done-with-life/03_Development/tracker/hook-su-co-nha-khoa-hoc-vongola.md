@@ -38,7 +38,7 @@ Nó **vô tình bị phát hiện** qua một **sự cố** với một nhóm nh
 
 ## ⛔ Không thuộc arc Brat
 
-Aurel nói rõ: *"sau này"*. Ở Brat, Cloud chỉ là **thứ cậu dùng để không bị nhìn thấy** — [[brat-ch4-the-canh-ban-20261001]].
+Aurel nói rõ: *"sau này"*. Ở Brat, Cloud chỉ là **thứ cậu dùng để không bị nhìn thấy** — *văn xuôi đã xóa*.
 
 ## Vì sao hook này đắt
 

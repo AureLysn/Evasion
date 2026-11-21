@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 20 PPCT", "ban nhap tieng Trung ch20", "补偿 ban nhap", "反派战争20 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[arc-2-moi-va-luoi]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-09-20

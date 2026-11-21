@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Xanxus EMB", "thu linh Varia trong nhanh", "nguoi duoi theo mot Cloud"]
-related: ["[[Xanxus]]", "[[mammon]]", "[[tuyen-xanxus]]", "[[emb-chot-tuyen-varia]]", "[[brat-ch4-the-canh-ban-20261001]]", "[[tsuna]]", "[[xoa-so-estraneo]]", "[[tuoi-va-moc]]", "[[q-xanxus-la-storm]]", "[[truc-chinh]]", "[[xanxus-phan-cu]]"]
+related: ["[[Xanxus]]", "[[mammon]]", "[[tuyen-xanxus]]", "[[tsuna]]", "[[xoa-so-estraneo]]", "[[tuoi-va-moc]]", "[[q-xanxus-la-storm]]", "[[truc-chinh]]"]
 source:
   type: inference
   ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Xanxus]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ong."
@@ -18,7 +18,7 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Xanxus — trong nhánh `aurel-main`
@@ -31,10 +31,10 @@ Canon: Xanxus **24 tuổi** khi Tsuna ~14, tức **hơn Tsuna khoảng mười t
 
 | Mốc trong nhánh | Xanxus |
 |---|---|
-| **Ch4**, Tsuna **7** | **~17** |
+| arc Brat, Tsuna **7** | **~17** |
 | Cradle, Tsuna **~9** *([[tuoi-va-moc]])* | **~19** |
 
-→ 🔴 **Ở Ch4 ông CHƯA bị đóng băng, và CHƯA có sẹo.** Zero Point Breakthrough chưa xảy ra. Đây là ràng buộc hình ảnh cứng: ⛔ không tả sẹo, không tả cái nhìn của một người vừa mất tám năm.
+→ 🔴 **Ở arc Brat ông CHƯA bị đóng băng, và CHƯA có sẹo.** Zero Point Breakthrough chưa xảy ra. Đây là ràng buộc hình ảnh cứng: ⛔ không tả sẹo, không tả cái nhìn của một người vừa mất tám năm.
 
 ⚠️ Ông **đã là thủ lĩnh Varia** ở mốc này.
 
@@ -42,11 +42,11 @@ Canon: Xanxus **24 tuổi** khi Tsuna ~14, tức **hơn Tsuna khoảng mười t
 
 | | |
 |---|---|
-| **Ch4** | dẫn đội đi điều tra vụ Estraneo — [[xoa-so-estraneo]]. Gặp **một Cloud** |
-| 🔴 **Ràng buộc cứng** | ⛔ **KHÔNG được biết Tsuna là Sky.** [[emb-chot-tuyen-varia]] khoá. Ông đuổi một Cloud, và **cái nhầm ấy là động cơ của lần sau** |
+| **Arc Brat** *(ý từ bản nháp đã xóa)* | dẫn đội đi điều tra vụ Estraneo — [[xoa-so-estraneo]]. Gặp **một Cloud** |
+| 🔴 **Ràng buộc cứng** | ⛔ **KHÔNG được biết Tsuna là Sky.** Aurel chốt 19/09/2026, [[tuyen-xanxus]]. Ông đuổi một Cloud, và **cái nhầm ấy là động cơ của lần sau** |
 | **Sau Cradle** | [[tuyen-xanxus]] — hoà hợp hai chiều. **Mây của Tsuna → Bầu trời của Xanxus** |
 
-🔴 **Nên ở Ch4 ông đang đuổi theo đúng cái thứ sau này sẽ là Mây của ông.** ⛔ Người kể **không được ám chỉ** điều đó một chữ nào.
+🔴 **Nên nếu gặp ở arc Brat, ông đang đuổi theo đúng cái thứ sau này sẽ là Mây của ông.** ⛔ Người kể **không được ám chỉ** điều đó một chữ nào.
 
 ## Flame — nhánh đọc thế nào
 
@@ -62,4 +62,4 @@ Một đứa trẻ nghèo được một famiglia nhặt về và **biến thàn
 
 ## Chưa quyết
 
-Ông nói gì ở Ch4 · có nhận ra Tsuna là người Nhật/Namimori không · Squalo và Bel có mặt ở Ch4 không
+Lần gặp đầu rơi vào chương nào · ông nói gì · có nhận ra Tsuna là người Nhật/Namimori không · Squalo và Bel có mặt không

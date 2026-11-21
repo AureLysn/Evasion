@@ -24,14 +24,14 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 40-01 dem", "夜 ch40", "chuon chuon duong rung Einzbern", "Tsuna khong yen toi ngay 15"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[can-cu-to-caster]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[to-caster-gap-kiritsugu]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[can-cu-to-caster]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---
 
 # Cảnh 01 — 夜 · POV Tsuna · ~450 chữ Hán
 
-> `forbidden_secrets`: Tsuna ở **L3 không tên** với [[kirei-van-la-master]] và [[archer-doi-master-sang-kirei]]. Cảnh này **không** chạm tới nhà thờ.
+> `forbidden_secrets`: Tsuna ở **L3 không tên** với [[kirei-van-la-master]] và archer-doi-master-sang-kirei. Cảnh này **không** chạm tới nhà thờ.
 > 🔴 **Không** viết người kể nói đồ Vongola "không dùng ma lực" (bài học ch30 #3, ch33 #1).
 
 ## Ngân sách
@@ -62,7 +62,7 @@ last_updated: 2026-09-30
 
 - **ch38** (dòng 99–125): chuồn chuồn cất cánh từ bệ cửa sổ, 「越过商店街一排排的屋顶」, đậu trên biển báo 「停在坡道下面一块路牌的顶上」; Tsuna điều khiển.
 - **ch37** dòng 41: 「城堡大门那一格从昨天下午起就是黑的」 · dòng 93: 「港口的吊车一动不动，西郊仓库那一格还是黑的」.
-- **ch36**: lời hứa với Kiritsugu là con bọ ở **lâu đài** thôi nói — [[to-caster-gap-kiritsugu]]. Đường công cộng không nằm trong lời hứa.
+- **ch36**: lời hứa với Kiritsugu là con bọ ở **lâu đài** thôi nói — to-caster-gap-kiritsugu. Đường công cộng không nằm trong lời hứa.
 - **Xưng hô** ([[dazai--tsuna]]): Dazai gọi 「纲吉」; Tsuna gọi 「太宰」.
 
 ## Writer-only — KHÔNG lên trang

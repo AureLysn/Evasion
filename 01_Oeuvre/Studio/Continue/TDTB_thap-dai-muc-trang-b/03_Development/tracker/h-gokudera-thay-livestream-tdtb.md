@@ -15,7 +15,7 @@ payoff:
   arc: null
   chapter:
 aliases: ["Gokudera thay livestream", "Mười đời mắt a a a", "Thả ra mười đời mắt", "Gokudera sắp tới show", "quà cho Nana"]
-related: ["[[gokudera-hayato-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[h-gokudera-thay-livestream-tdtb-phan-cu]]"]
+related: ["[[gokudera-hayato-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch13, ch14"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Gokudera đang ở Nhật, đã thấy Tsuna trong vòng tay Yamamoto
@@ -43,5 +43,3 @@ Gokudera cầm quà (bộ dưỡng da + đồng hồ) cho *"mười đời mắt
 | Chương | |
 |---|---|
 | ch13 | Gokudera ở Nhật, thấy Tsuna trên livestream; mua quà cho *"mười đời mắt cùng nại nại mụ mụ"* |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)* | đẩy: Gokudera **lên trang ở 并盛**, trước nhà biển tên 沢田, đèn tắt, chờ: *"十代目总会回家的。"* Không còn cuộc gọi của mẹ |
-| [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]] | **treo** (ngoại lệ có decision [[qd-nhip-tra-mach-tuy-su-kien-tdtb]]): tắt tiếng điện thoại, không mở livestream, mải tìm ở 并盛 |

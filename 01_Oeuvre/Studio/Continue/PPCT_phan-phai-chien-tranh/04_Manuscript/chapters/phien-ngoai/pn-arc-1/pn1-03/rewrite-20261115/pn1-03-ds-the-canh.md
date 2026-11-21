@@ -10,7 +10,7 @@ chapter: "pn1-03"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn1-03 ban DeepSeek", "thẻ cảnh phiên ngoại Lupin", "pn1-03 ds PPCT", "Lupin Mimic pn1-03"]
-related: ["[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-01-ds-nhap]]", "[[pn1-02-ds-nhap]]", "[[20261117-canon-phien-ngoai-arc-1]]", "[[Bar-Lupin]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Ogai-Mori]]"]
+related: ["[[pn-arc-1-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-01-ds-nhap]]", "[[pn1-02-ds-nhap]]", "[[Bar-Lupin]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Ogai-Mori]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ pn-arc-1-ds-plan mục pn1-03 (Aurel duyệt 17/11/2026; C7, C8 để DeepSeek/GPT đề xuất) và 20261117-canon-phien-ngoai-arc-1 (Q-P1: Gide bắt một đứa)."

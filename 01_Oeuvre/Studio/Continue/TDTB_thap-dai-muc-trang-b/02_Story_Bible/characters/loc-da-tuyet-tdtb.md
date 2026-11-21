@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["Lộc Dã Tuyết", "Loc Da Tuyet", "鹿野雪", "Lộc Dã", "Loc Da", "Lộc Dã đồng học", "Lộc Dã tiên sinh", "Tuyết Quân", "Tuyet Quan", "tuyết", "Tuyết ca ca", "Yuki", "yuki", "yuki đại đại", "Yuki đại đại", "yuki tang", "khách quý mặt nạ hồ ly", "người điều khiển Trường Hà Mộ Tuyết", "Omega chuyển trường", "Kano Yuki (doc chua chot)", "Shikano Yuki (doc chua chot)"]
-related: ["[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[he-thong-0038-tdtb]]", "[[he-thong-chi-nam-0038-tdtb]]", "[[tsuna--loc-da-tuyet-tdtb]]", "[[loc-da-tuyet--yamamoto-tdtb]]", "[[loc-da-tuyet--kesuke-tdtb]]", "[[loc-da-tuyet-bo-thuoc-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[q-ten-romaji-chua-chot-tdtb]]", "[[loc-da-tuyet-tdtb-phan-cu]]"]
+related: ["[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[he-thong-0038-tdtb]]", "[[he-thong-chi-nam-0038-tdtb]]", "[[tsuna--loc-da-tuyet-tdtb]]", "[[loc-da-tuyet--yamamoto-tdtb]]", "[[loc-da-tuyet--kesuke-tdtb]]", "[[loc-da-tuyet-bo-thuoc-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[q-ten-romaji-chua-chot-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch1, ch2, ch3, ch9, ch10, ch11, ch13, ch14, ch15"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Lộc Dã Tuyết
@@ -51,16 +51,6 @@ Nam Omega, vai phản diện kiểu "người xuyên sách công lược" của 
 - ch11–13: giả làm fan bóng chày để tiếp cận Yamamoto. Đánh bóng hoàn hảo nhưng bị nhận xét *"giống như người máy tại đánh cầu"*.
 - ch14–15: cố bỏ thuốc Yamamoto, thất bại, bị cảnh cáo, xem [[loc-da-tuyet-bo-thuoc-tdtb]].
 - ch15: cố gieo nghi ngờ rằng Tsuna *"động tay chân"* với Yamamoto.
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]], rạng sáng S2, phòng riêng — camera tự động đã tắt từ tối qua (*"好在房间里的自动摄像头昨晚一回来就被他关掉了"*; canon
-  viết tiếp, D7): gần như thức trắng vì câu cảnh cáo của Yamamoto (*"鹿野雪几乎一夜没合眼"*). 0038 trả kết quả: Yamamoto *"数据正常，未发现漏洞"*. Tự đoán hai lần (Tsuna là *"气运之子"*; Tsuna có kỹ năng *"倾城"*) rồi tự bác. Trả **100 积分** gọi hồ sơ đầy đủ của Tsuna
-  (*"调阅人物完整档案需要100积分，宿主确认扣除吗？"*): nhận lại tờ hồ sơ cũ (beta, B cấp) + một mệnh đề *"经网友自行比对，此人即为恋爱配对节目《令人心动的你》的嘉宾‘纲吉’。未发现异常记录。"* — *"一百积分，换来一张旧纸。"* **Vẫn tin Tsuna là beta.** Chỉ nam nhiệm vụ 5 còn treo,
-  tự thấy khả năng gần bằng không, gạt sang ([[h-chi-nam-nhiem-vu-tdtb]]). **Quyết:** tối nay *"他会给沢田纲吉打最低的分数"* (nghĩ 圭介
-  vốn đã coi Tsuna kém nhất nên khỏi cần nhắc); không mua đạo cụ của 0038 nữa — *"他现在一分都舍不得再花了"*. 0038 chen câu đoán
-  *"……也许，山本武就是单纯地喜欢他呢？"* → *"你给我闭嘴。"* Câu chốt trong đầu: *"第一集结束，就是沢田纲吉下车的时候。"*
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)*, ban ngày và tối S2 (qua POV Tsuna): ánh nhìn lia qua ở bếp; bóp đũa trắng tay khi Tsuna bênh Yamamoto;
-  phòng khách vẫn câu *"要是不喜欢这种节目的话，其实不用勉强自己的"* (D2) — Tsuna đồng ý thật lòng, nụ cười của Tuyết cứng lại.
-- ⚠️ ch17 **không cho thấy**: phiếu chấm của Tuyết — cho Tsuna điểm thấp nhất mới là **ý định**; số 积分 còn lại — trang không nêu,
-  không note nào theo dõi.
 
 ## Giọng và cách nói
 

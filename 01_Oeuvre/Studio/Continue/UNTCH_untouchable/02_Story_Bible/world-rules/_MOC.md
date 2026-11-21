@@ -9,7 +9,7 @@ status: active
 aliases: ["canon rieng UNTCH", "thiet lap rieng cua fic", "MOC canon UNTCH", "fic nay khac canon cho nao"]
 related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[_BNHA-MOC]]", "[[_KHR-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # MOC — UNTCH / canon
@@ -47,7 +47,7 @@ thứ đúng với mọi fic KHR thì nằm ở [[_KHR-MOC]]. **Đừng chép ca
 ⚠️ Bảng precedence: `author_confirmed` và `user_canon` **đè** lên `official_canon`.
 Đừng lấy canon ra sửa ngược. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]] `forbid` #5 · #6 · #7 · #8.
 
-## Còn trống — xếp theo mức cần cho arc 01
+## Còn trống — xếp theo mức cần
 
 | Cần | Note chưa có | Vì sao cần |
 |---|---|---|
@@ -59,6 +59,6 @@ thứ đúng với mọi fic KHR thì nằm ở [[_KHR-MOC]]. **Đừng chép ca
 
 ## `Characters/` — đã mở
 
-✅ Ba hồ sơ đầu, theo thứ tự ưu tiên của [[qd-huong-arc-01]]:
+✅ Ba hồ sơ đầu:
 [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]] · [[hawks-takami-keigo]] · [[theodor-manz]].
 Danh sách còn thiếu và mức ưu tiên: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/_MOC|Characters/_MOC]].

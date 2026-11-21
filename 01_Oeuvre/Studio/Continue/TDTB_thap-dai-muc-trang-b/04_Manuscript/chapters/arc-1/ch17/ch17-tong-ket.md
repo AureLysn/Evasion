@@ -12,7 +12,7 @@ status: superseded
 superseded_by: "[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]"
 superseded_at: 2026-10-03
 aliases: ["tong ket ch17 TDTB", "tong ket ke hoach chuong 17 TDTB", "summary ch17 TDTB", "tom tat ba tac nhan ch17 TDTB"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: inference
   ref: "summarizer, 30/09/2026, doc truc tiep ch17-plan + 4 the canh; bao cao plan-reviewer va continuity-reviewer do dispatcher chuyen lai (khong co file rieng)"
@@ -25,7 +25,7 @@ last_updated: 2026-10-03
 
 # Tổng kết ch17 — 《装B的第十七天》 (giai đoạn kế hoạch)
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Chỉ đọc, không sửa. Đây là **kế hoạch chương + bốn thẻ cảnh**, chưa có bản nháp chương. Quyết định thuộc về Aurel.
 > **Kết luận ngắn:** 0 phát hiện `high`. 10 `medium` và 15 `low` sau khi gộp trùng, cộng 4 điểm do tổng kết thêm. Không có gì chặn

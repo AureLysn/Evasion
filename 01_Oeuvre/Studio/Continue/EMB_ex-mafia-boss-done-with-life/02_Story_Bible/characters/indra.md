@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Indra", "Hibari Indra", "Wu Indra", "Seiran", "Seigyoku", "me Kyouya", "Inverse Rain", "Guardian Cong Dong", "ba chi dau cua Musashi"]
-related: ["[[kyouya]]", "[[tsuna]]", "[[musashi]]", "[[keita]]", "[[kojiro]]", "[[nha-hibari]]", "[[indra-tuyen-the]]", "[[indra-co-dong-mau-hibari]]", "[[fact-guardian-hien-co]]", "[[fact-fon-huyet-thong]]", "[[fact-yama-gio-thu-ba]]", "[[le-cuoi-cao]]", "[[phan-biet-hai-the-gioi]]", "[[indra-phan-cu]]"]
+related: ["[[kyouya]]", "[[tsuna]]", "[[musashi]]", "[[keita]]", "[[kojiro]]", "[[nha-hibari]]", "[[indra-tuyen-the]]", "[[indra-co-dong-mau-hibari]]", "[[fact-guardian-hien-co]]", "[[fact-fon-huyet-thong]]", "[[fact-yama-gio-thu-ba]]", "[[le-cuoi-cao]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3 + Ex-Mafia_Boss_Spends.html Ch1-2 va End Notes, doc lai 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch3, 20260916-p2-ch1, 20260916-p2-ch2"
@@ -17,12 +17,12 @@ flame: Yasuragi (Rain) — Inverse
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Hibari Indra — *Seiran* · *Seigyoku*
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 
 ## Tên gọi
 

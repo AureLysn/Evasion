@@ -111,4 +111,4 @@ của fic**:
    thành lời**.
 
 ⚠️ Cả hai là **gợi ý cho Aurel**, không phải kế hoạch. Chúng **không nằm trong**
-[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/03_Development/arcs/arc-01-menh-lenh|arc-01-menh-lenh]].
+arc-01-menh-lenh.

@@ -10,7 +10,7 @@ chapter: 38
 canon_layer: user_canon
 status: active
 aliases: ["review ch38 PPCT", "soat ch38", "check-continuity ch38", "check-style ch38", "khep arc 5 review"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-chapter]]", "[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[Command-Spells]]", "[[nha-tho-fuyuki]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-review]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-chapter]]", "[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[kirei-van-la-master]]", "[[Command-Spells]]", "[[nha-tho-fuyuki]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-review]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 27/09/2026, tren ban nhap ch38 (1.536 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."
@@ -154,9 +154,9 @@ Không có lỗi 🔴. Không có lỗi luật cứng. Thoại **đạt** quy ư
 
 ## Để `finalize-chapter` biết (không phải lỗi)
 
-- **Dazai · Tsuna: [[archer-doi-master-sang-kirei]] L2 → L3** — người nuôi Archer **ở nhà thờ**, (có lẽ) dùng ba đạo của Sola-Ui. Không tên. `suspected_by` giữ, ghi mức trong bảng.
+- **Dazai · Tsuna: archer-doi-master-sang-kirei L2 → L3** — người nuôi Archer **ở nhà thờ**, (có lẽ) dùng ba đạo của Sola-Ui. Không tên. `suspected_by` giữ, ghi mức trong bảng.
 - **[[kirei-van-la-master]]: Tsuna `unknown_to` → `suspected_by`** (nghe Dazai nghiêng về Master của Assassin — 「只挪了一点」). Dazai: giữ `suspected_by`, ghi "gần hơn — ch38".
-- **Tổ Caster biết Sola-Ui đổi ba đạo lệnh chú lấy đường về** — **đoán** (「她得拿点什么出来换」), đúng sự thật ch29 → [[sola-ui-doi-lenh-chu-lay-duong-ve]] hệ quả sau ch38.
+- **Tổ Caster biết Sola-Ui đổi ba đạo lệnh chú lấy đường về** — **đoán** (「她得拿点什么出来换」), đúng sự thật ch29 → sola-ui-doi-lenh-chu-lay-duong-ve hệ quả sau ch38.
 - **Tổ Caster thấy camera của Kiritsugu ở chân dốc nhà thờ** → [[nha-tho-fuyuki]] mục *Bị theo dõi*; [[kiritsugu]] (bị thấy — **không** biết mình bị thấy).
 - **Hệ quả arc 6 (plan ch38):** camera đó **có thể** đã ghi con chuồn chuồn — Kiritsugu sẽ biết tổ Caster nay nhìn nhà thờ. Off-page.
 - **Arc 5 khép.** Arc note: trạng thái `active` → khép; bảng chương đủ 5/5.

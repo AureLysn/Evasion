@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 17
 status: planned
 aliases: ["canh 41-03 kong cheng", "空城 ch41", "Maiya song ch41", "他一句话都没有说", "他知道夫人在哪个房间"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[maiya]]", "[[irisviel]]", "[[maiya-trong-thuong-song]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[lau-dai-einzbern]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[maiya]]", "[[irisviel]]", "[[lau-dai-einzbern]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

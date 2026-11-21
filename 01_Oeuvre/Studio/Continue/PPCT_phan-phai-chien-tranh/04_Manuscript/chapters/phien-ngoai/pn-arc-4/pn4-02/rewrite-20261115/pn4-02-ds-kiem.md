@@ -10,7 +10,7 @@ chapter: "pn4-02"
 canon_layer: planned
 status: active
 aliases: ["kiem pn4-02 ban DeepSeek", "kiểm phiên ngoại thế giới không có tổ Caster như ta", "pn4-02 ds kiem PPCT"]
-related: ["[[pn4-02-ds-nhap]]", "[[pn4-02-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[deepseek-20261115]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]"]
+related: ["[[pn4-02-ds-nhap]]", "[[pn4-02-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/72f07582-4b70-4ce3-bd50-2f15007907db · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdad39-62a0-83ec-8cd9-624c4b63a758"

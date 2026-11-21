@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 26-03 giac mo", "梦 ch26", "Dazai ke giac mo dem ngay 5", "Tsuna khong thang nguoi bi thuong", "tra loi cau hoi ch23"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]", "[[to-caster-bat-ryunosuke]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---

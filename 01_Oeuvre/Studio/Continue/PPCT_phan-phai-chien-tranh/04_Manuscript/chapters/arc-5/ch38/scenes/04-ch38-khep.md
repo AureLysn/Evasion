@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 38-04 khep", "khep arc 5", "nhin nha tho khac di"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[arc-5-ke-san-va-con-moi]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-27
 ---

@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: planned
 status: proposed
 aliases: ["tropes TDTB", "dinh vi trope TDTB", "ban do trope TDTB", "TDTB dung trope nao", "tang 1 2 3 4 TDTB", "analyze tropes TDTB"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[nguyen-van-zh-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[trope-fandom-khr]]", "[[abo-omegaverse]]", "[[he-thong-van]]", "[[phan-mary-sue]]", "[[xuyen-viet-cong-luoc-van-nhan-me]]", "[[phan-xuyen-phan-he-thong]]", "[[vo-han-luu]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[q-vi-sao-mien-nhiem-hao-quang-tdtb]]", "[[q-so-phan-loc-da-tuyet-tdtb]]", "[[20260927-tra-loi-analyze-tropes]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[nguyen-van-zh-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[trope-fandom-khr]]", "[[abo-omegaverse]]", "[[he-thong-van]]", "[[phan-mary-sue]]", "[[xuyen-viet-cong-luoc-van-nhan-me]]", "[[phan-xuyen-phan-he-thong]]", "[[vo-han-luu]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[q-vi-sao-mien-nhiem-hao-quang-tdtb]]", "[[20260927-tra-loi-analyze-tropes]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]"]
 source:
   type: inference
   ref: "analyze-tropes 27/09/2026. Tang 1: nguyen van zh ch1-15 + trang JJWXC (tag) + events/hooks TDTB. Tang 2: Database/Fandom/KHR/tropes/trope-fandom-khr (confidence 0.5). Tang 3: Library/genres — abo-omegaverse 0.55, he-thong-van 0.55, phan-mary-sue 0.5, xuyen-viet-cong-luoc-van-nhan-me 0.6, phan-xuyen-phan-he-thong 0.5, vo-han-luu 0.55. hook_ledger.py LOI (khong co chapter_summary) — nhip do tay tu drop-point"
@@ -16,7 +16,7 @@ confidence: 0.5
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # TDTB — trope và cấu trúc, trên bốn tầng
@@ -163,7 +163,7 @@ Tính cả kiếp trước theo quyết định của Aurel, đây là điểm T
 | Hệ thống · F: nhiều hệ thống trong một thế giới | **đặt**: hai ký chủ, hai hệ thống **song song**: khác nghiệp vụ, không biết nhau, **không đối đầu** ([[qd-hai-he-thong-khong-lien-quan-tdtb]]) | ch2–15 |
 | Phản Mary Sue · C: **ai tỉnh, vì sao tỉnh** *(trục chịu lực)* | ✅ **đặt 27/09**: ký ức đã lấp đầy chỗ trống mà hào quang cần | [[qd-co-che-hao-quang-tdtb]] |
 | Phản Mary Sue · D: dàn nhân vật có nhớ | **đặt** bởi quyết định Aurel: **nhớ**, kể cả thời bị bỏ bùa | [[qd-tsuna-nay-la-juudaime-tdtb]] |
-| Phản Mary Sue · E: số phận Sue | ✅ **đặt 27/09**: hệ thống bị xử lý, kẻ ngoại lai tự diệt vong | [[qd-ket-cuc-he-thong-va-dong-doi-tdtb]] |
+| Phản Mary Sue · E: số phận Sue | **chưa đặt** — mở lại khi reset 21/11/2026 | — |
 | Phản Mary Sue · F: góc nhìn | **đặt**: có cảnh riêng của Sue và 0038 | ch14, ch15 |
 | Vô hạn lưu | **không dùng**: không có chết thật, thế giới không phải phó bản ([[vo-han-luu]] bảng ranh giới) | ch5 |
 

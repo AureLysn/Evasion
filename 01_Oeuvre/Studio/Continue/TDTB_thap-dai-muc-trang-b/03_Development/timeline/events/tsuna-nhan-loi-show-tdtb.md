@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "2 hoac sau do (van ban: 'rat nhanh')"
   arc: "mo-dau"
-  chapter: "ch3-ch4"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.dao-dien-tdtb"]
 location: ["ký túc xá thuê của Tsuna ngoài trường"]
 aliases: ["Tsuna nhan loi show", "Tsuna nhận lời show", "đạo diễn tới nhà Tsuna", "ky hop dong show", "50 vạn một tụ tập"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

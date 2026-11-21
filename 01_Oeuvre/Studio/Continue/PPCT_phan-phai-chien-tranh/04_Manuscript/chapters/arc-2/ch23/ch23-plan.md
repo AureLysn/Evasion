@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~3.100"
 aliases: ["plan ch23 PPCT", "dan y chuong 23 PPCT", "Cong ch23", "bat Ryunosuke ch23", "手铐 ch23"]
-related: ["[[arc-2-moi-va-luoi]]", "[[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]]", "[[ryunosuke-gay-an-khong-servant]]", "[[Ryuunosuke-Uryuu]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-review]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-to-caster-khac-che-to-saber]]", "[[khu-nha-ryunosuke]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[Ryuunosuke-Uryuu]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-review]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-to-caster-khac-che-to-saber]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 21/09/2026 — Aurel chot phuong an D cho q-lam-sao-tim-ra-hung-thu; Aurel duyet ca C1–C6 theo de xuat, 21/09/2026"
@@ -25,7 +25,7 @@ last_updated: 2026-09-21
 
 # Kế hoạch chương 23 — 手铐 (Còng) · ✅ AUREL DUYỆT 21/09/2026
 
-> Đường truy **đã chốt** — [[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]] (D). Bảng **Chọn của kế hoạch** ở cuối: Aurel duyệt **cả C1–C6 theo đề xuất** (21/09/2026). Ba chi tiết AI tự thêm (còng từ túi áo Dazai · bảng tên 「雨生」 · không dùng lửa) được giữ vì Aurel không gạch.
+> Đường truy **đã chốt** — to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac (D). Bảng **Chọn của kế hoạch** ở cuối: Aurel duyệt **cả C1–C6 theo đề xuất** (21/09/2026). Ba chi tiết AI tự thêm (còng từ túi áo Dazai · bảng tên 「雨生」 · không dùng lửa) được giữ vì Aurel không gạch.
 
 ## Mục tiêu chương
 
@@ -59,7 +59,7 @@ Chương khép arc 2. Hai người đã quen ngồi sau màn hình, lần này *
 - **Lửa Tử Khí / Hyper Mode / thiết bị Vongola**: không dùng khi bắt — người thường không cần, và lửa là thứ pháp sư khác có thể để ý.
 - **Kế của Dazai ở ngày 2** — ❌ [[q-ke-hoach-that-bai-cua-dazai]] còn mở: không nhắc.
 - **Lệnh chú đã đổi tay**: hai người vẫn **chưa biết**.
-- Hang ổ cống ngầm · vòng tay thôi miên · sách phép · triệu hồi — đồ của tổ Caster gốc, đã loại ([[ryunosuke-gay-an-khong-servant]]).
+- Hang ổ cống ngầm · vòng tay thôi miên · sách phép · triệu hồi — đồ của tổ Caster gốc, đã loại (ryunosuke-gay-an-khong-servant).
 - **Xác, cảnh giết**: không lên trang. Số phận năm đứa trẻ trước **không** được tả (C2).
 - Yokohama · lời giải bí ẩn trung tâm · nguyện vọng tổ Caster · nhẫn Mare.
 
@@ -112,8 +112,8 @@ Chương **đời thường có hành động**, không dệt canon — [[05_Eva
 | Thẻ cảnh 01–05 (dữ kiện quá khứ có trích nguồn — L31) | ✅ 21/09 |
 | Canon Ryūnosuke (phần không phụ thuộc Servant) | ✅ [[Ryuunosuke-Uryuu]] 15/09 |
 | Chữ Hán họ 「雨生」 và tên 「龙之介」 — đối chiếu bản Trung Fate/Zero | ⬜ **chưa kiểm** — chưa kiểm được thì writer bỏ bảng tên, giữ chiếc ô (thẻ cảnh 02) |
-| Note `location` cho nhà Ryūnosuke | ✅ [[khu-nha-ryunosuke]] 21/09 |
+| Note `location` cho nhà Ryūnosuke | ✅ khu-nha-ryunosuke 21/09 |
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu hỏi ❌ nào chặn — [[q-lam-sao-tim-ra-hung-thu]] đã chốt 21/09/2026. ❌ [[q-ke-hoach-that-bai-cua-dazai]] vẫn mở, chương này không nhắc.
+Không có câu hỏi ❌ nào chặn — q-lam-sao-tim-ra-hung-thu đã chốt 21/09/2026. ❌ [[q-ke-hoach-that-bai-cua-dazai]] vẫn mở, chương này không nhắc.

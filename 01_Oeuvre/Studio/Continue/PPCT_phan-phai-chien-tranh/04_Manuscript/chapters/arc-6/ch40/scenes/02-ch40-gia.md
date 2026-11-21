@@ -20,14 +20,14 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 40-02 gia", "假的 ch40", "Rider tren mai nha", "不对 ch40", "khoi den ch7 quen Saber", "Dazai L3 xe gia"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]", "[[berserker]]", "[[irisviel]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-can-dazai-de-thang-archer]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[to-caster-noi-ba-dao-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]", "[[berserker]]", "[[irisviel]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-can-dazai-de-thang-archer]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---
 
 # Cảnh 02 — 假的 · POV Tsuna · ~850 chữ Hán
 
-> `forbidden_secrets`: Tsuna và Dazai ở **L3 không tên**. **Cấm:** 言峰 · 绮礼 · 神父; "Master của Assassin" gắn với vụ bắt cóc; mọi `leak_terms` của [[archer-doi-master-sang-kirei]].
+> `forbidden_secrets`: Tsuna và Dazai ở **L3 không tên**. **Cấm:** 言峰 · 绮礼 · 神父; "Master của Assassin" gắn với vụ bắt cóc; mọi `leak_terms` của archer-doi-master-sang-kirei.
 > 🔴 **Không** thấy chỗ kẻ giả dừng lại hay giao người (canon: Kirei nhận Irisviel trên một mái nhà). Chuồn chuồn **mất dấu trước**.
 > 🔴 **Không** 令咒 trong suy luận của Dazai; **không** 间桐 · 雁夜; **không** chân danh Berserker ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]] dòng 59, 63).
 > 🔴 **Không** 容器 · 圣杯容器. Câu ch4 về Irisviel dành cho **ch42**.
@@ -69,9 +69,9 @@ Gieo và trả tuyến "xe giả" trong cùng một cảnh. Tsuna **thấy**, Da
 - **ch12** ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]): Rider phá kết giới lâu đài Einzbern, chở cả tổ Caster trên chiến xa tới dự tiệc. Rider cười thành chuỗi 「哈哈哈哈」, tự xưng 「朕」.
 - **ch7** ([[berserker]]): giáp đen không trang trí, mặt nạ kín, **khói đen như lửa**. ch9: nhắm vào Saber.
 - **ch7** ([[hook-tsuna-nhin-saber-im-lang]]): Tsuna 「难得地沉默了一下，看向Saber，却到底没有说什么」.
-- **ch38**: 「一个说自己已经输掉的御主，从者却还好好地在外面跑」 · 「没有看见的东西，就只能叫猜」 — [[to-caster-noi-ba-dao-lenh-chu]].
+- **ch38**: 「一个说自己已经输掉的御主，从者却还好好地在外面跑」 · 「没有看见的东西，就只能叫猜」 — to-caster-noi-ba-dao-lenh-chu.
 - **Xưng hô** ([[tsuna--artoria]]): Tsuna gọi Irisviel 「爱莉斯菲尔小姐」 (ch12).
-- **Canon** ([[20260929-canon-arc-6-co-xe-gia]] a1–a2): kẻ giả mang hình Rider, **không** chiến xa, **không** sấm.
+- **Canon** (20260929-canon-arc-6-co-xe-gia a1–a2): kẻ giả mang hình Rider, **không** chiến xa, **không** sấm.
 
 ## Writer-only — KHÔNG lên trang
 

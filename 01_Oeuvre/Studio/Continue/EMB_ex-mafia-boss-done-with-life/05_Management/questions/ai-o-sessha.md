@@ -11,10 +11,10 @@ needed_before:
   chapter: 4
 decision_owner: user
 aliases: ["ai o sessha", "ke cuop co dau", "bride stealing la ai", "thu khac di lai tren mat dat"]
-related: ["[[emb-lam-lai-tu-nguon]]", "[[dot7-quyet-dinh]]", "[[ke-cuop-co-dau]]", "[[20260916-p2-ch2]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[emb-chot-sau-p2-ch2]]"]
+related: [ "[[ke-cuop-co-dau]]", "[[20260916-p2-ch2]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[emb-chot-sau-p2-ch2]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Ai/cái gì ở sessha lúc lễ cưới?
@@ -23,11 +23,11 @@ last_updated: 2026-09-16
 >
 > Còn để ngỏ, nhưng thuộc dàn ý chứ không thuộc nguồn: chúng phục vụ ai, và lễ cưới ràng buộc Tsuna tới đâu.
 
-> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án A** *(Aurel, đợt 7)*: **yokai, hoặc thần linh**, vì mối liên hệ Inari.
+> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án A** *(Aurel, 16/08/2026)*: **yokai, hoặc thần linh**, vì mối liên hệ Inari.
 >
-> ⚠️ **Không phải quyết định.** dot7 đã `superseded` — xem [[emb-lam-lai-tu-nguon]].
+> ⚠️ **Không phải quyết định.** Đề xuất cũ này đã `superseded`.
 >
-> Và thiết lập của tác giả **đã được tìm thấy, nó ủng hộ mạnh lựa chọn này** — xem [[fact-inari-va-kitsune]]. Musashi nói thẳng: *"Foxes tend to like shiny things. And Tsuna…he is remarkable… I don't want to surrender my grandson. Not to this plane or any other."* Xem [[dot7-quyet-dinh]].
+> Và thiết lập của tác giả **đã được tìm thấy, nó ủng hộ mạnh lựa chọn này** — xem [[fact-inari-va-kitsune]]. Musashi nói thẳng: *"Foxes tend to like shiny things. And Tsuna…he is remarkable… I don't want to surrender my grandson. Not to this plane or any other."* Xem dot7-quyet-dinh.
 
 ## Vì sao cần quyết
 
@@ -65,7 +65,7 @@ Arc: brat · Chương: **4** — chậm nhất, vì để lâu thì cảnh mất
 
 ## Ghi chú
 
-⚠️ **Chưa kiểm** bản `aurel-main` Ch3–8 đã dùng hook này chưa. Nếu đã dùng theo một hướng thì đây là chỗ cần `check-conflicts` ở đợt 4.
+Bản v3 *(BratArc Ch3–8, `superseded`)* không dùng làm căn cứ.
 
 ## Kiểm ở P2 Ch2 — 16/09/2026
 

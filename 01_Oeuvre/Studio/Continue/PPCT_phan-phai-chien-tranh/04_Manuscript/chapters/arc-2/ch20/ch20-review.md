@@ -38,7 +38,7 @@ last_updated: 2026-09-20
 
 | Nhóm | Điểm | Căn cứ |
 |---|---|---|
-| Timeline | Ngày 5 ban ngày, nối thẳng đêm ch19 (1 giờ sáng) | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master\|master]] · [[kayneth-tap-kich-lau-dai-einzbern]] |
+| Timeline | Ngày 5 ban ngày, nối thẳng đêm ch19 (1 giờ sáng) | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master\|master]] · kayneth-tap-kich-lau-dai-einzbern |
 | Nguyên văn | Món nợ bù đắp; cả tủ quần áo mua bằng thẻ đen | ch10 「那么纲吉要给我补偿。」 · ch11 |
 | Nguyên văn | Máy giám sát cỡ côn trùng, bàn nhiều màn hình, game | ch3 |
 | Viết tiếp | Chuồn chuồn đậu ở khung cửa sổ lâu đài đêm qua; màn hình tắt từ đêm qua | ch19 |

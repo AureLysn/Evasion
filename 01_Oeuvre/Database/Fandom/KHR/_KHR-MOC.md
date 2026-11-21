@@ -65,7 +65,7 @@ Không phủ hết canon. Ưu tiên: (a) nhân vật/hệ thống có mặt tron
 |---|---|
 | `EMB` | ✅ **Đã migrate 20/08/2026.** Tên cũ `KOHAKU` giữ làm alias — xem [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-la-kohaku\|emb-la-kohaku]]. Ba file `*-KOHAKU.md` nay ở kho: `library` → `01_Fandoms/[KHR] Katekyo Hitman Reborn/AI_Continue/[EMB] Ex-Mafia Boss Done With Life. Life Not Done With Ex-Mafia Boss/sources/knowledge-data/` |
 | `DUA` | 🟡 `status: idea` — crossover BNHA, **thử nghiệm đầu, sẽ làm lại từ đầu** khi Aurel quay lại |
-| `TRIAD` *(mã tạm)* | Sáng tác gốc KHR × JJK × BSD (Tsuna/Gojo/Dazai), `origin: original`. Ở `Studio/Continue/TRIAD_khr-jjk-bsd/`, `status: idea`. Mã tạm: [[quy-uoc-ma-project]] rút mã từ fic gốc, truyện này không có fic gốc |
+| `TRIAD` *(mã tạm)* | Sáng tác gốc KHR × JJK × BSD (Tsuna/Gojo/Dazai), `origin: original`. Ở `Studio/Original/TRIAD_khr-jjk-bsd/`, `status: idea`. Mã tạm: [[quy-uoc-ma-project]] rút mã từ fic gốc, truyện này không có fic gốc |
 
 > ⚠️ **Ba fic dùng canon KHR cùng tồn tại** (`EMB`, `DUA`, và `TRIAD`). Canon KHR
 > nghiên cứu cho fic nào cũng phải đổ vào `Database/Fandom/KHR/`, **không** để trong thư mục

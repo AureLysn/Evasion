@@ -10,7 +10,7 @@ chapter: "pn2-09"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-09 ban DeepSeek", "kiểm phiên ngoại khách trà", "pn2-09 ds kiem PPCT"]
-related: ["[[pn2-09-ds-nhap]]", "[[pn2-09-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Gin-Akutagawa]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Luce]]"]
+related: ["[[pn2-09-ds-nhap]]", "[[pn2-09-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Gin-Akutagawa]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/5ba6ffbb-2517-4a57-b0a3-b7ff52306261 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd5100-fba0-83ec-a795-24b5fc3b0a0f"

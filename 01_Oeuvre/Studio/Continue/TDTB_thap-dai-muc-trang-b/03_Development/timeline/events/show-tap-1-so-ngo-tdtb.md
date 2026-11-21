@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1 (ngay quay dau tien)"
   arc: "show-tap-1"
-  chapter: "ch9-ch10"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.kesuke-tdtb", "character.TDTB.suzuki-kenichi-tdtb", "character.TDTB.thien-dao-tdtb", "character.TDTB.yuuko-tdtb", "character.TDTB.dao-dien-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]]"]
 aliases: ["tap 1 show", "tập 1 show", "Sơ Ngộ", "so ngo", "mặt nạ", "tâm động phòng nhỏ", "Tuyết chọn Tsuna", "Ta lựa chọn cương Cát Quân", "ghép cặp tập 1"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

@@ -12,7 +12,7 @@ needed_before:
   chapter: "truoc analyze-drop-point — quyet dinh diem dung that la cuoi P2 Ch1 hay P2 Ch2"
 decision_owner: user
 aliases: ["thu tu P2", "P2 Ch1 xay ra sau P2 Ch2", "diem dung that", "Kawahira ben trai hay phai", "vi sao fic bi drop"]
-related: ["[[emb-lam-lai-tu-nguon]]", "[[dot8d-thu-tu-p2]]", "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[hai-su-kien-p2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[20260916-p2-ch1]]", "[[ao3-tra-loi-tac-gia]]", "[[20260916-p2-ch2]]", "[[tsuna-dam-phan-kawahira]]"]
+related: [ "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[hai-su-kien-p2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[20260916-p2-ch1]]", "[[ao3-tra-loi-tac-gia]]", "[[20260916-p2-ch2]]", "[[tsuna-dam-phan-kawahira]]"]
 source:
   type: user_input
   ref: "Aurel, dot 8d, 2026-08-16 — decisions/dot8d-thu-tu-p2.md (Aurel doc reply tac gia truc tiep tren AO3)"
@@ -20,7 +20,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # P2 Ch1 xảy ra trước hay sau P2 Ch2?
@@ -41,7 +41,7 @@ Trước khi chạy lại `analyze-drop-point`.
 
 ❌ Bắt buộc người viết
 
-## Đề xuất cũ — đợt 8d *(Aurel, 16/08/2026)*
+## Đề xuất cũ của Aurel *(16/08/2026)*
 
 **P2 Ch1 xảy ra SAU P2 Ch2**, và đó có thể là lý do fic dừng. Ba bằng chứng được nêu:
 
@@ -53,7 +53,7 @@ Hệ quả ghi lúc đó: điểm dừng thật là cuối P2 Ch1; ba hook cuố
 
 ## Ghi chú
 
-- 🔴 Bằng chứng 1 **không có trong bản trích comment của vault** — đợt 8d đã grep và không thấy. Khi nạp lại nguồn, đọc thẳng `AO3-author-replies.md` và hai file comment gốc. Nếu vẫn không có, cần Aurel dán lại reply đó vào `sources/`.
+- 🔴 Bằng chứng 1 **không có trong bản trích comment của vault** — lượt AI trước đã grep và không thấy. Khi nạp lại nguồn, đọc thẳng `AO3-author-replies.md` và hai file comment gốc. Nếu vẫn không có, cần Aurel dán lại reply đó vào `sources/`.
 - Thân truyện P2 Ch1 viết *"Indra stood behind him to his right"* — ngược với reply. Mâu thuẫn trái/phải vẫn chưa phân xử.
 - Bằng chứng 2 và 3 đếm được trên nguyên tác → kiểm lại ở `extract-entities`.
 

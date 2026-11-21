@@ -9,7 +9,7 @@ status: locked
 decided: 2026-09-20
 decided_by: user
 aliases: ["cham lua", "thu tuong thich", "Sky choc vao Cloud", "phep thu harmony", "flame probe", "tuong thich ngon lua", "Sky thu mot nguoi", "tuong tac ngon lua"]
-related: ["[[fact-cloud-ben-bi-cach-ly-la-xa-hoi]]", "[[fact-loi-flame]]", "[[emb-chot-may-nhan-loi-sky]]", "[[rule-danh-xung-flame]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tsuna--xanxus]]", "[[brat-ch4-chapter-ban-20261001]]", "[[hook-su-co-nha-khoa-hoc-vongola]]", "[[fact-cham-lua-thu-tuong-thich-phan-cu]]"]
+related: ["[[fact-cloud-ben-bi-cach-ly-la-xa-hoi]]", "[[fact-loi-flame]]", "[[emb-chot-may-nhan-loi-sky]]", "[[rule-danh-xung-flame]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[hook-su-co-nha-khoa-hoc-vongola]]"]
 source:
   type: user_input
   ref: "Aurel, 20/09/2026: 'no chi la tuong tac ngon lua, thu ma chua co co hoi dua ra nen lan nay minh dua ra (xanxus dang dung ngon lua Sky de choc vao ngon lua Cloud de kiem tra xem ngon lua cua ho co tuong thich khong)'"

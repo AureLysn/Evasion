@@ -10,7 +10,7 @@ chapter: "pn3-01"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-01 ban DeepSeek", "thẻ cảnh kỳ thi vào Tổ", "pn3-01 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[pn2-09-ds-nhap]]", "[[pn2-09-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Dazai-Osamu]]", "[[Taneda-Santouka]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn2-09-ds-nhap]]", "[[pn2-09-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Dazai-Osamu]]", "[[Taneda-Santouka]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-01 (Aurel duyệt 18/11/2026; C1–C17 để DeepSeek/GPT); note Database Armed-Detective-Agency (tạo 18/11/2026 từ wiki, gồm tóm tắt light novel Entrance Exam), Doppo-Kunikida, Edogawa-Ranpo; dữ kiện pn2-09-ds-kiem."

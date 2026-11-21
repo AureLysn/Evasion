@@ -10,7 +10,7 @@ chapter: "pn5-03"
 canon_layer: planned
 status: active
 aliases: ["kiem pn5-03 ban DeepSeek", "kiểm phiên ngoại mạch chính", "pn5-03 ds kiem PPCT"]
-related: ["[[pn5-03-ds-nhap]]", "[[pn5-03-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[deepseek-20261115]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[pn3-11-ds-nhap]]"]
+related: ["[[pn5-03-ds-nhap]]", "[[pn5-03-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[pn3-11-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/e4e83d67-45d0-40b2-9c5f-260b89708919 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdc101-d038-83ec-8e9f-e00465c94e7c"

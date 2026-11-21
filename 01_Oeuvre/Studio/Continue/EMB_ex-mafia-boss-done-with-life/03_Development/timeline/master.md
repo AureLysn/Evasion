@@ -7,16 +7,16 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["timeline", "dong thoi gian", "moc su kien", "master timeline", "lich su", "thu tu su kien EMB", "Timeline/master", "timeline/master"]
-related: ["[[tuoi-va-moc]]", "[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[chapters/_MOC|chapters]]", "[[emb-chot-sau-p2-ch2]]", "[[q-thu-tu-p2]]", "[[phan-biet-hai-the-gioi]]", "[[master-phan-cu]]"]
+related: ["[[tuoi-va-moc]]", "[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[chapters/_MOC|chapters]]", "[[emb-chot-sau-p2-ch2]]", "[[q-thu-tu-p2]]", "[[phan-biet-hai-the-gioi]]"]
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [timeline]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Dòng thời gian — EMB
 
-> 🔁 Dựng lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]], **theo thứ tự xảy ra** chứ không theo thứ tự đăng.
+> 🔁 Dựng lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn, **theo thứ tự xảy ra** chứ không theo thứ tự đăng.
 >
 > 🔴 **Chốt 16/09** — [[emb-chot-sau-p2-ch2]]: [[p2-ch2]] *(lễ cưới cáo, Tsuna sáu tuổi)* xảy ra **trước** [[p2-ch1]] **vài tháng**. Mốc muộn nhất của nguyên tác là **cuối P2 Ch1**.
 >

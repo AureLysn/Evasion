@@ -10,7 +10,7 @@ chapter: "pn2-03"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-03 ban DeepSeek", "kiểm phiên ngoại Bảy người xa lạ thượng", "pn2-03 ds kiem PPCT"]
-related: ["[[pn2-03-ds-nhap]]", "[[pn2-03-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Luce]]", "[[Fon]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull]]"]
+related: ["[[pn2-03-ds-nhap]]", "[[pn2-03-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Luce]]", "[[Fon]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/3de38fa7-c04a-4929-8b83-f08783e8db92 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afce53d-7d18-83ec-8a46-8572aebc1381"

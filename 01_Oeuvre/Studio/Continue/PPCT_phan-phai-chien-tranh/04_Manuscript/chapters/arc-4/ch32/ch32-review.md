@@ -30,7 +30,7 @@ last_updated: 2026-09-24
 
 | Lệnh | Kết quả |
 |---|---|
-| `pov_leak_check` ×3 cảnh | **exit 0** · findings 0 · không bí mật nào "không kiểm được" (cả hai POV ở `known_by` [[dazai-mang-ky-uc-kiep-truoc]]) · [[archer-doi-master-sang-kirei]] được kiểm bằng `leak_terms` |
+| `pov_leak_check` ×3 cảnh | **exit 0** · findings 0 · không bí mật nào "không kiểm được" (cả hai POV ở `known_by` [[dazai-mang-ky-uc-kiep-truoc]]) · archer-doi-master-sang-kirei được kiểm bằng `leak_terms` |
 | grep tay | 戒指 · 指环 · 戒 · 枪响 · 棉花糖 · 龙 · 时臣 · 远坂 · Archer · 绮礼 · 令咒 · 抚平 = 0 |
 | `style_metrics.py --write` | exit 1 — thuật ngữ < 9 (sàn **dệt canon**, không áp cho chương đời thường; plan ≥ 4) |
 | `vault_doctor --include-fiction --zone …/PPCT` | 0 lỗi · 1 cảnh báo cũ |

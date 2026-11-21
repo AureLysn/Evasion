@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.kariya]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan ch39 PPCT", "dan y chuong 39 PPCT", "交易 ch39", "giao dich ch39", "Kirei tim Kariya ch39", "POV Kariya ch39"]
-related: ["[[arc-6-co-xe-gia]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[q-giao-dich-kirei-kariya]]", "[[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]", "[[nha-mato]]", "[[kirei-nap-mot-dao-lenh-chu-cho-kariya]]", "[[bo-canh-kariya-va-aoi]]", "[[pov-arc-6-kariya-va-kiritsugu]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[moi-tram-canon-lech-co-he-qua]]", "[[kariya]]", "[[kirei]]", "[[berserker]]", "[[Kariya-Matou]]", "[[Kirei-Kotomine]]", "[[Lancelot-Berserker]]", "[[Command-Spells]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[nha-mato]]", "[[moi-tram-canon-lech-co-he-qua]]", "[[kariya]]", "[[kirei]]", "[[berserker]]", "[[Kariya-Matou]]", "[[Kirei-Kotomine]]", "[[Lancelot-Berserker]]", "[[Command-Spells]]", "[[kirei-van-la-master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 29/09/2026 — chuong 1 arc 6. Canon: crosscheck 20260929 (a1, b1, d1–d4). AI de xuat C1–C8; Aurel 29/09: duyet C1–C8 theo de xuat"
@@ -25,9 +25,9 @@ last_updated: 2026-09-29
 
 # Kế hoạch chương 39 — Giao dịch · ✅ AUREL DUYỆT 29/09/2026
 
-> Chương 1 arc 6. Khung arc: *POV Kariya — Kirei đưa lệnh chú và một lời hứa, đổi lấy việc bắt người phụ nữ ở lâu đài dưới mặt Rider* ([[arc-6-co-xe-gia]]).
+> Chương 1 arc 6. Khung arc: *POV Kariya — Kirei đưa lệnh chú và một lời hứa, đổi lấy việc bắt người phụ nữ ở lâu đài dưới mặt Rider* (arc-6-co-xe-gia).
 > Aurel duyệt **cả C1–C8 theo đề xuất** (29/09/2026: "duyệt C1–C8 theo đề xuất, viết thẻ cảnh"). Thẻ cảnh 01–03 đã viết.
-> Canon: [[20260929-canon-arc-6-co-xe-gia]]. Độ tin ≤ 0.8 — tóm tắt bản dịch fan, chưa đọc nguyên văn.
+> Canon: 20260929-canon-arc-6-co-xe-gia. Độ tin ≤ 0.8 — tóm tắt bản dịch fan, chưa đọc nguyên văn.
 
 ## Mục tiêu chương
 
@@ -63,9 +63,9 @@ Lần đầu người đọc vào đầu Master của Berserker. Chương này n
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- 🔴 [[kirei-van-la-master]] · [[archer-doi-master-sang-kirei]]: Kariya ở `unknown_to` cả hai. **Cấm:** Kariya biết hoặc đoán Kirei còn là Master, Archer đổi chủ, Tokiomi chết (`leak_terms`: 时臣死 · 时臣已经死 · 时臣被杀 · Archer的新御主 · 绮礼的从者 · Azoth剑). Kirei **không** để lộ cánh tay có lệnh chú Archer.
+- 🔴 [[kirei-van-la-master]] · archer-doi-master-sang-kirei: Kariya ở `unknown_to` cả hai. **Cấm:** Kariya biết hoặc đoán Kirei còn là Master, Archer đổi chủ, Tokiomi chết (`leak_terms`: 时臣死 · 时臣已经死 · 时臣被杀 · Archer的新御主 · 绮礼的从者 · Azoth剑). Kirei **không** để lộ cánh tay có lệnh chú Archer.
 - 🔴 [[kiritsugu-la-master-that]]: Kariya **không** biết. Với hắn, người phụ nữ ở lâu đài là "Master của Saber" hoặc không là gì cả.
-- 🔴 [[irisviel-binh-chua-chi-he-qua-tsuna]]: **không** 圣杯容器 · 容器. Kirei **không** nói vì sao cần cô.
+- 🔴 irisviel-binh-chua-chi-he-qua-tsuna: **không** 圣杯容器 · 容器. Kirei **không** nói vì sao cần cô.
 - 🔴 [[assassin-chua-chet]] · [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]]: không chạm. **Tổ Caster không có trong chương**, kể cả một câu nhắc.
 - 🔴 **POV Kirei: cấm.** Động cơ Kirei chỉ ở mục *writer-only* của thẻ cảnh. Kariya **không** được đọc vị Kirei đúng; hắn dễ bị thao túng (canon).
 - Chân danh Berserker (Lancelot): **không** lên trang.
@@ -103,13 +103,13 @@ Chương **dệt canon, POV phía Berserker** — [[05_Evasion/01_Oeuvre/Studio/
 | # | Câu hỏi | Đề xuất | Vì sao · phương án khác |
 |---|---|---|---|
 | C1 | **Kariya đã đánh thẳng Tokiomi chưa** | **Chưa.** Kirei tìm tới Kariya ở arc 5 **vì** hắn đang kiệt (Berserker hút ma lực từ ngày 1, trùng ăn). Lần tới đầu tiên, Kirei chữa cho hắn, ngoài trang | Canon: đánh Tokiomi **đêm Caster bại** (b1). PPCT **không có** đêm đó, vì tổ Caster thay Caster gốc. Bịa thêm một trận ngoài trang thì phải đặt nó vào timeline ngày 1–10, mà không chương nào có dấu vết. *Khác:* (b) có trận, ngoài trang, trước ngày 10 — gần canon hơn, nhưng là một sự kiện không ai thấy |
-| C2 | **Kariya biết Tokiomi chết chưa** *(vế 2 [[q-giao-dich-kirei-kariya]])* | **Không biết** | Giống canon (bị dụ tới gặp cái xác). Giữ được `leak_terms` của [[archer-doi-master-sang-kirei]]. Kirei không cần tự lộ gì. *Khác:* Kirei nói ra — trái tính thận trọng của hắn, lộ một mảnh bí mật |
-| C3 | **Lời hứa** *(vế 3)* | **Chén.** Kariya thắng thì giao kèo với Zōken thành, Sakura được về. Kirei chỉ nói nửa đầu; nửa sau là Kariya tự điền | Không dựng cảnh nhà thờ cần xử lý ở arc 7 ([[bo-canh-kariya-va-aoi]]). *Khác:* canon — "nửa đêm, nhà thờ, gặp Tokiomi" (d4). Được, vì lý do cấm cũ đã gạch; nhưng arc 7 phải chọn Kariya tới nhà thờ gặp gì mà không có Aoi, và luật 「不碰教会」 của tổ Caster đứng ngay cạnh |
-| C4 | **Xác nhận lại: một đạo** + Kariya còn mấy đạo trước khi nạp | **Một đạo.** Trước khi nạp: **như canon, còn 1** (canon: tay phải "thiếu hai đạo" — [[Kariya-Matou]]; dùng ở đâu **chưa xác minh**). Nhận 1 → **2**; giả dạng tốn 1 → vào đêm cuối còn **1** (canon: 2) | Canon nạp **2**, không phải 1 — lời "gần canon" của mình trước đây **sai** ([[20260929-canon-arc-6-co-xe-gia]] d1). Nguyên tác ch6–10: 令咒 chỉ xuất hiện với Tokiomi ở ch9 ([[04_Manuscript/chapters/arc-2/ch19/ch19-review]] #1) → Kariya đã dùng mấy đạo, **văn bản im lặng**, canon lấp: còn 1. Một đạo nghĩa là Kariya vào đêm cuối **yếu hơn canon một đạo**. *(Bản plan trước ghi "dùng một ở kho cảng", "trận sông Mion" — **viết từ trí nhớ**, đã gạch.)* *Khác:* hai đạo như canon — Kariya bằng canon, Kirei chỉ còn một đạo của Sola-Ui |
+| C2 | **Kariya biết Tokiomi chết chưa** *(vế 2 q-giao-dich-kirei-kariya)* | **Không biết** | Giống canon (bị dụ tới gặp cái xác). Giữ được `leak_terms` của archer-doi-master-sang-kirei. Kirei không cần tự lộ gì. *Khác:* Kirei nói ra — trái tính thận trọng của hắn, lộ một mảnh bí mật |
+| C3 | **Lời hứa** *(vế 3)* | **Chén.** Kariya thắng thì giao kèo với Zōken thành, Sakura được về. Kirei chỉ nói nửa đầu; nửa sau là Kariya tự điền | Không dựng cảnh nhà thờ cần xử lý ở arc 7 (bo-canh-kariya-va-aoi). *Khác:* canon — "nửa đêm, nhà thờ, gặp Tokiomi" (d4). Được, vì lý do cấm cũ đã gạch; nhưng arc 7 phải chọn Kariya tới nhà thờ gặp gì mà không có Aoi, và luật 「不碰教会」 của tổ Caster đứng ngay cạnh |
+| C4 | **Xác nhận lại: một đạo** + Kariya còn mấy đạo trước khi nạp | **Một đạo.** Trước khi nạp: **như canon, còn 1** (canon: tay phải "thiếu hai đạo" — [[Kariya-Matou]]; dùng ở đâu **chưa xác minh**). Nhận 1 → **2**; giả dạng tốn 1 → vào đêm cuối còn **1** (canon: 2) | Canon nạp **2**, không phải 1 — lời "gần canon" của mình trước đây **sai** (20260929-canon-arc-6-co-xe-gia d1). Nguyên tác ch6–10: 令咒 chỉ xuất hiện với Tokiomi ở ch9 ([[04_Manuscript/chapters/arc-2/ch19/ch19-review]] #1) → Kariya đã dùng mấy đạo, **văn bản im lặng**, canon lấp: còn 1. Một đạo nghĩa là Kariya vào đêm cuối **yếu hơn canon một đạo**. *(Bản plan trước ghi "dùng một ở kho cảng", "trận sông Mion" — **viết từ trí nhớ**, đã gạch.)* *Khác:* hai đạo như canon — Kariya bằng canon, Kirei chỉ còn một đạo của Sola-Ui |
 | C5 | **Thời điểm, nơi** | **Trưa ngày 15, nhà Matō** (thay "đêm ngày 14" trong khung arc) | Canon: trưa ngày bắt cóc, nhà Matō (d4, 0.6). Kéo ch39 sát vụ bắt cóc tối ngày 15. *Khác:* giữ đêm ngày 14 — thêm nửa ngày trống giữa giao dịch và bắt cóc |
 | C6 | Zōken có lên trang không | **Không** — tối đa một câu nhắc | Chương là của Kariya và Kirei. Zōken lên trang kéo theo cả một tầng canon nhà Matō |
 | C7 | Kirei nói gì về nguồn gốc lệnh chú | **Một câu, chủ ngữ là giáo hội:** lệnh chú do giáo hội giữ — vọng ch29 「由教会保管」. **Không** nhắc giám sát viên | Canon Kirei nói "ta nhận chức giám sát viên nên được phân phối lại" (d2) — PPCT Risei **còn sống**, nên câu canon **không dùng được**. Người đọc nối được với Sola-Ui; Kariya thì không |
-| C8 | Kirei gọi Irisviel là gì | 「爱因兹贝伦的那个女人」 — không tên, không lý do | [[irisviel-binh-chua-chi-he-qua-tsuna]]. Kariya không hỏi vì sao (dễ bị thao túng — canon) |
+| C8 | Kirei gọi Irisviel là gì | 「爱因兹贝伦的那个女人」 — không tên, không lý do | irisviel-binh-chua-chi-he-qua-tsuna. Kariya không hỏi vì sao (dễ bị thao túng — canon) |
 
 ## Thời điểm
 
@@ -120,9 +120,9 @@ Chương **dệt canon, POV phía Berserker** — [[05_Evasion/01_Oeuvre/Studio/
 | Điều kiện | Trạng thái |
 |---|---|
 | Aurel duyệt C1–C8 | ✅ 29/09/2026 |
-| Chốt vế 2–3 của [[q-giao-dich-kirei-kariya]] → decision (theo C2, C3) | ✅ [[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]] |
+| Chốt vế 2–3 của q-giao-dich-kirei-kariya → decision (theo C2, C3) | ✅ kariya-khong-biet-tokiomi-chet-kirei-hua-chen |
 | Cập nhật khung arc: ch39 → trưa ngày 15 (theo C5) | ✅ 29/09 |
-| Canon: giả dạng, lệnh chú, cách chuyển | ✅ [[20260929-canon-arc-6-co-xe-gia]] (≤ 0.8) |
+| Canon: giả dạng, lệnh chú, cách chuyển | ✅ 20260929-canon-arc-6-co-xe-gia (≤ 0.8) |
 | [[kariya]] · `unknown_to` · 间桐雁夜 | ✅ 29/09 |
 | Nguồn PPCT cho giọng Kirei: ch28 (「床和热水都有」), ch29 (「保管。」 · 「和其他的放在一起。」), ch31 | ✅ [[kirei]] |
 | Kiểm ch9: Berserker rút lui bằng lệnh chú hay không (cho C4) | ✅ 29/09 — nguyên tác im lặng (grep 令咒 ch6–10 chỉ Tokiomi) |
@@ -130,4 +130,4 @@ Chương **dệt canon, POV phía Berserker** — [[05_Evasion/01_Oeuvre/Studio/
 
 ## Quyết định còn treo chặn chương này
 
-Không còn — [[q-giao-dich-kirei-kariya]] đã đóng ([[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]). Không có câu ❌. Phải **né**: [[q-loi-giai-bi-an-trung-tam]] · [[q-loi-moi-hien-the]] · [[q-ket-cuc-rider-waver]].
+Không còn — q-giao-dich-kirei-kariya đã đóng (kariya-khong-biet-tokiomi-chet-kirei-hua-chen). Không có câu ❌. Phải **né**: q-loi-giai-bi-an-trung-tam · q-loi-moi-hien-the · q-ket-cuc-rider-waver.

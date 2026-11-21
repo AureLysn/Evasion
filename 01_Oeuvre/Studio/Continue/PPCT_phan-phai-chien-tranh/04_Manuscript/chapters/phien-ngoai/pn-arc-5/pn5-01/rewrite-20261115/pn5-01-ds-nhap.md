@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn5-01 ban DeepSeek nhap", "phiên ngoại trang giấy tự lật DeepSeek", "反派战争 番外二十九 自己翻页的纸 DeepSeek"]
-related: ["[[pn-arc-5-ds-plan]]", "[[pn5-01-ds-the-canh]]", "[[pn5-01-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-11-ds-nhap]]", "[[The-Book]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Edogawa-Ranpo]]", "[[Doppo-Kunikida]]", "[[Nakahara-Chuuya]]"]
+related: ["[[pn-arc-5-ds-plan]]", "[[pn5-01-ds-the-canh]]", "[[pn5-01-ds-kiem]]", "[[pn3-11-ds-nhap]]", "[[The-Book]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Edogawa-Ranpo]]", "[[Doppo-Kunikida]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E (bị ngắt giữa 【反应】, viết tiếp lượt 2), ba bản 说话 (C-a) và ba bản 一句话 (C-b); GPT chấm (说话二 + khoảng trắng của 说话三; 一句话二) và đọc thử; Claude kiểm, sửa và viết thêm (xem pn5-01-ds-kiem). Chương đầu Arc V. Chat: https://chat.deepseek.com/a/chat/s/aab1d024-3fef-4008-8716-a52d5d204785"

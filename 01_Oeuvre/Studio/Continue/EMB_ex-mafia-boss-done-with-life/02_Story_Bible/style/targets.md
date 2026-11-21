@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets", "chi tieu van phong", "muc tieu do luong", "so can cham"]
-related: ["[[signature]]", "[[hard-rules]]", "[[ai-tells]]", "[[emb-lam-lai-tu-nguon]]"]
+related: ["[[signature]]", "[[hard-rules]]", "[[ai-tells]]"]
 source:
   type: measured
   ref: "Do lai 17/09/2026 tu personal-bulk:fiction-sources/EMB/raw/original-fic/ (2 file HTML): trich than chuong tu div.userstuff ben trong, giu nghieng o dang *markdown*, bo khoi chu thich cuoi P2 Ch2, bo Ch4 (thong bao 59 tu). 5 chuong, 37.391 tu (dem \\S+). Do bang chinh ham measure() cua 01_Origine/04_Tools/VaultTool/chapter_gate.py va style_metrics.py, cong mot script dem cau/thoai theo tung doan."
@@ -17,12 +17,12 @@ confidence: 0.95
 always_load: false   # tra cuu — nguong that su nam trong ai-tells frontmatter
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [style, target]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Chỉ tiêu — con số cần chạm
 
-> 🔁 **Đo lại từ nguồn thô 17/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Bản 15/08 đo trên **43.152 từ** — khoảng **15% là ghi chú lẫn vào**; thân chương thật là **37.391 từ**.
+> 🔁 **Đo lại từ nguồn thô 17/09/2026** trong lượt làm lại từ nguồn. Bản 15/08 đo trên **43.152 từ** — khoảng **15% là ghi chú lẫn vào**; thân chương thật là **37.391 từ**.
 >
 > Lệch thì **báo số, không nhét chữ**. Ép một chỉ số bằng cách rắc thêm dấu câu là làm hỏng văn để làm đẹp bảng.
 
@@ -123,7 +123,7 @@ Sky · Rain · Sun · Cloud · Mist · Storm · Lightning đếm cả **nghĩa t
 
 Ngưỡng ≥ 7: tác giả đạt **4/5** *(P1 Ch1 5,26 — chương một đứa bé tỉnh dậy, gần như không có thuật ngữ)*.
 
-## Lịch sử — bảng điểm sáu chương AI *(bản v3, `superseded`)*
+## Lịch sử — bảng điểm sáu chương AI *(bản v3, đã xóa 21/11/2026)*
 
 Bảng dưới chấm sáu chương `BratArc-Chuong3..8` theo **mốc cũ 15/08**. Giữ lại vì chẩn đoán của nó — **ba dòng vỡ ở cả sáu chương: `!` · `…` · câu dài** — là bằng chứng rằng lỗi nằm ở **hồ sơ nạp vào trước khi viết**, không ở từng chương. ⚠️ Các số **tác giả** trong bảng là **số cũ**, dùng bảng *Mốc tác giả* ở trên.
 

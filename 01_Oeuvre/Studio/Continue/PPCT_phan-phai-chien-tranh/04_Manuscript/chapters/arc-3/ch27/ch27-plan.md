@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.diarmuid]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.900"
 aliases: ["plan ch27 PPCT", "dan y chuong 27 PPCT", "决斗 ch27", "quyet dau Saber Lancer PPCT", "Lancer chet ch27", "dem ngay 8 PPCT"]
-related: ["[[arc-3-hai-cay-thuong]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[gae-buidhe-bi-pha]]", "[[dazai-ke-giac-mo-buoi-tap]]", "[[20260922-canon-saber-quyet-dau]]", "[[Artoria-Pendragon]]", "[[Diarmuid-Ua-Duibhne]]", "[[khu-kho-cang-mien-vien]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[Artoria-Pendragon]]", "[[Diarmuid-Ua-Duibhne]]", "[[khu-kho-cang-mien-vien]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — sau crosscheck-canon Saber; Aurel duyet ca C1–C6 theo de xuat, 22/09/2026"
@@ -26,7 +26,7 @@ last_updated: 2026-09-22
 # Kế hoạch chương 27 — 决斗 (Quyết đấu) · ✅ AUREL DUYỆT 22/09/2026
 
 > Aurel duyệt **cả C1–C6 theo đề xuất** (22/09/2026). Thẻ cảnh 01–05 đã viết, có `min_dialogue_turns` và `target_terms`.
-> Đây là chương đỉnh của arc 3 và là chương thực hiện decision khó nhất đã khoá: [[ket-cuc-lancer-quyet-dau-tu-nguyen]].
+> Đây là chương đỉnh của arc 3 và là chương thực hiện decision khó nhất đã khoá: ket-cuc-lancer-quyet-dau-tu-nguyen.
 
 ## Mục tiêu chương
 
@@ -105,13 +105,13 @@ Chương **dệt canon** (như ch21, ch25) — [[05_Evasion/01_Oeuvre/Studio/Con
 |---|---|
 | Chốt C1–C6 và duyệt plan này | ✅ 22/09/2026 |
 | Thẻ cảnh 01–05: lượt thoại, thuật ngữ, trích nguyên văn (L31) | ✅ 22/09 — tổng ≥ 27 lượt, ≥ 23 thuật ngữ |
-| Canon Saber: bảo cụ, vết thương, trận tái đấu | ✅ [[20260922-canon-saber-quyet-dau]] |
+| Canon Saber: bảo cụ, vết thương, trận tái đấu | ✅ 20260922-canon-saber-quyet-dau |
 | Nguyên văn ch4–5: trận kho cảng, con chuồn chuồn tự nổ phá ống ngắm | ✅ trích từ `反派战争.zip` 22/09 — thẻ cảnh 01, 03. ⚠️ Chuồn chuồn ch5 **không** có sẵn chức năng nổ (Dazai cho quá tải); **bọ giám sát** ch3 **có** 「小型炸弹」 — ch27 dùng bọ |
 | Kiritsugu ở PPCT đã biết lệnh chú đổi tay chưa | 🟡 chưa lên trang: ch24 「迟早会知道」. Thẻ cảnh 03 sẽ **cho hắn biết** (off-page) — ghi rõ |
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu hỏi ❌ nào chặn. [[q-loi-moi-hien-the]] vẫn mở và không lên trang. [[q-ke-hoach-that-bai-cua-dazai]] vẫn mở và không nhắc.
+Không có câu hỏi ❌ nào chặn. q-loi-moi-hien-the vẫn mở và không lên trang. [[q-ke-hoach-that-bai-cua-dazai]] vẫn mở và không nhắc.
 
 ## Ghi cho ch28
 

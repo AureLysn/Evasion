@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 34-01 tin hieu", "她在找信号", "con bo cong lau dai bi go", "man hinh cong tat"]
-related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[hook-to-caster-khac-che-to-saber]]", "[[maiya]]", "[[lau-dai-einzbern]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[hook-to-caster-khac-che-to-saber]]", "[[maiya]]", "[[lau-dai-einzbern]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---

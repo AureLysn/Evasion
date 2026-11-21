@@ -24,7 +24,7 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 42-04 sang ngay 16", "第十六天早上", "khep arc 6", "khong ai qua doc dem 15"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[canh-chan-doc-nha-tho-qua-dem]]", "[[q-irisviel-dang-o-dau]]", "[[arc-6-co-xe-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---
@@ -43,7 +43,7 @@ last_updated: 2026-09-30
 
 ## Writer-only — KHÔNG lên trang
 
-- Đêm cuối gần. Irisviel đang ở đâu: [[q-irisviel-dang-o-dau]] — **không** quyết ở đây.
+- Đêm cuối gần. Irisviel đang ở đâu: q-irisviel-dang-o-dau — **không** quyết ở đây.
 
 ## Writer nhận gì
 

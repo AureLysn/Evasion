@@ -20,7 +20,7 @@ target_paragraph_mean: 45
 target_sentence_median: 19
 status: planned
 aliases: ["canh 29-01 buoi chieu", "午后 ch29", "Sola-Ui nghi ve ba vet do", "bi nhot toi het chien tranh"]
-related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[kirei-thay-lenh-chu-cua-sola-ui]]", "[[nha-tho-fuyuki]]", "[[sola-ui]]", "[[kayneth]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[nha-tho-fuyuki]]", "[[sola-ui]]", "[[kayneth]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-22
 # Cảnh 01 — 午后 · POV Sola-Ui · ~600 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
-> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — [[lenh-chu-con-sau-khi-servant-chet]]: **không** nhân vật nào giải thích hay nhắc luật.
+> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — lenh-chu-con-sau-khi-servant-chet: **không** nhân vật nào giải thích hay nhắc luật.
 
 ## Ngân sách
 

@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 31-03 khe uoc", "契约 ch31", "Archer doi Master", "Kirei thanh Master cua Archer", "khep ch31"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]", "[[Command-Spells]]", "[[assassin-tap-kich-vuong-yen]]", "[[gilgamesh]]", "[[kirei]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]", "[[Command-Spells]]", "[[gilgamesh]]", "[[kirei]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---

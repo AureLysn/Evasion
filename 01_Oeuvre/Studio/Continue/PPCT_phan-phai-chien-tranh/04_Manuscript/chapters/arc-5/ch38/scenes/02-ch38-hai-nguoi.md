@@ -20,7 +20,7 @@ target_paragraph_mean: 34
 target_sentence_median: 15
 status: planned
 aliases: ["canh 38-02 hai nguoi", "giam sat vien va Master cua Assassin", "猜得近一点", "nghieng ve Master cua Assassin"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-review]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[dazai-biet-assassin-con-song]]", "[[kirei-van-la-master]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-review]]", "[[dazai-biet-assassin-con-song]]", "[[kirei-van-la-master]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-27
 ---

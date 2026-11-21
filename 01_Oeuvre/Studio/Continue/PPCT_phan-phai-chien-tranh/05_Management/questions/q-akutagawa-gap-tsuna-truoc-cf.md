@@ -34,7 +34,7 @@ Thứ tự quyết định Akutagawa lớn lên dưới ảnh hưởng của Tsu
 
 Arc: phiên ngoại Yokohama · Chương: **chỉ khi** giữ mạch Arcobaleno/Yokohama — trước dàn ý phiên ngoại đầu tiên có Akutagawa
 
-> *29/09/2026 — Aurel đồng ý đổi `needed_before` (cũ: "dàn ý phần tiếp · trước khi khóa dàn ý mới"). Arc 1–5 đã khoá và arc 6 được lập mà không chạm câu này — [[arc-6-co-xe-gia]].*
+> *29/09/2026 — Aurel đồng ý đổi `needed_before` (cũ: "dàn ý phần tiếp · trước khi khóa dàn ý mới"). Arc 1–5 đã khoá và arc 6 được lập mà không chạm câu này — arc-6-co-xe-gia.*
 
 ## Ai quyết
 

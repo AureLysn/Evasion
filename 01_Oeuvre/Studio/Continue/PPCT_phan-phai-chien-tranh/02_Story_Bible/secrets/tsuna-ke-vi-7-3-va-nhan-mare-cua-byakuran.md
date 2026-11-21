@@ -4,7 +4,7 @@ type: secret
 scope: project
 lane: personal
 project: PPCT
-canon_layer: user_canon
+canon_layer: author_confirmed
 status: active
 visibility:
   author: true
@@ -14,41 +14,41 @@ unknown_to: ["character.PPCT.dazai", "character.PPCT.gilgamesh", "character.PPCT
 reveal_planned:
   arc:
   chapter:
-leak_terms: ["白兰送的", "白兰给的戒指", "白兰赠予", "白兰把能力", "白兰的戒指", "马雷指环是白兰", "7³的继承", "三次方的继承", "管理者的继承人", "7³的管理者", "三次方的管理", "管理者的继承", "下一任管理者"]
+leak_terms: ["白兰送的", "白兰给的戒指", "白兰赠予", "白兰把能力", "白兰的戒指", "马雷指环是白兰"]
 aliases: ["Tsuna ke vi 7^3 bi mat", "nhan Mare cua Byakuran bi mat", "Byakuran tang nhan Mare", "nguoi ban tang nang luc quan trac", "bi an trung tam phan giau", "白兰赠予马雷指环"]
-related: ["[[loi-giai-bi-an-trung-tam]]", "[[q-loi-giai-bi-an-trung-tam]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/byakuran|byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[hook-bao-cu-that-cua-tsuna]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[dinh-danh-vat-pham-tren-nguoi-tsuna]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/byakuran|byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[fact-nhan-mare-quan-trac-song-song]]", "[[hook-nhan-mare-trong-tay-tsuna]]", "[[dinh-danh-vat-pham-tren-nguoi-tsuna]]"]
 source:
-  type: user_input
-  ref: "Aurel, chat 30/09/2026 — loi-giai-bi-an-trung-tam (B la su that, C la muc lo). Vế 'Byakuran tang' bam ghi chu tac gia ch15 (「白兰把一部分观测平行世界能力赠予他」)."
-authority: user
+  type: author_comment
+  ref: "Ghi chu tac gia ch15: 「白兰把一部分观测平行世界能力赠予他」. Tinh chinh 21/11/2026 sau reset PPCT: bo ve 'ke vi 7^3' (dua tren decision loi-giai-bi-an-trung-tam, Aurel da xoa)."
+authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
-# Người tặng nhẫn Mare là Byakuran; Tsuna được ghi danh kế vị 7³
+# Người tặng nhẫn Mare là Byakuran
 
 > ⚠️ Ba trường `known_by` / `suspected_by` / `unknown_to` là thứ chặn nhân vật biết sớm. `leak_terms` là chữ Hán để `pov_leak_check` kiểm bản nháp tiếng Trung — không phải alias.
+>
+> Tên file giữ vế "kế vị 7³" để không gãy link cũ. Vế đó là của bản viết tiếp đã xóa, **không còn là sự thật** của project.
 
 ## Sự thật
 
-Phần **giấu** của [[loi-giai-bi-an-trung-tam]]:
+Người "bạn" Tsuna nhắc ở ch15 — kẻ tặng nhẫn Mare và một phần năng lực quan trắc — là **Byakuran**, người đã giết cậu ở thế giới A. Nguồn: ghi chú tác giả ch15 — [[fact-nhan-mare-quan-trac-song-song]].
 
-- Người "bạn" Tsuna nhắc ở ch15 — kẻ tặng nhẫn Mare và một phần năng lực quan trắc — là **Byakuran**, người đã giết cậu ở thế giới A.
-- Sau khi chết, Tsuna được **ghi danh kế vị quản trị 7³** *(do bản viết tiếp dựng)*.
+**Vì sao** Byakuran tặng: tác giả chưa giải — [[hook-nhan-mare-trong-tay-tsuna]].
 
-## Ai biết, biết đến đâu
+## Ai biết, biết đến đâu — tại cuối ch15
 
-| Nhân vật | Mức | Từ khi nào |
-|---|---|---|
-| [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna\|tsuna]] | biết **ai** tặng nhẫn (ch15 tự nói "một người bạn") | — |
-| [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna\|tsuna]] — chuyện kế vị | ⚪ **chưa quyết** | — |
-| [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai\|dazai]] | ⚪ **chưa quyết** — biết Byakuran là kẻ giết ([[tsuna-bi-byakuran-giet]]) và nghe câu "một người bạn" ở ch15, nhưng có ghép hai điều đó không thì Aurel chưa quyết. Tới khi quyết, xử **chưa biết** | — |
-| Người ở Vương Yến (ch15) | biết có "một người bạn" tặng năng lực — **không** biết tên | ch15 |
-| [[gilgamesh]] | đoán ra **loại** bảo vật (ch9) — không biết người tặng, không biết kế vị | ch9 |
+| Nhân vật | Mức |
+|---|---|
+| [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna\|tsuna]] | biết — ch15 chỉ nói "một người bạn" |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai\|dazai]] | biết Byakuran là kẻ giết ([[tsuna-bi-byakuran-giet]]) và nghe câu "một người bạn" ở ch15; **chưa** ghép hai điều đó |
+| Người ở Vương Yến (ch15) | biết có "một người bạn" tặng năng lực — **không** biết tên |
+| [[gilgamesh]] | đoán ra **loại** bảo vật (ch9) — không biết người tặng |
 
 ## Được phép thể hiện thế nào khi POV chưa biết
 
 - **Cho phép:** "một người bạn" tặng năng lực; Tsuna là bảo vật thời–không; Gilgamesh gọi tên loại bảo vật.
-- **Cấm:** tên Byakuran gắn với nhẫn hay năng lực quan trắc; chữ "kế vị / người thừa kế / quản trị 7³".
+- **Cấm:** tên Byakuran gắn với nhẫn hay năng lực quan trắc.

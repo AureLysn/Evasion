@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 18
 status: planned
 aliases: ["canh 19-02 thuy ngan", "Volumen Hydrargyrum trong lau dai", "Kayneth khinh vu khi hien dai"]
-related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kayneth]]", "[[diarmuid]]", "[[artoria]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kayneth]]", "[[diarmuid]]", "[[artoria]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-15
 ---

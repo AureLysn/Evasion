@@ -24,7 +24,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 39-02 than phu", "神父 ch39", "Kirei toi nha Mato", "giao dich Kirei Kariya canh", "ve lenh chu tay Kariya"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[kirei]]", "[[Kirei-Kotomine]]", "[[Command-Spells]]", "[[kirei-nap-mot-dao-lenh-chu-cho-kariya]]", "[[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[20260929-canon-arc-6-co-xe-gia]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[kirei]]", "[[Kirei-Kotomine]]", "[[Command-Spells]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-29
 ---
@@ -33,7 +33,7 @@ last_updated: 2026-09-29
 
 > `forbidden_secrets`: Kariya **không** biết Kirei còn là Master, không biết Archer đổi chủ, không biết Tokiomi chết, không biết Master thật của Saber.
 > 🔴 **Không POV Kirei.** Kirei chỉ hiện ra qua những gì Kariya **thấy và nghe**. Kariya **đọc sai** hoặc **không đọc** Kirei: hắn dễ bị thao túng (canon). Người kể **không** giải thích Kirei.
-> 🔴 **Không** 圣杯容器 · 容器. Kirei **không** nói vì sao cần người phụ nữ ([[irisviel-binh-chua-chi-he-qua-tsuna]]).
+> 🔴 **Không** 圣杯容器 · 容器. Kirei **không** nói vì sao cần người phụ nữ (irisviel-binh-chua-chi-he-qua-tsuna).
 
 ## Ngân sách
 
@@ -65,7 +65,7 @@ Giao dịch. Mọi câu Kirei nói đều **đúng từng chữ**, nhưng không
    - Một dấu tối **sáng lại**. Kariya giờ có **hai** đạo.
    - Một câu của Kirei về nguồn gốc, **chủ ngữ là giáo hội** — vọng ch29 「由教会保管」 (C7). **Không** "ta là giám sát viên"; **không** nhắc Sola-Ui hay "người khác gửi".
 5. **Lời hứa** (C3): Kirei chỉ nói **Chén** — thắng thì Chén là của hắn. Nửa sau là Kariya tự điền trong đầu: giao kèo với Zōken, Sakura về nhà. Kirei **không** nhắc Sakura.
-6. **Tokiomi: không lên thoại.** Kariya **không** nhắc Tokiomi với Kirei; Kirei **không** nói gì về Tokiomi ([[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]). Nếu cần, Tokiomi chỉ hiện ra trong **ý nghĩ** của Kariya, như với người còn sống.
+6. **Tokiomi: không lên thoại.** Kariya **không** nhắc Tokiomi với Kirei; Kirei **không** nói gì về Tokiomi (kariya-khong-biet-tokiomi-chet-kirei-hua-chen). Nếu cần, Tokiomi chỉ hiện ra trong **ý nghĩ** của Kariya, như với người còn sống.
 7. **Kariya nhận. Không hỏi giá.** Kết cảnh: Kirei đứng dậy.
 
 ## Dữ kiện — nguồn
@@ -74,7 +74,7 @@ Giao dịch. Mọi câu Kirei nói đều **đúng từng chữ**, nhưng không
   - ch28: 「家父是这一次圣杯战争的监督者，他还在休息。」 · 「床和热水都有。别的，等家父起来再说。」
   - ch29: 「从现在起，它们就由教会保管了」 · 「保管。」 · 「和其他的放在一起。」
   - Lịch sự, trống, câu ngắn. Nhìn lâu hơn mức đáng có **một chút** (ch28: 「只比看一个陌生人的手该用的时间长了一点点」).
-- **Canon** ([[20260929-canon-arc-6-co-xe-gia]]):
+- **Canon** (20260929-canon-arc-6-co-xe-gia):
   - a1: giả dạng là bảo cụ, một lần, ép bằng lệnh chú.
   - d3: vẽ theo dấu trên tay phải, khẽ tụng thánh ngôn.
   - d4: canon gặp ở nhà Matō, trưa ngày bắt cóc.

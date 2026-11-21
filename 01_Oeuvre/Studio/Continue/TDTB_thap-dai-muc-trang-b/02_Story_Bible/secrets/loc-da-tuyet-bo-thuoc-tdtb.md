@@ -24,7 +24,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Lộc Dã Tuyết bỏ thuốc Yamamoto
@@ -54,10 +54,6 @@ last_updated: 2026-10-01
 ## Còn treo
 
 Yamamoto doạ mang chai đi xét nghiệm (ch15). Anh ta **đã ném chai vào thùng rác**. Có nhặt lại không, văn bản không nói.
-
-## 📌 Theo chương viết tiếp
-
-- [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]]: Yamamoto **giấu** với Tsuna — *"嗯……喝错了东西。"* · *"就是喝错了。以后我会小心的。"* Tsuna không truy. `known_by` không đổi.
 
 ## `leak_terms` — cho `pov_leak_check.py`
 

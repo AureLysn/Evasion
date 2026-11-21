@@ -15,7 +15,7 @@ payoff:
   arc:
   chapter:
 aliases: ["dua tre Saint-Exavier", "Saint-Exavier", "nang luc xep hang", "ranking ability", "Futa", "dua tre mat tich", "sợi chi bo ngo"]
-related: ["[[tomoko]]", "[[xoa-so-estraneo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-567-ke-hoach]]", "[[khung-sau-arc]]", "[[hook-dua-tre-saint-exavier-phan-cu]]"]
+related: ["[[tomoko]]", "[[xoa-so-estraneo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-567-ke-hoach]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch1 - loi ke cua Irie Tomoko"
@@ -24,7 +24,7 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [hook, open-thread]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Đứa trẻ nhà Saint-Exavier — **sợi chỉ tác giả cố ý để hở**
@@ -85,13 +85,13 @@ Chuỗi, từ [[tomoko]]:
 
 → Đứa trẻ mất tích **sau** khi bà chạy ⇒ **không sớm hơn tám năm trước** *(mốc truyện: Tsuna 8)*.
 
-🔵 **Phép kiểm độc lập:** [[shouichi]] **sinh trên đường chạy**, và [[child-ch1-chapter-ban-20260925]] viết cậu **tám tuổi**. Đó là con số duy nhất trong cả chuỗi không dựa vào một con số khác.
+🔵 **Phép kiểm độc lập:** [[shouichi]] **sinh trên đường chạy**, và *văn xuôi đã xóa* viết cậu **tám tuổi**. Đó là con số duy nhất trong cả chuỗi không dựa vào một con số khác.
 
 ⚠️ [[tomoko]] giữ tiêu đề *"Mười năm trước"* theo đúng chữ nguồn *(P2 Ch1 ghi "khoảng mười năm")*, và note ấy tự dặn **đừng vá**. Nên khoảng dùng được là **tám tới mười**. **Mười một thì không.**
 
-📌 **Đã sửa 3 chỗ** trong [[child-ch1-chapter-ban-20260925]] ngày 20/09/2026: bản đầu viết *"eleven years ago"*, *"between eleven and fifteen years ago"* và *"waiting ten years"* — chỗ thứ ba mâu thuẫn với chính đoạn văn cách nó bốn dòng.
+📌 **Đã sửa 3 chỗ** trong *văn xuôi đã xóa* ngày 20/09/2026: bản đầu viết *"eleven years ago"*, *"between eleven and fifteen years ago"* và *"waiting ten years"* — chỗ thứ ba mâu thuẫn với chính đoạn văn cách nó bốn dòng.
 
-🔴 **Vì sao con số này chịu lực:** [[child-ch2-the-canh-ban-20260925]] đặt một **dòng sổ Vendicare** về vụ bắt cóc làm vật chính, và một dòng sổ thì **có năm**.
+🔴 **Vì sao con số này chịu lực:** *văn xuôi đã xóa* đặt một **dòng sổ Vendicare** về vụ bắt cóc làm vật chính, và một dòng sổ thì **có năm**.
 
 ## Còn lại gì cho nhánh viết tiếp
 
@@ -103,7 +103,7 @@ Văn bản chốt **trạng thái** (đang lùng ở châu Âu), không chốt *
 | **Cậu bé ở đâu suốt mười năm** | tác giả để trống hoàn toàn |
 | **Tsuna có nhận công không** | 🔴 khớp luận đề nhất nếu **không**: cậu làm rồi không kể |
 
-⚠️ Mình **không chọn**. Đây là quyết định của Aurel, và nó thuộc Arc 3 trong [[khung-sau-arc]].
+⚠️ Mình **không chọn**. Đây là quyết định của Aurel, và khung mới quyết nó rơi vào đâu.
 
 Một điểm cấu trúc đáng giữ: nếu Tomoko là người tìm ra Fūta, thì **hai bi kịch được sửa bằng cùng một hành động** — bà chuộc lại việc mình không cứu được đứa trẻ mười năm trước, và Tsuna gạch một tên khỏi danh sách. Tác giả gốc đã dựng sẵn cặp nhân quả đó ở P2-Ch1 mà chưa dùng.
 

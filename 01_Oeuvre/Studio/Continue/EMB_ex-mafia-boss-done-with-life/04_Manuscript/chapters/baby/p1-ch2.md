@@ -27,7 +27,7 @@ last_updated: 2026-09-15
 
 # P1 Ch2 — *Local Grandmother Loathes Son-in-Law, Has Good Reason*
 
-> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Đối chiếu: [[20260915-p1-ch2]].
+> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt emb-lam-lai-tu-nguon. Đối chiếu: [[20260915-p1-ch2]].
 >
 > `word_count` = thân chương (khối `userstuff`). Chapter Summary của tác giả tự nhận chương này là chương **lore dump**, POV Musashi, gần như không có Tsuna.
 

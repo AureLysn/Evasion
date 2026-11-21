@@ -8,11 +8,11 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["inbox", "hop thu y tuong", "y tuong chua xep", "ghi nhanh", "chua biet de dau", "inbox/_MOC", "EMB/inbox/_MOC"]
-related: ["[[EMB]]", "[[khung-oc]]", "[[y-chinh-cac-arc]]"]
+related: ["[[EMB]]", "[[khung-oc]]"]
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-16
+last_updated: 2026-11-21
 ---
 
 # Inbox — **chỗ để ý tưởng rơi vào**
@@ -27,18 +27,18 @@ last_updated: 2026-08-16
 
 ## Ai dọn
 
-Mình. **Mỗi đợt mở đầu bằng việc rà `inbox/`**, phân từng mục vào note đúng, rồi ghi lại nó đã đi đâu — không xoá.
+Mình. **Mỗi phiên mở đầu bằng việc rà `inbox/`**, phân từng mục vào note đúng, rồi ghi lại nó đã đi đâu — không xoá.
 
 ## Vì sao nó cần tồn tại
 
-Bốn thứ quan trọng nhất trong đợt 8 **đều đến từ Aurel nhớ ra giữa chừng**, không phải từ phân tích:
+Bốn thứ quan trọng nhất khi dựng định hướng **đều đến từ Aurel nhớ ra giữa chừng**, không phải từ phân tích:
 
 | | |
 |---|---|
 | Thứ tự P2 Ch1/Ch2 | gỡ được nút làm fic dừng |
 | Harmonization lúc ăn mì | gỡ được vấn đề thời gian của Kawahira |
 | Guardian ≠ người chăm sóc | đổi cả cách thiết kế arc |
-| Cách đọc Kawahira và tự do | cho Arc 5 một xung đột thật |
+| Cách đọc Kawahira và tự do | cho giai đoạn Teen một xung đột thật |
 
 → Nếu bốn thứ đó phụ thuộc vào việc **đúng lúc đang bàn tới**, thì thứ năm và thứ sáu **đã mất rồi**.
 

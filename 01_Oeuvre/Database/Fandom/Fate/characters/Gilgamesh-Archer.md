@@ -78,4 +78,4 @@ Tự xưng 本王; gọi người 杂种. Coi thế gian là **kho báu của m�
 
 ## Fic nào dùng theo hướng nào
 
-- **PPCT** — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/crosscheck/20260923-canon-lenh-chu-tokiomi|20260923-canon-lenh-chu-tokiomi]]: ch31, POV Gilgamesh.
+- **PPCT** — 20260923-canon-lenh-chu-tokiomi: ch31, POV Gilgamesh.

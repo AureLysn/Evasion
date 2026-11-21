@@ -1,4 +1,4 @@
-﻿---
+---
 id: source.EMB.ao3-comments
 type: source
 scope: project
@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["comment AO3", "AO3 comments", "loi tac gia", "author reply", "word of god", "comment tac gia"]
-related: ["[[sources/_MOC|sources]]", "[[canon/_MOC|canon]]"]
+related: ["[[sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon]]"]
 source:
   type: author_comment
   ref: "AO3 comment section, Part 1 (work 46590334) + Part 2 (work 57740797). Aurel copy-paste 2026-08-15. Hai file nay gio o Novel/comment/, doi ten 16/09/2026 theo khuon AO3-<workid>-<tua de>-comments-<...>.txt"
@@ -30,7 +30,7 @@ immutable: true
 always_load: false
 tags: []
 legacy_tags: [source, author-confirmed, high-value]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Nguồn — comment AO3 của tác giả
@@ -80,7 +80,7 @@ Và reply dài nhất — **631 từ, 14/08/2024** — giải thích **toàn b�
 
 ## Phạm vi đã trích xuất
 
-- [x] Luật thế giới → `canon/` (đợt 1)
+- [x] Luật thế giới → `canon/`
 - [x] Xác nhận nhân vật → `canon/`
 - [ ] Hook / lời hứa chưa giải
 - [ ] Manh mối về Guardian còn lại

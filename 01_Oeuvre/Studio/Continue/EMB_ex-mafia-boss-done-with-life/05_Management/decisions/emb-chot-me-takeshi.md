@@ -12,7 +12,7 @@ decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17
 aliases: ["chot me Takeshi", "ai quyet vu Yamamoto", "Yamamoto Sachiko", "ten me Takeshi", "khong dung Tsuyoshi", "canh 2.2 Brat chot"]
-related: ["[[q-me-takeshi-ai-quyet]]", "[[sachiko]]", "[[tsuyoshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[brat-dan-y-ban-20261001]]", "[[khung-nam-arc]]", "[[emb-chot-thay-thuoc]]"]
+related: [ "[[sachiko]]", "[[tsuyoshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[emb-chot-thay-thuoc]]"]
 source:
   type: user_input
   ref: "Aurel, 17/09/2026: 'me Takeshi, dung ten hay xuat hien trong fandom' — roi 'dong y voi cac de xuat cua ban ve nhan vat' sau khi phien nay bao cao rang fandom KHONG co ten chung cho ba."
@@ -21,14 +21,14 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Chốt — ai quyết ở vụ Yamamoto, và bà tên gì
 
-> 🔁 **01/10/2026 — mở lại một phần**, [[emb-lam-lai-lan-ba]]. **Giữ:** mục 2, tên **Yamamoto Sachiko** và hồ sơ [[sachiko]]. **Mở lại:** mục 1 *(ai quyết trên trang)* — nó gắn cảnh 2.2 của dàn ý đã lưu trữ; nay là câu hỏi [[q-me-takeshi-ai-quyet]].
+> 🔁 **01/10/2026 — mở lại một phần**. **Giữ:** mục 2, tên **Yamamoto Sachiko** và hồ sơ [[sachiko]]. **Mở lại:** mục 1 *(ai quyết trên trang)* — nó gắn cảnh 2.2 của dàn ý đã lưu trữ; nay là câu hỏi q-me-takeshi-ai-quyet.
 
-> Giải [[q-me-takeshi-ai-quyet]], mở khoá cảnh **2.2** của [[brat-dan-y-ban-20261001]].
+> Giải q-me-takeshi-ai-quyet, mở khoá cảnh **2.2** của *văn xuôi đã xóa*.
 
 ## Quyết định
 
@@ -69,4 +69,4 @@ Nguồn tra: [Fanon:Tsubame Kirisame](https://reborn.fandom.com/wiki/Fanon:Tsuba
 
 - 🔴 **[[tsuyoshi]] vẫn là `canon_layer: planned`.** Quyết định này **không** khẳng định "Yamamoto-san tiệm Takesushi" là cha Takeshi. Ai viết cảnh nào cần quan hệ ấy thì phải mở một câu hỏi mới.
 - Chữ **幸** trong tên bà có hợp nghĩa *(người kiếp trước chết, kiếp này tự chọn)*. Nếu lúc viết thấy khéo quá thì đổi sang **Yuriko** — nhưng phải sửa ở note quyết định này, không đổi lặng.
-- Mốc `needed_before` của việc đặt tên **kéo lên sớm một arc**: từ Child Ch5 về **Brat Ch2**. `questions/_MOC.md` mục 3 đã lỗi thời, sửa kèm đợt này.
+- Mốc `needed_before` của việc đặt tên: **arc Brat**.

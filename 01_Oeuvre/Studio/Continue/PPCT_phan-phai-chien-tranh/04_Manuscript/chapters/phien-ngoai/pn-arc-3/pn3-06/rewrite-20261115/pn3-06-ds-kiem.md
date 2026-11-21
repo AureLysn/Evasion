@@ -10,7 +10,7 @@ chapter: "pn3-06"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-06 ban DeepSeek", "kiểm phiên ngoại hai Tsuna", "pn3-06 ds kiem PPCT"]
-related: ["[[pn3-06-ds-nhap]]", "[[pn3-06-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Zero-Point-Breakthrough]]", "[[Nana-Sawada]]"]
+related: ["[[pn3-06-ds-nhap]]", "[[pn3-06-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Zero-Point-Breakthrough]]", "[[Nana-Sawada]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/afdde674-051e-44ca-b190-251c5c3dfa78 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd7a2f-cb14-83ec-a58a-fb5adaf456c5"

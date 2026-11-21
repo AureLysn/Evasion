@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Namimori (TDTB)
@@ -32,5 +32,3 @@ Thị trấn nhỏ ở **tỉnh Aichi**, đảo Honshu (ch3, ch12). Trợ lý t�
 
 ## Sự kiện đã xảy ra tại đây
 
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)*: tối S2, Gokudera đứng trước nhà biển tên 沢田, đèn tắt, chờ.
-- [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]]: Gokudera rình tới sáng, thấy nhà bỏ hoang; mấy ngày hỏi hàng xóm, 町役场 (từ chối), trường sơ trung 并盛 (không cho vào).

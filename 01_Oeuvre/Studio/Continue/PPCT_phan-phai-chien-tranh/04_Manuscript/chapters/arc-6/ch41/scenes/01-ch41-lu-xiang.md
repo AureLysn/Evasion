@@ -20,14 +20,14 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 41-01 luc xiang", "录像 ch41", "bang chan doc ngay 12-15", "chuon chuon trua ngay 14 tren bang"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[artoria]]", "[[nha-tho-fuyuki]]", "[[kiritsugu-nhan-loi-hen]]", "[[to-caster-noi-ba-dao-lenh-chu]]", "[[kirei-nap-lenh-chu-cho-kariya]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[artoria]]", "[[nha-tho-fuyuki]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---
 
 # Cảnh 01 — 录像 · POV Kiritsugu · ~450 chữ Hán
 
-> Kiritsugu ở **L2** với [[archer-doi-master-sang-kirei]]: không `leak_terms`, không nghĩ Tokiomi "chết" — chỉ 「不在了」.
+> Kiritsugu ở **L2** với archer-doi-master-sang-kirei: không `leak_terms`, không nghĩ Tokiomi "chết" — chỉ 「不在了」.
 > **Không** nhà thờ bên trong, **không** Kirei trên trang ngoài hình trên băng.
 
 ## Diễn biến

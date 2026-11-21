@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: []
 legacy_tags: [source, primary]
-last_updated: 2026-08-16
+last_updated: 2026-11-21
 ---
 
 # Ghi chú tác giả — nguồn sơ cấp thứ tư
 
-> 🔴 **Nguồn này chưa từng được nạp đầy đủ.** Đợt 1 đăng ký hai file fic làm nguồn nhưng chỉ đọc **thân truyện**. Đợt 2 lấy phần lời hứa. Toàn bộ **69 chú thích** và bốn khối End Notes thì chưa. Đợt 5 nạp hết.
+> 🔴 Nguồn này gồm **69 chú thích** và bốn khối End Notes, đã nạp đủ. Đọc nó cùng thân truyện, không bỏ qua.
 
 ## Nó gồm những gì
 
@@ -38,7 +38,7 @@ Tổng: **~22.000 ký tự** ghi chú, so với ~48.000 từ thân truyện. T�
 
 ## ⚠️ Cạm bẫy đã cắn một lần
 
-Bản `.txt` mà vault dùng để grep (`/tmp/ch/P2-Ch2.txt`) **bị mất toàn bộ 56 chú thích và End Notes**. Đợt 3 grep file đó, không thấy chú thích 55, và **kết luận sai rằng một trích dẫn đúng là "không có trong văn bản"**.
+Bản `.txt` mà vault dùng để grep (`/tmp/ch/P2-Ch2.txt`) **bị mất toàn bộ 56 chú thích và End Notes**. Một lượt trước grep file đó, không thấy chú thích 55, và **kết luận sai rằng một trích dẫn đúng là "không có trong văn bản"**.
 
 **Luật rút ra:** grep bản chuyển đổi thì chỉ chứng minh được **có**, không bao giờ chứng minh được **không có**. Muốn khẳng định một thứ *không* tồn tại thì phải kiểm trên **file gốc**, không phải bản trích.
 

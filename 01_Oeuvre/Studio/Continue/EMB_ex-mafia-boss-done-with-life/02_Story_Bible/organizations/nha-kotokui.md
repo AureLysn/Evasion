@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["nha Kotokui", "Kotokui", "幸徳井", "dong Kamo", "賀茂", "nha lam lich", "rekido", "nha am duong su", "nha cua cap song sinh"]
-related: ["[[kotokui-tomoe]]", "[[yasuyuki]]", "[[noriyuki]]", "[[emb-chot-cap-song-sinh]]", "[[rule-danh-xung-flame]]", "[[fact-tap-quan-doi-voi-tung-he-lua]]", "[[hook-chuan-sugita-bi-sao-chep]]", "[[child-ch3-chapter-ban-20260925]]", "[[khung-oc]]"]
+related: [ "[[yasuyuki]]", "[[noriyuki]]", "[[emb-chot-cap-song-sinh]]", "[[rule-danh-xung-flame]]", "[[fact-tap-quan-doi-voi-tung-he-lua]]", "[[khung-oc]]"]
 source:
   type: user_input
   ref: "Aurel chot 21/09/2026 — emb-chot-cap-song-sinh. Nen tang lich su co that: dong Kamo (賀茂) va nha Kotokui (幸徳井), nhanh rekido cua am duong dao."
@@ -62,7 +62,7 @@ Song sinh là **điềm xấu** với một nhà thuật pháp — **畜生腹**
 
 Họ nghe tin Namimori có **một phép thử Flame bằng văn bản**, và với họ đó vừa là **một sự xúc phạm nghề nghiệp** vừa là **lối thoát duy nhất còn lại**: một tờ giấy nói hộ, để hồ sơ không ghi rằng gia chủ đã quyết.
 
-Họ về tay không — xem [[hook-chuan-sugita-bi-sao-chep]].
+Họ về tay không — xem hook-chuan-sugita-bi-sao-chep.
 
 ## Danh xưng — **họ dùng chung hệ chữ với cả nước**
 

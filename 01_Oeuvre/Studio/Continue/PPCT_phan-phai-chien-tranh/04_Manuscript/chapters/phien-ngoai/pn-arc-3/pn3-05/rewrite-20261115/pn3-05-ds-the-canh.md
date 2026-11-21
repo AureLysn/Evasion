@@ -10,7 +10,7 @@ chapter: "pn3-05"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-05 ban DeepSeek", "thẻ cảnh đứa trẻ ở sân chơi", "pn3-05 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-04-ds-nhap]]", "[[pn3-04-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Byakuran-Gesso]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-04-ds-nhap]]", "[[pn3-04-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Byakuran-Gesso]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-05 (Aurel duyệt), V16 'như bản cũ' — gia đình Sawada gắn nhãn [Fanon-phê phán canon]; note Database Sawada-Tsunayoshi (sinh nhật 14/10; Nana gọi Tsu-kun; 'Nana gọi con là dame' không có căn cứ canon), Nana-Sawada, Iemitsu-Sawada (bình phong giàn khoan dầu), gia-thuyet-khr-cua-aurel (Nana 'vô tâm mang tính cấu trúc', không phải người mẹ xấu hoàn toàn); dữ kiện pn3-04-ds-kiem."

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.kiritsugu, character.PPCT.dazai]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.400"
 aliases: ["plan ch19 PPCT", "dan y chuong 19 PPCT", "Moi ch19", "Kayneth tap kich lau dai Einzbern ch19", "Origin Bullet ch19"]
-related: ["[[arc-2-moi-va-luoi]]", "[[hyatt-da-sap-kayneth-chua-bi-phe]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]", "[[Maiya-Hisau]]", "[[20260915-canon-to-lancer-arc-2]]"]
+related: [ "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[hook-he-qua-thay-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]", "[[Maiya-Hisau]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 15/09/2026 — theo decision to Lancer B, loi nguyen A; canon Kayneth/Diarmuid/Maiya doc 15/09; nguyen van ch3 (bo giam sat), ch5 (sung ban tia bi pha), ch6 (nuoc co giu Kayneth)"
@@ -32,7 +32,7 @@ last_updated: 2026-09-15
 ## Beat bắt buộc *(theo các ô 🟡 được khuyên — đổi nếu Aurel chọn khác)*
 
 1. **Kiritsugu chờ** (POV Kiritsugu): sau Hyatt, hắn biết Kayneth sẽ tìm tới nhà Einzbern *(canon: "In revenge, Kayneth assaulted the Einzberns" — [[Kayneth-El-Melloi-Archibald]])*. Khẩu súng bắn tỉa đã hỏng từ đêm kho cảng *(ch5: 「震碎了狙击枪的瞄准镜」)*; nỗi lo về "con mắt máy" đêm đó vẫn còn *(ch5)*.
-2. **Thủy ngân vào lâu đài**: Kayneth dùng **Volumen Hydrargyrum** dò từng phòng, lách qua lỗ khóa; Lancer bị giữ ở ngoài với Saber — **tay trái Saber vẫn bị nguyền** ([[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]). Kayneth coi thường vũ khí hiện đại.
+2. **Thủy ngân vào lâu đài**: Kayneth dùng **Volumen Hydrargyrum** dò từng phòng, lách qua lỗ khóa; Lancer bị giữ ở ngoài với Saber — **tay trái Saber vẫn bị nguyền** (lancer-tu-pha-gae-buidhe-truoc-quyet-dau). Kayneth coi thường vũ khí hiện đại.
 3. **Viên đạn**: Kiritsugu bắn một phát để đo độ cứng lớp thủy ngân, rồi phát mạnh hơn xuyên qua; Kayneth dồn toàn bộ ma lực vào phòng thủ → **Origin Bullet** phá mạch ma thuật *(canon — [[Kayneth-El-Melloi-Archibald]])*. Lancer **bỏ dở trận với Saber**, về cứu chủ *([[Diarmuid-Ua-Duibhne]])*.
 4. **Màn hình** (POV Dazai): Dazai và Tsuna xem qua máy giám sát. Dazai **không can thiệp**; nói ra vì sao — Kayneth còn sống, Lancer còn đứng, nên Kiritsugu **vẫn** phải nhìn về tổ Lancer (nước cờ ch6: 「只要Lancer的御主不死…」). Tsuna phản ứng với cái giá đó.
 5. **Kết**: một hình ảnh ngắn — không tổng kết. *(Đề xuất: Dazai tắt màn hình, hoặc Tsuna nhìn tay trái Saber trên màn hình.)*
@@ -90,7 +90,7 @@ Chương **dệt canon** — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-ph
 
 **Kéo theo:** Kayneth được biết kẻ phá Hyatt đứng về phía nhà Einzbern (động cơ trả thù), nhưng **không** biết đó là Master thật của Saber — [[kiritsugu-la-master-that]].
 
-**Bổ sung sau review 15/09:** tổ Caster **biết** vụ Hyatt (Aurel chốt — [[hyatt-da-sap-kayneth-chua-bi-phe]]); tổ Caster xem bằng **chuồn chuồn máy** bay tới lâu đài và rừng, không phải thiết bị cài sẵn.
+**Bổ sung sau review 15/09:** tổ Caster **biết** vụ Hyatt (Aurel chốt — hyatt-da-sap-kayneth-chua-bi-phe); tổ Caster xem bằng **chuồn chuồn máy** bay tới lâu đài và rừng, không phải thiết bị cài sẵn.
 
 ## Điều kiện trước `write-chapter`
 

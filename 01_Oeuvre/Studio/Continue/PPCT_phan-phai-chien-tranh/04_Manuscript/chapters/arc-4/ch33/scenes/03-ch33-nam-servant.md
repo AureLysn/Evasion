@@ -20,14 +20,14 @@ target_paragraph_mean: 36
 target_sentence_median: 17
 status: planned
 aliases: ["canh 33-03 nam servant", "时臣大概已经不在了", "可是Archer还在", "khep arc 4"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[hook-can-dazai-de-thang-archer]]", "[[arc-4-ba-dao-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[kirei-van-la-master]]", "[[hook-can-dazai-de-thang-archer]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
 
 # Cảnh 03 — 五骑 · POV Tsuna · ~550 chữ Hán
 
-> **Cảnh lộ (L2).** [[archer-doi-master-sang-kirei]] **cố ý không có** trong `forbidden_secrets` (plan C9); `pov_leak_check` sẽ không kiểm nó ở cảnh này. Review cảnh này **bằng tay** theo danh sách CẤM bên dưới.
+> **Cảnh lộ (L2).** archer-doi-master-sang-kirei **cố ý không có** trong `forbidden_secrets` (plan C9); `pov_leak_check` sẽ không kiểm nó ở cảnh này. Review cảnh này **bằng tay** theo danh sách CẤM bên dưới.
 > 🔴 Mức L2: **đoán**, không chắc chắn; **không** tên; **không** nhà thờ.
 
 ## Ngân sách
@@ -51,7 +51,7 @@ Dazai nói ra điều hai người đều đã thấy. Arc 4 khép lại bằng 
    - 「时臣大概已经不在了。」 **Không** dùng chữ 死. "Không còn" để ngỏ: chết, bỏ đi, hay không còn là Master.
    - 「可是Archer还在。」
    - Lý do Archer **có người cấp ma lực**: một Servant mất Master sẽ phải **tiết kiệm** ma lực, còn Archer thì hiện hình giữa phố như không phải trả giá gì. **Không** phủ nhận kỹ năng hành động độc lập của Archer (ch9 có nói tới 「单独行动技能」 trong lời kể); lập luận dựa vào **cách hắn tiêu** ma lực, không dựa vào việc hắn "phải biến mất".
-2. Dazai nhắc mối nghi ch17 **đúng mức cũ**, một câu: phía Archer vốn đã không chỉ có một người (Master của Assassin cùng phe; [[dazai-nghi-master-assassin-cung-phe-archer]]). Rồi **dừng**. **Không** nối tới nhà thờ, **không** nói Master mới là ai.
+2. Dazai nhắc mối nghi ch17 **đúng mức cũ**, một câu: phía Archer vốn đã không chỉ có một người (Master của Assassin cùng phe; dazai-nghi-master-assassin-cung-phe-archer). Rồi **dừng**. **Không** nối tới nhà thờ, **không** nói Master mới là ai.
 3. Tsuna hỏi Master mới là ai. Dazai: **chưa biết** (「现在也还是猜」 là mức ch30; dùng chữ khác).
 4. Nối [[hook-can-dazai-de-thang-archer]] một cách nhẹ: "lần sau" là thật. Tsuna biết mình không thắng nổi đối đầu trực diện (ch28). Dazai **không** hứa cách thắng. Tránh bi kịch.
 5. **Khép arc.** Tsuna đếm năm Servant còn lại: Saber, Archer, Rider, Berserker, Caster (ch28). Một trong số đó đã đổi chủ mà không ai báo cho ai. Một hình ảnh ngắn để khép: màn hình, cửa sổ, kết giới, hoặc bữa trưa. **Không** câu tổng kết, **không** cliffhanger.

@@ -17,14 +17,14 @@ flame: Kotei (Sky)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, deceased]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Hibari Kimiko — Người lập Namimori
 
 > Đã mất. Nhưng bà là **nguyên nhân của gần như mọi thứ** trong bối cảnh hiện tại.
 >
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]]. ⚠️ Phần lớn tiểu sử bà đến từ **miệng [[kawahira]]** ở P2 Ch2 — tầng *lời nhân vật*, luật 6 của [[phan-biet-hai-the-gioi]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. ⚠️ Phần lớn tiểu sử bà đến từ **miệng [[kawahira]]** ở P2 Ch2 — tầng *lời nhân vật*, luật 6 của [[phan-biet-hai-the-gioi]].
 
 ## Tên và danh hiệu
 

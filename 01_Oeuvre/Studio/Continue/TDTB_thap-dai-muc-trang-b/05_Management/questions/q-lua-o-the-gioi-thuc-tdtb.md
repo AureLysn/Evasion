@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-lua-o-the-gioi-thuc-tdtb]]"
 resolved_at: 2026-09-26
 needed_before:
-  arc: "outline arc 1"
+  arc:
   chapter: "truoc canh hanh dong dau tien o doi thuc"
 decision_owner: "user"
 aliases: ["lua o the gioi thuc", "lửa ở đời thực", "Dying Will Flame đời thực", "găng tay mang ra ngoài", "Tsuna mạnh ở đời thực"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Tsuna có dùng được lửa và găng tay ở đời thực không?
@@ -36,7 +36,7 @@ ch5: phần thưởng đặc biệt *"cũng không thể mang ra trạm trung ch
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc canh hanh dong dau tien o doi thuc
+Cần trước: truoc canh hanh dong dau tien o doi thuc
 
 ## Ai quyết
 

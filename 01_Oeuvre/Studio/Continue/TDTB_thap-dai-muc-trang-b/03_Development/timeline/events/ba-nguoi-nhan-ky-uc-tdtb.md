@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "vai ngay truoc ngay quay show (suy tu ch11 'hom qua ve nuoc' va ch13 'da may ngay')"
   arc: "mo-dau"
-  chapter: "ch9"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.reborn-tdtb", "character.TDTB.dino-tdtb", "character.TDTB.gokudera-hayato-tdtb", "character.TDTB.angelie-tap-tdtb", "character.TDTB.yamamoto-takeshi-tdtb"]
 location: ["giáo đường ở Iceland", "biệt thự ở Ý", "phòng thay đồ đội bóng chày ở Mỹ"]
 aliases: ["ba nguoi nham mat", "ba người nhắm mắt", "Reborn Gokudera Yamamoto nhắm mắt", "Gokudera mat tri nho", "Gokudera mất trí nhớ", "Ta vì sao lại ở đây", "Reborn Iceland", "Yamamoto phòng thay đồ"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

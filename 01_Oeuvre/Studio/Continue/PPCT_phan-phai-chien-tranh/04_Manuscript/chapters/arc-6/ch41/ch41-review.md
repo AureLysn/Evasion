@@ -10,7 +10,7 @@ chapter: 41
 canon_layer: user_canon
 status: active
 aliases: ["review ch41 PPCT", "soat ch41", "check-continuity ch41", "check-style ch41", "soat lau dai trong"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-chapter]]", "[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter]]", "[[kiritsugu]]", "[[maiya]]", "[[maiya-trong-thuong-song]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[Command-Spells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-chapter]]", "[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter]]", "[[kiritsugu]]", "[[maiya]]", "[[kirei-van-la-master]]", "[[Command-Spells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 30/09/2026, tren ban nhap ch41 (1.705 chu Han). Nguoi soat cung la nguoi viet ban nhap va planner trong cung phien. The canh chua qua plan-reviewer."
@@ -42,7 +42,7 @@ last_updated: 2026-09-30
 |---|---|---|
 | 1 | Timeline | ✅ 「第十五天晚上」 · 「快到后半夜」. Băng: 「第十四天中午」 (chuồn chuồn — ch38), 「第十五天中午」 (linh mục — ch39), 「第十天夜里」 (ch35). Thứ tự khớp ch40: Saber được dịch chuyển về, đuổi đi trước khi Kiritsugu tới (Maiya: 「Saber……已经追出去了」) |
 | 2 | Ranh giới hiểu biết | ✅ Về Archer, Kiritsugu vẫn **L2**: 「这两件事之间有没有关系，他不知道。他只是把它们放在一起。」 Tên Kirei một lần, không kết luận "Master của Archer". Hắn biết Dazai là 「Caster的御主」 — đúng [[kiritsugu]] (ch36). Không biết căn cứ, Tsuna, Berserker, Kariya. Xem **#1** |
-| 3 | Trạng thái nhân vật | ✅ Lệnh chú của Kiritsugu 3 → 2. Maiya **sống**, còn tỉnh, súng trong tay ([[maiya-trong-thuong-song]]). Saber về, không tả phương tiện (M6 plan) |
+| 3 | Trạng thái nhân vật | ✅ Lệnh chú của Kiritsugu 3 → 2. Maiya **sống**, còn tỉnh, súng trong tay (maiya-trong-thuong-song). Saber về, không tả phương tiện (M6 plan) |
 | 4 | Luật thế giới | ✅ Dùng lệnh chú dịch chuyển Servant (canon e1). 「门上没有魔术的痕迹，只有力气，从者的那种力气」. Xem **#2** |
 | 5 | Quan hệ, xưng hô | ✅ Saber gọi 「切嗣」; Kiritsugu **không** trả lời Saber (ch35). Maiya gọi Irisviel 「夫人」 — canon, chưa có note quan hệ ghi (low, không mâu thuẫn) |
 | 6 | Canon | ✅ Maiya còn tỉnh, giục Saber đuổi (canon c2 — **bỏ** lời trăng trối). Kiritsugu tới Kirei qua loại trừ (e1), **sớm hơn** canon nhờ chi tiết của Maiya. Camera cổng không ghi gì (C10). Đường núi phía bắc (C11) |
@@ -53,7 +53,7 @@ last_updated: 2026-09-30
 
 | # | Loại | Mức | Chỗ trong chương | Chi tiết | Note đối chiếu |
 |---|---|---|---|---|---|
-| 1 | cấp bí mật | low | cảnh 04: 「一个输掉了的御主，却一直没有离开这座城市；一个说自己什么也不做的人，却一直在看。」 | Kiritsugu giờ **nghi** Kirei đứng sau vụ bắt cóc, và đặt Kirei **cạnh** việc Tokiomi "không còn". Đây không phải L3 về Archer (không có lệnh chú, không có "người cấp ma lực"). `finalize-chapter` cần ghi dòng 📌 cho [[archer-doi-master-sang-kirei]] và [[kirei-van-la-master]], frontmatter **không** đổi | [[archer-doi-master-sang-kirei]] · [[kirei-van-la-master]] |
+| 1 | cấp bí mật | low | cảnh 04: 「一个输掉了的御主，却一直没有离开这座城市；一个说自己什么也不做的人，却一直在看。」 | Kiritsugu giờ **nghi** Kirei đứng sau vụ bắt cóc, và đặt Kirei **cạnh** việc Tokiomi "không còn". Đây không phải L3 về Archer (không có lệnh chú, không có "người cấp ma lực"). `finalize-chapter` cần ghi dòng 📌 cho archer-doi-master-sang-kirei và [[kirei-van-la-master]], frontmatter **không** đổi | archer-doi-master-sang-kirei · [[kirei-van-la-master]] |
 | 2 | chi tiết thêm | low | cảnh 02: 「他把右手从方向盘上抬起来，手背上的三道令咒」 | Lệnh chú Kiritsugu ở **tay phải**: [[Command-Spells]] chỉ ghi "thường ở mu bàn tay phải", không riêng Kiritsugu. **Không chắc** — không có nguồn | [[Command-Spells]] luật 5 |
 | 3 | chi tiết thêm | low | cảnh 03: 「椅背上搭着一条白色的披肩」 | Khăn choàng trắng của Irisviel: chi tiết fic (plan C8, writer chọn). Không mâu thuẫn | [[irisviel]] |
 | 4 | chi tiết thêm | low | cảnh 02: 「北边的山路，窄，没有灯，舞弥平时进出城堡走的就是这一条」 | Đường núi phía bắc: **lựa chọn của fic** (plan C11). `finalize-chapter` ghi vào [[lau-dai-einzbern]] kèm nhãn "không có nguồn canon", như ch40 #3 | [[lau-dai-einzbern]] |

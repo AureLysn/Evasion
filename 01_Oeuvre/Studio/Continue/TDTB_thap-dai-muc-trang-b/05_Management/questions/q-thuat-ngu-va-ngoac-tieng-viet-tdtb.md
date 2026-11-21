@@ -9,11 +9,11 @@ status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-27
 needed_before:
-  arc: "arc 1"
+  arc:
   chapter: "truoc chuong dau tien, va truoc khi lap style/ai-tells.md (khoi gate:)"
 decision_owner: "user"
 aliases: ["thuat ngu tieng Viet TDTB", "tin tuc to hay pheromone", "ngoac tieng Viet TDTB", "danh sach mat do tieng Viet TDTB", "cach ghi dan mac TDTB"]
-related: ["[[qd-viet-tieng-viet-quy-doi-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]"]
 source:
   type: inference
   ref: "He qua cua qd-viet-tieng-viet-quy-doi-tdtb, 26/09/2026. Danh sach thuat ngu zh lay tu targets.md; cach ban convert dich lay tu ban-convert-tdtb"
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Viết tiếng Việt thì thuật ngữ và các loại ngoặc ghi thế nào?
@@ -32,7 +32,7 @@ last_updated: 2026-09-27
 
 ## Vì sao phải hỏi
 
-Aurel đã chọn viết tiếng Việt ([[qd-viet-tieng-viet-quy-doi-tdtb]]). Còn hai thứ chưa có dạng tiếng Việt:
+Aurel đã chọn viết tiếng Việt (qd-viet-tieng-viet-quy-doi-tdtb). Còn hai thứ chưa có dạng tiếng Việt:
 
 1. **Danh sách từ khóa mật độ.** [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] đang dùng 14 từ chữ Hán. Muốn đo văn Việt thì cần 14 từ
    tương ứng, và mỗi từ phải là **một** cách viết cố định.

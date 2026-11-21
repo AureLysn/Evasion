@@ -10,7 +10,7 @@ chapter: "pn3-09"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-09 ban DeepSeek", "kiểm phiên ngoại nhặt đủ một bầu trời", "pn3-09 ds kiem PPCT"]
-related: ["[[pn3-09-ds-nhap]]", "[[pn3-09-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Haru-Miura]]", "[[Hayato-Gokudera]]", "[[Kyoya-Hibari]]"]
+related: ["[[pn3-09-ds-nhap]]", "[[pn3-09-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Haru-Miura]]", "[[Hayato-Gokudera]]", "[[Kyoya-Hibari]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/26463fd4-065a-40c6-b9a7-4169fb166036 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd957b-871c-83ec-a15b-650b3dd52bc5"

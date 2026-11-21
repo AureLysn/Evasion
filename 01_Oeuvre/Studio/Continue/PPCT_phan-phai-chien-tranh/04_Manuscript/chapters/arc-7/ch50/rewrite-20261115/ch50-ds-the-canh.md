@@ -10,7 +10,7 @@ chapter: 50
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch50 ban DeepSeek", "thẻ cảnh ch50 bản song song", "ch50 ds PPCT"]
-related: ["[[ch50-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]", "[[ch46-ds-nhap]]", "[[tsuna--gilgamesh]]", "[[20261117-canon-arc-7-ch47-49]]"]
+related: ["[[ch50-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]", "[[ch46-ds-nhap]]", "[[tsuna--gilgamesh]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch50-ds-plan (Aurel duyệt 17/11/2026, sửa C4, C5/C7/C8)."

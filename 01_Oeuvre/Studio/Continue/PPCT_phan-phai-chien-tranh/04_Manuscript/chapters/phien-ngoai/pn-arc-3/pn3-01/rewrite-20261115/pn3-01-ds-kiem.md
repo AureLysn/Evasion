@@ -10,7 +10,7 @@ chapter: "pn3-01"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-01 ban DeepSeek", "kiểm phiên ngoại kỳ thi vào Tổ", "pn3-01 ds kiem PPCT"]
-related: ["[[pn3-01-ds-nhap]]", "[[pn3-01-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]"]
+related: ["[[pn3-01-ds-nhap]]", "[[pn3-01-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/da8bba17-92cc-46a8-87fc-e1f82913e423 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd6606-f874-83ec-9199-526a7018810f"

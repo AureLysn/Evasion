@@ -18,7 +18,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 23-05 man hinh", "duoi ch23", "ve nha toi ngay 6", "屏幕 ch23", "khep arc 2 PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[can-cu-to-caster]]", "[[sola-ui-gianh-lenh-chu]]", "[[hook-to-caster-khac-che-to-saber]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[can-cu-to-caster]]", "[[hook-to-caster-khac-che-to-saber]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-21
 ---
@@ -51,7 +51,7 @@ Khép arc 2 bằng cảnh nhà, và trả lại câu kết của ch22: màn hìn
 
 - ch22 dòng 127: 「那一整排屏幕还亮着：城堡、港口、西郊那间仓库，每一块都在动，没有人关。昨天是一整天没有人打开它们，今天是一整天不会有人看它们。」
 - ch22 dòng 37, **máy chỉ truyền trực tiếp, không ghi lại**: 「那些虫子只管把看见的东西往回传，没有人坐在这里的时候，传回来的东西就散在空屋子里，谁也留不住。」 → Dazai **không** có bản ghi để xem bù.
-- Lệnh chú đã sang tay Sola-Ui ở đêm ngày 5 — [[sola-ui-gianh-lenh-chu]]. Tổ Caster **chưa biết** — [[hook-to-caster-khac-che-to-saber]] (ch22: "bắt đầu rạn").
+- Lệnh chú đã sang tay Sola-Ui ở đêm ngày 5 — sola-ui-gianh-lenh-chu. Tổ Caster **chưa biết** — [[hook-to-caster-khac-che-to-saber]] (ch22: "bắt đầu rạn").
 - Căn cứ: hàng chục màn hình, ghế gaming xoay — [[can-cu-to-caster]]
 
 ## Kết cảnh phải đạt được gì

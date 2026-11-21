@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Midoriya Izuku", "Izuku", "Ghost", "緑谷出久", "Lightning Mare Ring", "Funeral Wreath", "con trai All For One", "soulmate cua Hawks", "quirk hut Flames", "Izu-kun"]
-related: ["[[all-for-one-untch]]", "[[soulmate-au]]", "[[he-bond]]", "[[q-izuku-va-cai-chet-bakugo]]", "[[hawks-takami-keigo]]", "[[qd-huong-arc-01]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[all-for-one-untch]]", "[[soulmate-au]]", "[[he-bond]]", "[[q-izuku-va-cai-chet-bakugo]]", "[[hawks-takami-keigo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch2, ch16, ch34, ch38, ch48, ch52, ch61, ch97, ch120, ch121, ch123, ch126."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Midoriya Izuku — `Ghost`
@@ -107,7 +107,3 @@ và **thất bại**.
 - **Todoroki Shouto** — cậu bé nhắn tin cho *"anh trai của Tsuna"* hàng tháng trời **mà không biết
   tên**
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #3: **Hawks tìm tới Byakuran và đụng phải cậu.**
-Bond **không** hình thành. 🔴 **Sức nặng nằm ở chỗ chỉ cậu biết.**

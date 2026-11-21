@@ -20,7 +20,7 @@ target_paragraph_mean: 45
 target_sentence_median: 20
 status: planned
 aliases: ["canh 27-02 quyet dau", "决斗 ch27", "Gae Dearg dau Invisible Air", "Saber Lancer toan luc"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[Diarmuid-Ua-Duibhne]]", "[[Artoria-Pendragon]]", "[[20260922-canon-saber-quyet-dau]]", "[[gae-buidhe-bi-pha]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[Diarmuid-Ua-Duibhne]]", "[[Artoria-Pendragon]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -56,7 +56,7 @@ Trận đấu thật, **hai bên đều có lợi thế thật**. Không ai th�
 
 - Canon: Gáe Dearg 「temporarily nullifies the effects of Magical Energy」, xuyên được lớp che của Invisible Air và giáp của Saber — [[Diarmuid-Ua-Duibhne]].
 - Canon: Invisible Air — kết giới gió, đối thủ không đoán được độ dài, bề rộng, quỹ đạo — [[Artoria-Pendragon]] mục Bảo cụ.
-- Canon trận tái đấu: Saber **bỏ một tay**; PPCT **không** theo (C2, lệch có chủ đích — [[20260922-canon-saber-quyet-dau]]).
+- Canon trận tái đấu: Saber **bỏ một tay**; PPCT **không** theo (C2, lệch có chủ đích — 20260922-canon-saber-quyet-dau).
 - ch25: Lancer 「因为在下想和Saber打一场。在她两只手都能握剑的时候。」 — giờ điều đó xảy ra.
 - ch4 (nguyên tác): tên bảo cụ 「破魔的红蔷薇，以及必灭的黄蔷薇」.
 

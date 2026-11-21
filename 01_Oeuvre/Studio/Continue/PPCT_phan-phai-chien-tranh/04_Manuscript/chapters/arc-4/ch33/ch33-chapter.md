@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 33 PPCT", "ban nhap tieng Trung ch33", "ban nhap khep arc 4", "反派战争33 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan|plan ch33]]", "[[arc-4-ba-dao-lenh-chu]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan|plan ch33]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

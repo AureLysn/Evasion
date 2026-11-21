@@ -10,7 +10,7 @@ chapter: 49
 canon_layer: planned
 status: active
 aliases: ["kiem ch49 ban DeepSeek", "kiểm ch49 bản song song", "ch49 ds kiem PPCT"]
-related: ["[[ch49-ds-nhap]]", "[[ch49-ds-the-canh]]", "[[ch49-ds-plan]]", "[[deepseek-20261115]]", "[[ch48-ds-nhap]]", "[[Zero-Point-Breakthrough]]", "[[Holy-Grail]]"]
+related: ["[[ch49-ds-nhap]]", "[[ch49-ds-the-canh]]", "[[ch49-ds-plan]]", "[[ch48-ds-nhap]]", "[[Zero-Point-Breakthrough]]", "[[Holy-Grail]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek chat ch49 https://chat.deepseek.com/a/chat/s/5fa51a23-00bb-4df0-b5f4-900ff295eb66 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc3999-f904-83ec-97af-6719f9d9d707"

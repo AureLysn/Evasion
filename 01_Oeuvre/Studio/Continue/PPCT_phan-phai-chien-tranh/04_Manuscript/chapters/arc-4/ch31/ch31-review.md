@@ -10,7 +10,7 @@ chapter: 31
 canon_layer: user_canon
 status: active
 aliases: ["review ch31 PPCT", "soat ch31", "check-continuity ch31", "check-style ch31", "礼物 review"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-chapter]]", "[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[20260923-canon-lenh-chu-tokiomi]]", "[[Gilgamesh-Archer]]", "[[kirei-van-la-master]]", "[[gilgamesh]]", "[[tokiomi]]", "[[kirei]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-chapter]]", "[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[Gilgamesh-Archer]]", "[[kirei-van-la-master]]", "[[gilgamesh]]", "[[tokiomi]]", "[[kirei]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 23/09/2026, tren ban nhap ch31 (2.294 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien — xem canh bao dau file."
@@ -43,7 +43,7 @@ last_updated: 2026-09-23
 | Timeline | ✅ Tối → đêm ngày 10, sau ch30 (sáng → trưa). 「昨天傍晚…黑色的轿车」 = chạng vạng ngày 9 ✓ (ch29). 「从酒宴散场的那天晚上算起」 = ngày 3 ✓. 「第一天晚上的仓库街」 = ngày 1 ✓ (ch9). 🔵 **#4** 「你来冬木……已经三年了」 |
 | Ranh giới tri thức | ✅ Gilgamesh ở `known_by` [[kirei-van-la-master]] và [[assassin-chua-chet]] — được biết. ✅ Tsuna chỉ là 「一个个子小小的Caster」 + 「那件东西」, **không** gọi loại (ch9 「时空宝物」 không lặp). ✅ Số lệnh chú của Kirei **không** nêu (「多得多」 · 「有几道」). ✅ Không nội tâm Kirei — chỉ 「那张脸…什么也看不出来」 · 「没有去看倒在门边的人」 |
 | Trạng thái nhân vật | ✅ Tokiomi còn **hai** lệnh chú, **mu bàn tay phải** — khớp ch9 「凝视着右手的手背」 và [[tokiomi]]. ✅ Lệnh chú ch9 dùng **khi tay Archer đã trong cổng Babylon** — khớp nguyên văn. ✅ 「收回宝库」 khớp niềm tin ch9 của Archer (「将宝物从我宝库中盗走的小偷」 · 「纳入宝库」) |
-| Luật thế giới | ✅ Kế tự sát bằng lệnh chú cuối để mở cổng — canon ([[20260923-canon-lenh-chu-tokiomi]] #3). ✅ Kirei đâm sau lưng khi Tokiomi ra cửa; Gilgamesh không động tay (#11). ✅ Azoth剑 = lễ vật xuất sư (萌娘百科). 🔵 **#3** câu Kirei về Servant mất Master |
+| Luật thế giới | ✅ Kế tự sát bằng lệnh chú cuối để mở cổng — canon (20260923-canon-lenh-chu-tokiomi #3). ✅ Kirei đâm sau lưng khi Tokiomi ra cửa; Gilgamesh không động tay (#11). ✅ Azoth剑 = lễ vật xuất sư (萌娘百科). 🔵 **#3** câu Kirei về Servant mất Master |
 | Quan hệ / xưng hô | ✅ Archer gọi 「时臣」 (C3, khớp ch9); Tokiomi gọi 「英雄王」 (khớp ch9); Kirei gọi Archer 「英雄王」 · 「您」. 🔵 **#5** Kirei gọi Tokiomi 「老师」 — chưa kiểm canon |
 | Canon | ✅ Lý do tiễn Kirei theo **C1** (Assassin mất từ Vương Yến; nhà thờ trung lập) — **không** nhắc Irisviel/liên minh. 🔵 **#2** hai chi tiết mới không nguồn |
 | Hợp đồng nhánh | ✅ Không chạm mục `Cấm` |

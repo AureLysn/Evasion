@@ -10,7 +10,7 @@ chapter: 51
 canon_layer: planned
 status: active
 aliases: ["kiem ch51 ban DeepSeek", "kiểm ch51 bản song song", "ch51 ds kiem PPCT"]
-related: ["[[ch51-ds-nhap]]", "[[ch51-ds-the-canh]]", "[[ch51-ds-plan]]", "[[deepseek-20261115]]", "[[loi-moi-hien-the-ai-nhan]]", "[[loi-moi-hien-the-dap-an-cu-ket-mo]]"]
+related: ["[[ch51-ds-nhap]]", "[[ch51-ds-the-canh]]", "[[ch51-ds-plan]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek chat ch51 https://chat.deepseek.com/a/chat/s/782d1327-3c67-4ef1-8d93-f9c47ddc2b07 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc447e-2938-83ec-b34b-83850f62eddd"
@@ -66,4 +66,4 @@ Lượt 1: A + B1–B3. Lượt 2: A viết lại (DS tránh cả tên Tsuna/Daz
 
 - `ai_tells_check`: 1.459 chữ Hán, không tật AI.
 - `chapter_gate`: đạt luật cứng (số từ 1.532); lệch 5 chỉ tiêu mềm.
-- `pov_leak_check --pov tsuna`: 8 secret đối chiếu (gồm leak_terms của [[loi-moi-hien-the-ai-nhan]]), không rò rỉ.
+- `pov_leak_check --pov tsuna`: 8 secret đối chiếu (gồm leak_terms của loi-moi-hien-the-ai-nhan), không rò rỉ.

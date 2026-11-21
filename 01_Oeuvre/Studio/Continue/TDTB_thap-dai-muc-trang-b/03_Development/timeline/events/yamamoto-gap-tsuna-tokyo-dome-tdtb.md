@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, ban ngay"
   arc: "show-tap-1"
-  chapter: "ch10-ch13"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.yamamoto-takeshi-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["[[tokyo-dome-tdtb]]"]
 aliases: ["Yamamoto gap Tsuna", "Yamamoto gặp Tsuna", "Yamamoto om Tsuna", "Yamamoto ôm Tsuna", "A Cương đã lâu không gặp", "Ta sẽ chờ ngươi một mực", "Cự Đản", "巨蛋体育场", "Tokyo Dome TDTB", "đánh bóng chày", "Hamburger", "bạn rất thân"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.
@@ -29,7 +29,7 @@ last_updated: 2026-10-01
 # Yamamoto xuất hiện ở 巨蛋体育场 (Cự Đản) và ôm Tsuna trước ống kính
 
 > 🏟️ **Tên sân.** Nguyên văn gọi sân là **巨蛋体育场** (ch10.42, ch10.50; ví dụ *"巨蛋体育场棒球体验券"*; bản convert: *"Cự đản sân
-> thể dục"*; ch17 viết tiếp: *"昨天在巨蛋体育场"*). Nguyên văn **không** viết 东京巨蛋 / "Tokyo Dome". Tên file và alias
+> thể dục"*). Nguyên văn **không** viết 东京巨蛋 / "Tokyo Dome". Tên file và alias
 > "Tokyo Dome TDTB" là cách gọi của vault từ lần trích xuất 25/09, giữ nguyên để không gãy liên kết.
 
 ## Chuyện gì xảy ra

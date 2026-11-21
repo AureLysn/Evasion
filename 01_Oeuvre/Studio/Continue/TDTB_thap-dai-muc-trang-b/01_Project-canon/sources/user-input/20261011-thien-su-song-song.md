@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: user_canon
 status: active
 aliases: ["Aurel tra loi thien su SI OC sang TDTB", "thien su the gioi song song", "cung nhan vat khac cot truyen", "user input TDTB 11/10 lan 3"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]", "[[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel, chat phien Claude Code 11/10/2026 — tra loi q-thien-su-si-oc-sang-tdtb-tdtb"

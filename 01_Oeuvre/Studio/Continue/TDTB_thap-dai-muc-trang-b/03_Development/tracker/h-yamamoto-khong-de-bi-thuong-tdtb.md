@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # "Hắn sẽ không để cho hắn lần nữa bị thương tổn"
@@ -43,4 +43,3 @@ Yamamoto mang một mất mát, và lời thề "lần nữa". Người đọc c
 | Chương | |
 |---|---|
 | ch15 | lời thề *"他不会让他再次受到伤害了"* |
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] | một mảnh hoa bách hợp (đúng mức ch15), rồi một ý ở hiện tại: *"没关系，现在看也来得及。"* Chưa hành động |

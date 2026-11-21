@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争47（DeepSeek版）"
 aliases: ["ch47 ban DeepSeek nhap", "chương 47 bản song song DeepSeek", "反派战争47 DeepSeek"]
-related: ["[[ch47-ds-plan]]", "[[ch47-ds-the-canh]]", "[[ch47-ds-kiem]]", "[[deepseek-20261115]]", "[[ch46-ds-nhap]]"]
+related: ["[[ch47-ds-plan]]", "[[ch47-ds-the-canh]]", "[[ch47-ds-kiem]]", "[[ch46-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch47-ds-the-canh (2 lượt: A–B; C–E); Claude kiểm và sửa; GPT đọc thử, Claude áp các điểm đã kiểm (xem ch47-ds-kiem). Bản aurel-main chưa có ch47. Chat ch47: https://chat.deepseek.com/a/chat/s/dc153a8a-c8d2-45f1-966d-0990531b45e1"

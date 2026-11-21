@@ -10,7 +10,7 @@ chapter: "pn3-11"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-11 ban DeepSeek", "thẻ cảnh người viết ở quán", "pn3-11 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-10-ds-nhap]]", "[[pn3-10-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Sakunosuke-Oda]]", "[[Chrome-Dokuro]]", "[[Rokudo-Mukuro]]", "[[Xanxus]]", "[[Akutagawa-Ryunosuke]]", "[[Byakuran-Gesso]]", "[[Reborn]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-10-ds-nhap]]", "[[pn3-10-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Sakunosuke-Oda]]", "[[Chrome-Dokuro]]", "[[Rokudo-Mukuro]]", "[[Xanxus]]", "[[Akutagawa-Ryunosuke]]", "[[Byakuran-Gesso]]", "[[Reborn]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-11 (Aurel duyệt; C11, C17 để DeepSeek/GPT); dàn ý cũ III.9; note Database Chrome-Dokuro (tạo 18/11/2026), Sakunosuke-Oda; dữ kiện pn3-06 (14/10 sinh nhật), pn3-08 (Mukuro 「还有一个人」), pn3-10."

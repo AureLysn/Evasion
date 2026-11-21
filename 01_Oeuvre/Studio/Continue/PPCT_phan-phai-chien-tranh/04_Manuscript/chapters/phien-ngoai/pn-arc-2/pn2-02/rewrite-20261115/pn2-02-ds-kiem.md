@@ -10,7 +10,7 @@ chapter: "pn2-02"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-02 ban DeepSeek", "kiểm phiên ngoại Bài toán lời nguyền", "pn2-02 ds kiem PPCT"]
-related: ["[[pn2-02-ds-nhap]]", "[[pn2-02-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]"]
+related: ["[[pn2-02-ds-nhap]]", "[[pn2-02-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/f9873bdd-b4be-433b-919a-1b694f79f487 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afce306-fce8-83ec-8f32-14d6ccb0f0cd"

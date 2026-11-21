@@ -7,9 +7,9 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["quan he EMB", "relationships EMB", "cach xung ho"]
-related: ["[[EMB]]", "[[relationships-moc-phan-cu]]"]
+related: ["[[EMB]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-20
 ---
 
 # MOC — EMB / relationships
@@ -20,6 +20,7 @@ Với văn tiếng Anh của fic gốc thì đây là *ai gọi ai bằng gì*. 
 
 - [[tsuna--kyouya]] — anh em họ. Kyouya gọi *"small animal"*, không bao giờ dùng tên
 - [[tsuna--musashi]] — bà cháu, có **pseudo-bond**. Bà gọi **Masaya**
+- [[tsuna--kawahira]] · [[tsuna--natsu]] · [[tsuna--shouichi]] · [[tsuna--bermuda]] — quan hệ có gốc ngoài văn xuôi đã bỏ
 
 ## Chưa dựng
 

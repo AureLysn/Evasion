@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["soat nen du kien 01/10", "check-conflicts lam lai lan ba", "audit EMB sau khi luu tru tam chuong", "du kien sot tu van xuoi da bo", "Kyoya hay Kyouya", "diem danh nhan vat khung nam arc"]
-related: ["[[emb-lam-lai-lan-ba]]", "[[khung-nam-arc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[EMB]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[EMB]]"]
 source:
   type: inference
   ref: "check-conflicts Mode 3, 01/10/2026, sau khi luu tru tam chuong. Do bang script chi doc tren 289 note cua project va tren van ban hai file HTML o personal-bulk:fiction-sources/EMB/raw/original-fic (44.140 tu ca ghi chu). KHONG doc lai tung fact doi voi nguyen tac: viec ay la cua nam so 15-16/09 trong _doi-chung."
@@ -21,7 +21,7 @@ last_updated: 2026-10-01
 
 # Soát nền dữ kiện — sau khi lưu trữ tám chương
 
-> Bước 2 của [[emb-lam-lai-lan-ba]]. Aurel tick lý do *nền dữ kiện* nhưng **không chỉ chỗ nghi cụ thể**, nên lượt này đo ba thứ máy đo được: dữ kiện **sót lại** từ văn xuôi đã bỏ, chỗ note **lệch nguyên tác**, và hai lời chê của Aurel *(quên nhân vật · Tsuna thiên buồn)* **nằm ở tầng nào**.
+> Bước 2 của emb-lam-lai-lan-ba. Aurel tick lý do *nền dữ kiện* nhưng **không chỉ chỗ nghi cụ thể**, nên lượt này đo ba thứ máy đo được: dữ kiện **sót lại** từ văn xuôi đã bỏ, chỗ note **lệch nguyên tác**, và hai lời chê của Aurel *(quên nhân vật · Tsuna thiên buồn)* **nằm ở tầng nào**.
 >
 > ⛔ **Chỉ báo cáo.** Không note nào bị sửa. Mỗi mục kết bằng lựa chọn cho Aurel.
 
@@ -56,7 +56,7 @@ Ba lớp, xếp theo ngày:
 | Lớp | Nói gì | Tầng |
 |---|---|---|
 | Nguyên tác | tác giả tự gọi giọng mình *semi-humorous*; [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] mục *Tính cách* trích: **giễu cợt, hài khô, cắt ngang khoảnh khắc nghiêm trọng bằng trò đùa** | `original_author` |
-| [[khung-nam-arc]], duyệt 17/09 | hàng **Xả** và **Bóng Decimo** của năm arc: *biết mà chưa làm gì* · *Nana và Iemitsu rời đi lần nữa* · *không kế hoạch nào dành cho mẹ mình* · *cậu không tính mình vào kế hoạch của chính mình* · *bị người tạo ra Decimo nhìn như người lạ* | AI dựng, `user` duyệt |
+| khung-nam-arc, duyệt 17/09 | hàng **Xả** và **Bóng Decimo** của năm arc: *biết mà chưa làm gì* · *Nana và Iemitsu rời đi lần nữa* · *không kế hoạch nào dành cho mẹ mình* · *cậu không tính mình vào kế hoạch của chính mình* · *bị người tạo ra Decimo nhìn như người lạ* | AI dựng, `user` duyệt |
 | Lời Aurel **sau** khung | 19/09: Tsunayoshi là *"cậu bé hiền lành, lương thiện, cứng đầu, có chút vụng về"* · 19/09: *học tin tưởng, tự tin, bốc đồng* · 22/09: arc Child *"thiên về hoạt bát"*, Tsuna *tự tin và gây rối* | `user` |
 
 ```
@@ -68,13 +68,13 @@ Precedence: cùng tầng user  =>  DỪNG, Aurel quyết
 
 Năm dòng *Xả* không sai từng dòng; cộng lại thì **arc nào cũng đóng ở chỗ cậu thua một thứ**, và không dòng nào trong khung ghi **chỗ cậu đùa**. Ba lời sau của Aurel chưa bao giờ được chép ngược lên khung: chúng nằm ở ba decision, hai trong số đó vừa mở lại *([[q-xuong-song-brat]] · [[q-bermuda-an-toi]])*.
 
-**IMPACT:** [[khung-nam-arc]] năm hàng *Xả* và năm hàng *Bóng Decimo* · [[truc-chinh]] *(16/08, chưa sửa lần nào từ đó)* · luận đề *"fix-it cho tất cả trừ chính người đang sửa"* trong [[EMB]] và [[gia-thuyet-aurel]] · mọi dàn ý dựng trên khung.
+**IMPACT:** khung-nam-arc năm hàng *Xả* và năm hàng *Bóng Decimo* · [[truc-chinh]] *(16/08, chưa sửa lần nào từ đó)* · luận đề *"fix-it cho tất cả trừ chính người đang sửa"* trong [[EMB]] và [[gia-thuyet-aurel]] · mọi dàn ý dựng trên khung.
 
 **OPTIONS:** [Sửa khung ở bước 3: thêm một hàng **Giọng** cho từng arc từ ba lời 19–22/09, và soát lại từng dòng *Xả*] · [Giữ khung, chỉ thêm hàng Giọng] · [Mở lại luận đề]
 
 ## 🔴 K3 — *thường quên nhân vật*: note **có đủ**; khung **không gọi tên họ**
 
-Số lần [[khung-nam-arc]] nhắc tên, cạnh số lần tác giả nhắc trong thân truyện:
+Số lần khung-nam-arc nhắc tên, cạnh số lần tác giả nhắc trong thân truyện:
 
 | | Khung | Nguyên tác | | | Khung | Nguyên tác |
 |---|---|---|---|---|---|---|
@@ -100,7 +100,7 @@ Người được tác giả nhắc nhiều nhất cả truyện, **Musashi**, k
 | Tên con cáo **Tomoshibi** *(0 lần trong nguyên tác)* | [[natsu]] *(alias và thân)* · [[tsuna--natsu]] · [[chi-chu-nhan-thay-cao]] · [[bermuda]] · [[mammon]] · [[emb-chot-cap-song-sinh]] · [[emb-chot-may-nhan-loi-sky]] | đặt ở Brat Ch3 đã lưu trữ | giữ cái tên, hay để bản mới đặt lại |
 | [[tsuna--natsu]] | cả note | `source.ref`: *dựng khi finalize brat-ch3* | xếp ở hàng *giữ* của danh sách A; chỗ dựa là văn xuôi đã bỏ |
 | [[chi-chu-nhan-thay-cao]] | cả note | dân gian *(kudagitsune)* + *lên trang ở brat-ch3*; `authority: ai`, 0,8 | như trên |
-| Ngoại lệ **forbid #7** cho ba sự kiện Child | [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main\|aurel-main]] dòng 79 | chốt 25/09 trên dàn ý Child đã lưu trữ; năm cổng nay là [[q-child-nam-cong]] | giữ ngoại lệ, hay rút cho tới khi có dàn ý Child mới |
+| Ngoại lệ **forbid #7** cho ba sự kiện Child | [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main\|aurel-main]] dòng 79 | chốt 25/09 trên dàn ý Child đã lưu trữ; năm cổng nay là q-child-nam-cong | giữ ngoại lệ, hay rút cho tới khi có dàn ý Child mới |
 | Ví dụ trích chương đã bỏ | [[fact-tap-quan-doi-voi-tung-he-lua]] · [[fact-cloud-ben-bi-cach-ly-la-xa-hoi]] · [[fact-cham-lua-thu-tuong-thich]] · [[fact-vendicare-giu-so]] | **luật** là lời Aurel 20/09 *(`user_input`)*; chỉ **ví dụ** là văn xuôi | không cần quyết: luật đứng, ví dụ nên đánh dấu *đã lưu trữ* |
 
 ✅ Sạch: *Elena · Ishii · Kaneko · Maizuru* không còn ở note sống nào ngoài mục đã gạch.
@@ -109,7 +109,7 @@ Người được tác giả nhắc nhiều nhất cả truyện, **Musashi**, k
 
 **84 note sống** còn link tới note `superseded` hoặc file đã lưu trữ, ngoài các mục đã gạch. Đích bị trỏ nhiều nhất: `dot7-quyet-dinh` ×14 *(chết từ 15/09)* · `brat-dan-y` ×11 · `emb-chot-tuyen-varia` ×9 · `brat-ch2-chapter` ×7 · `nagi-khong-biet-chuyen-cha-me` ×6.
 
-Phần lớn là `related:` và câu dẫn nguồn, vô hại. Chỗ đáng sửa vì **planner đọc trực tiếp**: [[khung-nam-arc]] *(4 đích: hai dàn ý, hai decision)* · [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]] *(3)* · 8 note `canon/` · 2 note `secrets/`.
+Phần lớn là `related:` và câu dẫn nguồn, vô hại. Chỗ đáng sửa vì **planner đọc trực tiếp**: khung-nam-arc *(4 đích: hai dàn ý, hai decision)* · [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]] *(3)* · 8 note `canon/` · 2 note `secrets/`.
 
 **OPTIONS:** [Sửa 15 note planner đọc; phần còn lại để nguyên] · [Để nguyên cả, luật *bỏ qua mục ⛔* là đủ]
 
@@ -134,4 +134,4 @@ Phần lớn là `related:` và câu dẫn nguồn, vô hại. Chỗ đáng sử
 
 ## Việc kế tiếp
 
-Bước 3: soát [[khung-nam-arc]] theo K2 *(giọng)* và K3 *(điểm danh)*. Còn treo: nghĩa của tên con cáo, và ngoại lệ forbid #7.
+Bước 3: soát khung-nam-arc theo K2 *(giọng)* và K3 *(điểm danh)*. Còn treo: nghĩa của tên con cáo, và ngoại lệ forbid #7.

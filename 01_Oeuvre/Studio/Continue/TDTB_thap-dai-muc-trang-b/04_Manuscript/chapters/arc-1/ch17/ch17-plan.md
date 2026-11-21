@@ -15,7 +15,7 @@ title: "装B的第十七天"
 pov: [character.TDTB.loc-da-tuyet-tdtb, character.TDTB.sawada-tsunayoshi-tdtb]
 target_words: "≥ 2.200 chữ Hán — dự kiến ~3.000"
 aliases: ["plan ch17 TDTB", "ke hoach chuong 17 TDTB", "装B的第十七天 plan", "ket tap 1 TDTB", "S2 den cham diem cuoi tap 1", "the canh ch17 TDTB"]
-related: ["[[dan-y-ch16-ch19-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[qd-kenichi-loi-dung-truoc-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[h-0038-kiem-tra-yamamoto-tdtb]]", "[[h-chi-nam-nhiem-vu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[kenichi-thay-yamamoto-ra-phong-tdtb]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-review]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[h-0038-kiem-tra-yamamoto-tdtb]]", "[[h-chi-nam-nhiem-vu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 30/09/2026 — the canh ch17 tu dan-y-ch16-ch19-tdtb (Aurel dong y 30/09). Worker A (plan + canh 01); canh 02 (worker B), 03-04 (worker C) theo cung bang chia canh. Doi lai nguyen van zh ch2.17-28, ch3.3-20, ch9.33-34 va 9.65, ch10.17-23, ch11.16-20, ch13.19-27 va 13.42-51, ch14.33-36, ch15.1-17 cung ngay, tu zip trong store personal-bulk."
@@ -29,9 +29,9 @@ last_updated: 2026-10-03
 
 # Kế hoạch chương 17 — 《装B的第十七天》 · *(✅ Aurel đồng ý toàn bộ — D1–D3, N1–N3 30/09; phần còn lại 01/10)*
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
-> Chương 2 của arc 1 ([[dan-y-ch16-ch19-tdtb]], Aurel đồng ý 30/09). **Kết tập 1**: rạng sáng **S2** → tối **S2**, chấm điểm cuối
+> Chương 2 của arc 1 (dan-y-ch16-ch19-tdtb, Aurel đồng ý 30/09). **Kết tập 1**: rạng sáng **S2** → tối **S2**, chấm điểm cuối
 > tập ([[qd-moi-tap-hai-ngay-tdtb]]). Nối từ câu cuối ch16 (khối Kenichi): *"“后门的事，”他低声说，“已经不急了。”"*
 > Bảng C ở cuối ghi các lựa chọn của chương, **thay cho** note `question` riêng — như ch16 (Aurel chọn giữ bảng, 30/09).
 > C1–C7 do worker A đề xuất; C8–C10 là chỗ nối giữa các cảnh, thẻ 02–04 (worker B, C) có thể thay bằng đề xuất của thẻ.
@@ -172,11 +172,11 @@ tập 2: khách về nhà **vài ngày** — ch17 **không** cần nói mấy ng
 
 ## Vì sao — writer đọc, nhân vật KHÔNG biết
 
-Đây là lần đầu của cơ chế "không xuống được xe" ([[chia-arc-huong-b-tdtb]] trục 1). **Kỳ bảo hộ** (tập 1 và 2, 9.65 *"没有摆在台面上的
+Đây là lần đầu của cơ chế "không xuống được xe" (chia-arc-huong-b-tdtb trục 1). **Kỳ bảo hộ** (tập 1 và 2, 9.65 *"没有摆在台面上的
 惯例"*) là lệ **không ghi ra ở đâu**, nên Tsuna không biết, và **0038 cũng không biết** — 0038 chỉ đọc thứ đã được ghi lại
 ([[qd-0038-quet-bang-ho-so-tdtb]]). Hai kế hoạch trái ngược hỏng vì cùng một điều không ai viết xuống. Cũng vì thế tra lỗi ra
 "bình thường": điều bất thường thật (ký ức của Yamamoto) chưa ai ghi. Tuyết đốt điểm vào một tờ hồ sơ rỗng: cơ chế tự diệt vong
-([[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]) bắt đầu từ đây, **không cần Tsuna làm gì**. Việc tử tế ở cảnh 02 là lý do thứ hai trên trang
+(qd-ket-cuc-he-thong-va-dong-doi-tdtb) bắt đầu từ đây, **không cần Tsuna làm gì**. Việc tử tế ở cảnh 02 là lý do thứ hai trên trang
 (ch16, ch17, ch19 — ba chương khác nhau, như dàn ý đã kiểm).
 
 ## Chỗ nối với ch18–19 — cho planner ch18
@@ -185,7 +185,7 @@ tập 2: khách về nhà **vài ngày** — ch17 **không** cần nói mấy ng
   **nghe** câu *"……我哪来的朋友？"* (và hiểu thế nào, không lộ ký ức), hay Nana nghe máy riêng nên anh **không** nghe câu đó.
 - **Lời hứa "mai về nhà"** chỉ ở ch18. Ch17 không viết.
 - ✅ **D12, Aurel đồng ý 01/10:** mặc định Gokudera **nghe được** câu cuối; plan ch18 chốt. Các ràng buộc này đã ghi vào mục Ch18 của
-  [[dan-y-ch16-ch19-tdtb]] (*Ràng buộc từ ch17*). Nana gọi Tsuna **阿纲** (D5) — ch18 dùng lại.
+  dan-y-ch16-ch19-tdtb (*Ràng buộc từ ch17*). Nana gọi Tsuna **阿纲** (D5) — ch18 dùng lại.
 - 🔒 **Sự thật đứng từ ch17 (H13, Aurel đồng ý 01/10):** thân phận thật của Tsuna **đã bị dân mạng đối ra** (N1a). Diễn đàn trường
   có thật (ch1.9–16), và Tuyết là bạn cùng lớp của cậu. Các arc sau phải tôn trọng điều này: không viết như thể không ai trên mạng
   biết khách 纲吉 là 沢田纲吉 của trường tư thứ 36.

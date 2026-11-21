@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["Yamamoto Takeshi", "Yamamoto", "Takeshi", "takeshi", "80", "山本武", "núi bản võ", "Núi bản võ", "núi bản Vũ", "Núi bản", "núi bản", "núi vốn", "Sơn Bản Vũ", "Sơn Bản", "bản võ", "bản Vũ", "Bản Vũ", "võ đại", "Võ đại", "núi bản đại thần", "núi bản tiên sinh", "Núi bản tiên sinh", "bản tiên sinh", "Yamamoto-kun", "Khán bản võ", "Bổ bản Vũ", "Bằng bản Vũ", "Tượng bản Vũ", "Khiếu bản võ", "nui ban vo", "nui ban", "Son Ban Vu", "ban vo", "vo dai", "Yamamoto TDTB"]
-related: ["[[tsuna--yamamoto-tdtb]]", "[[loc-da-tuyet--yamamoto-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[namimori-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]", "[[yamamoto-nha-mo-tiem-sushi-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Takeshi-Yamamoto]]", "[[yamamoto-takeshi-tdtb-phan-cu]]"]
+related: ["[[tsuna--yamamoto-tdtb]]", "[[loc-da-tuyet--yamamoto-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[namimori-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]", "[[yamamoto-nha-mo-tiem-sushi-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Takeshi-Yamamoto]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch9, ch10, ch11, ch12, ch13, ch14, ch15"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Yamamoto Takeshi (TDTB)
@@ -54,11 +54,6 @@ Cầu thủ bóng chày nổi tiếng thế giới, alpha. Xuất hiện ở ch9
 - ch14: ở lại tiệc nướng dù không phải khách mời, được đạo diễn gọi là *"bản kỳ đặc biệt quý khách"*.
 - ch14–15: nhận ra đồ uống có vấn đề, uống một ngụm, ném đi, cảnh cáo Lộc Dã Tuyết.
 - ch15: pheromone tăng vọt, đã uống một bình thuốc ức chế, tìm tới phòng Tsuna.
-- [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]]: ngủ gục cạnh giường Tsuna; nửa tỉnh thấy một mảnh hoa bách hợp, bị khăn lạnh kéo về. Nhận ra Tsuna làm đúng như anh xin — không gọi ai — *"这个人却一边抱怨，一边留了下来"*. *"没关系，现在看也来得及。"* Rạng sáng: chỉ nói *"喝错了东西"*, không kể về Tuyết; *"谢谢你留下来。"* Ra khỏi phòng lúc trời vừa sáng, **không biết** Kenichi thấy.
-- [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] *(thêm, viết lại 03/10)*: nửa tỉnh hỏi Tsuna còn nhớ thời sơ trung không; trong cơn mê, một ý không lý do: *"最重要的人，就在身边。"*,
-  *"回到了过去，回到了一切都还来得及的时候。"* Giữ câu *"多了个朋友"*; sáng ra định nhắc, bị Tsuna chặn.
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)*: **có mặt cả ngày S2**. Đỡ Tsuna khi ngã. Bữa trưa đáp Kenichi: *"有什么话，冲我来就好，用不着拐着弯说他。"*
-  Sau khi Tsuna bênh mình: cười, rồi "trà xanh" nói nhỏ chỉ Tsuna nghe; được gọi **武**. Gọi người khác theo họ (*"铃木先生"*).
 
 ## Giọng và cách nói
 

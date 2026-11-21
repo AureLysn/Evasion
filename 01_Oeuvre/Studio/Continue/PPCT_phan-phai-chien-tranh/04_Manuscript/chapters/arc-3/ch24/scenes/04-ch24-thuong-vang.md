@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 19
 status: planned
 aliases: ["canh 24-04 thuong vang", "黄蔷薇 ch24", "Lancer dat Gae Buidhe ngang goi", "duoi ch24"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[sola-ui-gianh-lenh-chu]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[Diarmuid-Ua-Duibhne]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -52,7 +52,7 @@ Hình ảnh kết chương vang lại cuối ch21, nhưng lần này **có ngư�
 - ch21 (cuối chương): 「Lancer把黄蔷薇从背后取下来，横放在膝上，指腹顺着枪身摸过去。」 · 「黄色的漆被磨掉了一小块，底下的金属露出来，凉得很。」 · 「两把宝具都还在他手里，一把也没有断。」 — ch24 **được** vang lại hình ảnh, **không** được lặp nguyên văn.
 - ch21: Lancer đứng ở cửa nhà kho 「像一根钉在门口的钉子」.
 - Canon: Gáe Buidhe (必灭的黄蔷薇) gây vết thương bị nguyền, không lành — [[Diarmuid-Ua-Duibhne]]
-- ch19: tay trái Saber 「左手垂在身侧，始终没有抬起来」 — [[kayneth-tap-kich-lau-dai-einzbern]]
+- ch19: tay trái Saber 「左手垂在身侧，始终没有抬起来」 — kayneth-tap-kich-lau-dai-einzbern
 - ⚠️ Chưa có nguyên văn nào xác nhận bọ giám sát nhìn được **cửa** nhà kho. ch22 chỉ có góc từ xà nhà nhìn xuống. Writer không được tự thêm con bọ thứ hai; chỉ dùng cách "Lancer bước vào góc hình của con bọ trên xà", hoặc báo lại nếu không viết được.
 
 ## Kết cảnh phải đạt được gì

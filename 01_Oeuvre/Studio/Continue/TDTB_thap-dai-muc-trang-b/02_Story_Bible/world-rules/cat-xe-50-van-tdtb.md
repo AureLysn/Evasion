@@ -18,7 +18,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Tsuna lên show vì cát-xê 50 vạn yên, để mua bộ game cơ giáp
@@ -39,7 +39,3 @@ Cát-xê là **50 vạn yên một tập**. Bộ game cơ giáp ảo của JJ gi
 ## Ảnh hưởng tới
 
 - [[h-mot-tap-roi-xuong-xe-tdtb]]
-
-## 📌 Theo chương viết tiếp
-
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] (lớp `planned`, không phải văn bản gốc): không ai xuống xe sau tập 1, và Tsuna **tin** 50 vạn của tập 1 đã chắc trong tay — *"第一集的五十万已经稳稳到手了，再拍一集，就又是五十万。"* Đây là **niềm tin của Tsuna**: trang không cho thấy tiền đã được trả, hay trả lúc nào. Bộ game cơ giáp *"已经近在眼前了"* cũng là ý nghĩ của Tsuna, chưa mua. Kế hoạch đổi thành *"“那就第二集下车。”"*

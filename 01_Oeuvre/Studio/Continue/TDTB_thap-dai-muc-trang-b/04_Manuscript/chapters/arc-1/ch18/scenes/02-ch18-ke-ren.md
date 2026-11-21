@@ -27,19 +27,19 @@ target_dialogue_ratio: "~35 %"
 min_dialogue_turns: 6
 target_terms: "0 — khoi POV Nana khong ganh san thuat ngu (khong ABO, khong show, khong 十代目); ~5 tu no don sang canh 01 · 03 · 04"
 status: superseded
-superseded_by: "[[dan-y-ch16-ch18-lam-lai-tdtb]]"
+superseded_by: "dan-y-ch16-ch18-lam-lai-tdtb (da xoa khi reset 21/11/2026)"
 superseded_at: 2026-10-03
 aliases: ["canh 18-02 ke ren", "客人 ch18 TDTB", "Nana mo cua gap Gokudera", "Gokudera tu gioi thieu voi Nana", "Nana la Nana", "bo duong da va dong ho ch18", "khoi POV Nana ch18", "mot cau ban la cua con trai"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/03-ch18-fan-zhuo]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/04-ch18-dian-hua]]", "[[dan-y-ch16-ch19-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/scenes/04-ch17-dian-hua]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[sawada-nana-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Nana-Sawada]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Hayato-Gokudera]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/03-ch18-fan-zhuo]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/04-ch18-dian-hua]]", "[[04_Manuscript/chapters/arc-1/ch17/scenes/04-ch17-dian-hua]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[sawada-nana-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Nana-Sawada]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Hayato-Gokudera]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 02 — 客人 · POV Nana · ~500 chữ Hán · **khối ngắn, ấm**
 
-> 🔁 **Bị thay 03/10/2026** → [[dan-y-ch16-ch18-lam-lai-tdtb]]: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
+> 🔁 **Bị thay 03/10/2026** → dan-y-ch16-ch18-lam-lai-tdtb: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
 
-> Beat 2 của [[dan-y-ch16-ch19-tdtb]] mục Ch18: **"Nana là Nana"**. Khối POV Nana **duy nhất** của arc 1. Nó là phía bên kia của
+> Beat 2 của dan-y-ch16-ch19-tdtb mục Ch18: **"Nana là Nana"**. Khối POV Nana **duy nhất** của arc 1. Nó là phía bên kia của
 > những câu bà sẽ nói qua điện thoại ở [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] cảnh 04: mỗi chữ bà kể cho con đều phải **đã xảy ra ở đây**.
 > Tông 乐博: nhẹ, hài, ấm. Bà vui vì nhà có khách, hết. 🔴 **Không bi kịch hoá**: không căn nhà vắng, không "lâu lắm rồi mới có
 > người tới", không thương con.

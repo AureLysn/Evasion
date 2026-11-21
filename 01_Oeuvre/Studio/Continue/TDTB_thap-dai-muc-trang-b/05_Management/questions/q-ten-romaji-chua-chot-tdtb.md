@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "viet chuong dau tien (ch16)"
-  chapter: "ch16"
+  arc: "viet chuong dau tien"
+  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["ten romaji chua chot", "tên chưa chốt", "thành cùng nhau", "Lộc Dã Tuyết đọc là gì", "kiện chi lang tên Nhật", "Ngọc Sinh Viên", "Thiên Lan quỳ", "Rangu", "cùng mộc đại lão", "chín xuyên Reiko", "Lâm Thanh cùng"]
 related: ["[[phan-biet-cung-ten-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[kesuke-tdtb]]", "[[kien-chi-lang-tdtb]]", "[[binh-an-uyen-hoang-tdtb]]", "[[thien-dao-tdtb]]", "[[angelie-tap-tdtb]]"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Các tên convert chưa đọc ra được
@@ -36,7 +36,6 @@ Viết tiếp bằng tiếng Việt cần tên chuẩn. Bản convert không cho
 
 ## Cần chốt trước
 
-Arc: viet chuong dau tien (ch16) · Chương: ch16
 
 ## Ai quyết
 

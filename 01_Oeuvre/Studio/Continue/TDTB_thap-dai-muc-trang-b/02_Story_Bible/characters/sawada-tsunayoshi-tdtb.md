@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["Sawada Tsunayoshi", "Tsuna", "27", "沢田纲吉", "沢田綱吉", "纲吉", "cương Cát", "Cương Cát", "trạch điền cương Cát", "Trạch Điền Cương Cát", "trạch ruộng", "Trạch ruộng", "Sawada-kun", "cương Cát Quân", "Cương Cát Quân", "A Cương", "trạch Điền bạn học", "trạch Điền tiên sinh", "mười đời mắt", "Mười đời mắt", "十代目", "Juudaime", "củi mục cương", "Dame-Tsuna", "XXXX27", "khách quý mặt nạ thỏ", "cuong Cat", "trach dien cuong Cat", "trach ruong", "A Cuong", "muoi doi mat", "Sawada Tsunayoshi TDTB", "Tsuna TDTB"]
-related: ["[[tsuna-la-omega-tdtb]]", "[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[tsuna--loc-da-tuyet-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[namimori-tdtb]]", "[[truong-tu-nhan-36-tdtb]]", "[[cat-xe-50-van-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[q-tsuna-nay-va-juudaime-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Sawada-Tsunayoshi]]", "[[sawada-tsunayoshi-tdtb-phan-cu]]"]
+related: ["[[tsuna-la-omega-tdtb]]", "[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[tsuna--loc-da-tuyet-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[namimori-tdtb]]", "[[truong-tu-nhan-36-tdtb]]", "[[cat-xe-50-van-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[q-tsuna-nay-va-juudaime-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Sawada-Tsunayoshi]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch1-ch15 (chuong cu the ghi theo tung dong trong than note)"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Sawada Tsunayoshi (TDTB)
@@ -53,28 +53,6 @@ Chưa có note KHR trong `MAIN-DATABASE` được link tới đây. Không chép
 ## Trạng thái hiện tại — cuối ch15
 
 Tối ngày quay đầu tiên của show. Ở phòng mình (lầu hai, bên trái biệt thự), **camera đã tắt**. [[yamamoto-takeshi-tdtb]] đang ở trong phòng, bị pheromone hành, không cho cậu đi. Diễn đàn show *"10 cái có 9 cái"* công kích cậu cướp bạn trai người ta. Cậu chưa biết Gokudera đang ở Nhật.
-
-## Trạng thái hiện tại — sau ch16, ch17 (viết lại 03/10)
-
-**ch16** ([[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]], đêm S1 → rạng sáng S2): qua đêm cạnh Yamamoto mất kiểm soát pheromone, ngồi dưới sàn, đắp khăn lạnh, **không** gọi tổ
-chương trình. Thuốc giữ, mùi beta, **điểm 37**. Vẫn mong bị loại sau tập 1 nhưng **thụ động** (*"像他这种站在角落里都没人看得见的嘉宾，到时候
-大概也不会有谁选他"*), không lập kế hoạch nào. Tâm tình với Yamamoto nửa tỉnh: nhớ thời sơ trung mờ, chỉ còn ấn tượng ngưỡng mộ
-(*"笑起来跟太阳似的"*); nói *"不过多了个朋友，好像也挺不错的。"* Sáng ra chối đã nói gì.
-
-**ch17** ([[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]], S2 → tối S2, hết tập 1, trên xe show về ký túc xá):
-- Nhát, vụng, **ngã trên đất bằng** hai lần, suýt ngã một lần; không cố tình nhạt. Câu *"……今天的米，挺白的。"* là lúng túng thật.
-- Trực giác báo Tuyết có ác ý **ba lần** (bếp, bàn ăn, phòng khách); không nghĩ vì sao.
-- Đưa nước cho [[tro-ly-thu-am-tdtb|trợ lý thu âm]]: *"拿多了，放这儿了。"*
-- **Bữa trưa:** mặc kệ lời móc nhắm vào mình; khi [[suzuki-kenichi-tdtb|Kenichi]] hạ thấp Yamamoto thì nghiêm túc: *"你说我什么都可以，我无所谓……
-  这种话，请你收回去。"* Rồi lắp bắp. **Đổi sang gọi Yamamoto là 武.** Cười lần đầu trong ngày; `【】` bùng.
-- Đọc diễn đàn chia phe, *"哦"*, ngủ. Phòng khách: thật lòng đồng ý câu của Tuyết (*"可能是不太适合吧"*).
-- Phỏng vấn: *"三分吧……今天摔了两次，差点摔了三次。"*; lan man *mọi người đều tốt*; *"反正也没有人会选我吧，我这种废柴"*; 5 điểm mỗi người.
-- **Không ai xuống xe**, không biết vì sao. Tin 50 vạn tập 1 đã chắc; nghĩ tới bộ game cơ giáp.
-- Không biết Gokudera đang ở Namimori.
-
-**ch18** ([[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]], vài ngày nghỉ giữa tập 1 và 2, ký túc xá): đã nhận thông báo quay tập 2. Hỏi hệ thống tiền show đổi ra điểm được không —
-hệ thống chỉ đọc lại *"37分"*. Một đêm vào 中转站, mở *"可选任务"*, nhớ chung chung tới *"那些跟他一起做过任务的人"* (không tên);
-chọn đi nhiệm vụ: *"咸鱼，出海了。"* Thế giới nào: chưa nói ([[q-dong-doi-cu-the-la-ai-tdtb]]).
 
 ## Giọng và cách nói
 

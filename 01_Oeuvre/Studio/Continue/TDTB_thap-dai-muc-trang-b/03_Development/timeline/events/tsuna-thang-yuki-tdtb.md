@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: 1
   arc: "mo-dau"
-  chapter: "ch1"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.gokudera-hayato-tdtb"]
 location: ["cửa hàng JJ cạnh ga tàu điện ngầm gần nhà Tsuna", "phòng đấu sơ cấp game cơ giáp ảo"]
 aliases: ["Tsuna thang Yuki", "trận cơ giáp", "tran co giap", "XXXX27 thắng", "Lâm Chung Quan Hoài", "Trường Hà Mộ Tuyết thua", "5 phút đại lão", "nhiem vu chi nam 2 that bai"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

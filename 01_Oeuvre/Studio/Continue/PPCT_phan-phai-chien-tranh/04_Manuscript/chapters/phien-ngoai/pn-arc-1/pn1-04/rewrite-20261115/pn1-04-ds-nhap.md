@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
 aliases: ["pn1-04 ban DeepSeek nhap", "phiên ngoại Người sống DeepSeek", "反派战争 番外四 活着的人 DeepSeek"]
-related: ["[[pn-arc-1-ds-plan]]", "[[pn1-04-ds-the-canh]]", "[[pn1-04-ds-kiem]]", "[[deepseek-20261115]]", "[[pn1-03-ds-nhap]]", "[[oda-duoc-cuu-trong-phien-ngoai]]", "[[Mimic]]", "[[Andre-Gide]]"]
+related: ["[[pn-arc-1-ds-plan]]", "[[pn1-04-ds-the-canh]]", "[[pn1-04-ds-kiem]]", "[[pn1-03-ds-nhap]]", "[[Mimic]]", "[[Andre-Gide]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết phương án C9–C11; GPT chấm (POV Dazai, chuyển Tsuna ở khối B; Gide bị Dazai chạm, bắt sống; Mori không lộ); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa (xem pn1-04-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/53b55361-0c23-4eb0-8641-82d83096b5e8"

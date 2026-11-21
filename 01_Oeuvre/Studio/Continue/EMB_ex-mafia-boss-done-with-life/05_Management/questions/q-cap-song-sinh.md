@@ -7,10 +7,10 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before: "Child Ch3"
+needed_before: "giai doan Child"
 owner: user
 aliases: ["cap song sinh", "hai OC Lightning", "ten cap song sinh", "loai yeu quai nuoi", "ai hoa hop truoc", "nha am duong su", "mot cai ten khong the chua hai su that"]
-related: ["[[khung-oc]]", "[[emb-duyet-khung-nam-arc]]", "[[khung-nam-arc]]", "[[child-dan-y-ban-20260925]]", "[[ke-cuop-co-dau]]", "[[rule-danh-xung-flame]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[trope-fandom]]", "[[emb-lam-lai-tu-nguon]]"]
+related: ["[[khung-oc]]", "[[ke-cuop-co-dau]]", "[[rule-danh-xung-flame]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[trope-fandom]]"]
 source:
   type: user_input
   ref: "Tach khoi questions/_MOC.md muc #2 ngay 21/09/2026 theo dung loi dan o chinh file do (dong 89). Phan da chot: Aurel 17/09. Phan de xuat: AI, 21/09, chua duoc duyet."
@@ -20,7 +20,7 @@ always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question]
-last_updated: 2026-09-21
+last_updated: 2026-11-21
 ---
 
 # Cặp song sinh — **đường đi tới bốn quyết định**
@@ -33,7 +33,7 @@ last_updated: 2026-09-21
 
 | | |
 |---|---|
-| Họ là ai | **Chính là hai OC Lightning** — Aurel chốt 17/09, [[emb-duyet-khung-nam-arc]] |
+| Họ là ai | **Chính là hai OC Lightning** — Aurel chốt 17/09, khi duyệt khung năm arc |
 | Ở đâu | **Arc Child**, và [[ke-cuop-co-dau]] xếp **cùng arc** có chủ đích |
 | Cơ chế | Họ có **một tên nghi lễ cho hai người**. Cấp nó cho một đứa là **tuyên bố đứa nào là thật**. Tsuna **từ chối chọn** |
 | Song chiếu | Hai con cáo và cặp song sinh là **cùng một câu hỏi hỏi hai lần**. Tách arc thì mất |
@@ -143,17 +143,17 @@ Tiền đề: đứa ấy **bị bỏ**, không phải bị bắt. Nhà vứt đ
 | 🔵 **(c)** **không ai, trong arc này** | **Đề xuất.** Họ tới, cái bẫy tên lộ ra, Tsuna từ chối chọn, và **không có gì được giải** |
 | **(d)** cả hai **cùng lúc** | 🔴 Cái trả về sau. Hệ thống **không có cách ghi lại** việc ấy — *"một cái tên không thể chứa hai sự thật"*, thành chữ |
 
-🔵 **Vì sao (c):** arc Child chỉ **bốn chương**, và Ch4 đã cõng cả đứa trẻ Saint-Exavier lẫn tin Cradle. Thêm một lần hoà hợp đôi vào đó là nhồi. [[khung-nam-arc]] cũng xếp cặp song sinh ở dòng **C — ai nhìn ra cậu**, tức họ là **một con mắt**, không phải một lời giải.
+🔵 **Vì sao (c):** khung cũ đã dồn đứa trẻ Saint-Exavier lẫn tin Cradle vào giai đoạn Child; thêm một lần hoà hợp đôi là nhồi. Khung cũ cũng xếp cặp song sinh ở vai **ai nhìn ra cậu**, tức họ là **một con mắt**, không phải một lời giải.
 
 → Và (c) **để dành được (d)** cho lúc nó đáng.
 
 ## ⛔ Bốn ý từ file lưu trữ — **chưa dùng được**
 
-`05_Management/snapshots/.../khung-sau-arc.md` ghi:
+Một file AI cũ *(đã xóa khi reset 20/11/2026)* từng ghi:
 
 > *"hai nam · một người thừa kế nhà âm dương sư · một người bị yêu quái nuôi · song sinh là điềm xấu với nhà thuật pháp · họ cảm được cảm xúc của nhau mà không biết"*
 
-⚠️ Note ấy là `authority: ai`, `status: archived`. [[emb-lam-lai-tu-nguon]] mở ngoại lệ **chỉ cho vật liệu do Aurel viết** — *"không mở cho dàn ý, hồ sơ hay phân tích do AI viết"*.
+⚠️ Note ấy là `authority: ai`, `status: archived`. Luật nguồn chỉ cho dùng vật liệu do Aurel viết, không dùng dàn ý, hồ sơ hay phân tích do AI viết.
 
 → Nên bốn ý ấy **không phải bịa mới**; chúng là **đề xuất cũ đang chờ**. Hai trong số đó *(nhà âm dương sư · bị yêu quái nuôi)* đã được `questions/_MOC.md` — `user_canon` — coi như đã chốt, nên chỉ còn **hai** cần xác nhận:
 

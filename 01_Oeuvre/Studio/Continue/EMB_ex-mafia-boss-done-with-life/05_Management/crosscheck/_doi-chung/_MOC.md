@@ -23,7 +23,7 @@ Kết quả so vault dựng lại với các file hồ sơ cũ. Đây là **sả
 
 ## Làm lại từ nguồn — 15/09/2026
 
-Mỗi chương một note: đối chứng với vault 15/08 **và** hồ sơ cũ, kèm **sổ khẳng định** cho lượt viết lại entity sau **P2 Ch2** — [[emb-lam-lai-tu-nguon]].
+Mỗi chương một note: đối chứng với vault 15/08 **và** hồ sơ cũ, kèm **sổ khẳng định** cho lượt viết lại entity sau **P2 Ch2** — emb-lam-lai-tu-nguon.
 
 - [[20260915-p1-ch1]] — P1 Ch1. **14 khớp · 9 mới · 0 thiếu · 5 khác** so với vault; tóm tắt cũ bỏ trọn cao trào
 - [[20260915-p1-ch2]] — P1 Ch2. **23 khớp · 19 mới · 0 thiếu · 14 khác** so với vault; sửa ngược tuổi Tsuna ở Ch1

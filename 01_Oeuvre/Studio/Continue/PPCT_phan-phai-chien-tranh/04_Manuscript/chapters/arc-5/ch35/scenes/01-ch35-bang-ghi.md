@@ -20,7 +20,7 @@ target_paragraph_mean: 44
 target_sentence_median: 19
 status: planned
 aliases: ["canh 35-01 bang ghi", "bang ghi chan doc nha tho", "con bo van phat", "录像 教会坡道"]
-related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[20260924-canon-kiritsugu-theo-doi-nha-tho]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[kirei-van-la-master]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[to-caster-hen-gap-kiritsugu]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[kirei-van-la-master]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
@@ -71,7 +71,7 @@ Cho người đọc thấy kẻ săn có trong tay những gì. Hắn đang cầ
   - 「切嗣从口袋里摸出烟盒，想了想，又塞了回去。」
   - Maiya liên lạc qua 「耳麦」.
 - **ch29** (viết tiếp): 「车会在傍晚到坡道下面等」 · 「天快黑的时候，一辆黑色的轿车停在了坡道的尽头」.
-- **Canon** ([[20260924-canon-kiritsugu-theo-doi-nha-tho]]):
+- **Canon** (20260924-canon-kiritsugu-theo-doi-nha-tho):
   - Dơi mang camera CCD; ý của Kiritsugu.
   - Kirei giết con dơi đêm đầu.
   - Kiritsugu sợ Kirei là người duy nhất giết được mình.

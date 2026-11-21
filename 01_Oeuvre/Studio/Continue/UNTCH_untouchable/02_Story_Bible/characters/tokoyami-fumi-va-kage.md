@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Tokoyami Fumikage", "Fumi", "Kage", "Dark Shadow", "常闇踏陰", "quirk co tri giac", "Kage phan loai nguoi", "categories cua Kage", "nguoi doan trung vu mau toc"]
-related: ["[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[todoroki-shouto]]", "[[qd-huong-arc-01]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[todoroki-shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch87 (Kage doc he Flame), ch119 (doan trung vu mau toc), ch121, ch124 (Kage giau Fumi), ch127."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Tokoyami Fumi và **Kage**
@@ -103,7 +103,3 @@ xét nghiệm ADN · Kage đang giấu mình một chuyện
 - **Shouto** — bạn; hai người cùng vụng giao tiếp nên hợp nhau
 - **Aizawa** — ch121 cậu là người được Shouto sai đi gọi giáo viên
 
-## Vai trong arc 01
-
-**Chưa được [[qd-huong-arc-01]] giao vai cụ thể.** Nhưng cậu **đã biết về vụ mẫu tóc**, và quyết
-định #2 cho **mẫu tóc nổ trong arc 01** ⇒ cậu **sẽ bị kéo vào**, dù kế hoạch chưa nói rõ thế nào.

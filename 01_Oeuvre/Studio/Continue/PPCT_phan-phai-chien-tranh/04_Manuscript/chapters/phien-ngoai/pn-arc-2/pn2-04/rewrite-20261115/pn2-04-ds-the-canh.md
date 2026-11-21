@@ -10,7 +10,7 @@ chapter: "pn2-04"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-04 ban DeepSeek", "thẻ cảnh phiên ngoại Bảy người xa lạ hạ", "pn2-04 ds PPCT", "Reborn Lal Verde Viper pn2-04"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-03-ds-nhap]]", "[[pn2-03-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Luce]]", "[[Aria]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-03-ds-nhap]]", "[[pn2-03-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Luce]]", "[[Aria]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-04 (Aurel duyệt 18/11/2026; C4 mỗi POV một khối, C5 Colonnello gia nhập theo Lal) và note Database Reborn, Lal-Mirch, Verde, Viper, Colonnello, Luce, Aria (tạo 18/11/2026)."

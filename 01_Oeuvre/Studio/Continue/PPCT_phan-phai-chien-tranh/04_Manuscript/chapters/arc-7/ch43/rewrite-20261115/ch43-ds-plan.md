@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~1.900"
 aliases: ["plan ch43 ban DeepSeek", "dàn ý chương 43 bản song song", "收 ch43 PPCT", "thu lai ch43"]
-related: ["[[de-xuat-arc-7-v2-huong-1]]", "[[huong-arc-7-nguoi-xem-den-cuoi]]", "[[deepseek-20261115]]", "[[ch42-ds-nhap]]", "[[ch41-ds-nhap]]", "[[ch38-ds-nhap]]", "[[con-mat-ch42-thay-kiritsugu-thao-camera]]", "[[kiritsugu-khong-len-doc-nha-tho-dem-15]]", "[[kiritsugu-luc-tosaka-ma-khong-thay]]", "[[canh-chan-doc-nha-tho-qua-dem]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-bo-sung-ma-luc]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[tuyen-co-trung-tra-trong-0-1-chuong]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
+related: [ "[[ch42-ds-nhap]]", "[[ch41-ds-nhap]]", "[[ch38-ds-nhap]]", "[[hook-to-caster-khac-che-to-saber]]", "[[hook-bo-sung-ma-luc]]", "[[kirei-van-la-master]]", "[[tuyen-co-trung-tra-trong-0-1-chuong]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 16/11/2026 — chương 1 arc 7 cho nhánh deepseek-20261115. Khung: de-xuat-arc-7-v2-huong-1 (Aurel chọn 05/10/2026), bảng chương dòng ch43 + ngân sách cảnh 43-1..43-3, chỉnh theo bản DS ch42. Aurel 16/11/2026: 'Duyệt đề xuất' (C1–C5)."
@@ -25,8 +25,8 @@ last_updated: 2026-11-16
 
 # Kế hoạch chương 43 bản DeepSeek — 收 · Thu lại · ✅ AUREL DUYỆT 16/11/2026
 
-> Chương 1 arc 7 (hướng V2-1 "Người xem đến cuối", [[huong-arc-7-nguoi-xem-den-cuoi]]). Viết cho **nhánh** `deepseek-20261115`: nối từ [[ch42-ds-nhap]], không phải ch42 bản final. Bản `aurel-main` chưa có ch43; plan này không thay plan nào của bản chính.
-> Arc 7 chưa có ghi chú arc riêng; khung arc là [[de-xuat-arc-7-v2-huong-1]] (đã chọn). ch43 không bị câu ❌ nào chặn (Q1 đã chốt: [[kiritsugu-khong-len-doc-nha-tho-dem-15]]).
+> Chương 1 arc 7 (hướng V2-1 "Người xem đến cuối", huong-arc-7-nguoi-xem-den-cuoi). Viết cho **nhánh** `deepseek-20261115`: nối từ [[ch42-ds-nhap]], không phải ch42 bản final. Bản `aurel-main` chưa có ch43; plan này không thay plan nào của bản chính.
+> Arc 7 chưa có ghi chú arc riêng; khung arc là de-xuat-arc-7-v2-huong-1 (đã chọn). ch43 không bị câu ❌ nào chặn (Q1 đã chốt: kiritsugu-khong-len-doc-nha-tho-dem-15).
 
 ## Mục tiêu chương
 
@@ -45,7 +45,7 @@ Kẻ săn thôi săn. Sáng ngày 16, con mắt ở chân dốc nhà thờ thấ
 
 - [[hook-to-caster-khac-che-to-saber]] — **chạm**: kẻ săn ch30–41 tháo máy, cuộc săn khép mà không bên nào thắng. Không đẩy thêm.
 - [[hook-bo-sung-ma-luc]] — **chạm**: ma lực là ngân sách của việc nhìn; tắt một con là bù một con. Giữ `partially_paid`.
-- [[canh-chan-doc-nha-tho-qua-dem]] — **khép**: con mắt chân dốc được tắt.
+- canh-chan-doc-nha-tho-qua-dem — **khép**: con mắt chân dốc được tắt.
 - [[hook-dazai-mo-tiep-kiep-truoc]] — **không chạm** ở bản nhánh *(C5)*.
 
 ## Tuyến cỡ trung — gieo → trả
@@ -59,8 +59,8 @@ Kẻ săn thôi săn. Sáng ngày 16, con mắt ở chân dốc nhà thờ thấ
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- 🔴 [[kirei-van-la-master]] · [[archer-doi-master-sang-kirei]]: tổ Caster **L3 không tên**. Cấm 言峰 · 绮礼 · 神父 gắn với tên; "người ở nhà thờ" chỉ ở mức đoán.
-- 🔴 Cuộc lục dinh Tōsaka đêm 15 ([[kiritsugu-luc-tosaka-ma-khong-thay]]): tổ Caster **không** biết. Không suy ra Kiritsugu đã đi tìm Irisviel.
+- 🔴 [[kirei-van-la-master]] · archer-doi-master-sang-kirei: tổ Caster **L3 không tên**. Cấm 言峰 · 绮礼 · 神父 gắn với tên; "người ở nhà thờ" chỉ ở mức đoán.
+- 🔴 Cuộc lục dinh Tōsaka đêm 15 (kiritsugu-luc-tosaka-ma-khong-thay): tổ Caster **không** biết. Không suy ra Kiritsugu đã đi tìm Irisviel.
 - 🔴 Kiritsugu **không** thấy con chuồn chuồn (nó ở góc tường, ngoài tầm camera, ch42 bản DS). Không ánh mắt nào chạm nó.
 - 🔴 Không tên Kiritsugu thành tiếng (ở quán không ai nói tên); Tsuna gọi "那个人" / "餐厅那个人".
 - 🔴 Không 容器 · 圣杯容器; người phụ nữ ch42 không nhắc trong chương này (để ch44).
@@ -92,7 +92,7 @@ Kẻ săn thôi săn. Sáng ngày 16, con mắt ở chân dốc nhà thờ thấ
 
 | # | Câu hỏi | Đề xuất | Vì sao · phương án khác |
 |---|---|---|---|
-| C1 | Kiritsugu lấy gì ở cột điện | **Gỡ cả camera** (không chỉ thẻ nhớ) | Đúng quyết định [[con-mat-ch42-thay-kiritsugu-thao-camera]]; khác ch41 bản DS (chỉ thay thẻ) là chính cái tín hiệu "thôi canh". *Khác:* chỉ thay thẻ — mất beat 3–4 |
+| C1 | Kiritsugu lấy gì ở cột điện | **Gỡ cả camera** (không chỉ thẻ nhớ) | Đúng quyết định con-mat-ch42-thay-kiritsugu-thao-camera; khác ch41 bản DS (chỉ thay thẻ) là chính cái tín hiệu "thôi canh". *Khác:* chỉ thay thẻ — mất beat 3–4 |
 | C2 | Dazai đọc "người kia" thế nào | "Không còn ở trên đó, hoặc không cần ở đó nữa", mức đoán | Trả câu ch42 bản DS. *Khác:* để ngỏ tới ch44 — vi phạm tuyến cỡ trung 0–1 chương |
 | C3 | "Khi nào" có lên trang ở ch43 không | **Có**: 「收摄像机的人，是不要明天的录像了。」 → đêm nay, "大概" | Đề xuất V2-1 có nhịp này; nhánh không có câu treo 「不会太久」 nên gieo và trả cùng chương. *Khác:* bỏ, để tín hiệu ch45 tự nói |
 | C4 | Tắt con mắt chân dốc: gọi về hay tắt tại chỗ | **Gọi về** | Ch42 bản DS đã cho Tsuna ăn ma lực vì một con mở cả đêm; gọi về cho Tsuna một việc tay. *Khác:* tắt tại chỗ — để lại một chuồn chuồn chết ở chân nhà thờ (dễ bị nhặt, trái luật không để vật ở nhà thờ) |
@@ -108,7 +108,7 @@ Sáng → gần trưa ngày 16. Trước khi Kiritsugu tới chùa Ryūdō (cano
 |---|---|
 | Aurel duyệt C1–C5 | ✅ 16/11/2026 |
 | Thẻ cảnh `ch43-ds-the-canh.md` | sau khi duyệt |
-| Hướng arc 7 | ✅ [[huong-arc-7-nguoi-xem-den-cuoi]] (05/10/2026) |
+| Hướng arc 7 | ✅ huong-arc-7-nguoi-xem-den-cuoi (05/10/2026) |
 | Câu chặn | không có (Q1 ✅) |
 
 ## Quyết định còn treo chặn chương này

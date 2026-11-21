@@ -6,7 +6,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 aliases: ["oeuvre moc", "01 oeuvre moc", "ban do 05 evasion", "fiction moc", "muc luc truyen", "fiction studio map"]
-related: ["[[_VAULT-MOC]]", "[[04-lanes]]", "[[05-visibility]]", "[[07-state]]", "[[chapter-writing-rules-audit-20261011]]", "[[project-session-starters]]", "[[session-handbook]]", "[[_FANDOM-MOC]]", "[[_FOLKLORE-MOC]]", "[[_PRINCIPLE-MOC]]", "[[_TAXONOMY-MOC]]", "[[_RESEARCHER-MOC]]", "[[_SI_OC-MOC]]", "[[y-tuong-cho]]"]
+related: ["[[_VAULT-MOC]]", "[[04-lanes]]", "[[05-visibility]]", "[[07-state]]", "[[chapter-writing-rules-audit-20261011]]", "[[project-session-starters]]", "[[session-handbook]]", "[[_FANDOM-MOC]]", "[[_FOLKLORE-MOC]]", "[[_PRINCIPLE-MOC]]", "[[_TAXONOMY-MOC]]", "[[_RESEARCHER-MOC]]", "[[_SI_OC-MOC]]"]
 always_load: false
 tags: [d/doc, k/moc]
 last_updated: 2026-11-13
@@ -37,7 +37,7 @@ Dữ liệu lore, canon nguyên tác và quy tắc dùng chung giữa các tác 
 
 ### 2.1 Cấu trúc Chuẩn của Xưởng
 
-*MOC con của từng thư mục fandom không bắt buộc:* [[AGENTS]] §0 cho phép link tới MOC của thư mục khi nó có, và ghi đường dẫn thư mục khi MOC chưa có. Thư mục nào chưa có `_MOC.md` thì MOC của fandom ghi thẳng đường dẫn.
+*MOC con của từng thư mục fandom không bắt buộc:* [[CLAUDE]] §0 cho phép link tới MOC của thư mục khi nó có, và ghi đường dẫn thư mục khi MOC chưa có. Thư mục nào chưa có `_MOC.md` thì MOC của fandom ghi thẳng đường dẫn.
 
 Theo chuẩn kiến trúc tại `00_Oeuvre.outline.md`, `Studio/` được chia thành hai nhánh tác phẩm chính:
 
@@ -73,23 +73,26 @@ Mỗi dự án viết tiếp đồng nhân được tổ chức đồng bộ the
 | `BCMF` | `BCMF_bat-coc-mafia-cuu-vot-the-gioi` | Bắt cóc một cái Mafia tới cứu vớt thế giới | `idea` | Chưa có chương chính thức · 206 note |
 | `BTWID` | `BTWID_baby-thats-what-i-do` | Baby that's what I do | `draft` | Chưa có chương chính thức · 3 note |
 | `CCHT` | `CCHT_cuong-cat-dich-hoanh-tan` | Cương Cát đích Hoành Tân | `draft` | Chưa có chương chính thức · 10 note |
-| `CLS` | `CLS_crossover-va-lenh-su` | (chưa đặt tên) — Crossover và Lệnh sứ | `draft` | 28 văn xuôi final (hoàn thành Vòng 1: Arc 1–3, 61k chữ Hán Arc 3) · 492 note (kèm 62 snapshots) |
 | `DUA` | `DUA_crossover-bnha` | <chưa đặt tên — crossover BNHA> | `idea` | Chưa có chương chính thức · 3 note |
 | `EMB` | `EMB_ex-mafia-boss-done-with-life` | Ex-Mafia Boss Done With Life. Life Not Done With Ex-Mafia Boss. | `active` | 11 tóm tắt · 297 note (kèm 143 snapshots) |
 | `HNQT` | `HNQT_luan-dan-hac-nguyet-quang-tsuna` | Luận đàn Hắc Nguyệt Quang Cương Cát quân | `idea` | Chưa có chương chính thức · 176 note (kèm 1 snapshots) |
-| `KITIC` | `KITIC_khr-hsr-ki-tich` | (KHRxHSR) Kì tích (Tsuna x Phainon) | `idea` | 3 vignette gốc · 3 note |
 | `PCA` | `PCA_please-come-again` | Please Come Again | `draft` | Chưa có chương chính thức · 3 note |
 | `PPCT` | `PPCT_phan-phai-chien-tranh` | Phản phái chiến tranh | `draft` | 27 văn xuôi · 27 dàn ý · 475 note (kèm 47 snapshots) |
 | `SORA` | `SORA_chua-dat-ten` | <chưa đặt tên> | `idea` | Chưa có chương chính thức · 3 note |
 | `TDTB` | `TDTB_thap-dai-muc-trang-b` | Thập Đại Mục mỗi ngày đều đang trang B | `idea` | 15 tóm tắt · 3 văn xuôi · 6 dàn ý · 275 note (kèm 23 snapshots) |
-| `TRIAD` | `TRIAD_khr-jjk-bsd` | (chưa đặt tên) — KHR x JJK x BSD | `idea` | 5 dàn ý · 63 note |
 | `UNTCH` | `UNTCH_untouchable` | Untouchable | `draft` | 1 văn xuôi · 13 dàn ý · 69 note |
 
 *Bảng viết tay (Aurel, 2026-11-13). Cột cuối đếm ghi chú `.md` của project, không kể `snapshots/`; đo lại 2026-11-13. `project_table.py` in bảng đối chiếu, không ghi vào đây.*
 
-### 2.3 Ý tưởng Chờ Phát triển (`Studio/`)
+### 2.3 Danh mục Dự án Sáng tác Gốc (Nhóm Original)
 
-- [[y-tuong-cho]] — Ý tưởng mới nảy sinh từ chat, chưa gắn cố định vào project nào (ví dụ: *Lệnh sứ Tsuna*, bộ *Xem ảnh thể*).
+| Mã | Thư mục | Tên đầy đủ | Trạng thái | Quy mô trong Vault |
+|---|---|---|---|---|
+| `CLS` | `CLS_crossover-va-lenh-su` | (chưa đặt tên) — Crossover và Lệnh sứ | `draft` | 28 văn xuôi final (hoàn thành Vòng 1: Arc 1–3, 61k chữ Hán Arc 3) · 492 note (kèm 62 snapshots) |
+| `KITIC` | `KITIC_khr-hsr-ki-tich` | (KHRxHSR) Kì tích (Tsuna x Phainon) | `idea` | 3 vignette gốc · 3 note |
+| `TRIAD` | `TRIAD_khr-jjk-bsd` | (chưa đặt tên) — KHR x JJK x BSD | `idea` | 5 dàn ý · 63 note |
+
+*Ba project này chuyển từ `Studio/Continue/` sang `Studio/Original/` ngày 2026-11-20 (Aurel). Chúng giữ bố cục 7 phân khu của nhánh Continue (`01_Project-canon/` … `06_Alternate_Versions/`), không theo khung 6 phân khu ở trên, vì công cụ (`state_apply`, `chapter_gate`, `tram_dich_push`) đọc theo bố cục đó.*
 
 ### 2.4 Hồ sơ Lịch sử & Bất biến
 

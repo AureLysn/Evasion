@@ -24,14 +24,14 @@ status: superseded
 superseded_by: "[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]"
 superseded_at: 2026-10-03
 aliases: ["canh 17-03 ping fen", "评分 ch17 TDTB", "cham diem cuoi tap 1 TDTB", "khong ai xuong xe tap 1", "Kenichi mot cau luc cham diem", "phong van rieng cuoi tap 1"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[suzuki-kenichi-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[dao-dien-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-kenichi-loi-dung-truoc-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[cat-xe-50-van-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[sawada-tsunayoshi-tdtb]]", "[[suzuki-kenichi-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[dao-dien-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[cat-xe-50-van-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 03 — 评分 · POV Tsuna · ~800 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > 🔢 **Đánh số đoạn** (N3, Aurel đồng ý 30/09): theo cách đếm của vault, **ch9 tính cả hai dòng `*`** (bản `jjwxc-5231858-ch09.txt`), như plan và thẻ ch16. Mọi số `chN.M` trong thẻ này theo quy ước đó.
 > Cảnh trả **beat 4**: chấm điểm cuối tập 1, **không ai xuống xe**. Nhịp hài, 咸鱼: Tsuna đã dốc sức làm mình nhạt (cảnh 02) để bị
@@ -108,7 +108,7 @@ last_updated: 2026-10-03
 
 - **Vì sao không ai bị loại:** luật 7, kỳ bảo hộ tập 1–2. Phụ: tổng đạo diễn từ ch9 đã *"có dự cảm"* Tsuna sẽ cho ông thứ kịch tính
   ông muốn. Tsuna **không** biết cả hai; người đọc cũ của truyện thì nhớ luật 7 từ ch9. Đó là tiếng cười của cảnh.
-- **Kenichi — động cơ B thành hành động lần đầu** ([[qd-kenichi-loi-dung-truoc-tdtb]]): ch16 anh nghĩ *"一句话放对了地方，就够了"*; đây là câu ấy,
+- **Kenichi — động cơ B thành hành động lần đầu** (qd-kenichi-loi-dung-truoc-tdtb): ch16 anh nghĩ *"一句话放对了地方，就够了"*; đây là câu ấy,
   đặt trước ống kính livestream. Mục đích: để 鹿野雪 mải tranh ở phía Tsuna–Yamamoto mà buông 圭介. Anh **giữ lại** chuyện sáng nay thấy
   Yamamoto ra khỏi phòng Tsuna: đó là con bài chưa đánh. Hạt A **không** loé thêm ở đây (đã loé một lần ở ch16). Câu của anh rẽ câu
   chuyện khỏi "Tsuna nhạt nhẽo" sang "Tsuna được đại thần để mắt" — người kể **không** nói ra điều này.

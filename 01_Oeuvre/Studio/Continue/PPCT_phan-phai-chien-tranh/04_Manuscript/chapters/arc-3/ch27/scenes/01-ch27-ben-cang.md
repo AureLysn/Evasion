@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 27-01 ben cang", "码头 ch27", "noi tran dau tien", "to Caster tren cao ch27"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[khu-kho-cang-mien-vien]]", "[[do-tham-saber-lancer-kho-cang]]", "[[dazai-ke-giac-mo-buoi-tap]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[khu-kho-cang-mien-vien]]", "[[do-tham-saber-lancer-kho-cang]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -59,7 +59,7 @@ last_updated: 2026-09-22
 - ch5 (nguyên tác): Kiritsugu đặt súng bắn tỉa trên 「龙门吊」 ở cùng khu này.
 - ch26: 「明天晚上，我们去现场看。」 · 「折断宝具的那一声，本身就是一封战书」.
 - ch25: Saber 「两只手一起，握得很稳」.
-- Canon trận tái đấu: Saber và Irisviel **đi tìm** Lancer — [[20260922-canon-saber-quyet-dau]].
+- Canon trận tái đấu: Saber và Irisviel **đi tìm** Lancer — 20260922-canon-saber-quyet-dau.
 
 ## Kết cảnh phải đạt được gì
 

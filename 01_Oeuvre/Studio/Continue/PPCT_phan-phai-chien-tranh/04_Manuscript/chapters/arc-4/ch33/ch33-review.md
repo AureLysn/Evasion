@@ -10,7 +10,7 @@ chapter: 33
 canon_layer: user_canon
 status: active
 aliases: ["review ch33 PPCT", "soat ch33", "check-continuity ch33", "check-style ch33", "khep arc 4 review"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[dinh-thu-tosaka]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[kirei-van-la-master]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[dinh-thu-tosaka]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 24/09/2026, tren ban nhap ch33 (2.185 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."
@@ -30,8 +30,8 @@ last_updated: 2026-09-24
 
 | Lệnh | Kết quả |
 |---|---|
-| `pov_leak_check --json` ×3 cảnh | findings **0** ở cả ba cảnh · exit 1 / 0 / 1. Exit 1 chỉ vì [[kiritsugu-la-master-that]] không có `leak_terms` chữ Hán nên máy không kiểm được; đã grep tay, 0 kết quả · [[archer-doi-master-sang-kirei]] **cố ý** không nằm trong `forbidden_secrets` của cảnh 03 (plan C9) → soát tay ở nhóm "Ranh giới tri thức" |
-| grep tay | 切嗣 · 卫宫 · 魔术师杀手 · Saber的御主 · 爱丽丝菲尔 · 戒指 · 指环 · 白兰 · 教会 · 绮礼 · Azoth · 死 = **0** · toàn bộ `leak_terms` của [[archer-doi-master-sang-kirei]] = **0** |
+| `pov_leak_check --json` ×3 cảnh | findings **0** ở cả ba cảnh · exit 1 / 0 / 1. Exit 1 chỉ vì [[kiritsugu-la-master-that]] không có `leak_terms` chữ Hán nên máy không kiểm được; đã grep tay, 0 kết quả · archer-doi-master-sang-kirei **cố ý** không nằm trong `forbidden_secrets` của cảnh 03 (plan C9) → soát tay ở nhóm "Ranh giới tri thức" |
+| grep tay | 切嗣 · 卫宫 · 魔术师杀手 · Saber的御主 · 爱丽丝菲尔 · 戒指 · 指环 · 白兰 · 教会 · 绮礼 · Azoth · 死 = **0** · toàn bộ `leak_terms` của archer-doi-master-sang-kirei = **0** |
 | `style_metrics.py --write` | exit 1: đếm độ dài 2.263 > 2.200 (bỏ qua vì [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets\|targets]] ghi độ dài là **sàn**); thuật ngữ < 9 (bỏ qua vì đó là sàn cho chương dệt canon) |
 | `vault_doctor --include-fiction --zone …/PPCT` | 0 lỗi · 1 cảnh báo có từ trước |
 
@@ -81,7 +81,7 @@ last_updated: 2026-09-24
 
 **Chương, dòng 141:** 「酒宴那天晚上我说过，Archer那一边，本来就不止一个人。那时候是猜，今天也只是猜得更近了一点。」
 
-**Plan ch33 C8 và thẻ cảnh 03:** 「nhắc mối nghi ch17 **đúng mức cũ**, một câu … Rồi **dừng**. **Không** nối tới nhà thờ, **không** nói Master mới là ai.」 · Khi chọn L2, Aurel đã loại L3 「Master mới là Master của Assassin」. **[[dazai-nghi-master-assassin-cung-phe-archer]]:** 「**Không nâng** mức nghi … (Aurel 22/09)」.
+**Plan ch33 C8 và thẻ cảnh 03:** 「nhắc mối nghi ch17 **đúng mức cũ**, một câu … Rồi **dừng**. **Không** nối tới nhà thờ, **không** nói Master mới là ai.」 · Khi chọn L2, Aurel đã loại L3 「Master mới là Master của Assassin」. **dazai-nghi-master-assassin-cung-phe-archer:** 「**Không nâng** mức nghi … (Aurel 22/09)」.
 
 → Câu ch17 được nhắc đúng. Nhưng 「猜得更近了一点」 ngay sau 「有人在给他魔力 … 不知道」 ngầm nói rằng: người cùng phe Archer (Master của Assassin) **gần như là** người đang cấp ma lực. Như vậy là đã **nâng** mức nghi. Người đọc rất dễ nối thành L3.
 

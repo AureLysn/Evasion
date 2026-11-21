@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Tsuna Bermuda", "ban vong nien", "Tsuna va Warden", "nguoi lon dang tin tru Kawahira"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[bermuda]]", "[[Bermuda-von-Veckenschtein]]", "[[emb-chot-bermuda-an-toi]]", "[[emb-chot-cam-khoan-vendicare]]", "[[hook-bermuda-to-mo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[tsuna--bermuda-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[bermuda]]", "[[Bermuda-von-Veckenschtein]]", "[[hook-bermuda-to-mo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]"]
 source:
   type: user_input
   ref: "Aurel 22/09/2026: 'bang cach nao do tro thanh ban vong nien cua Bermuda'; dieu kien nguoi lon dang tin khi va chi khi khong lien quan Kawahira. Len trang o child-ch2-chapter ban viet lai."

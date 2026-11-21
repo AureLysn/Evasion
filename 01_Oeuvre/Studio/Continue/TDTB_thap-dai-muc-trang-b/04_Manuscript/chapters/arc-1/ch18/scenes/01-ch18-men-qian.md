@@ -21,17 +21,17 @@ target_dialogue_ratio: "~10 %"
 min_dialogue_turns: 2
 target_terms: "≥ 9 — 十代目 · 直播 · 弹幕 · 节目 · 嘉宾"
 status: superseded
-superseded_by: "[[dan-y-ch16-ch18-lam-lai-tdtb]]"
+superseded_by: "dan-y-ch16-ch18-lam-lai-tdtb (da xoa khi reset 21/11/2026)"
 superseded_at: 2026-10-03
 aliases: ["canh 18-01 men qian", "门前 ch18 TDTB", "Gokudera toi Namimori", "Gokudera truoc cua nha Sawada", "tim nha bang cam giac quen", "mo chuong 18 TDTB"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[q-yamamoto-di-dau-ngay-s2-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera--yamamoto-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 01 — 门前 · POV Gokudera · ~700 chữ Hán · **mở chương**
 
-> 🔁 **Bị thay 03/10/2026** → [[dan-y-ch16-ch18-lam-lai-tdtb]]: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
+> 🔁 **Bị thay 03/10/2026** → dan-y-ch16-ch18-lam-lai-tdtb: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
 
 > Số đoạn nguyên văn đếm **cả hai dòng `*`** của ch9 (quy ước vault — Aurel đồng ý 30/09, N3).
 > ⏳ Các lựa chọn của cảnh này nằm ở bảng C của [[04_Manuscript/chapters/arc-1/ch18/ch18-plan]] (C2–C7) và **chưa** được Aurel đồng ý.
@@ -131,7 +131,7 @@ last_updated: 2026-10-03
 - **Vì sao dừng ở câu "米":** ngay sau nó, ch17 có việc Tsuna đưa nước cho trợ lý thu âm — "lý do trên trang" lần hai, dành cho khán
   giả. Lý do của riêng Gokudera nằm ở ch19 beat 4. Để anh khen sớm thì ch19 mất sức.
 - Gokudera là **alpha** ([[qd-gokudera-alpha-tdtb]]). Cảnh này **không cần** một chữ ABO nào; Tsuna mới là người để ý điều đó, ở ch19.
-- Yamamoto hôm nay đi đâu là câu ❌ [[q-yamamoto-di-dau-ngay-s2-tdtb]]. Namimori là quê Yamamoto: đừng để một tiệm sushi hay một bóng
+- Yamamoto hôm nay đi đâu là câu ❌ q-yamamoto-di-dau-ngay-s2-tdtb. Namimori là quê Yamamoto: đừng để một tiệm sushi hay một bóng
   người quen lọt vào khung.
 - Dòng 【放开十代目啊啊啊啊啊啊啊啊！】 ở ch14.30 **có thể** là của anh (suy luận ~0,8, [[gokudera-den-nhat-tdtb]]). Trang không xác
   nhận, không phủ nhận.

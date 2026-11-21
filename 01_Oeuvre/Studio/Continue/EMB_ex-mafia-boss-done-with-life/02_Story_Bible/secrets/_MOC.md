@@ -10,7 +10,7 @@ aliases: ["bi mat", "secrets", "who knows what", "chan biet som", "pov leak", "s
 related: ["[[EMB]]", "[[events/_MOC|events]]", "[[character-arcs]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # MOC — EMB / secrets
@@ -42,7 +42,7 @@ Tầng **ai-biết-gì**. Đây là thứ `pov_leak_check.py` đọc, và là th
 
 ⚠️ Cả ba **văn bản không trả lời được**. Để trống có chủ đích thay vì đoán.
 
-- 🆕 [[chi-chu-nhan-thay-cao]] — **pov-blocker cho mọi cảnh có con cáo từ Ch4**. Người ta thấy Tsuna nói chuyện với không khí, thấy đồ vật tự di chuyển, và **không ai hỏi**
+- 🆕 [[chi-chu-nhan-thay-cao]] — **pov-blocker cho mọi cảnh có con cáo**. Người ta thấy Tsuna nói chuyện với không khí, thấy đồ vật tự di chuyển, và **không ai hỏi**
 
 ## Chưa dựng
 

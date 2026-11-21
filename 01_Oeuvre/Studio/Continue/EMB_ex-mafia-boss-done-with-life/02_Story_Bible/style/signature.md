@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: active
 strength: tendency
 aliases: ["signature", "van phong tac gia", "chu ky van phong", "Whymustwedolife style", "giong van goc", "Fire hay Flame"]
-related: ["[[ai-tells]]", "[[hard-rules]]", "[[targets]]", "[[phan-biet-hai-the-gioi]]", "[[emb-lam-lai-tu-nguon]]"]
+related: ["[[ai-tells]]", "[[hard-rules]]", "[[targets]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "Do lai 17/09/2026 tu personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html + Ex-Mafia_Boss_Spends.html — than chuong trich tu div.userstuff ben trong, giu nghieng, bo ghi chu va khoi chu thich; 5 chuong, 37.391 tu. So voi ban do 15/08 tren 43.152 tu (co lan ghi chu)."

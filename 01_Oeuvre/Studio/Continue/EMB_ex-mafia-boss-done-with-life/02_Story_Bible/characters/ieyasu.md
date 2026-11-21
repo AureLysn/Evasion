@@ -17,12 +17,12 @@ flame: Kotei / Kohaku (Sky)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, ancestor, deceased]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Sawada Ieyasu — tức **Giotto**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > ⚠️ **Sawada Ieyasu ≠ Tokugawa Ieyasu.** Xem [[rule-ten-tokugawa]]. Và **dòng của ông không phải dòng Sawada gốc** — xem [[sawada-ieyasu]] vs [[sawada-tu-te]].
 

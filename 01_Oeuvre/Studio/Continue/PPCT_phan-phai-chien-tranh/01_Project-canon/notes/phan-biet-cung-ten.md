@@ -55,9 +55,9 @@ last_updated: 2026-09-14
 
 | Thực thể | Note | Phân biệt |
 |---|---|---|
-| **Lancelot trong ảo cảnh** — 「兰斯洛特」 | [[saber-xem-cac-nuoc-anh-song-song]] | Nhân vật truyền thuyết trong **thế giới song song Saber xem**. Chỉ là hình ảnh |
+| **Lancelot trong ảo cảnh** — 「兰斯洛特」 | saber-xem-cac-nuoc-anh-song-song | Nhân vật truyền thuyết trong **thế giới song song Saber xem**. Chỉ là hình ảnh |
 | **Berserker** | [[berserker]] | Servant thế giới B. Canon Fate/Zero: chân danh là Lancelot — [[Lancelot-Berserker]]. **Truyện chưa lộ**, Saber chưa biết |
-| **Artoria ở các thế giới song song** | [[saber-xem-cac-nuoc-anh-song-song]] | Các bản thể khác Saber xem; không phải [[artoria]] |
+| **Artoria ở các thế giới song song** | saber-xem-cac-nuoc-anh-song-song | Các bản thể khác Saber xem; không phải [[artoria]] |
 | Merlin · Mordred · Guinevere · Kay | [[_nhan-vat-chi-duoc-nhac]] | Chỉ xuất hiện trong ảo cảnh ch16 |
 
 ⚠️ **Không nối Lancelot trong ảo cảnh với Berserker** trong lời kể hay POV bất kỳ nhân vật nào, cho tới khi một chương lên kế hoạch lộ chân danh Berserker. Saber thấy Lancelot trong ảo cảnh **không** có nghĩa là cô nhận ra Berserker.

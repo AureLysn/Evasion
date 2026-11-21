@@ -11,21 +11,21 @@ needed_before:
   chapter: 6
 decision_owner: ai-suggest
 aliases: ["bigger carnivore", "ke an thit lon hon", "ai day Kyouya", "false carnivores"]
-related: ["[[emb-chot-cau-hoi-mo]]", "[[emb-lam-lai-tu-nguon]]", "[[dot7-quyet-dinh]]", "[[kyouya-loai-chu-chot]]"]
+related: ["[[emb-chot-cau-hoi-mo]]", "[[kyouya-loai-chu-chot]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # "Bigger carnivore" trong đầu Kyouya là ai?
 
 > ✅ **ĐÃ CHỐT 17/09/2026** — [[emb-chot-cau-hoi-mo]] mục 3. **Phương án A: [[indra]]**. Phần dưới giữ để truy vết.
 
-> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án A: [[indra]]** *(Aurel, đợt 7)*.
+> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án A: [[indra]]** *(Aurel, 16/08/2026)*.
 >
-> ⚠️ **Không phải quyết định.** dot7 đã `superseded` — xem [[emb-lam-lai-tu-nguon]].
+> ⚠️ **Không phải quyết định.** Đề xuất cũ này đã `superseded`.
 >
-> Bà là người **hiện đang quản lý Namimori**, đáng lẽ **sẽ rời đi khi Kyouya đủ trưởng thành** — nhưng **giờ đã là Rain của Tsuna**. Lời thề Guardian cuối P2 Ch1 vừa **neo bà vào Namimori**, tức Kyouya vừa mất cái mốc mình đang đếm và **chưa biết**. Xem [[dot7-quyet-dinh]].
+> Bà là người **hiện đang quản lý Namimori**, đáng lẽ **sẽ rời đi khi Kyouya đủ trưởng thành** — nhưng **giờ đã là Rain của Tsuna**. Lời thề Guardian cuối P2 Ch1 vừa **neo bà vào Namimori**, tức Kyouya vừa mất cái mốc mình đang đếm và **chưa biết**. Xem dot7-quyet-dinh.
 
 ## Vì sao cần quyết
 

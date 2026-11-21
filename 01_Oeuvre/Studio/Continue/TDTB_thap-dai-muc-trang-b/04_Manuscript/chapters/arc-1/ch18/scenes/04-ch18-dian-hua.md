@@ -21,17 +21,17 @@ target_dialogue_ratio: "~35 %"
 min_dialogue_turns: 8
 target_terms: "≥ 6 — 十代目 · 直播 · 节目"
 status: superseded
-superseded_by: "[[dan-y-ch16-ch18-lam-lai-tdtb]]"
+superseded_by: "dan-y-ch16-ch18-lam-lai-tdtb (da xoa khi reset 21/11/2026)"
 superseded_at: 2026-10-03
 aliases: ["canh 18-04 dian hua", "电话 ch18 TDTB", "cuoc goi nhin tu Namimori", "Gokudera nghe giong Tsuna qua dien thoai", "Tsuna hua mai ve nha", "mau thong tin fan ch18", "仰慕你很久了", "cuoi chuong 18 TDTB"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/02-ch18-ke-ren]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/03-ch18-fan-zhuo]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-1/ch17/scenes/04-ch17-dian-hua]]", "[[dan-y-ch16-ch19-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[nguyen-van-zh-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/02-ch18-ke-ren]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/03-ch18-fan-zhuo]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-1/ch17/scenes/04-ch17-dian-hua]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[nguyen-van-zh-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 04 — 电话 · POV Gokudera · ~500 chữ Hán · **khép chương**
 
-> 🔁 **Bị thay 03/10/2026** → [[dan-y-ch16-ch18-lam-lai-tdtb]]: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
+> 🔁 **Bị thay 03/10/2026** → dan-y-ch16-ch18-lam-lai-tdtb: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
 
 > 🔢 **Đánh số đoạn** (N3, Aurel đồng ý 30/09): theo cách đếm của vault, **ch9 tính cả hai dòng `*`**. Mọi số `chN.M` trong thẻ này đã
 > **đối lại trên nguyên văn zh** ngày 01/10 ([[nguyen-van-zh-tdtb]]). Câu trích từ ch17 lấy **từ file chương `final`**.
@@ -135,7 +135,7 @@ note, [[ky-uc-tuong-lai-tdtb]] bị **giới hạn** chứ không cấm trọn v
 | ba note về 鹿野雪 | 🔴 không nhắc | 🔴 không | — |
 
 Cộng: 🔴 奈奈 **không nhắc chồng** (kể cả *"你爸爸"*) · 🔴 **không ai nói** 节目 / 直播 / 电视 thành tiếng (plan C10) · 🔴 không mùa,
-không giờ đồng hồ · 🔴 không Lửa · 🔴 không ABO · 🔴 không Yamamoto (❌ [[q-yamamoto-di-dau-ngay-s2-tdtb]]).
+không giờ đồng hồ · 🔴 không Lửa · 🔴 không ABO · 🔴 không Yamamoto (❌ q-yamamoto-di-dau-ngay-s2-tdtb).
 
 ## Dữ kiện — nguồn
 

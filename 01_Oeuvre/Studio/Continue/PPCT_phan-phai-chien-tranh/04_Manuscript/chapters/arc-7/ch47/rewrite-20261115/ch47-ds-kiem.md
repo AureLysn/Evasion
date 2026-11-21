@@ -10,7 +10,7 @@ chapter: 47
 canon_layer: planned
 status: active
 aliases: ["kiem ch47 ban DeepSeek", "kiểm ch47 bản song song", "ch47 ds kiem PPCT"]
-related: ["[[ch47-ds-nhap]]", "[[ch47-ds-the-canh]]", "[[ch47-ds-plan]]", "[[deepseek-20261115]]", "[[ch46-ds-nhap]]", "[[ch42-ds-nhap]]"]
+related: ["[[ch47-ds-nhap]]", "[[ch47-ds-the-canh]]", "[[ch47-ds-plan]]", "[[ch46-ds-nhap]]", "[[ch42-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek chat ch47 https://chat.deepseek.com/a/chat/s/dc153a8a-c8d2-45f1-966d-0990531b45e1 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afbeb95-cb58-83ec-a49e-e1ec95675471"

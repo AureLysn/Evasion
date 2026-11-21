@@ -16,7 +16,7 @@ reveal_planned:
   chapter:
 leak_terms: ["前世的记忆", "前世记忆", "早就认识", "那本书", "前世", "上一世", "转生记忆", "真正的愿望", "在召唤前就已经认识"]
 aliases: ["Dazai mang ky uc kiep truoc", "Dazai biet Tsuna tu truoc", "nguyen vong that cua Dazai", "Dazai va Tsuna quen nhau hai kiep"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-dazai-nhat-sach-thay-kiep-truoc]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]", "[[q-dazai-tim-gokudera-de-lam-gi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-dazai-nhat-sach-thay-kiep-truoc]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1–2, ch10; canh bao dau ch1; ghi chu tac gia ch2"

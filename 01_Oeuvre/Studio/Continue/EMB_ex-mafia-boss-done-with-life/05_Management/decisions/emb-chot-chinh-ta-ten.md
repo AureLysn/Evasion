@@ -11,7 +11,7 @@ decided: 2026-10-01
 decided_by: user
 decided_at: 2026-10-01
 aliases: ["chinh ta ten nhan vat", "Kyouya hay Kyoya", "Shouichi hay Shoichi", "chinh ta fandom", "ten rieng viet the nao"]
-related: ["[[20261001-soat-nen-du-kien]]", "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[emb-lam-lai-lan-ba]]"]
+related: ["[[20261001-soat-nen-du-kien]]", "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 01/10/2026, tra loi muc K1 cua 20261001-soat-nen-du-kien: 'giu chinh ta fandom'."

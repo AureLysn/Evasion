@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 # Reborn — gia sư của Tsuna, thế giới A
@@ -32,4 +32,3 @@ last_updated: 2026-09-15
 - Ch13: Dazai kể Tsuna có 「教导他爱护他的老师」.
 - Ch14: Tsuna say — nếu cúi đầu một chút 「Reborn都能把我嘣了」.
 - Ch15: Tsuna kể gia sư đã **đánh thức** cậu: cậu hợp làm Đệ Thập hơn ai hết, 「只要我想要的那就是彭格列的答案」.
-- Ch18 *(viết tiếp)* — **chỉ trong ký ức thế giới A**, không phải trạng thái thế giới B: đứng bên cửa sổ phòng làm việc của Tsuna, **không tả ngoại hình** (Tsuna không quay sang); mùi cà phê đậm; nói thành tiếng điều Tsuna đang nghĩ — Tsuna: 「不要随便读别人的心啊！」 — [[dazai-mo-mot-buoi-sang-o-vongola]].

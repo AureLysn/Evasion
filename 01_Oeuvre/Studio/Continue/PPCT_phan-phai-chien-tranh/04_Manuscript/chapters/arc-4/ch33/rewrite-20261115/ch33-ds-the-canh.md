@@ -10,7 +10,7 @@ chapter: 33
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch33 ban DeepSeek", "thẻ cảnh ch33 bản song song", "ch33 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan|plan ch33]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[archer-doi-master-sang-kirei]]", "[[ch28-ds-nhap]]", "[[ch30-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan|plan ch33]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch28-ds-nhap]]", "[[ch30-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch33-plan + 3 thẻ scenes/ (Aurel duyệt L2 24/09/2026). Không dùng văn bản ch33-chapter final."

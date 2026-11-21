@@ -10,7 +10,7 @@ chapter: "pn1-01"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn1-01 ban DeepSeek", "thẻ cảnh phiên ngoại khai trương", "pn1-01 ds PPCT"]
-related: ["[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch51-ds-nhap]]", "[[ch50-ds-nhap]]", "[[gap-to-rider-khi-mua-sam]]", "[[dazai--chuuya]]", "[[Ogai-Mori]]", "[[Koyo-Ozaki]]", "[[Ryuro-Hirotsu]]"]
+related: ["[[pn-arc-1-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch51-ds-nhap]]", "[[ch50-ds-nhap]]", "[[gap-to-rider-khi-mua-sam]]", "[[dazai--chuuya]]", "[[Ogai-Mori]]", "[[Koyo-Ozaki]]", "[[Ryuro-Hirotsu]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ pn-arc-1-ds-plan (Aurel duyệt 17/11/2026; C1–C3, C12 và tên quán để DeepSeek/GPT đề xuất)."

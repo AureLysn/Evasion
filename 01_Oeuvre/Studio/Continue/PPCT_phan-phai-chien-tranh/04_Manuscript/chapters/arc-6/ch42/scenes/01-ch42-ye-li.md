@@ -20,7 +20,7 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 42-01 ye li", "夜里 ch42", "这次不是我们的事", "Tsuna nho cau ch4 ve Irisviel"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[to-caster-quyet-dinh-ra-tay]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

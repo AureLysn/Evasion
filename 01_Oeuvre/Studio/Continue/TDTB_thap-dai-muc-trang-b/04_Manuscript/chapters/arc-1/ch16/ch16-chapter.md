@@ -13,7 +13,7 @@ pov: [character.TDTB.sawada-tsunayoshi-tdtb, character.TDTB.yamamoto-takeshi-tdt
 language: zh
 title: "装B的第十六天"
 aliases: ["chuong 16 TDTB", "ban viet lai ch16 TDTB", "装B的第十六天", "dem S1 rang sang S2"]
-related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai|the viet lai ch16]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[ch16-chapter-ban-20260930]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai|the viet lai ch16]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-03

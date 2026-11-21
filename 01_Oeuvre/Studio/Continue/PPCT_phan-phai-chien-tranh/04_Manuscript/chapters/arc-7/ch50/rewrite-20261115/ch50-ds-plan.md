@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan ch50 ban DeepSeek", "dàn ý chương 50 bản song song", "王 ch50 PPCT", "chuong Archer ch50", "Archer hien vuong TYL Xanxus"]
-related: ["[[ch47-ds-plan]]", "[[ch49-ds-plan]]", "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]", "[[ch46-ds-nhap]]", "[[deepseek-20261115]]", "[[archer-o-lai-net-hien-vuong]]", "[[archer-doi-tsuna-nhu-tyl-xanxus]]", "[[20261117-canon-arc-7-ch47-49]]", "[[tsuna--gilgamesh]]", "[[Gilgamesh-Archer]]", "[[Holy-Grail]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
+related: ["[[ch47-ds-plan]]", "[[ch49-ds-plan]]", "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]", "[[ch46-ds-nhap]]", "[[tsuna--gilgamesh]]", "[[Gilgamesh-Archer]]", "[[Holy-Grail]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — chương 8 arc 7 cho nhánh deepseek-20261115, theo khung ch47–51 trong ch47-ds-plan (Aurel duyệt 17/11: 'Thêm một chương' cho cảnh Archer–Tsuna). Khuôn tính cách: archer-doi-tsuna-nhu-tyl-xanxus (fanon) + crosscheck 20261117-canon-arc-7-ch47-49 mục 2 và 4 (gợi ý GPT/DS; bốn fic tham khảo). Canon: Holy-Grail (Act 16 Part 10: bùn cho Archer thân xác)."
@@ -25,7 +25,7 @@ last_updated: 2026-11-17
 
 # Kế hoạch chương 50 bản DeepSeek — 王 · Vua · ✅ AUREL DUYỆT 17/11/2026
 
-> Chương 8 arc 7, POV Tsuna, nối [[ch49-ds-nhap]] (rạng sáng; Tsuna cạn sức; Dazai còn **một** đạo; người phụ nữ ngủ ở ghế sau). Chương riêng cho Archer theo khung Aurel duyệt: hắn có thân xác từ bùn, tìm tới Tsuna và Dazai, đối Tsuna theo **khuôn Xanxus TYL fanon** ([[archer-doi-tsuna-nhu-tyl-xanxus]]) với **một chút nét hiền vương** ([[archer-o-lai-net-hien-vuong]]).
+> Chương 8 arc 7, POV Tsuna, nối [[ch49-ds-nhap]] (rạng sáng; Tsuna cạn sức; Dazai còn **một** đạo; người phụ nữ ngủ ở ghế sau). Chương riêng cho Archer theo khung Aurel duyệt: hắn có thân xác từ bùn, tìm tới Tsuna và Dazai, đối Tsuna theo **khuôn Xanxus TYL fanon** (archer-doi-tsuna-nhu-tyl-xanxus) với **một chút nét hiền vương** (archer-o-lai-net-hien-vuong).
 
 ## Mục tiêu chương
 

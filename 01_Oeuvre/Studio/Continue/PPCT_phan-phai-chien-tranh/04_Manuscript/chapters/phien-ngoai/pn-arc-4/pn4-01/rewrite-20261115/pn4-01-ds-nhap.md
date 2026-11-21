@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn4-01 ban DeepSeek nhap", "phiên ngoại bạn của vua DeepSeek", "反派战争 番外二十五 王的朋友 DeepSeek"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-01-ds-the-canh]]", "[[pn4-01-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-11-ds-nhap]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]", "[[archer-o-lai-net-hien-vuong]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn4-01-ds-the-canh]]", "[[pn4-01-ds-kiem]]", "[[pn3-11-ds-nhap]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 门 (C1) và ba bản 契约 (C2); GPT chấm (门一 ghép giấc mơ của 门三; 契约一) và đọc thử; Claude kiểm và sửa (xem pn4-01-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/e88c0cdd-b9b5-41b2-becc-f7f99038aee0"

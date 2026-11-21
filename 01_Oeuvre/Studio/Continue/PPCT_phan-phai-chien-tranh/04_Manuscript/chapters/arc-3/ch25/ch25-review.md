@@ -10,7 +10,7 @@ chapter: 25
 canon_layer: user_canon
 status: active
 aliases: ["review ch25 PPCT", "soat ch25", "check-continuity ch25", "check-style ch25"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-chapter]]", "[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[Diarmuid-Ua-Duibhne]]", "[[sola-ui-gianh-lenh-chu]]", "[[kiritsugu-la-master-that]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-chapter]]", "[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[Diarmuid-Ua-Duibhne]]", "[[kiritsugu-la-master-that]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch25 (2.258 chu Han)"
@@ -112,7 +112,7 @@ Không mâu thuẫn cứng: một cái giường xếp có thể đã ở đó, 
 
 - **#1**: mình tin đây là lỗi đáng sửa, nhưng không phải mâu thuẫn — chỉ là một luật chưa ai duyệt.
 - 「圣杯战争里的每一天，她都是这样练过来的」 (dòng 115) — nguyên văn không nói Saber luyện kiếm mỗi ngày. Chi tiết đời thường vô hại; không xếp thành phát hiện.
-- Saber hiểu ngay Lancer **còn sống** (không nghĩ tới việc hắn chết) — hợp lý vì cô nghĩ tới việc phá thương trước, nhưng wiki chưa nói lời nguyền có tan khi Lancer chết không ([[arc-3-hai-cay-thuong]] đã ghi ⬜). Không ảnh hưởng chương này.
+- Saber hiểu ngay Lancer **còn sống** (không nghĩ tới việc hắn chết) — hợp lý vì cô nghĩ tới việc phá thương trước, nhưng wiki chưa nói lời nguyền có tan khi Lancer chết không (arc-3-hai-cay-thuong đã ghi ⬜). Không ảnh hưởng chương này.
 
 ## Còn treo sang `finalize-chapter`
 

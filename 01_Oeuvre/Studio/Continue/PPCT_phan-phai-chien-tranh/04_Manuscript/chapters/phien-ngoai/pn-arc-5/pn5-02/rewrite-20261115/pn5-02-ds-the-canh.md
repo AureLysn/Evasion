@@ -10,7 +10,7 @@ chapter: "pn5-02"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn5-02 ban DeepSeek", "thẻ cảnh Hắc Thời Đại gốc", "pn5-02 ds PPCT"]
-related: ["[[pn-arc-5-ds-plan]]", "[[pn5-01-ds-nhap]]", "[[khung-phien-ngoai-deepseek]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakaguchi-Ango]]", "[[Dazai-Osamu]]", "[[pn1-04-ds-nhap]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[pn-arc-5-ds-plan]]", "[[pn5-01-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakaguchi-Ango]]", "[[Dazai-Osamu]]", "[[pn1-04-ds-nhap]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-5-ds-plan mục pn5-02 (C1 POV Dazai; C3 Sách đưa lũ trẻ ra trước cảnh cuối; C4 để DS/GPT), V22, V23; canon: note Sakunosuke-Oda (mục Hắc Thời Đại, cập nhật 18/11/2026 từ wiki), Mimic, Andre-Gide; nối pn5-01 (tiêu đề 「黑时代」 vừa hiện, tách cà phê của Tsuna trên bàn thấp)."

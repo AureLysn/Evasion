@@ -39,6 +39,6 @@ Loại thực thể `character`: Aeon là thực thể có ý chí, không phả
 
 Ba bảng ngoại hình dưới đây được tra cho `CLS` theo luật của `CLS` và nằm trong project từ 2026-11-13:
 
-- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]] — ngoại hình Robin, Firefly, Dahlia, Gallagher, Sampo, bác sĩ Edward theo ảnh In-Game wiki · *01/11/2026*
-- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Amphoreus-npc-ngoai-hinh|Amphoreus-npc-ngoai-hinh]] — ngoại hình nhân vật Amphoreus · *25/10/2026*
-- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Planarcadia-npc-ngoai-hinh|Planarcadia-npc-ngoai-hinh]] — NPC Planarcadia: tên Trung và ngoại hình · *13/10/2026*
+- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]] — ngoại hình Robin, Firefly, Dahlia, Gallagher, Sampo, bác sĩ Edward theo ảnh In-Game wiki · *01/11/2026*
+- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Amphoreus-npc-ngoai-hinh|Amphoreus-npc-ngoai-hinh]] — ngoại hình nhân vật Amphoreus · *25/10/2026*
+- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Planarcadia-npc-ngoai-hinh|Planarcadia-npc-ngoai-hinh]] — NPC Planarcadia: tên Trung và ngoại hình · *13/10/2026*

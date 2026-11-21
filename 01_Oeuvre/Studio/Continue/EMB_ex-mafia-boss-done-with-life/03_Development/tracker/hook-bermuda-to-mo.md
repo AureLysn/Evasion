@@ -15,7 +15,7 @@ payoff:
   arc:
   chapter:
 aliases: ["Bermuda", "Bermuda von Veckenschtein", "Vindice", "cai nguc Vendicare", "to mo", "curiosity", "thu giai trinh quyen tra dua"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[xoa-so-estraneo]]", "[[fact-cao-la-natsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[fact-kimiko-arcobaleno]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Vindice-Prison]]", "[[Flame-of-Night]]", "[[fact-vendicare-giu-so]]", "[[child-ch2-the-canh-ban-20260925]]", "[[hook-bermuda-to-mo-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[xoa-so-estraneo]]", "[[fact-cao-la-natsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[fact-kimiko-arcobaleno]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Vindice-Prison]]", "[[Flame-of-Night]]", "[[fact-vendicare-giu-so]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 — doan hau qua vu Estraneo; cong reply tac gia 03/12/2024. Dung 16/09/2026 trong analyze-drop-point"

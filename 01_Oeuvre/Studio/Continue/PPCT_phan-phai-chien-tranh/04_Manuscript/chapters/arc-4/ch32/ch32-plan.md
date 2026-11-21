@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.100"
 aliases: ["plan ch32 PPCT", "dan y chuong 32 PPCT", "chuong nha ch32", "giac mo truoc cuoc dam phan", "Dazai mo buoi Tsuna di dam phan"]
-related: ["[[arc-4-ba-dao-lenh-chu]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[tsuna-bi-byakuran-giet]]", "[[dam-phan-voi-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[nguyen-vong-to-caster-de-ngo]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]", "[[dazai-tim-gokudera-lam-dau-moi]]", "[[archer-doi-master-sang-kirei]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[tsuna-bi-byakuran-giet]]", "[[dam-phan-voi-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[nguyen-vong-to-caster-de-ngo]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 24/09/2026 — chuong 4 arc 4. Aurel chon huong A (giac mo) + manh ky uc 'cuoc dam phan o the gioi A' (24/09). AI de xuat C1–C7; Aurel 24/09: "ban duyet C1–C7, viet the canh" — hieu la dong y ca bay theo de xuat"
@@ -25,7 +25,7 @@ last_updated: 2026-09-24
 
 # Kế hoạch chương 32 — chương nhà · ✅ AUREL DUYỆT 24/09/2026
 
-> Chương 4 arc 4. Khung arc: *chương nhà — một trong ba hook* ([[arc-4-ba-dao-lenh-chu]]).
+> Chương 4 arc 4. Khung arc: *chương nhà — một trong ba hook* (arc-4-ba-dao-lenh-chu).
 > **Đã chốt (Aurel 24/09):** hướng **A — giấc mơ** ([[hook-dazai-mo-tiep-kiep-truoc]]); mảnh ký ức: **cuộc đàm phán với Byakuran ở thế giới A** ([[dam-phan-voi-byakuran]]).
 > Aurel duyệt **cả C1–C7 theo đề xuất** (24/09/2026). Thẻ cảnh 01–03 đã viết.
 
@@ -44,14 +44,14 @@ Cùng đêm Tokiomi bước ra cửa và chết (ch31), Dazai mơ lại buổi *
 ## Hook phải chạm
 
 - [[hook-dazai-mo-tiep-kiep-truoc]]: **đẩy** — giấc mơ lên trang lần ba (ch10, ch18, ch26 kể lại). `status` giữ `partially_paid`.
-- [[hook-gokudera-dang-duoc-tim]] · [[hook-bo-sung-ma-luc]] · [[hook-nhan-mare-trong-tay-tsuna]] · [[hook-can-dazai-de-thang-archer]] · [[hook-archer-tuyen-chien-rider]]: **không chạm**. Giọng 「十代目……去……小心……」 **không** gắn tên — [[dazai-tim-gokudera-lam-dau-moi]], Ràng buộc.
+- [[hook-gokudera-dang-duoc-tim]] · [[hook-bo-sung-ma-luc]] · [[hook-nhan-mare-trong-tay-tsuna]] · [[hook-can-dazai-de-thang-archer]] · [[hook-archer-tuyen-chien-rider]]: **không chạm**. Giọng 「十代目……去……小心……」 **không** gắn tên — dazai-tim-gokudera-lam-dau-moi, Ràng buộc.
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
 - [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]]: `known_by` **cả Tsuna và Dazai** → được nói giữa hai người. **Nhưng** arc 4 đang để [[tsuna-bi-byakuran-giet]] ở mục "cấm lộ cả arc" — **C7** gỡ cho ch32 ở mức: **tên Byakuran + việc đi đàm phán + "không về"**. **CẤM:** cảnh trong phòng họp, trận đánh, rồng trắng, phát súng, cảm giác chết, đám tang.
-- 🔴 **Nhẫn / lửa trên nhẫn của Byakuran / nhẫn Mare** — ❌ [[q-loi-giai-bi-an-trung-tam]]: **không** lên trang. Byakuran **không xuất hiện** trong giấc mơ, chỉ là cái tên *(C1)*.
+- 🔴 **Nhẫn / lửa trên nhẫn của Byakuran / nhẫn Mare** — ❌ q-loi-giai-bi-an-trung-tam: **không** lên trang. Byakuran **không xuất hiện** trong giấc mơ, chỉ là cái tên *(C1)*.
 - 🔴 **Nguyện vọng của Dazai** — [[nguyen-vong-to-caster-de-ngo]]: **không** nói thẳng. Cử chỉ ở beat 3 **vọng** nguyên văn tiền truyện 「会在出门前为他抚平西服上的皱褶」 — **không** trích câu đó lên trang, **không** giải thích, **không** để Tsuna hiểu ra thành lời.
-- [[archer-doi-master-sang-kirei]] · [[kirei-van-la-master]]: tổ Caster **không biết** → không một chữ về Tokiomi, 远坂宅, Archer đổi chủ. Chỉ **người đọc** thấy song song ch31 (hai cánh cửa, cùng một đêm).
+- archer-doi-master-sang-kirei · [[kirei-van-la-master]]: tổ Caster **không biết** → không một chữ về Tokiomi, 远坂宅, Archer đổi chủ. Chỉ **người đọc** thấy song song ch31 (hai cánh cửa, cùng một đêm).
 - Dị năng Dazai; kế ngày 2; lời mời hiện thế: không.
 - **Đừng bi kịch hoá** (memory): giấc mơ **dừng ở cửa**; buổi sáng **nhẹ**; không nước mắt, không tuyên ngôn.
 
@@ -108,4 +108,4 @@ Chương **đời thường + giấc mơ** — [[05_Evasion/01_Oeuvre/Studio/Con
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu hỏi ❌ nào chặn — với điều kiện C1 giữ Byakuran **ngoài** trang và **không** nhẫn (❌ [[q-loi-giai-bi-an-trung-tam]]).
+Không có câu hỏi ❌ nào chặn — với điều kiện C1 giữ Byakuran **ngoài** trang và **không** nhẫn (❌ q-loi-giai-bi-an-trung-tam).

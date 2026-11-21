@@ -10,7 +10,7 @@ chapter: 38
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch38 ban DeepSeek", "thẻ cảnh ch38 bản song song", "ch38 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan|plan ch38]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch37-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan|plan ch38]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch37-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch38-plan + 4 thẻ scenes/ (Aurel duyệt C1–C10 27/09/2026). Không dùng văn bản ch38-chapter final."

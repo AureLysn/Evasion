@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Todoroki Shouto", "Shouto", "Todoroki", "轟焦凍", "em cung cha khac me cua Xanxus", "nguoi thay van phong Nedzu", "hoc sinh 1-A thay qua nhieu"]
-related: ["[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[qd-huong-arc-01]]", "[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch74 (POV Dabi nhin Xanxus), ch94 (Tsuna rap manh), ch95, ch99, ch119 (mau toc), ch121, ch124, ch126, ch127."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Todoroki Shouto
@@ -23,7 +23,7 @@ last_updated: 2026-08-31
 ## Nhận dạng
 
 Học sinh lớp 1-A, bạn thân nhất của Tsuna ở UA. Và — **cậu chưa biết** — là **em cùng cha khác mẹ
-của Xanxus**. Theo [[qd-huong-arc-01]], cậu là **người đổi trạng thái trong arc 01**.
+của Xanxus**.
 
 ## Canon gốc
 
@@ -103,7 +103,3 @@ lần** bởi hai người khác nhau.
 - **Tokoyami** — bạn; hai người cùng "không giỏi giao tiếp" nên hợp nhau
 - **Reborn** — cậu **không thích** ông, theo bản năng, ngay từ lần gặp đầu
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #2: **vỏ bọc UA vỡ MỘT PHẦN, và người biết là Shouto.**
-Cậu **chọn giữ bí mật**. Vỏ bọc chung còn nguyên; **Aizawa vẫn hiểu lầm**.

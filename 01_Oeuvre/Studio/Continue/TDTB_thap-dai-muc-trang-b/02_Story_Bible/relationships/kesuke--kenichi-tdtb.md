@@ -20,7 +20,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Kesuke ↔ Suzuki Kenichi
@@ -33,9 +33,3 @@ last_updated: 2026-09-30
 
 - Kenichi: *"Kesuke quân"*.
 - Kesuke: chưa nói với Kenichi trên trang. ch9 không nhìn Kenichi lấy một lần.
-
-## Diễn biến viết tiếp
-
-| Chương | Thay đổi |
-|---|---|
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] | Kenichi tính dùng chuyện Yamamoto–Tsuna để kéo 鹿野雪 khỏi 圭介 ([[qd-kenichi-loi-dung-truoc-tdtb]]). Kesuke không có mặt |

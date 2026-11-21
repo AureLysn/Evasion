@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Hawks", "Takami Keigo", "Keigo", "ホークス", "anh trai Byakuran", "soulmate cua Izuku", "hero so 2", "Sky tu de Flames", "nguoi thua ke Estraneo tren giay"]
-related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[qd-huong-arc-01]]", "[[soulmate-au]]", "[[he-bond]]", "[[Hero-Public-Safety-Commission]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[soulmate-au]]", "[[he-bond]]", "[[Hero-Public-Safety-Commission]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch52 (Tomie), ch60, ch109, ch111, ch116, ch117, ch123, ch125, ch126."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Hawks — Takami Keigo
@@ -112,7 +112,3 @@ Nhẹ, đùa, **giữ khoảng cách bằng sự thân thiện**. Khi một mìn
 - **Tomie** — mẹ; ch52
 - **Hero Commission** — nuôi cậu từ nhỏ; cậu vừa phản bội lòng tin của họ lần đầu
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #3: **cậu tìm tới Byakuran — không tìm soulmate — và đụng
-phải Izuku ở đó.** Bond **KHÔNG hình thành**. Cậu **vẫn phải là hero số 2**.

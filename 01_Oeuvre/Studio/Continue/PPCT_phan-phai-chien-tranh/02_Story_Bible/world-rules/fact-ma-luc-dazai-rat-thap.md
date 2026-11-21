@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Dazai có rất ít ma lực; Tsuna dựa vào địa mạch Fuyuki
@@ -35,4 +35,3 @@ Là giới hạn thật của tổ Caster. Mọi màn Tsuna dùng sức mạnh l
 
 Ghi chú ch7: người đọc gợi ý 'bổ ma', tác giả nói chưa từng nghĩ tới nhưng giờ sẽ nghĩ — [[hook-bo-sung-ma-luc]].
 
-📌 *ch37 (viết tiếp, 26/09/2026):* fact này **lên trang lại** qua lời Dazai — đại phần là địa mạch (Tsuna là Caster), phần của Dazai 「大概……够你泡一杯咖啡吧」 · 「魔术回路这种东西，我身上本来就没几条」 · 「说不定连让自己的从者在外面随便走一走都供不起」 (vọng ch3). **Lệnh chú cũng là ma lực** ([[Command-Spells]] luật 6): Dazai còn ba đạo, một đạo 「你那边的账，大概能松一大截」 — Tsuna từ chối 「留着」. Bổ ma theo nghĩa kia: chỉ là câu đùa. Chuồn chuồn, bọ cũng ăn phần của Tsuna — [[fact-cong-nghe-vongola-trong-chien-tranh]] *Luật năng lượng* — [[dazai-lo-ba-dao-lenh-chu]].

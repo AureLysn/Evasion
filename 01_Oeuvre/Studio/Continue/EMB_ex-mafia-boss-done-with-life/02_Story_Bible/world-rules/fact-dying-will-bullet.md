@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, worldbuilding, load-bearing]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Dying Will Bullet là **khởi động cưỡng bức** — và đó là điểm yếu của mafia
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > Đây là luật thế giới **quan trọng nhất chưa từng vào vault**. Nó nằm trong End Notes P1 Ch2, không nằm trong thân truyện.
 

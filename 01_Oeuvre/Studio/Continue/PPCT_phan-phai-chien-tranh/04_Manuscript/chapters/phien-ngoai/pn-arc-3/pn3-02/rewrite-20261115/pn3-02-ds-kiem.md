@@ -10,7 +10,7 @@ chapter: "pn3-02"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-02 ban DeepSeek", "kiểm phiên ngoại hổ ở bờ sông", "pn3-02 ds kiem PPCT"]
-related: ["[[pn3-02-ds-nhap]]", "[[pn3-02-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[pn2-07-ds-nhap]]"]
+related: ["[[pn3-02-ds-nhap]]", "[[pn3-02-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Nakajima-Atsushi]]", "[[Francis-Scott-Key-Fitzgerald]]", "[[Akiko-Yosano]]", "[[pn2-07-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/9a3bc3dd-399c-4ff2-9635-850a01f08bf7 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd67b9-aa18-83ec-9d54-f618401e7738"

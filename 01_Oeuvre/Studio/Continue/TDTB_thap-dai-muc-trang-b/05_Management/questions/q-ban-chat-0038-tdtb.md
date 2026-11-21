@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-0038-quet-bang-ho-so-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "outline arc 1"
+  arc:
   chapter: "truoc canh 0038 tra xong loi"
 decision_owner: "user"
 aliases: ["0038 la gi", "bản chất 0038", "vì sao 0038 quét sai", "hệ thống công lược TDTB"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # 0038 là gì, và vì sao nó không thấy được Tsuna?
@@ -40,7 +40,7 @@ last_updated: 2026-09-28
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc canh 0038 tra xong loi
+Cần trước: truoc canh 0038 tra xong loi
 
 ## Ai quyết
 

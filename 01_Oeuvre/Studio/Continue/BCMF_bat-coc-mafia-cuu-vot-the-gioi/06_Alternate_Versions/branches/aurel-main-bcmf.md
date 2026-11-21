@@ -20,7 +20,7 @@ authority: user
 confidence: 1.0
 always_load: true
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Hợp đồng nhánh: aurel-main
@@ -59,4 +59,4 @@ trung thành với ý đồ tác giả ningshijiu như văn bản và văn án t
 
 - **Lệch canon:** hợp đồng này **không cấm** lệch canon. Theo precedence, `fic_explicit` thắng `official_canon`;
   tác giả đã lệch nhiều lần ([[20260928-crosscheck-canon-bcmf]]). Muốn bám canon ở chỗ văn bản im lặng thì thêm vào `preserve`.
-- **Thứ tự hai phần** đang nằm trong `preserve`. Nếu muốn xen BSD sớm (hướng C trong [[de-xuat-khung-conan-bcmf]]), phải gỡ khỏi đây.
+- **Thứ tự hai phần** đang nằm trong `preserve`. Nếu muốn xen BSD sớm, phải gỡ khỏi đây.

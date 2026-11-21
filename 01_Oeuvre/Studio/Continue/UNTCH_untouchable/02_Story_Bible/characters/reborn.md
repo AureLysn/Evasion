@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Reborn", "リボーン", "Reboyama", "Reboyama-sensei", "handler gia", "thay cua Tsuna", "soulmate cua Nedzu", "Arcobaleno", "nguoi huy ho so EU Commission"]
-related: ["[[nedzu]]", "[[sawada-tsunayoshi]]", "[[soulmate-au]]", "[[Hero-Public-Safety-Commission]]", "[[thang-xep-hang]]", "[[qd-huong-arc-01]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[nedzu]]", "[[sawada-tsunayoshi]]", "[[soulmate-au]]", "[[Hero-Public-Safety-Commission]]", "[[thang-xep-hang]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch37, ch62, ch94, ch121, ch123, ch124, ch125, ch126, ch127. End note ch126 (author_confirmed: soulmate cua Nedzu)."

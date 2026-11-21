@@ -10,7 +10,7 @@ chapter: 23
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch23 ban DeepSeek", "thẻ cảnh ch23 bản song song", "ch23 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Ryuunosuke-Uryuu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/ryunosuke|ryunosuke]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[hard-rules]]", "[[ai-tells]]", "[[Ryuunosuke-Uryuu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/ryunosuke|ryunosuke]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch23-plan + 5 thẻ scenes/ (Aurel duyệt C1–C6 21/09/2026). Không dùng văn bản ch23-chapter final."

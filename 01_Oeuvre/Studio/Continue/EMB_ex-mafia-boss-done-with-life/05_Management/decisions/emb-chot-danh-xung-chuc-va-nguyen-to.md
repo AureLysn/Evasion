@@ -10,22 +10,22 @@ decided: 2026-09-22
 decided_by: user
 decided_at: 2026-09-22
 aliases: ["danh xung chuc va nguyen to", "chuc thi he AU nguyen to thi he canon", "Mist hay Gen'ei", "Gen'ei hay Mist", "he canon cho nguyen to", "doi thuat ngu Flame", "luat tu vung 22/09", "Kohaku hay Sky"]
-related: ["[[emb-chot-danh-xung-theo-lanh-tho]]", "[[rule-danh-xung-flame]]", "[[rule-hono-va-hi]]", "[[child-ch2-the-canh-ban-20260925]]", "[[child-ch2-chapter-ban-20260925]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: [ "[[rule-danh-xung-flame]]", "[[rule-hono-va-hi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: user_input
-  ref: "Aurel, 22/09/2026: 'chuc danh hay dung trang trong thi dung he cua AU con binh thuong thi van dung he tu canon thi de theo doi hon' — vi du Nagi 'dung mot tro ao thuat bang ngon lua suong mu' thay vi 'dung Gen'ei'. Cung ngay: thoai cung doi; ap dung tu Child Ch2 tro di."
+  ref: "Aurel, 22/09/2026: 'chuc danh hay dung trang trong thi dung he cua AU con binh thuong thi van dung he tu canon thi de theo doi hon' — vi du Nagi 'dung mot tro ao thuat bang ngon lua suong mu' thay vi 'dung Gen'ei'. Cung ngay: thoai cung doi; ap dung cho moi chuong viet tiep (sau reset 20/11/2026)."
 authority: user
 confidence: 1.0
 always_load: true
 load_for: [writer, reviewer]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Chốt — **chức thì hệ AU, nguyên tố thì hệ canon**
 
-Thay [[emb-chot-danh-xung-theo-lanh-tho]] **từ Child Ch2 (bản viết lại) trở đi**.
+Thay luật cũ *danh xưng theo lãnh thổ* (19/09). Sau reset 20/11/2026, luật này áp cho **mọi chương** viết tiếp.
 
 ## Luật
 
@@ -52,9 +52,7 @@ Luật này là **lựa chọn cách kể cho người đọc**, không phải s
 
 ## Phạm vi thời gian
 
-| | |
-|---|---|
-| **Child Ch2 bản viết lại → mọi chương sau** | luật này |
+Mọi chương viết tiếp, kể từ cuối P2 Ch1.
 
 ## Không đổi
 

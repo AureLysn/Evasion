@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, toi"
   arc: "show-tap-1"
-  chapter: "ch14-ch15"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.yamamoto-takeshi-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.kesuke-tdtb", "character.TDTB.dao-dien-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]] — sân nướng, vườn nhỏ sau biệt thự"]
 aliases: ["Loc Da Tuyet bo thuoc", "bỏ thuốc Yamamoto", "máy bán nước", "mị lực dược thủy", "tiệc nướng", "BBQ TDTB", "Yamamoto ném chai", "tỏ tình giả"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

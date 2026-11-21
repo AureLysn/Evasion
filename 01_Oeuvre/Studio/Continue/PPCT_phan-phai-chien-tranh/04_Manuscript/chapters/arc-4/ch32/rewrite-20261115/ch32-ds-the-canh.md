@@ -10,7 +10,7 @@ chapter: 32
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch32 ban DeepSeek", "thẻ cảnh ch32 bản song song", "ch32 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan|plan ch32]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[phong-mo-trang]]", "[[ch20-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan|plan ch32]]", "[[hard-rules]]", "[[ai-tells]]", "[[phong-mo-trang]]", "[[ch20-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch32-plan + 3 thẻ scenes/ (Aurel duyệt C1–C7 24/09/2026). Không dùng văn bản ch32-chapter final."

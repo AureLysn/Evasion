@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 16
 status: planned
 aliases: ["canh 19-03 vien dan", "Origin Bullet ch19", "Kayneth bi phe", "Lancer ve cuu chu"]
-related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kayneth]]", "[[diarmuid]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kayneth]]", "[[diarmuid]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-15
 ---

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.sola-ui, character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.200"
 aliases: ["plan ch28 PPCT", "dan y chuong 28 PPCT", "he qua ch28", "khep arc 3 PPCT", "Sola-Ui den nha tho", "sang ngay 9 PPCT"]
-related: ["[[arc-3-hai-cay-thuong]]", "[[lancer-chet-trong-quyet-dau]]", "[[sola-ui]]", "[[kayneth]]", "[[kirei-van-la-master]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[to-matou-va-kirei-theo-canon]]", "[[Kirei-Kotomine]]", "[[20260915-canon-to-lancer-arc-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[sola-ui]]", "[[kayneth]]", "[[kirei-van-la-master]]", "[[to-matou-va-kirei-theo-canon]]", "[[Kirei-Kotomine]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — chuong cuoi arc 3; Aurel duyet ca C1–C6 theo de xuat, 22/09/2026"
@@ -26,7 +26,7 @@ last_updated: 2026-09-22
 # Kế hoạch chương 28 — 余波 (Dư chấn) · ✅ AUREL DUYỆT 22/09/2026
 
 > Aurel duyệt **cả C1–C6 theo đề xuất** (22/09/2026). Thẻ cảnh 01–03 đã viết.
-> Chương cuối arc 3. Khung arc cho chương này: *hệ quả; Kayneth và Sola-Ui 🟡; tổ Caster mất lợi thế; tuỳ chọn gieo Kirei* ([[arc-3-hai-cay-thuong]]).
+> Chương cuối arc 3. Khung arc cho chương này: *hệ quả; Kayneth và Sola-Ui 🟡; tổ Caster mất lợi thế; tuỳ chọn gieo Kirei* (arc-3-hai-cay-thuong).
 
 ## Mục tiêu chương
 
@@ -35,7 +35,7 @@ Khép arc bằng hai câu hỏi ch27 để lại: **Sola-Ui và Kayneth đi đâ
 ## Beat bắt buộc
 
 1. **Nhà thờ *(C1, C2)*:** gần sáng ngày 9, POV Sola-Ui. Cô đưa Kayneth tới **nhà thờ Fuyuki** để xin che chở, như luật chiến tranh cho phép Master đã mất Servant. Người ra mở cửa là **Kotomine Kirei** 🟡 *(hoặc Risei — giám sát viên thật; Kirei xuất hiện sau)*. Với các Master, Kirei là **"Master của Assassin đã bại trận"** đang được nhà thờ che chở (canon — [[Kirei-Kotomine]]); Sola-Ui **không** biết hắn vẫn là Master, vẫn có Assassin.
-2. **Ba vệt đỏ *(C3)*:** Kirei nhìn thấy tay trái của cô. Chỉ **một cái nhìn**, không một lời nào về lệnh chú. *Động cơ (canon, chỉ planner biết): Kirei đã **dùng hết lệnh chú** ở Vương Yến để sai Assassin ([[Kirei-Kotomine]]); lệnh chú dự trữ của Risei chỉ về tay hắn "sau khi Caster bại" — trigger không tồn tại trong PPCT ([[20260915-canon-to-lancer-arc-2]] #6). Ba đạo trên tay Sola-Ui là thứ hắn **đang không có**.* Người đọc biết hắn là Master của Assassin ([[kirei-van-la-master]]); Sola-Ui không biết. Cảnh dừng khi cánh cửa khép lại sau lưng cô.
+2. **Ba vệt đỏ *(C3)*:** Kirei nhìn thấy tay trái của cô. Chỉ **một cái nhìn**, không một lời nào về lệnh chú. *Động cơ (canon, chỉ planner biết): Kirei đã **dùng hết lệnh chú** ở Vương Yến để sai Assassin ([[Kirei-Kotomine]]); lệnh chú dự trữ của Risei chỉ về tay hắn "sau khi Caster bại" — trigger không tồn tại trong PPCT (20260915-canon-to-lancer-arc-2 #6). Ba đạo trên tay Sola-Ui là thứ hắn **đang không có**.* Người đọc biết hắn là Master của Assassin ([[kirei-van-la-master]]); Sola-Ui không biết. Cảnh dừng khi cánh cửa khép lại sau lưng cô.
 3. **Sáng ngày 9, căn cứ *(C4)*:** POV Tsuna. Con bọ ở nhà kho phía tây đã mất, họ không biết Sola-Ui đi đâu. Dazai **suy ra**: Master mất Servant thì tìm tới nhà thờ. Hắn nhắc mối nghi từ ch17 (Master của Assassin cùng phe Archer) nhưng **không** nối thành tên người.
 4. **Lợi thế mất:** Dazai và Tsuna nói ngắn về tình hình. Saber đã lành lặn; Kiritsugu bị chặn hai lần, giờ sẽ tìm xem ai chặn mình; số Servant còn lại *(C5)*.
 5. **Khép arc *(C5)*:** một hình ảnh ngắn ở nhà. Không cliffhanger, không tổng kết.
@@ -94,7 +94,7 @@ Chương **trộn** (dệt canon ở cảnh 1, đời thường ở cảnh 2–3
 | C1 | Sola-Ui và Kayneth đi đâu | **Tới nhà thờ xin che chở**, cả hai sống | Luật chiến tranh (canon) cho Master mất Servant tìm nhà thờ; không bi kịch hoá; tự nhiên mở cửa cho Kirei. *Khác:* (b) rời Fuyuki về nước — sạch, nhưng mang ba lệnh chú ra khỏi truyện; (c) để ngoài trang — ch27 đã để một lần, lần hai thành treo |
 | C2 | Kirei có lên trang không | **Có, qua POV Sola-Ui**: hắn là "Master bại trận" ở nhà thờ ra mở cửa, **không** POV Kirei | Đúng "tuỳ chọn gieo Kirei" của khung arc, mà không lộ bí mật với nhân vật nào. *Khác:* (b) một đoạn POV Kirei: người đọc thấy ý định của hắn, mạnh hơn nhưng lộ nhiều; (c) không Kirei: arc 4 phải dựng Kirei từ đầu |
 | C3 | Ba đạo lệnh chú | **Chỉ một cái nhìn** của Kirei vào tay cô | Gieo, không trả. *Khác:* Kirei nói một câu về lệnh chú; rõ hơn, nhưng chốt sớm ý đồ của hắn |
-| C4 | Tổ Caster biết gì | **Dazai suy ra nhà thờ**; nhắc lại mối nghi ch17, **không** tên | Giữ đúng mức nghi của [[dazai-nghi-master-assassin-cung-phe-archer]]. *Khác:* họ không biết Sola-Ui đi đâu: an toàn, nhưng hai chương liền tổ Caster mù thông tin |
+| C4 | Tổ Caster biết gì | **Dazai suy ra nhà thờ**; nhắc lại mối nghi ch17, **không** tên | Giữ đúng mức nghi của dazai-nghi-master-assassin-cung-phe-archer. *Khác:* họ không biết Sola-Ui đi đâu: an toàn, nhưng hai chương liền tổ Caster mù thông tin |
 | C5 | Hình ảnh khép arc | **Tsuna đếm số Servant còn lại** (Saber, Archer, Rider, Berserker, Caster; Assassin đã "diệt"; Lancer đã mất), rồi một hình ảnh nhà | Khép arc 3 bằng một phép đếm có nghĩa, mở arc 4 bằng [[hook-archer-tuyen-chien-rider]]. *Khác:* một cảnh Saber và Irisviel sau trận: sâu cho Saber, nhưng thêm POV thứ ba |
 | C6 | Kiritsugu | **Không lên trang**; chỉ trong lời Dazai: 「他会去找是谁」 | Giữ hắn cho arc 4. *Khác:* một đoạn ngắn Kiritsugu kiểm tra mảnh con bọ: căng hơn, nhưng lại thêm POV |
 

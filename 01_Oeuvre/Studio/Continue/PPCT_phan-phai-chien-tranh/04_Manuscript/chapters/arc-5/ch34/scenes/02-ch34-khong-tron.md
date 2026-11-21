@@ -20,7 +20,7 @@ target_paragraph_mean: 36
 target_sentence_median: 17
 status: planned
 aliases: ["canh 34-02 khong tron", "Dazai quyet gap Kiritsugu", "不躲", "他看得见教会"]
-related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[kiritsugu-la-master-that]]", "[[nha-tho-fuyuki]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[kiritsugu-la-master-that]]", "[[nha-tho-fuyuki]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---

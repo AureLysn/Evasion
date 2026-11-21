@@ -10,7 +10,7 @@ decided: 2026-09-19
 decided_by: user
 decided_at: 2026-09-19
 aliases: ["xuong song Brat", "hoc lam tre con", "hoc cach tin tuong", "khoc khi co nguoi quan tam", "tre con nghia la gi trong fic nay", "duoc yeu thuong thi khong so hai"]
-related: ["[[brat-khung-arc-ban-20261001]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[nguoi-lon-co-trach-nhiem]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[maro]]", "[[indra]]", "[[shouichi]]", "[[phan-biet-hai-the-gioi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: [ "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[nguoi-lon-co-trach-nhiem]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[maro]]", "[[indra]]", "[[shouichi]]", "[[phan-biet-hai-the-gioi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 19/09/2026 — sua lai cach AI doc 'hoc lam tre con'. Nguyen van trich trong than note."
@@ -19,12 +19,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-20
 ---
 
 # Xương sống arc Brat — **"học làm trẻ con" nghĩa là gì**
 
-> ✅ **Aurel giữ nguyên, 01/10/2026** — [[emb-chot-goc-khung-moi]] mục 1. Sáng 01/10 note này bị mở lại thành [[q-xuong-song-brat]] theo [[emb-lam-lai-lan-ba]]; cùng ngày Aurel trả lời: **giữ nguyên bốn mục**. ⛔ Dòng *"Hạt giống đã gieo"* ở cuối note thuộc Brat Ch2 đã lưu trữ, không còn là fact.
+> ✅ **Aurel giữ nguyên bốn mục, 01/10/2026** — [[emb-chot-goc-khung-moi]] mục 1.
 
 > 🔴 AI đọc câu này thành **hành vi** — một đứa bé chơi đùa, nghịch bùn. Aurel sửa. Nó **không phải hành vi**, và hiểu sai chỗ này thì cả arc viết hỏng.
 
@@ -49,7 +49,7 @@ last_updated: 2026-10-01
 | 3 | **Bốc đồng** | Cậu làm một việc **chưa tính**, và biết nó sẽ làm người khác lo |
 | 4 | 🔴 **Tin rằng có người đỡ khi vấp** | Cậu **vấp thật**, và có người đỡ, và cậu **không sợ họ bỏ đi** |
 
-🔴 Bốn thứ này là **thang đo của arc**. Cái thứ tư là chỗ đóng — xem [[emb-chot-brat-dong-o-dau]].
+🔴 Bốn thứ này là **thang đo của arc**. Cái thứ tư là chỗ đóng — xem emb-chot-brat-dong-o-dau.
 
 ## Câu đắt nhất, và cách dùng nó
 
@@ -73,4 +73,3 @@ Cái bóng là: **bị kéo theo mong muốn của người khác, và nhận m�
 
 - Mọi chương của Brat phải trả lời được: **chương này dạy cái nào trong bốn?** Không trả lời được thì nó là chương của động cơ, không phải của xương sống, và arc không được có quá nhiều chương như thế.
 - 🔴 **Không viết Tsuna "hành xử trẻ con" như một dấu hiệu tiến bộ.** Nghịch bùn không phải thang đo. Giao việc mà không kiểm lại thì có.
-- Hạt giống đã gieo: [[brat-ch2-chapter-ban-20261001]] cảnh 2.0 — cậu **bỏ hậu tố trước**, và đó là lần đầu cậu tự chọn một việc không ai cần cậu chọn.

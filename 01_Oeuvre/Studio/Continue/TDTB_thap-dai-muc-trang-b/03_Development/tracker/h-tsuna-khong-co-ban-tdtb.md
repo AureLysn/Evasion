@@ -15,7 +15,7 @@ payoff:
   arc: null
   chapter:
 aliases: ["Tsuna khong co ban", "Tsuna không có bạn", "củi mục cương", "Tiểu Giải trong vỏ", "ôn nhu sóng biển", "Dame-Tsuna TDTB"]
-related: ["[[sawada-tsunayoshi-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb-phan-cu]]"]
+related: ["[[sawada-tsunayoshi-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch15"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna không có một người bạn nào — và đang chờ
@@ -45,5 +45,3 @@ Tuyến cảm xúc nền của truyện. Văn án: *"刚开始身边没有守护
 | Chương | |
 |---|---|
 | ch15 | *"纲吉没有朋友。"* |
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] *(viết lại 03/10)* | **đẩy mạnh**: Tsuna tự nói *"不过多了个朋友，好像也挺不错的。"* (không bi kịch hoá) |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)* | đẩy: Tsuna gọi Yamamoto là **武**; Yamamoto nhắc *"多了个朋友"*. Đồng đội cũ vẫn là người Tsuna để tâm nhất |

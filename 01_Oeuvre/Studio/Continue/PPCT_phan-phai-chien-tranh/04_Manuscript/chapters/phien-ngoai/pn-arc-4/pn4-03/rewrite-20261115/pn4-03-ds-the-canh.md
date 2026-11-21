@@ -10,7 +10,7 @@ chapter: "pn4-03"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn4-03 ban DeepSeek", "thẻ cảnh Kiritsugu mất ngủ", "pn4-03 ds PPCT"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-02-ds-nhap]]", "[[pn4-02-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[Gilles-de-Rais-Caster]]", "[[Uni]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn4-02-ds-nhap]]", "[[pn4-02-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[Gilles-de-Rais-Caster]]", "[[Uni]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-4-ds-plan mục pn4-03 (Aurel duyệt; C5 để DeepSeek/GPT), V18 (thế giới canon không có năng lực), C1 (khe tự mở khi Byakuran ngủ mơ); note Database Kiritsugu-Emiya (ảnh nhiệt đọc mạch ma thuật, hút thuốc lại), Maiya-Hisau (mê đồ ngọt, sứ ma dơi gắn camera), Gilles-de-Rais-Caster (bắt cóc trẻ con, treo thưởng)."

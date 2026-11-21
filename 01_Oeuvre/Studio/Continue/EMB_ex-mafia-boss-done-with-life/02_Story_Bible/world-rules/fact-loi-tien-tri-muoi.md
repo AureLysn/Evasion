@@ -16,17 +16,15 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, prophecy, load-bearing]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 revision: "dot 7 — sua lon: thu muoi = Vongola Decimo"
 ---
 
 # Lời tiên tri nói **mười** — và "mười" là **Vongola Decimo**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
-> 🔴 **ĐỢT 7 — SỬA LỚN. Tác giả đã viết sẵn lời giải, và mình bỏ sót nó suốt bốn đợt.**
->
-> Đợt 3–6 đọc câu *"The prophecy had said ten. Tsunayoshi was eight in the line"* rồi dừng lại đúng ở đó. **Hai mươi dòng sau, [[musashi]] tự giải nó trong cùng một POV.** Aurel nhớ ra và bảo mình đọc lại.
+> 🔴 Các lượt đọc đầu dừng ở câu *"The prophecy had said ten. Tsunayoshi was eight in the line"*. **Hai mươi dòng sau, [[musashi]] tự giải nó trong cùng một POV.** Aurel nhớ ra và bảo AI đọc lại.
 
 ## 🔴 Nguyên văn lời tiên tri — và lời giải, cùng một chỗ
 
@@ -85,63 +83,6 @@ Hai hệ đếm **khác nhau**, cùng trỏ vào một người, và **cả hai 
 
 **[[ieyasu]]/Giotto bị *lưu đày* khỏi nước Ý** — không phải "nghỉ hưu", không phải tự chọn đi. Fic chưa nói vì sao. Đây là chỗ tối chưa ai chạm.
 
----
-
-## Bản đợt 3 — giữ lại để truy vết
-
-> Đây là fact load-bearing nhất vừa tìm được ở đợt 3. Nó giải thích vì sao [[musashi]] kinh hoàng chứ không mừng khi thấy cháu mình bốc lửa hổ phách.
-
-## Câu chốt — nguyên văn
-
-> *"Musashi leaned back onto the window, stunned. Her thoughts were chaotic. **How could the Fire be amber? The prophecy had said ten. Tsunayoshi was eight in the line. It was too early. Two generations early.**"* — P1 Ch2
-
-## Lời tiên tri là gì
-
-Nhà [[sawada-tu-te]] được hứa một **Kohaku** — một *tennō*, hoàng đế, người mang **Kōtei no Hi**:
-
-> *"The Sawada, allied with the Hibari for centuries, **had been waiting for their own Kohaku**."* — P1 Ch2
-
-> *"**Kohaku** would be born to **her** line."* — P1 Ch2, Musashi
-
-> *"If Tsunayoshi is truly the subject of the prophecy, **if he is the emperor that was promised to our line**, then yes."* — P1 Ch3, Musashi
-
-Lời tiên tri **bảo đảm sẽ có** — *"a prophecy that ensured the birth"*. Điều nó nói thêm là **khi nào**: người thứ **mười**.
-
-## Bộ đếm
-
-| Thế hệ | Người | Số |
-|---|---|---|
-| bà | [[musashi]] | 6 |
-| mẹ | [[nana]] | 7 |
-| **cháu** | **[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]]** — Masaya | **8** |
-| — | *(chưa sinh)* | 9 |
-| — | *(chưa sinh)* | **10 ← lời tiên tri trỏ vào đây** |
-
-Chữ số trong tên **chính là bộ đếm**. Xem [[rule-ten-sawada]].
-
-## Vì sao đây là chỗ nứt của cả cốt truyện
-
-Tsuna **là Kohaku thật**, nhưng **đến sớm hai thế hệ**. Nghĩa là một trong ba điều sau đúng, và fic chưa nói là điều nào:
-
-1. Lời tiên tri **sai** hoặc bị hiểu sai suốt nhiều đời
-2. Lời tiên tri **đúng nhưng nói về người khác** — và Tsuna là một dị thường nằm ngoài nó
-3. **Chính việc Tsuna tái sinh** đã kéo lời tiên tri đến sớm — tức lời tiên tri vốn tính cho một dòng thời gian khác
-
-Khả năng 3 khớp với việc [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] vừa tái sinh vừa chuyển sinh sang **một dòng thời gian khác**, và là một hướng viết tiếp rất mạnh. **Nhưng đây là suy luận, không phải văn bản.**
-
-## 🔴 Đợt 5 — **có người đã tính đúng từ đầu**
-
-[[kimiko]] nói với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] rằng nếu ông đợi ở Namimori và **"đếm đến tám"**, ông sẽ có đuôi thứ chín. Bà nói con số **TÁM**.
-
-Nhà [[sawada-tu-te]] nói **MƯỜI**. Tsuna là **TÁM**.
-
-**Bà đúng. Cả hội đồng trưởng lão sai suốt nhiều thế hệ.**
-
-Điều này loại gần hết khả năng 1 và 3 ở trên, và mở một khả năng thứ tư mạnh hơn cả ba:
-
-> **Lời tiên tri của nhà Sawada bị đọc sai, không phải sai.** "Mười" có thể không phải thế hệ thứ mười — mà là mười đuôi của Ō-Inari, hoặc chu kỳ, hoặc thứ gì khác. Người duy nhất **thấy được tương lai** thì nói tám, và tám là con số đúng.
-
-Xem [[fact-dem-den-tam]] — và lưu ý bà chọn nói con số ấy **cho một thực thể cổ đại chứ không cho chính gia tộc mình**.
 
 ## Hai lời tiên tri, không phải một
 
@@ -168,4 +109,4 @@ Cơn ác mộng ấy nói rõ bà hiểu lời tiên tri thế nào: **không ph
 
 ## Chưa trích
 
-Nguyên văn lời tiên tri (chưa được đọc ra trong truyện) · ai/cái gì phán · từ bao giờ · nhật ký Kyuuto còn ghi gì
+Ai/cái gì phán · từ bao giờ · nhật ký Kyuuto còn ghi gì

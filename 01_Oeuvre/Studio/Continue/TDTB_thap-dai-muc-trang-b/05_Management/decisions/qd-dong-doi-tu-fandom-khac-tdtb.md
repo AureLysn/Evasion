@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-28
 aliases: ["dong doi tu fandom khac", "dong doi cua Tsuna da chot", "khong co dong doi tu the gioi Tsuna", "dong doi the gioi nhiem vu"]
-related: ["[[20260928-tra-loi-plan-continuation]]", "[[q-dong-doi-cua-tsuna-tdtb]]", "[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[nhiem-vu-da-lam-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: [ "[[q-dong-doi-cua-tsuna-tdtb]]", "[[nhiem-vu-da-lam-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 — sources/user-input/20260928-tra-loi-plan-continuation.md: 'dong doi den tu cac fandom khac, khong co nguoi tu the gioi tsuna'"

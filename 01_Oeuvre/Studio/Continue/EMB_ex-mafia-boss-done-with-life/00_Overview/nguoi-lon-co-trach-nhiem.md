@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["nguoi lon co trach nhiem", "tam quan binh thuong", "ai xem Tsuna nhu mot dua tre", "Guardian khong phai nguoi cham soc", "Tsuna luon bi keo di", "vi sao co Musashi", "vi sao co Maro", "Mist khong tinh tao", "Indra la hon loan co chu dich"]
-related: ["[[khung-oc]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[musashi]]", "[[maro]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[ayame]]", "[[kazuki]]", "[[y-chinh-cac-arc]]"]
+related: ["[[khung-oc]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[musashi]]", "[[maro]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[ayame]]", "[[kazuki]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16 — va ban sua lai 2026-08-16"
@@ -18,7 +18,7 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structural, load-bearing]
-last_updated: 2026-09-16
+last_updated: 2026-11-20
 ---
 
 # Người lớn có trách nhiệm — **người có tam quan bình thường**
@@ -95,7 +95,7 @@ Bản trước mình viết *"cậu ta yêu quý Tsuna như một sinh vật c�
 
 1. 🔴 **Không giải quyết vấn đề tình cảm của Tsuna bằng bond.** Nếu một arc kết bằng *"cậu có thêm một Element nên cậu ổn hơn"*, **arc đó sai** — vì Element không phải người chăm sóc
 2. **Cảnh cậu được đối xử như một đứa trẻ** phải đến từ người lớn **ngoài** bộ Guardian. Và những cảnh đó là chỗ luận đề chạm được, chứ không phải các cảnh lớn
-3. [[musashi]] gọi tên mẫu hình ở Arc 4 — không phải vì bà mạnh nhất, mà vì **bà là người bình thường nhất trong số những người biết đủ**
+3. [[musashi]] gọi tên mẫu hình ở giai đoạn School — không phải vì bà mạnh nhất, mà vì **bà là người bình thường nhất trong số những người biết đủ**
 4. ⚠️ Đây cũng là **lan can chống codependency** mà [[trope-fandom]] cảnh báo
 5. 🔴 **Và đây là lý do nhánh cần nhiều OC** — xem [[khung-oc]]. Dàn nhân vật có tên hiện tại **gần như không có ai bình thường**
 

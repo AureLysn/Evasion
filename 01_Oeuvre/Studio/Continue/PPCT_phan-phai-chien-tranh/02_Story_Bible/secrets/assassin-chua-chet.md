@@ -24,16 +24,15 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 # Assassin chưa chết
 
-> ✅ **ĐÃ LỘ ở ch17** *(viết tiếp, chốt 15/09/2026)* — Assassin xuất hiện trước Waver, Rider, Saber, Irisviel, Archer, rồi bị diệt sạch: [[assassin-tap-kich-vuong-yen]]. Bảng dưới giữ mốc trước ch17.
 
 ## Sự thật
 
-Tin chung — Rider nhắc lại ở trận kho cảng: Archer đã giết Assassin. Cái chết giả xảy ra **trước** đêm đó; tổ Caster không chứng kiến — [[assassin-chet-gia-truoc-dem-kho-cang]]. Tsuna bật hồng ngoại và thấy **một bóng người như cháy lửa xanh thẫm**; cậu chọn im lặng.
+Tin chung — Rider nhắc lại ở trận kho cảng: Archer đã giết Assassin. Cái chết giả xảy ra **trước** đêm đó; tổ Caster không chứng kiến — assassin-chet-gia-truoc-dem-kho-cang. Tsuna bật hồng ngoại và thấy **một bóng người như cháy lửa xanh thẫm**; cậu chọn im lặng.
 
 ## Ai biết, biết đến đâu
 
@@ -41,12 +40,8 @@ Tin chung — Rider nhắc lại ở trận kho cảng: Archer đã giết Assas
 |---|---|---|
 | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna\|tsuna]] | biết — thấy bằng hồng ngoại | ch7 |
 | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai\|dazai]] | **biết** — nhìn qua mắt Tsuna | ch7 · [[dazai-biet-assassin-con-song]] (Aurel 13/09/2026) |
-| Rider | tin Assassin đã chết (ch7) → **biết** từ ch17 | ch7 · ch17 |
-| Waver, Saber, Irisviel → **biết** từ ch17 · Lancer, Kayneth → vẫn không biết | có mặt, không có dấu hiệu biết | ch7 |
 | [[tokiomi]] | **biết** — canon: là người bày màn chết giả cùng Kirei. Truyện im lặng, không mâu thuẫn → theo canon | canon F/Z |
 | [[kiritsugu]] | **ngờ** — canon: thấy khó tin Assassin bị hạ dễ vậy. Ch5 truyện: Kiritsugu thấy 「Assassin的存在」 làm rối kế hoạch và lo có người theo dõi mình | canon F/Z + ch5 |
-| Archer | **biết** — thấy ở ch17 *(trước đó: không đưa vào danh sách — canon không nói trong đoạn đã đọc | — |* |
-
 *Cập nhật 13/09/2026 sau `crosscheck-canon`:* [[Hassan-of-the-Hundred-Faces]] · [[20260913-doi-chieu-canon]].
 
 ## Được phép thể hiện thế nào khi POV chưa biết

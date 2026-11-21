@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争33（DeepSeek版）"
 aliases: ["ch33 ban DeepSeek nhap", "chương 33 bản song song DeepSeek", "反派战争33 DeepSeek"]
-related: ["[[ch33-ds-the-canh]]", "[[ch33-ds-kiem]]", "[[deepseek-20261115]]", "[[ch32-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter|ch33-chapter (aurel-main, final)]]"]
+related: ["[[ch33-ds-the-canh]]", "[[ch33-ds-kiem]]", "[[ch32-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter|ch33-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch33-ds-the-canh (2 lượt: A, rồi B–D; lượt 2 gửi lại sau lỗi mạng); Claude kiểm lượt 1 và sửa (xem ch33-ds-kiem). Không dùng văn bản ch33-chapter final. Chat arc 4: https://chat.deepseek.com/a/chat/s/1e453ac0-73fe-49db-8741-b8d25c292c9a"

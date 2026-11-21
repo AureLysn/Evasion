@@ -8,11 +8,11 @@ canon_layer: planned
 status: resolved
 resolved_by: lenh-chu-khong-thang-xich-enkidu
 needed_before:
-  arc: "arc 7 — dem cuoi"
-  chapter: "truoc khi chon huong arc 7 (cao trao ch48 cua huong 1 va 3)"
+  arc:
+  chapter: "canh Archer troi Tsuna bang xich"
 decision_owner: user
 aliases: ["lenh chu va xich Enkidu", "lenh chu keo Tsuna khoi xich", "Enkidu chan lenh chu dich chuyen", "天之锁 令咒", "Dazai goi Tsuna ve bang lenh chu"]
-related: ["[[Gate-of-Babylon]]", "[[Command-Spells]]", "[[Gilgamesh-Archer]]", "[[gilgamesh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[20261001-canon-diem-chan-arc-7]]", "[[de-xuat-arc-7-tong-ket]]", "[[de-xuat-arc-7-huong-1]]", "[[de-xuat-arc-7-huong-3]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]", "[[lenh-chu-khong-thang-xich-enkidu]]"]
+related: ["[[Gate-of-Babylon]]", "[[Command-Spells]]", "[[Gilgamesh-Archer]]", "[[gilgamesh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]", "[[lenh-chu-khong-thang-xich-enkidu]]"]
 source:
   type: inference
   ref: "plan-reviewer M3 + continuity-reviewer 3.4 (01/10/2026); huong 1 Q14. Canon: crosscheck 20261001 A4."
@@ -20,7 +20,7 @@ authority: ai
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Lệnh chú có kéo được Servant ra khỏi xích Enkidu không — trong PPCT?
@@ -29,7 +29,7 @@ last_updated: 2026-10-01
 
 ## Vì sao cần quyết
 
-Hướng 1 và hướng 3 cùng đặt cao trào ở ch48: Archer trói Tsuna bằng xích, Dazai dùng một đạo lệnh chú gọi Tsuna về (đảo câu ch33 「下一次，不会再有人把本王叫回去了」). Canon không phân xử điểm này.
+Hai đề xuất arc 7 cũ *(đã xóa khi reset 21/11/2026)* từng đặt cao trào: Archer trói Tsuna bằng xích, Dazai dùng một đạo lệnh chú gọi Tsuna về (đảo câu ch33 「下一次，不会再有人把本王叫回去了」). Canon không phân xử điểm này.
 
 ## Cần chốt trước
 
@@ -41,8 +41,8 @@ Arc 7 — trước khi chọn hướng (nó quyết định hướng 1 và 3 có
 
 ## Dữ kiện đã có
 
-- **Canon** ([[20261001-canon-diem-chan-arc-7]] A4): xích cứng hơn theo thần tính, với mục tiêu không thần tính chỉ là xích chắc (wiki, 0.65). Fate/Zero **không** có cảnh lệnh chú đối xích. Ca gần nhất — UBW: lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki, 0.55). Lời "xích khoá không gian nên lệnh chú dịch chuyển cũng thua" chỉ thấy ở cộng đồng → **fanon**.
-- **PPCT**: ch8 — xích vàng 「无视纲吉控制的能力」. Tsuna là bảo vật thời–không (mức lộ C — [[loi-giai-bi-an-trung-tam]]); thần tính của Tsuna: **chưa note nào ghi**. Dazai còn đủ **3** đạo (ch37 「留着。一共就只有三次」).
+- **Canon** (20261001-canon-diem-chan-arc-7 A4): xích cứng hơn theo thần tính, với mục tiêu không thần tính chỉ là xích chắc (wiki, 0.65). Fate/Zero **không** có cảnh lệnh chú đối xích. Ca gần nhất — UBW: lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki, 0.55). Lời "xích khoá không gian nên lệnh chú dịch chuyển cũng thua" chỉ thấy ở cộng đồng → **fanon**.
+- **PPCT**: ch8 — xích vàng 「无视纲吉控制的能力」. Tsuna là bảo vật thời–không (mức lộ C — loi-giai-bi-an-trung-tam); thần tính của Tsuna: **chưa note nào ghi**. Dazai còn đủ **3** đạo (ch37 「留着。一共就只有三次」).
 
 ## Phương án *(chưa chốt — chỉ để Aurel cân)*
 

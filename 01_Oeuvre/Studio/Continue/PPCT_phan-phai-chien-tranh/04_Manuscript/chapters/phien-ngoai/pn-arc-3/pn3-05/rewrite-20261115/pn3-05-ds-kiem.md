@@ -10,7 +10,7 @@ chapter: "pn3-05"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-05 ban DeepSeek", "kiểm phiên ngoại đứa trẻ ở sân chơi", "pn3-05 ds kiem PPCT"]
-related: ["[[pn3-05-ds-nhap]]", "[[pn3-05-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn3-05-ds-nhap]]", "[[pn3-05-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/529194f4-8159-42e6-a274-c18264e2d4fd · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd78a7-3bc0-83ec-bc7d-85d2049855d4"

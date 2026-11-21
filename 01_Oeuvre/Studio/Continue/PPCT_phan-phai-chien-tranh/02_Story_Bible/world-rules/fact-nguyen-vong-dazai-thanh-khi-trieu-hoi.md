@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: author_confirmed
 status: active
 aliases: ["nguyen vong Dazai", "Dazai dat nguyen vong khi trieu hoi", "刚开始就完成愿望的御主", "Master duy nhat dat nguyen vong ngay tu dau"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[mori]]", "[[q-dazai-tim-gokudera-de-lam-gi]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[mori]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: author_comment
   ref: "Ghi chu tac gia cuoi ch2; 反派战争 ch1 (Mori), ch15 (Dazai)"

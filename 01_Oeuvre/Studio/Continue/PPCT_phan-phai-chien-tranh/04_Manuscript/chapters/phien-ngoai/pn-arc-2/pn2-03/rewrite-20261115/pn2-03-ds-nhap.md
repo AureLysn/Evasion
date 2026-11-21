@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.skull, character.PPCT.luce, character.PPCT.fon]
 language: zh
 aliases: ["pn2-03 ban DeepSeek nhap", "phiên ngoại Bảy người xa lạ thượng DeepSeek", "反派战争 番外七 七个陌生人上 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-03-ds-the-canh]]", "[[pn2-03-ds-kiem]]", "[[deepseek-20261115]]", "[[pn2-02-ds-nhap]]", "[[Luce]]", "[[Fon]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-03-ds-the-canh]]", "[[pn2-03-ds-kiem]]", "[[pn2-02-ds-nhap]]", "[[Luce]]", "[[Fon]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. Chương không có điểm mở (C4 đã duyệt); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa; GPT đọc thử (xem pn2-03-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/3de38fa7-c04a-4929-8b83-f08783e8db92"

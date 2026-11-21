@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 31-01 giao hoi", "教会 ch31", "Kirei noi voi Gilgamesh", "tuong va chan dung", "lenh chu cuoi ep tu sat"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[20260923-canon-lenh-chu-tokiomi]]", "[[Gilgamesh-Archer]]", "[[kirei-van-la-master]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[zero-point-dong-bang-gate]]", "[[gilgamesh]]", "[[kirei]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan]]", "[[Gilgamesh-Archer]]", "[[kirei-van-la-master]]", "[[zero-point-dong-bang-gate]]", "[[gilgamesh]]", "[[kirei]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-23
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-23
 # Cảnh 01 — 教会 · POV Gilgamesh · ~1.000 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
-> 🔴 **Bản chất Tsuna** (❌ [[q-loi-giai-bi-an-trung-tam]]): Gilgamesh đã ngờ từ ch9. Trong cảnh này hắn **nhớ** Tsuna. Nội tâm hắn **không** gọi tên loại bảo vật, **không** 「时空」, **không** nhẫn, **không** thế giới song song.
+> 🔴 **Bản chất Tsuna** (❌ q-loi-giai-bi-an-trung-tam): Gilgamesh đã ngờ từ ch9. Trong cảnh này hắn **nhớ** Tsuna. Nội tâm hắn **không** gọi tên loại bảo vật, **không** 「时空」, **không** nhẫn, **không** thế giới song song.
 
 ## Ngân sách
 
@@ -60,7 +60,7 @@ Gilgamesh **đồng ý** để Kirei giết Tokiomi, và người đọc hiểu 
 - ⚠️ **ch9 cũng có** 「我大概知道你是什么类型的时空宝物了」 — **KHÔNG** lặp, **KHÔNG** diễn lại. Đó là đúng chỗ cấm.
 - **ch28–29 (giọng Kirei):** 「保管。」 · 「和其他的放在一起。」 · 「只比看一个陌生人的手该用的时间长了一点点」 — Kirei **ngắn, trống**.
 - **ch16–17 (giọng Gilgamesh):** 「本王的酒宴，什么时候轮到阴沟里的老鼠来凑热闹了？」 · lời kể ch17 gọi hắn 「黄金的英灵」.
-- Canon: [[Gilgamesh-Archer]] · [[20260923-canon-lenh-chu-tokiomi]] #3–#6.
+- Canon: [[Gilgamesh-Archer]] · 20260923-canon-lenh-chu-tokiomi #3–#6.
 
 ## Chỗ writer tự quyết (🟡)
 

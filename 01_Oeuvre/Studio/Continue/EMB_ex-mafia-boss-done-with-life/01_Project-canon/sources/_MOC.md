@@ -7,17 +7,17 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["nguon EMB", "sources EMB", "nguon so cap", "danh sach nguon", "so dang ky nguon", "checklist trich xuat", "sources/_MOC", "EMB/sources/_MOC"]
-related: ["[[EMB]]", "[[Uu-Tien-Nguon]]", "[[emb-lam-lai-tu-nguon]]", "[[fic-part1]]", "[[fic-part2]]", "[[ao3-comments]]", "[[ao3-tra-loi-tac-gia]]", "[[author-notes]]", "[[ao3-tags]]"]
+related: ["[[EMB]]", "[[Uu-Tien-Nguon]]", "[[fic-part1]]", "[[fic-part2]]", "[[ao3-comments]]", "[[ao3-tra-loi-tac-gia]]", "[[author-notes]]", "[[ao3-tags]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 # Nguồn EMB — sổ đăng ký
 
 > **Nguồn sơ cấp** = thứ tác giả thật sự viết ra. **Dẫn xuất** = kết luận ai đó rút ra từ nguồn. Chỉ nguồn sơ cấp mới là dữ kiện.
 >
-> 🔴 **Đăng ký lại 15/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Mọi con số dưới đây đo lại trực tiếp trên file thô ngày đó *(executed)*. Bảng cũ 22/08 trỏ vào `personal-archive/fiction/…` — đường dẫn đó **không còn tồn tại**.
+> 🔴 **Đăng ký lại 15/09/2026** trong lượt làm lại từ nguồn. Mọi con số dưới đây đo lại trực tiếp trên file thô ngày đó *(executed)*. Bảng cũ 22/08 trỏ vào `personal-archive/fiction/…` — đường dẫn đó **không còn tồn tại**.
 
 ## 1. Nguồn sơ cấp
 
@@ -76,13 +76,12 @@ Chỉ dùng **đối chứng** sau mỗi giai đoạn: khớp thì tăng `confid
 | `sources/knowledge-data/TRITHUC-KOHAKU.md` | 84.984 | `d8156f6f9cd71c1c261e4a6469a5e198688cf3e834639982544381175b54a870` | hồ sơ tri thức lượt AI cũ |
 | `sources/knowledge-data/HOSO-KOHAKU.md` | 44.921 | `cf372e999d0817976862054c82f6de8cf693e937c0474ff7cd6495aee17cd32b` | hồ sơ nhân vật lượt AI cũ |
 | `sources/knowledge-data/DANY-KOHAKU.md` | 46.318 | `67fcb4f41099da834ed041542953e45ef2f1f201445eb6aa79b0f27fd21fe9c0` | dàn ý v3, đã sửa 09/09 — xem [[dany-v2-vs-v3]] |
-| `chapters/brat/BratArc-Chuong3..8.md` | 300.554 *(6 file)* | ghi trong từng note [[BratArc-Chuong3]] … [[BratArc-Chuong8]] | 6 chương AI viết, `superseded` từ 16/08 — xem [[chapters-ai-v3]] |
 
 `Ho_so_truyen_ExMafiaBoss.md` từng được liệt kê ở đây — **không tìm thấy** trong kho EMB ngày 15/09.
 
 ## 4. Checklist trích xuất — đợt làm lại 15/09/2026
 
-Mọi ô để trống. Checklist cũ trong từng note nguồn là **lịch sử đợt 15/08**, không phải trạng thái hiện tại.
+Mọi ô để trống. Checklist cũ trong từng note nguồn là **lịch sử ngày 15/08**, không phải trạng thái hiện tại.
 
 Part 2 dài ~21.000 từ, nên trích **theo chương** để có điểm dừng kiểm được.
 

@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "outline arc 1"
-  chapter: "truoc khi len dan y arc 1"
+  arc:
+  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["he thong cua Tsuna la gi", "ai đứng sau hệ thống", "nguồn gốc hệ thống Tsuna", "trạm trung chuyển của ai", "Leon và hệ thống"]
 related: ["[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[h-leon-la-ai-tdtb]]", "[[q-ban-chat-0038-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]"]
@@ -21,12 +21,12 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Hệ thống nhiệm vụ của Tsuna là gì, ai đứng sau?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]. Hệ thống nhận lời nhờ của ý thức thế giới; nhiệm vụ có thể lệch yêu cầu thật; công quy ra điểm. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
+> ✅ **Đã giải 28/09/2026** → [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]. Hệ thống nhận lời nhờ của ý thức thế giới; nhiệm vụ có thể lệch yêu cầu thật; công quy ra điểm. Nguyên văn: 20260928-tra-loi-plan-continuation.
 
 > 🔵 **Một phần đã chốt 27/09:** hai hệ thống (của Tsuna và 0038) **khác nghiệp vụ, không biết nhau, không đối đầu** — [[qd-hai-he-thong-khong-lien-quan-tdtb]]. Câu hỏi này vẫn **mở** về bản chất từng hệ thống.
 
@@ -38,7 +38,7 @@ Văn bản chỉ cho biết cơ chế ([[he-thong-nhiem-vu-tsuna-tdtb]]), không
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc khi len dan y arc 1
+Cần trước: truoc khi lap khung
 
 ## Ai quyết
 

@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1 (cung luc voi buoi day bong ch13; 'xe chieu hom nay co hop bao')"
   arc: "show-tap-1"
-  chapter: "ch13"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.gokudera-hayato-tdtb", "character.TDTB.angelie-tap-tdtb"]
 location: ["sân bay Narita", "cửa hàng quà tặng ở Narita"]
 aliases: ["Gokudera den Nhat", "Gokudera đến Nhật", "Narita", "san bay Narita", "quà cho mười đời mắt", "Mười đời mắt a a a", "bỏ họp báo"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

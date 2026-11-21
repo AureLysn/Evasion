@@ -21,7 +21,7 @@ asset:
 authority: original_author
 confidence: 1.0
 immutable: true
-last_updated: 2026-08-15
+last_updated: 2026-11-21
 ---
 
 # Nguồn — fic gốc Part 2 ("Brat Arc"), đang dở
@@ -36,7 +36,7 @@ Số từ: Ch1 8.220 (thoại 44,7 %) · Ch2 12.960 (thoại 26,5 %).
 
 ## Điểm dừng — đây là chỗ nhánh `aurel-main` nối vào
 
-Toàn bộ việc viết tiếp bắt đầu từ **sau chương 2 của Part 2**. Phân tích chi tiết điểm dừng: **chưa làm** (đợt 2).
+Toàn bộ việc viết tiếp bắt đầu từ **sau chương 2 của Part 2**. Phân tích chi tiết điểm dừng: [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]].
 
 ## Giọng dịch chuyển giữa hai Part
 

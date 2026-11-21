@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsuna", "Tsunayoshi", "Sawada Tsunayoshi", "Masaya", "Sawada Masaya", "Tenmei", "Tenmei-sama", "Kohaku", "Kohaku-sama", "小動物", "small animal", "Decimo", "Neo Vongola Primo", "Il Cielo Piu Forte", "Fondazione del Tri-Ni-Sette", "27", "nguoi thu tam", "eight in the line", "vo cao cua Namimori"]
-related: ["[[musashi]]", "[[nana]]", "[[kojiro]]", "[[kyouya]]", "[[kawahira]]", "[[indra]]", "[[nagi]]", "[[fact-loi-flame]]", "[[rule-ten-sawada]]", "[[rule-ten-tokugawa]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[sawada-ieyasu]]", "[[fact-loi-tien-tri-muoi]]", "[[fact-kimiko-arcobaleno]]", "[[phan-biet-hai-the-gioi]]", "[[tsuna-dam-phan-kawahira]]", "[[le-cuoi-cao]]", "[[emb-chot-sau-p2-ch2]]", "[[tsuna-phan-cu]]"]
+related: ["[[musashi]]", "[[nana]]", "[[kojiro]]", "[[kyouya]]", "[[kawahira]]", "[[indra]]", "[[nagi]]", "[[fact-loi-flame]]", "[[rule-ten-sawada]]", "[[rule-ten-tokugawa]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[sawada-ieyasu]]", "[[fact-loi-tien-tri-muoi]]", "[[fact-kimiko-arcobaleno]]", "[[phan-biet-hai-the-gioi]]", "[[tsuna-dam-phan-kawahira]]", "[[le-cuoi-cao]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 + Ex-Mafia_Boss_Spends.html Ch1-2, doc lai toan van 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch1, -p1-ch2, -p1-ch3, 20260916-p2-ch1, 20260916-p2-ch2"
@@ -18,12 +18,12 @@ always_load: true
 load_for: [writer]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Sawada Tsunayoshi — *Masaya* · *Tenmei*
 
-> 🔁 Viết lại từ nguồn 16/09/2026, từ năm sổ khẳng định của đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026, từ năm sổ đối chứng.
 >
 > 🔴 **Luật nền:** mọi câu về quá khứ phải khai **kiếp trước** hay **thế giới này** — [[phan-biet-hai-the-gioi]]. Note này giữ hai tầng ấy tách bạch.
 

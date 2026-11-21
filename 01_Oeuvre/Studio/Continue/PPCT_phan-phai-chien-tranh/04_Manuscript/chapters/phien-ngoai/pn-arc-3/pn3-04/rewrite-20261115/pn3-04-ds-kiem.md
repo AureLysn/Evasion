@@ -10,7 +10,7 @@ chapter: "pn3-04"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-04 ban DeepSeek", "kiểm phiên ngoại công chúa bị bắt cóc", "pn3-04 ds kiem PPCT"]
-related: ["[[pn3-04-ds-nhap]]", "[[pn3-04-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Uni]]", "[[Yumeno-Kyusaku]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn3-04-ds-nhap]]", "[[pn3-04-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Uni]]", "[[Yumeno-Kyusaku]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/90db97db-a4ba-4dab-bb48-779e52e88e11 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd7482-fa48-83ec-8278-e5bf46a94ebd"

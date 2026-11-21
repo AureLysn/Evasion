@@ -13,7 +13,7 @@ source:
   ref: "SORA.md và 5 file phương pháp từ Data-export/projects/ (Claude Project export)"
 authority: user
 confidence: 0.9
-last_updated: 2026-11-09
+last_updated: 2026-11-21
 ---
 
 # Drop Point — <Chưa đặt tên> (SORA)
@@ -26,7 +26,7 @@ last_updated: 2026-11-09
 
 ## 2. Last Confirmed Events
 - Tiếp nhận trọn bộ 5 file phương pháp chuẩn bị sáng tác từ bản xuất dự án cũ.
-- Đây là dự án có bộ phương pháp chuẩn bị đầy đủ nhất trong nhóm chưa viết — đã có sẵn cả dàn ý phương án lẫn dàn ý chi tiết từng cảnh.
+- Đây là dự án có bộ phương pháp chuẩn bị đầy đủ nhất trong nhóm chưa viết. Dàn ý phương án và dàn ý chi tiết của bản xuất cũ chỉ để tham khảo.
 - Thiết lập khung cấu trúc thư mục 7 phân khu tại `Studio/Continue/SORA_chua-dat-ten/`.
 
 ## 3. Current Character States
@@ -35,7 +35,7 @@ last_updated: 2026-11-09
 
 ## 4. Active Plotlines
 - Khai thác bản chất ngọn lửa Bầu Trời (Sky Flame), sức nặng của chiếc ghế Vongola Decimo và các mối quan hệ gia tộc.
-- Triển khai mở màn câu chuyện theo các phương án đã hoạch định tại `Dan_y_phuong_an.md`.
+- Mở màn: chưa chốt — lập lại từ đầu.
 
 ## 5. Pending Decisions
 - Aurel chọn tên truyện chính thức và chốt mã project (thay thế mã tạm `SORA`, đổi tên thư mục và cập nhật id note).
@@ -43,7 +43,7 @@ last_updated: 2026-11-09
 
 ## 6. Next Writing Steps
 - Đo văn phong mục tiêu (`signature`).
-- Phê duyệt dàn ý chi tiết Chương 1 từ `Dan_y_chi_tiet.md`.
+- Lập dàn ý từ đầu (`plan-continuation`); `Dan_y_*` cũ chỉ để tham khảo *(reset 21/11/2026)*.
 - Tiến hành viết bản thảo văn xuôi Chương 1.
 
 ## 7. Continuity Warnings

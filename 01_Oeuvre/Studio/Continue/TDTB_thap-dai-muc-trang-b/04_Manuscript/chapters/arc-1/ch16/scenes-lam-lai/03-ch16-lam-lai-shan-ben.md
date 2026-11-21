@@ -15,7 +15,7 @@ forbidden_secrets: [secret.TDTB.tsuna-la-omega-tdtb, secret.TDTB.tsuna-co-he-tho
 target_words: 700
 status: final
 aliases: ["the lam lai ch16 canh 03", "ch16 lam lai shan-ben"]
-related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---

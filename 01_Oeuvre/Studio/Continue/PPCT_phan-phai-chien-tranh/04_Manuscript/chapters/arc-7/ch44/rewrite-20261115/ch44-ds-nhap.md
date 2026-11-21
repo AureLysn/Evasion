@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争44（DeepSeek版）"
 aliases: ["ch44 ban DeepSeek nhap", "chương 44 bản song song DeepSeek", "反派战争44 DeepSeek"]
-related: ["[[ch44-ds-plan]]", "[[ch44-ds-the-canh]]", "[[ch44-ds-kiem]]", "[[deepseek-20261115]]", "[[ch43-ds-nhap]]"]
+related: ["[[ch44-ds-plan]]", "[[ch44-ds-the-canh]]", "[[ch44-ds-kiem]]", "[[ch43-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 16/11/2026. DeepSeek viết toàn bộ theo ch44-ds-the-canh (3 lượt: A–B; C–D; hai đoạn bù sàn); Claude kiểm lượt 1 và sửa (xem ch44-ds-kiem). Bản aurel-main chưa có ch44. Chat arc 7 (ch43–44): https://chat.deepseek.com/a/chat/s/9ad40b6b-47d6-46b3-acdc-2ea356049b15"

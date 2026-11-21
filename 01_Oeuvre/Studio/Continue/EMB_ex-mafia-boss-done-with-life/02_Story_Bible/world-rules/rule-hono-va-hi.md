@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [rule, language, load-bearing]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # **Honō** và **Hi** — ở Nhật, bạn *là* ngọn lửa
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Nguyên văn
 
@@ -48,6 +48,6 @@ last_updated: 2026-10-01
 
 ## Chưa trích
 
-✅ **Đã trả một ô, 19/09/2026** — *dân Namimori gốc mafia Ý dùng hệ nào*: **lãnh thổ quyết, không phải gốc gác**. Xem [[emb-chot-danh-xung-theo-lanh-tho]] ⛔.
+✅ **Đã trả một ô, 19/09/2026** — *dân Namimori gốc mafia Ý dùng hệ nào*: **lãnh thổ quyết, không phải gốc gác**. Xem emb-chot-danh-xung-theo-lanh-tho ⛔.
 
 Còn mở: người song ngữ hai hệ gọi thế nào · từ dùng cho người có tiềm năng nhưng chưa thức tỉnh

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Kawahira", "Checker Face", "Checkerface", "True Earthling", "Tri-ni-sette administrator", "Administrator", "nguoi toc trang", "Mist Guardian", "chu tiem do co", "yako trong rung", "Guardian ben trai"]
-related: ["[[tsuna]]", "[[kimiko]]", "[[maro]]", "[[mukuro]]", "[[fact-guardian-hien-co]]", "[[fact-dem-den-tam]]", "[[fact-hibari-sakura]]", "[[fact-kimiko-arcobaleno]]", "[[fact-fon-huyet-thong]]", "[[ke-cuop-co-dau]]", "[[tsuna-dam-phan-kawahira]]", "[[ong-tre]]", "[[emb-chot-sau-p2-ch2]]", "[[eienzakuramura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[kawahira-phan-cu]]"]
+related: ["[[tsuna]]", "[[kimiko]]", "[[maro]]", "[[mukuro]]", "[[fact-guardian-hien-co]]", "[[fact-dem-den-tam]]", "[[fact-hibari-sakura]]", "[[fact-kimiko-arcobaleno]]", "[[fact-fon-huyet-thong]]", "[[ke-cuop-co-dau]]", "[[tsuna-dam-phan-kawahira]]", "[[ong-tre]]", "[[emb-chot-sau-p2-ch2]]", "[[eienzakuramura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3 (xuat hien gian tiep) + Ex-Mafia_Boss_Spends.html Ch1-2 va End Notes; reply tac gia trong personal-bulk:fiction-sources/EMB/raw/ao3/. Doc lai 15-16/09/2026"
@@ -17,12 +17,12 @@ flame: Gen'ei (Mist)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Kawahira / Checker Face
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]]. Phần *"Cách đọc của Aurel"* ở cuối giữ nguyên — đó là `authority: user`.
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. Phần *"Cách đọc của Aurel"* ở cuối giữ nguyên — đó là `authority: user`.
 
 ## Vai — **Guardian bên trái của Tsuna**, không phải người ngoài
 

@@ -12,7 +12,7 @@ needed_before:
   chapter: "khung rieng arc Brat"
 decision_owner: user
 aliases: ["cai vap Brat", "dac vu Vongola", "ai lam Tsuna bi thuong", "Tsuna co sang Y khong"]
-related: ["[[emb-chot-dac-vu-vongola]]", "[[emb-lam-lai-lan-ba]]", "[[q-xuong-song-brat]]", "[[hook-iemitsu-tra-gia]]", "[[xoa-so-estraneo]]", "[[iemitsu]]"]
+related: [ "[[q-xuong-song-brat]]", "[[hook-iemitsu-tra-gia]]", "[[xoa-so-estraneo]]", "[[iemitsu]]"]
 source:
   type: user_input
   ref: "Aurel, 01/10/2026: dong y danh sach B cua emb-lam-lai-lan-ba. Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
@@ -22,12 +22,12 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Cái vấp của arc Brat — có còn là một đặc vụ Vongola không?
 
-> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 01/10/2026 theo [[emb-lam-lai-lan-ba]]. Không dùng chốt cũ như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 01/10/2026. Không dùng chốt cũ như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 
 ## Vì sao cần quyết
 
@@ -39,7 +39,7 @@ Nếu xương sống còn đóng ở *vấp thật và có người đỡ*, arc 
 
 ## Chốt cũ
 
-[[emb-chot-dac-vu-vongola]] — ba mục, cộng ba chỗ cố ý để mở.
+emb-chot-dac-vu-vongola — ba mục, cộng ba chỗ cố ý để mở.
 
 ## Ghi chú
 

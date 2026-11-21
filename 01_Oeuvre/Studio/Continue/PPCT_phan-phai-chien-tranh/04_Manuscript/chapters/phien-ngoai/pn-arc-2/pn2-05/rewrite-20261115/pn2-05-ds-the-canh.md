@@ -10,7 +10,7 @@ chapter: "pn2-05"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-05 ban DeepSeek", "thẻ cảnh phiên ngoại Yokohama song song", "pn2-05 ds PPCT", "Dazai roi Cang pn2-05"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-02-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[20261118-canon-phien-ngoai-arc-2]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Dazai-Osamu]]", "[[Sakunosuke-Oda]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-02-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Dazai-Osamu]]", "[[Sakunosuke-Oda]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-05 (Aurel duyệt 18/11/2026; C6 Ango vẫn xoá hồ sơ, hai người đổi việc không làm hoà; C7 = Q-P5 để DeepSeek/GPT), V9 (như bản cũ), Q-P6 (Dazai vớt Atsushi; Akutagawa ở lại Cảng), Q-P7 (Oda nuôi trẻ và viết); note Database Doppo-Kunikida (tạo 18/11/2026)."

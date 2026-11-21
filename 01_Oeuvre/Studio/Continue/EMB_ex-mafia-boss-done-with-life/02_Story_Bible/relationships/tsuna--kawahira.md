@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Tsuna Kawahira", "bond ben trai", "Guardian dau tien", "harmonisation voi Kawahira", "gia cua bond"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-guardian-hien-co]]", "[[tsuna-dam-phan-kawahira]]", "[[ong-tre]]", "[[natsu]]", "[[Harmonization]]", "[[fact-loi-flame]]", "[[brat-ch3-chapter-ban-20261001]]", "[[truc-chinh]]", "[[xoa-so-estraneo]]", "[[tsuna--kawahira-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-guardian-hien-co]]", "[[tsuna-dam-phan-kawahira]]", "[[ong-tre]]", "[[natsu]]", "[[Harmonization]]", "[[fact-loi-flame]]", "[[truc-chinh]]", "[[xoa-so-estraneo]]"]
 source:
   type: inference
   ref: "Dung 19/09/2026 khi finalize brat-ch3, tren fact-guardian-hien-co (1.0) va hoi tuong canh 3.4."

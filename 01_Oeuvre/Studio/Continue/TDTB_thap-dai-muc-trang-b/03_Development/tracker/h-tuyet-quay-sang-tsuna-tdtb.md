@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Lộc Dã Tuyết quay mũi sang Tsuna
@@ -62,7 +62,4 @@ Tuyết sẽ làm gì với Tsuna: công kích trên mạng, lợi dụng show, 
 | Chương | |
 |---|---|
 | ch15 | quay mũi sang Tsuna; **gieo nghi ngờ** với Yamamoto: *"你不觉得自己被人动了手脚吗？"* — không nảy mầm |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] | đẩy: từ "gieo nghi ngờ" sang **kéo điểm**. (cảnh 01) định cho Tsuna điểm thấp nhất: *"他会给沢田纲吉打最低的分数"*; đốt 100 积分 vào một tờ hồ sơ cũ, không mua thêm đạo cụ: *"系统的道具就算了，刚刚那一百积分才打了水漂，他现在一分都舍不得再花了。"* · (cảnh 02) một ánh nhìn, mặt cười nguyên: *"他抬起眼睛，目光从纲吉身上一扫而过，脸上的笑一点都没有变，纲吉的后颈却一下子凉透了。"* · (cảnh 03) một câu "tử tế" ở phần cảm tưởng: *"纲吉君今天好像一直都没什么精神呢。要是不喜欢这种节目的话，其实不用勉强自己的，大家都会理解的。"* — cảnh 01 **không** báo trước câu này (cảnh 01 chỉ định phiếu). Việc cho điểm thấp **thật sự** xảy ra hay chưa: trang **không** cho thấy (Tsuna không thấy phiếu của ai). Giữ `open` |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10, thêm)* | Dòng trên giữ (cảnh 01 nguyên văn; câu "不用勉强" D2). Thêm: bóp đũa khi Tsuna bênh Yamamoto; trực giác của Tsuna ba lần. |
 
-Câu hỏi **vì sao** Yamamoto thích Tsuna vẫn ngỏ với Tuyết sau khi 0038 trả *"数据正常，未发现漏洞"* ([[h-0038-kiem-tra-yamamoto-tdtb]], đã trả ở ch17).

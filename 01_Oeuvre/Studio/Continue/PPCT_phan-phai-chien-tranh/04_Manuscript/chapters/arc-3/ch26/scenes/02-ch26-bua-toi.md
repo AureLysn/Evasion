@@ -20,7 +20,7 @@ target_paragraph_mean: 36
 target_sentence_median: 17
 status: planned
 aliases: ["canh 26-02 bua toi", "晚饭 ch26", "Tsuna nau bua toi", "chuong nha ngay 7"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[mot-ngay-khong-co-chien-tranh-chen-thanh]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -53,8 +53,8 @@ last_updated: 2026-09-22
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch18: Tsuna tự nấu bữa sáng, trứng cháy viền; Dazai nói 「人不吃饭总归是不行的。」 — Tsuna: 「是我说的吧？」 — [[dazai-mo-mot-buoi-sang-o-vongola]]
-- ch20: 「冰箱里只剩鸡蛋了，所以只能是蛋炒饭。」 — [[mot-ngay-khong-co-chien-tranh-chen-thanh]]
+- ch18: Tsuna tự nấu bữa sáng, trứng cháy viền; Dazai nói 「人不吃饭总归是不行的。」 — Tsuna: 「是我说的吧？」 — dazai-mo-mot-buoi-sang-o-vongola
+- ch20: 「冰箱里只剩鸡蛋了，所以只能是蛋炒饭。」 — mot-ngay-khong-co-chien-tranh-chen-thanh
 - ch24: Dazai 「纲吉的蛋炒饭很好吃！」
 - Tsuna là Anh linh, không cần ăn (ch18: nói mình là Anh linh không cần ăn) — vẫn nấu, vẫn ăn cùng.
 

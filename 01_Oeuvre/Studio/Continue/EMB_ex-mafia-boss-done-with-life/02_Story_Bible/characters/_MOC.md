@@ -10,7 +10,7 @@ aliases: ["nhan vat EMB", "characters EMB", "danh sach nhan vat", "Characters/_M
 related: ["[[EMB]]", "[[rule-danh-xung-flame]]", "[[rule-ten-sawada]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # MOC — EMB / Characters
@@ -57,7 +57,7 @@ Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MO
 | [[kawahira]] | True Earthling. **Đã là Mist Guardian** |
 | [[maro]] | Học giả Flame. **Hell Ring cuối cùng**. Bà thứ hai của Tsuna |
 
-## Người trong dinh thự — *dựng ở đợt 8b*
+## Người trong dinh thự
 
 | Nhân vật | Flame | Ghi chú |
 |---|---|---|
@@ -65,7 +65,7 @@ Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MO
 | [[ayame]] | Ketsueki (Storm) | phụ tá thân cận của Musashi. Thắp đèn lồng bằng Storm |
 | [[kazuki]] | Chiyu (Sun) | người làm vườn. **Người dựng khiên Flame vàng** ở cảnh mở P2 Ch2 |
 
-## Ngoài nhà Sawada — *dựng ở đợt 8b*
+## Ngoài nhà Sawada
 
 > ⚠️ *Sửa tiêu đề 01/10:* [[tomoko]] và [[shouichi]] **ở trong Namimori**. Tiêu đề cũ ghi *"Ngoài Namimori"*.
 
@@ -73,7 +73,7 @@ Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MO
 |---|---|---|
 | [[tomoko]] | Ryokugyoku (Lightning) | 🔴 **POV trọn P2 Ch1.** Môi giới thông tin. **Người kéo cò vụ Estraneo** |
 | [[mukuro]] | Gen'ei (Mist) | được cứu khỏi Estraneo. Đang học với Kawahira |
-| [[shouichi]] | ❓ chưa biết | 🆕 **tách note riêng 17/09.** Con trai [[tomoko]], tiểu học, thuốc dạ dày. **Đứa trẻ cùng tuổi đầu tiên** — [[brat-dan-y-ban-20261001]] |
+| [[shouichi]] | ❓ chưa biết | 🆕 **tách note riêng 17/09.** Con trai [[tomoko]], tiểu học, thuốc dạ dày. **Đứa trẻ cùng tuổi đầu tiên**. Có một tầng kiếp trước — [[emb-chot-shouichi-kiep-truoc]] |
 
 ## 🆕 Dựng mới trên nhánh — 17/09/2026
 
@@ -82,27 +82,37 @@ Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MO
 | Nhân vật | Vì sao có note |
 |---|---|
 | [[genichi]] | **Sugita Gen'ichi**, 63, thầy thuốc riêng nhà Sawada · 🔴 **không biết chuyện Lửa** · **không phải** thầy thuốc Ấn Độ của [[khung-oc]] — [[emb-chot-thay-thuoc]] |
-| [[sachiko]] | **Yamamoto Sachiko**, mẹ Takeshi — [[emb-chot-me-takeshi]] *(tên giữ; ai quyết ở vụ Yamamoto chờ [[q-me-takeshi-ai-quyet]])* |
+| [[sachiko]] | **Yamamoto Sachiko**, mẹ Takeshi — [[emb-chot-me-takeshi]]  |
 
-⛔ **01/10/2026:** chưa ai trong bảng trên lên trang. Các dòng *"đã lên trang"* thuộc tám chương đã lưu trữ — [[emb-lam-lai-lan-ba]]. [[shouichi]] mang một tầng kiếp trước, [[emb-chot-shouichi-kiep-truoc]] *(phần ấy giữ)*.
+Chưa ai trong bảng trên lên trang.
+
+## Canon và OC khác đã có note
+
+| Nhân vật | Ghi chú |
+|---|---|
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus\|xanxus]] | xem [[tuyen-xanxus]] |
+| [[mammon]] · [[squalo]] · [[levi]] · [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/belphegor\|belphegor]] | Varia; note chỉ giữ phần không gắn chương |
+| [[bermuda]] | Vindice; xem [[hook-bermuda-to-mo]] |
+| [[yasuyuki]] · [[noriyuki]] | cặp song sinh Lightning nhà [[nha-kotokui]] — [[emb-chot-cap-song-sinh]] |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/skull\|skull]] · [[chiyo]] | `planned`, Aurel giữ 21/11/2026; chưa lên trang |
 
 🔴 Note [[tsuyoshi]] **vẫn `planned`**: chốt "mẹ Takeshi quyết" **không** khẳng định "Yamamoto-san tiệm Takesushi" là cha Takeshi.
 
-## Chưa lên hình — *dựng ở đợt 8g*
+## Chưa lên hình
 
 ⚠️ Ba người này **chưa xuất hiện một dòng nào** trong nguyên tác, nhưng đều load-bearing cho dàn ý.
 
 | Nhân vật | Vì sao có note |
 |---|---|
-| [[reborn]] | 🔴 **cái bóng hoá thành người** — bài thi cuối của Arc 6. Được nhắc trong 24 note trước khi có note |
+| [[reborn]] | 🔴 **cái bóng hoá thành người** — bài thi cuối của đoạn kết. Được nhắc trong 24 note trước khi có note |
 | [[tsunashige]] | em trai. **Người bị nói dối nhiều nhất** trong nhà |
-| [[tsuyoshi]] | người duy nhất có **cùng hình dạng đời** với Tsuna — Arc 3 |
+| [[tsuyoshi]] | người duy nhất có **cùng hình dạng đời** với Tsuna — giai đoạn Child |
 
 ## Chưa dựng note
 
-⚠️ **Mục này là một gate, không phải ghi chú.** Nó từng nằm yên qua năm đợt trong khi vault dựng dàn ý — xem [[gap-nhan-vat]]. Còn tên ở đây thì hồ sơ nhân vật **chưa xong**.
+⚠️ **Mục này là một gate, không phải ghi chú.** Nó từng nằm yên qua năm đợt trong khi vault dựng dàn ý — xem gap-nhan-vat. Còn tên ở đây thì hồ sơ nhân vật **chưa xong**.
 
-`Squalo` · `Belphegor` · `Levi` · `Irie Shoichi` (sinh ra trên đường trốn, **có trong tag AO3 chưa lên hình**) · `Irie Masatsugu` · `Irie Akiko` (chị Shoichi) · `Miya Akiko` (bà nội Tsuna) · `Kusakabe` · `Timoteo/Nono` · `Sawada Shiki` (bà của Musashi, Getsufuji) · `Sawada Kazuhito` (Seigyoku, thời Edo) · `Sawada Misaki` + `Arisawa Ryuha` (Ryokugyoku) · `Hibari Sakura` (mẹ Kimiko, chết khi sinh) · `Hibari Kasumi` (Ruri, bị coi là con ngoài giá thú)
+`Irie Shoichi` (sinh ra trên đường trốn, **có trong tag AO3 chưa lên hình**) · `Irie Masatsugu` · `Irie Akiko` (chị Shoichi) · `Miya Akiko` (bà nội Tsuna) · `Kusakabe` · `Timoteo/Nono` · `Sawada Shiki` (bà của Musashi, Getsufuji) · `Sawada Kazuhito` (Seigyoku, thời Edo) · `Sawada Misaki` + `Arisawa Ryuha` (Ryokugyoku) · `Hibari Sakura` (mẹ Kimiko, chết khi sinh) · `Hibari Kasumi` (Ruri, bị coi là con ngoài giá thú)
 
 ## Bốn điều đúng với mọi nhân vật ở đây
 

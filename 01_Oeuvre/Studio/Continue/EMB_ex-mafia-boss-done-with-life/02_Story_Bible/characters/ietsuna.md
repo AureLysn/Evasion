@@ -17,12 +17,12 @@ flame: Kotei / Kohaku (Sky) — active nhung giau kin
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Sawada Ietsuna
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > ⚠️ **Sawada Ietsuna ≠ Tokugawa Ietsuna** (shōgun thứ 4). Xem [[rule-ten-tokugawa]].
 

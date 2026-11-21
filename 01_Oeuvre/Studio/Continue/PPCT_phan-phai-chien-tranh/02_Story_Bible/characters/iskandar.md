@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Iskandar PPCT", "Rider PPCT", "伊斯坎达尔", "Chinh phuc vuong PPCT", "Alexander PPCT"]
-related: ["[[waver]]", "[[to-caster--to-rider]]", "[[hook-archer-tuyen-chien-rider]]", "[[Iskandar]]", "[[20260913-doi-chieu-canon]]", "[[ket-cuc-rider-waver-nhu-canon]]"]
+related: ["[[waver]]", "[[to-caster--to-rider]]", "[[hook-archer-tuyen-chien-rider]]", "[[Iskandar]]", "[[20260913-doi-chieu-canon]]"]
 source:
   type: fic_text
   ref: "反派战争 ch5–6, ch8–15"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Iskandar — Rider
@@ -37,14 +37,6 @@ Fate/Zero — đối chiếu ở `crosscheck-canon`.
 - Ch12: phá kết giới lâu đài Einzbern, **mặc quần bò + áo phông in logo game**, chở cả tổ Caster trên chiến xa đến dự tiệc.
 - Ch14: uống rượu Vongola, khen lớn; đoán ra chân danh Archer; khuyên đùa Tsuna nịnh Archer để lấy Chén.
 - Ch15: **nguyện vọng là có thân thể thịt**; bác Saber: vua hối hận là hôn quân.
-
-## Trạng thái hiện tại — sau ch40 (viết tiếp, chốt 30/09/2026)
-
-Tối ngày 15: chiến xa bay trên trời Shinto (sấm, hai con bò), bị Saber đuổi vào đường núi; quay đầu lao vào Saber; chiến xa bị phá. Ôm Waver nhảy ra, biến vào rừng. **Mất chiến xa**, trước trận với Archer. Không biết mặt mình bị mượn (tác giả) — [[saber-pha-gordius-wheel]].
-
-*Trước đó — ch17:* Mời Assassin uống rượu, bị từ chối; mở **Ionioi Hetairoi**, diệt Assassin không cần cả đạo quân. Đáp lời thách của Archer 「求之不得！」; vác thùng rượu về (ch17).
-
-*Trước đó — ch16:* Chủ trì Vương Yến (ngày 3). Vừa bị Archer tuyên chiến (ch15). Im lặng rót đầy chén cho Saber sau khi cô trở về (ch16).
 
 ## Giọng và cách nói
 

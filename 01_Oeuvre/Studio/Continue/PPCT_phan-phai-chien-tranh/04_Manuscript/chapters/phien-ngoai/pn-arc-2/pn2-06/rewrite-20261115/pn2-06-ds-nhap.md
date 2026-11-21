@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn2-06 ban DeepSeek nhap", "phiên ngoại ngày định mệnh DeepSeek", "反派战争 番外十 命定之日 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-06-ds-the-canh]]", "[[pn2-06-ds-kiem]]", "[[deepseek-20261115]]", "[[pn2-05-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn2-02-ds-nhap]]", "[[Talbot]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Lal-Mirch]]", "[[Luce]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-06-ds-the-canh]]", "[[pn2-06-ds-kiem]]", "[[pn2-05-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn2-02-ds-nhap]]", "[[Talbot]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Lal-Mirch]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E và ba bản kết (C-a); GPT chấm (chọn kết một, ghép) và đọc thử cùng lượt; Claude kiểm canon và sửa (xem pn2-06-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/aab31dcc-1a5c-44c2-bf7b-7cf3c3786c64"

@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-tsuna-nay-la-juudaime-tdtb]]"
 resolved_at: 2026-09-26
 needed_before:
-  arc: "outline arc 1"
-  chapter: "truoc khi len dan y arc 1"
+  arc:
+  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["Tsuna nay va Juudaime", "hai phiên bản Tsuna", "ký ức rơi nhầm thế giới", "vì sao Tsuna không nhớ", "Tsuna mất ký ức hay chưa từng có", "the gioi song song ky uc"]
 related: ["[[ky-uc-tuong-lai-tdtb]]", "[[verde-gui-ky-uc-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[h-verde-quen-dieu-gi-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Tsuna của TDTB và "Juudaime trong ký ức" có phải một người không?
@@ -40,7 +40,7 @@ Mọi cảnh có Gokudera/Yamamoto phụ thuộc vào câu này. Dữ kiện có
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc khi len dan y arc 1
+Cần trước: truoc khi lap khung
 
 ## Ai quyết
 

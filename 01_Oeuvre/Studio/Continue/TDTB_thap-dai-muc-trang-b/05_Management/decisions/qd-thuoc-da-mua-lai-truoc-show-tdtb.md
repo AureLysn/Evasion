@@ -17,13 +17,13 @@ confidence: 0.95
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Tsuna **đã mua lại và uống** thuốc cường hiệu **trước khi lên show**
 
 Giải [[q-thuoc-uc-che-da-mua-lai-chua-tdtb]]. Văn bản trả lời, không phải lựa chọn: câu hỏi giải ngày **28/09**, note này viết **30/09**
-vì lúc đó chưa có (plan-reviewer ch16, M2).
+vì lúc đó chưa có.
 
 ## Chốt
 

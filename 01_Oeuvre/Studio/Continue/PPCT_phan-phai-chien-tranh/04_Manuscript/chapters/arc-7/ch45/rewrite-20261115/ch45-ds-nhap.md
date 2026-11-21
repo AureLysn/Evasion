@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争45（DeepSeek版）"
 aliases: ["ch45 ban DeepSeek nhap", "chương 45 bản song song DeepSeek", "反派战争45 DeepSeek"]
-related: ["[[ch45-ds-plan]]", "[[ch45-ds-the-canh]]", "[[ch45-ds-kiem]]", "[[deepseek-20261115]]", "[[ch44-ds-nhap]]"]
+related: ["[[ch45-ds-plan]]", "[[ch45-ds-the-canh]]", "[[ch45-ds-kiem]]", "[[ch44-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch45-ds-the-canh (2 lượt: A–B; C–E); Claude kiểm lượt 1 và sửa cảnh cây cầu theo canon (xem ch45-ds-kiem). Bản aurel-main chưa có ch45. Chat arc 7 (ch45–46): https://chat.deepseek.com/a/chat/s/eb3f56b4-33d5-4d20-95d9-f931c441e2cc"

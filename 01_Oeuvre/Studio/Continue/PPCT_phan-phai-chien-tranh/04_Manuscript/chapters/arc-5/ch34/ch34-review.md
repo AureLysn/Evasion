@@ -10,7 +10,7 @@ chapter: 34
 canon_layer: user_canon
 status: active
 aliases: ["review ch34 PPCT", "soat ch34", "check-continuity ch34", "check-style ch34", "toi gan review"]
-related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[hook-to-caster-khac-che-to-saber]]", "[[kirei-van-la-master]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[hook-to-caster-khac-che-to-saber]]", "[[kirei-van-la-master]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 24/09/2026, tren ban nhap ch34 (1.791 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."

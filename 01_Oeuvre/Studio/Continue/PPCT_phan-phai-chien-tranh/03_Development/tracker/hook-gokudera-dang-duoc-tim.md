@@ -5,7 +5,7 @@ scope: project
 lane: personal
 project: PPCT
 canon_layer: fic_explicit
-status: partially_paid
+status: open
 importance: major
 introduced:
   arc: chien-tranh-chen-thanh
@@ -15,13 +15,13 @@ payoff:
   arc:
   chapter:
 aliases: ["Gokudera dang duoc tim", "Dazai tim Gokudera", "一条狗，如果连找到主人都做不到", "mot mat xich trong muc tieu"]
-related: ["[[gokudera]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[q-dazai-tim-gokudera-de-lam-gi]]"]
+related: ["[[gokudera]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1, ch2"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -42,8 +42,7 @@ Dazai tìm một người **hắn chưa từng gặp**, gọi người đó là 
 |---|---|
 | ch1–2 | Gieo |
 | ch3–15 | Không nhắc lại |
-| ch18 *(viết tiếp)* | Gokudera lên trang **trong ký ức thế giới A**. Nhật ký nói lý do tìm: 「一条狗总会回到主人身边」 — tìm để lần tới Tsuna; 「所以那场寻找，已经没有意义了」. **Chưa** dừng việc tìm trên trang. `status` → `partially_paid` *(Aurel 15/09)* — [[dazai-tim-gokudera-lam-dau-moi]] · [[dazai-mo-mot-buoi-sang-o-vongola]] |
 
 ## Phương án payoff đang cân nhắc
 
-Cách đọc của Aurel: [[q-dazai-tim-gokudera-de-lam-gi]].
+Cách đọc của Aurel: q-dazai-tim-gokudera-de-lam-gi.

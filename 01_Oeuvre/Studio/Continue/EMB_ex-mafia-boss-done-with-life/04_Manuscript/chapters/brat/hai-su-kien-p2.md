@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["hai su kien P2", "hai su kien roi", "P2 khong phai chuoi", "mo hinh Part 2", "khong co lien ket", "trang thai cuoi nam 6"]
-related: ["[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[dot8d-thu-tu-p2]]", "[[y-chinh-cac-arc]]", "[[brat-con-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel's statement quoted under 'Aurel chot' in the note; the note records no date for it (last_updated 2026-08-16); source block added 2026-11-13 from the note's own text"
@@ -28,7 +28,7 @@ last_updated: 2026-08-16
 
 ## Vì sao đây là cách gỡ đúng
 
-[[dot8d-thu-tu-p2]] tìm ra một cái nút không có lối thoát: Kawahira là đồng minh ở Ch1 nhưng Ch2 là lần gặp đầu tiên, nên Ch1 phải ở sau — mà như thế thì cliffhanger của Ch2 đã bị chương trước làm hỏng.
+dot8d-thu-tu-p2 tìm ra một cái nút không có lối thoát: Kawahira là đồng minh ở Ch1 nhưng Ch2 là lần gặp đầu tiên, nên Ch1 phải ở sau — mà như thế thì cliffhanger của Ch2 đã bị chương trước làm hỏng.
 
 **Cái nút chỉ tồn tại nếu ta buộc hai chương thành một chuỗi.** Bỏ giả định đó thì nút tự tan.
 
@@ -90,7 +90,7 @@ Nó thành **một sự kiện rời nữa**, viết được ở bất kỳ đ�
 
 Nếu nguyên tác dùng cấu trúc *"chỉ kể những gì đáng kể"*, thì nhánh **cũng được**. Một arc không nhất thiết là chuỗi chương liền mạch — nó có thể là **một loạt sự kiện đặc biệt** cách nhau vài tháng.
 
-🔴 Điều này đổi cả cách ước lượng độ dài. ~46–52 chương ở [[khung-sau-arc]] tính theo mô hình liền mạch. Theo mô hình vignette, **cùng mười hai năm có thể gọn hơn** mà không mất gì.
+🔴 Điều này đổi cả cách ước lượng độ dài. ~46–52 chương ở khung-sau-arc tính theo mô hình liền mạch. Theo mô hình vignette, **cùng mười hai năm có thể gọn hơn** mà không mất gì.
 
 ## ⚠️ Cái giá — phải nhận cho rõ
 
@@ -108,5 +108,5 @@ Nếu nguyên tác dùng cấu trúc *"chỉ kể những gì đáng kể"*, th�
 
 - [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]] — đổi từ *"điểm dừng"* sang **ảnh chụp trạng thái**
 - [[p2-ch1]] · [[p2-ch2]] — bỏ ngôn ngữ chuỗi, ghi mỗi cái là một sự kiện độc lập
-- [[brat-con-lai]] — dựng lại hoàn toàn
-- [[khung-sau-arc]] — xem lại ước lượng chương
+- brat-con-lai — dựng lại hoàn toàn
+- khung-sau-arc — xem lại ước lượng chương

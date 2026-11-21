@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn2-07 ban DeepSeek nhap", "phiên ngoại tu la tràng DeepSeek", "反派战争 番外十一 修罗场 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-07-ds-the-canh]]", "[[pn2-07-ds-kiem]]", "[[deepseek-20261115]]", "[[pn2-06-ds-nhap]]", "[[pn2-05-ds-nhap]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-07-ds-the-canh]]", "[[pn2-07-ds-kiem]]", "[[pn2-06-ds-nhap]]", "[[pn2-05-ds-nhap]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E và ba bản 代价 (C-b, ~1.300 chữ Hán); GPT chấm (chọn 代价二, sửa cơ chế) và đọc thử; Claude kiểm canon, viết bù lên ~2.000 chữ theo các điểm đã kiểm (xem pn2-07-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/fe98b997-9a43-47ae-b615-7a4d9b863610"

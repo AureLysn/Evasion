@@ -18,7 +18,7 @@ target_paragraph_mean: 38
 target_sentence_median: 16
 status: planned
 aliases: ["canh 20-02 mon no", "Dazai doi bu dap", "mot ngay khong co chien tranh"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-doi-bu-dap]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]", "[[gia-dinh-cua-tsuna-la-dazai]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-doi-bu-dap]]", "[[gia-dinh-cua-tsuna-la-dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -52,7 +52,7 @@ Món nợ ch10 được nói thành một yêu cầu cụ thể — và yêu c�
 
 - ch10: 「那么纲吉要给我补偿。」 — [[hook-dazai-doi-bu-dap]]
 - ch11: Dazai quẹt thẻ đen mua cả núi quần áo cho Tsuna, cùng ngày hắn đòi bù đắp
-- ch18 *(viết tiếp)*: Dazai đã kể cho Tsuna giấc mơ một buổi sáng ở Vongola — [[dazai-mo-mot-buoi-sang-o-vongola]]
+- ch18 *(viết tiếp)*: Dazai đã kể cho Tsuna giấc mơ một buổi sáng ở Vongola — dazai-mo-mot-buoi-sang-o-vongola
 - [[gia-dinh-cua-tsuna-la-dazai]]: ở thế giới B, "gia đình" của Tsuna là Dazai
 
 ## Kết cảnh phải đạt được gì

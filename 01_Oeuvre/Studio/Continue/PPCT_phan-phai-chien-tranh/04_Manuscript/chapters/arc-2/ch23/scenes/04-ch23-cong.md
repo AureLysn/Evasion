@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 23-04 cong", "Dazai mang cong tay", "goi canh sat an danh", "手铐 ch23"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[ryunosuke-gay-an-khong-servant]]", "[[khu-nha-ryunosuke]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-21
 ---
@@ -49,7 +49,7 @@ Xả áp lực sau cảnh 3, bằng đúng giọng nhà của hai người. Tổ
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- Chốt 15/09: tổ Caster **bắt** hắn — [[ryunosuke-gay-an-khong-servant]]
+- Chốt 15/09: tổ Caster **bắt** hắn — ryunosuke-gay-an-khong-servant
 - C3 (Aurel 21/09): còng, gọi cảnh sát ẩn danh, rời đi. **Không** giao cho Nhà thờ.
 - Chiếc còng là **chi tiết mới** của bản viết tiếp. Nguồn gốc không nói, và không nối vào quá khứ nào của Dazai.
 

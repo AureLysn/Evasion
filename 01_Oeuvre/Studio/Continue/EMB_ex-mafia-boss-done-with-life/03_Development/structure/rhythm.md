@@ -1,4 +1,4 @@
-﻿---
+---
 id: info.EMB.rhythm
 type: info
 scope: project
@@ -7,7 +7,7 @@ project: EMB
 canon_layer: high_confidence_inference
 status: active
 aliases: ["nhip truyen", "rhythm", "pacing", "do dai chuong", "khoang tra hook", "payoff gap", "hook ledger", "leo thang", "escalation", "thay doi trang thai", "state change", "bai toan 12 nam"]
-related: ["[[tropes]]", "[[character-arcs]]", "[[hooks/_MOC|hooks]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[ao3-tags]]", "[[emb-chot-sau-p2-ch2]]", "[[tuoi-va-moc]]"]
+related: ["[[tropes]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[ao3-tags]]", "[[emb-chot-sau-p2-ch2]]", "[[tuoi-va-moc]]"]
 source:
   type: measured
   ref: "Do 17/09/2026: hook_ledger.py tren 05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life (exit 1, chi canh bao); word_count cua 5 note chapter_summary (than chuong tu personal-bulk:fiction-sources/EMB/raw/); dem 23 note events/ theo truong date.chapter; tieu de chuong tu 2 file HTML."
@@ -16,7 +16,7 @@ confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structure, pacing]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Nhịp — số đo được
@@ -50,9 +50,9 @@ Chạy từ gốc vault, 17/09 → **exit 1** *(chỉ cảnh báo)*. Trước kh
 | Khoảng trả | **1 chương** — n = 1 *(`nana-iemitsu-cuoi-nhau`, P1 Ch1 → Ch2)*. Quá ít để làm mốc |
 | Mở lâu nhất | [[hook-iemitsu-tra-gia]] — gieo P1 Ch1 |
 
-### 🔴 Công cụ đếm cả sáu chương AI đã superseded
+### 🔴 Công cụ không lọc `status`
 
-`hook_ledger` báo **11 chương** — 5 chương gốc cộng `BratArc-Chuong3` … `Chuong8` *(bản v3, `status: superseded`)*. Nó không lọc `status`, nên mọi con số *"mở N chương"* bị **cộng thêm 6**.
+`hook_ledger` từng báo **11 chương** vì đếm cả sáu chương AI bản v3 *(đã xóa 21/11/2026)*. Nó không lọc `status`: khi có chương chưa duyệt, mọi con số *"mở N chương"* sẽ bị cộng thêm.
 
 Đếm lại chỉ trên **5 chương gốc**:
 

@@ -17,12 +17,12 @@ payoff:
 aliases: ["Nana Iemitsu", "vi sao cuoi nhau", "loi hua tac gia", "explanation", "hon nhan Sawada", "co che Flame hon nhan"]
 related: ["[[kojiro]]", "[[kyuuto]]", "[[nana]]", "[[iemitsu]]", "[[fact-iemitsu-sky-ngoai]]", "[[ao3-comments]]", "[[hook-iemitsu-tra-gia]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Nana và Iemitsu — **lời hứa đã trả phần lớn**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > 🔴 **Note này đã bị hạ cấp.** Bản trước xếp nó là *"hook giá trị nhất để viết tiếp"* và ghi *"chưa trả cả hai"*. **Sai.** Lời giải thích **nằm ngay trong P1 Ch2** — mình bỏ sót vì đọc comment trước rồi kết luận trước khi đọc kỹ thân truyện.
 
@@ -69,4 +69,4 @@ Cả hai là chất liệu tốt, nhưng chúng **chi tiết hoá một lời gi
 
 ## Bài học cho quy trình
 
-Sai lầm ở đây có dạng cụ thể: **đọc nguồn dẫn xuất (comment, lời hứa) trước nguồn sơ cấp (thân truyện), rồi để kết luận từ nguồn dẫn xuất đứng nguyên.** Đúng thứ tự là đọc thân truyện trước, dùng comment để bổ sung — không phải ngược lại. Xem [[AGENTS]] §6.
+Sai lầm ở đây có dạng cụ thể: **đọc nguồn dẫn xuất (comment, lời hứa) trước nguồn sơ cấp (thân truyện), rồi để kết luận từ nguồn dẫn xuất đứng nguyên.** Đúng thứ tự là đọc thân truyện trước, dùng comment để bổ sung — không phải ngược lại. Xem [[CLAUDE]] §6.

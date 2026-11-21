@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-cha-la-iemitsu-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "arc 1"
+  arc:
   chapter: "canh dau co gia dinh Tsuna"
 decision_owner: "user"
 aliases: ["cha cua Tsuna", "cha Tsuna", "Iemitsu TDTB", "nhân viên xí nghiệp tư nhân", "gia đình Sawada"]
@@ -21,12 +21,12 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Cha của Tsuna trong TDTB là ai?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-cha-la-iemitsu-tdtb]]. Iemitsu. Giả thuyết của Aurel về nhân vật **chưa có nguồn** mà TDTB được đọc. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
+> ✅ **Đã giải 28/09/2026** → [[qd-cha-la-iemitsu-tdtb]]. Iemitsu. Giả thuyết của Aurel về nhân vật **chưa có nguồn** mà TDTB được đọc. Nguyên văn: 20260928-tra-loi-plan-continuation.
 
 > ⚠️ Đây là câu hỏi CHƯA CHỐT. Không phương án nào dưới đây được dùng như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 
@@ -36,7 +36,7 @@ ch3 chỉ ghi *"Phụ thân là nào đó xí nghiệp tư nhân nhân viên"*. 
 
 ## Cần chốt trước
 
-Arc: arc 1 · Chương: canh dau co gia dinh Tsuna
+Cần trước: canh dau co gia dinh Tsuna
 
 ## Ai quyết
 

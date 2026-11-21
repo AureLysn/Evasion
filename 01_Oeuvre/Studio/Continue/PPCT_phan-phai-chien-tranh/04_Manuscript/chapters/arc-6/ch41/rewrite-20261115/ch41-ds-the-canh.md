@@ -10,7 +10,7 @@ chapter: 41
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch41 ban DeepSeek", "thẻ cảnh ch41 bản song song", "ch41 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan|plan ch41]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch35-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch38-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan|plan ch41]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch35-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch38-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch41-plan + 4 thẻ scenes/ (Aurel duyệt C1–C11 30/09/2026). Không dùng văn bản ch41-chapter final."

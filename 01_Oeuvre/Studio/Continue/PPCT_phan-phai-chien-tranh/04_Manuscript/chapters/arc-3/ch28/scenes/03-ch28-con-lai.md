@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 28-03 con lai", "余下的 ch28", "dem Servant con lai", "khep arc 3", "duoi ch28"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]", "[[lancer-chet-trong-quyet-dau]]", "[[arc-3-hai-cay-thuong]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -53,11 +53,11 @@ Khép arc 3 bằng một **phép đếm** *(C5)* — và một hình ảnh nhà.
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch17: Rider mở Ionioi Hetairoi, diệt sạch Assassin — [[assassin-tap-kich-vuong-yen]].
+- ch17: Rider mở Ionioi Hetairoi, diệt sạch Assassin — assassin-tap-kich-vuong-yen.
 - ch15 (nguyên tác): Archer tuyên chiến Rider — [[hook-archer-tuyen-chien-rider]].
 - Tác giả: Tsuna không thắng nổi Archer khi đối đầu trực diện; muốn thắng phải có Dazai — [[hook-can-dazai-de-thang-archer]] · [[fact-tsuna-khong-thang-noi-archer]].
 - ch26: Dazai 「以前这盘棋我闭着眼睛都知道下一步，现在不知道了；纲吉，不知道可比知道有意思多了。」 — **không** lặp nguyên văn.
-- ch27: Lancer chết — [[lancer-chet-trong-quyet-dau]].
+- ch27: Lancer chết — lancer-chet-trong-quyet-dau.
 
 ## Kết cảnh phải đạt được gì
 

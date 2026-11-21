@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 37-01 tat", "tat con bo lau dai", "关掉虫子", "giu loi hua ch36"]
-related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[to-caster-gap-kiritsugu]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-25
 ---

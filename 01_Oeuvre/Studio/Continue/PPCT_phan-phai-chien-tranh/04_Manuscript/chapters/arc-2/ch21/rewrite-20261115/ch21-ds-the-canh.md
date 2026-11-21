@@ -10,7 +10,7 @@ chapter: 21
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch21 ban DeepSeek", "thẻ cảnh ch21 bản song song", "ch21 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Diarmuid-Ua-Duibhne]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[hard-rules]]", "[[ai-tells]]", "[[Diarmuid-Ua-Duibhne]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch21-plan + 4 thẻ scenes/ (Aurel duyệt 20/09/2026). Không dùng văn bản ch21-chapter final."

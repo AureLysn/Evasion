@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-10-11
 aliases: ["thien su the gioi song song", "thien su cung nhan vat khac cot truyen", "thien su SI OC vao TDTB", "persona thien su TDTB"]
-related: ["[[20261011-thien-su-song-song]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/SI_OC/Dao_si/thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[20261011-thien-su-song-song]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/SI_OC/Dao_si/thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel 11/10/2026 — sources/user-input/20261011-thien-su-song-song.md"
@@ -17,7 +17,7 @@ confidence: 0.9
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Thiên sư SI OC vào TDTB là **cùng nhân vật và thiết lập, cốt truyện khác (thế giới song song)**
@@ -65,7 +65,7 @@ Nguồn: [[20261011-thien-su-quen-tsuna-co-che-to-doi]].
 
 - **Quen Tsuna từ lúc đầu làm nhiệm vụ.**
 - **Vấn đề của cô đã được giải quyết** *(cách giải quyết Aurel không nói)*, nhưng cô **có đồng đội** và **muốn du lịch các thế giới khác** nên vẫn làm nhiệm vụ.
-- Cách vào đội nhiệm vụ 1: xem [[qd-co-che-to-doi-nhiem-vu-tdtb]] (chia đội theo lựa chọn trùng, hoặc tổ đội chủ động gọi người quen).
+- Cách vào đội nhiệm vụ: xem [[qd-co-che-to-doi-nhiem-vu-tdtb]] (chia đội theo lựa chọn trùng, hoặc tổ đội chủ động gọi người quen).
 - Phần liên quan JJK (tri thức về arc, vai khi vào arc) **chờ nạp canon** và phân tích tâm lý nhân vật.
 
 ### Đã đóng khỏi "Chưa chốt"

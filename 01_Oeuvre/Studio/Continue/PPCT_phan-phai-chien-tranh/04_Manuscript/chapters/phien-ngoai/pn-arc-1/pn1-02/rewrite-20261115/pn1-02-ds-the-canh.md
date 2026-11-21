@@ -10,7 +10,7 @@ chapter: "pn1-02"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn1-02 ban DeepSeek", "thẻ cảnh phiên ngoại Irisviel", "pn1-02 ds PPCT", "一家人 pn1-02"]
-related: ["[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-01-ds-nhap]]", "[[ch51-ds-nhap]]", "[[ch47-ds-nhap]]", "[[ch48-ds-nhap]]", "[[ch36-ds-nhap]]", "[[20261117-canon-phien-ngoai-arc-1]]", "[[Kiritsugu-Emiya]]", "[[irisviel]]"]
+related: ["[[pn-arc-1-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-01-ds-nhap]]", "[[ch51-ds-nhap]]", "[[ch47-ds-nhap]]", "[[ch48-ds-nhap]]", "[[ch36-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[irisviel]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ pn-arc-1-ds-plan mục pn1-02 (Aurel duyệt 17/11/2026; C4–C6 để DeepSeek/GPT đề xuất) và 20261117-canon-phien-ngoai-arc-1 (Q-P2 sống lâu, đón được Illya; Q-P3 cả nhà)."

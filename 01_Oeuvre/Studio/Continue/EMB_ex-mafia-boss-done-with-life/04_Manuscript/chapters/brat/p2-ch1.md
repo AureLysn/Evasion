@@ -27,7 +27,7 @@ last_updated: 2026-09-16
 
 # P2 Ch1 — *One of many steps to take*
 
-> 🔁 **Viết lại từ nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Đối chiếu: [[20260916-p2-ch1]].
+> 🔁 **Viết lại từ nguồn 16/09/2026** trong đợt emb-lam-lai-tu-nguon. Đối chiếu: [[20260916-p2-ch1]].
 >
 > `word_count` = thân chương. POV chính **Tomoko** và **Tsuna**; có một đoạn in nghiêng giọng người kể toàn tri, và hai đoạn chỉ có thoại không ghi tên người nói.
 >

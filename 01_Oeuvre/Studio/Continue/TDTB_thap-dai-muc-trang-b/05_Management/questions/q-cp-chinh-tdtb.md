@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-cp-all27-than-tinh-tdtb]]"
 resolved_at: 2026-09-26
 needed_before:
-  arc: "outline arc 1"
-  chapter: "truoc khi len dan y arc 1"
+  arc:
+  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["CP chinh", "CP chính", "互动 ??", "all27", "8027", "5927", "6927", "pairing TDTB", "Tsuna ghép với ai"]
 related: ["[[thiet-lap-tac-gia-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[h-80-doi-tuong-to-tinh-tdtb]]", "[[h-khach-moi-moi-deu-chon-tsuna-tdtb]]"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # CP chính của phần viết tiếp là ai?
@@ -36,7 +36,7 @@ Trang JJWXC ghi nhân vật chính **27** (视角) và ô 互动 (người tươ
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc khi len dan y arc 1
+Cần trước: truoc khi lap khung
 
 ## Ai quyết
 

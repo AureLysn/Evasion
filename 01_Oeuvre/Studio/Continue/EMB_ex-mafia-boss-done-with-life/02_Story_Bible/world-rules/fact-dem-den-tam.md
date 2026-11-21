@@ -16,17 +16,15 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, load-bearing, prophecy]
-last_updated: 2026-08-16
+last_updated: 2026-11-21
 ---
 
 # **"Đếm đến tám"** — Kimiko đã chỉ Kawahira tới đúng Tsuna
 
-> 🔴 **Sửa ở đợt 8m.** *"Đếm đến tám"* **không phải một câu đố về Tsuna**. Nó là **lời hứa thứ hai của Kimiko dành cho Kawahira**, cho không kèm điều kiện: *"if I wait in this town and count to eight, **I'll get to my ninth tail**."*
+> 🔴 *"Đếm đến tám"* **không phải một câu đố về Tsuna**. Nó là **lời hứa thứ hai của Kimiko dành cho Kawahira**, cho không kèm điều kiện: *"if I wait in this town and count to eight, **I'll get to my ninth tail**."*
 >
 > Tức bà sắp xếp **việc giải phóng Kawahira** trước bốn trăm năm, và Tsuna là **số tám**. Xem [[fact-hibari-sakura]].
 
-
-> 🔴 Đây là phát hiện lớn nhất của đợt 5, và nó khoá lại bốn note rời rạc thành một chuỗi.
 
 ## Nguyên văn
 
@@ -65,9 +63,9 @@ Và đó chính xác là thứ [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-maf
 
 Kimiko bảo ông đợi người thứ tám. Người thứ tám vừa xuất hiện và **lập tức đề nghị đúng cái ông muốn**.
 
-## 🔴 Đợt 7 — không còn là "chỗ nứt", mà là **hai hệ đếm song song**
+## 🔴 Không phải "chỗ nứt", mà là **hai hệ đếm song song**
 
-Đợt 5 đọc chỗ này như một mâu thuẫn (Kimiko nói **tám**, gia tộc nói **mười**). Đợt 7 tìm ra nguyên văn lời tiên tri, và **không có mâu thuẫn nào**:
+Kimiko nói **tám**, gia tộc nói **mười**. Nguyên văn lời tiên tri cho thấy **không có mâu thuẫn nào**:
 
 > *"An emperor shall come to the Sawada. **He will be a tenth, borne on a throne.**"* → **Vongola Decimo**, không phải thế hệ thứ mười
 
@@ -80,21 +78,6 @@ Hai hệ khác nhau, cùng trỏ vào một người. Xem [[fact-loi-tien-tri-mu
 
 **Cái sai không phải của Kimiko mà của hội đồng trưởng lão** — họ đọc "thứ mười" thành thế hệ nhà mình. Musashi cũng đọc sai đúng ba giây trước khi tự sửa.
 
-## Bản đợt 5 — giữ lại để truy vết
-
-| | Con số |
-|---|---|
-| Lời tiên tri của nhà [[sawada-tu-te]] | **MƯỜI** |
-| [[kimiko]] nói với Kawahira | **TÁM** |
-| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] thật sự là | **TÁM** |
-
-**Kimiko đúng. Hội đồng trưởng lão nhà Sawada sai.**
-
-Bà biết trước — bà là [[fact-kimiko-amenokagami|Amenokagami no Shinkyo]], người **thấy trước tương lai**. Bà biết con số thật, và **nói nó cho Kawahira chứ không nói cho nhà Sawada**.
-
-[[musashi]] kinh hoàng vì *"quá sớm, sớm hai thế hệ"* — trong khi một người đã chết từ nhiều thế kỷ trước **đã tính đúng ngay từ đầu**, và đã bố trí một thực thể cổ đại đứng chờ sẵn ở đúng thị trấn.
-
-Xem [[fact-loi-tien-tri-muoi]].
 
 ## Bốn thứ bây giờ đọc khác đi
 

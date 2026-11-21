@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Natsu", "Tomoshibi", "Tomo", "den nho", "cao", "con cao", "kudagitsune", "kuda-gitsune", "cao ong", "pipe fox", "nguoi ban cu", "vu khi hop cu", "cai trong ong tre"]
-related: ["[[tsuna]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[kawahira]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[fact-cao-la-natsu]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[brat-dan-y-chuong]]", "[[bon-lan-can]]", "[[kitsune-phan-loai]]", "[[natsu-phan-cu]]"]
+related: ["[[tsuna]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[kawahira]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[fact-cao-la-natsu]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[bon-lan-can]]", "[[kitsune-phan-loai]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16 — cong xac nhan cua tac gia goc trong comment AO3"
@@ -18,12 +18,12 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, load-bearing, thesis-echo]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Natsu — **và con cáo từng là Natsu**
 
-> 🔁 **01/10/2026.** Cái tên *Tomoshibi* thuộc Brat Ch3 **đã lưu trữ**. Aurel đang nghĩ **giữ tên Natsu, với một nghĩa khác**; chưa chốt — [[q-ten-con-cao]]. Cho tới khi chốt, gọi nó là *con cáo*.
+> 🔁 **01/10/2026.** Cái tên *Tomoshibi* thuộc bản nháp arc Brat **đã xóa**. Aurel đang nghĩ **giữ tên Natsu, với một nghĩa khác**; chưa chốt — [[q-ten-con-cao]]. Cho tới khi chốt, gọi nó là *con cáo*.
 
 ## Aurel chốt: **người bạn cũ = Natsu**
 
@@ -80,7 +80,7 @@ Cơ chế khớp ba tầng:
 
 ⚠️ Nhưng **không được là thuốc chữa hoàn toàn.** Tác giả xác nhận Tsuna vẫn **phải lớn lên** mới đưa lõi về crux. Cáo làm **dứt các cơn phiêu tán**, không làm cậu lành.
 
-→ ✅ Điều này trả lời chỗ chặn thứ ba của [[brat-dan-y-chuong]]: **các cơn trôi dạt dứt ở Arc 2, nhờ cáo** — và đó cũng là lý do chúng **biến mất khỏi P2 Ch1**.
+→ ✅ Điều này trả lời một câu của dàn ý cũ: **các cơn trôi dạt dứt ở arc Brat, nhờ cáo** — và đó cũng là lý do chúng **biến mất khỏi P2 Ch1**.
 
 ## 🔴 Vấn đề danh tính — **Aurel viết ra, và nó là thứ hay nhất**
 

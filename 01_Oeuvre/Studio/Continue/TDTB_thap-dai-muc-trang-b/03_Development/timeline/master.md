@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["dong thoi gian TDTB", "dòng thời gian TDTB", "timeline TDTB", "moc thoi gian TDTB", "ngày 1 ngày 2 TDTB", "S1 ngày quay đầu", "S2 ngay quay thu hai", "S2 kết tập 1", "4 năm trước", "4 nguyệt 1 hào"]
-related: ["[[u-linh-omega-tdtb]]", "[[tsuna-thang-yuki-tdtb]]", "[[show-tap-1-so-ngo-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[q-truong-va-hoc-ky-tdtb]]", "[[q-thuoc-uc-che-da-mua-lai-chua-tdtb]]", "[[tsuna-dua-nuoc-cho-tro-ly-thu-am-tdtb]]", "[[ket-tap-1-khong-ai-xuong-xe-tdtb]]", "[[master-tdtb-phan-cu]]"]
+related: ["[[u-linh-omega-tdtb]]", "[[tsuna-thang-yuki-tdtb]]", "[[show-tap-1-so-ngo-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[q-truong-va-hoc-ky-tdtb]]", "[[q-thuoc-uc-che-da-mua-lai-chua-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch1-ch15; ngay dang chuong tu trang JJWXC"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.85
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Dòng thời gian — TDTB
@@ -28,7 +28,7 @@ last_updated: 2026-10-03
 
 - **D1** = ngày của ch1 (Tsuna đi chơi thử cơ giáp). **D2** = hôm sau.
 - **S1** = ngày quay đầu tiên của show (ch9–15). Khoảng cách D2 → S1 **không nêu**.
-- **S2** = ngày quay thứ hai, cũng là ngày cuối của tập 1 ([[qd-moi-tap-hai-ngay-tdtb]]) — *viết tiếp*: rạng sáng ở ch16, trọn ngày ở [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]]. Sau S2 khách về nhà *"这几天"* trước tập 2 (ch17; số ngày **không nêu**).
+- **S2** = ngày quay thứ hai, cũng là ngày cuối của tập 1 ([[qd-moi-tap-hai-ngay-tdtb]]).
 - **TW** = thời gian trong thế giới nhiệm vụ, **trôi riêng**, không cộng vào lịch đời thực.
 - Tuổi Tsuna hiện tại: **19** (ch3).
 
@@ -54,15 +54,7 @@ last_updated: 2026-10-03
 | **S1**, ban ngày | Tới biệt thự, mặt nạ, Sơ Ngộ. Tuyết chọn Tsuna. 巨蛋体育场 (Cự Đản; nguyên văn ch10.42, ch10.50 — không phải "Tokyo Dome"). Yamamoto ôm Tsuna. Dạy đánh bóng | show-tap-1 | ch9–ch13 | [[show-tap-1-so-ngo-tdtb]] · [[yamamoto-gap-tsuna-tokyo-dome-tdtb]] |
 | **S1**, trưa/chiều | Gokudera ở Narita. Họp báo *"xế chiều hôm nay"* bị bỏ | show-tap-1 | ch13 | [[gokudera-den-nhat-tdtb]] |
 | **S1**, tối | Tiệc nướng. Tuyết bỏ thuốc Yamamoto ở vườn | show-tap-1 | ch14, ch15 | [[loc-da-tuyet-bo-thuoc-yamamoto-tdtb]] |
-| **S1**, đêm | Yamamoto vào phòng Tsuna. Tổ đạo diễn họp, Kenichi nghe lén. **Truyện gốc dừng** — *viết tiếp từ ch16, hiện tới ch17 (các dòng dưới)* | show-tap-1 | ch15 | [[yamamoto-den-phong-tsuna-tdtb]] · [[kenichi-nghe-len-tdtb]] |
-| **S2**, rạng sáng *(viết tiếp)* | Tuyết (phòng riêng, camera tắt) nhận kết quả của 0038: Yamamoto *"数据正常，未发现漏洞"*; trả 100 积分 gọi 完整档案调阅 về Tsuna — tờ hồ sơ cũ + một mệnh đề "dân mạng tự đối ra đây là khách 纲吉"; định cho Tsuna **điểm thấp nhất** tối nay | show-tap-1 | [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] | [[h-0038-kiem-tra-yamamoto-tdtb]] |
-| **S1**, đêm → **S2**, rạng sáng *(viết lại 03/10)* | Yamamoto ngủ lại phòng Tsuna; khăn lạnh, không gọi ai; **tâm tình** (*"多了个朋友"*); thuốc giữ, điểm 37. Sáng Yamamoto ra khỏi phòng trước giờ quay; **Kenichi thấy** | show-tap-1 | ch16 |
-| **S2**, ban ngày *(viết lại 03/10)* | Yamamoto có mặt. Bếp: toàn thể khách nấu trưa; Tsuna ngã, vo gạo, *"米"*; Tuyết liếc → góc bếp, nước cho trợ lý thu âm. **Bữa trưa: Kenichi móc → Yamamoto đáp → Kenichi hạ thấp Yamamoto → Tsuna *"请你收回去"* → Kenichi xin lỗi, rời bàn; Tsuna gọi 武, cười** | show-tap-1 | ch17 |
-| **S2**, tối *(viết lại 03/10)* | Phòng khách: cảm tưởng (Tuyết *"不用勉强"*, Tsuna đồng ý); phỏng vấn riêng + phiếu (Tsuna tự chấm 3, 5 điểm mỗi người); **không ai xuống xe** | show-tap-1 | ch17 |
-| **S2**, tối (sau quay) *(viết lại 03/10)* | Xe show đưa khách về (giữa tập 1 và 2: vài ngày). **Cùng lúc, 并盛: Gokudera trước nhà biển tên 沢田, đèn tắt, chờ** | show-tap-1 | ch17 |
-| **S2**, tối → **S3**, sáng *(viết tiếp)* | 并盛: Gokudera rình cả đêm trước nhà 沢田; sáng thấy nhà bỏ hoang | giữa-tập-1-2 | ch18 |
-| **Nghỉ giữa tập 1 và 2** (vài ngày) | 并盛: Gokudera hỏi hàng xóm, 町役场 (từ chối), trường 并盛 (không cho vào); chưa tìm ra. Tsuna ở ký túc xá, nhận thông báo tập 2 | giữa-tập-1-2 | ch18 |
-| **Nghỉ giữa tập**, một đêm | Tsuna vào 中转站, chọn đi nhiệm vụ → **arc 2** | giữa-tập-1-2 | ch18 |
+| **S1**, đêm | Yamamoto vào phòng Tsuna. Tổ đạo diễn họp, Kenichi nghe lén. **Truyện gốc dừng** — mốc state để lập kế hoạch | show-tap-1 | ch15 | [[yamamoto-den-phong-tsuna-tdtb]] · [[kenichi-nghe-len-tdtb]] |
 
 ## Mốc đếm ngược đang chạy
 

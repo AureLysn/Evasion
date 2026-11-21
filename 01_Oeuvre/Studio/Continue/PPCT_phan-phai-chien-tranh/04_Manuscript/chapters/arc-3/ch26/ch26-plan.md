@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.250"
 aliases: ["plan ch26 PPCT", "dan y chuong 26 PPCT", "chuong nha ch26", "giac mo ch26", "toi ngay 7 PPCT"]
-related: ["[[arc-3-hai-cay-thuong]]", "[[gae-buidhe-bi-pha]]", "[[to-caster-biet-lenh-chu-doi-tay]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-bo-sung-ma-luc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-bo-sung-ma-luc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — Aurel duyet ca C1–C6 theo de xuat, 22/09/2026"
@@ -29,7 +29,7 @@ last_updated: 2026-09-22
 
 ## Mục tiêu chương
 
-Chương nhà giữa hai trận, đúng vai [[arc-3-hai-cay-thuong]] giao cho nó. Tổ Caster tiêu hoá chuyện sáng nay: lợi thế giữ từ ch4 đã mất, và Sola-Ui vừa hứa một điều về lệnh chú. Rồi Dazai **trả lời câu hỏi ch23** mà hắn đã lảng: có mơ không, mơ thấy gì. Chương kết bằng một câu hướng về đêm mai.
+Chương nhà giữa hai trận, đúng vai arc-3-hai-cay-thuong giao cho nó. Tổ Caster tiêu hoá chuyện sáng nay: lợi thế giữ từ ch4 đã mất, và Sola-Ui vừa hứa một điều về lệnh chú. Rồi Dazai **trả lời câu hỏi ch23** mà hắn đã lảng: có mơ không, mơ thấy gì. Chương kết bằng một câu hướng về đêm mai.
 
 ## Beat bắt buộc
 

@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna-nho, character.PPCT.kiritsugu]
 language: zh
 aliases: ["pn4-03 ban DeepSeek nhap", "phiên ngoại Kiritsugu mất ngủ DeepSeek", "反派战争 番外二十七 失眠的切嗣 DeepSeek"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-03-ds-the-canh]]", "[[pn4-03-ds-kiem]]", "[[deepseek-20261115]]", "[[pn4-02-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[Uni]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn4-03-ds-the-canh]]", "[[pn4-03-ds-kiem]]", "[[pn4-02-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[Uni]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết sáu khối, ba bản 舞弥 (C-a) và ba bản 档案 (C-b); GPT chấm (舞弥一 + 三; 档案二) và đọc thử (dừng ở điểm 3/11); Claude kiểm và sửa (xem pn4-03-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/d9c56897-edba-45c0-98c3-086e7998a5cf"

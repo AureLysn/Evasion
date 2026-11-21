@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn3-04 ban DeepSeek nhap", "phiên ngoại công chúa bị bắt cóc DeepSeek", "反派战争 番外十七 被绑架的公主 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-04-ds-the-canh]]", "[[pn3-04-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-03-ds-nhap]]", "[[Uni]]", "[[Byakuran-Gesso]]", "[[Luce]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-04-ds-the-canh]]", "[[pn3-04-ds-kiem]]", "[[pn3-03-ds-nhap]]", "[[Uni]]", "[[Byakuran-Gesso]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 家人 (C-a) và một đoạn Q (C-b); GPT chấm (chọn 家人二 + cuộc gọi báo địa chỉ, bỏ Q) và đọc thử; Claude kiểm, viết bù lên ~2.000 chữ (xem pn3-04-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/90db97db-a4ba-4dab-bb48-779e52e88e11"

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Kazuki", "nguoi lam vuon nha Sawada", "gardener", "Chiyu nha Sawada", "nguoi dung khien Flame vang", "Kazuki-san", "Kazuki-kun"]
-related: ["[[musashi]]", "[[tsuna]]", "[[nagi]]", "[[ayame]]", "[[author-notes]]", "[[p2-ch2]]", "[[kazuki-phan-cu]]"]
+related: ["[[musashi]]", "[[tsuna]]", "[[nagi]]", "[[ayame]]", "[[author-notes]]", "[[p2-ch2]]"]
 source:
   type: author_comment
   ref: "End Notes P2 Ch2 + than truyen P2 Ch2"
@@ -17,12 +17,12 @@ flame: Chiyu (Sun)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, minor, household]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Kazuki — *Chiyu* · người làm vườn nhà Sawada
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Tác giả nói thẳng
 
@@ -34,7 +34,7 @@ End Notes của P2 Ch2 — [[author-notes]]:
 
 Cảnh mở P2 Ch2: Tsuna đứng dầm mưa, Nagi chạy tới với chiếc *janome*, và **một người hầu theo sau dựng khiên Flame vàng** che hai đứa.
 
-**Vàng = `Chiyu` = Sun = Kazuki.** Trước đợt 8b, chapter summary ghi đó là *"một người hầu"* không tên.
+**Vàng = `Chiyu` = Sun = Kazuki.** Chapter summary cũ từng ghi đó là *"một người hầu"* không tên.
 
 ⚠️ Và câu đùa của tác giả có một tầng thật: người suýt lên cơn đau tim **là người có Sun Flame**, tức là người **tự chữa được cho mình**. Tác giả không nói ra tầng đó.
 

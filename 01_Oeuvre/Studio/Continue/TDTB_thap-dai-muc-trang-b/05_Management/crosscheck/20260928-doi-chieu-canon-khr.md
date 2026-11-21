@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: high_confidence_inference
 status: active
 aliases: ["doi chieu canon KHR TDTB", "crosscheck canon TDTB", "TDTB lech canon KHR", "bang phan loai canon TDTB"]
-related: ["[[20260925-trich-xuat-lan-1]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[dan-y-ch16-ch19-tdtb]]", "[[chia-arc-huong-b-tdtb]]", "[[trope-fandom-khr]]"]
+related: ["[[20260925-trich-xuat-lan-1]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[trope-fandom-khr]]"]
 source:
   type: inference
   ref: "crosscheck-canon 28/09/2026 (Mode 1 + Mode 2). Canon: 10 note moi trong Database/Fandom/KHR do researcher-canon ghi cung ngay (ja.wikipedia, en.wikipedia, snippet reborn.fandom) + cac note KHR co san. Phia fic: note TDTB (fic_explicit ch1-15) va decisions"
@@ -16,7 +16,7 @@ confidence: 0.7
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Đối chiếu TDTB với canon KHR — 28/09/2026
@@ -63,13 +63,7 @@ last_updated: 2026-09-28
 thành găng khắc X; Leon nở kén sinh ra X-Gloves và đạn Khiển trách. Aurel xác nhận cùng ngày: găng có hai dạng, và "Tsuna" là chơi chữ
 đồng âm với 27. ⇒ **"27" có trong canon.** Dòng của note Tsuna đã sửa, có gạch và ghi ngày; note Leon lên confidence 0,8.
 
-## Ảnh hưởng tới dàn ý ch16–19
-
-- **Không** beat nào trái canon. Nhà Sawada ở Namimori, Nana nội trợ và không biết thế giới ngầm, Gokudera gọi *"十代目"*: đều khớp.
-- Nana nhắc chồng thì một câu trung tính là đủ; vỏ bọc "giàn khoan dầu" là canon, dùng được nếu cần ([[Iemitsu-Sawada]]).
-- [[h-leon-la-ai-tdtb]] có đáp án canon cho **người đọc**. Tsuna thì vẫn không biết (không được biết kiếp trước).
-
 ## Chưa làm
 
-- Note canon cho **Vongola Hyper Intuition**, **CEDEF**, **Cavallone**: chưa có. Chưa cần trước arc 5.
-- Canon cho các thế giới nhiệm vụ (HxH, Naruto, Kimetsu): không có database. Cần trước arc 2, khi [[q-dong-doi-cu-the-la-ai-tdtb]] được trả lời.
+- Note canon cho **Vongola Hyper Intuition**, **CEDEF**, **Cavallone**: chưa có. Chưa cần.
+- Canon cho các thế giới nhiệm vụ (HxH, Naruto, Kimetsu): không có database. Cần khi chọn thế giới nhiệm vụ cụ thể.

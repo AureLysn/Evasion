@@ -15,7 +15,7 @@ payoff:
   arc:
   chapter:
 aliases: ["keystone species", "loai chu chot", "Kyouya", "Getsufuji", "false carnivores", "ke an thit gia", "bigger carnivore", "lanh tho"]
-related: ["[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[indra]]", "[[le-cuoi-cao]]", "[[bigger-carnivore]]", "[[bigger-carnivore-la-ai]]", "[[fact-kyouya-anh-em-ho]]", "[[fact-sanctuary]]", "[[20260916-p2-ch2]]", "[[kyouya-loai-chu-chot-phan-cu]]"]
+related: ["[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[indra]]", "[[le-cuoi-cao]]", "[[bigger-carnivore]]", "[[bigger-carnivore-la-ai]]", "[[fact-kyouya-anh-em-ho]]", "[[fact-sanctuary]]", "[[20260916-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2, POV Kyoya ngay truoc hai cau ket; doi chieu voi Ch1 (qua courting). Doc lai 16/09/2026"

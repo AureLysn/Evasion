@@ -25,7 +25,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Gokudera và Yamamoto mang ký ức tương lai do Verde gửi
@@ -40,10 +40,6 @@ last_updated: 2026-10-03
 2. ch9, ba cảnh liền nhau: **Reborn** (Iceland), **Gokudera** (Ý), **Yamamoto** (Mỹ) đều **đột ngột nhắm/che mắt rồi mở ra**. Gokudera: *"Ta, vì sao lại ở đây......"*. Yamamoto: nghi hoặc. Reborn: *"trình độ như vậy, tuyệt đối không chỉ là Huyễn Thuật Sư tiêu chuẩn"*.
 3. ch12–13, Yamamoto: *"A Cương, đã lâu không gặp...... Quá lâu."*, biết Tsuna thích hamburger, *"Vẫn là như cũ đâu"*.
 4. ch13, Gokudera: tìm *"mười đời mắt"*, định thăm *"nại nại mụ mụ"*, nói Yamamoto *"bây giờ không nên đem tìm được mười đời mắt xem như đòi hỏi thứ nhất sao?!"*. Tức là hai người **cùng mục tiêu**.
-5. 📌 ch16 *(viết lại 03/10, POV Yamamoto)*: trong cơn mê tin tức tố, *"最重要的人，就在身边。"* · *"而他自己，回到了过去，回到了一切
-   都还来得及的时候。"* Không gọi tên hiện tượng; không ai, ở đâu, vì sao. known_by / suspected_by **không đổi**.
-6. 📌 ch17 *(viết lại 03/10, POV Gokudera)*: chỉ *"十代目"*; chờ trước nhà 沢田 ở 并盛. Không quá mức ch13.
-7. 📌 [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]] *(POV Gokudera)*: chỉ *"十代目"*, *"奈奈妈妈"* (gọi tự nhiên như ch13); không gọi tên hiện tượng. known_by không đổi.
 
 ## Ai biết, biết đến đâu
 

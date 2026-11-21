@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.100"
 aliases: ["plan ch34 PPCT", "dan y chuong 34 PPCT", "toi gan ch34", "靠近 ch34", "loi hen gui Kiritsugu"]
-related: ["[[arc-5-ke-san-va-con-moi]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[hook-to-caster-khac-che-to-saber]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[to-caster-nhan-ra-archer-doi-chu]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[kiritsugu-la-master-that]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-to-caster-khac-che-to-saber]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kirei-van-la-master]]", "[[kiritsugu-la-master-that]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 24/09/2026 — chuong 1 arc 5 (Huong 1, Aurel 24/09). AI de xuat C1–C7; Aurel 24/09: dong y C1–C7"
@@ -25,7 +25,7 @@ last_updated: 2026-09-24
 
 # Kế hoạch chương 34 — Tới gần · ✅ AUREL DUYỆT 24/09/2026
 
-> Chương 1 arc 5. Khung arc: *POV Tsuna — một dấu hiệu Kiritsugu đã tới gần; Dazai quyết gặp thay vì trốn; gửi lời hẹn* ([[arc-5-ke-san-va-con-moi]]).
+> Chương 1 arc 5. Khung arc: *POV Tsuna — một dấu hiệu Kiritsugu đã tới gần; Dazai quyết gặp thay vì trốn; gửi lời hẹn* (arc-5-ke-san-va-con-moi).
 > Aurel duyệt **cả C1–C7 theo đề xuất** (24/09/2026). Thẻ cảnh 01–03 đã viết.
 
 ## Mục tiêu chương
@@ -48,7 +48,7 @@ Con bọ ở cổng lâu đài — con mắt cuối cùng tổ Caster còn đặ
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- [[archer-doi-master-sang-kirei]]: tổ Caster ở mức **L2** (ch33). Được nhắc lại **đúng mức** nếu cần một câu; **không** tiến thêm. Mức L3 là việc của ch38.
+- archer-doi-master-sang-kirei: tổ Caster ở mức **L2** (ch33). Được nhắc lại **đúng mức** nếu cần một câu; **không** tiến thêm. Mức L3 là việc của ch38.
 - [[kirei-van-la-master]]: **không** nối nhà thờ ↔ Master mới của Archer ↔ Master của Assassin. Beat 3 chỉ nói "nhà thờ là chỗ ta không nhìn được, hắn thì nhìn được" — **không** nói vì sao nhà thờ quan trọng tới vậy.
 - 🔴 **Lệnh chú của Sola-Ui:** không một chữ — đó là chỗ Kiritsugu trả lời ở ch36.
 - [[kiritsugu-la-master-that]]: Dazai và Tsuna đều biết (ch4) → được gọi Kiritsugu là Master của Saber giữa hai người.
@@ -105,10 +105,10 @@ Chương **đời thường + suy luận** — [[05_Evasion/01_Oeuvre/Studio/Con
 |---|---|
 | Arc 5 hướng 1 | ✅ Aurel 24/09/2026 |
 | Chốt C1–C7 và duyệt plan này | ✅ 24/09/2026 |
-| Nguồn: ch3 (chức năng bọ 监视, 传声, 小型炸弹) · ch5/ch4 (chuồn chuồn chặn ống ngắm) · ch26 (bọ lâu đài chỉ thấy cổng) · ch30 (xe đen, người phụ nữ, 「没有哪个魔术师……」, hai ô màn hình) · ch20 (Tsuna sửa, chế chuồn chuồn) | ✅ đã có trong [[fact-cong-nghe-vongola-trong-chien-tranh]] · [[kiritsugu-bat-dau-tim-ben-thu-ba]] |
+| Nguồn: ch3 (chức năng bọ 监视, 传声, 小型炸弹) · ch5/ch4 (chuồn chuồn chặn ống ngắm) · ch26 (bọ lâu đài chỉ thấy cổng) · ch30 (xe đen, người phụ nữ, 「没有哪个魔术师……」, hai ô màn hình) · ch20 (Tsuna sửa, chế chuồn chuồn) | ✅ đã có trong [[fact-cong-nghe-vongola-trong-chien-tranh]] · kiritsugu-bat-dau-tim-ben-thu-ba |
 | Thẻ cảnh 01–03 | ✅ 24/09 |
 | `crosscheck-canon` Kiritsugu theo dõi nhà thờ | Không cần cho ch34 (chỉ cần trước ch35–36) |
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌ nào có `needed_before` ở ch34. Phải **né**: [[q-loi-giai-bi-an-trung-tam]] · [[q-ke-hoach-that-bai-cua-dazai]] · [[q-loi-moi-hien-the]].
+Không có câu ❌ nào có `needed_before` ở ch34. Phải **né**: q-loi-giai-bi-an-trung-tam · [[q-ke-hoach-that-bai-cua-dazai]] · q-loi-moi-hien-the.

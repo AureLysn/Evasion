@@ -11,17 +11,17 @@ introduced:
   arc: chien-tranh-chen-thanh
   chapter: 6
 payoff:
-  status: planned
-  arc: 
-  chapter: 
+  status: unplanned
+  arc:
+  chapter:
 aliases: ["Tsuna muon den Yokohama", "cam on Chuuya tan mat", "等我到横滨一定要当面道谢", "ve Yokohama gioi thieu cho ta"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[chuuya]]", "[[dazai--chuuya]]", "[[q-tsuna-mo-quan-ca-phe]]", "[[tsuna-mo-quan-ca-phe-o-yokohama]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[chuuya]]", "[[dazai--chuuya]]"]
 source:
   type: fic_text
   ref: "反派战争 ch6, ch11"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -45,6 +45,6 @@ Tsuna **giả định mình sẽ về Yokohama** sau chiến tranh, và muốn g
 
 ## Phương án payoff đang cân nhắc
 
-✅ *30/09/2026 — hướng trả chốt:* [[tsuna-mo-quan-ca-phe-o-yokohama]] — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
+✅ *30/09/2026 — hướng trả chốt:* tsuna-mo-quan-ca-phe-o-yokohama — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
 
-Gắn với việc Tsuna sống ra sao sau chiến tranh: [[q-tsuna-mo-quan-ca-phe]].
+Gắn với việc Tsuna sống ra sao sau chiến tranh: q-tsuna-mo-quan-ca-phe.

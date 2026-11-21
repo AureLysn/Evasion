@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "khoang 4 nam truoc ch4 (Tsuna 15 tuoi)"
   arc: "tien-su"
-  chapter: "ch4 (hoi tuong)"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["Tokyo (Đông Kinh thị)"]
 aliases: ["U Linh Omega", "U linh omega", "u linh omega", "幽灵Omega", "ghost Omega", "sự kiện pheromone Tokyo", "bon nam truoc", "4 năm trước", "Tokyo pheromone incident"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

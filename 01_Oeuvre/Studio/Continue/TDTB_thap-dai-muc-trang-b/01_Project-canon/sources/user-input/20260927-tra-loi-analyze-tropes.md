@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: user_canon
 status: active
 aliases: ["Aurel tra loi analyze tropes TDTB", "co che hao quang nguyen van", "Jack Sue TDTB", "nguoi mang ky uc trong sinh nguyen van", "user input TDTB 27/09"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel, chat phien Claude Code 27/09/2026 — tra loi ket qua analyze-tropes (structure/tropes.md) va 2 cau hoi truc the loai"

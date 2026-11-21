@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Đồng hồ đếm ngược của thuốc ức chế
@@ -42,5 +42,3 @@ ch4: *"Lần trước uống cái kia ức chế tề là tại 2 tháng trướ
 | ch4 | thiếu 775 điểm |
 | ch5–8 | làm xong Quỷ diệt 2.0 (điểm nhận được: không nêu) |
 | ch11 | *"尽管之前才喝了兑换的抑制剂"* — **đã mua và uống lại** trước show. Không xung đột với ch4 ([[qd-thuoc-da-mua-lai-truoc-show-tdtb]]) |
-| [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] | **37 điểm**, thiếu 963. Thuốc chịu được một đêm cạnh alpha đỉnh cấp mất kiểm soát. Tsuna: thuốc chưa gấp, điểm thì gấp — *"回去以后得想办法多攒一点了"* |
-| [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]] | Vẫn **37 điểm**; tiền show *"大概换不成积分"*. Tsuna vào 中转站, chọn đi nhiệm vụ để kiếm điểm |

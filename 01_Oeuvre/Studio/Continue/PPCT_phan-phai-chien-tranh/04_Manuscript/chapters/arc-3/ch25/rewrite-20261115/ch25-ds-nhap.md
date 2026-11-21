@@ -13,7 +13,7 @@ pov: [character.PPCT.diarmuid, character.PPCT.artoria]
 language: zh
 title: "【太纲无差】反派战争25（DeepSeek版）"
 aliases: ["ch25 ban DeepSeek nhap", "chương 25 bản song song DeepSeek", "反派战争25 DeepSeek"]
-related: ["[[ch25-ds-the-canh]]", "[[ch25-ds-kiem]]", "[[deepseek-20261115]]", "[[ch24-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch25/ch25-chapter|ch25-chapter (aurel-main, final)]]"]
+related: ["[[ch25-ds-the-canh]]", "[[ch25-ds-kiem]]", "[[ch24-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch25/ch25-chapter|ch25-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch25-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch25-ds-kiem). Không dùng văn bản ch25-chapter final. Chat arc 3: https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9"

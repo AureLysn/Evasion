@@ -10,7 +10,7 @@ chapter: 35
 canon_layer: user_canon
 status: active
 aliases: ["review ch35 PPCT", "soat ch35", "check-continuity ch35", "check-style ch35", "ke san review"]
-related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[20260924-canon-kiritsugu-theo-doi-nha-tho]]", "[[Kiritsugu-Emiya]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-chapter]]", "[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[Kiritsugu-Emiya]]", "[[kirei-van-la-master]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 24/09/2026, tren ban nhap ch35 (1.880 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."
@@ -44,7 +44,7 @@ last_updated: 2026-09-24
 | Trạng thái nhân vật | ✅ Sola-Ui **dìu** Kayneth, tay nẹp gỗ (ch28–29). ✅ Maiya không bị thương. ✅ Kiritsugu hút thuốc (ch19 thì cất bao thuốc lại). 🔵 **#2** 「司机也是教会的人」 |
 | Luật thế giới | ✅ 「没有找到咒文，也没有找到任何魔术的痕迹」 là **quan sát của Kiritsugu**, khớp ch19 「纯粹的机械造物」; người kể **không** khẳng định đồ Vongola "không dùng ma lực". ✅ Con bọ vẫn phát tín hiệu, khớp ch34. ✅ 「放到河对岸去」 không nêu tên khu nào |
 | Quan hệ / xưng hô | ✅ Maiya gọi 「切嗣」 (ch19). ✅ Saber gọi 「切嗣」, đúng canon. ✅ Kiritsugu không trả lời Saber, đúng canon và C7 |
-| Canon | ✅ Dơi mang camera, ý của Kiritsugu; Kirei giết con dơi đêm đầu; Kiritsugu sợ Kirei là 「能杀死卫宫切嗣」 — đều theo [[20260924-canon-kiritsugu-theo-doi-nha-tho]]. ✅ Tên 言峰绮礼 xuất hiện **một lần**, không dùng lẫn 神父 |
+| Canon | ✅ Dơi mang camera, ý của Kiritsugu; Kirei giết con dơi đêm đầu; Kiritsugu sợ Kirei là 「能杀死卫宫切嗣」 — đều theo 20260924-canon-kiritsugu-theo-doi-nha-tho. ✅ Tên 言峰绮礼 xuất hiện **một lần**, không dùng lẫn 神父 |
 | Hợp đồng nhánh | ✅ Không chạm mục `forbid` |
 
 **Hook:** [[hook-to-caster-khac-che-to-saber]] được đẩy: kẻ săn chưa kịp lần theo thì con mồi đã tới trước — 「他花了三天去找这个人，这个人只花了一个晚上，就找到了他的车」 ✓.
@@ -148,8 +148,8 @@ Không có lỗi 🔴 hay 🟠. Không có lỗi luật cứng.
 
 ## Để `finalize-chapter` biết (không phải lỗi)
 
-- **Kiritsugu biết tổ Lancer đã rời Fuyuki** (qua băng ghi chạng vạng ngày 9) → cập nhật [[kiritsugu]] và [[sola-ui-doi-lenh-chu-lay-duong-ve]].
-- **Kiritsugu thấy Kirei xuống dốc tối ngày 10** mà không biết đi đâu → xét thêm một dòng 📌 ở [[kirei-van-la-master]] (Kiritsugu vẫn ở mức `suspected_by`, **không** đổi) và [[archer-doi-master-sang-kirei]] (Kiritsugu vẫn `unknown_to`).
+- **Kiritsugu biết tổ Lancer đã rời Fuyuki** (qua băng ghi chạng vạng ngày 9) → cập nhật [[kiritsugu]] và sola-ui-doi-lenh-chu-lay-duong-ve.
+- **Kiritsugu thấy Kirei xuống dốc tối ngày 10** mà không biết đi đâu → xét thêm một dòng 📌 ở [[kirei-van-la-master]] (Kiritsugu vẫn ở mức `suspected_by`, **không** đổi) và archer-doi-master-sang-kirei (Kiritsugu vẫn `unknown_to`).
 - **Camera thường ở cột điện chân dốc nhà thờ** (Maiya, đặt sau đêm ngày 1) — chi tiết au-specific → ghi vào [[nha-tho-fuyuki]] hoặc [[maiya]].
 - Kế hoạch **lần theo tín hiệu tối ngày 13** (thêm một máy thu 「河对岸」) → ghi vào "Ghi cho ch36".
 

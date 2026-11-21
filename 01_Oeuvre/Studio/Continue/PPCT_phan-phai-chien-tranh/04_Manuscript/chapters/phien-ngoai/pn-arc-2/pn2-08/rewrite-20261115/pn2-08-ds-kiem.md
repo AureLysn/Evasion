@@ -10,7 +10,7 @@ chapter: "pn2-08"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-08 ban DeepSeek", "kiểm phiên ngoại nhà thêm phòng", "pn2-08 ds kiem PPCT"]
-related: ["[[pn2-08-ds-nhap]]", "[[pn2-08-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
+related: ["[[pn2-08-ds-nhap]]", "[[pn2-08-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/6e01657a-31f0-439f-ae16-720620d11567 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd4f37-fbd0-83ec-8a0e-b5a826885d52"

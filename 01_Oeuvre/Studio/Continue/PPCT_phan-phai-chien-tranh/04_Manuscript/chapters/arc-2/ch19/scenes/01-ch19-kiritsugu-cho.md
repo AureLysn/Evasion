@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 18
 status: planned
 aliases: ["canh 19-01 Kiritsugu cho", "Kiritsugu cho Kayneth", "sung ban tia da hong"]
-related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kiritsugu]]", "[[hyatt-da-sap-kayneth-chua-bi-phe]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Maiya-Hisau]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[kiritsugu]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Maiya-Hisau]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-15
 ---
@@ -54,7 +54,7 @@ last_updated: 2026-09-15
 - ch5: 「那只蜻蜓的眼中泛着红色的光点，赫然是个小型摄像头。」
 - ch5: 「虽然没有多大的威力，但也震碎了狙击枪的瞄准镜，如此，这把陪伴了卫宫切嗣几年的老伙计终于宣告报废了。」
 - Kiritsugu đoán vật đó thuần máy móc, không biết ai điều khiển — [[kiritsugu]] (trích ch5).
-- Hyatt đã sập ngoài trang đêm ngày 1 — [[hyatt-da-sap-kayneth-chua-bi-phe]].
+- Hyatt đã sập ngoài trang đêm ngày 1 — hyatt-da-sap-kayneth-chua-bi-phe.
 
 ## Canon đã trích — dùng được
 

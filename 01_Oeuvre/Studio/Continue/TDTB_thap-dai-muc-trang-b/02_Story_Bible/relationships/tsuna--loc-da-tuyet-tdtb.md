@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Lộc Dã Tuyết
@@ -39,8 +39,6 @@ last_updated: 2026-10-03
 | ch3 | Tuyết chỉ định Tsuna dẫn đi lấy sách. Hỏi Tsuna nghĩ gì về Omega |
 | ch10 | *"Ta lựa chọn cương Cát Quân."* Tsuna biết mình không được chọn vì được thích |
 | ch13–15 | Tuyết bị Yamamoto gạt sang bên vì Tsuna |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] | Tuyết định cho Tsuna điểm thấp nhất tối nay (*"他会给沢田纲吉打最低的分数"*) — mới là **ý định**, trang không cho thấy phiếu. Phần cảm tưởng: một câu "quan tâm" — *"纲吉君今天好像一直都没什么精神呢。"* Tsuna thấy ác ý ba lần (*"只有纲吉的后背又凉了一下。"*), không nghĩ vì sao, **không trả đũa**: vẫn chấm Tuyết 5 điểm — *"还是写下了五分。一来是懒得多想，二来嘛，做人要公平。"* Xưng hô trên show: Tuyết gọi 纲吉君; Tsuna không gọi tên Tuyết ở ch17 |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10, thêm)* | Dòng trên giữ. Thêm: Tuyết bóp đũa khi Tsuna bênh Yamamoto; Tsuna thật lòng đồng ý câu "không cần miễn cưỡng", nụ cười của Tuyết cứng lại. |
 
 ## Cách xưng hô
 

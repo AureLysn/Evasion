@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Nagi", "hoc tro cua Ruriko", "de tu Ruriko", "co be duoc Tsuna cuu", "Chrome", "Chrome Dokuro", "POV P2-Ch2", "Mist trong nha", "co be toc tim sam"]
-related: ["[[tsuna]]", "[[musashi]]", "[[kyouya]]", "[[mukuro]]", "[[gia-thuyet-aurel]]", "[[xoa-so-estraneo]]", "[[le-cuoi-cao]]", "[[nagi-khong-biet-chuyen-cha-me]]", "[[q-cha-me-nagi]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[rule-danh-xung-flame]]", "[[gap-nhan-vat]]", "[[emb-chot-sau-p2-ch2]]", "[[nagi-phan-cu]]"]
+related: ["[[tsuna]]", "[[musashi]]", "[[kyouya]]", "[[mukuro]]", "[[gia-thuyet-aurel]]", "[[xoa-so-estraneo]]", "[[le-cuoi-cao]]", "[[q-cha-me-nagi]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[rule-danh-xung-flame]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 (ten, bang kiem ke) va Ch2 (POV mot doan dai trong phong thay do). Doc lai 16/09/2026"
@@ -17,12 +17,12 @@ flame: Gen'ei (Mist)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, pov-character, gap-dot8b, rescued-by-tsuna]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Nagi — **học trò của Ruriko, và bằng chứng trong văn bản cho luận đề**
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]]. Note này từng thiếu suốt tám đợt — [[gap-nhan-vat]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. Note này từng thiếu suốt tám đợt — gap-nhan-vat.
 
 ## Vì sao note này quan trọng hơn kích thước của nó
 
@@ -66,7 +66,7 @@ Vậy: **Nagi = Chrome**, `fic_explicit`. Và ba điều nặng hơn việc ch�
 
 | | |
 |---|---|
-| **Cha mẹ cô bé đã bị "xử lý"** | ⚠️ `dealt with` là **uyển ngữ mở**. Aurel chốt: **không giết**, mà nhờ Mist can thiệp — [[nagi-khong-biet-chuyen-cha-me]] · [[q-cha-me-nagi]] |
+| **Cha mẹ cô bé đã bị "xử lý"** | ⚠️ `dealt with` là **uyển ngữ mở**. Aurel chốt: **không giết**, mà nhờ Mist can thiệp — nagi-khong-biet-chuyen-cha-me · [[q-cha-me-nagi]] |
 | **Đến kịp** | trong canon KHR, Nagi mất nội tạng trong một tai nạn và sống nhờ nội tạng ảo do Mukuro tạo. Ở đây **cô bé còn nguyên nội tạng thật** |
 | **Con cưng của bà** | 🔴 *sửa 16/09*: là **bà ngoại** Tsuna — [[musashi]]. Bản cũ ghi "bà nội", sai quan hệ |
 

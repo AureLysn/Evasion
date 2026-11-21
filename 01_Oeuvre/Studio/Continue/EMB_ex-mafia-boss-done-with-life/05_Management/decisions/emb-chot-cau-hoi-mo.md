@@ -10,21 +10,21 @@ status: active
 decided: 2026-09-17
 decided_by: user
 aliases: ["chot cau hoi mo", "quyet dinh 17/09 lan hai", "Sukunabikona qua Reborn", "ong tre ca hai nghia", "bigger carnivore la Indra", "gioi han Kimiko", "cha me Nagi sua ky uc", "Nagi biet tu dau", "Wrath la Sky cong Storm", "uoc luong chuong theo su kien"]
-related: ["[[emb-chot-khung-arc]]", "[[khung-nam-arc]]", "[[q-sukunabikona-va-reborn]]", "[[ong-tre-giai-quyet-gi]]", "[[bigger-carnivore-la-ai]]", "[[q-gioi-han-kimiko]]", "[[q-cha-me-nagi]]", "[[nagi-khong-biet-chuyen-cha-me]]", "[[tuyen-xanxus]]", "[[rhythm]]"]
+related: [ "[[q-sukunabikona-va-reborn]]", "[[ong-tre-giai-quyet-gi]]", "[[bigger-carnivore-la-ai]]", "[[q-gioi-han-kimiko]]", "[[q-cha-me-nagi]]", "[[tuyen-xanxus]]", "[[rhythm]]"]
 source:
   type: user_input
-  ref: "Aurel, 17/09/2026 — tra loi sau khi xem khung-nam-arc: bon cau dung de xuat cu, q-cha-me-nagi B va Nagi biet tu dau, Arc 4 Xanxus, Wrath la Sky + Storm, uoc luong chuong theo do day su kien"
+  ref: "Aurel, 17/09/2026 — tra loi sau khi xem khung-nam-arc: bon cau dung de xuat cu, q-cha-me-nagi B va Nagi biet tu dau, giai doan School Xanxus, Wrath la Sky + Storm, uoc luong chuong theo do day su kien"
 authority: user
 confidence: 1.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Chốt các câu hỏi còn mở — và sửa khung
 
-> Aurel trả lời sau khi xem [[khung-nam-arc]], 17/09/2026. Bốn câu **dùng đề xuất cũ** *(đợt 7, Aurel 16/08)*; một câu chọn phương án mới; ba chỉnh sửa cho khung.
+> Aurel trả lời sau khi xem khung năm arc *(đã xóa khi reset 20/11/2026)*, 17/09/2026. Bốn câu **dùng đề xuất cũ** *(Aurel 16/08)*; một câu chọn phương án mới; ba chỉnh sửa cho khung.
 
 ## 1. ✅ [[q-sukunabikona-va-reborn]] — **phương án C: qua Arcobaleno, Reborn làm Sun của Tsuna**
 
@@ -64,16 +64,16 @@ Giải thích được: vì sao bà dựng sẵn mọi thứ · vì sao không n
 | **Nagi** | 🔴 **biết từ đầu** |
 | **Lý do** *(Aurel)* | cha mẹ Nagi **vốn không đối xử tốt với cô, kể cả trong canon**. Không có lý do gì để giấu cô bé |
 
-→ [[nagi-khong-biet-chuyen-cha-me]] **hết hiệu lực** — `status: superseded`. Các lan can viết trong note đó *(cấm Nagi ám chỉ, cấm viết như người biết-mà-giấu)* **không còn áp dụng**. Việc *Tsuna quyết định thay cô bé* cũng đổi: cô bé **biết**.
+→ nagi-khong-biet-chuyen-cha-me **hết hiệu lực** — `status: superseded`. Các lan can viết trong note đó *(cấm Nagi ám chỉ, cấm viết như người biết-mà-giấu)* **không còn áp dụng**. Việc *Tsuna quyết định thay cô bé* cũng đổi: cô bé **biết**.
 
 ⚠️ Còn mở, không chặn khung: **Mist nào ra tay** — [[musashi]] hay [[maro]] *(Kawahira bị loại vì chưa tới lúc đó)*. Chặn cảnh đầu tiên nhắc cụ thể người làm.
 
-## 6. ✅ Arc 4 — Xanxus và cách arc đóng
+## 6. ✅ Giai đoạn School — Xanxus và cách arc đóng
 
 | | Chốt |
 |---|---|
-| **Xanxus ở Arc 4** | nằm trong băng. Tsuna **đang đợi sơ hở**, để không gây chú ý từ **Timoteo và Vongola** |
-| **Xả của Arc 4** | **Nana và Iemitsu rời đi lần nữa** |
+| **Xanxus ở giai đoạn School** | nằm trong băng. Tsuna **đang đợi sơ hở**, để không gây chú ý từ **Timoteo và Vongola** |
+| **Xả của giai đoạn School** | **Nana và Iemitsu rời đi lần nữa** |
 
 ## 7. ✅ Flame of Wrath = **Sky + Storm** — canon
 
@@ -81,7 +81,7 @@ Aurel: Xanxus có Flame of Wrath **vì mang cả Sky lẫn Storm** — canon.
 
 Kiểm 17/09: WebSearch trả về mô tả của Reborn Wiki *(trang Dying Will Flame)* là **dạng lai Sky và Storm**. Mở trang trực tiếp bằng WebFetch trả **HTTP 402**, nên chưa đọc toàn văn. Đã sửa dòng *"được gợi ý, chưa xác nhận"* ở `Database/Fandom/KHR/rules/Sky-Flame.md` và câu *"Sky mang đặc tính Storm"* ở [[tuyen-xanxus]].
 
-→ Không đổi chốt 17/09 mục 2 của [[emb-chot-khung-arc]]: Storm của Xanxus **không** tính là Storm trong bộ Guardian của Tsuna; **Fon là Storm chính**.
+→ Không đổi chốt 17/09 mục 2 của emb-chot-khung-arc: Storm của Xanxus **không** tính là Storm trong bộ Guardian của Tsuna; **Fon là Storm chính**.
 
 ## 8. ✅ Ước lượng chương — **theo độ dày sự kiện, không theo độ dài chương Baby arc**
 
@@ -94,4 +94,4 @@ so tu arc   ≈ so su kien du kien × 3.800
 so chuong   ≈ so tu arc ÷ 9.500
 ```
 
-Chi tiết từng arc ở [[khung-nam-arc]].
+Khung năm arc đã xóa khi reset 20/11/2026; các chốt trên vẫn giữ.

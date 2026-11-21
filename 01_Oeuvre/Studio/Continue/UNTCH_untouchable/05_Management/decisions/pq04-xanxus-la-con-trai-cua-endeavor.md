@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: user_canon
 status: locked
 aliases: ["Endeavor la cha cua Xanxus", "Xanxus la anh cung cha cua Shouto", "Xanxus la anh em nha Todoroki", "phan quyet 4 Aurel", "ket qua ADN Shouto", "same father different mothers", "Xanxus quan he voi Todoroki"]
-related: ["[[q-xanxus-va-endeavor]]", "[[pq04-xanxus-la-em-cung-cha-cua-endeavor]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[q-xanxus-va-endeavor]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "ch74 doan 15/18/21/25/29 (POV Dabi) va ch94 doan 78-108 (POV Tsuna, Reborn xac nhan). Aurel sua lai cach doc cua toi 31/08/2026; toi mo nguyen van ra doi chieu va xac nhan Aurel dung."

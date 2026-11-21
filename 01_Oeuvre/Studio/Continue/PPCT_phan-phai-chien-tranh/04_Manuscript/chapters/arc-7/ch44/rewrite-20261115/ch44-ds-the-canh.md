@@ -10,7 +10,7 @@ chapter: 44
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch44 ban DeepSeek", "thẻ cảnh ch44 bản song song", "ch44 ds PPCT"]
-related: ["[[ch44-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch43-ds-plan]]", "[[ch42-ds-nhap]]", "[[ch37-ds-nhap]]", "[[ch33-ds-nhap]]"]
+related: ["[[ch44-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch43-ds-plan]]", "[[ch42-ds-nhap]]", "[[ch37-ds-nhap]]", "[[ch33-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 16/11/2026, từ ch44-ds-plan (Aurel duyệt C1–C5 16/11/2026)."

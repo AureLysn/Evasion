@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 27-05 ket thuc", "结束 ch27", "Saber dung mot minh", "Dazai tat may ch27", "duoi ch27"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[dazai-ke-giac-mo-buoi-tap]]", "[[gae-buidhe-bi-pha]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---

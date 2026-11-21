@@ -10,7 +10,7 @@ chapter: "pn2-01"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-01 ban DeepSeek", "kiểm phiên ngoại Trước ngày có khách lạ", "pn2-01 ds kiem PPCT"]
-related: ["[[pn2-01-ds-nhap]]", "[[pn2-01-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[Akutagawa-Ryunosuke]]"]
+related: ["[[pn2-01-ds-nhap]]", "[[pn2-01-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[Akutagawa-Ryunosuke]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/9d5a18d5-0cc9-4db2-8e62-07fd4f3e320a · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afcde47-7320-83ec-9bed-290ca0a89871"

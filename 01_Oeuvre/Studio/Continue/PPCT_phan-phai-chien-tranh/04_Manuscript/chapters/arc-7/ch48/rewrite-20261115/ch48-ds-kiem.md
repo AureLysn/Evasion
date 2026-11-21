@@ -10,7 +10,7 @@ chapter: 48
 canon_layer: planned
 status: active
 aliases: ["kiem ch48 ban DeepSeek", "kiểm ch48 bản song song", "ch48 ds kiem PPCT"]
-related: ["[[ch48-ds-nhap]]", "[[ch48-ds-the-canh]]", "[[ch48-ds-plan]]", "[[deepseek-20261115]]", "[[ch47-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Holy-Grail]]"]
+related: ["[[ch48-ds-nhap]]", "[[ch48-ds-the-canh]]", "[[ch48-ds-plan]]", "[[ch47-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Holy-Grail]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek chat ch48 https://chat.deepseek.com/a/chat/s/7b6c70c2-d89a-46a7-b589-5c55c1d2460c · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afbf97e-6ae4-83ec-bb94-4f727c0b6852"

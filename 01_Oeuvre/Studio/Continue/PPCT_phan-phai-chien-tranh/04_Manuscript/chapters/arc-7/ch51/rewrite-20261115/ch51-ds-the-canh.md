@@ -10,7 +10,7 @@ chapter: 51
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch51 ban DeepSeek", "thẻ cảnh ch51 bản song song", "ch51 ds PPCT"]
-related: ["[[ch51-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch50-ds-nhap]]", "[[loi-moi-hien-the-ai-nhan]]", "[[bay-ngay-chi-la-loi-nhan-vat]]"]
+related: ["[[ch51-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch50-ds-nhap]]", "[[bay-ngay-chi-la-loi-nhan-vat]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch51-ds-plan (Aurel duyệt 17/11/2026: C1 cô tự xuống xe; C2–C7 để DeepSeek/GPT đề xuất)."

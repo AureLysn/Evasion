@@ -10,7 +10,7 @@ chapter: 40
 canon_layer: user_canon
 status: active
 aliases: ["review ch40 PPCT", "soat ch40", "check-continuity ch40", "check-style ch40", "soat xe gia Excalibur"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[to-caster-noi-ba-dao-lenh-chu]]", "[[saber-pha-gordius-wheel-to-caster-thay]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-archer-tuyen-chien-rider]]", "[[Lancelot-Berserker]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-archer-tuyen-chien-rider]]", "[[Lancelot-Berserker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 30/09/2026, tren ban nhap ch40 (2.484 chu Han). Nguoi soat cung la nguoi viet ban nhap va planner trong cung phien."
@@ -56,7 +56,7 @@ last_updated: 2026-09-30
 | 1 | timeline | **medium** | cảnh 02, Dazai: 「这座城里不想被人看见的人，我们**前天**刚数过一个。」 | Việc "đếm" đó là ch38, **sáng ngày 14**. Ch40 là tối ngày 15, nên đúng phải là 「**昨天**」. Người đọc theo sát ngày sẽ vấp | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master\|master]] dòng ch38: 「**Ngày 14**, sáng → trưa」 |
 | 2 | chi tiết thêm | low | cảnh 03: 「拉车的是两头雄壮的公牛」 | Hai con bò kéo xe: canon Fate/Zero, nhưng [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar\|iskandar]] và note canon trong vault **không** ghi. Mình **không** nghi là sai, chỉ là chưa có nguồn trong vault | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar\|Iskandar]] (không ghi) |
 | 3 | chi tiết thêm | low | cảnh 01: 「往城西那片黑沉沉的山林」 · 「越过河」 | Rừng Einzbern "ở phía tây", và căn cứ tổ Caster ở phía bên kia sông: **chưa có nguồn** trong vault ([[lau-dai-einzbern]], [[can-cu-to-caster]]). Sau khi lên trang, hai chi tiết này thành neo cho các chương sau | [[can-cu-to-caster]] |
-| 4 | canon quá nguồn | low | cảnh 03: 「那是宝具的光。」 | Lời kể nói chắc đó là **bảo cụ**. Tsuna đoán được điều này là hợp lý (Servant tung một cột sáng như vậy), và câu không gọi tên Excalibur. Ghi lại để biết | [[20260929-canon-arc-6-co-xe-gia]] e1 |
+| 4 | canon quá nguồn | low | cảnh 03: 「那是宝具的光。」 | Lời kể nói chắc đó là **bảo cụ**. Tsuna đoán được điều này là hợp lý (Servant tung một cột sáng như vậy), và câu không gọi tên Excalibur. Ghi lại để biết | 20260929-canon-arc-6-co-xe-gia e1 |
 | 5 | xưng hô | low | cảnh 02: Tsuna nói 「他身边也没有韦伯」 | [[to-caster--to-rider]] chỉ ghi Dazai gọi 「韦伯」; chưa ghi Tsuna gọi Waver thế nào. Không mâu thuẫn gì | [[to-caster--to-rider]] |
 
 Không có vấn đề `high`.

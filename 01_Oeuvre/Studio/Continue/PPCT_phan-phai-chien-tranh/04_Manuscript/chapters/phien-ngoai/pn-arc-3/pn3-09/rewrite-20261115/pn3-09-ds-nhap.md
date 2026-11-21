@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.yamamoto, character.PPCT.shoichi, character.PPCT.kyoko, character.PPCT.hibari, character.PPCT.gokudera, character.PPCT.haru, character.PPCT.tsuna-nho]
 language: zh
 aliases: ["pn3-09 ban DeepSeek nhap", "phiên ngoại nhặt đủ một bầu trời DeepSeek", "反派战争 番外二十二 凑齐一片天空 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-09-ds-the-canh]]", "[[pn3-09-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-08-ds-nhap]]", "[[Takeshi-Yamamoto]]", "[[Irie-Shoichi]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Kyoya-Hibari]]", "[[Hayato-Gokudera]]", "[[Haru-Miura]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-09-ds-the-canh]]", "[[pn3-09-ds-kiem]]", "[[pn3-08-ds-nhap]]", "[[Takeshi-Yamamoto]]", "[[Irie-Shoichi]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Kyoya-Hibari]]", "[[Hayato-Gokudera]]", "[[Haru-Miura]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết bảy khối, ba bản 狱寺 (C-a) và ba bản 小春 (C-b); GPT chấm (狱寺一+二, 小春三) và đọc thử; Claude kiểm, thống nhất địa điểm ở công viên Namimori, sửa (xem pn3-09-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/26463fd4-065a-40c6-b9a7-4169fb166036"

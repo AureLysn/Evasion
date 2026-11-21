@@ -11,17 +11,17 @@ introduced:
   arc: chien-tranh-chen-thanh
   chapter: 1
 payoff:
-  status: planned
-  arc: 
-  chapter: 
+  status: unplanned
+  arc:
+  chapter:
 aliases: ["menh lenh cua Mori", "dem chien thang ve Cang Mafia", "为港口Mafia带回胜利吧", "hai suat nguyen vong", "thu linh la ai Mori hay Tsuna"]
-related: ["[[mori]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[dazai--mori]]", "[[chuuya-vot-dazai-mori-giao-nhiem-vu]]", "[[q-nguyen-vong-chen-thanh-cua-to-caster]]", "[[tsuna-mo-quan-ca-phe-o-yokohama]]"]
+related: ["[[mori]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[dazai--mori]]", "[[chuuya-vot-dazai-mori-giao-nhiem-vu]]", "[[q-nguyen-vong-chen-thanh-cua-to-caster]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1, ch15"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -46,6 +46,6 @@ Mori ra lệnh đem chiến thắng Chén Thánh về cho Cảng Mafia, và hỏ
 
 ## Phương án payoff đang cân nhắc
 
-✅ *30/09/2026 — hướng trả chốt:* [[tsuna-mo-quan-ca-phe-o-yokohama]] — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
+✅ *30/09/2026 — hướng trả chốt:* tsuna-mo-quan-ca-phe-o-yokohama — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
 
 Chưa.

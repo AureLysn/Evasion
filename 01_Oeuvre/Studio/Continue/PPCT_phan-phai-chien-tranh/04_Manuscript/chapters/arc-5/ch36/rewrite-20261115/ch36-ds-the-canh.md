@@ -10,7 +10,7 @@ chapter: 36
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch36 ban DeepSeek", "thẻ cảnh ch36 bản song song", "ch36 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan|plan ch36]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]", "[[ch34-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan|plan ch36]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]", "[[ch34-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch36-plan + 4 thẻ scenes/ (Aurel duyệt C1–C9). Không dùng văn bản ch36-chapter final."

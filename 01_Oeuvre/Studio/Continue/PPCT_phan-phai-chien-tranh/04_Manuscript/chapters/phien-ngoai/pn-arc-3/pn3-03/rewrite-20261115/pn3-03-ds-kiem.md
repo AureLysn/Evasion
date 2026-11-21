@@ -10,7 +10,7 @@ chapter: "pn3-03"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-03 ban DeepSeek", "kiểm phiên ngoại kẻ nhớ mang máng", "pn3-03 ds kiem PPCT"]
-related: ["[[pn3-03-ds-nhap]]", "[[pn3-03-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]"]
+related: ["[[pn3-03-ds-nhap]]", "[[pn3-03-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/d9521462-6048-431b-a795-87220eefded4 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd7141-9980-83ec-b754-e88992a77650"

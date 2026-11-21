@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 27-03 lenh chu", "令咒 ch27", "Kiritsugu toi nha kho", "con bo tu no", "Dazai nan mot ngon tay", "Sola-Ui khong dung lenh chu"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[gae-buidhe-bi-pha]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[kiritsugu]]", "[[sola-ui]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kiritsugu]]", "[[sola-ui]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -61,7 +61,7 @@ last_updated: 2026-09-22
 - ch5 (nguyên tác): 「瞄准镜忽然被一只虫子挡住了……那只蜻蜓的眼中泛着红色的光点，赫然是个小型摄像头。」 · 「紧接着那虫子整个炸开，虽然没有多大的威力，但也震碎了狙击枪的瞄准镜」 · ghi chú tác giả ch5: chuồn chuồn 「自爆其实……原本也没这功能，是太宰治故意让它操作过载炸的」 — **khác** bọ giám sát (bọ có sẵn chức năng nổ).
 - ch25: Sola-Ui 「三道令咒都还在我手上，我一道也不会用来拦你。」 · ch26 Dazai 「那可是这两天听到的最值钱的一句话」.
 - ch22: con bọ 「停在西郊那间废弃仓库的房梁上。画面斜着往下看，角度很差」.
-- Canon: Kiritsugu bắt Sola-Ui làm con tin để ép lệnh chú buộc Lancer tự sát — [[Diarmuid-Ua-Duibhne]]; PPCT **không** để kế đó thành ([[ket-cuc-lancer-quyet-dau-tu-nguyen]]).
+- Canon: Kiritsugu bắt Sola-Ui làm con tin để ép lệnh chú buộc Lancer tự sát — [[Diarmuid-Ua-Duibhne]]; PPCT **không** để kế đó thành (ket-cuc-lancer-quyet-dau-tu-nguyen).
 
 ## Kết cảnh phải đạt được gì
 
