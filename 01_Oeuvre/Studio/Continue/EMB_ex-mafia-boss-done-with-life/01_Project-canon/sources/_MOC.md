@@ -75,7 +75,7 @@ Chỉ dùng **đối chứng** sau mỗi giai đoạn: khớp thì tăng `confid
 |---|---|---|---|
 | `sources/knowledge-data/TRITHUC-KOHAKU.md` | 84.984 | `d8156f6f9cd71c1c261e4a6469a5e198688cf3e834639982544381175b54a870` | hồ sơ tri thức lượt AI cũ |
 | `sources/knowledge-data/HOSO-KOHAKU.md` | 44.921 | `cf372e999d0817976862054c82f6de8cf693e937c0474ff7cd6495aee17cd32b` | hồ sơ nhân vật lượt AI cũ |
-| `sources/knowledge-data/DANY-KOHAKU.md` | 46.318 | `67fcb4f41099da834ed041542953e45ef2f1f201445eb6aa79b0f27fd21fe9c0` | dàn ý v3, đã sửa 09/09 — xem [[dany-v2-vs-v3]] |
+| `sources/knowledge-data/DANY-KOHAKU.md` | 46.318 | `67fcb4f41099da834ed041542953e45ef2f1f201445eb6aa79b0f27fd21fe9c0` | dàn ý v3, đã sửa 09/09 — xem dany-v2-vs-v3 |
 
 `Ho_so_truyen_ExMafiaBoss.md` từng được liệt kê ở đây — **không tìm thấy** trong kho EMB ngày 15/09.
 

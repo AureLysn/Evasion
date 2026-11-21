@@ -86,7 +86,7 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - **Tsuna này là "Thập Đại Mục":** [[qd-tsuna-nay-la-juudaime-tdtb]]
 - **Lửa ở thế giới thực:** [[qd-lua-o-the-gioi-thuc-tdtb]]
 - **28/09 — `plan-continuation`:** hướng B [[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]] · hợp đồng nhánh [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]] (active) · [[qd-dong-doi-tu-fandom-khac-tdtb]] · [[qd-tsuna-khong-biet-kiep-truoc-tdtb]] · [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]] · [[qd-0038-he-thong-phi-phap-tdtb]] · [[qd-0038-quet-bang-ho-so-tdtb]] · [[qd-cha-la-iemitsu-tdtb]] · [[qd-reborn-tre-so-sinh-tdtb]] · [[qd-tranh-chi-tiet-mua-tdtb]]
-- **30/09:** [[qd-moi-tap-hai-ngay-tdtb]] · [[qd-gokudera-alpha-tdtb]]
+- **30/09:** [[qd-gokudera-alpha-tdtb]]
 - **27/09 — sau `analyze-tropes`:** [[qd-co-che-hao-quang-tdtb]] · [[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]] · [[qd-hai-he-thong-khong-lien-quan-tdtb]] · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] · qd-ket-cuc-he-thong-va-dong-doi-tdtb *(đã xóa khi reset)* · [[qd-dua-dan-nhan-vat-len-tdtb]]
 - **Viết thành phẩm tiếng Trung:** [[qd-viet-tieng-trung-tdtb]] (thay qd-viet-tieng-viet-quy-doi-tdtb của 26/09, note cũ đã xóa)
 

@@ -21,21 +21,6 @@ Nhánh [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Ver
 
 Chưa có — khung arc 01 đã xóa khi reset 21/11/2026.
 
-## Tám tuyến lớn — arc nào đóng cái nào
-
-Khung mới phải xếp mỗi tuyến vào arc đóng nó, để **không arc nào hứa trùng payoff**.
-
-| # | Tuyến |
-|---|---|
-| 1 | Kế hoạch cá voi sát thủ |
-| 2 | Hawks |
-| 3 | Mẫu tóc ch119 |
-| 4 | Theodor |
-| 5 | Shinsou |
-| 6 | Kage |
-| 7 | Bermuda / OFA / AFO |
-| 8 | Estraneo |
-
 ## Còn chặn
 
 Chưa có khung nên chưa có gì chặn.

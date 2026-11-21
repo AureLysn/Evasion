@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch05 arc 2 CLS", "bảng tên tiếng Trung ch05 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch05 arc 2. Ten MOI lay tu bang de xuat trong ch05-plan-a2 (TextMap cn), chua doi chieu Name HSR - Tong.csv cua Aurel (A4). Phien viet grep them TextMap cn (doc, 27/10): nhan ba man, 智识命途, 识刻锚, 沉浸式戏剧：《英雄之旅》. Ten da co o ch01-ch04 arc 2 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan. Alias 'ch05 arc 2 CLS zh' thuoc ve ch05-chapter."
@@ -70,7 +70,7 @@ Tên dùng lại từ ch01–ch04 arc 2: 白厄 · 星 · 三月七 · 丹恒 ·
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]]:
+Tả theo Amphoreus-npc-ngoai-hinh:
 - **Lygus** *(đủ một lần, D4, 5.02; nhắc lại một nét ở 5.03)*: người máy cao hơn Phainon một cái đầu; giáp trắng bạc, viền vàng; một túm lông trắng chải ngược, đuôi ngả tím **「白色羽鬃」 — chữ phiên đặt** cho 「chùm lông/mào」 của file ngoại hình; mặt nạ tối, nửa dưới che một tấm trắng; giữa ngực vòng tròn lớn, đáy sẫm, lõi tím. **Không** tả găng, không tả giáp ở chân.
 - **Cyrene** *(5.04 chỉ giọng; 5.05 bé gái rồi lớn hơn)*: **tóc hồng, tai nhọn** — hai nét ấy thôi; **không** váy, **không** 「dài」, **không** vương miện, hình xăm, nhẫn. Bản lớn chỉ 「một cô gái cao hơn một đoạn, tóc hồng, tai nhọn」.
 - **Phainon nhỏ** *(5.05)*: tóc trắng, **một túm dựng sau gáy** *(theo cảnh bé Phainon ở ch03, không phải chi tiết mới)*.
@@ -103,7 +103,7 @@ Tả theo [[Amphoreus-npc-ngoai-hinh]]:
 | 「Child of Remembrance」 | **không dùng** — bản Trung [thiếu]; giọng gọi March bằng tên |
 | 神话之外 · 《如我所书》 · 永劫回归 · 处刑人 | **không dùng ở ch05** *(dàn ý ghi cấm)* |
 | 座位 · 椅子 · 席 · 观剧台 · 观众 | **không dùng ở đâu trong chương** *(「座」 chỉ trong 「这座城」 và 「一座巨大的天平」 — lượng từ)* |
-| Trang phục Cyrene | **[thiếu]** — không tả *(đã ghi ở [[Amphoreus-npc-ngoai-hinh]])* |
+| Trang phục Cyrene | **[thiếu]** — không tả *(đã ghi ở Amphoreus-npc-ngoai-hinh)* |
 | 智识命途 + 行者 | 「智识命途」 grep TextMap cn có; ghép 「行者」 là cách nói thông dụng, chưa đối chiếu |
 | Tên nhà tắm *(N5 của ch04)* | không nhắc ở ch05 |
 

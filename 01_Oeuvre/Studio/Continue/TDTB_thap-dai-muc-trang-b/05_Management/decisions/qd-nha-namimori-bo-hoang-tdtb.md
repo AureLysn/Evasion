@@ -40,8 +40,7 @@ last_updated: 2026-11-21
 
 ## Hệ quả cho người viết
 
-- **Không bi kịch hoá.** Tsuna không day dứt chuyện bố mẹ: cậu vốn chỉ để tâm tới hệ thống và đồng đội cũ
-  ([[qd-tsuna-tren-show-thu-dong-tdtb]]). Phong thư là một chi tiết đời thường, không phải vết thương.
+- **Không bi kịch hoá.** Tsuna không day dứt chuyện bố mẹ: cậu vốn chỉ để tâm tới hệ thống và đồng đội cũ. Phong thư là một chi tiết đời thường, không phải vết thương.
 - Ngoài phong thư, **chưa chốt**: nhà bỏ hoang từ bao giờ, vì sao hai người đi, phong thư gửi từ đâu, Tsuna sống ở đâu từ lúc nào.
   Cảnh nào cần thì hỏi Aurel khi lập kế hoạch cảnh đó.
 - Iemitsu là đồng nghiệp của Reborn ([[qd-ky-uc-kich-hoat-khi-cham-tsuna-tdtb]]). Điều đó **không** cho phép viết ông trái với

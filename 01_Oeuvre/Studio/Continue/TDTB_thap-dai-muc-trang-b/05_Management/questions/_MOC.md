@@ -41,7 +41,7 @@ Câu hỏi **chưa chốt** (🟡) không đọc như `decision`. Mỗi câu có
 | [[q-thuoc-uc-che-da-mua-lai-chua-tdtb]] | ✅ giải 28/09 — văn bản trả lời → [[qd-thuoc-da-mua-lai-truoc-show-tdtb]] | Tsuna đã mua lại thuốc ức chế cường hiệu trước khi lên show chưa? |
 | [[q-truong-va-hoc-ky-tdtb]] | ✅ giải 28/09 → [[qd-tranh-chi-tiet-mua-tdtb]] | Trường của Tsuna là loại trường gì, và show quay vào lúc nào trong năm? |
 | [[q-tsuna-nay-va-juudaime-tdtb]] | ✅ giải 26/09 → [[qd-tsuna-nay-la-juudaime-tdtb]] | Tsuna của TDTB và "Juudaime trong ký ức" có phải một người không? |
-| [[q-nhip-tap-show-tdtb]] | ✅ giải 30/09 → [[qd-moi-tap-hai-ngay-tdtb]] | Một tập show quay mấy ngày, hai tập cách nhau bao lâu? |
+| [[q-nhip-tap-show-tdtb]] | mở lại 21/11 — chốt cũ đã xóa | Một tập show quay mấy ngày, hai tập cách nhau bao lâu? |
 | [[q-thien-su-si-oc-sang-tdtb-tdtb]] | ✅ giải một phần 11/10 → [[qd-thien-su-the-gioi-song-song-tdtb]] | Thiên sư SI OC vào TDTB bằng đường nào, thiết lập nào? |
 | [[q-gioi-cua-gokudera-tdtb]] | ✅ giải 30/09 → [[qd-gokudera-alpha-tdtb]] | Gokudera là alpha, beta hay Omega? |
 | [[q-cach-lo-omega-tdtb]] | ❌ mở — cần trước khi lập đại cương | Tsuna lộ Omega bằng đường nào? (bẻ đường "phát tình giữa chỗ đông") |

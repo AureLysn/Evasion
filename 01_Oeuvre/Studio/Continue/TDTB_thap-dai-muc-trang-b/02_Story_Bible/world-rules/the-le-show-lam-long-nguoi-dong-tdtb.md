@@ -48,4 +48,3 @@ last_updated: 2026-11-21
 
 | # | Luật | Căn cứ |
 |---|---|---|
-| A1 | Mỗi tập quay **hai ngày** ở biệt thự, kết bằng chấm điểm tối ngày thứ hai. Giữa hai tập, khách **về nhà vài ngày** | [[qd-moi-tap-hai-ngay-tdtb]] (30/09) |

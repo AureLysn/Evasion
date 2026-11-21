@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: active
 aliases: ["HSR characters", "Aeon HSR", "ba Aeon HSR", "MOC nhan vat HSR", "MOC nhân vật HSR"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-11-13
+last_updated: 2026-11-21
 ---
 
 # MOC — HSR / characters
@@ -37,8 +37,6 @@ Loại thực thể `character`: Aeon là thực thể có ý chí, không phả
 
 ## Fic nào dùng theo hướng nào
 
-Ba bảng ngoại hình dưới đây được tra cho `CLS` theo luật của `CLS` và nằm trong project từ 2026-11-13:
+Bảng ngoại hình dưới đây được tra cho `CLS` theo luật của `CLS` và nằm trong project từ 2026-11-13:
 
-- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]] — ngoại hình Robin, Firefly, Dahlia, Gallagher, Sampo, bác sĩ Edward theo ảnh In-Game wiki · *01/11/2026*
-- **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Amphoreus-npc-ngoai-hinh|Amphoreus-npc-ngoai-hinh]] — ngoại hình nhân vật Amphoreus · *25/10/2026*
 - **CLS** — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Planarcadia-npc-ngoai-hinh|Planarcadia-npc-ngoai-hinh]] — NPC Planarcadia: tên Trung và ngoại hình · *13/10/2026*

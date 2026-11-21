@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hai vong chieu", "hai vòng chiếu", "vong su kien", "vòng sự kiện", "vong the gioi cu", "vòng thế giới cũ", "sau arc CLS", "sáu arc CLS"]
-related: ["[[CLS]]", "[[khung-chieu-xem-gop]]", "[[quy-mo-arc-khep-kin]]"]
+related: ["[[CLS]]", "[[khung-chieu-xem-gop]]"]
 source:
   type: user_input
   ref: "Aurel 03/10/2026: 'moi nguoi co hai lan dau tien la chieu cac su kien truoc sau do moi chieu ve the gioi cu' -> chon 'Ca ba su kien truoc, roi ca ba the gioi cu'. Nguyen van: sources/user-input/20261003-bo-mat-nang-luc-va-hai-vong-chieu.md"
@@ -31,7 +31,7 @@ last_updated: 2026-11-21
 
 ## Hệ quả
 
-- Mỗi arc khép kín 8–12 chương ([[quy-mo-arc-khep-kin]]). Thứ tự và số arc: khung mới quyết *(reset 21/11/2026)*.
+- Độ dài, thứ tự và số arc: khung mới quyết *(reset 21/11/2026)*.
 - **Vòng 1 không chiếu thế giới cũ.** Việc bị thay chỗ, kẻ ngoại lai, gia đình cũ **không** hiện ra ở vòng 1 — người xem thấy ba người lạ làm
   sự kiện đi khác mà **chưa biết họ từ đâu tới**.
 - Tuyến riêng của mỗi nhân vật **đóng ở vòng 2**; arc vòng 1 đóng tuyến của **sự kiện** nó chiếu.

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch07 arc 2 CLS", "bảng tên tiếng Trung ch07 arc 2", "Lech dan y ch07 arc 2 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch07 arc 2. Ten MOI lay tu bang de xuat trong ch07-plan-a2 (TextMap cn); phien viet doc lai TextMap cn tren may 27/10 (chi doc; trich chuoi ra file tam de grep, khong chep van) de kiem su co mat cua tung chuoi ten/thuat ngu o duoi (cot Chac?). Chi so dong trong tom tat nhiem vu cua phien viet khong trung so cua planner (cach tach chuoi khac) nen KHONG ghi chi so, chi ghi 'co trong TextMap cn'. CHUA doi chieu Name HSR - Tong.csv cua Aurel (A4). Ten khong tra ra thi ghi ro, khong doan."
@@ -107,7 +107,7 @@ Cột 「Chắc?」: **TextMap cn** = chuỗi có thật trong TextMap cn (phiê
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]], **số nét theo thẻ**:
+Tả theo Amphoreus-npc-ngoai-hinh, **số nét theo thẻ**:
 - **Cyrene** *(mới)*: 「粉头发」 · 「尖耳朵」 *(7.01, 7.04 một lần, 7.06)*; **không** trang phục. 7.06 thêm **bàn tay** *(canon: giờ có tay)* — không găng/nhẫn.
 - **Cerydra** *(7.02, D4)*: 3 nét — 银白短发 · 头顶蓝色晶体 · 白袖黑白菱格. 7.05 lại nhắc **một nét** 「袖面上黑白的菱格」.
 - **Hysilens** *(7.02, D4)*: 3 nét — 黑发又长又直 · 白色尖饰 *(鱼鳍的形状)* · 红手套 *(chỉ nói 「一只手」, không nêu tay nào)*. 7.03 chỉ 「长长的黑发漂在水面上」 *(nàng đang ngâm)*.

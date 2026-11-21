@@ -44,4 +44,4 @@ Ghi chú ch15 — tác giả trách không ai đoán: 「为什么没有人猜�
 
 ## Phương án payoff đang cân nhắc
 
-Chưa. Xem q-loi-giai-bi-an-trung-tam — lớp giả thuyết và lớp lời giải cũ đã tách riêng.
+Chưa.

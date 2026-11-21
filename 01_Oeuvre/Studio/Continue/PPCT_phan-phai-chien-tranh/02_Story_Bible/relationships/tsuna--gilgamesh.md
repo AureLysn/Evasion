@@ -43,7 +43,7 @@ last_updated: 2026-11-21
 | ch9 | Tuyên bố Tsuna là bảo vật; Zero Point; Archer "đã đoán ra loại bảo vật" |
 | ch14 | Uống rượu Vongola, chê nhẹ |
 | ch15 | Khen 「连Caster都比你有做王的担当」 (để hạ Saber) |
-⚠️ **Giả thuyết của Aurel về thái độ Archer** — tổng hợp cách Gilgamesh đối xử với Saber và với Enkidu — là cách đọc, không phải fact. Xem q-loi-giai-bi-an-trung-tam.
+⚠️ **Giả thuyết của Aurel về thái độ Archer** — tổng hợp cách Gilgamesh đối xử với Saber và với Enkidu — là cách đọc, không phải fact.
 
 ## Cách xưng hô
 

@@ -47,4 +47,4 @@ Archer coi Tsuna là bảo vật thời không bị trộm khỏi kho. Tsuna kh�
 
 ## Phương án payoff đang cân nhắc
 
-Giả thuyết của Aurel (ba vật phẩm bầu trời → vị trí quản trị Tri-ni-sette) nằm ở q-loi-giai-bi-an-trung-tam. Văn bản tả vật phẩm thế nào: [[fact-vat-pham-tren-nguoi-tsuna]].
+Văn bản tả vật phẩm thế nào: [[fact-vat-pham-tren-nguoi-tsuna]].

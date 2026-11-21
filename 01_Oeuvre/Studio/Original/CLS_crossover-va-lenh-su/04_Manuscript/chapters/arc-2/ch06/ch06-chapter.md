@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 6 arc 2 CLS", "chương 6 arc 2 CLS", "ch06 arc 2 CLS zh", "第六章 造像", "ban thu tieng Trung ch06 arc 2 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-chapter|ch05-chapter]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-chapter|ch05-chapter]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) theo ch06-plan-a2 va nam the canh a2-ch06-01..05 (sua theo review-plan 27/10: Đ-1 cau dua ve buc tuong, Đ-4 mac dinh (a), Hau Due nga moi nguoi mot hinh). Noi tu cau cuoi ch05 arc 2 (final): bong ao den buoc ra, Phainon bao tiep tuc. Canon: TextMap cn (doc, 27/10) va wiki-thoai nhom B 1.18-1.20, nhom C muc 1, phai sinh, dien y, khong chep thoai (B1). Ngoai hinh nhan vat HSR theo Amphoreus-npc-ngoai-hinh (C6 khong ap arc 2, Aurel 25/10); mat duoi mat na chi 'giong mat Phainon, nut nhu tuong vo'; Cyrene moi chi toc hong, tai nhon. Hat khong co mat o ca chuong (Aurel 27/10: khong cham bay Cyrene). Cac khoi phim ke tu ngoai, cac nhip phong ke tu Phainon. Ban nhap, tieng Trung. Chua qua xuong-kiem check-continuity. Sua 27/10 (fix, hang doi) theo check-continuity: V1 bo sac thai vong #1, V2 Mydei quay lung khong cong, V3 bo luot niem cho ai nghe, V4 bo luot Phainon-Mem, V5 kiem len hinh truoc; N1-N10."

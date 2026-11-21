@@ -17,7 +17,7 @@ authority: user
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Định danh các vật phẩm trên người Tsuna
@@ -44,6 +44,6 @@ last_updated: 2026-09-13
 
 ## Ràng buộc kéo theo
 
-- Giả thuyết ba vật phẩm bầu trời (Vongola · Mare · núm vú) **có đủ vật chứng**. Nó vẫn **chưa phải lời giải** bí ẩn trung tâm — q-loi-giai-bi-an-trung-tam còn mở.
+- Giả thuyết ba vật phẩm bầu trời (Vongola · Mare · núm vú) **có đủ vật chứng**. Nó vẫn **chưa phải lời giải** bí ẩn trung tâm.
 - Viết nhẫn Simon lên trang như một cái tên: cần đối chiếu canon trước (`crosscheck-canon`); chỉ tả năng lực như ch8 thì không cần.
 - Nhẫn đeo cổ ch4: không gán tên cho tới khi có quyết định.

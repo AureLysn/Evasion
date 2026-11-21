@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 5 arc 2 CLS", "chương 5 arc 2 CLS", "ch05 arc 2 CLS zh", "第五章 邀约", "ban thu tieng Trung ch05 arc 2 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) theo ch05-plan-a2 va nam the canh a2-ch05-01..05, da tu duyet 27/10 (sua theo ch05-review: Đ-1, Đ-2, Đ-3 theo mac dinh an toan). Noi tu cau cuoi ch04 arc 2 (final). Canon: TextMap cn tom tat nhiem vu va wiki-thoai nhom B 1.15-1.17 (phai sinh, dien y, khong chep thoai - B1); nhan ba man 启程 / 试炼 / 归返 grep TextMap cn 27/10. Ngoai hinh nhan vat HSR theo Amphoreus-npc-ngoai-hinh (C6 khong ap arc 2, Aurel 25/10); Lygus tu dong Lygus cua do; Cyrene chi toc hong, tai nhon. Nguoi o hang tap hoa: thiet ke de xuat Đ1 (cho Aurel xem); guong mat duoc ta o arc 2 (Aurel 26/10). Aurel 27/10: Dazai khong cham bay Cyrene, dieu kien 5.03 khong gan voi bay. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Phainon. Ban nhap, tieng Trung. Chua qua xuong-kiem check-continuity. Sua 27/10 (fix, hang doi) theo check-continuity: V1 con cho len phim, V2 bo toc trang/moi lan, V3 Lygus khong khen, N1-N6 (cuon so roi khoi cau dieu kien, 想必也听得见, bo 是自己)."

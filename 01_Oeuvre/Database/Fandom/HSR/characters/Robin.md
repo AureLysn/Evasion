@@ -15,12 +15,12 @@ authority: franchise
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-11-13
+last_updated: 2026-11-21
 ---
 
 # Robin (知更鸟) — em gái Sunday, ca sĩ Hài hoà
 
-> Mở 01/11/2026 cho CLS arc 3. Nguồn: **chuỗi TextMap cn** trên máy *(đọc 01/11)*. Chuỗi trích **ngắn**, phần còn lại diễn ý. **Ngoại hình** không ghi ở đây: xem `Penacony-npc-ngoai-hinh` *(ảnh In-Game wiki; ghi chú của project `CLS`, link ở mục cuối)*.
+> Mở 01/11/2026 cho CLS arc 3. Nguồn: **chuỗi TextMap cn** trên máy *(đọc 01/11)*. Chuỗi trích **ngắn**, phần còn lại diễn ý. **Ngoại hình** chưa ghi.
 > Note ghi canon game. Dự án nào giấu điều gì khỏi trang là việc của dự án đó.
 
 ## Cách gọi
@@ -64,7 +64,7 @@ Dòng 30091 tóm cùng tuyến ấy theo bốn gạch: điều tra bất hoà â
 
 ## Ngoại hình
 
-Không ghi ở đây. `Penacony-npc-ngoai-hinh` *(ảnh `Character_Robin_Game.png`, tải 01/11)*.
+Chưa ghi. Bảng ngoại hình CLS từng dựng cho arc 3 đã xóa khi reset 21/11/2026 *(ảnh `Character_Robin_Game.png`, tải 01/11)*.
 
 ## Chưa tra
 
@@ -74,4 +74,3 @@ Không ghi ở đây. `Penacony-npc-ngoai-hinh` *(ảnh `Character_Robin_Game.pn
 
 ## Fic nào dùng theo hướng nào
 
-- **CLS** — ngoại hình Robin theo ảnh In-Game của wiki: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]]

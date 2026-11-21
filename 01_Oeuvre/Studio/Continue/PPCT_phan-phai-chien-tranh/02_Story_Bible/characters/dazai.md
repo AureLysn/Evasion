@@ -35,7 +35,7 @@ Người của **Cảng Mafia** ở một vũ trụ song song của BSD. [[mori]
 
 - Tính cách **ít nhất 50% là Ōba Yōzō** — [[fact-dazai-mot-nua-la-yozo]].
 - Nhặt được **「书」**, không thấy thế giới chính mà thấy **ký ức kiếp trước** — [[fact-dazai-nhat-sach-thay-kiep-truoc]].
-- Trước truyện đã dùng thế lực Cảng Mafia tìm người; một trong số đó là **Gokudera Hayato**, chưa gặp — [[hook-gokudera-dang-duoc-tim]] · q-dazai-tim-gokudera-de-lam-gi.
+- Trước truyện đã dùng thế lực Cảng Mafia tìm người; một trong số đó là **Gokudera Hayato**, chưa gặp — [[hook-gokudera-dang-duoc-tim]].
 - Có nguyện vọng giấu Mori. Tác giả: là Master **duy nhất đạt nguyện vọng ngay khi triệu hồi** — [[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]].
 - **Ma lực rất ít**, mạch ma thuật như Shirou — [[fact-ma-luc-dazai-rat-thap]].
 - **Ba đạo lệnh chú, chưa dùng đạo nào** — ở **mu bàn tay phải, dưới lớp băng quấn**.

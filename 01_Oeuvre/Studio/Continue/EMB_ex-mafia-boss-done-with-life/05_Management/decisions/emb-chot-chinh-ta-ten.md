@@ -11,7 +11,7 @@ decided: 2026-10-01
 decided_by: user
 decided_at: 2026-10-01
 aliases: ["chinh ta ten nhan vat", "Kyouya hay Kyoya", "Shouichi hay Shoichi", "chinh ta fandom", "ten rieng viet the nao"]
-related: ["[[20261001-soat-nen-du-kien]]", "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: [ "[[kyouya]]", "[[shouichi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 01/10/2026, tra loi muc K1 cua 20261001-soat-nen-du-kien: 'giu chinh ta fandom'."
@@ -21,7 +21,7 @@ always_load: false
 load_for: [writer, reviewer, planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [decision]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Chốt — tên riêng viết theo **chính tả fandom**, không theo chính tả của tác giả
@@ -39,7 +39,7 @@ Dạng fandom cũng là dạng **tag AO3 của chính fic** *(Hibari Kyouya · I
 
 ## Đây là lệch có chủ đích
 
-Số đo ở [[20261001-soat-nen-du-kien]] mục K1. Theo [[03-precedence]] thì chính tả của tác giả thắng; Aurel chọn giữ dạng fandom **như một lựa chọn của nhánh**. Reviewer gặp *Kyouya* trong bản nháp thì **không báo lỗi**.
+Số đo nằm ở báo cáo `20261001-soat-nen-du-kien` mục K1 *(báo cáo đã xóa khi reset 21/11/2026)*. Theo [[03-precedence]] thì chính tả của tác giả thắng; Aurel chọn giữ dạng fandom **như một lựa chọn của nhánh**. Reviewer gặp *Kyouya* trong bản nháp thì **không báo lỗi**.
 
 ## Ràng buộc kéo theo
 

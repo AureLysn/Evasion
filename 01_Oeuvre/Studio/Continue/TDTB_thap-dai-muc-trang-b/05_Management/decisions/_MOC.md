@@ -41,10 +41,8 @@ Lựa chọn **đã khoá** (`status: locked`). Đổi phải có lý do viết 
 | [[qd-tranh-chi-tiet-mua-tdtb]] | [[q-truong-va-hoc-ky-tdtb]] | Không chốt mùa; tránh chi tiết về mùa |
 | [[qd-cha-la-iemitsu-tdtb]] | [[q-cha-cua-tsuna-tdtb]] | Cha là Iemitsu; viết theo giả thuyết của Aurel ([[gia-thuyet-khr-cua-aurel]]) |
 | [[qd-lua-o-the-gioi-thuc-tdtb]] | [[q-lua-o-the-gioi-thuc-tdtb]] | Có Lửa, chưa thử ở thế giới thực; Lửa là bí mật thế giới ngầm |
-| [[qd-moi-tap-hai-ngay-tdtb]] | [[q-nhip-tap-show-tdtb]] | Mỗi tập quay hai ngày; giữa hai tập khách về nhà vài ngày (30/09) |
 | [[qd-gokudera-alpha-tdtb]] | [[q-gioi-cua-gokudera-tdtb]] | Gokudera là alpha (30/09) |
 | [[qd-thuoc-da-mua-lai-truoc-show-tdtb]] | [[q-thuoc-uc-che-da-mua-lai-chua-tdtb]] | Thuốc đã mua lại và uống trước show; đồng hồ tính lại (văn bản; giải 28/09, note 30/09) |
-| [[qd-tsuna-tren-show-thu-dong-tdtb]] | — | Tsuna trên show thụ động, không cố tình; chỉ cứng lên khi bảo vệ người của mình (03/10) |
 | [[qd-nha-namimori-bo-hoang-tdtb]] | — | Nhà Namimori bỏ hoang; Nana ở cùng Iemitsu; Tsuna không biết họ ở đâu, chỉ nhận phong thư (03/10) |
 | [[qd-nhip-tra-mach-tuy-su-kien-tdtb]] | — | "Trả mạch nhanh" tuỳ sự kiện; mạch Gokudera được treo (03/10) |
 | [[qd-nha-bo-hoang-4-5-nam-tdtb]] | [[q-nha-bo-hoang-tu-bao-gio-tdtb]] | Nhà bỏ hoang 4–5 năm; hàng xóm biết rất ít; Gokudera lục giấy tờ đăng ký công dân và nhập học (03/10) |

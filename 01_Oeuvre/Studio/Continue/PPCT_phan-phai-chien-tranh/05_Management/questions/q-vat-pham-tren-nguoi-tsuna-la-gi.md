@@ -30,10 +30,6 @@ last_updated: 2026-11-21
 
 Giả thuyết trung tâm của Aurel — Tsuna đeo đủ **ba vật phẩm bầu trời** của Tri-ni-sette: nhẫn Vongola, nhẫn Mare, núm vú — cần mỗi món khớp với một mô tả trong văn bản. Văn bản thật tả **ít nhất năm món**: [[fact-vat-pham-tren-nguoi-tsuna]].
 
-## Cần chốt trước
-
-Trước khi chốt q-loi-giai-bi-an-trung-tam.
-
 ## Ai quyết
 
 🟡 AI đối chiếu canon KHR ở `crosscheck-canon`, người viết duyệt

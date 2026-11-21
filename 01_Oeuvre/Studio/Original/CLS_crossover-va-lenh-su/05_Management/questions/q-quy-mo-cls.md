@@ -5,7 +5,8 @@ scope: project
 project: CLS
 lane: personal
 canon_layer: planned
-status: resolved
+status: unresolved
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["quy mo CLS", "bao nhieu chuong", "do dai CLS", "dai bao nhieu", "scope CLS", "dai ma vo nghia"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[20260914-tong-hop-chan-doan]]"]
@@ -21,7 +22,7 @@ last_updated: 2026-11-21
 
 # CLS dài bao nhiêu chương?
 
-> ✅ **ĐÃ CHỐT 03/10/2026** — arc khép kín 8–12 chương, không chốt tổng số: [[quy-mo-arc-khep-kin]].
+> 🔁 **Mở lại 21/11/2026.** Chốt 03/10/2026 (arc khép kín 8–12 chương, không chốt tổng số) đã xóa khi reset theo quyết định của Aurel; trả lời lại khi lập khung.
 
 > ⚠️ **CHƯA CHỐT.** Chặn `plan-continuation` — không chia arc được khi chưa biết tổng độ dài.
 

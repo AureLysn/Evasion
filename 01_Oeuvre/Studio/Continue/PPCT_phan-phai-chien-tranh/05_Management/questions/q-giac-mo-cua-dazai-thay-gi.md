@@ -50,5 +50,5 @@ Giấc mơ tiếp theo của Dazai lên trang.
 ## Các phương án
 
 - **A — Chỉ ký ức của Tsuna** (khớp ch10 + canon Fate thông thường). Giấc mơ ch18 lấy một đoạn đời Tsuna ở thế giới A **trước** cái chết. "Cuối cùng" ở ch10 = cảnh cuối theo thời gian, không phải lần mơ cuối. *Giá:* bỏ cảnh đám tang và phục bút "nhẫn trên thi thể" của dàn ý cũ.
-- **B — Ký ức của Tsuna, cộng thứ Tsuna cảm được ở ranh giới sau khi chết** (nối lời giải cũ: di sản đặt vào linh hồn ở ranh giới tử–sinh). Giữ được phục bút nhẫn Mare nhưng **dính chặt** vào q-loi-giai-bi-an-trung-tam — phải chốt câu đó trước.
+- **B — Ký ức của Tsuna, cộng thứ Tsuna cảm được ở ranh giới sau khi chết** (nối lời giải cũ: di sản đặt vào linh hồn ở ranh giới tử–sinh). Giữ được phục bút nhẫn Mare nhưng **dính chặt** vào lời giải bí ẩn trung tâm, mà lời giải ấy chưa có.
 - **C — Giấc mơ không chỉ từ liên kết Master–Servant** (vd Sách / ký ức kiếp trước của chính Dazai). *Giá:* ch1 nói Dazai nhặt Sách thấy **ký ức kiếp trước của mình**, nhưng giấc mơ ch10 lại là ký ức **của Tsuna** — hai nguồn này phải được phân rõ, là luật mới.

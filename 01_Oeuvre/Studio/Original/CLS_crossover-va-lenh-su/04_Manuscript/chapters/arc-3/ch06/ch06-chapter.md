@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 6 arc 3 CLS", "chương 6 arc 3 CLS", "ch06 arc 3 CLS zh", "第六章 裂口", "ban nhap tieng Trung ch06 arc 3 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch05/ch05-chapter|ch05-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch05/ch05-chapter|ch05-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam) theo ch06-plan-a3 va bon the canh a3-ch06-01..04 (da sua 02/11). Noi tu cuoi ch05 arc 3 (final): 'tuong thanh, dao con trong vo, tren tsuba mot mieng sang trang'. Canon: TextMap cn 30097, 113205-113207, 195996-195997, 196076-196178 va wiki Every Dawn of the World (thoai ghi nguoi noi) - chi dien y, khong chep thoai (B1). Ngoai hinh 深魇蝗灾 theo Penacony-npc-ngoai-hinh (anh In-Game wiki, tai 02/11); Acheron, Boothill, Firefly, Soi Bac theo cac note ngoai hinh. PHIEN DAT / DE XUAT (khong canon): toan bo 6.04 (cuoc goi), cac cau trong phong, mot so cau noi dien y cua Firefly. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban nhap, tieng Trung."

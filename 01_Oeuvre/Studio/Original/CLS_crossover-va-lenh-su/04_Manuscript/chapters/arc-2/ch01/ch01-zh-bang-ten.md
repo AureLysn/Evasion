@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["ch01 arc 2 CLS zh", "bang ten tieng Trung ch01 arc 2 CLS", "bảng tên tiếng Trung ch01 arc 2"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-zh-bang-ten|ch07-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-zh-bang-ten|ch07-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 25/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch01 arc 2. Ten MOI lay tu bang de xuat trong ch01-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o arc 1 lay lai tu bang ten ch01 va ch08 arc 1. Ten khong tra ra thi ghi ro, khong doan."
@@ -66,4 +66,4 @@ Tên dùng lại từ arc 1: bảng tên ch01 arc 1 *(波提欧 · 星 · 三月
 
 ## Ngoại hình HSR trong chương *(C6 không áp arc 2, Aurel 25/10)*
 
-Tả theo [[Amphoreus-npc-ngoai-hinh]] *(ảnh In-Game / NPC wiki HSR Fandom, tra 25/10; trang phục riêng bản 3.0 có khác không: chưa tra)*: Phainon · Black Swan · Screwllum · Pom-Pom · Tribbie · Mydei · Castorice · Aglaea. Boothill theo [[Boothill]] § Ngoại hình. Đoàn tàu không tả lại, chỉ nhắc nét đã có ở arc 1 *(球棒 của Stelle, 手杖 và vết nứt kính của Welt, 光环 của Sunday)*.
+Tả theo Amphoreus-npc-ngoai-hinh *(ảnh In-Game / NPC wiki HSR Fandom, tra 25/10; trang phục riêng bản 3.0 có khác không: chưa tra)*: Phainon · Black Swan · Screwllum · Pom-Pom · Tribbie · Mydei · Castorice · Aglaea. Boothill theo [[Boothill]] § Ngoại hình. Đoàn tàu không tả lại, chỉ nhắc nét đã có ở arc 1 *(球棒 của Stelle, 手杖 và vết nứt kính của Welt, 光环 của Sunday)*.

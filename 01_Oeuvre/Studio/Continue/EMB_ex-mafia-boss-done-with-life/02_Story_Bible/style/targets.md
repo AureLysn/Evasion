@@ -73,6 +73,8 @@ Từ nay:
 
 ⚠️ **Mười chỉ tiêu trên cả hai công cụ đọc được** nằm trong frontmatter [[ai-tells]] (`gate.targets`). Note này là **bản giải thích**; sửa số thì sửa **cả hai chỗ**, không thì vault có hai bộ ngưỡng lệch nhau.
 
+> **Ước lượng số từ của khung arc là sàn** — Aurel, 17/09/2026: *"xem ước lượng là sàn, mình không phiền nếu chương bị dài do câu truyện hay"*. Không cắt cảnh để khớp ngân sách khung; vượt đáng kể thì báo số như thông tin. Khoảng **8.000–13.000 từ/chương** ở trên là số đo từ tác giả gốc và không đổi.
+
 ## 🔴 Hai kết luận cũ bị lật
 
 **1. "Bản AI viết nhiều thoại hơn tác giả" — sai mốc so.** Bản cũ so sáu chương AI *(15,3–26,9 % từ trong thoại)* với **mức gộp cả truyện 11,7 %** và kết luận AI thoại quá nhiều. Nhưng giọng tác giả **dịch rất mạnh giữa hai phần**: Part 1 **5,0 %**, Part 2 **20,9 %**. Nhánh viết tiếp **nối từ Part 2** — so với Part 2 thì sáu chương AI **nằm đúng khoảng**. Chẩn đoán *"thiếu hụt nằm bên trong chính lời thoại — nhân vật không bao giờ mất bình tĩnh"* **vẫn đứng**, vì nó dựa trên `?` và `!`, không dựa trên lượng thoại.

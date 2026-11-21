@@ -5,9 +5,8 @@ scope: project
 lane: personal
 project: TDTB
 canon_layer: planned
-status: resolved
-resolved_by: "[[qd-moi-tap-hai-ngay-tdtb]]"
-resolved_at: 2026-09-30
+status: unresolved
+needed_before: "khi lap khung"
 decision_owner: "shared"
 aliases: ["nhip tap show TDTB", "mot tap quay may ngay", "khoang cach giua hai tap show", "lich quay show TDTB"]
 related: ["[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[h-uc-che-te-het-han-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]"]
@@ -23,7 +22,7 @@ last_updated: 2026-11-21
 
 # Một tập show quay mấy ngày, và hai tập cách nhau bao lâu?
 
-> ✅ **Đã giải 30/09/2026** → [[qd-moi-tap-hai-ngay-tdtb]]. Phương án **A**: mỗi tập hai ngày, giữa hai tập khách về nhà vài ngày. Thân câu hỏi dưới đây giữ nguyên để biết vì sao đã hỏi.
+> 🔁 **Mở lại 21/11/2026.** Chốt 30/09/2026 (phương án **A**: mỗi tập hai ngày, giữa hai tập khách về nhà vài ngày) đã xóa khi reset theo quyết định của Aurel; trả lời lại khi lập khung.
 
 > ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật.
 

@@ -10,7 +10,7 @@ status: unresolved
 needed_before: "khi lap khung — chuong con cao duoc goi ten lan dau"
 decision_owner: user
 aliases: ["ten con cao", "Natsu nghia khac", "Tomoshibi con dung khong", "con cao ten gi", "dat ten cho kudagitsune"]
-related: ["[[natsu]]", "[[tsuna--natsu]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[nguoi-ban-cu]]", "[[20261001-soat-nen-du-kien]]"]
+related: ["[[natsu]]", "[[tsuna--natsu]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[nguoi-ban-cu]]"]
 source:
   type: user_input
   ref: "Aurel, 01/10/2026, tra loi muc K4 cua 20261001-soat-nen-du-kien: 'minh dang nghi van de natsu nhung la mot nghia khac'."

@@ -10,7 +10,7 @@ status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 4 arc 2 CLS", "chương 4 arc 2 CLS", "ch04 arc 2 CLS zh", "第四章 三千万次", "ban thu tieng Trung ch04 arc 2 CLS"]
-related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) theo ch04-plan-a2 va nam the canh a2-ch04-01..05, da tu duyet 26/10 (sua theo ch04-review: Đ-5, Đ-12, Đ-13 theo mac dinh an toan). Noi tu cau cuoi ch03 arc 2 (final). Canon: TextMap cn tom tat nhiem vu va wiki-thoai nhom B (phai sinh, dien y, khong chep thoai - B1). Ngoai hinh nhan vat HSR theo Amphoreus-npc-ngoai-hinh (C6 khong ap arc 2, Aurel 25/10); Cipher, Caenis da co o do. Nguoi o hang tap hoa: thiet ke de xuat Đ1 (cho Aurel xem); guong mat duoc ta o arc 2 (Aurel 26/10). Cac khoi phim ke tu ngoai, cac nhip phong ke tu Phainon. Ban nhap, tieng Trung. Chua qua xuong-kiem check-continuity. Sua 26/10 (fix, hang doi) theo check-continuity: V1 bo banh o 4.03, V2 bo the doi dong xu, V3 缇宝 mo 百界门 theo TextMap, V4 mat na truoc cau Đ-5, N2–N4, N6–N8."
