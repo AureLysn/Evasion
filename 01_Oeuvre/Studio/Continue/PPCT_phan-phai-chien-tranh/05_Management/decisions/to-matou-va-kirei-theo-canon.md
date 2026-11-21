@@ -9,7 +9,7 @@ status: locked
 resolves: [question.PPCT.q-to-matou-va-kirei-co-trong-truyen]
 decided_at: 2026-09-13
 aliases: ["to Matou va Kirei theo canon", "Kariya la Master Berserker PPCT", "Kirei la Master Assassin PPCT", "nha Mato co trong truyen"]
-related: ["[[q-to-matou-va-kirei-co-trong-truyen]]", "[[berserker]]", "[[assassin]]", "[[assassin-chua-chet]]", "[[Lancelot-Berserker]]", "[[Hassan-of-the-Hundred-Faces]]", "[[Kariya-Matou]]", "[[Kirei-Kotomine]]"]
+related: ["[[q-to-matou-va-kirei-co-trong-truyen]]", "[[berserker]]", "[[assassin]]", "[[Lancelot-Berserker]]", "[[Hassan-of-the-Hundred-Faces]]", "[[Kariya-Matou]]", "[[Kirei-Kotomine]]"]
 source:
   type: user_input
   ref: "Aurel, chat 13/09/2026: 'nha Mato va Kirei co trong truyen'"

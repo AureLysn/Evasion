@@ -9,7 +9,7 @@ status: resolved
 resolved_by: to-matou-va-kirei-theo-canon
 decision_owner: user
 aliases: ["to Matou va Kirei", "Kariya co trong truyen khong", "Kirei chua tung duoc neu ten", "Master cua Berserker PPCT", "Master cua Assassin PPCT"]
-related: ["[[berserker]]", "[[assassin]]", "[[assassin-chua-chet]]", "[[Lancelot-Berserker]]", "[[Hassan-of-the-Hundred-Faces]]"]
+related: ["[[berserker]]", "[[assassin]]", "[[Lancelot-Berserker]]", "[[Hassan-of-the-Hundred-Faces]]"]
 source:
   type: fic_text
   ref: "反派战争 ch5 (Kiritsugu nghi toi 'nguoi han ki de'), ch7–9 (Berserker)"

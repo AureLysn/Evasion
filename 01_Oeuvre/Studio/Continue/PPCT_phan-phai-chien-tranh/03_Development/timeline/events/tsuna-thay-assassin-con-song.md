@@ -13,7 +13,7 @@ date:
 participants: ["character.PPCT.tsuna"]
 location: ["location.PPCT.khu-kho-cang-mien-vien"]
 aliases: ["Tsuna thay Assassin con song", "bong nguoi lua xanh tham", "Tsuna chon im lang", "选择沉默"]
-related: ["[[assassin-chua-chet]]", "[[hook-assassin-con-song]]", "[[q-dazai-co-biet-assassin-con-song]]"]
+related: ["[[hook-assassin-con-song]]", "[[q-dazai-co-biet-assassin-con-song]]"]
 source:
   type: fic_text
   ref: "反派战争 ch7"
@@ -31,7 +31,7 @@ Rider nói Archer đã giết Assassin. Tsuna gõ tai nghe, **bật hồng ngo�
 
 ## Hệ quả
 
-Tsuna nắm một mẩu tin mà các phe khác tin ngược lại — [[assassin-chua-chet]].
+Tsuna nắm một mẩu tin mà các phe khác tin ngược lại — assassin-chua-chet *(đã xóa 21/11/2026)*.
 
 Có khi nào Dazai cũng thấy (vì hay mượn mắt Tsuna)? Văn bản không nói — [[q-dazai-co-biet-assassin-con-song]].
 

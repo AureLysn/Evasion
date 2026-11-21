@@ -68,7 +68,7 @@ Cách gọi: `relationships/`.
 ## Nhân vật này BIẾT gì
 
 - Biết: [[dazai-mang-ky-uc-kiep-truoc]] · [[tsuna-bi-byakuran-giet]] (từ giấc mơ ch10) · [[kiritsugu-la-master-that]] (tự suy ra, ch4)
-- Chưa rõ: [[assassin-chua-chet]] — xem [[q-dazai-co-biet-assassin-con-song]]
+- Chưa rõ: assassin-chua-chet *(đã xóa 21/11/2026)* — xem [[q-dazai-co-biet-assassin-con-song]]
 
 ## Quan hệ
 
