@@ -11,7 +11,7 @@ related: ["[[EMB]]", "[[sources/_MOC|sources]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question, blocking]
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
 # Câu hỏi — EMB
@@ -30,6 +30,7 @@ last_updated: 2026-11-20
 | [[q-bermuda-an-toi]] — Bermuda có tới Namimori ăn tối không | phần lớn là lời Aurel về chủ đề, lore và giọng |
 | [[q-cam-khoan-vendicare]] — cấm khoản Vendicare còn dùng không | |
 | [[q-ten-con-cao]] — con cáo tên gì | Aurel đang nghĩ *giữ Natsu với nghĩa khác* |
+| [[q-me-takeshi-ai-quyet]] — ai quyết trên trang ở vụ Yamamoto | tên bà đã chốt: Sachiko — [[emb-chot-me-takeshi]] |
 
 Chưa tách thành note riêng:
 

@@ -5,10 +5,8 @@ scope: project
 project: CLS
 lane: personal
 canon_layer: planned
-status: resolved
-needed_before:
-  arc: "arc mo dau"
-  chapter: "plan-continuation"
+status: unresolved
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["Tsuna truoc mot minh", "Tsuna trước một mình", "lam mot minh Tsuna truoc", "HSR xem arc Penacony khac", "Penacony khac", "gia toc len ke hoach", "Bao ho hot tay tren", "Bảo hộ hớt tay trên", "arc mo dau CLS"]
 related: ["[[CLS]]", "[[q-aeon-len-ke-hoach-co-lenh-su]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[q-quy-mo-cls]]", "[[q-xet-lai-menh-do]]", "[[watch-frame]]"]
@@ -19,13 +17,12 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Có mở truyện bằng một mình Tsuna trước không?
 
-> ✅ **ĐÃ CHỐT 03/10/2026 — theo chiều ngược:** arc Jason → Dazai → Tsuna; Tsuna là 「người đó」 được nhắc mà không nói rõ là ai.
-> arc-mo-dau-jason-dazai-tsuna. Phác thảo 25/09 dưới đây giữ làm biên bản — khuôn bốn nhịp *(xem → phe lên kế hoạch → phe khác phá → phe khác hớt tay trên)* vẫn dùng được cho cả ba arc.
+> 🔁 **Mở lại 21/11/2026.** Chốt 03/10/2026 *(thứ tự Jason → Dazai → Tsuna, Tsuna là 「người đó」)* đã xóa khi reset cùng dàn ý; quyết lại khi lập khung. Phác thảo 25/09 dưới đây giữ làm biên bản — khuôn bốn nhịp *(xem → phe lên kế hoạch → phe khác phá → phe khác hớt tay trên)* vẫn dùng được cho cả ba arc.
 
 > ⚠️ **CHƯA CHỐT.** Phụ thuộc [[q-aeon-len-ke-hoach-co-lenh-su]]. Aurel viết *"có lẽ"* và
 > *"kiểu kiểu vậy"* — đây là phác thảo, không phải kế hoạch.

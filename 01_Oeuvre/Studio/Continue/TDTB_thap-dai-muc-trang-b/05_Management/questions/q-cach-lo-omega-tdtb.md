@@ -6,9 +6,7 @@ lane: personal
 project: TDTB
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
+needed_before: "khi lap khung"
 decision_owner: "user"
 aliases: ["cach lo Omega TDTB", "duong 掉马 cua Tsuna", "be duong lo phat tinh", "Tsuna lo than phan the nao"]
 related: ["[[h-lo-than-phan-hoa-tang-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]"]

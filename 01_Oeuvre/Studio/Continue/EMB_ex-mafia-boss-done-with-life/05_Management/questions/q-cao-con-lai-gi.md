@@ -7,7 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before: "dong arc Brat"
 owner: user
 resolved_by: "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]"
 resolved_at: 2026-09-19

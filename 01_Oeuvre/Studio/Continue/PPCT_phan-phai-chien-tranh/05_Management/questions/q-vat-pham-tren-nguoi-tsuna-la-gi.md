@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: dinh-danh-vat-pham-tren-nguoi-tsuna
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc khi chot q-loi-giai-bi-an-trung-tam"
 decision_owner: user
 aliases: ["vat pham tren nguoi Tsuna la gi", "nhan do la gi", "nhan deo o co", "nhan xanh co phai nhan Vongola", "num vu cam co phai bau troi", "ba vat pham bau troi co du khong"]
 related: ["[[fact-vat-pham-tren-nguoi-tsuna]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[Vongola-Ring]]", "[[Tri-ni-sette]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Mỗi vật phẩm trên người Tsuna là món gì?

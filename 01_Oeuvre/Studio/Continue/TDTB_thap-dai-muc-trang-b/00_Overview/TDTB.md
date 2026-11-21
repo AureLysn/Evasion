@@ -87,8 +87,8 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - **Lửa ở thế giới thực:** [[qd-lua-o-the-gioi-thuc-tdtb]]
 - **28/09 — `plan-continuation`:** hướng B [[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]] · hợp đồng nhánh [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]] (active) · [[qd-dong-doi-tu-fandom-khac-tdtb]] · [[qd-tsuna-khong-biet-kiep-truoc-tdtb]] · [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]] · [[qd-0038-he-thong-phi-phap-tdtb]] · [[qd-0038-quet-bang-ho-so-tdtb]] · [[qd-cha-la-iemitsu-tdtb]] · [[qd-reborn-tre-so-sinh-tdtb]] · [[qd-tranh-chi-tiet-mua-tdtb]]
 - **30/09:** [[qd-moi-tap-hai-ngay-tdtb]] · [[qd-gokudera-alpha-tdtb]]
-- **27/09 — sau `analyze-tropes`:** [[qd-co-che-hao-quang-tdtb]] · [[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]] · [[qd-hai-he-thong-khong-lien-quan-tdtb]] · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] · qd-ket-cuc-he-thong-va-dong-doi-tdtb · [[qd-dua-dan-nhan-vat-len-tdtb]]
-- **Viết thành phẩm tiếng Trung:** [[qd-viet-tieng-trung-tdtb]] (thay qd-viet-tieng-viet-quy-doi-tdtb của 26/09)
+- **27/09 — sau `analyze-tropes`:** [[qd-co-che-hao-quang-tdtb]] · [[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]] · [[qd-hai-he-thong-khong-lien-quan-tdtb]] · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] · qd-ket-cuc-he-thong-va-dong-doi-tdtb *(đã xóa khi reset)* · [[qd-dua-dan-nhan-vat-len-tdtb]]
+- **Viết thành phẩm tiếng Trung:** [[qd-viet-tieng-trung-tdtb]] (thay qd-viet-tieng-viet-quy-doi-tdtb của 26/09, note cũ đã xóa)
 
 ## Trạng thái nhập vault
 
@@ -98,8 +98,8 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - [x] `style/` — đo trên **nguyên văn Trung** 26/09 ([[nguyen-van-zh-tdtb]]): [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]. Chỉ tiêu bằng chữ Hán; [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]] lập 27/09, 0 lỗi cứng trên 15 chương gốc. Cổng: `style_metrics` + `ai_tells_check`
 - [x] `crossover-contract` — không bắt buộc: các fandom khác là thế giới nhiệm vụ, không phải crossover ngang hàng ([[qd-pham-vi-universe-tdtb]])
 - [x] `canon/` + `Characters/` — trích xuất lần 1, 25/09
-- [x] `questions/` — 12 câu; 5 đã giải 26/09
-- [x] `decisions/` — 5 quyết định, 26/09
+- [x] `questions/` — lập 26/09; sau reset còn 24 câu, 21 đã giải *(đếm 21/11/2026)*
+- [x] `decisions/` — lập 26/09; sau reset còn 30 quyết định *(đếm 21/11/2026)*
 
 ## 🔴 Trạng thái — reset về sau trích xuất (21/11/2026)
 

@@ -41,7 +41,7 @@ last_updated: 2026-11-21
 ## Hệ quả đã chắc
 
 - **Chữ dùng từ nay:** **phía được chiếu** *(nơi ba nhân vật trục — nhóm bị chiếu — đã sống)* · **phía xem** *(vũ trụ HSR)* · **thế giới gộp** *(sau khi xem)*.
-- **Bóng 「người đó」 vẫn nằm được trong phim của Jason:** ở phía được chiếu, ba người **cùng tham gia** sự kiện HSR — arc-mo-dau-jason-dazai-tsuna không đổi.
+- **Bóng 「người đó」 vẫn nằm được trong phim của Jason:** ở phía được chiếu, ba người **cùng tham gia** sự kiện HSR.
 - **Việc bị thay chỗ** là **quá khứ** của đoạn phim, không phải phần chính của nó. 「Khúc mắc」 ở đoạn (2) là thứ còn treo từ việc ấy.
 - **Aurel gọi phía được chiếu là 「thế giới dung hợp」** *(04/10)*; ba thế giới chưa có gì phát sinh là 「thế giới chưa dung hợp」. Trong phim, sự kiện xảy ra theo thứ tự Penacony → Amphoreus → Planarcadia; truyện **chiếu ngược lại** — [[ba-nguoi-da-quen-o-phia-duoc-chieu]].
 

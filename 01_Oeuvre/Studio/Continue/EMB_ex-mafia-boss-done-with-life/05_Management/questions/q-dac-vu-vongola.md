@@ -7,9 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "khung rieng arc Brat"
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["cai vap Brat", "dac vu Vongola", "ai lam Tsuna bi thuong", "Tsuna co sang Y khong"]
 related: [ "[[q-xuong-song-brat]]", "[[hook-iemitsu-tra-gia]]", "[[xoa-so-estraneo]]", "[[iemitsu]]"]
@@ -39,7 +37,17 @@ Nếu xương sống còn đóng ở *vấp thật và có người đỡ*, arc 
 
 ## Chốt cũ
 
-emb-chot-dac-vu-vongola — ba mục, cộng ba chỗ cố ý để mở.
+Đã xóa khi reset; ba câu Aurel chốt chép ở mục dưới.
+
+## Lời Aurel, 19/09/2026 — chép lại từ chốt cũ
+
+*Chốt cũ (emb-chot-dac-vu-vongola) đã xóa khi reset 20/11/2026; dưới đây chỉ giữ ba câu Aurel chốt, không phải sự thật đang hiệu lực.*
+
+| # | Câu | Aurel chốt |
+|---|---|---|
+| 1 | Hắn phát hiện ra **cái gì** | Đứa trẻ ấy là **con Iemitsu**, và là một **Sky đang hoạt động** |
+| 2 | **Cạnh tranh** với ai | **Các con trai của Nono** — chưa phải Tsunashige |
+| 3 | Tsuna **có sang Ý** không | **Có**, vì Estraneo ở Ý và *"có lẽ tác giả quên hoặc không ghi ra"* |
 
 ## Ghi chú
 

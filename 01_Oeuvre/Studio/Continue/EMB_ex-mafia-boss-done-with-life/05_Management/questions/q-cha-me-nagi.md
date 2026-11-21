@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "chuong dau tien co Nagi trong POV, va moi canh co mat cha me Nagi"
 aliases: ["cha me Nagi", "dealt with nghia la gi", "Tsuna lam gi voi cha me Chrome", "co giet khong"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[nagi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]"]
 source:
@@ -20,7 +17,7 @@ confidence: 0.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question, blocking-scene]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # `dealt with` nghĩa là gì — Tsuna đã làm gì với cha mẹ Nagi?

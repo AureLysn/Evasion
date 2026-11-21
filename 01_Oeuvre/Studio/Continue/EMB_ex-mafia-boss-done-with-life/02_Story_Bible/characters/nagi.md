@@ -66,7 +66,7 @@ Vậy: **Nagi = Chrome**, `fic_explicit`. Và ba điều nặng hơn việc ch�
 
 | | |
 |---|---|
-| **Cha mẹ cô bé đã bị "xử lý"** | ⚠️ `dealt with` là **uyển ngữ mở**. Aurel chốt: **không giết**, mà nhờ Mist can thiệp — nagi-khong-biet-chuyen-cha-me · [[q-cha-me-nagi]] |
+| **Cha mẹ cô bé đã bị "xử lý"** | ⚠️ `dealt with` là **uyển ngữ mở**. Aurel chốt: **không giết**, mà nhờ Mist can thiệp — [[q-cha-me-nagi]] |
 | **Đến kịp** | trong canon KHR, Nagi mất nội tạng trong một tai nạn và sống nhờ nội tạng ảo do Mukuro tạo. Ở đây **cô bé còn nguyên nội tạng thật** |
 | **Con cưng của bà** | 🔴 *sửa 16/09*: là **bà ngoại** Tsuna — [[musashi]]. Bản cũ ghi "bà nội", sai quan hệ |
 

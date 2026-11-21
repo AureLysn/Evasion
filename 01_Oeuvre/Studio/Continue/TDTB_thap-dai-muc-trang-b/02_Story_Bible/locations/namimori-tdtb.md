@@ -28,7 +28,7 @@ Thị trấn nhỏ ở **tỉnh Aichi**, đảo Honshu (ch3, ch12). Trợ lý t�
 
 - Quê của Tsuna và Yamamoto. Trường sơ trung nơi hai người cùng lớp một năm.
 - Tsuna dặn người ngoài: *"Tại đồng thời thịnh, nhất định phải làm một người tốt, tuyệt đối không thể làm cái gì chuyện phạm pháp loạn kỷ cương."* (ch12). Lý do: không nêu (🟡 có thể ám chỉ Hibari, suy luận).
-- ✅ **Chốt 03/10:** nhà Sawada ở Namimori **bỏ hoang 4–5 năm**; Nana ở cùng Iemitsu, không ai biết ở đâu; hàng xóm chỉ biết nhà không có ai sống đã một thời gian ([[qd-nha-namimori-bo-hoang-tdtb]], [[qd-nha-bo-hoang-4-5-nam-tdtb]]). Gokudera định *"bái phỏng"* (ch13); ở ch17–18 làm lại, anh tới và thấy nhà trống. Văn bản chưa nói địa chỉ.
+- ✅ **Chốt 03/10:** nhà Sawada ở Namimori **bỏ hoang 4–5 năm**; Nana ở cùng Iemitsu, không ai biết ở đâu; hàng xóm chỉ biết nhà không có ai sống đã một thời gian ([[qd-nha-namimori-bo-hoang-tdtb]], [[qd-nha-bo-hoang-4-5-nam-tdtb]]). Gokudera định *"bái phỏng"* (ch13). Văn bản chưa nói địa chỉ.
 
 ## Sự kiện đã xảy ra tại đây
 

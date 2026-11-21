@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, ngay sau 0 giờ"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch8-ch11"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.byakuran-bcmf", "character.BCMF.uni-bcmf", "character.BCMF.reborn-bcmf", "character.BCMF.gokudera-hayato-bcmf", "character.BCMF.yamamoto-takeshi-bcmf", "character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.basil-bcmf", "character.BCMF.lal-mirch-bcmf", "character.BCMF.kozato-enma-bcmf"]
 location: ["[[khe-giua-hai-the-gioi-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Kết giới Tri-ni-Sette: gặp lại nhà, chọn đội

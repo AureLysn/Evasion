@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat
-needed_before:
-  arc:
-  chapter: "canh Dazai cham ma thuat lan dau"
 decision_owner: user
 aliases: ["Nhan Gian That Cach va ma thuat", "人间失格 voi ma thuat Fate", "di nang Dazai vo hieu hoa ma thuat khong", "Dazai cham Anh linh", "No Longer Human Fate magic"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[hook-bo-sung-ma-luc]]"]

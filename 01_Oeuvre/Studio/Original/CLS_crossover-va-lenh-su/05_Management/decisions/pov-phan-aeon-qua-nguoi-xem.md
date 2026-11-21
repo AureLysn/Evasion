@@ -17,7 +17,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer, continuity-reviewer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Aeon và phe **không có khối POV**; phần của họ kể **qua người HSR đang xem**
@@ -29,7 +29,7 @@ last_updated: 2026-10-03
 | **Aeon** | **Không** có khối POV |
 | **Phe** | **Không** có khối POV riêng; việc phe lên kế hoạch hiện ra qua **người HSR đang xem** |
 | **Khối POV rơi vào** | người HSR đang xem — người cụ thể chọn theo từng arc, lúc lập dàn ý |
-| **Vì sao hợp** | Aeon có **ký ức song song** nên biết hết — kể từ mắt Aeon thì 「người đó」 lộ ngay. Người xem **không** biết, nên giữ được hồi hộp (arc-mo-dau-jason-dazai-tsuna) |
+| **Vì sao hợp** | Aeon có **ký ức song song** nên biết hết — kể từ mắt Aeon thì 「người đó」 lộ ngay. Người xem **không** biết, nên giữ được hồi hộp |
 
 Cùng hình với luật đã khoá ở [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]: **kẻ chiếm chỗ không bao giờ có khối POV**. Khối POV của người xem **không** tính vào phép
 chênh ≤ 1,5 lần giữa ba nhân vật trục, nhưng ăn vào tổng chữ — [[q-aeon-va-phe-co-khoi-pov]].

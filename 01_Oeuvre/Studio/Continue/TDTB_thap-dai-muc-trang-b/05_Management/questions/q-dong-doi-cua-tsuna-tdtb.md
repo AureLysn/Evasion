@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-dong-doi-tu-fandom-khac-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc: "khung arc tong"
-  chapter: "truoc arc dau tien co canh dong doi cua Tsuna"
 decision_owner: "user"
 aliases: ["dong doi cua Tsuna", "dong ban cua Tsuna TDTB", "Tsuna co dong doi", "Illumi co den the gioi thuc khong", "ai o ben Tsuna truoc nguoi ky uc"]
 related: [ "[[nhiem-vu-da-lam-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
@@ -21,7 +18,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # "Đồng bạn, đồng đội" của Tsuna là ai — và họ có ở thế giới thực không?

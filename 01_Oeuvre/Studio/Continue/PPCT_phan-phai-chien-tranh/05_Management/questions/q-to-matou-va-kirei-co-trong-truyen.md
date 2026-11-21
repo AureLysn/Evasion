@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: to-matou-va-kirei-theo-canon
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong dau tien co Berserker hoac Assassin len trang"
 decision_owner: user
 aliases: ["to Matou va Kirei", "Kariya co trong truyen khong", "Kirei chua tung duoc neu ten", "Master cua Berserker PPCT", "Master cua Assassin PPCT"]
 related: ["[[berserker]]", "[[assassin]]", "[[assassin-chua-chet]]", "[[Lancelot-Berserker]]", "[[Hassan-of-the-Hundred-Faces]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Nhà Matō (Kariya) và Kotomine Kirei có trong truyện không?

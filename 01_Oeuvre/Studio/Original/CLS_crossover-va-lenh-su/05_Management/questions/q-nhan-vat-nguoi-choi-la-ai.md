@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "arc 1 (Jason)"
-  chapter: "the canh ch1-8 — moi canh co Doan tau"
 decision_owner: user
 aliases: ["nhan vat nguoi choi CLS", "nhân vật người chơi CLS", "Trailblazer la ai", "Caelus hay Stelle", "Nha Khai Pha CLS"]
 related: ["[[CLS]]"]
@@ -19,7 +16,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-04
+last_updated: 2026-11-21
 ---
 
 # Nhân vật người chơi của Đoàn tàu là ai trong CLS?

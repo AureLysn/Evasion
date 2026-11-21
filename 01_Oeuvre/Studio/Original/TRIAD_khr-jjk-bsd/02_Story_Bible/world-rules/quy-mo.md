@@ -40,6 +40,8 @@ Mỗi phó bản **20–40 chương**, mỗi cái là một truyện có mở–
 
 ## Sân sàng lọc — đã khoá
 
+> 🔁 **Reset 21/11/2026:** dàn ý arc Sân sàng lọc đã xóa; thiết kế gốc của Aurel dưới đây vẫn giữ.
+
 8 chương, kiểu "battle royale sàng lọc" đóng vai một tận thế giả — 100 người vào, 80% đào
 thải, 15–20 sống gồm cả 5 người nhóm chính. Không cần tích dân gian (không phải "thế giới"
 theo 1.2). Chi tiết đầy đủ: [[sang-loc-mo-dau-note]].

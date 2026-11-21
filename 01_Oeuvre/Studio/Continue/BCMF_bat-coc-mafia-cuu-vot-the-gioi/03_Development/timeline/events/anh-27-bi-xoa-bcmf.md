@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, 4 giờ sáng → sáng"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch18-ch19"
 participants: ["character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[khach-san-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Ảnh 27 bay lên xu hướng; Shoichi xoá

@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "truoc canh dau tien so suc manh giua ba nguoi"
-  chapter: "bat ky canh nao dat Jason canh Tsuna/Dazai trong mot tran danh"
 decision_owner: user
 aliases: ["can bang suc manh CLS", "Jason ngang hang the nao", "ba Aeon hao phong mot muc", "so suc manh lech su", "power balance CLS"]
 related: ["[[CLS]]", "[[lech-su-la-suc-manh-menh-do]]", "[[crossover]]", "[[luat-doi-xung-quan-he-ngang-hang]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-25
+last_updated: 2026-11-21
 ---
 
 # Có cần một luật cân sức mạnh giữa ba lệnh sứ không?

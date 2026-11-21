@@ -6,9 +6,7 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "arc Jason ve Gotham (vong 2)"
-  chapter: "truoc khi lap dan y arc do"
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["ke ngoai lai Jason Crime Alley", "kẻ ngoại lai Jason Crime Alley", "ke ngoai lai o Gotham chi tiet"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[ke-ngoai-lai-thay-cho]]", "[[hai-vong-chieu]]"]

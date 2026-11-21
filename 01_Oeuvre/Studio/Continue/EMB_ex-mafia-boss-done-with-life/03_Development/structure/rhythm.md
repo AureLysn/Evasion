@@ -52,7 +52,7 @@ Chạy từ gốc vault, 17/09 → **exit 1** *(chỉ cảnh báo)*. Trước kh
 
 ### 🔴 Công cụ không lọc `status`
 
-`hook_ledger` từng báo **11 chương** vì đếm cả sáu chương AI bản v3 *(đã xóa 21/11/2026)*. Nó không lọc `status`: khi có chương chưa duyệt, mọi con số *"mở N chương"* sẽ bị cộng thêm.
+`hook_ledger` không lọc `status`: khi có chương chưa duyệt, mọi con số *"mở N chương"* sẽ bị cộng thêm.
 
 Đếm lại chỉ trên **5 chương gốc**:
 
@@ -149,4 +149,4 @@ Tác giả **đã có sẵn hai công cụ nén**, cả hai đo được ở m�
 
 ## Chưa đo
 
-Số cảnh và luật chuyển POV mỗi chương *(P2 Ch2: sáu POV)* · tỉ lệ tường thuật / thoại / chú thích theo cảnh · nhịp của 6 chương AI v3 để so · `hook_ledger` lọc `status: superseded` — việc hệ thống, không làm trên nhánh này
+Số cảnh và luật chuyển POV mỗi chương *(P2 Ch2: sáu POV)* · tỉ lệ tường thuật / thoại / chú thích theo cảnh · `hook_ledger` lọc `status: superseded` — việc hệ thống, không làm trên nhánh này

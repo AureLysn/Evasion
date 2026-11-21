@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: dazai-biet-assassin-con-song
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc canh dau tien Dazai nhac toi Assassin"
 decision_owner: user
 aliases: ["Dazai co biet Assassin con song", "Dazai co thay bong lua xanh", "POV Dazai Assassin"]
 related: ["[[assassin-chua-chet]]", "[[tsuna-thay-assassin-con-song]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Dazai có biết Assassin còn sống không?

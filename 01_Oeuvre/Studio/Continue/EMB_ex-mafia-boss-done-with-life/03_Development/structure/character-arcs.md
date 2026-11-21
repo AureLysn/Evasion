@@ -16,7 +16,7 @@ confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structure, character]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Nhân vật đổi **trong khoảng trống**, trang chỉ giữ **khoảnh khắc quyết định**
@@ -119,4 +119,4 @@ Mọi lối đều giữ luật: **thay đổi dài diễn ra ngoài trang, đư
 
 ## Chưa đọc
 
-Nhân vật phụ Ayame, Maro, Kazuki · tác giả có từng để một tiết lộ **sai** rồi sửa không · 6 chương AI v3 dùng cơ chế nào *(nghi: dựng thay đổi thành cảnh — nếu đúng, đó là một nguồn lệch giọng chưa đo)*
+Nhân vật phụ Ayame, Maro, Kazuki · tác giả có từng để một tiết lộ **sai** rồi sửa không

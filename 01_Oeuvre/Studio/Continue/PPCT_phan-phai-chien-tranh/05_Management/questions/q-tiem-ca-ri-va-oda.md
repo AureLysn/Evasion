@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong dau tien co Oda"
+needed_before: "khi lap khung — truoc chuong dau tien co Oda"
 decision_owner: user
 aliases: ["tiem ca ri Oda", "chu tiem nuoi tre", "Oda khong phai chu quan", "quan Lupin la quan bar", "ten quan Lupin"]
 related: ["[[lam-lai-tu-nguon]]", "[[PPCT]]", "[[Sakunosuke-Oda]]", "[[20260913-doi-chieu-canon]]"]
@@ -19,7 +17,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Nơi Oda gửi gắm lũ trẻ: ai nuôi, ở đâu, gọi tên gì?

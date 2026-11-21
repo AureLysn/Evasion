@@ -6,9 +6,7 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "truoc arc dau tien co them lenh su moi"
-  chapter: "khong chan chuong 1"
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["them lenh su ve sau", "thêm lệnh sứ về sau", "cac nguoi co troi giang lenh su ta cung co", "trời giáng lệnh sứ", "troi giang lenh su", "co tu dau nhung tim ra muon", "lenh su moi CLS", "them nhan vat CLS"]
 related: ["[[CLS]]", "[[q-aeon-len-ke-hoach-co-lenh-su]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[q-quy-mo-cls]]", "[[ke-ngoai-lai-thay-cho]]"]
@@ -19,7 +17,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Thêm lệnh sứ khác về sau — có nên không, và theo kiểu nào?

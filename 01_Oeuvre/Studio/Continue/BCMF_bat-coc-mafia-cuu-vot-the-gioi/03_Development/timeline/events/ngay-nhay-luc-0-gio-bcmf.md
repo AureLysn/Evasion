@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D1 → D2, 0 giờ"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch7"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[mcdonalds-24h-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # 0 giờ: ngày nhảy, Gear hút Lửa

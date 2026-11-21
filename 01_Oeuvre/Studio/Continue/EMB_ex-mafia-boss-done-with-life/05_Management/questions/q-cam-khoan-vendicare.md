@@ -7,9 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "dan y arc Child"
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["cam khoan Vendicare", "cau duoc biet va khong duoc di lay", "dieu khoan bon", "gia cua Warden"]
 related: [ "[[fact-vendicare-giu-so]]", "[[hook-bermuda-to-mo]]", "[[hook-dua-tre-saint-exavier]]", "[[q-bermuda-an-toi]]"]
@@ -39,7 +37,7 @@ Cấm khoản là cái buộc Tsuna **không tự đi tìm đứa trẻ Saint-Ex
 
 ## Chốt cũ
 
-emb-chot-cam-khoan-vendicare — bốn điều khoản, kẽ hở *đứa trẻ tự tới*, bốn lằn can.
+emb-chot-cam-khoan-vendicare *(đã xóa khi reset)* — bốn điều khoản và kẽ hở *đứa trẻ tự tới*. Văn bản điều khoản do AI dựng ở thẻ cảnh và lấy từ chương đã xóa; Aurel chỉ duyệt cổng 2.2 ngày 20/09/2026, nên không có lời Aurel để chép lại.
 
 ## Ghi chú
 

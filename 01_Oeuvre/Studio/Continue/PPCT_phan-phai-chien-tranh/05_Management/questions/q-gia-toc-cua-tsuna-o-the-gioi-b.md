@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: gia-dinh-cua-tsuna-la-dazai
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong viet tiep dau tien"
 decision_owner: user
 aliases: ["gia toc cua Tsuna o the gioi B", "Vongola co o the gioi B khong", "gia dinh Tsuna la ai", "我的家族需要", "家人 Tsuna"]
 related: ["[[vongola]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[q-nguyen-vong-chen-thanh-cua-to-caster]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # "Gia đình" và "gia tộc" Tsuna nói tới ở thế giới B là ai?

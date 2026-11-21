@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc canh hoi tuong nao roi vao khoang giua trieu hoi va dem kho cang"
+needed_before: "khi lap khung — truoc canh hoi tuong nao roi vao khoang giua trieu hoi va dem kho cang"
 decision_owner: user
 aliases: ["khoang cach trieu hoi den ngay 1", "ch3 xay ra khi nao", "bao nhieu ngay truoc tran kho cang", "moc ngay trieu hoi"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[dazai-trieu-hoi-tsuna]]", "[[do-tham-saber-lancer-kho-cang]]"]
@@ -19,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Từ ngày triệu hồi tới đêm kho cảng (ngày 1) là bao lâu?

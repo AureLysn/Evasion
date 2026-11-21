@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, ~2 giờ sáng"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch17-ch18, ch20"
 participants: ["character.BCMF.lal-mirch-bcmf", "character.BCMF.amuro-tooru-bcmf"]
 location: ["[[quan-bar-amuro-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Lal Mirch ở quán bar của Amuro

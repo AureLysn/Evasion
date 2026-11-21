@@ -48,6 +48,6 @@ last_updated: 2026-11-21
 
 ## Chưa trích
 
-✅ **Đã trả một ô, 19/09/2026** — *dân Namimori gốc mafia Ý dùng hệ nào*: **lãnh thổ quyết, không phải gốc gác**. Xem emb-chot-danh-xung-theo-lanh-tho ⛔.
+✅ **Đã trả một ô, 19/09/2026** — *dân Namimori gốc mafia Ý dùng hệ nào*: **lãnh thổ quyết, không phải gốc gác**. Xem [[emb-chot-danh-xung-chuc-va-nguyen-to]].
 
 Còn mở: người song ngữ hai hệ gọi thế nào · từ dùng cho người có tiềm năng nhưng chưa thức tỉnh

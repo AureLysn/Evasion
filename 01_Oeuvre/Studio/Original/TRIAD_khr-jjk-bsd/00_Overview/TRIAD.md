@@ -57,7 +57,7 @@ câu trả lời của Aurel, không phải bản thân câu trả lời.
 - [x] `Characters/` — 6 hồ sơ, đề xuất 05/09/2026, Aurel duyệt 06/09/2026 (Thiên sư + Pháp y
       có bổ sung) (xem [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/_MOC|Characters/_MOC]])
 - [x] `decisions/` — mở 06/09/2026 (xem [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/_MOC]])
-- [x] `questions/` — 6 câu hỏi, **tất cả đã giải quyết**. Mới nhất:
+- [x] `questions/` — 4 câu hỏi, **tất cả đã giải quyết**. Mới nhất:
       [[q-dau-cau-spec-vs-thuc-te]] → [[quyet-dinh-dau-cau]] (12/09). Xem [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/05_Management/questions/_MOC|questions/_MOC]]
 - [ ] `arcs/` — 🔴 **reset 21/11/2026**: arc Sân sàng lọc, đại cương, kế hoạch chương 2 và các quyết định gắn arc đã xóa. Chương 1–2 trong `04_Manuscript/` không còn là canon. Bản đầy đủ trước reset: nhánh `archive/triad-truoc-reset-20261121`.
 - [x] Chạy `vault_doctor.py --include-fiction` 05/09/2026 → `Errors: 0` (Warnings +5, tất cả là always_load trên note type: fact — chấp nhận được)

@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-27
-needed_before:
-  arc:
-  chapter: "truoc chuong dau tien, va truoc khi lap style/ai-tells.md (khoi gate:)"
 decision_owner: "user"
 aliases: ["thuat ngu tieng Viet TDTB", "tin tuc to hay pheromone", "ngoac tieng Viet TDTB", "danh sach mat do tieng Viet TDTB", "cach ghi dan mac TDTB"]
 related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]"]

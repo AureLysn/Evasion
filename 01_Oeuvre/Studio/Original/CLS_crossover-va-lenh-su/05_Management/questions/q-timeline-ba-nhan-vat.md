@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "worldbuild-original"
-  chapter: "bat ky canh nao co ba nguoi trong cung mot phong"
 decision_owner: user
 aliases: ["timeline CLS", "moc canon ba nhan vat", "Tsuna bao nhieu tuoi", "Jason truoc hay sau khi chet", "Akutagawa mocada", "truong sixth field"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[crossover]]", "[[watch-frame]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # Mỗi nhân vật đứng ở mốc nào trong canon của mình?

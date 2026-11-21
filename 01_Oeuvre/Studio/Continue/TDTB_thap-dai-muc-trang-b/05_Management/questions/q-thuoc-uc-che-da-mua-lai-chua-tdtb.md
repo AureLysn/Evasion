@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-thuoc-da-mua-lai-truoc-show-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["thuoc uc che da mua lai chua", "thuốc ức chế đã mua lại chưa", "mới uống hối đoái ức chế tề", "ch4 vs ch11"]
 related: ["[[h-uc-che-te-het-han-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[nhiem-vu-quy-diet-2-tdtb]]"]

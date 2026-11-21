@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-cha-la-iemitsu-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "canh dau co gia dinh Tsuna"
 decision_owner: "user"
 aliases: ["cha cua Tsuna", "cha Tsuna", "Iemitsu TDTB", "nhân viên xí nghiệp tư nhân", "gia đình Sawada"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[sawada-nana-tdtb]]", "[[namimori-tdtb]]"]

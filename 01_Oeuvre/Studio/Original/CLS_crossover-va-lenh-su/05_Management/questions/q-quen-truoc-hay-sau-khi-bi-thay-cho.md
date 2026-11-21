@@ -6,9 +6,7 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "vong 2"
-  chapter: "truoc dai cuong vong 2"
+needed_before: "khi lap khung"
 decision_owner: user
 aliases: ["quen truoc hay sau khi bi thay cho", "quen trước hay sau khi bị thay chỗ", "ba nguoi quen nhau tu khi nao", "khi nao ba nguoi cung len hinh"]
 related: ["[[CLS]]", "[[ba-nguoi-da-quen-o-phia-duoc-chieu]]", "[[khung-chieu-xem-gop]]"]

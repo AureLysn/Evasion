@@ -7,9 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "chuong dau tien co Mukuro"
+needed_before: "khi lap khung — chuong dau tien co Mukuro"
 decision_owner: user
 aliases: ["Tsuna tranh Mukuro", "vi sao Mukuro vang mat", "51 dua tre o Mie", "lo xong roi dung ngoai"]
 related: [ "[[mukuro]]", "[[xoa-so-estraneo]]", "[[q-dac-vu-vongola]]"]
@@ -39,7 +37,15 @@ Chốt cũ sinh ra **từ một câu trong văn xuôi đã lưu trữ** *(danh s
 
 ## Chốt cũ
 
-emb-chot-tsuna-tranh-mukuro — cố ý tránh; *lo xong, rồi đứng ngoài*; ba chỗ chưa chốt.
+Đã xóa khi reset; lời Aurel chép ở mục dưới.
+
+## Lời Aurel, 20/09/2026 — chép lại từ chốt cũ
+
+*Chốt cũ (emb-chot-tsuna-tranh-mukuro) đã xóa khi reset 20/11/2026.*
+
+> *"cái này có thể xem là **cố tình tránh Mukuro**, và cũng là một yếu tố hợp lí cho việc **Mukuro mất tích suốt mấy chương trước**, và **nguyên nhân cho chương 7**."*
+
+"Mấy chương trước" và "chương 7" là chương của bản viết tiếp đã xóa; ý còn dùng được là *tránh có chủ ý*.
 
 ## Ghi chú
 

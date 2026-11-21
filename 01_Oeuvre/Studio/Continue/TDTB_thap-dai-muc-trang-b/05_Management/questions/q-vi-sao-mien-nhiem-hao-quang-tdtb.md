@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-co-che-hao-quang-tdtb]]"
 resolved_at: 2026-09-27
-needed_before:
-  arc:
-  chapter: "truoc canh dau tien Tuyet dung dao cu len mot nguoi mang ky uc khac (Gokudera...)"
 decision_owner: "user"
 aliases: ["vi sao Yamamoto mien nhiem", "mien nhiem hao quang TDTB", "ai tinh truoc Tuyet", "thuoc mi luc vo hieu", "truc C phan Mary Sue TDTB"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[phan-mary-sue]]", "[[loc-da-tuyet-bo-thuoc-yamamoto-tdtb]]", "[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[yamamoto-takeshi-tdtb]]"]

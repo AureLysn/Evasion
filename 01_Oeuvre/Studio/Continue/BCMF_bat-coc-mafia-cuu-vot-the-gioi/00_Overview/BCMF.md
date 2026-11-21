@@ -120,7 +120,7 @@ thì phải lấy từ nguồn khi trích xuất, **đừng đoán**.
 - [x] `extract-entities` lần 1 — 27/09: 57 nhân vật · 14 bí mật · 16 sự kiện · 23 quan hệ · 9 địa điểm · 11 tổ chức · 7 fact · [[master-bcmf]] · [[phan-biet-cung-ten-bcmf]]. Đối chiếu: [[20260927-trich-xuat-lan-1-bcmf]]
 - [x] `analyze-tropes` — 28/09: [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/structure/tropes|structure/tropes]] · 3 bản đồ fandom + 2 bản đồ thể loại · 13 dòng định vị `proposed`. Nhịp đo tay từ `events/` (trung vị khép mạch 1 chương)
 - [ ] `questions/` — mỗi câu có `needed_before` *(8 câu, đều `unresolved` — xem `questions/_MOC.md`)*
-- [ ] `decisions/`
+- [x] `decisions/` — 2 quyết định: [[qd-viet-tieng-trung-bcmf]] · [[dazai-bang-mat-phai-bcmf]]
 - [ ] `chapters/`
 
 - [x] **Reset về sau trích xuất — 21/11/2026:** đã xóa khung phần Conan, đề xuất khung, bảng arc 1, decision trục Conan *(Tổ chức = người chảy ngược thời gian)* và decision chỗ ở nhà Kudo. Chưa có chương viết tiếp nào. Bước kế: lập khung từ đầu (`plan-continuation`).

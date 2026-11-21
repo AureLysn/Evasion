@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2 sáng, trước 07:17"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch20-ch22"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.fran-bcmf", "character.BCMF.kozato-enma-bcmf", "character.BCMF.lal-mirch-bcmf", "character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.basil-bcmf"]
 location: ["[[seirei-so-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Seirei-sō: ảo thuật, bộ xương, sập nhà

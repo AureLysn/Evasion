@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-lua-o-the-gioi-thuc-tdtb]]"
 resolved_at: 2026-09-26
-needed_before:
-  arc:
-  chapter: "truoc canh hanh dong dau tien o doi thuc"
 decision_owner: "user"
 aliases: ["lua o the gioi thuc", "lửa ở đời thực", "Dying Will Flame đời thực", "găng tay mang ra ngoài", "Tsuna mạnh ở đời thực"]
 related: ["[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[q-he-thong-cua-tsuna-tdtb]]"]

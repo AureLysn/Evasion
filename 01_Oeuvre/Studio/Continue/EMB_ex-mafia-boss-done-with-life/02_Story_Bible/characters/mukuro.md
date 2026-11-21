@@ -75,4 +75,4 @@ Bản cũ của vault ghi: *"cứu Mukuro là tác dụng phụ của việc xo�
 
 - Ken, Chikusa có trong số *"traumatised Italian children"* không?
 - Cậu ta **biết Tsuna là ai** ở mức nào?
-- Cậu ta có biết chuyện gì đã xảy ra với cha mẹ [[nagi]] không — nagi-khong-biet-chuyen-cha-me?
+- Cậu ta có biết chuyện gì đã xảy ra với cha mẹ [[nagi]] không? Xem [[q-cha-me-nagi]].

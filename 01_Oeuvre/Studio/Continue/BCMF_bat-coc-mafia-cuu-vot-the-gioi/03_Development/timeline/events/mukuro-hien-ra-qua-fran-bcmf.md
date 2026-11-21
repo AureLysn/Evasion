@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, ~0 giờ"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch12-ch13"
 participants: ["character.BCMF.fran-bcmf", "character.BCMF.rokudo-mukuro-bcmf", "character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[mcdonalds-24h-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Mukuro hiện ra qua Fran

@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "arc 1 (Jason)"
-  chapter: "ch4 va ch8 — hai lan 'nguoi do' hien ra trong doan phim cua Jason"
 decision_owner: user
 aliases: ["ba nguoi quen nhau o the gioi gop", "ba người quen nhau ở thế giới gộp", "Jason co biet Tsuna khong", "bong nguoi trong doan phim", "bóng người trong đoạn phim"]
 related: ["[[CLS]]", "[[khung-aeon-hai-nhom]]"]
@@ -19,7 +16,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Ở thế giới gộp, ba người có quen nhau trước khi bị thay chỗ không?
@@ -27,8 +24,6 @@ last_updated: 2026-10-03
 > 🔄 **03/10/2026 — đổi nghĩa:** 「thế giới gộp」 viết trong note này **trước 03/10** nghĩa là **phía được chiếu** *(nơi ba nhân vật trục đã sống)*. Từ 03/10, 「thế giới gộp」 là thế giới hình thành **sau khi xem** — [[khung-chieu-xem-gop]].
 
 > ✅ **ĐÃ CHỐT 04/10/2026** — [[ba-nguoi-da-quen-o-phia-duoc-chieu]]: ở phía được chiếu ba người **đã quen**; ở ba thế giới chưa dung hợp thì không. Phần dưới là câu hỏi lúc đặt ra.
->
-> Chặn ch4 của arc 1 — lần đầu 「người đó」 hiện ra **trong đoạn phim** của Jason (arc-mo-dau-jason-dazai-tsuna).
 
 ## Vì sao phải hỏi
 

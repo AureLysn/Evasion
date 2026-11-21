@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: lenh-chu-khong-thang-xich-enkidu
-needed_before:
-  arc:
-  chapter: "canh Archer troi Tsuna bang xich"
 decision_owner: user
 aliases: ["lenh chu va xich Enkidu", "lenh chu keo Tsuna khoi xich", "Enkidu chan lenh chu dich chuyen", "天之锁 令咒", "Dazai goi Tsuna ve bang lenh chu"]
 related: ["[[Gate-of-Babylon]]", "[[Command-Spells]]", "[[Gilgamesh-Archer]]", "[[gilgamesh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]", "[[lenh-chu-khong-thang-xich-enkidu]]"]
@@ -49,7 +46,7 @@ Arc 7 — trước khi chọn hướng (nó quyết định hướng 1 và 3 có
 | | | Kéo theo |
 |---|---|---|
 | A — được | Lệnh chú thắng xích (Tsuna không thần tính → xích chỉ là xích chắc) | Lệch có chủ đích so với ca UBW gần nhất; cao trào hướng 1/3 đứng. Rủi ro [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes\|tropes]] dòng 18 thấp (lệnh chú là luật chung, không phải 7³) |
-| B — không được | Xích giữ; Tsuna phải thoát bằng cách khác | Cao trào hướng 1/3 sụp → phải thiết kế lại ch48; hướng 2 không bị ảnh hưởng |
+| B — không được | Xích giữ; Tsuna phải thoát bằng cách khác | Cao trào hướng 1/3 sụp → phải thiết kế lại cao trào; hướng 2 không bị ảnh hưởng |
 | C — được, nhưng có giá | Lệnh chú thắng xích nhưng tốn hơn một đạo / có thương tổn | Giữ được cao trào, cho canon UBW một chỗ đứng |
 
 ## Chưa tra

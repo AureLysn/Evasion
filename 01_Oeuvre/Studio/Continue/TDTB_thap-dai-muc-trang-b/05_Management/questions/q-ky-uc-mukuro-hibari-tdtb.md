@@ -6,9 +6,7 @@ lane: personal
 project: TDTB
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
+needed_before: "khi lap khung"
 decision_owner: "user"
 aliases: ["Mukuro co ky uc khong TDTB", "Hibari co ky uc khong TDTB", "69 va 18 nhan ky uc Verde"]
 related: ["[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[rokudo-mukuro-tdtb]]", "[[hibari-kyouya-tdtb]]", "[[h-69-gia-co-phieu-tdtb]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-ky-uc-kich-hoat-khi-cham-tsuna-tdtb]]"]

@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: open
 importance: "minor"
 introduced:
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch11"
 payoff:
   status: "unplanned"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Đồ trong hành lý: Bazooka 10 năm, bom hồng, còng tay của Hibari, bùa của Kyoko

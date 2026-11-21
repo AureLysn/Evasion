@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "truoc canh dau tien dung toi nang luc tien tri cua Kimiko"
 decision_owner: user
 aliases: ["gioi han nang luc Kimiko", "Kimiko thay nhung khong biet khi nao", "F2 dot 7"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[kimiko]]", "[[fact-kimiko-amenokagami]]"]

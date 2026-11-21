@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-ky-uc-verde-gui-rong-tdtb]]"
 resolved_at: 2026-09-26
-needed_before:
-  arc:
-  chapter: "truoc canh dau cua 69 hoac 18"
 decision_owner: "user"
 aliases: ["ai da nhan ky uc", "ai đã nhận ký ức", "Mukuro có ký ức không", "Hibari có ký ức không", "Reborn có ký ức không"]
 related: ["[[ky-uc-tuong-lai-tdtb]]", "[[ba-nguoi-nhan-ky-uc-tdtb]]", "[[reborn-tdtb]]", "[[rokudo-mukuro-tdtb]]", "[[hibari-kyouya-tdtb]]"]

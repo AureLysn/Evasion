@@ -18,18 +18,18 @@ always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Yamamoto Sachiko — 山本 幸子 · **mẹ Takeshi**
 
-> 🆕 Tên do nhánh đặt, chốt 17/09/2026 — [[emb-chot-me-takeshi]]. *(Cảnh đầu của bà thuộc dàn ý đã lưu trữ; chờ q-me-takeshi-ai-quyet.)*
+> 🆕 Tên do nhánh đặt, chốt 17/09/2026 — [[emb-chot-me-takeshi]]. *(Cảnh đầu chưa định; chờ [[q-me-takeshi-ai-quyet]].)*
 
 ## Bà là ai
 
 Mẹ [[tsuyoshi|Takeshi]], ở tiệm **Takesushi**. Người nhận lời triệu của nhà Sawada mà nguyên tác chỉ ghi là *"Yamamoto-san tiệm Takesushi"* — [[hook-me-takeshi-va-sat-thu]].
 
-**Ở kiếp trước bà đã chết.** Ở kiếp này, ai quyết khi sát thủ tới **chưa chốt** — q-me-takeshi-ai-quyet · [[phan-biet-hai-the-gioi]].
+**Ở kiếp trước bà đã chết.** Ở kiếp này, ai quyết khi sát thủ tới **chưa chốt** — [[q-me-takeshi-ai-quyet]] · [[phan-biet-hai-the-gioi]].
 
 ## 🔴 Cái tên — và vì sao nó không phải tên fandom
 
@@ -47,7 +47,7 @@ Chốt bà làm người quyết **không khẳng định gì** về quan hệ �
 
 ## Trạng thái hiện tại
 
-Chưa xuất hiện trên trang. Cảnh đầu **chưa định**: dàn ý cũ đã lưu trữ, và việc ai quyết ở vụ Yamamoto đang là q-me-takeshi-ai-quyet.
+Chưa xuất hiện trên trang. Cảnh đầu **chưa định**: dàn ý cũ đã xóa khi reset, và việc ai quyết ở vụ Yamamoto đang là [[q-me-takeshi-ai-quyet]].
 
 ## Bà biết gì
 

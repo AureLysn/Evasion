@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D1 chiều"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch3-ch4"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[hem-canh-thap-tokyo-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # 27 tới Tokyo, biết mình ở năm 2023

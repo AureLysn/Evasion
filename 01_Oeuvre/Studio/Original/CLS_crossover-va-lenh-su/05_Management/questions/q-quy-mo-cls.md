@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "truoc khi chia arc"
-  chapter: "plan-continuation"
 decision_owner: user
 aliases: ["quy mo CLS", "bao nhieu chuong", "do dai CLS", "dai bao nhieu", "scope CLS", "dai ma vo nghia"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[20260914-tong-hop-chan-doan]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # CLS dài bao nhiêu chương?

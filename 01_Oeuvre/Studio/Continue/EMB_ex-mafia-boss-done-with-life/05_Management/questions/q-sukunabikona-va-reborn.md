@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "truoc khi xep tuyen Arcobaleno / Reborn vao khung arc"
 decision_owner: user
 aliases: ["Sukunabikona gan voi ai", "Sukunabikona va Reborn", "Reborn la Sun cua Tsuna", "D2 dot 7"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[hook-sukunabikona]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]

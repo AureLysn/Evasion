@@ -19,5 +19,7 @@ last_updated: 2026-11-21
 |---|---|---|---|
 | san-sang-loc | 1 | **[[chuong-01-aurel-viet-lai]]** — bản Aurel viết lại | `draft` · 3349 từ · Aurel viết 11/09/2026 |
 | san-sang-loc | 1 | [[chuong-01]] — bản nháp đầu | `superseded` 12/09/2026 · 02/09 |
+| san-sang-loc | 2 | **[[chuong-02-aurel-viet-lai]]** — bản Aurel viết lại | `draft` |
+| san-sang-loc | 2 | [[chuong-02]] — bản AI | `draft` · `authority: ai` |
 
 > 🔴 **Reset 21/11/2026:** các chương ở đây **không còn là canon**. Kế hoạch chương 2 và thẻ cảnh đã xóa.

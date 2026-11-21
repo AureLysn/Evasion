@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, 07:17 → sáng"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch22-ch24"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.edogawa-conan-bcmf", "character.BCMF.shiratori-ninzaburo-bcmf", "character.BCMF.lal-mirch-bcmf", "character.BCMF.basil-bcmf", "character.BCMF.irie-shoichi-bcmf"]
 location: ["[[seirei-so-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Cảnh sát ở Seirei-sō; Conan bị cả nhóm nhìn

@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["he thong cua Tsuna la gi", "ai đứng sau hệ thống", "nguồn gốc hệ thống Tsuna", "trạm trung chuyển của ai", "Leon và hệ thống"]
 related: ["[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[h-leon-la-ai-tdtb]]", "[[q-ban-chat-0038-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]"]

@@ -7,9 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "brat"
-  chapter: "chuong con cao duoc goi ten lan dau"
+needed_before: "khi lap khung — chuong con cao duoc goi ten lan dau"
 decision_owner: user
 aliases: ["ten con cao", "Natsu nghia khac", "Tomoshibi con dung khong", "con cao ten gi", "dat ten cho kudagitsune"]
 related: ["[[natsu]]", "[[tsuna--natsu]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[nguoi-ban-cu]]", "[[20261001-soat-nen-du-kien]]"]

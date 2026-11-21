@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-gokudera-alpha-tdtb]]"
 resolved_at: 2026-09-30
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "shared"
 aliases: ["gioi ABO cua Gokudera", "Gokudera la alpha", "Gokudera alpha hay beta TDTB"]
 related: ["[[gokudera-hayato-tdtb]]", "[[h-nhieu-khach-moi-alpha-tdtb]]", "[[abo-the-gioi-tdtb]]"]
@@ -32,7 +29,7 @@ last_updated: 2026-11-21
 
 ## Vì sao phải hỏi
 
-15 chương không nêu giới ABO của Gokudera. Arc 3 đưa anh lên show làm khách mời, nên phải biết pheromone của anh là gì, và anh chiếm
+15 chương không nêu giới ABO của Gokudera. Nếu anh lên show làm khách mời thì phải biết pheromone của anh là gì, và anh chiếm
 suất nào trong đội hình 2 alpha, 2 beta, 2 Omega (luật 8). Tsuna, một Omega đang giấu thân phận, đối mặt Gokudera gần 2.000 chữ qua POV của cậu: không để ý giới của anh là không thật.
 
 ## Các phương án

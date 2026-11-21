@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: saber-chi-quan-sat-the-gioi-song-song
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "chuong viet tiep dau tien"
 decision_owner: user
 aliases: ["Saber xem the gioi song song the nao", "co che nhin qua nhan Mare", "Saber thay gi", "thoi gian trong khong gian quan trac"]
 related: ["[[hook-saber-xem-the-gioi-song-song]]", "[[fact-nhan-mare-quan-trac-song-song]]", "[[Second-Magic]]", "[[Tri-ni-sette]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Saber "xem" các thế giới song song theo cách nào?

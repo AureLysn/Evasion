@@ -7,9 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "chuong dau tien co Shouichi tren trang"
+needed_before: "khi lap khung — chuong dau tien co Shouichi tren trang"
 decision_owner: user
 aliases: ["Shouichi ru choi", "bon giay im lang", "Tsuna bo hau to truoc", "xung ho hai chang Shouichi"]
 related: ["[[emb-chot-shouichi-kiep-truoc]]", "[[shouichi]]", "[[tsuna--shouichi]]", "[[truc-chinh]]"]

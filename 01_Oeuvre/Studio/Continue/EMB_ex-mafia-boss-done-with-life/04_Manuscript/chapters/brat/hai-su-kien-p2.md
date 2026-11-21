@@ -17,7 +17,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structural, load-bearing, model]
-last_updated: 2026-08-16
+last_updated: 2026-11-21
 ---
 
 # Part 2 là **hai sự kiện rời**, không phải một chuỗi
@@ -90,7 +90,7 @@ Nó thành **một sự kiện rời nữa**, viết được ở bất kỳ đ�
 
 Nếu nguyên tác dùng cấu trúc *"chỉ kể những gì đáng kể"*, thì nhánh **cũng được**. Một arc không nhất thiết là chuỗi chương liền mạch — nó có thể là **một loạt sự kiện đặc biệt** cách nhau vài tháng.
 
-🔴 Điều này đổi cả cách ước lượng độ dài. ~46–52 chương ở khung-sau-arc tính theo mô hình liền mạch. Theo mô hình vignette, **cùng mười hai năm có thể gọn hơn** mà không mất gì.
+🔴 Điều này đổi cả cách ước lượng độ dài. Ước lượng chương của khung cũ *(đã xóa khi reset)* tính theo mô hình liền mạch. Theo mô hình vignette, **cùng mười hai năm có thể gọn hơn** mà không mất gì.
 
 ## ⚠️ Cái giá — phải nhận cho rõ
 
@@ -108,5 +108,4 @@ Nếu nguyên tác dùng cấu trúc *"chỉ kể những gì đáng kể"*, th�
 
 - [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]] — đổi từ *"điểm dừng"* sang **ảnh chụp trạng thái**
 - [[p2-ch1]] · [[p2-ch2]] — bỏ ngôn ngữ chuỗi, ghi mỗi cái là một sự kiện độc lập
-- brat-con-lai — dựng lại hoàn toàn
-- khung-sau-arc — xem lại ước lượng chương
+- Khung arc mới — ước lượng chương theo mô hình vignette

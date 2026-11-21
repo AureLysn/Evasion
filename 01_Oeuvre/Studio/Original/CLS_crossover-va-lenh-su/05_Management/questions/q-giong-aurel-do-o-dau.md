@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "chuong dau tien"
-  chapter: "truoc khi viet chu nao vao chapters/"
 decision_owner: user
 aliases: ["giong Aurel do o dau", "ngu lieu do van phong CLS", "signature CLS", "co dung lai so do cua TRIAD khong", "giong Aurel co phai mot khong"]
 related: ["[[CLS]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-04
+last_updated: 2026-11-21
 ---
 
 # Đo giọng Aurel từ ngữ liệu nào, và số đo đó sống ở đâu?

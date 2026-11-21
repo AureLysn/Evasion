@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "tien de"
-  chapter: "truoc khi chay brainstorm-premise va worldbuild-original"
 decision_owner: user
 aliases: ["may the gioi", "pham vi fandom CLS", "giong van CLS", "lay giong tac gia duoc khong", "do van phong tu ban convert", "bao nhieu fandom"]
 related: ["[[CLS]]", "[[chon-mau-ket-cau-bo-a-va-xem-anh-the]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[20260913-nhan-xet-cua-aurel]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # CLS lấy mấy thế giới, và giọng văn đo từ đâu?
