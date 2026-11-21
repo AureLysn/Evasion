@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-1-yokohama-va-quan-lupin
 chapter: "pn1-04"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
 aliases: ["pn1-04 ban DeepSeek nhap", "phiên ngoại Người sống DeepSeek", "反派战争 番外四 活着的人 DeepSeek"]
-related: ["[[pn-arc-1-ds-plan]]", "[[pn1-04-ds-the-canh]]", "[[pn1-04-ds-kiem]]", "[[pn1-03-ds-nhap]]", "[[Mimic]]", "[[Andre-Gide]]"]
+related: [ "[[pn1-03-ds-nhap]]", "[[Mimic]]", "[[Andre-Gide]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết phương án C9–C11; GPT chấm (POV Dazai, chuyển Tsuna ở khối B; Gide bị Dazai chạm, bắt sống; Mori không lộ); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa (xem pn1-04-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/53b55361-0c23-4eb0-8641-82d83096b5e8"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·四 活着的人

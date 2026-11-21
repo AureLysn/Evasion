@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-7-nguoi-xem-den-cuoi
 chapter: 51
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争51（DeepSeek版）"
 aliases: ["ch51 ban DeepSeek nhap", "chương 51 bản song song DeepSeek", "反派战争51 DeepSeek", "chuong cuoi truyen chinh nhanh DeepSeek"]
-related: ["[[ch51-ds-plan]]", "[[ch51-ds-the-canh]]", "[[ch51-ds-kiem]]", "[[ch50-ds-nhap]]"]
+related: [ "[[ch50-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết theo ch51-ds-the-canh: A + ba bản mỗi chỗ B/C/D; GPT chấm (chọn A–B1–C1–D2); DeepSeek viết đầy đủ ba bản đã chọn; năm đoạn bù; Claude ghép và sửa (xem ch51-ds-kiem). Bản aurel-main chưa có ch51. Chat ch51: https://chat.deepseek.com/a/chat/s/782d1327-3c67-4ef1-8d93-f9c47ddc2b07"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争51

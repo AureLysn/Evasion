@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch08 arc 2 CLS", "bảng tên ch08 arc 2 CLS", "ten Trung ch08 arc 2"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-zh-bang-ten|ch07-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[ch08-plan-a2]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-zh-bang-ten|ch07-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 30/10/2026 (phien dieu phoi tu viet). Ten lay tu cac bang ten ch01-ch07 arc 2 va note project; KHONG co TextMap va KHONG co Name HSR - Tong.csv tren cloud - moi ten moi deu chua doi chieu (A4)."

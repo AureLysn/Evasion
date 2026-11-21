@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-3-ba-dua-tre
 chapter: "pn3-11"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.reborn, character.PPCT.mukuro, character.PPCT.xanxus, character.PPCT.akutagawa, character.PPCT.byakuran, character.PPCT.oda]
 language: zh
 aliases: ["pn3-11 ban DeepSeek nhap", "phiên ngoại người viết ở quán DeepSeek", "反派战争 番外二十四 店里的写作者 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-11-ds-the-canh]]", "[[pn3-11-ds-kiem]]", "[[pn3-10-ds-nhap]]", "[[Sakunosuke-Oda]]", "[[Chrome-Dokuro]]", "[[Akutagawa-Ryunosuke]]", "[[Xanxus]]", "[[Byakuran-Gesso]]"]
+related: [ "[[pn3-10-ds-nhap]]", "[[Sakunosuke-Oda]]", "[[Chrome-Dokuro]]", "[[Akutagawa-Ryunosuke]]", "[[Xanxus]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết sáu khối, ba bản 小说 (C-a) và ba bản 最后一行 (C-b); GPT chấm (《晴日》, ghép 二 + 三; dòng cuối GPT viết mới) và đọc thử; Claude kiểm, sửa các chỗ lẫn 纲吉/阿纲, viết thêm (xem pn3-11-ds-kiem). Chương cuối Arc III. Chat: https://chat.deepseek.com/a/chat/s/78fb259f-adeb-4abe-99a7-32b69f9ded71"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·二十四 店里的写作者

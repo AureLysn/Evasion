@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-3-ba-dua-tre
 chapter: "pn3-05"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.byakuran]
 language: zh
 aliases: ["pn3-05 ban DeepSeek nhap", "phiên ngoại đứa trẻ ở sân chơi DeepSeek", "反派战争 番外十八 游乐场的孩子 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-05-ds-the-canh]]", "[[pn3-05-ds-kiem]]", "[[pn3-04-ds-nhap]]", "[[Byakuran-Gesso]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
+related: [ "[[pn3-04-ds-nhap]]", "[[Byakuran-Gesso]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 找 (C-a) và ba bản 奈奈 (C-b); GPT chấm (找一 sửa đường đi, 奈奈二 ghép 奈奈三) và đọc thử; Claude kiểm và sửa (xem pn3-05-ds-kiem). Gia đình Sawada: [Fanon-phê phán canon] theo V16. Chat: https://chat.deepseek.com/a/chat/s/529194f4-8159-42e6-a274-c18264e2d4fd"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·十八 游乐场的孩子

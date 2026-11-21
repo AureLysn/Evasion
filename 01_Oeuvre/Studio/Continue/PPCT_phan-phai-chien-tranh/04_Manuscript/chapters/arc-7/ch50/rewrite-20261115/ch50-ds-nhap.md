@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-7-nguoi-xem-den-cuoi
 chapter: 50
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争50（DeepSeek版）"
 aliases: ["ch50 ban DeepSeek nhap", "chương 50 bản song song DeepSeek", "反派战争50 DeepSeek"]
-related: ["[[ch50-ds-plan]]", "[[ch50-ds-the-canh]]", "[[ch50-ds-kiem]]", "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]"]
+related: [ "[[ch49-ds-nhap]]", "[[ch45-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch50-ds-the-canh (3 lượt: A–B; C–E kèm phương án thoại; ba đoạn bù); Claude kiểm và sửa; GPT chấm phương án thoại và đọc thử, Claude áp các điểm đã kiểm (xem ch50-ds-kiem). Bản aurel-main chưa có ch50. Chat ch50: https://chat.deepseek.com/a/chat/s/c846bd5d-e9a8-461e-a7c8-cd19b7f6f54a"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争50

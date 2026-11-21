@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch01 arc 3 CLS", "bảng tên ch01 arc 3 CLS", "bang ten 第一章 余音"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[ch01-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 01/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch01-plan-a3 (TextMap cn 112032, 30069, 112033, 27207, 30071, 30094 doc 01/11 + BWIKI 30/10) va bang ten ch10 arc 2 (ten cu). Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."
@@ -26,11 +26,11 @@ last_updated: 2026-11-01
 
 | Chữ | Nghĩa | Nguồn trong project | Dùng ở chương | Đối chiếu |
 |---|---|---|---|---|
-| 知更鸟 | Robin | [[ch01-plan-a3]] *(TextMap cn 30069: 「银河歌星」)* | khắp chương *(33 lần)* | chưa đối chiếu CSV |
-| 流萤 | Firefly | [[ch01-plan-a3]] *(BWIKI 30/10 + TextMap cn 30094)* | 1.02 và sau *(7 lần)* | chưa đối chiếu CSV |
+| 知更鸟 | Robin | ch01-plan-a3 *(TextMap cn 30069: 「银河歌星」)* | khắp chương *(33 lần)* | chưa đối chiếu CSV |
+| 流萤 | Firefly | ch01-plan-a3 *(BWIKI 30/10 + TextMap cn 30094)* | 1.02 và sau *(7 lần)* | chưa đối chiếu CSV |
 | 银狼 | Silver Wolf | [[Silver-Wolf]] *(bộ name Aurel 12/10)* | 1.02 và sau *(6 lần)* | **đã** có trong bộ name Aurel |
-| 大丽花 | Dahlia | [[ch01-plan-a3]] *(BWIKI 30/10 + TextMap cn 30094)*; wiki fandom ghi 「The Dahlia」 | 1.02, **một lần** do Black Swan gọi; sau đó lời kể gọi 「戴帽子的女士」 | chưa đối chiếu CSV |
-| 匹诺康尼 | Penacony | [[ch01-plan-a3]] *(TextMap cn 112032)* | 1.03, 1.04 | chưa đối chiếu CSV |
+| 大丽花 | Dahlia | ch01-plan-a3 *(BWIKI 30/10 + TextMap cn 30094)*; wiki fandom ghi 「The Dahlia」 | 1.02, **một lần** do Black Swan gọi; sau đó lời kể gọi 「戴帽子的女士」 | chưa đối chiếu CSV |
+| 匹诺康尼 | Penacony | ch01-plan-a3 *(TextMap cn 112032)* | 1.03, 1.04 | chưa đối chiếu CSV |
 | 盛会之星 | Hành tinh Thịnh Hội | TextMap cn 112032 *(「盛会之星」)* | 1.03, **một lần** trong lời Himeko | **không** dùng 「」 — A5 |
 | 白日梦酒店 | khách sạn Bạch Nhật Mộng *(Reverie)* | TextMap cn 30069, 112033 | 1.04, **một lần** trong lời Misha | chưa đối chiếu CSV |
 | 黄金的时刻 | Giờ Vàng *(Golden Hour)* | TextMap cn 27207 | 1.05, **một lần** trong lời kể | chưa đối chiếu CSV |
@@ -39,7 +39,7 @@ last_updated: 2026-11-01
 | 无名客 | Khách Vô Danh | TextMap cn 112032, 112743 | 1.03 | như bảng plan |
 | 请柬 | thiệp mời | TextMap cn 112032 | 1.03 | — |
 | 米沙 · 艾丽 | Misha · Alley | TextMap cn 112033 · 113014, 113410 | 1.04 — **chỉ vai**, không tả nét | chưa đối chiếu CSV |
-| 砂金 | Aventurine | [[ch01-plan-a3]] *(TextMap cn 30069)* | 1.04 | tên đã dùng arc 1 |
+| 砂金 | Aventurine | ch01-plan-a3 *(TextMap cn 30069)* | 1.04 | tên đã dùng arc 1 |
 | 跃迁 | warp | TextMap cn 30069 | 1.04, một lần trong lời March | — |
 | 兄长 | anh trai *(Robin giới thiệu Sunday với Đoàn tàu)* | TextMap cn *(「您口中的星期日是我的兄长」 — soát mạch 01/11 V1; thay 前辈 của nhóm A)* | 1.04, một lần | Robin gọi riêng 「哥哥」 *(TextMap cn: 「哥哥，我回来了。」)* |
 | 哥哥 | anh trai | TextMap cn *(xem dòng trên)* | 1.01 trở đi | — |

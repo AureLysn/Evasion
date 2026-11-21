@@ -7,7 +7,7 @@ project: CLS
 canon_layer: user_canon
 status: active
 aliases: ["tra loi bon cau ch02 arc 2", "dong y them suspected_by Dan Heng", "arc cua Dazai khong cam lo mat", "bun den khong phai bun that", "黑泥 khong phai bun that"]
-related: ["[[ch02-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: user_input
   ref: "Aurel 26/10/2026, tra loi bon cau o diem dung a2-ch02-commit-approve, qua phien me cua phien dieu phoi hang doi; phien dieu phoi nhan lai nguyen van"

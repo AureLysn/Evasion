@@ -4,7 +4,6 @@ type: chapter
 scope: project
 lane: personal
 project: TRIAD
-arc: san-sang-loc
 chapter: 1
 canon_layer: planned
 status: archived
@@ -17,7 +16,7 @@ authority: user
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-11-12
+last_updated: 2026-11-21
 ---
 
 # Chương 1: Giữa chừng

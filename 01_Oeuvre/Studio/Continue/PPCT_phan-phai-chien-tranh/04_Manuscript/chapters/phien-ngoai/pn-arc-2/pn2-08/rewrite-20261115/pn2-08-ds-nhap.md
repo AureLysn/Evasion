@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-2-i-prescelti-sette
 chapter: "pn2-08"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn2-08 ban DeepSeek nhap", "phiên ngoại nhà thêm phòng DeepSeek", "反派战争 番外十二 加盖的房间 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-08-ds-the-canh]]", "[[pn2-08-ds-kiem]]", "[[pn2-07-ds-nhap]]", "[[pn2-06-ds-nhap]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
+related: [ "[[pn2-07-ds-nhap]]", "[[pn2-06-ds-nhap]]", "[[Luce]]", "[[Lal-Mirch]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E và ba bản 开口 (C-c); GPT chấm (chọn bản Skull, ghép Reborn) và đọc thử; Claude kiểm và sửa (xem pn2-08-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/6e01657a-31f0-439f-ae16-720620d11567"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·十二 加盖的房间

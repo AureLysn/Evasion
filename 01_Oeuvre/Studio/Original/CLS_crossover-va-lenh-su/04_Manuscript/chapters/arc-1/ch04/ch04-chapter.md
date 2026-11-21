@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
 chapter: 4
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["chuong 4 CLS", "chương 4 CLS", "ch4 arc 1 CLS", "ch04 CLS zh", "第四章 幸福手术", "ban thu tieng Trung ch04 CLS"]
-related: ["[[ch04-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[ch04-01-to-roi]]", "[[ch04-02-ban-tay]]", "[[ch04-03-anh-khong-nho]]", "[[ch04-04-viec-tot]]", "[[ch04-05-thu-san-ban-san]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-chapter|ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-chapter|ch03-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 17/10/2026 theo ke hoach ch04 ban 2 (da qua review-plan hai luot, 0 high) va nam the canh ch04-01..05 ban 2; ap cac residue cua reviewer N1, N2, N3, L2. Ban thu, viet bang tieng Trung. Ten rieng: ch04-zh-bang-ten.md."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-17
+last_updated: 2026-11-21
 ---
 
 # 第四章　幸福手术

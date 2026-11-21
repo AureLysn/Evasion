@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-3-tsuna-v2-cls
 chapter: 9
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 9 arc 3 CLS", "chương 9 arc 3 CLS", "ch09 arc 3 CLS zh", "第九章 散场", "ban nhap tieng Trung ch09 arc 3 CLS"]
-related: ["[[ch09-plan-a3]]", "[[a3-ch09-01-phao-hoa-chua-tan]]", "[[a3-ch09-02-hau-truong]]", "[[a3-ch09-03-trong-cua]]", "[[a3-ch09-04-nhin-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 03/11/2026 (xuong-lam) theo ch09-plan-a3 (Aurel duyet 03/11) va bon the canh a3-ch09-01..04, arc-3-chot-01-11 #18, #19, #21-#24. Noi tu cuoi ch08 arc 3 (final): phao hoa, hinh khong doi canh. TOAN BO ch09 tru troi phao hoa la PHIEN DAT vao quang canon khong chieu giua phao hoa va ranh sang (#21): hau truong (cuc nuoc lam diu co, Robin khong gui loi, dan dung ke giong khan), nguoi do tham Sunday bi giu (ngoi san, nhan xep giay to, 'ha hoi bie lai', 'lai noi') - khong nhac Robin (#22), Sunday van cho phan quyet; hanh lang -> mat nuoc ranh sang khong nguoi, khong ten noi; Sunday hoi Robin 'giong con tot khong', Robin chi tra loi ve luc nay (#24). Khong dung thoai canon (B1); khong chieu Stranger in a Strange Land (de ch10) va khung 3.8 ky uc bi dot (#23). Viec go ket 3.8 va la thu/lan can KHONG duoc nhac (#18, #19). Ban nhap, tieng Trung."
 authority: ai
 confidence: 0.35
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-03
+last_updated: 2026-11-21
 ---
 
 # 第九章　散场

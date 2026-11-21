@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-5-ke-san-va-con-moi
 chapter: 34
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争34（DeepSeek版）"
 aliases: ["ch34 ban DeepSeek nhap", "chương 34 bản song song DeepSeek", "反派战争34 DeepSeek"]
-related: ["[[ch34-ds-the-canh]]", "[[ch34-ds-kiem]]", "[[ch33-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter|ch34-chapter (aurel-main, final)]]"]
+related: [ "[[ch33-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch34/ch34-chapter|ch34-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết theo ch34-ds-the-canh; Claude kiểm lượt 1 và sửa (xem ch34-ds-kiem). Không dùng văn bản ch34-chapter final. Chat arc 5: https://chat.deepseek.com/a/chat/s/1d618e18-7086-41df-a58e-9d0341907277"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争34

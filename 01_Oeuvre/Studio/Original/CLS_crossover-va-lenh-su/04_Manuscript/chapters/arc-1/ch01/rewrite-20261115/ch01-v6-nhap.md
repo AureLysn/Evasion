@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v6-cls
 chapter: 1
 canon_layer: planned
 status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["ch01 ban 6 nhap", "chương 1 bản 6 nháp", "第一章 箭 ban 6"]
-related: ["[[ch01-v6-the-canh]]", "[[ch01-v6-kiem]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-chapter|ch01-chapter]]"]
 source:
   type: inference
   ref: "Ban 6, nhap 15/11/2026. Dong mo phong (muc tieu, can phong, chin nguoi) chep nguyen tu ch01-chapter ban final (dong 26-134). Phan con lai: DeepSeek viet theo the canh ch01-v6-the-canh, phien kiem va sua (xem ch01-v6-kiem). Chat: https://chat.deepseek.com/a/chat/s/fe2e14df-fa07-4426-a05f-986dbfb5998c"
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 # 第一章　箭

@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-2-moi-va-luoi
 chapter: 20
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争20（DeepSeek版）"
 aliases: ["ch20 ban DeepSeek nhap", "chương 20 bản song song DeepSeek", "反派战争20 DeepSeek"]
-related: ["[[ch20-ds-the-canh]]", "[[ch20-ds-kiem]]", "[[ch19-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch20/ch20-chapter|ch20-chapter (aurel-main, final)]]"]
+related: [ "[[ch19-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch20/ch20-chapter|ch20-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch20-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch20-ds-kiem). Không dùng văn bản ch20-chapter final. Chat arc 2: https://chat.deepseek.com/a/chat/s/f8a57c82-9618-459e-b001-264e6620c29a"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争20

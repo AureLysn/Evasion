@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-1-vuong-yen-ha-man
 chapter: 17
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.waver, character.PPCT.dazai]
 language: zh
 aliases: ["chuong 17 PPCT", "ban nhap tieng Trung ch17", "宴终 ban nhap", "反派战争17 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan|plan ch17]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争17

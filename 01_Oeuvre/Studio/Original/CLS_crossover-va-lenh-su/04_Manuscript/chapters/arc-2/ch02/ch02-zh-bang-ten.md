@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["ch02 arc 2 CLS zh", "bang ten tieng Trung ch02 arc 2 CLS", "bảng tên tiếng Trung ch02 arc 2"]
-related: ["[[ch02-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 25/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch02 arc 2. Ten MOI lay tu bang de xuat trong ch02-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01 arc 2 va arc 1 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan. SUA 26/10/2026 (xuong-lam, theo Aurel 26/10): bo muc lien quan bun that (be nuoc, ao phu bun, chi tiet o dau/toc dinh bun); muc 黑泥 doi thanh bien danh theo loi noi u am (hard-rules C7); them thuat ngu moi cua canh gap nguoi la o hang tap hoa. Nguon thuat ngu moi: TextMap cn nhiem vu Kremnos I."
@@ -19,7 +19,7 @@ last_updated: 2026-10-26
 
 # Bảng tên tiếng Trung — ch02 arc 2 (第二章　金线)
 
-Tên dùng lại từ ch01 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, không bằng wikilink trần vì trùng tên file arc 1)*: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 缇宝 · 万敌 · 遐蝶 · 迷迷 · 阿格莱雅 · 尼卡多利 · 泰坦 · 金线 · 云石天宫 · 命运重渊 · 奥赫玛 · 翁法罗斯 *(chỉ nhắc nếu có)* · 天外 · 小白. Dưới đây là tên **mới** của ch02 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của [[ch02-plan-a2]] *(TextMap cn trên máy, đọc 25/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra; **biệt danh** = do Stelle đặt trong truyện.
+Tên dùng lại từ ch01 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, không bằng wikilink trần vì trùng tên file arc 1)*: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 缇宝 · 万敌 · 遐蝶 · 迷迷 · 阿格莱雅 · 尼卡多利 · 泰坦 · 金线 · 云石天宫 · 命运重渊 · 奥赫玛 · 翁法罗斯 *(chỉ nhắc nếu có)* · 天外 · 小白. Dưới đây là tên **mới** của ch02 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của ch02-plan-a2 *(TextMap cn trên máy, đọc 25/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra; **biệt danh** = do Stelle đặt trong truyện.
 
 ## Tên riêng
 

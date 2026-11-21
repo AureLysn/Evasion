@@ -1,12 +1,11 @@
 ﻿---
 id: chplan.TRIAD.chuong-01
-type: chapter_plan
+type: chapter
 scope: project
 lane: personal
 project: TRIAD
-arc: san-sang-loc
 chapter: 1
-canon_layer: fic_explicit
+canon_layer: planned
 status: superseded
 superseded_by: chplan.TRIAD.chuong-01-aurel-viet-lai
 superseded_at: 2026-09-12
@@ -23,7 +22,7 @@ confidence: 0.6
 always_load: false
 tags: [d/writing, p/personal]
 legacy_tags: [k/chapter]
-last_updated: 2026-09-12
+last_updated: 2026-11-21
 ---
 
 

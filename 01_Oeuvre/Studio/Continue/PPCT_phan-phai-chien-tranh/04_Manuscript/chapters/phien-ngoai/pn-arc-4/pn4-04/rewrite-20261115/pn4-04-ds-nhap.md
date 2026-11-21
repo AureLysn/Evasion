@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-4-tuyen-tap-gag-fate
 chapter: "pn4-04"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn4-04 ban DeepSeek nhap", "phiên ngoại Chén Thánh mười bốn người DeepSeek", "反派战争 番外二十八 十四人的圣杯 DeepSeek"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-04-ds-the-canh]]", "[[pn4-04-ds-kiem]]", "[[pn4-03-ds-nhap]]", "[[pn1-02-ds-nhap]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Irisviel-von-Einzbern]]", "[[Artoria-Pendragon]]"]
+related: [ "[[pn4-03-ds-nhap]]", "[[pn1-02-ds-nhap]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Irisviel-von-Einzbern]]", "[[Artoria-Pendragon]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 规则 (C6) và ba bản 卫宫家 (C7); GPT chấm (规则一 ghép chút 规则三; 卫宫家一) và đọc thử; Claude kiểm và sửa (xem pn4-04-ds-kiem). Chương cuối Arc IV. Chat: https://chat.deepseek.com/a/chat/s/8b914924-4cc3-447f-86ca-bf5428f041ad"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·二十八 十四人的圣杯

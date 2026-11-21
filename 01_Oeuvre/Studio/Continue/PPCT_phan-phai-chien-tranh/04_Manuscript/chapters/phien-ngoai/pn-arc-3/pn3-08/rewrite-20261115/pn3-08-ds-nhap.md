@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-3-ba-dua-tre
 chapter: "pn3-08"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn3-08 ban DeepSeek nhap", "phiên ngoại đòi nợ Estraneo DeepSeek", "反派战争 番外二十一 讨债 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-08-ds-the-canh]]", "[[pn3-08-ds-kiem]]", "[[pn3-07-ds-nhap]]", "[[Estraneo-Famiglia]]", "[[Rokudo-Mukuro]]", "[[Vindice]]", "[[Paul-Verlaine]]", "[[Nakahara-Chuuya]]"]
+related: [ "[[pn3-07-ds-nhap]]", "[[Estraneo-Famiglia]]", "[[Rokudo-Mukuro]]", "[[Vindice]]", "[[Paul-Verlaine]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 初见 (C-a) và ba bản 魏尔伦 (C-b); GPT chấm (初见一 + viên kẹo; 魏尔伦三 + ánh nhìn Chikusa) và đọc thử; Claude kiểm và sửa (xem pn3-08-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/bc5c4b05-0a61-466a-8239-82b676572e5d"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·二十一 讨债

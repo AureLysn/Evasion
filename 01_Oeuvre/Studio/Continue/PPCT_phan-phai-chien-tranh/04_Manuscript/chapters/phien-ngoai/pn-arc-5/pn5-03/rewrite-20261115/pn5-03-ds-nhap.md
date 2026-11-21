@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-5-xem-va-phan-ung
 chapter: "pn5-03"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.oda]
 language: zh
 aliases: ["pn5-03 ban DeepSeek nhap", "phiên ngoại mạch chính DeepSeek", "反派战争 番外三十一 另一边的横滨 DeepSeek"]
-related: ["[[pn-arc-5-ds-plan]]", "[[pn5-03-ds-the-canh]]", "[[pn5-03-ds-kiem]]", "[[pn5-02-ds-nhap]]", "[[pn3-11-ds-nhap]]", "[[pn3-02-ds-nhap]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]"]
+related: [ "[[pn5-02-ds-nhap]]", "[[pn3-11-ds-nhap]]", "[[pn3-02-ds-nhap]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 芥川 (C-a) và ba bản 咖啡 (C-b); GPT chấm (芥川三; 咖啡二 + 一, không ai uống) và đọc thử; Claude đối chiếu canon (wiki Chapter 1, 3, 4), sửa và viết lại phần lớn (xem pn5-03-ds-kiem). Chương cuối Arc V, cuối toàn bộ phiên ngoại. Chat: https://chat.deepseek.com/a/chat/s/e4e83d67-45d0-40b2-9c5f-260b89708919"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·三十一 另一边的横滨

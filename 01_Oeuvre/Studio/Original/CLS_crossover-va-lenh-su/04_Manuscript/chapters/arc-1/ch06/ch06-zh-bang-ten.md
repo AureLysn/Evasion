@@ -9,7 +9,7 @@ chapter: 6
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch06 CLS", "bảng tên ch06 CLS", "ten Trung ch06 CLS"]
-related: ["[[ch06-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia]]", "[[Ashveil]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia]]", "[[Ashveil]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "TextMap cn tren may Aurel (DesignData/Windows/cn, chi doc), tra 18/10/2026 bang loc chuoi UTF-8 theo tu khoa (tm3.py trong scratchpad phien, bien the cua tm2.py cho phep chuoi dai hon); doi chieu nghia voi Planarcadia.md va Ashveil.md. Chu khong co trong TextMap ghi 'de xuat'. Sua 18/10 theo review-plan luot 1 (M3, M5, L4)."
@@ -58,11 +58,11 @@ Tên dùng lại từ ch01–ch05: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_cr
 | **灰烬** | 「年纪最小的成员」, ngoan, đầy hy vọng, nhưng **rụt rè, thiếu tự tin**; gặp điều mình thích thì cuồng nhiệt, xong lại xấu hổ vì làm phiền người. Câu hô: 「斩破绝望！锋锐如钢！不灭的利刃，灰烬战士！」 |
 | Khẩu hiệu đội | 「暗夜终尽，黎明降临！破晓战队，登场！」 |
 
-Khớp với [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]] (赤焰 ồn, 苍翼 ít lời, 曙光 giọng trong, 灰烬 đỏ mặt). Ngoại hình ba người **vẫn chưa có nguồn** ([[ch05-plan]] mục 14).
+Khớp với [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]] (赤焰 ồn, 苍翼 ít lời, 曙光 giọng trong, 灰烬 đỏ mặt). Ngoại hình ba người **vẫn chưa có nguồn** (ch05-plan mục 14).
 
 ## Đã tra nhưng **không** dùng
 
-- **Tên ga 「众神嗤笑之地」** (「「众神嗤笑之地，即将到站。」」 · 「列车广播把这里唤作「众神嗤笑之地」…我不记得地图上有过这样的站点」) và **giọng gọi Stelle** (「你听到有某个声音呼唤你」): mang mùi tuyến 阿哈 / Nihilux (「嗤笑」 cũng xuất hiện ở 「所有人的苦难都源于阿哈的嗤笑」) → **không dùng ở ch06**, 🟡 **chờ Aurel** (nguoi-xem-nho-toi-cuoi-ban-truoc; [[ch06-plan]] mục 2). **Đoàn tàu** thì **dùng** (review M3). [[Planarcadia]] trình tự dòng 7 đã sửa theo TextMap 18/10 (review M4).
+- **Tên ga 「众神嗤笑之地」** (「「众神嗤笑之地，即将到站。」」 · 「列车广播把这里唤作「众神嗤笑之地」…我不记得地图上有过这样的站点」) và **giọng gọi Stelle** (「你听到有某个声音呼唤你」): mang mùi tuyến 阿哈 / Nihilux (「嗤笑」 cũng xuất hiện ở 「所有人的苦难都源于阿哈的嗤笑」) → **không dùng ở ch06**, 🟡 **chờ Aurel** (nguoi-xem-nho-toi-cuoi-ban-truoc; ch06-plan mục 2). **Đoàn tàu** thì **dùng** (review M3). [[Planarcadia]] trình tự dòng 7 đã sửa theo TextMap 18/10 (review M4).
 - **「贪饕」之影**: tên cái bóng trong TextMap (đoạn Astropolis, Kuchiba dùng nó) — không cần ở ch06; phòng không giải nghĩa cái bóng.
 - **Cục Quản Chế Dị Thể**: tra 管制局 / 管控局 / 异相 không ra cơ quan này → **không** gọi tên cơ quan giam ở 6.05.
 - 「领猎人，拉曼查，以星狩誓言呼唤你！」: một dòng TextMap có tên 拉曼查 trong lời gọi — ngữ cảnh không rõ (có thể của sự kiện khác) → không dùng.

@@ -21,7 +21,7 @@ last_updated: 2026-11-13
 
 # Nhân vật Penacony — ngoại hình *(tra 01/11/2026)*
 
-> Dùng cho CLS **arc 3** — Aurel 01/11 *(「Theo wiki」, arc-3-chot-01-11 #10)*: luật C6 không áp cho arc 3; tả theo ảnh **In-Game** trên wiki, ghi nguồn *(như [[Amphoreus-npc-ngoai-hinh]] ở arc 2)*. Ảnh là **thiết kế chơi được hiện hành**; trang phục riêng trong ký ức 2.x / 3.8 có khác không: **chưa tra**. Tên Trung theo [[ch01-plan-a3]] *(TextMap cn / BWIKI)*, **chưa đối chiếu** `Name HSR - Tổng.csv` ([[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]] A4).
+> Dùng cho CLS **arc 3** — Aurel 01/11 *(「Theo wiki」, arc-3-chot-01-11 #10)*: luật C6 không áp cho arc 3; tả theo ảnh **In-Game** trên wiki, ghi nguồn *(như [[Amphoreus-npc-ngoai-hinh]] ở arc 2)*. Ảnh là **thiết kế chơi được hiện hành**; trang phục riêng trong ký ức 2.x / 3.8 có khác không: **chưa tra**. Tên Trung theo ch01-plan-a3 *(TextMap cn / BWIKI)*, **chưa đối chiếu** `Name HSR - Tổng.csv` ([[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]] A4).
 > Chỉ ghi cái **nhìn thấy** trong ảnh. Trái/phải dưới đây tính theo **nhân vật** *(tay phải = bên trái ảnh)*. Ba ảnh cùng đứng thẳng, mặt nhìn thẳng, cười rất nhẹ.
 
 | Nhân vật | Tên Trung | Ngoại hình nhìn thấy | Ảnh wiki |

@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-5-xem-va-phan-ung
 chapter: "pn5-02"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn5-02 ban DeepSeek nhap", "phiên ngoại Hắc Thời Đại gốc DeepSeek", "反派战争 番外三十 黑时代 DeepSeek"]
-related: ["[[pn-arc-5-ds-plan]]", "[[pn5-02-ds-the-canh]]", "[[pn5-02-ds-kiem]]", "[[pn5-01-ds-nhap]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakaguchi-Ango]]", "[[Dazai-Osamu]]", "[[Akutagawa-Ryunosuke]]"]
+related: [ "[[pn5-01-ds-nhap]]", "[[Sakunosuke-Oda]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakaguchi-Ango]]", "[[Dazai-Osamu]]", "[[Akutagawa-Ryunosuke]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 送走 (C3) và ba bản 一句话 (C4); GPT chấm (送走一 sửa lại; 一句话一) và đọc thử; Claude đối chiếu canon (note Sakunosuke-Oda, Mimic, Andre-Gide), sửa và viết thêm phần lớn (xem pn5-02-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/60e47adf-26c0-47e4-be79-485957c0c613"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·三十 黑时代

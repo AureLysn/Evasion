@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-1-yokohama-va-quan-lupin
 chapter: "pn1-03"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn1-03 ban DeepSeek nhap", "phiên ngoại Lupin DeepSeek", "反派战争 番外三 Lupin DeepSeek"]
-related: ["[[pn-arc-1-ds-plan]]", "[[pn1-03-ds-the-canh]]", "[[pn1-03-ds-kiem]]", "[[pn1-02-ds-nhap]]", "[[Bar-Lupin]]", "[[Mimic]]"]
+related: [ "[[pn1-02-ds-nhap]]", "[[Bar-Lupin]]", "[[Mimic]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết A–D (ba bản mỗi chỗ A, C); GPT chấm (A2 + Ango ngắn của A1; C1 Sakura, sửa logic sơ tán); DeepSeek viết bản hoàn chỉnh, rồi viết lại nửa sau theo GPT đọc thử; Claude kiểm và sửa (xem pn1-03-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/f2f3e0d0-7af2-4300-8fe1-f5581ad55c6f"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·三 Lupin

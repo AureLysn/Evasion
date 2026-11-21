@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-3-tsuna-v2-cls
 chapter: 8
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 8 arc 3 CLS", "chương 8 arc 3 CLS", "ch08 arc 3 CLS zh", "第八章 烟花", "ban nhap tieng Trung ch08 arc 3 CLS"]
-related: ["[[ch08-plan-a3]]", "[[a3-ch08-01-dang-phieu]]", "[[a3-ch08-02-mot-minh-len-tau]]", "[[a3-ch08-03-khong-can]]", "[[a3-ch08-04-phao-hoa]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 03/11/2026 (xuong-lam) theo ch08-plan-a3 (Aurel duyet 03/11) va bon the canh a3-ch08-01..04. Noi tu cuoi ch07 arc 3 (final): 'tai giua ham xuong mot vong, mep chinh te, ben trong khong co gi'. Ban 2.x (arc-3-chot-01-11 #1 sua, #14): khong Finality, phao hoa tu no. Canon: TextMap cn 27238, 27240, 30100, 185380-185397, 22212-22231 va wiki Unconquered / All About Eve / Life is But a Drifting Dream / Soldier's Pay / A Thousand Bells at Dawn (thoai ghi nguoi noi, scratchpad wk5) - chi dien y, khong chep thoai (B1). Ngoai hinh Oti, Topaz, Jade, Sparkle, Firefly, Robin theo Penacony-npc-ngoai-hinh. PHIEN DAT / DE XUAT (khong canon): cho ngoi va moi viec cua 'nguoi do' o 8.01 (Oti doi xoa bien nhan; Jade moi noi thay; trao lien kia), toan bo 8.03 (la thu chuc mung khong ky ten; lan can lanh hai nua; net chu giong to bien nhan), cac cau trong phong, Firefly 'mot minh' (phim cat doan chao Stelle). Viec go ket 3.8 KHONG len trang (#16-#19). Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban nhap, tieng Trung."
 authority: ai
 confidence: 0.35
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-03
+last_updated: 2026-11-21
 ---
 
 # 第八章　烟花

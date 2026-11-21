@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-3-tsuna-v2-cls
 chapter: 2
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 2 arc 3 CLS", "chương 2 arc 3 CLS", "ch02 arc 3 CLS zh", "第二章 星期日的朋友", "ban thu tieng Trung ch02 arc 3 CLS"]
-related: ["[[ch02-plan-a3]]", "[[a3-ch02-01-giong-co-loi]]", "[[a3-ch02-02-ba-nguoi]]", "[[a3-ch02-03-ke-lau-ve]]", "[[a3-ch02-04-huong-dan-vien]]", "[[a3-ch02-05-nguoi-bam-theo]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Firefly]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]", "[[Silver-Wolf]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-chapter|ch01-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Firefly]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]", "[[Silver-Wolf]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam) theo ch02-plan-a3 va nam the canh a3-ch02-01..05 (da sua sau review-plan 01/11). Noi tu cuoi ch01 arc 3 (final): tuong van sang, Stelle tap di o Gio Vang. Canon: TextMap cn 30071 (Sleepless Night, Tales from the Golden Age), tuyen Robin 3.8 xen vao dem 2.0 (Aurel 01/11 #12: 113137-113141, 151248-151252) - chi phan hanh vi, dien y, khong chep thoai (B1); wiki fandom Sleepless Night va Tales (Sequence Recap) lam nen thu tu canh. Ngoai hinh Firefly, Gallagher, Sampo, bac si Edward theo Penacony-npc-ngoai-hinh (anh In-Game wiki, arc-3-chot-01-11 #10); Doan tau theo Doan-tau-ngoai-hinh. Cau cua 'nguoi thu ba' (2.01, 2.02), canh xen ke 'Ba nguoi' (khong co trong game), cau Sunday o moc cuoi, cau Firefly hoi Robin, chon giong Dan Heng cho Akivili, nhanh banh cuon 03: PHIEN DAT / DE XUAT, khong canon. Tay Sunday o moc cuoi dat tren tay vin giua hai ghe (doi so voi the 2.05: 'hai tay tren dau goi') de noi tiep 2.02. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban thu, tieng Trung."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-02
+last_updated: 2026-11-21
 ---
 
 # 第二章　星期日的朋友

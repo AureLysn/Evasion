@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-4-tuyen-tap-gag-fate
 chapter: "pn4-02"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn4-02 ban DeepSeek nhap", "phiên ngoại thế giới không có tổ Caster như ta DeepSeek", "反派战争 番外二十六 没有我们这种Caster的世界 DeepSeek"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-02-ds-the-canh]]", "[[pn4-02-ds-kiem]]", "[[pn4-01-ds-nhap]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]", "[[Artoria-Pendragon]]"]
+related: [ "[[pn4-01-ds-nhap]]", "[[Gilles-de-Rais-Caster]]", "[[Ryuunosuke-Uryuu]]", "[[Artoria-Pendragon]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 能力 (C3) và ba bản 事件 (C4); GPT chấm (能力一 + cảm giác của 能力二; 事件三 + mưu đánh lạc hướng của 事件一) và đọc thử; Claude kiểm và sửa (xem pn4-02-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/72f07582-4b70-4ce3-bd50-2f15007907db"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·二十六 没有我们这种Caster的世界

@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-4-ba-dao-lenh-chu
 chapter: 32
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 32 PPCT", "ban nhap tieng Trung ch32", "chuong nha ch32 ban nhap", "反派战争32 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan|plan ch32]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争32

@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-3-hai-cay-thuong
 chapter: 25
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.diarmuid, character.PPCT.artoria]
 language: zh
 aliases: ["chuong 25 PPCT", "ban nhap tieng Trung ch25", "破魔 ban nhap", "反派战争25 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan|plan ch25]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争25

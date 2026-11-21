@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-1-vuong-yen-ha-man
 chapter: 18
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["chuong 18 PPCT", "ban nhap tieng Trung ch18", "nhat ky Dazai ch18", "反派战争18 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争18

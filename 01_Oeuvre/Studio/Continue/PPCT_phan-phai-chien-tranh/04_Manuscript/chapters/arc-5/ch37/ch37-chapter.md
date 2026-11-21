@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-5-ke-san-va-con-moi
 chapter: 37
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 37 PPCT", "ban nhap tieng Trung ch37", "bo ma ban nhap", "反派战争37 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan|plan ch37]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争37

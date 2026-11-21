@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: active
 aliases: ["ten cn 3.6 3.7 CLS", "tên Trung 3.6 3.7 CLS", "ngoai hinh Evernight Anaxa", "荒笛 祝祭庭院 净世金血"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[ch10-plan-a2]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[20261022-amphoreus-doc-thoai-nhom-c]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-zh-bang-ten|ch08-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-zh-bang-ten|ch09-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[20261022-amphoreus-doc-thoai-nhom-c]]"]
 source:
   type: inference
   ref: "Phien phu (general-purpose agent) tra online 30/10/2026: BWIKI wiki.biligame.com/sr + HSR Fandom; URL ghi tung dong. Phien chinh kiem lai doc lap 2 muc: 祝祭庭院 + 仪式剑 (BWIKI 落英啊，残芳纷飞留归躅 - khop nguyen van), 荒笛 cung Dan Heng (BWIKI 大地啊，承载万物的苦难 qua ket qua tim kiem - khop). Fandom tra 402 cho phien chinh. Ngoai hinh: mo ta anh chinh thuc do agent doc - CHUA kiem lai."

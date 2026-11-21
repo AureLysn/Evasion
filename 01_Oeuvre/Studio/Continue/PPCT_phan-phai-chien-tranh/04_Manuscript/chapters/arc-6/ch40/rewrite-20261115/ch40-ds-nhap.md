@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-6-co-xe-gia
 chapter: 40
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争40（DeepSeek版）"
 aliases: ["ch40 ban DeepSeek nhap", "chương 40 bản song song DeepSeek", "反派战争40 DeepSeek"]
-related: ["[[ch40-ds-the-canh]]", "[[ch40-ds-kiem]]", "[[ch39-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter|ch40-chapter (aurel-main, final)]]"]
+related: [ "[[ch39-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch40/ch40-chapter|ch40-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch40-ds-the-canh (3 lượt: A–B; C–D; đoạn chiến xa + E–F gửi lại sau lỗi mạng); Claude kiểm lượt 1 và sửa (xem ch40-ds-kiem). Không dùng văn bản ch40-chapter final. Chat arc 6 (ch39–40): https://chat.deepseek.com/a/chat/s/3b76100c-0bb7-49b4-8671-dcd538f53aac"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争40

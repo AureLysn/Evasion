@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-2-i-prescelti-sette
 chapter: "pn2-05"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn2-05 ban DeepSeek nhap", "phiên ngoại Yokohama song song DeepSeek", "反派战争 番外九 平行的横滨 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-05-ds-the-canh]]", "[[pn2-05-ds-kiem]]", "[[pn2-02-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Akutagawa-Ryunosuke]]"]
+related: [ "[[pn2-02-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Akutagawa-Ryunosuke]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A, B, C, E và ba bản C7; GPT chấm (chọn ~4 năm); Claude phát hiện canon Luce mang thai lúc bị nguyền → Aurel chốt \"Ngắn, Dazai ẩn mình\"; DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa; GPT đọc thử (xem pn2-05-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/fcce3cf4-f553-469e-89e6-1ebdf6220315"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·九 平行的横滨

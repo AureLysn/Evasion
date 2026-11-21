@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-5-ke-san-va-con-moi
 chapter: 37
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争37（DeepSeek版）"
 aliases: ["ch37 ban DeepSeek nhap", "chương 37 bản song song DeepSeek", "反派战争37 DeepSeek"]
-related: ["[[ch37-ds-the-canh]]", "[[ch37-ds-kiem]]", "[[ch36-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter|ch37-chapter (aurel-main, final)]]"]
+related: [ "[[ch36-ds-nhap]]", "[[04_Manuscript/chapters/arc-5/ch37/ch37-chapter|ch37-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch37-ds-the-canh (2 lượt; lượt 1 gửi lại sau lỗi mạng); Claude kiểm lượt 1 và sửa (xem ch37-ds-kiem). Không dùng văn bản ch37-chapter final. Chat arc 5: https://chat.deepseek.com/a/chat/s/1d618e18-7086-41df-a58e-9d0341907277"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争37

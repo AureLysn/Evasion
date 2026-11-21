@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-6-co-xe-gia
 chapter: 39
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.kariya]
 language: zh
 aliases: ["chuong 39 PPCT", "ban nhap tieng Trung ch39", "giao dich ban nhap", "反派战争39 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan|plan ch39]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争39

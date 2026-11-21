@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-2-dazai-v3-cls
 chapter: 3
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 3 arc 2 CLS", "chương 3 arc 2 CLS", "ch03 arc 2 CLS zh", "第三章 不是我的", "ban thu tieng Trung ch03 arc 2 CLS"]
-related: ["[[ch03-plan-a2]]", "[[a2-ch03-01-thu-luyen]]", "[[a2-ch03-02-y-chuc]]", "[[a2-ch03-03-so-nong]]", "[[a2-ch03-04-mot-minh-ve]]", "[[a2-ch03-05-khong-phai-cua-toi]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) theo ch03-plan-a2 va nam the canh a2-ch03-01..05, da tu duyet 26/10. Noi tu cau cuoi ch02 arc 2 (final). Canon: TextMap cn tom tat nhiem vu va wiki-thoai nhom A (phai sinh, dien y, khong chep thoai - B1). Ngoai hinh nhan vat HSR theo Amphoreus-npc-ngoai-hinh (C6 khong ap arc 2, Aurel 25/10); Hyacine va Krateros tu dong moi them 26/10. Nguoi o hang tap hoa: thiet ke de xuat Đ1 (cho Aurel xem); guong mat duoc ta o arc 2 (Aurel 26/10). Cac khoi phim ke tu ngoai, cac nhip phong ke tu Phainon. Luat C7: khong chu 泥/泡/洗 o canh nha tam, chu 黑泥 chi o phong. Cuoc goi 3.05: hop den, khong 电话/手机/通讯/信号, khong chu 天 trong khoi cuoc goi. Ban thu, tieng Trung. Chua qua xuong-kiem check-continuity. Sua 26/10 (fix, hang doi) theo check-continuity: N-1 cau ket, V-1 nhip phong B8, V-2 bo 包扎, V-3 bo dau khoang cach cuoc goi, V-4 buoc doi cua Sunday, L-1..L-6."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-26
+last_updated: 2026-11-21
 ---
 
 # 第三章　不是我的

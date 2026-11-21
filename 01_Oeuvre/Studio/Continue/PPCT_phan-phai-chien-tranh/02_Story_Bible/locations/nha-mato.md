@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: official_canon
 status: active
 aliases: ["nha Mato PPCT", "nha Matou PPCT", "间桐家", "间桐宅", "ham trung nha Mato"]
-related: ["[[kariya]]", "[[Kariya-Matou]]", "[[to-matou-va-kirei-theo-canon]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]"]
+related: ["[[kariya]]", "[[Kariya-Matou]]", "[[to-matou-va-kirei-theo-canon]]"]
 source:
   type: franchise_canon
   ref: "Fate/Zero canon (Database/Fandom/Fate/characters/Kariya-Matou; crosscheck 20260929 b1, d4: Kirei dua Kariya ve nha Mato, gap nhau o nha Mato truoc vu bat coc). Nguyen tac 反派战争 khong co nha Mato. Len trang lan dau du kien ch39."

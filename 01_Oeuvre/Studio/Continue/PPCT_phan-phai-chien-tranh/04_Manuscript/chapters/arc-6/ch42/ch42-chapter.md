@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-6-co-xe-gia
 chapter: 42
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 42 PPCT", "ban nhap tieng Trung ch42", "khong phai viec cua minh ban nhap", "反派战争42 viet tiep", "khep arc 6 ban nhap"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan|plan ch42]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争42

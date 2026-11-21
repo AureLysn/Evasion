@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v6-cls
 chapter: 4
 canon_layer: planned
 status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["ch04 ban 6 nhap", "chương 4 bản 6 nháp", "第四章 侧门"]
-related: ["[[ch04-v6-the-canh]]", "[[ch04-v6-kiem]]", "[[ch03-v6-nhap]]"]
+related: [ "[[ch03-v6-nhap]]"]
 source:
   type: inference
   ref: "Ban 6, nhap 15/11/2026. Khoi B, D, D', E: DeepSeek viet, phien sua (ch04-v6-kiem). Con hem va phong: phien chuyen the tu ch04 ban final cu; nhip phong sau khoi B: phien viet. Chat: https://chat.deepseek.com/a/chat/s/fe2e14df-fa07-4426-a05f-986dbfb5998c"
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 # 第四章　侧门

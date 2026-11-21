@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-6-co-xe-gia
 chapter: 41
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.kiritsugu]
 language: zh
 aliases: ["chuong 41 PPCT", "ban nhap tieng Trung ch41", "lau dai trong ban nhap", "反派战争41 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan|plan ch41]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争41

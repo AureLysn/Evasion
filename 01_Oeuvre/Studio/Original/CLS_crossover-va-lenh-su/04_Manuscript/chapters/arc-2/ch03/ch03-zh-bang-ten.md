@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch03 arc 2 CLS", "bảng tên tiếng Trung ch03 arc 2"]
-related: ["[[ch03-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch03 arc 2. Ten MOI lay tu bang de xuat trong ch03-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01, ch02 arc 2 lay lai tu cac bang ten truoc (dan bang alias 'ch01 arc 2 CLS zh', 'ch02 arc 2 CLS zh'). Ten khong tra ra thi ghi ro, khong doan. Alias 'ch03 arc 2 CLS zh' thuoc ve ch03-chapter (tien le ch02 dung chung alias cho ca hai file; o day tach de khong trung)."
@@ -19,7 +19,7 @@ last_updated: 2026-10-26
 
 # Bảng tên tiếng Trung — ch03 arc 2 (第三章　不是我的)
 
-Tên dùng lại từ ch01–ch02 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, 「ch02 arc 2 CLS zh」)*: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 星期日 · 缇宝 · 万敌 · 遐蝶 · 阿格莱雅 · 迷迷 · 帕姆 · 尼卡多利 · 金线 · 创世涡心 · 火种 · 云石市集 · 奥赫玛 · 悬锋城 · 命运重渊 · 黑潮 · 黑泥 *(biệt danh Stelle đặt ở ch02 — C7)* · 小白. Dưới đây là tên **mới** của ch03 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của [[ch03-plan-a2]] *(đọc 26/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
+Tên dùng lại từ ch01–ch02 arc 2 *(dẫn bằng alias 「ch01 arc 2 CLS zh」, 「ch02 arc 2 CLS zh」)*: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 星期日 · 缇宝 · 万敌 · 遐蝶 · 阿格莱雅 · 迷迷 · 帕姆 · 尼卡多利 · 金线 · 创世涡心 · 火种 · 云石市集 · 奥赫玛 · 悬锋城 · 命运重渊 · 黑潮 · 黑泥 *(biệt danh Stelle đặt ở ch02 — C7)* · 小白. Dưới đây là tên **mới** của ch03 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của ch03-plan-a2 *(đọc 26/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
 
 ## Tên riêng
 
