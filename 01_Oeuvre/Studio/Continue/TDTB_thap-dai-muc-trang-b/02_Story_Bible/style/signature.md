@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: active
 strength: tendency
 aliases: ["signature TDTB", "van phong 乐博", "chu ky van phong TDTB", "giong van goc 十代目每天都在装B", "so do van phong nguyen tac TDTB"]
-related: ["[[targets]]", "[[hard-rules]]", "[[nguyen-van-zh-tdtb]]", "[[ban-convert-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[nguyen-van-zh-tdtb]]", "[[ban-convert-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
 source:
   type: measured
   ref: "Do 26/09/2026 bang style_metrics.py (--project TDTB --json) tren nguyen van zh ch1-15, 42.660 chu Han than truyen (bo dong tieu de chuong). Than truyen lay tu <div id=paragraph_comment_content> cua 15 trang JJWXC — xem nguyen-van-zh-tdtb. Dem dac trung (【】, NL：, X：, ‘’, ？？？) bang script tam, dinh nghia ghi trong than note. Doi chieu ban convert vi cung 15 chuong"

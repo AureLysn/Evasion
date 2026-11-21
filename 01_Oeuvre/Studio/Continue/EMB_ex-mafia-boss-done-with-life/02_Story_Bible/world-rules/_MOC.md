@@ -49,7 +49,7 @@ Fact rút **trực tiếp** từ nguồn sơ cấp. Mọi note ở đây có `so
 - [[rule-ten-tokugawa]] — dòng Giotto đặt tên **theo shōgun Tokugawa**. Bốn tên trùng với lịch sử thật
 - [[rule-danh-xung-flame]] — bảng danh xưng Flame đầy đủ
 
-⚠️ Ba note trên nói về **hai nhà Sawada khác nhau**. Xem [[organizations/_MOC|organizations MOC]] trước khi dùng.
+⚠️ Ba note trên nói về **hai nhà Sawada khác nhau**. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/organizations/_MOC|organizations MOC]] trước khi dùng.
 
 ### Lore — từ ghi chú tác giả
 
@@ -60,6 +60,24 @@ Fact rút **trực tiếp** từ nguồn sơ cấp. Mọi note ở đây có `so
 
 - [[fact-kimiko-arcobaleno]] — Kimiko là **Sky Arcobaleno hai mươi năm**; sáu Arcobaleno cùng thời **không hoá hài nhi** và **không ai thành Vindice**
 - [[fact-fon-huyet-thong]] — vì sao Fon **không** được miễn: Kimiko xin cho *huyết thống*, không phải *gia tộc*. Cây phả hệ bốn đời, `fic_explicit` — **không còn là fanon**
+
+## Bổ sung vào MOC 21/11/2026
+
+Tám note có từ trước nhưng chưa từng được liệt kê ở đây.
+
+### Từ văn bản fic gốc (`fic_explicit`)
+
+- [[fact-567-ke-hoach]] — 568 kế hoạch, xương sống của mười hai năm
+- [[fact-bang-tinh-hinh-ke-hoach]] — bảng tình hình kế hoạch
+- [[fact-hibari-sakura]] — Hibari Sakura, gốc rễ của cả chủ đề
+- [[fact-inari-va-kitsune]] — Inari và kitsune, khung tôn giáo của thế giới Flame Nhật
+- [[fact-p2ch2-con-lai]] — P2 Ch2, sáu thứ đáng giữ nhất
+
+### Luật của nhánh (`project_locked`)
+
+- [[fact-cham-lua-thu-tuong-thich]] — chạm lửa là phép thử tương thích
+- [[fact-cloud-ben-bi-cach-ly-la-xa-hoi]] — với Cloud, bên bị cách ly là xã hội
+- [[fact-tap-quan-doi-voi-tung-he-lua]] — Namimori có tập quán ứng xử riêng cho từng hệ lửa
 
 ## Đối chiếu với luật universe KHR
 

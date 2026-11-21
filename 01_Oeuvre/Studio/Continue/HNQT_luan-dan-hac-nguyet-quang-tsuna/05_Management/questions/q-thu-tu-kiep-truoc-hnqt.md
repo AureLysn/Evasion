@@ -11,7 +11,7 @@ needed_before:
   chapter: 20
 decision_owner: user
 aliases: ["thu tu kiep truoc", "Gokudera chet khi nao", "tang le truoc hay sau Byakuran", "mau thuan Ch6 Ch18", "timeline KHR HNQT"]
-related: ["[[gokudera-hy-sinh-dem-tong-bo-that-thu-hnqt]]", "[[tang-le-truoc-mo-hnqt]]", "[[hoi-kien-byakuran-hnqt]]", "[[the-gioi-cu-sup-do-hnqt]]", "[[Timeline/master|Timeline]]"]
+related: ["[[gokudera-hy-sinh-dem-tong-bo-that-thu-hnqt]]", "[[tang-le-truoc-mo-hnqt]]", "[[hoi-kien-byakuran-hnqt]]", "[[the-gioi-cu-sup-do-hnqt]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/03_Development/timeline/master|Timeline]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-14

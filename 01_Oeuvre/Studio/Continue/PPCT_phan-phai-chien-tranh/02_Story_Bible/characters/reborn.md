@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Reborn PPCT", "gia su cua Tsuna PPCT", "家庭教师 PPCT", "第一杀手", "R大"]
-related: ["[[Reborn]]", "[[tsuna]]", "[[vongola]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/reborn|Reborn]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[vongola]]"]
 source:
   type: fic_text
   ref: "Tien truyen thuong; 反派战争 ch10 (Byakuran nhac), ch13, ch14, ch15; ghi chu tac gia ch5"

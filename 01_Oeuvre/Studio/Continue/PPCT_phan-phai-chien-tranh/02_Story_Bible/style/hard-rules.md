@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules PPCT", "luat cung van phong PPCT", "quy tac cung PPCT", "khong duoc vi pham PPCT"]
-related: ["[[signature]]", "[[targets]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[go-quy-uoc-cam-trich-dazai-osamu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[go-quy-uoc-cam-trich-dazai-osamu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
 source:
   type: measured
   ref: "Do 13/09/2026 tren 反派战争 ch1–15 + tien truyen; hai quyet dinh Aurel 13/09/2026"
@@ -77,4 +77,4 @@ Chi tiết convert: tên riêng giữ chữ Hán hay phiên âm, dạng ngoặc 
 
 ai_tells_check.py và style_metrics.py đã hỗ trợ đo chữ Hán.
 
-✅ **Cập nhật 25/09/2026 — PPCT đã có [[ai-tells]]** (Aurel duyệt; ch36 là chương đầu chạy nó). `ai_tells_check.py --chapter <chương> --project PPCT` giờ kiểm **cứng**: §1 qua `project_4` (「说：「」 — 「」 **làm dấu thoại**, đúng lằn ranh ghi ngay dưới đây) và tag thoại sau ngoặc qua `project_3`. Vẫn kiểm tay: §2 kaomoji, §3 「我」 ngoài ngoặc kép (grep), §4, §5 bằng mắt. *(Đừng đưa §1 vào `forbid_chars`: §1 cấm `「」` **làm dấu thoại**, không cấm mọi `「」` — nguyên tác dùng 6 lần ở đoạn dệt từ Fate/Zero — còn `forbid_chars` là vi phạm cứng ở mọi chỗ.)*
+✅ **Cập nhật 25/09/2026 — PPCT đã có [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]** (Aurel duyệt; ch36 là chương đầu chạy nó). `ai_tells_check.py --chapter <chương> --project PPCT` giờ kiểm **cứng**: §1 qua `project_4` (「说：「」 — 「」 **làm dấu thoại**, đúng lằn ranh ghi ngay dưới đây) và tag thoại sau ngoặc qua `project_3`. Vẫn kiểm tay: §2 kaomoji, §3 「我」 ngoài ngoặc kép (grep), §4, §5 bằng mắt. *(Đừng đưa §1 vào `forbid_chars`: §1 cấm `「」` **làm dấu thoại**, không cấm mọi `「」` — nguyên tác dùng 6 lần ở đoạn dệt từ Fate/Zero — còn `forbid_chars` là vi phạm cứng ở mọi chỗ.)*

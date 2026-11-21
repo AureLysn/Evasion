@@ -7,7 +7,7 @@ project: HNQT
 canon_layer: fic_explicit
 status: active
 aliases: ["fic goc HNQT", "论坛黑月光纲吉君", "JJWXC 5632881", "ban tho JJWXC"]
-related: ["[[sources/_MOC|sources]]", "[[HNQT]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/01_Project-canon/sources/_MOC|sources]]", "[[HNQT]]"]
 source:
   type: fic_text
   ref: "https://www.jjwxc.net/onebook.php?novelid=5632881 — tải 2026-10-13T02:05:49Z, Aurel đưa file 14/10/2026"

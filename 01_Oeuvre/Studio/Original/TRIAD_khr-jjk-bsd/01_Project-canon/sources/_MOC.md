@@ -39,6 +39,12 @@ last_updated: 2026-11-21
 
 Không ingest `pho-ban-01.md` (ĐIỂM DANH, superseded) hay hai file `_cu-*.md` — giữ nguyên ở `03_Workspace/` chỉ để tra lịch sử, không dùng để viết.
 
+## Source note — một note cho mỗi file gốc
+
+- [[loi-tac-gia-note]] · [[tsuna-truyen-note]] · [[gojo-truyen-note]] · [[dazai-truyen-note]] · [[thiet-lap-the-gioi-note]]
+- [[thien-su-note]] · [[phap-y-note]] · [[nguoi-nhay-doi-note]]
+- [[nguon-aurel-tra-loi-note]] · [[sang-loc-mo-dau-note]]
+
 ## Checklist trích xuất (`extract-entities`) — CHƯA làm
 
 - [x] `canon/` từ [[TRIAD-raw|thiet-lap-the-gioi]] — 8 note, đề xuất 05/09/2026

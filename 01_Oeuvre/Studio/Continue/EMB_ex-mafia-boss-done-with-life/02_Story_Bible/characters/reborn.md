@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Reborn", "sat thu Reborn", "gia su cua Tsunashige", "thay cu", "Sun Arcobaleno", "cai bong", "bai thi cuoi"]
-related: ["[[tsuna]]", "[[tsunashige]]", "[[fact-toan-canh-tuong-lai]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[kawahira]]", "[[fact-guardian-hien-co]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tsunashige]]", "[[fact-toan-canh-tuong-lai]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-guardian-hien-co]]"]
 source:
   type: fic_text
   ref: "P1 Ch1-Ch3 (hoi uc Tsuna); P1 Ch3 (toan canh tuong lai); AO3 comment cua tac gia"
@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 ## Ông chưa xuất hiện một dòng nào
 
-Toàn bộ những gì vault biết đến từ **ba nguồn gián tiếp**: hồi ức của [[tsuna]] · đoạn biên niên cuối P1 Ch3 · comment của tác giả.
+Toàn bộ những gì vault biết đến từ **ba nguồn gián tiếp**: hồi ức của [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] · đoạn biên niên cuối P1 Ch3 · comment của tác giả.
 
 ⚠️ Nên **mọi mô tả tính cách trong note này là về Reborn của kiếp trước**, không phải người sắp bước vào đền. Đừng lẫn.
 
@@ -105,6 +105,6 @@ Và với Tsuna, đó là **lần đầu có người đối xử với cậu nh
 
 ## Lan can
 
-- **Không** viết Reborn theo trí nhớ canon rồi coi là xong — ông chưa xuất hiện, và tác giả đã chứng minh sẵn sàng vô hiệu canon *(xem [[kawahira]])*
+- **Không** viết Reborn theo trí nhớ canon rồi coi là xong — ông chưa xuất hiện, và tác giả đã chứng minh sẵn sàng vô hiệu canon *(xem [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]])*
 - **Không** cho ông nhận ra Tsuna sớm. Sự bất đối xứng **là** cảnh đó
 - **Không** để Tsuna gọi ông bằng giọng thân mật. Người đàn ông này **chưa gặp cậu**

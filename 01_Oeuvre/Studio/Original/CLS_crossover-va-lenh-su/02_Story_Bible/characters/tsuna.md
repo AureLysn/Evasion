@@ -7,7 +7,7 @@ project: CLS
 canon_layer: project_locked
 status: active
 aliases: ["Tsuna", "Sawada Tsunayoshi", "沢田綱吉", "纲吉", "cương cát", "Dame-Tsuna", "Juudaime", "Đệ Thập", "27", "lech su Hai hoa", "lệch sử Xipe", "lệnh sứ Xipe", "lenh su Hai hoa", "Tsuna CLS", "Tsuna Sunday", "Tsuna Robin"]
-related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[akutagawa]]", "[[jason-todd]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Sawada-Tsunayoshi|Sawada-Tsunayoshi (canon)]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Sawada-Tsunayoshi|Sawada-Tsunayoshi (canon)]]"]
 source:
   type: user_input
   ref: "premise.md (Aurel chot 14/09/2026); menh do: sources/user-input/20260913-menh-do-cua-tung-nhan-vat.md; ke ngoai lai: Aurel 24/09/2026 'ket hop ca hai' (nguoi trong nha + ung vien ke vi)"
@@ -80,5 +80,5 @@ Chưa có `secrets/`.
 
 ## Quan hệ
 
-- [[dazai|Dazai]] *(nhân vật trục BSD từ 28/09 — [[doi-truc-bsd-akutagawa-sang-dazai]])* — ✅ **cặp đối chốt 03/10/2026:** [[tsuna--dazai-cls]].
-- [[jason-todd]] — 🟡 chốt tạm 03/10: [[tsuna--jason-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/dazai|Dazai]] *(nhân vật trục BSD từ 28/09 — [[doi-truc-bsd-akutagawa-sang-dazai]])* — ✅ **cặp đối chốt 03/10/2026:** [[tsuna--dazai-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]] — 🟡 chốt tạm 03/10: [[tsuna--jason-cls]].

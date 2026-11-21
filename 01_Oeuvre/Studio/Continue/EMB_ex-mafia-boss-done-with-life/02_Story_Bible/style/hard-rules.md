@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules", "luat cung van phong", "quy tac cung", "khong duoc vi pham"]
-related: ["[[signature]]", "[[ai-tells]]", "[[targets]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]"]
 source:
   type: measured
   ref: "Do lai 17/09/2026 tu personal-bulk:fiction-sources/EMB/raw/original-fic/ — 5 than chuong, 37.391 tu. Moi luat duoi day da kiem la ca 5/5 chuong tac gia deu dat. Chay ai_tells_check.py len chinh 5 chuong goc: ban cu cho exit 2 ca 5."
@@ -25,7 +25,7 @@ last_updated: 2026-10-01
 
 > 🔁 **Viết lại 17/09/2026 sau khi chạy cổng kiểm lên chính nguyên tác.** Bản cũ có bảy luật; chạy `ai_tells_check.py` lên năm chương của tác giả thì **cả năm đều thoát mã 2** — tức **cổng đánh trượt người đã viết ra giọng văn này**.
 >
-> 🔴 **Luật mới cho chính file này:** một điều chỉ được là luật cứng khi **cả 5/5 chương tác giả đều đạt**. Không đạt thì nó là chỉ tiêu — [[targets]].
+> 🔴 **Luật mới cho chính file này:** một điều chỉ được là luật cứng khi **cả 5/5 chương tác giả đều đạt**. Không đạt thì nó là chỉ tiêu — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]].
 >
 > Nguyên tắc cũ vẫn đúng: **luật viết dạng CẤM thì được tuân; tính chất viết dạng MÔ TẢ thì mất.** Nên mọi thứ ở đây phát biểu được thành có/không hoặc thành một con số.
 
@@ -77,8 +77,8 @@ Aurel chốt 01/10/2026 — [[emb-chot-chinh-ta-ten]]. Tác giả gốc viết *
 
 | Luật cũ | Tác giả đạt | Giờ ở đâu |
 |---|---|---|
-| *"Mỗi chương phải có ít nhất một dấu chấm than"* | **4/5** — P1 Ch3 **không có dấu `!` nào** | [[targets]]: `!` ≥ 5 /10k, lệch được khi có lý do |
-| *"Câu dài ≥35 từ không quá 9 %"* | **không chắc** — `chapter_gate` đo P1 Ch3 ra **8,7 %**, `ai_tells_check` ra **11,1 %** | [[targets]]: ≤ 9 %, là chỉ tiêu cho tới khi quyết được thước nào chuẩn |
+| *"Mỗi chương phải có ít nhất một dấu chấm than"* | **4/5** — P1 Ch3 **không có dấu `!` nào** | [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets\|targets]]: `!` ≥ 5 /10k, lệch được khi có lý do |
+| *"Câu dài ≥35 từ không quá 9 %"* | **không chắc** — `chapter_gate` đo P1 Ch3 ra **8,7 %**, `ai_tells_check` ra **11,1 %** | [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets\|targets]]: ≤ 9 %, là chỉ tiêu cho tới khi quyết được thước nào chuẩn |
 | *"Cấm hẳn `...`"* | **0/5** | sửa thành luật 2 ở trên |
 
 ⚠️ Hạ hai luật xuống **không làm chẩn đoán cũ về bản v3 sai**. Sáu chương AI có `!` **bằng 0 ở cả sáu** — tác giả chỉ có **một** chương bằng 0, và đó là chương lore dày nhất. Ở **tầng cả arc**, *"không ai bật lên lần nào"* vẫn là triệu chứng giọng sai.
@@ -93,4 +93,4 @@ Chạy **từ gốc vault**, và truyền `--project` bằng **đường dẫn �
 
 ⚠️ Công cụ cắt phần *End Notes* / *Ghi chú* trước khi đo. Ghi chú đặt ở giữa file với tiêu đề khác sẽ bị đếm nhầm vào văn — đúng lỗi đã làm hỏng lần đo đầu tiên.
 
-✅ **Kiểm lại cổng 17/09:** sau khi sửa [[ai-tells]], chạy cổng lên năm chương gốc phải ra **không còn lỗi cứng nào**. Nếu còn, luật sai chứ không phải tác giả sai.
+✅ **Kiểm lại cổng 17/09:** sau khi sửa [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]], chạy cổng lên năm chương gốc phải ra **không còn lỗi cứng nào**. Nếu còn, luật sai chứ không phải tác giả sai.

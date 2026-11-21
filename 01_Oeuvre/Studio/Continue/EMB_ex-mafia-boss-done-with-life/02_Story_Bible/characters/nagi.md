@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Nagi", "hoc tro cua Ruriko", "de tu Ruriko", "co be duoc Tsuna cuu", "Chrome", "Chrome Dokuro", "POV P2-Ch2", "Mist trong nha", "co be toc tim sam"]
-related: ["[[tsuna]]", "[[musashi]]", "[[kyouya]]", "[[mukuro]]", "[[gia-thuyet-aurel]]", "[[xoa-so-estraneo]]", "[[le-cuoi-cao]]", "[[q-cha-me-nagi]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[rule-danh-xung-flame]]", "[[emb-chot-sau-p2-ch2]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[kyouya]]", "[[mukuro]]", "[[gia-thuyet-aurel]]", "[[xoa-so-estraneo]]", "[[le-cuoi-cao]]", "[[q-cha-me-nagi]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[rule-danh-xung-flame]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 (ten, bang kiem ke) va Ch2 (POV mot doan dai trong phong thay do). Doc lai 16/09/2026"
@@ -70,7 +70,7 @@ Vậy: **Nagi = Chrome**, `fic_explicit`. Và ba điều nặng hơn việc ch�
 | **Đến kịp** | trong canon KHR, Nagi mất nội tạng trong một tai nạn và sống nhờ nội tạng ảo do Mukuro tạo. Ở đây **cô bé còn nguyên nội tạng thật** |
 | **Con cưng của bà** | 🔴 *sửa 16/09*: là **bà ngoại** Tsuna — [[musashi]]. Bản cũ ghi "bà nội", sai quan hệ |
 
-⚠️ Tác giả **đảo trình tự canon**: Tsuna cứu trước, và người dạy Mist là [[musashi]] chứ không phải [[mukuro]]. **Không được lắp tiểu sử canon của Chrome vào đây** — cùng loại lỗi với [[kawahira]], nơi tác giả đã vô hiệu canon cho một nhân vật.
+⚠️ Tác giả **đảo trình tự canon**: Tsuna cứu trước, và người dạy Mist là [[musashi]] chứ không phải [[mukuro]]. **Không được lắp tiểu sử canon của Chrome vào đây** — cùng loại lỗi với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]], nơi tác giả đã vô hiệu canon cho một nhân vật.
 
 ## Chỗ nối vào nhánh viết tiếp
 

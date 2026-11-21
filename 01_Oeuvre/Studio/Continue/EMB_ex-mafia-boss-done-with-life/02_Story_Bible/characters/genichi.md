@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Genichi", "Gen'ichi", "Sugita", "Sugita Genichi", "Sugita Gen'ichi", "Sugita-sensei", "thay thuoc gia dinh", "bac si gia dinh", "thay thuoc nha Sawada", "nguoi lon binh thuong", "POV chuong 1 Brat"]
-related: ["[[emb-chot-thay-thuoc]]", "[[q-thay-thuoc-gia-dinh]]", "[[musashi]]", "[[nana]]", "[[tsuna]]", "[[indra]]", "[[maro]]", "[[nguoi-lon-co-trach-nhiem]]", "[[khung-oc]]", "[[fact-loi-flame]]", "[[emb-sua-con-troi-dat]]"]
+related: ["[[emb-chot-thay-thuoc]]", "[[q-thay-thuoc-gia-dinh]]", "[[musashi]]", "[[nana]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[indra]]", "[[maro]]", "[[nguoi-lon-co-trach-nhiem]]", "[[khung-oc]]", "[[fact-loi-flame]]", "[[emb-sua-con-troi-dat]]"]
 source:
   type: user_input
   ref: "Aurel chot 17/09/2026 — xem emb-chot-thay-thuoc. Vai do phien plan-continuation de xuat, Aurel duyet: thay thuoc rieng nha Sawada, KHONG biet chuyen Lua, ten do AI dat theo cach tac gia goc dat ten."

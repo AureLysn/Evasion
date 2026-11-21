@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["ai tells PPCT", "tat AI PPCT", "giong AI PPCT", "cum cam PPCT", "profile ai_tells_check PPCT", "extra_constructs PPCT"]
-related: ["[[hard-rules]]", "[[targets]]", "[[signature]]", "[[forbidden-patterns]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]", "[[forbidden-patterns]]"]
 source:
   type: measured
   ref: "Gom tu review PPCT ch16–ch36 (cac ho cau AI da bat that tren trang); Aurel dong y 25/09/2026. Profile cho ai_tells_check.py ban doc chu Han (PR #65)."
@@ -70,11 +70,11 @@ last_updated: 2026-11-14
 # Tật AI — PPCT
 
 > Profile cho `ai_tells_check.py --project PPCT`. Chỉ gồm những họ câu **review PPCT đã bắt được trên trang**, không đoán thêm.
-> Chỉ tiêu `？` / `！` / câu dài / thoại **không** chép vào đây — chúng ở [[targets]], `style_metrics.py` đo. Hai bản của một luật là hai luật.
+> Chỉ tiêu `？` / `！` / câu dài / thoại **không** chép vào đây — chúng ở [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]], `style_metrics.py` đo. Hai bản của một luật là hai luật.
 
 ## Khối `gate:` — có từ 14/11/2026
 
-Mốc tác giả cho `chapter_gate.py` đo trên 15 chương nguyên tác (28.131 chữ Hán thân truyện) và ghi ở frontmatter; Aurel duyệt số 14/11/2026 (`TR-006`). Cổng đếm khác [[targets]] ở hai chỗ: câu dài là câu **≥ 35** chữ Hán, và mỗi 「……」 tính 3 lượt. Chạy cổng trên ch16–ch42 ngày 14/11 *(không kèm `--corpus`)*: 2 chương exit 0 *(ch19, ch21)*, 25 chương exit 1, không chương nào exit 2; lệch nhiều nhất là trung vị câu *(23 chương dưới sàn 17; mốc tác giả 21)* và chữ/đoạn *(21 chương)*, rồi `！` 6, chấm lửng 2, `？` 1, thuật ngữ 1. Chương đã `final` không sửa theo cổng này.
+Mốc tác giả cho `chapter_gate.py` đo trên 15 chương nguyên tác (28.131 chữ Hán thân truyện) và ghi ở frontmatter; Aurel duyệt số 14/11/2026 (`TR-006`). Cổng đếm khác [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]] ở hai chỗ: câu dài là câu **≥ 35** chữ Hán, và mỗi 「……」 tính 3 lượt. Chạy cổng trên ch16–ch42 ngày 14/11 *(không kèm `--corpus`)*: 2 chương exit 0 *(ch19, ch21)*, 25 chương exit 1, không chương nào exit 2; lệch nhiều nhất là trung vị câu *(23 chương dưới sàn 17; mốc tác giả 21)* và chữ/đoạn *(21 chương)*, rồi `！` 6, chấm lửng 2, `？` 1, thuật ngữ 1. Chương đã `final` không sửa theo cổng này.
 
 ## Bảng — mỗi dòng một `extra_constructs`
 
@@ -83,18 +83,18 @@ Mốc tác giả cho `chapter_gate.py` đo trên 15 chương nguyên tác (28.13
 | project_1 | 「挑不出」 | ch28 dòng 59 · ch30 dòng 121 · ch31 dòng 109 — ba chương liền (review ch31 #6) | **cứng**, trần 0 |
 | project_2 | 「像(是)在念一张 / 一份」 | ch28 dòng 59 · ch31 dòng 57 (review ch31 #6) · bản đầu ch36 (bắt ở pre-flight) | **cứng**, trần 0 |
 | project_3 | tag thoại **sau** ngoặc 「”…说」 (gồm 说完 · 说得…) | review ch27 S1 → bước bắt buộc của writer từ ch28 (grep 「”[^“]{0,4}说」). Nguyên tác đặt tag **trước**: 「X说：“…”」. Regex loại 说**话** — bản gốc bắt nhầm 「”一只还在说话」 (ch35). **Không** siết thêm: đòi `，。` sau 说 thì lọt 6 tag thật dạng 「”太宰治说完，」 / 「说得理直气壮」 (ch18, ch21–24, ch26) | **cứng**, trần 0 |
-| project_4 | 「」 làm dấu thoại — 「说：「」 | [[hard-rules]] §1 | **cứng**, trần 0 |
+| project_4 | 「」 làm dấu thoại — 「说：「」 | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules\|hard-rules]] §1 | **cứng**, trần 0 |
 | project_5 | 「意识到 / 这才发现 / 终于明白 / 才明白过来」 — câu tổng kết cảm xúc | review ch16 S1 (「她忽然意识到…」) · ch20 S3 (「纲吉这才发现…」) · [[forbidden-patterns]] #1 | **cảnh báo** — có chỗ dùng đúng; người soát đọc từng chỗ |
 | project_6 | 「不是…而是」 | review ch16 S1 · [[forbidden-patterns]] #2 (lặp nhiều lần) | trần **10/10k** 🟡 — review ch23, ch25, ch28 chấp nhận 2 lần/chương ~2.000 chữ |
 
 ## Vì sao không cấm hẳn ký tự 「」
 
-Chương viết tiếp: **0** lần 「」 trong thân truyện (đếm 25/09/2026, ch16–ch36). Nguyên tác thì **có** 「」 — ở đoạn dệt từ tiểu thuyết Fate/Zero ([[hard-rules]] §1). Luật cấm 「」 **làm dấu thoại**, không cấm ký tự → mã hoá bằng `project_4`, không bằng `forbid_chars`.
+Chương viết tiếp: **0** lần 「」 trong thân truyện (đếm 25/09/2026, ch16–ch36). Nguyên tác thì **có** 「」 — ở đoạn dệt từ tiểu thuyết Fate/Zero ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]] §1). Luật cấm 「」 **làm dấu thoại**, không cấm ký tự → mã hoá bằng `project_4`, không bằng `forbid_chars`.
 
 ## Máy không bắt được — vẫn kiểm tay
 
 - **Liệt kê ba vế đều** ([[forbidden-patterns]] #3) — review ch23 S3, ch27, ch31 #6. Regex không phân biệt được ba vế có lý do (ch27) với ba vế sáo.
-- **「我」 ngoài ngoặc kép** ([[hard-rules]] §3) — regex Python không loại được đoạn trong ngoặc một cách chắc chắn. `style_metrics.py` / grep tay.
+- **「我」 ngoài ngoặc kép** ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]] §3) — regex Python không loại được đoạn trong ngoặc một cách chắc chắn. `style_metrics.py` / grep tay.
 - **So sánh 「像」 dày** — review ch26 (2,05/1000, ổn) · ch28 (7 lần / 2.251 chữ, 「安静得像是一口井」 — "hơi dày"). Không đặt trần: chưa đủ điểm đo.
 - **Câu kết đoạn nói hộ suy luận** — mọi plan arc 3–5. Chỉ đọc mới thấy.
 

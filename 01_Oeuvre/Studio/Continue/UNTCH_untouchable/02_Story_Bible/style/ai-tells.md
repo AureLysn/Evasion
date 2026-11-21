@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["ai tells UNTCH", "ai_tells", "giong AI UNTCH", "tat AI UNTCH", "chong giong Claude UNTCH", "van phong AI UNTCH", "cong kiem UNTCH", "gate UNTCH"]
-related: ["[[UNTCH]]", "[[targets]]", "[[hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[aurel-watch]]"]
+related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[aurel-watch]]"]
 always_load: true
 load_for: [writer]
 tags: [d/fanfic, k/rule, p/personal]
@@ -21,7 +21,7 @@ targets:
   italic_per_10k_min: 32
 gate:
   # Moc nen do tu 123/127 chuong van xuoi da tach (loai 4 chuong MNet: ch54, ch71,
-  # ch75, ch115 - xem [[targets]]), 336.963 tu, bang CHINH ham measure() cua
+  # ch75, ch115 - xem [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]), 336.963 tu, bang CHINH ham measure() cua
   # chapter_gate.py (khac style_metrics.py - schema khac, dung cho targets.md/
   # hard-rules.md). Script do: 03_Workspace/untch-extract/measure_gate.py.
   # Chay lan dau 04/09/2026, do lai 04/09/2026 sau khi sua extract_all.py (L16 —

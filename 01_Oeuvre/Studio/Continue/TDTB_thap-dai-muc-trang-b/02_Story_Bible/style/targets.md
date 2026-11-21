@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets TDTB", "chi tieu van phong TDTB", "muc tieu do luong TDTB", "so can cham TDTB"]
-related: ["[[signature]]", "[[hard-rules]]", "[[ai-tells]]", "[[nguyen-van-zh-tdtb]]", "[[qd-viet-tieng-trung-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[nguyen-van-zh-tdtb]]", "[[qd-viet-tieng-trung-tdtb]]"]
 source:
   type: measured
   ref: "Rut tu signature.md — do 26/09/2026 bang style_metrics.py tren nguyen van zh ch1-15, 42.660 chu Han than truyen. Nguong = dai cua tac gia (p25-p75 hoac min-max), khong tu dat. 27/09: Aurel chot viet thanh pham tieng Trung (qd-viet-tieng-trung-tdtb) -> don vi chu Han la don vi that; ban am tiet 26/09 nam trong lich su git"
@@ -28,7 +28,7 @@ last_updated: 2026-09-27
 > áp thẳng lên chương viết. Không quy đổi, không convert.
 >
 > Hai cổng đọc file này: `style_metrics.py` (độ dài + mật độ + các chỉ số `cjk_*`) và `ai_tells_check.py`
-> (theo [[ai-tells]]). Tên chỉ số: thoại = `cjk_dialogue_ratio` (**không** phải `dialogue_paragraph_ratio`),
+> (theo [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]). Tên chỉ số: thoại = `cjk_dialogue_ratio` (**không** phải `dialogue_paragraph_ratio`),
 > câu ≥50 = `cjk_sentence_ge50_ratio`, đoạn ≥100 = `cjk_paragraph_ge100_ratio`, chữ Hán/đoạn = `paragraph_mean`.
 >
 > Mọi ngưỡng lấy theo dải của chính tác giả, không tự đặt.

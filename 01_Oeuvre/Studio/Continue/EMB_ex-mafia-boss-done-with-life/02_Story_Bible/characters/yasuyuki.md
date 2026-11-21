@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Yasuyuki", "Kamo no Yasuyuki", "賀茂保行", "dua o lai", "nguoi thua ke nha Kotokui", "song sinh anh", "dua mang chu 保"]
-related: ["[[noriyuki]]", "[[emb-chot-cap-song-sinh]]", "[[q-cap-song-sinh]]", "[[rule-danh-xung-flame]]", "[[tsuna]]", "[[tomoko]]", "[[ke-cuop-co-dau]]", "[[khung-oc]]"]
+related: ["[[noriyuki]]", "[[emb-chot-cap-song-sinh]]", "[[q-cap-song-sinh]]", "[[rule-danh-xung-flame]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tomoko]]", "[[ke-cuop-co-dau]]", "[[khung-oc]]"]
 source:
   type: user_input
   ref: "Aurel chot 21/09/2026 — emb-chot-cap-song-sinh. Ten lay tu Kamo no Yasunori (賀茂保憲) va Kamo no Tadayuki (忠行), nguoi that."

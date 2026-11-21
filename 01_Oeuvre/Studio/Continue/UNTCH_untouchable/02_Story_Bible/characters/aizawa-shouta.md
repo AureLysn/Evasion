@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Aizawa Shouta", "Shouta", "Eraserhead", "相澤消太", "thay chu nhiem 1-A", "soulmate la Oboro", "nguoi hieu lam ve Reborn", "nguoi lon doc dung bang chung nhung sai ket luan"]
-related: ["[[soulmate-au]]", "[[reborn]]", "[[nedzu]]", "[[shinsou-hitoshi]]", "[[sawada-tsunayoshi]]", "[[Hero-Public-Safety-Commission]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[soulmate-au]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/reborn|reborn]]", "[[nedzu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi|shinsou-hitoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/sawada-tsunayoshi|sawada-tsunayoshi]]", "[[Hero-Public-Safety-Commission]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch123, ch124, ch125, ch126."

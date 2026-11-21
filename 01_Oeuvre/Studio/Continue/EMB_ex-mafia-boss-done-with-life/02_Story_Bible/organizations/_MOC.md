@@ -10,7 +10,7 @@ aliases: ["to chuc EMB", "organizations EMB", "gia toc", "hai dong Sawada", "two
 related: ["[[EMB]]", "[[sawada-tu-te]]", "[[sawada-ieyasu]]", "[[nha-hibari]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-16
+last_updated: 2026-11-21
 ---
 
 # MOC — EMB / organizations
@@ -35,6 +35,7 @@ last_updated: 2026-08-16
 - [[sawada-tu-te]] — trụ cột tinh thần, tư tế Ō-Inari. Hội đồng trưởng lão **mạnh hơn cả gia chủ**
 - [[sawada-ieyasu]] — dòng Giotto. Lịch sử bị Vongola canh giữ gắt gao
 - [[nha-hibari]] — **trụ cột võ bị** của Namimori. *Nhà Hibari không bao giờ nói dối*
+- [[nha-kotokui]] — nhà làm lịch; nhà của cặp song sinh [[yasuyuki]] · [[noriyuki]]
 
 ## Chưa dựng
 

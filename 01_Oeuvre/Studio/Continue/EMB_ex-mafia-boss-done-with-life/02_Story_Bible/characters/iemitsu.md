@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Iemitsu", "Sawada Iemitsu", "kohaku ngoai", "foreign Sky", "Young Lion", "cha Tsuna", "chong Nana"]
-related: ["[[fact-iemitsu-sky-ngoai]]", "[[nana]]", "[[musashi]]", "[[tsuna]]", "[[kyuuto]]", "[[nana-iemitsu-cuoi-nhau]]", "[[hook-iemitsu-tra-gia]]", "[[nana-giau-viec-tsuna-tinh]]", "[[musashi-bat-gap-iemitsu]]", "[[sawada-ieyasu]]"]
+related: ["[[fact-iemitsu-sky-ngoai]]", "[[nana]]", "[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyuuto]]", "[[nana-iemitsu-cuoi-nhau]]", "[[hook-iemitsu-tra-gia]]", "[[nana-giau-viec-tsuna-tinh]]", "[[musashi-bat-gap-iemitsu]]", "[[sawada-ieyasu]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 + End Notes; Ex-Mafia_Boss_Spends.html Ch1; reply tac gia 2024-08-14. Doc lai 15-16/09/2026"

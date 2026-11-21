@@ -7,7 +7,7 @@ project: EMB
 canon_layer: high_confidence_inference
 status: active
 aliases: ["character arc", "nhan vat phat trien", "doi qua hanh dong", "doi qua tiet lo", "revelation", "co che thay doi", "arc nhan vat", "thay doi trong khoang trong", "cat qua hanh dong"]
-related: ["[[tropes]]", "[[rhythm]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[nana]]", "[[indra]]", "[[nagi]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[emb-chot-sau-p2-ch2]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[rhythm]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[nana]]", "[[indra]]", "[[nagi]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: inference
   ref: "Doc lai 17/09/2026: 5 note chapter_summary (su kien theo thu tu) va 23 note events/, doi chieu than chuong trong personal-bulk:fiction-sources/EMB/raw/original-fic/. Moi dong trong bang dem co neo chuong."

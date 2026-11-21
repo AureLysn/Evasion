@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Shouichi", "Shoichi", "Irie Shouichi", "Irie Shoichi", "con trai Tomoko", "thang be thuoc da day", "dua tre cung tuoi dau tien", "nha Irie"]
-related: ["[[tomoko]]", "[[tsuna]]", "[[khung-oc]]", "[[ao3-tags]]"]
+related: ["[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[khung-oc]]", "[[ao3-tags]]"]
 source:
   type: fic_text
   ref: "P2 Ch1 (POV tron Tomoko — nha Irie, nep sinh hoat, thuoc da day, dua di hoc); tag AO3 'Irie Shouichi & Sawada Tsunayoshi'. Tong hop tu [[tomoko]], da doi chieu nguon 16/09/2026."
@@ -29,7 +29,7 @@ last_updated: 2026-11-21
 |---|---|
 | Gia đình | con trai [[tomoko]] *(Ryokugyoku, môi giới thông tin)* và Masatsugu; chị gái **Akiko** |
 | Sinh ra | **trên đường chạy trốn** — mẹ cậu mang thai nặng lúc nhà Irie bỏ chạy khỏi mafia |
-| Tuổi | **tiểu học** ở mốc P2 Ch1 — tức **xấp xỉ tuổi [[tsuna]]** |
+| Tuổi | **tiểu học** ở mốc P2 Ch1 — tức **xấp xỉ tuổi [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]]** |
 | Chi tiết người | 🔴 **thuốc dạ dày**; mẹ cậu dành **năm phút dỗ ở cổng trường, năm phút kiểm thuốc** mỗi sáng |
 | Tag AO3 | *Irie Shouichi & Sawada Tsunayoshi* — [[ao3-tags]] ghi: **"một đứa bé, được nhắc qua"** |
 

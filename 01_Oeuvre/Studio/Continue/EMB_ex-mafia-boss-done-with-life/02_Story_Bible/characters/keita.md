@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Hibari Keita", "Keita", "cha cua Kyouya", "chong cua Indra", "em trai Kojiro", "Kyoya father"]
-related: ["[[indra]]", "[[kyouya]]", "[[kojiro]]", "[[nha-hibari]]", "[[tsuna]]", "[[fact-kyouya-anh-em-ho]]"]
+related: ["[[indra]]", "[[kyouya]]", "[[kojiro]]", "[[nha-hibari]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-kyouya-anh-em-ho]]"]
 source:
   type: fic_text
   ref: "Part 1 Ch3 chu thich Hibari Indra; Part 1 Ch3 (doan 458); AO3 comment"
@@ -27,7 +27,7 @@ last_updated: 2026-11-21
 
 **Chồng của [[indra]]**, **cha của [[kyouya]]**, và **em trai kém tuổi rất nhiều của [[kojiro]]**.
 
-Ông là lý do [[tsuna]] và [[kyouya]] là **người nhà** chứ không phải người dưng.
+Ông là lý do [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] và [[kyouya]] là **người nhà** chứ không phải người dưng.
 
 > *"Indra was **Kojiro's younger brother's wife**"* — P1 Ch3
 

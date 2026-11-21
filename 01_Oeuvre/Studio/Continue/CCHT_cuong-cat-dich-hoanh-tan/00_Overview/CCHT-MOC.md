@@ -6,7 +6,7 @@ project: CCHT
 lane: personal
 status: draft
 aliases: ["moc ccht", "ban do ccht"]
-related: ["[[CCHT]]", "[[drop-point]]", "[[nguyen-tac-convert]]", "[[ban-xem-anh-douguixiao]]", "[[ho-so-phien-truoc]]", "[[q-do-van-phong-tu-ban-convert]]", "[[quy-uoc-danh-so-chuong]]", "[[bo-qua-phien-ngoai-bay]]"]
+related: ["[[CCHT]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CCHT_cuong-cat-dich-hoanh-tan/00_Overview/drop-point|drop-point]]", "[[nguyen-tac-convert]]", "[[ban-xem-anh-douguixiao]]", "[[ho-so-phien-truoc]]", "[[q-do-van-phong-tu-ban-convert]]", "[[quy-uoc-danh-so-chuong]]", "[[bo-qua-phien-ngoai-bay]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-13

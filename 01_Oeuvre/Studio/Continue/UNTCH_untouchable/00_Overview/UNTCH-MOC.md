@@ -19,7 +19,7 @@ Note định danh: [[UNTCH]]. Thứ tự dựng 0–9: [[quy-uoc-ma-project]].
 | Thư mục | Chứa gì | Trạng thái |
 |---|---|---|
 | `sources/` | bản gốc — **bất biến** | ✅ 2 note · file thật ở kho `personal-archive` |
-| `drop-point.md` | tác giả dừng ở đâu, 12 tuyến còn mở | ✅ bước 2 — [[drop-point]] |
+| `drop-point.md` | tác giả dừng ở đâu, 12 tuyến còn mở | ✅ bước 2 — [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point\|drop-point]] |
 | `style/` | signature · targets · hard-rules · ai-tells | ⬜ bước 3 — mốc nền 343.418 từ đã đo |
 | `canon/` | thiết lập **riêng** của fic này | ⬜ bước 4 |
 | `Characters/` | hồ sơ nhân vật | ⬜ bước 4 |

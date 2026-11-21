@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Dazai kiep truoc", "Dazai tien truyen", "太宰桑", "Dazai phong mo trang", "cau con trai nha quyen quy", "Dazai nhat ky", "前世太宰"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[dazai]]", "[[tsuna]]", "[[dazai-kiep-truoc--tsuna]]", "[[phong-mo-trang]]", "[[fact-sach-cua-kiep-truoc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[dazai-kiep-truoc--tsuna]]", "[[phong-mo-trang]]", "[[fact-sach-cua-kiep-truoc]]"]
 source:
   type: fic_text
   ref: "Tien truyen 《一万次的相遇与错过》 thuong (辰时) va ha (巳时, nhat ky ngoi thu nhat)"
@@ -20,11 +20,11 @@ last_updated: 2026-11-21
 
 # Dazai kiếp trước — tiền truyện
 
-> Kiếp trước của [[dazai]]. Thế giới B chỉ biết người này qua **ký ức**. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]].
+> Kiếp trước của [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]. Thế giới B chỉ biết người này qua **ký ức**. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]].
 
 ## Nhận dạng
 
-Cậu con trai một gia đình quyền quý ở một thế giới **không có Namimori, không có Sawada Tsunayoshi**. Gặp [[tsuna]] trong [[phong-mo-trang]] từ nhỏ.
+Cậu con trai một gia đình quyền quý ở một thế giới **không có Namimori, không có Sawada Tsunayoshi**. Gặp [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]] trong [[phong-mo-trang]] từ nhỏ.
 
 ## Riêng trong fic này
 
@@ -55,7 +55,7 @@ Mắt 「桃花眸」, tóc xoăn đen hơi rối, đi guốc gỗ, mặc kimono
 ## Nhân vật này BIẾT gì
 
 - Biết Tsuna là thủ lĩnh Vongola và sắp đi gặp Byakuran.
-- **Không có mặt** lúc Tsuna chết — cảnh đó chỉ đến với [[dazai]] qua giấc mơ (ch10).
+- **Không có mặt** lúc Tsuna chết — cảnh đó chỉ đến với [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]] qua giấc mơ (ch10).
 
 ## Quan hệ
 

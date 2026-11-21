@@ -11,7 +11,7 @@ status: draft
 pov: [character.PPCT.byakuran]
 language: zh
 aliases: ["pn3-03 ban DeepSeek nhap", "phiên ngoại kẻ nhớ mang máng DeepSeek", "反派战争 番外十六 记不清的人 DeepSeek"]
-related: [ "[[pn3-02-ds-nhap]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]", "[[Reborn]]"]
+related: [ "[[pn3-02-ds-nhap]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/reborn|Reborn]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 不对 (C-a) và ba bản 那句 (C-b); GPT chấm (chọn 不对二 sửa theo POV, 那句三 thêm 「你想让我来」) và đọc thử; Claude kiểm và sửa (xem pn3-03-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/d9521462-6048-431b-a795-87220eefded4"

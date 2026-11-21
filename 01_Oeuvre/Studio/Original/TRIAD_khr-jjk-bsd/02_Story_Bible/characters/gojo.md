@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["Gojo", "Gojo Satoru", "5T"]
-related: ["[[tsuna]]", "[[dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-tuoi-gojo]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-tuoi-gojo]]"]
 source:
   type: user_input
   ref: "sources/gojo-truyen.md, doi chieu sources/gojo-canon.md (Database/Fandom/JJK/sources/gojo-canon-draft) va sources/loi-tac-gia.md. Aurel + AI, goi ho-so-nhan-vat 2026-09-04."

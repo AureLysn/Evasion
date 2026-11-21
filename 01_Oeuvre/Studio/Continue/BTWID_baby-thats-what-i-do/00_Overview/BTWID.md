@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: draft
 title: "Baby that's what I do"
 aliases: ["BTWID", "Baby that's what i do", "baby thats what i do"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BTWID_baby-thats-what-i-do/00_Overview/drop-point|drop-point]]"]
 source:
   type: user_input
   ref: "old-vault:00_Inbox/Fandom/Viết tiếp fanfic/Baby that_s what i do/ — 47 file, 1.129,1 KB, do 23/08/2026. Duong dan that: stores.md dong old-vault. Kiem ke: 90_Meta/kiem-ke-vault-cu.md"

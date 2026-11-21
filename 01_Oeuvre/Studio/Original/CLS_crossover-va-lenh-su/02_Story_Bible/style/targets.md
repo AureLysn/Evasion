@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets CLS", "chi tieu van phong CLS", "chỉ tiêu văn phong CLS", "san chuong CLS", "sàn chương CLS", "3000 tu moi chuong"]
-related: ["[[CLS]]", "[[20261004-luat-co-ban-va-san-3000]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[hard-rules]]", "[[ai-tells]]", "[[signature]]"]
+related: ["[[CLS]]", "[[20261004-luat-co-ban-va-san-3000]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/signature|signature]]"]
 source:
   type: user_input
   ref: "Aurel 04/10/2026: 'san moi chuong khoang 3000 tu' — sources/user-input/20261004-luat-co-ban-va-san-3000.md"

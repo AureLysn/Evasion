@@ -19,13 +19,13 @@ last_updated: 2026-11-21
 
 ## 🔴 Hai nhà Sawada — kiểm trước khi viết bất kỳ ai
 
-Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MOC]] để phân biệt.
+Truyện có **hai** nhà họ Sawada. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/organizations/_MOC|organizations MOC]] để phân biệt.
 
 ### Nhà Sawada **tư tế** — [[sawada-tu-te]] · bên **ngoại** của Tsuna
 
 | Nhân vật | Flame | Tên gọi khác |
 |---|---|---|
-| [[tsuna]] | **Kotei** (Sky) | Masaya (8) · Tenmei-sama · Kohaku · *small animal* |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] | **Kotei** (Sky) | Masaya (8) · Tenmei-sama · Kohaku · *small animal* |
 | [[musashi]] | Gen'ei (Mist) | Ruriko-sama · Ruri của nhà Sawada · số **6** · *tên con trai* · **"Ai-chan" = Chàm** |
 | [[keigo]] | — | **cha Musashi**, gia chủ · số **5** · người đặt tên "Ai-chan" |
 | [[nana]] | **Hogo/Ryokugyoku** (Lightning), **bất ổn định** | Sawada Mirai · số **7** |
@@ -54,8 +54,9 @@ Truyện có **hai** nhà họ Sawada. Xem [[organizations/_MOC|organizations MO
 
 | Nhân vật | Ghi chú |
 |---|---|
-| [[kawahira]] | True Earthling. **Đã là Mist Guardian** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] | True Earthling. **Đã là Mist Guardian** |
 | [[maro]] | Học giả Flame. **Hell Ring cuối cùng**. Bà thứ hai của Tsuna |
+| [[natsu]] | con cáo của Tsuna; tên còn mở — [[q-ten-con-cao]] |
 
 ## Người trong dinh thự
 
@@ -104,7 +105,7 @@ Chưa ai trong bảng trên lên trang.
 
 | Nhân vật | Vì sao có note |
 |---|---|
-| [[reborn]] | 🔴 **cái bóng hoá thành người** — bài thi cuối của đoạn kết. Được nhắc trong 24 note trước khi có note |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn\|reborn]] | 🔴 **cái bóng hoá thành người** — bài thi cuối của đoạn kết. Được nhắc trong 24 note trước khi có note |
 | [[tsunashige]] | em trai. **Người bị nói dối nhiều nhất** trong nhà |
 | [[tsuyoshi]] | người duy nhất có **cùng hình dạng đời** với Tsuna — giai đoạn Child |
 

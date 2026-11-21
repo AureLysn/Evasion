@@ -10,7 +10,7 @@ origin: continuation
 universes: [KHR]
 title: "Thập Đại Mục mỗi ngày đều đang trang B"
 aliases: ["TDTB", "十代目每天都在装B", "Thap Dai Muc moi ngay deu dang trang B", "Muoi doi mat moi ngay deu tai trang B", "Mười đời mắt mỗi ngày đều tại trang B", "Juudaime trang B", "Tsuna ABO luyen tong", "Tsuna ABO luyện tổng", "jjwxc 5231858"]
-related: ["[[_OEUVRE-MOC]]", "[[TDTB-MOC]]", "[[quy-uoc-ma-project]]", "[[ban-convert-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[qd-pham-vi-universe-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[20260926-tra-loi-cau-hoi]]", "[[drop-point]]", "[[nguyen-van-zh-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
+related: ["[[_OEUVRE-MOC]]", "[[TDTB-MOC]]", "[[quy-uoc-ma-project]]", "[[ban-convert-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[qd-pham-vi-universe-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[20260926-tra-loi-cau-hoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]", "[[nguyen-van-zh-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel 25/09/2026 qua AskUserQuestion: ma TDTB, universe = cac fandom co tag (家教 + 鬼灭). Metadata fic goc do truc tiep cung ngay tu trang JJWXC onebook.php?novelid=5231858 va tu epub convert C:/Users/AureLyns/Downloads/Mười đời mắt mỗi ngày đều tại trang B.epub (OPF + nav, 15 chuong)"
@@ -94,7 +94,7 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 
 - [x] Đặt mã + `TDTB.md`, 25/09/2026
 - [x] `sources/` — xong 25/09: [[ban-convert-tdtb]] (**bất biến**) · [[trang-jjwxc-tdtb]]
-- [x] drop-point — [[drop-point]], 26/09: dừng ở ch15, đêm S1
+- [x] drop-point — [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]], 26/09: dừng ở ch15, đêm S1
 - [x] `style/` — đo trên **nguyên văn Trung** 26/09 ([[nguyen-van-zh-tdtb]]): [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]. Chỉ tiêu bằng chữ Hán; [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]] lập 27/09, 0 lỗi cứng trên 15 chương gốc. Cổng: `style_metrics` + `ai_tells_check`
 - [x] `crossover-contract` — không bắt buộc: các fandom khác là thế giới nhiệm vụ, không phải crossover ngang hàng ([[qd-pham-vi-universe-tdtb]])
 - [x] `canon/` + `Characters/` — trích xuất lần 1, 25/09
@@ -106,7 +106,7 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 Aurel chốt reset **thật**, như PPCT và CLS.
 
 - 3 chương ch16–ch18 vẫn nằm trong `04_Manuscript/chapters/arc-1/` nhưng **không còn là canon**. Không rút fact từ chúng.
-- **Mốc state để lập kế hoạch:** cuối ch15 của nguyên tác (đêm S1) — [[drop-point]].
+- **Mốc state để lập kế hoạch:** cuối ch15 của nguyên tác (đêm S1) — [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]].
 - Đã xóa: khung arc, chia arc hướng B, dàn ý arc 1 *(hai bản)*, snapshot, event và nhân vật sinh từ ch16–18, decision và câu hỏi gắn chương, decision kết cục *(hệ thống, đồng đội, Lộc Dã Tuyết)* và nhiệm vụ 1 *(JJK)*.
 - Giữ: hướng B *(show đan xen thế giới nhiệm vụ)* và mọi quyết định về thế giới, hệ thống, nhân vật, quy ước viết.
 - **Bước kế:** lập khung từ đầu (`plan-continuation`).

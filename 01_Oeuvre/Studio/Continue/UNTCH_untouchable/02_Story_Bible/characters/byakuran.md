@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Byakuran", "白蘭", "vua Bac Trieu Tien", "Sky Mare Ring", "boss Gesso", "soulmate cua Tsuna", "em trai Hawks", "nguoi nghe cac phien ban song song", "Parallel Sight"]
-related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[soulmate-au]]", "[[he-bond]]", "[[hawks-takami-keigo]]", "[[midoriya-izuku]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq03-cha-cua-byakuran-hawks]]", "[[soulmate-au]]", "[[he-bond]]", "[[hawks-takami-keigo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku|midoriya-izuku]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch5, ch12, ch36-38, ch46, ch53, ch58, ch120, ch122, ch123, ch126."

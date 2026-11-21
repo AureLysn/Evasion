@@ -11,7 +11,7 @@ needed_before:
   chapter: 20
 decision_owner: user
 aliases: ["tuoi Tsuna kiep truoc", "28 tuoi", "二十八岁教父", "muoi nam sau Ring Battle", "Tsuna lang thang bao lau"]
-related: ["[[sawada-tsunayoshi-hnqt]]", "[[the-gioi-cu-sup-do-hnqt]]", "[[Timeline/master|Timeline]]"]
+related: ["[[sawada-tsunayoshi-hnqt]]", "[[the-gioi-cu-sup-do-hnqt]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/03_Development/timeline/master|Timeline]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-14

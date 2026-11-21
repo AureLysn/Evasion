@@ -15,10 +15,10 @@ tags: [d/fanfic, k/note, p/personal]
 
 Đo từ **37.391 từ** thân chương nguyên tác (Whymustwedolife), không phải cảm nhận. **Đo lại từ nguồn thô 17/09/2026** — bản 15/08 đo trên 43.152 từ có lẫn ghi chú.
 
-- [[signature]] — chữ ký văn phong tác giả, bảng gốc
-- [[hard-rules]] — **5 luật cứng**, mỗi luật đã kiểm là **cả 5/5 chương tác giả đều đạt**. Hai luật cũ chuyển xuống chỉ tiêu
-- [[targets]] — chỉ tiêu cần chạm, kèm điểm Ch3/5/7
-- [[ai-tells]] — tật của model, đo bằng đối chiếu
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]] — chữ ký văn phong tác giả, bảng gốc
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]] — **5 luật cứng**, mỗi luật đã kiểm là **cả 5/5 chương tác giả đều đạt**. Hai luật cũ chuyển xuống chỉ tiêu
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]] — chỉ tiêu cần chạm, kèm điểm Ch3/5/7
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]] — tật của model, đo bằng đối chiếu
 
 Cổng kiểm: `python 01_Origine/04_Tools/VaultTool/ai_tells_check.py --chapter <file> --project 05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life` *(chạy từ gốc vault)*
 

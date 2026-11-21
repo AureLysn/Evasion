@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["ai tells CLS", "tat cua may CLS", "tật của máy CLS", "profile ai_tells_check CLS"]
-related: ["[[CLS]]", "[[20261004-luat-co-ban-va-san-3000]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[hard-rules]]", "[[targets]]", "[[forbidden-patterns]]"]
+related: ["[[CLS]]", "[[20261004-luat-co-ban-va-san-3000]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]", "[[forbidden-patterns]]"]
 source:
   type: user_input
   ref: "Aurel 04/10/2026: 'dung cac luat co ban khi viet de kiem'. Danh sach lay tu Global/personal/forbidden-patterns.md va danh sach tat model dung chung cua sub-vault (AGENTS.md muc 5); cach viet thanh bieu thuc la cua phien. KHONG co tran so — chua co ban nao de do."
@@ -65,7 +65,7 @@ Hai tật trong `forbidden-patterns` **không** viết được thành biểu th
 
 ## Ký tự cấm
 
-`「 」 『 』` — ký tự của note trong vault, không phải của văn truyện ([[hard-rules]]).
+`「 」 『 』` — ký tự của note trong vault, không phải của văn truyện ([[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]).
 
 ## Việc kế
 

@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules TDTB", "luat cung van phong TDTB", "quy tac cung TDTB", "khong duoc vi pham TDTB"]
-related: ["[[signature]]", "[[targets]]", "[[phan-biet-cung-ten-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[phan-biet-cung-ten-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]"]
 source:
   type: measured
   ref: "Do 26/09/2026 tren nguyen van zh ch1-15 (42.660 chu Han): ngoi ke khong lech chuong nao; quy uoc ngoac KHONG deu ca 15 chuong - sua 01/10 (D4): binh luan livestream ch9-11 dung “” (ch9.45-49, ch10.1-6, ch11.8-13), 【】 chi o ch1, ch12, ch14; Tuyet hoi 0038 dung “” khi noi ra tieng, ‘’ khi hoi tham (ch15.4). Luat POV tu 05-visibility va secrets/ cua TDTB"
@@ -26,7 +26,7 @@ last_updated: 2026-10-01
 >
 > Chỉ ghi ở đây những quy ước tác giả thật sự giữ. Ngôi kể không lệch chương nào; quy ước ngoặc thì **không** đều cả 15 chương (sửa
 > 01/10, D4): bình luận livestream ở ch9–11 dùng `“”` (ch9.45–49, ch10.1–6, ch11.8–13), `【】` chỉ có ở ch1, ch12, ch14; Tuyết hỏi 0038
-> dùng `“”` khi nói ra tiếng, `‘’` khi hỏi thầm (mục B). Luật của project vẫn như bảng mục B. Thứ gì chỉ là thói quen thì nằm ở [[signature]].
+> dùng `“”` khi nói ra tiếng, `‘’` khi hỏi thầm (mục B). Luật của project vẫn như bảng mục B. Thứ gì chỉ là thói quen thì nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]].
 
 ## A. Ngôi kể
 

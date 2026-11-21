@@ -6,7 +6,7 @@ project: KITIC
 lane: personal
 status: idea
 aliases: ["moc kitic", "ban do kitic"]
-related: ["[[kitic]]", "[[drop-point]]"]
+related: ["[[kitic]]", "[[05_Evasion/01_Oeuvre/Studio/Original/KITIC_khr-hsr-ki-tich/00_Overview/drop-point|drop-point]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-06

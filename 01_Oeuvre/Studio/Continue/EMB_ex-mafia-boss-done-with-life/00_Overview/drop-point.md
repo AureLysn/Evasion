@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["# Drop Point", "Drop Point", "drop-point", "drop point EMB", "diem dung EMB", "tuyen con mo EMB", "tinh trang hien tai EMB"]
-related: ["[[EMB]]", "[[emb-chot-sau-p2-ch2]]", "[[hai-su-kien-p2]]", "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[questions/_MOC|questions]]", "[[fic-part2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[EMB]]", "[[emb-chot-sau-p2-ch2]]", "[[hai-su-kien-p2]]", "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/_MOC|questions]]", "[[fic-part2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [drop-point, analysis]
@@ -232,7 +232,7 @@ Suy ra được: **vài tháng sau lễ cưới cáo**, tức Tsuna **khoảng s
 
 ## 9. Không có đáp án trong văn bản
 
-Chín câu hỏi đang mở, mỗi câu một note — [[questions/_MOC|questions]]:
+Chín câu hỏi đang mở, mỗi câu một note — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/_MOC|questions]]:
 
 | Câu hỏi | Chặn ở đâu |
 |---|---|

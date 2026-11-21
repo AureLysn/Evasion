@@ -6,7 +6,7 @@ project: DUA
 lane: personal
 status: idea
 aliases: ["moc dua", "ban do dua"]
-related: ["[[dua]]", "[[drop-point]]"]
+related: ["[[dua]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/DUA_crossover-bnha/00_Overview/drop-point|drop-point]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-19

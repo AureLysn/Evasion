@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Hibari Kojiro", "Sawada Kojiro", "Kojiro", "Kojirō", "Hibari Raiga", "Raiga", "Ryokugyoku cua den", "ong ngoai Tsuna", "cha cua Nana", "maternal grandfather", "mat xich Hibari cua Tsuna"]
-related: ["[[musashi]]", "[[nana]]", "[[tsuna]]", "[[keita]]", "[[indra]]", "[[nha-hibari]]", "[[sawada-tu-te]]", "[[kimiko]]", "[[rule-danh-xung-flame]]", "[[fact-kimiko-arcobaleno]]", "[[emb-chot-sau-p2-ch2]]", "[[dong-dat]]"]
+related: ["[[musashi]]", "[[nana]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[keita]]", "[[indra]]", "[[nha-hibari]]", "[[sawada-tu-te]]", "[[kimiko]]", "[[rule-danh-xung-flame]]", "[[fact-kimiko-arcobaleno]]", "[[emb-chot-sau-p2-ch2]]", "[[dong-dat]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1 va Ch2 (doan tieu su Musashi) + End Notes Ch2; Ex-Mafia_Boss_Spends.html Ch2 (loi Kawahira ve huyet thong). Doc lai 15-16/09/2026"
@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 ## Ai
 
-**Ông ngoại của [[tsuna]]**, cha của [[nana]], chồng của [[musashi]]. Sinh ra là **Hibari** — **hậu duệ trực hệ của [[kimiko]]** — rồi **cưới vào** [[sawada-tu-te]] và đổi họ thành **Sawada Kojirō**.
+**Ông ngoại của [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]**, cha của [[nana]], chồng của [[musashi]]. Sinh ra là **Hibari** — **hậu duệ trực hệ của [[kimiko]]** — rồi **cưới vào** [[sawada-tu-te]] và đổi họ thành **Sawada Kojirō**.
 
 Ở kiếp trước, ông và Musashi **đều đã chết** trước khi Tsuna sinh. Ở đây Musashi còn sống; Kojirō thì không.
 
@@ -40,7 +40,7 @@ Khi các trưởng lão ép [[musashi]] lấy [[ietsuna]], bà cãi lại bằng
 Hibari Kimiko → … → Kojirō → Nana → Tsuna
 ```
 
-Ở P2 Ch2, [[kawahira]] gọi Tsuna là **thừa kế nhà Sawada và một Hibari theo dòng máu**. Và vì Kimiko bắt ông **không bao giờ cân nhắc huyết thống bà** cho Arcobaleno, chính mắt xích này là thứ **che Tsuna khỏi Sky Pacifier** — [[fact-kimiko-arcobaleno]].
+Ở P2 Ch2, [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] gọi Tsuna là **thừa kế nhà Sawada và một Hibari theo dòng máu**. Và vì Kimiko bắt ông **không bao giờ cân nhắc huyết thống bà** cho Arcobaleno, chính mắt xích này là thứ **che Tsuna khỏi Sky Pacifier** — [[fact-kimiko-arcobaleno]].
 
 ⚠️ Nói cách khác: **lời cãi của Musashi trước hội đồng trưởng lão, bốn mươi năm sau, là thứ cứu cháu bà.** Aurel chốt mắt xích 16/09 — [[emb-chot-sau-p2-ch2]].
 

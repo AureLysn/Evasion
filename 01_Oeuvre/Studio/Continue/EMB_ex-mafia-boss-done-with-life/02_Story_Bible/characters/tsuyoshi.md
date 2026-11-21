@@ -7,7 +7,7 @@ project: EMB
 canon_layer: planned
 status: proposed
 aliases: ["Tsuyoshi", "Yamamoto Tsuyoshi", "cha Takeshi", "Takesushi", "sat thu giai nghe", "Shigure Soen Ryu"]
-related: ["[[tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[indra]]", "[[sawada-ieyasu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[indra]]", "[[sawada-ieyasu]]"]
 source:
   type: fic_text
   ref: "P2 Ch1 (nhac ten trong danh sach ke hoach); P2 Ch1 (thu trieu tap Takesushi)"
@@ -25,7 +25,7 @@ last_updated: 2026-11-21
 
 ## Văn bản cho gì
 
-1. **Nhà Sawada từng gửi lời triệu chính thức tới "Yamamoto-san tiệm Takesushi"** — [[tomoko]] nghe nói vậy, cùng đợt với [[kawahira]]. Nghĩa là người ấy **thuộc giới lửa của Namimori**, không phải dân thường.
+1. **Nhà Sawada từng gửi lời triệu chính thức tới "Yamamoto-san tiệm Takesushi"** — [[tomoko]] nghe nói vậy, cùng đợt với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]. Nghĩa là người ấy **thuộc giới lửa của Namimori**, không phải dân thường.
    ⚠️ **Người ấy có phải cha Takeshi hay không thì chương không nói** — nối hai cái tên là **suy luận**, xem [[20260916-p2-ch1]]
 2. **Vợ ông còn sống, và Hibari đang canh sát thủ** — [[fact-bang-tinh-hinh-ke-hoach]]:
 

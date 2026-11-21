@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Ayame", "phu ta cua Musashi", "nguoi hau Musashi", "Ketsueki nha Sawada", "nguoi thap den"]
-related: ["[[musashi]]", "[[indra]]", "[[tsuna]]", "[[kazuki]]", "[[rule-danh-xung-flame]]", "[[p2-ch2]]"]
+related: ["[[musashi]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kazuki]]", "[[rule-danh-xung-flame]]", "[[p2-ch2]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch2"

@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsuna PPCT", "Sawada Tsunayoshi PPCT", "沢田纲吉", "纲吉", "小纲吉", "阿纲", "Caster PPCT", "Caster to Caster", "彭格列十代首领", "Vongola Decimo PPCT", "Anh linh Tsuna", "英灵纲吉", "Tsuna the gioi A"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[dazai]]", "[[dazai--tsuna]]", "[[dazai-kiep-truoc--tsuna]]", "[[tsuna--gilgamesh]]", "[[tsuna--byakuran]]", "[[fact-chi-so-tsuna]]", "[[fact-vat-pham-tren-nguoi-tsuna]]", "[[fact-zero-point-so-dai]]", "[[fact-nhan-mare-quan-trac-song-song]]", "[[fact-tsuna-kiep-truoc-chet-that]]", "[[fact-tsuna-hien-than-tre-hon-luc-chet]]", "[[Zero-Point-Breakthrough]]", "[[Tri-ni-sette]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[dazai--tsuna]]", "[[dazai-kiep-truoc--tsuna]]", "[[tsuna--gilgamesh]]", "[[tsuna--byakuran]]", "[[fact-chi-so-tsuna]]", "[[fact-vat-pham-tren-nguoi-tsuna]]", "[[fact-zero-point-so-dai]]", "[[fact-nhan-mare-quan-trac-song-song]]", "[[fact-tsuna-kiep-truoc-chet-that]]", "[[fact-tsuna-hien-than-tre-hon-luc-chet]]", "[[Zero-Point-Breakthrough]]", "[[Tri-ni-sette]]"]
 source:
   type: fic_text
   ref: "反派战争 ch2–15; tien truyen thuong/ha"
@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 
 ## Nhận dạng
 
-Servant chức giai **Caster** của [[dazai]] trong chiến tranh Chén Thánh lần 4 ở Fuyuki. Tự xưng trước các Anh linh: 「彭格列十代首领沢田纲吉，以Caster的职阶降临于世」 (ch8).
+Servant chức giai **Caster** của [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]] trong chiến tranh Chén Thánh lần 4 ở Fuyuki. Tự xưng trước các Anh linh: 「彭格列十代首领沢田纲吉，以Caster的职阶降临于世」 (ch8).
 
 ## Canon gốc
 

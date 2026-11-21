@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Gokudera PPCT", "Gokudera Hayato PPCT", "狱寺隼人", "nguoi Dazai dang tim", "十代目 giong noi"]
-related: ["[[Hayato-Gokudera]]", "[[dazai]]", "[[hook-gokudera-dang-duoc-tim]]"]
+related: ["[[Hayato-Gokudera]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[hook-gokudera-dang-duoc-tim]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1 (Mori hoi ve nguoi Dazai tim), ch2 (Chuuya neu ten); ch10 (giong noi khong ten)"
@@ -22,7 +22,7 @@ last_updated: 2026-11-21
 
 ## Nhận dạng
 
-**Chưa xuất hiện.** Là người [[dazai]] dùng thế lực Cảng Mafia để tìm.
+**Chưa xuất hiện.** Là người [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]] dùng thế lực Cảng Mafia để tìm.
 
 ## Riêng trong fic này
 
@@ -33,4 +33,4 @@ last_updated: 2026-11-21
 
 ## Quan hệ
 
-- Mục tiêu tìm kiếm của [[dazai]].
+- Mục tiêu tìm kiếm của [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]].

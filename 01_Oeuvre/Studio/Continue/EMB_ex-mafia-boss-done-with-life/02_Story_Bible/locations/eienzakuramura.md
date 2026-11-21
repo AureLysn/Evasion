@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Eienzakuramura", "永遠桜村", "lang anh dao vinh cuu", "Eternal Cherry Blossom Village", "ten cu cua Namimori", "hai muoi nam anh dao", "Namimori truoc kia", "hoa anh dao quanh nam", "lang cua Sakura"]
-related: ["[[namimori]]", "[[kimiko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-kimiko-arcobaleno]]", "[[fact-kimiko-amenokagami]]", "[[fact-hibari-sakura]]", "[[author-notes]]", "[[nha-hibari]]", "[[sawada-tu-te]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[kimiko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-kimiko-arcobaleno]]", "[[fact-kimiko-amenokagami]]", "[[fact-hibari-sakura]]", "[[author-notes]]", "[[nha-hibari]]", "[[sawada-tu-te]]"]
 source:
   type: author_comment
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html — Chapter 2 chu thich 23, 25, 52, 53, 54, cong loi Kawahira ke trong than chuong. Doc lai 16/09/2026"

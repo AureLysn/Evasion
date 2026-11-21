@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["su kien", "events", "dong su kien", "chuyen da xay ra", "timeline su kien", "events/_MOC", "EMB/events/_MOC"]
-related: ["[[EMB]]", "[[Timeline/master|timeline]]", "[[secrets/_MOC|secrets]]", "[[rhythm]]"]
+related: ["[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|timeline]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/secrets/_MOC|secrets]]", "[[rhythm]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-16

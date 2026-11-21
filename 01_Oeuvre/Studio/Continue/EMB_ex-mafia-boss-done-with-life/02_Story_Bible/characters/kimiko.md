@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Kimiko", "Hibari Kimiko", "Hibari Amatsumi", "Amatsumi-sama", "Amenokagami no Shinkyo", "Founder of Namimori", "nguoi lap Namimori", "Kohaku dau tien", "amber among silver", "Sky Arcobaleno hai muoi nam"]
-related: ["[[fact-sanctuary]]", "[[fact-kimiko-amenokagami]]", "[[fact-kimiko-arcobaleno]]", "[[fact-dem-den-tam]]", "[[fact-hibari-sakura]]", "[[kimiko-thay-truoc-tuong-lai]]", "[[kimiko-lap-namimori]]", "[[kimiko-nhan-pacifier]]", "[[eienzakuramura]]", "[[kawahira]]", "[[kojiro]]", "[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[tsuna]]", "[[emb-chot-sau-p2-ch2]]"]
+related: ["[[fact-sanctuary]]", "[[fact-kimiko-amenokagami]]", "[[fact-kimiko-arcobaleno]]", "[[fact-dem-den-tam]]", "[[fact-hibari-sakura]]", "[[kimiko-thay-truoc-tuong-lai]]", "[[kimiko-lap-namimori]]", "[[kimiko-nhan-pacifier]]", "[[eienzakuramura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kojiro]]", "[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch2-3 + End Notes; Ex-Mafia_Boss_Spends.html Ch1 (chan dung, chu thich 8) va Ch2 (loi Kawahira, chu thich 23, 25, 52-54). Doc lai 15-16/09/2026"
@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 
 > Đã mất. Nhưng bà là **nguyên nhân của gần như mọi thứ** trong bối cảnh hiện tại.
 >
-> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. ⚠️ Phần lớn tiểu sử bà đến từ **miệng [[kawahira]]** ở P2 Ch2 — tầng *lời nhân vật*, luật 6 của [[phan-biet-hai-the-gioi]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. ⚠️ Phần lớn tiểu sử bà đến từ **miệng [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]** ở P2 Ch2 — tầng *lời nhân vật*, luật 6 của [[phan-biet-hai-the-gioi]].
 
 ## Tên và danh hiệu
 
@@ -50,7 +50,7 @@ Và **một thầy bói đã tuyên bố điều đó trước cả khi nhà Saw
 
 ## 🔴 Hai mươi năm làm Sky Arcobaleno
 
-*Lời [[kawahira]], P2 Ch2:*
+*Lời [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]], P2 Ch2:*
 
 - Dòng Sepira khi ấy khuyết ứng viên; Sky Arcobaleno đương thời **Mirella Giglio Nero** quá yếu, và cháu gái **Marella** thì còn quá nhỏ
 - Kawahira **đã đánh dấu bà làm phương án dự phòng ngay khi bà tới**, hàng chục năm trước đó; lúc gặp, bà **ngoài năm mươi**
@@ -64,7 +64,7 @@ Bà đặt **hai yêu cầu**:
 | **Một** | ông **không bao giờ cân nhắc huyết thống bà** cho Arcobaleno — [[fact-kimiko-arcobaleno]] |
 | **Hai** | ✅ *(Aurel chốt 16/09)* ông **đợi ở thị trấn này và đếm tới tám**, thì sẽ có **đuôi thứ chín** — [[fact-dem-den-tam]] |
 
-🔴 Yêu cầu một **bảo vệ [[tsuna]] khỏi Pacifier** — qua [[kojiro]], cậu nằm trong huyết thống bà. Yêu cầu hai **đưa Kawahira tới đúng cậu**. Bà sắp xếp **cả hai đầu của cùng một cuộc gặp**, trước mấy trăm năm.
+🔴 Yêu cầu một **bảo vệ [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] khỏi Pacifier** — qua [[kojiro]], cậu nằm trong huyết thống bà. Yêu cầu hai **đưa Kawahira tới đúng cậu**. Bà sắp xếp **cả hai đầu của cùng một cuộc gặp**, trước mấy trăm năm.
 
 ## Mẹ bà, và cái giá — [[fact-hibari-sakura]]
 
@@ -84,7 +84,7 @@ Tác giả xác nhận trong End Notes P2 Ch2, và khen độc giả đoán ra *
 
 ## Câu đố bà để lại cho Tsuna
 
-Bà **biết trước cậu sẽ tới**, và để lại **một dấu ấn Flame mạnh dành riêng cho cậu** trong cây sakaki. Cậu **chưa giải được** — và đó là một trong hai lý do cậu cần [[kawahira]], người từng quen bà.
+Bà **biết trước cậu sẽ tới**, và để lại **một dấu ấn Flame mạnh dành riêng cho cậu** trong cây sakaki. Cậu **chưa giải được** — và đó là một trong hai lý do cậu cần [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]], người từng quen bà.
 
 Tsuna là **Kohaku đầu tiên kể từ Kimiko-sama**. Với hậu duệ cư dân gốc, cậu về cơ bản là **Kimiko và Ieyasu tái sinh**.
 

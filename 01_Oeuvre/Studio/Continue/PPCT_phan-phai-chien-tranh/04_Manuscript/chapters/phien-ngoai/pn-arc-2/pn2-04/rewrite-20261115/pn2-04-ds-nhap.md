@@ -11,7 +11,7 @@ status: draft
 pov: [character.PPCT.reborn, character.PPCT.lal, character.PPCT.verde, character.PPCT.viper]
 language: zh
 aliases: ["pn2-04 ban DeepSeek nhap", "phiên ngoại Bảy người xa lạ hạ DeepSeek", "反派战争 番外八 七个陌生人下 DeepSeek"]
-related: [ "[[pn2-03-ds-nhap]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
+related: [ "[[pn2-03-ds-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/reborn|Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. Chương không có điểm mở (C4, C5 đã duyệt); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa; GPT đọc thử (xem pn2-04-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/969c7c42-f500-4aba-949c-a5f68d948906"

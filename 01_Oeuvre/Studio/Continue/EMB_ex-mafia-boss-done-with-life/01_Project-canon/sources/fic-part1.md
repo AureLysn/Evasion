@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["fic goc Part 1", "Local Mafia Boss Blames", "Baby Arc", "Part 1"]
-related: ["[[sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]"]
 source:
   type: fic_text
   ref: "AO3 — Local Mafia Boss Blames This Rebirth Thing On Ex-Tutor On Account Of The Ex-Tutor's Name Being Reborn. File: KOHAKU/Original-Fic/Local_Mafia_Boss_Blames.html"

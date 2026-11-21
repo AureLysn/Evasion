@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Sachiko", "Yamamoto Sachiko", "me Takeshi", "me cua Takeshi", "Yamamoto-san tiem Takesushi", "nguoi quyet vu Yamamoto", "canh 2.2 Brat"]
-related: ["[[emb-chot-me-takeshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[tsuyoshi]]", "[[tsuna]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[emb-chot-me-takeshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[tsuyoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: user_input
   ref: "Aurel chot 17/09/2026 — xem emb-chot-me-takeshi. Vai do khung-nam-arc cap slot B; ten do AI dat sau khi tra fandom 17/09 va xac nhan fandom KHONG co ten chung cho nhan vat nay."

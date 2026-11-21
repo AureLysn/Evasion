@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Waver PPCT", "Waver Velvet PPCT", "韦伯", "韦伯·维尔维特", "Master cua Rider PPCT", "吐槽役"]
-related: ["[[iskandar]]", "[[to-caster--to-rider]]", "[[fact-chi-so-tsuna]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]", "[[to-caster--to-rider]]", "[[fact-chi-so-tsuna]]"]
 source:
   type: fic_text
   ref: "反派战争 ch6–15"
@@ -22,7 +22,7 @@ last_updated: 2026-11-21
 
 ## Nhận dạng
 
-Master của [[iskandar]], học sinh Tháp Đồng Hồ (Dazai liệt kê, ch6). Nguyên tác dùng hắn làm **ống kính tsukkomi** trong cảnh đông người.
+Master của [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]], học sinh Tháp Đồng Hồ (Dazai liệt kê, ch6). Nguyên tác dùng hắn làm **ống kính tsukkomi** trong cảnh đông người.
 
 ## Canon gốc
 

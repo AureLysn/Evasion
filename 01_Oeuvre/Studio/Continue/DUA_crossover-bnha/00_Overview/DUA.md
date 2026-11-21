@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: idea
 title: "<chưa đặt tên — crossover BNHA>"
 aliases: ["DUA", "BNHA crossover"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/DUA_crossover-bnha/00_Overview/drop-point|drop-point]]"]
 source:
   type: user_input
   ref: "Data-export/projects/ (Claude Project export)"

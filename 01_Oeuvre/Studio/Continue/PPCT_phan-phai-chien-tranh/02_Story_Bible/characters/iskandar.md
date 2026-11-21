@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Iskandar PPCT", "Rider PPCT", "伊斯坎达尔", "Chinh phuc vuong PPCT", "Alexander PPCT"]
-related: ["[[waver]]", "[[to-caster--to-rider]]", "[[hook-archer-tuyen-chien-rider]]", "[[Iskandar]]", "[[20260913-doi-chieu-canon]]"]
+related: ["[[waver]]", "[[to-caster--to-rider]]", "[[hook-archer-tuyen-chien-rider]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]]", "[[20260913-doi-chieu-canon]]"]
 source:
   type: fic_text
   ref: "反派战争 ch5–6, ch8–15"

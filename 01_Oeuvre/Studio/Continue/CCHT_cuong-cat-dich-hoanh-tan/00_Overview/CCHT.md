@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: draft
 title: "Cương Cát đích Hoành Tân"
 aliases: ["CCHT", "Cuong Cat dich Hoanh Tan", "Cương Cát đích Hoành Tân", "纲吉的横滨", "纲吉的横滨！", "Gang Ji de Heng Bin", "Tsunayoshi Yokohama", "xem anh the CCHT", "xem ảnh thể Cương Cát"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]", "[[CCHT-MOC]]", "[[quy-uoc-ma-project]]", "[[nguyen-tac-convert]]", "[[ban-xem-anh-douguixiao]]", "[[ho-so-phien-truoc]]", "[[q-do-van-phong-tu-ban-convert]]", "[[quy-uoc-danh-so-chuong]]", "[[bo-qua-phien-ngoai-bay]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/CCHT_cuong-cat-dich-hoanh-tan/00_Overview/drop-point|drop-point]]", "[[CCHT-MOC]]", "[[quy-uoc-ma-project]]", "[[nguyen-tac-convert]]", "[[ban-xem-anh-douguixiao]]", "[[ho-so-phien-truoc]]", "[[q-do-van-phong-tu-ban-convert]]", "[[quy-uoc-danh-so-chuong]]", "[[bo-qua-phien-ngoai-bay]]"]
 source:
   type: user_input
   ref: "Aurel chot 13/09/2026 qua AskUserQuestion: fic goc = tang 1 (tieu thuyet cua 霜湘家的猫), Aurel tu viet ban xem anh rieng; ma CCHT. Bang chung ba tang do truc tiep cung ngay tu epub store personal-archive/00_Inbox/纲吉的横滨！.epub — metadata OPF + loi tua cua tac gia ban xem anh"

@@ -37,4 +37,4 @@ Master thật của Saber — [[kiritsugu-la-master-that]].
 
 ## Quan hệ
 
-- Đối thủ trí tuệ mà Dazai đặt ưu tiên xử lý: [[dazai]]
+- Đối thủ trí tuệ mà Dazai đặt ưu tiên xử lý: [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]

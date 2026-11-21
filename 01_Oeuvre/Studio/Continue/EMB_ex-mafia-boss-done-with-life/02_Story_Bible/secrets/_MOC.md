@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["bi mat", "secrets", "who knows what", "chan biet som", "pov leak", "secrets/_MOC", "EMB/secrets/_MOC"]
-related: ["[[EMB]]", "[[events/_MOC|events]]", "[[character-arcs]]"]
+related: ["[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/events/_MOC|events]]", "[[character-arcs]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-21

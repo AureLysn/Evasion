@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Tokoyami Fumikage", "Fumi", "Kage", "Dark Shadow", "常闇踏陰", "quirk co tri giac", "Kage phan loai nguoi", "categories cua Kage", "nguoi doan trung vu mau toc"]
-related: ["[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[todoroki-shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[he-bond]]", "[[soulmate-au]]", "[[Quirk]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch87 (Kage doc he Flame), ch119 (doan trung vu mau toc), ch121, ch124 (Kage giau Fumi), ch127."

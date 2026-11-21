@@ -12,7 +12,7 @@ pov: [character.TDTB.loc-da-tuyet-tdtb, character.TDTB.sawada-tsunayoshi-tdtb, c
 language: zh
 title: "装B的第十七天"
 aliases: ["chuong 17 TDTB", "ban viet lai ch17 TDTB", "装B的第十七天", "het tap 1 TDTB", "Tsuna goi Takeshi"]
-related: [ "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-11-21

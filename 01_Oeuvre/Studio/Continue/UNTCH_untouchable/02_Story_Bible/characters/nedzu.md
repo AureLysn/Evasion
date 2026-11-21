@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: author_confirmed
 status: active
 aliases: ["Nedzu", "Nezu", "根津", "hieu truong UA", "Nedzu la nguoi", "soulmate cua Reborn", "Amethyst Badge", "dau moi cua Reborn trong gioi hero", "an oan voi Vongola Nono"]
-related: ["[[reborn]]", "[[soulmate-au]]", "[[mnet]]", "[[Quirk]]", "[[Hero-Public-Safety-Commission]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/reborn|reborn]]", "[[soulmate-au]]", "[[mnet]]", "[[Quirk]]", "[[Hero-Public-Safety-Commission]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: author_comment
   ref: "End note ch123 (Nedzu la nguoi, chua tung bi thi nghiem, High Spec khong ton tai) va end note ch126 (Nedzu va Reborn la soulmate). Than truyen: ch121, ch122, ch123, ch125, ch126."

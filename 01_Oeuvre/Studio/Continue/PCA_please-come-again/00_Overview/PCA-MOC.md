@@ -6,7 +6,7 @@ project: PCA
 lane: personal
 status: draft
 aliases: ["moc pca", "ban do pca"]
-related: ["[[pca]]", "[[drop-point]]"]
+related: ["[[pca]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PCA_please-come-again/00_Overview/drop-point|drop-point]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-19

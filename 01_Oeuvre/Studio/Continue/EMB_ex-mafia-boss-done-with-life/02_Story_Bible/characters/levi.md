@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Levi EMB", "Levi A Than trong nhanh", "Lightning cua Xanxus", "nguoi to bang cai cua"]
-related: ["[[Levi-A-Than]]", "[[xanxus]]", "[[squalo]]", "[[belphegor]]", "[[mammon]]", "[[tuoi-va-moc]]"]
+related: ["[[Levi-A-Than]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[squalo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/belphegor|belphegor]]", "[[mammon]]", "[[tuoi-va-moc]]"]
 source:
   type: inference
   ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
@@ -37,7 +37,7 @@ Cả Varia gọi anh ta thế. **Nguồn thì không.** Canon nói anh ta *"khá
 
 → Ở **mười sáu tuổi**, điều đó có nghĩa là: anh ta **vừa mới bỏ con đường ấy**, hoặc **đang bỏ**. Chất liệu này chưa ai chạm vào.
 
-Cái làm anh ta thành trò cười không phải năng lực, mà là **mức sùng bái [[xanxus]]** và sự vụng về.
+Cái làm anh ta thành trò cười không phải năng lực, mà là **mức sùng bái [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]** và sự vụng về.
 
 ## Chưa dùng tới
 

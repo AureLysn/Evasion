@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: idea
 title: "(KHRxHSR) Kì tích"
 aliases: ["Kì tích", "KHR x HSR", "Tsuna x Phainon", "Miracle"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]", "[[KITIC-MOC]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Original/KITIC_khr-hsr-ki-tich/00_Overview/drop-point|drop-point]]", "[[KITIC-MOC]]"]
 source:
   type: user_input
   ref: "Ba vignette do chinh Aurel viet, chua nhap vault: 'Lac', 'Lua va Tro tan', 'Anh nhin'. Dang cho ingest-sources."

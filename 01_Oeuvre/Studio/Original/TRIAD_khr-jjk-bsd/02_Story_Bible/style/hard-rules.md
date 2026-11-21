@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules TRIAD", "luat cung van phong TRIAD", "khong duoc vi pham TRIAD", "dau cau cam TRIAD"]
-related: ["[[signature]]", "[[targets]]", "[[quyet-dinh-dau-cau]]", "[[quyet-dinh-06-09]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]", "[[quyet-dinh-dau-cau]]", "[[quyet-dinh-06-09]]"]
 source:
   type: user_input
   ref: "Muc 1-3 do tu chuong-01-aurel-viet-lai.md (3349 tu) ngay 12/09/2026, doi chieu chuong-01.md (2120 tu). Muc 4-5 tu quyet-dinh-06-09."
@@ -22,8 +22,8 @@ last_updated: 2026-09-12
 
 # Luật cứng — vi phạm là lỗi, không phải lệch
 
-> Chỉ những thứ **phát biểu được thành có/không**. Con số cần bám nằm ở [[targets]], thói quen nằm
-> ở [[signature]]. Trộn ba mức là lỗi thiết kế.
+> Chỉ những thứ **phát biểu được thành có/không**. Con số cần bám nằm ở [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]], thói quen nằm
+> ở [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]]. Trộn ba mức là lỗi thiết kế.
 
 ## 1. Không dùng sáu loại dấu trang trí
 
@@ -68,5 +68,5 @@ không tự "sửa" khi biên tập đoạn khác.
 ---
 
 > ⚠️ **Mục 1 dựa trên 1 chương.** Nếu chương 2–3 do Aurel viết có dùng một trong sáu dấu trên thì
-> luật đó sai và phải hạ xuống [[signature]] — **báo số, đừng sửa văn cho khớp luật.**
+> luật đó sai và phải hạ xuống [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]] — **báo số, đừng sửa văn cho khớp luật.**
 > Mục 4–5 không phụ thuộc số đo: chúng đến từ một quyết định đã khoá.

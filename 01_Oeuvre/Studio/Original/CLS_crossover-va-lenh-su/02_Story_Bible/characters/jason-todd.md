@@ -7,7 +7,7 @@ project: CLS
 canon_layer: project_locked
 status: active
 aliases: ["Jason", "Jason Todd", "Red Hood", "Hood", "Robin thu hai", "Robin thứ hai", "Jackson", "lech su Vui suong", "lệch sử Aha", "lệnh sứ Aha", "lenh su Vui suong", "ke ngu", "Jason CLS", "lenh su San ban", "lệnh sứ Săn bắn", "Jason Lan", "Jason Boothill", "Jason Canh Binh Thien Ha", "Jason Cảnh Binh Thiên Hà"]
-related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[the-gioi-thu-ba-batman]]", "[[tsuna]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/DC/characters/Jason-Todd|Jason-Todd (canon)]]", "[[Lan]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[the-gioi-thu-ba-batman]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/DC/characters/Jason-Todd|Jason-Todd (canon)]]", "[[Lan]]"]
 source:
   type: user_input
   ref: "premise.md (Aurel chot 14/09/2026); the-gioi-thu-ba-batman (13/09); menh do Aha: _crosscheck/20260913-doc-bo-A.md 'Aurel chot Jason = menh do Vui suong'; ke ngoai lai: Aurel 24/09/2026 'Doi: ke ngoai lai la nguoi khac'"
@@ -76,8 +76,8 @@ Chưa có — chờ [[q-giong-aurel-do-o-dau]].
 
 ## Quan hệ
 
-- [[tsuna]] — 🟡 chốt tạm 03/10: [[tsuna--jason-cls]].
-- [[dazai|Dazai]] *(nhân vật trục BSD từ 28/09, thay Akutagawa — [[doi-truc-bsd-akutagawa-sang-dazai]])* — 🟡 chốt tạm 03/10: [[dazai--jason-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]] — 🟡 chốt tạm 03/10: [[tsuna--jason-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/dazai|Dazai]] *(nhân vật trục BSD từ 28/09, thay Akutagawa — [[doi-truc-bsd-akutagawa-sang-dazai]])* — 🟡 chốt tạm 03/10: [[dazai--jason-cls]].
 
 ## Thiết kế bản HSR — Aurel duyệt 11/10/2026 ([[20261011-thiet-ke-jason-va-anh-doan-tau]])
 

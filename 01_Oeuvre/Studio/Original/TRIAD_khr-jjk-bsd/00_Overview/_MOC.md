@@ -20,7 +20,7 @@ last_updated: 2026-11-21
 
 ## Đã mở
 
-- [[sources/_MOC|sources/]] — 8 nguồn gốc + 8 source note. **Bất biến, không sửa.** (05/09/2026)
+- [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/01_Project-canon/sources/_MOC|sources/]] — 8 nguồn gốc + 8 source note. **Bất biến, không sửa.** (05/09/2026)
 - [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/world-rules/_MOC|canon/]] — 8 note luật thế giới. (05/09, duyệt 06/09)
 - [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/_MOC|Characters/]] — 6 hồ sơ nhân vật. (05/09, Aurel duyệt 06/09)
 - [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/05_Management/decisions/_MOC|decisions/]] — 2 quyết định đã khoá.

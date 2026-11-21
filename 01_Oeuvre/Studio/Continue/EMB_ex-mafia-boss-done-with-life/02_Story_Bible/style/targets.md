@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets", "chi tieu van phong", "muc tieu do luong", "so can cham"]
-related: ["[[signature]]", "[[hard-rules]]", "[[ai-tells]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: measured
   ref: "Do lai 17/09/2026 tu personal-bulk:fiction-sources/EMB/raw/original-fic/ (2 file HTML): trich than chuong tu div.userstuff ben trong, giu nghieng o dang *markdown*, bo khoi chu thich cuoi P2 Ch2, bo Ch4 (thong bao 59 tu). 5 chuong, 37.391 tu (dem \\S+). Do bang chinh ham measure() cua 01_Origine/04_Tools/VaultTool/chapter_gate.py va style_metrics.py, cong mot script dem cau/thoai theo tung doan."
@@ -28,15 +28,15 @@ last_updated: 2026-11-21
 
 ## 🔴 Nguyên tắc hiệu chỉnh — **chỉ tiêu không được đánh trượt chính tác giả**
 
-Bản cũ đặt sàn và trần theo **trung bình gộp**, rồi áp **cho từng chương**. Chạy cổng kiểm lên chính năm chương gốc thì **cả năm đều trượt** — [[hard-rules]].
+Bản cũ đặt sàn và trần theo **trung bình gộp**, rồi áp **cho từng chương**. Chạy cổng kiểm lên chính năm chương gốc thì **cả năm đều trượt** — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]].
 
 Từ nay:
 
 | Mức | Điều kiện |
 |---|---|
-| **Luật cứng** — [[hard-rules]] | **5/5** chương tác giả đều đạt |
+| **Luật cứng** — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules\|hard-rules]] | **5/5** chương tác giả đều đạt |
 | **Chỉ tiêu** — note này | **ít nhất 4/5** chương đạt; chương thứ năm lệch **có lý do nêu được** |
-| **Xu hướng** — [[signature]] | không có ngưỡng |
+| **Xu hướng** — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature\|signature]] | không có ngưỡng |
 
 ## Mốc tác giả — đo bằng đúng thước của cổng kiểm
 
@@ -71,7 +71,7 @@ Từ nay:
 | thuật ngữ /1000 | **≥ 7** | 5/5 *(`chapter_gate`)* · 4/5 *(`style_metrics`)* | xem mục *Hai công cụ, hai cách khớp* |
 | `had` /10k | **≤ 210** | 4/5 | P1 Ch2 243 — chương hồi tưởng tiểu sử, thì quá khứ hoàn thành là đúng chất liệu |
 
-⚠️ **Mười chỉ tiêu trên cả hai công cụ đọc được** nằm trong frontmatter [[ai-tells]] (`gate.targets`). Note này là **bản giải thích**; sửa số thì sửa **cả hai chỗ**, không thì vault có hai bộ ngưỡng lệch nhau.
+⚠️ **Mười chỉ tiêu trên cả hai công cụ đọc được** nằm trong frontmatter [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]] (`gate.targets`). Note này là **bản giải thích**; sửa số thì sửa **cả hai chỗ**, không thì vault có hai bộ ngưỡng lệch nhau.
 
 > **Ước lượng số từ của khung arc là sàn** — Aurel, 17/09/2026: *"xem ước lượng là sàn, mình không phiền nếu chương bị dài do câu truyện hay"*. Không cắt cảnh để khớp ngân sách khung; vượt đáng kể thì báo số như thông tin. Khoảng **8.000–13.000 từ/chương** ở trên là số đo từ tác giả gốc và không đổi.
 
@@ -88,7 +88,7 @@ Từ nay:
 | `style_metrics.py` | **không** phân biệt hoa thường | đếm được *flame* viết thường *(tác giả dùng 94 lần như thuật ngữ)*, nhưng tên nguyên tố **va vào thời tiết** → **vẫn giữ** *(Aurel chốt)*, và **chấp nhận thổi phồng đã đo** |
 | `chapter_gate.py` | **có** phân biệt hoa thường | **an toàn** với tên nguyên tố viết hoa, nhưng **bỏ sót** *flame/flames* viết thường → phải **liệt kê riêng** các dạng ấy |
 
-Danh sách cho `chapter_gate` nằm ở [[ai-tells]] (`gate.terms`). Danh sách cho `style_metrics` nằm ngay dưới.
+Danh sách cho `chapter_gate` nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]] (`gate.terms`). Danh sách cho `style_metrics` nằm ngay dưới.
 
 **Tên Flame — giữ, kèm mức thổi phồng đã đo** *(Aurel chốt 17/09: "nên có cả hai")*
 

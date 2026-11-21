@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Musashi", "Sawada Musashi", "Gen-ei", "Genei", "Ruriko", "Ruriko-sama", "Ruri", "ba ngoai", "grandmother", "sensei", "truong tu te Namimori Inari-Taisha", "ba cua Tsuna"]
-related: ["[[tsuna]]", "[[nana]]", "[[kojiro]]", "[[maro]]", "[[indra]]", "[[nagi]]", "[[kimiko]]", "[[keigo]]", "[[kyuuto]]", "[[sawada-tu-te]]", "[[rule-danh-xung-flame]]", "[[nana-iemitsu-cuoi-nhau]]", "[[le-cuoi-cao]]", "[[fact-inari-va-kitsune]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nana]]", "[[kojiro]]", "[[maro]]", "[[indra]]", "[[nagi]]", "[[kimiko]]", "[[keigo]]", "[[kyuuto]]", "[[sawada-tu-te]]", "[[rule-danh-xung-flame]]", "[[nana-iemitsu-cuoi-nhau]]", "[[le-cuoi-cao]]", "[[fact-inari-va-kitsune]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 (Ch2 la chuong tieu su cua ba) + Ex-Mafia_Boss_Spends.html Ch1-2, doc lai 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch2, 20260916-p2-ch2"
@@ -32,7 +32,7 @@ last_updated: 2026-11-21
 | Trang trọng | **Sawada Ruriko**, *Ruri của nhà Sawada* |
 | Cư dân, khách | **Ruriko-sama** |
 | [[nagi]] | **sensei** |
-| [[tsuna]] | bà |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] | bà |
 | Bà gọi cháu | **Masaya** |
 
 Tên **Musashi** là tên nam — do **mẹ bà chọn**. Đó là điểm chung khiến bà thân với [[maro]] từ thời tập sự tư tế: cả hai đều mang tên nam và làm các thầy dạy nhầm lẫn mãi.
@@ -115,4 +115,4 @@ Sắc, thẳng, không giấu ác cảm; đối mặt Iemitsu bằng giọng **r
 
 ## Chưa trích
 
-Phạm vi năng lực Gen'ei · quan hệ hiện tại với Nana *(End Notes P1 Ch3: Nana gọi điện thường xuyên)* · bà biết gì về [[kawahira]]
+Phạm vi năng lực Gen'ei · quan hệ hiện tại với Nana *(End Notes P1 Ch3: Nana gọi điện thường xuyên)* · bà biết gì về [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]

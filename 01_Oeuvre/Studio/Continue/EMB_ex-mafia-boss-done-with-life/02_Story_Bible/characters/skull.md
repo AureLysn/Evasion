@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: draft
 aliases: ["Skull EMB", "Skull nhanh aurel-main", "Skull xin vao Sanctuary", "Arcobaleno o Namimori", "Skull va Carcassa", "Cloud Arcobaleno Child"]
-related: [ "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull (canon)]]", "[[Carcassa-Famiglia]]", "[[fact-sanctuary]]", "[[kawahira]]", "[[kyouya]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull (canon)]]", "[[Carcassa-Famiglia]]", "[[fact-sanctuary]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]"]
 source:
   type: user_input
   ref: "Aurel 26/09/2026: nguoi xin vao Sanctuary o giai doan Child la Skull, Carcassa doi nguoi; o lai bao lau chua quyet. Tinh chinh 21/11/2026 sau reset: bo moc chuong cua dan y cu, giu nguyen cac chot."
@@ -42,7 +42,7 @@ last_updated: 2026-11-21
 
 ## ⛔ Lằn can
 
-- **Không nhận ra [[kawahira]] là Checker Face.**
+- **Không nhận ra [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] là Checker Face.**
 - **Không biết Tsuna là gì.** Giai đoạn Teen cần Arcobaleno được giải nguyền **mà không biết ai giải**.
 - **Không bond với Tsuna ở giai đoạn Child.** [[kyouya]] là Getsufuji của cậu.
 - Tín hiệu fanon, **không phải canon**: một độc giả AO3 viết rằng Skull làm Cloud của Tsuna thì *"would've been SO funny"*. Tác giả không trả lời — `personal-bulk:fiction-sources/EMB/raw/ao3/AO3-comments-Part2-BratArc.txt`.

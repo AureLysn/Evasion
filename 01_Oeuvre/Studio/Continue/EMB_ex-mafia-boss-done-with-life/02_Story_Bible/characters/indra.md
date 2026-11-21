@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Indra", "Hibari Indra", "Wu Indra", "Seiran", "Seigyoku", "me Kyouya", "Inverse Rain", "Guardian Cong Dong", "ba chi dau cua Musashi"]
-related: ["[[kyouya]]", "[[tsuna]]", "[[musashi]]", "[[keita]]", "[[kojiro]]", "[[nha-hibari]]", "[[indra-tuyen-the]]", "[[indra-co-dong-mau-hibari]]", "[[fact-guardian-hien-co]]", "[[fact-fon-huyet-thong]]", "[[fact-yama-gio-thu-ba]]", "[[le-cuoi-cao]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[keita]]", "[[kojiro]]", "[[nha-hibari]]", "[[indra-tuyen-the]]", "[[indra-co-dong-mau-hibari]]", "[[fact-guardian-hien-co]]", "[[fact-fon-huyet-thong]]", "[[fact-yama-gio-thu-ba]]", "[[le-cuoi-cao]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3 + Ex-Mafia_Boss_Spends.html Ch1-2 va End Notes, doc lai 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch3, 20260916-p2-ch1, 20260916-p2-ch2"
@@ -55,7 +55,7 @@ Bà **đứng đầu nhà Hibari** ở Namimori, và từng **tiếp quản th�
 
 Tsuna nể bà sau khi biết: ai kiểm soát được bản năng do Flame thúc đẩy tới mức ấy thì **đừng bao giờ coi thường**.
 
-⚠️ Bà **không mang Rain Pacifier** — và đó không phải vì thiếu tư cách, mà vì lời hứa của Kimiko với [[kawahira]].
+⚠️ Bà **không mang Rain Pacifier** — và đó không phải vì thiếu tư cách, mà vì lời hứa của Kimiko với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]].
 
 ## Tính cách
 
@@ -94,4 +94,4 @@ Rồi ở P2 Ch1 — vài tháng sau — bà nói: **"Tôi không đi nữa."** 
 
 ## Chưa trích
 
-Năng lực chiến đấu cụ thể · quan hệ hiện tại với [[kyouya]] · bà biết gì về [[kawahira]] · Junpei là người thế nào
+Năng lực chiến đấu cụ thể · quan hệ hiện tại với [[kyouya]] · bà biết gì về [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] · Junpei là người thế nào

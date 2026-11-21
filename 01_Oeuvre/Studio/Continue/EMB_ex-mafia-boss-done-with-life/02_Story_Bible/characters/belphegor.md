@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Bel", "Belphegor EMB", "hoang tu chin tuoi", "Storm cua Varia trong nhanh", "nguoi nem dao vao Kyouya"]
-related: ["[[Belphegor]]", "[[xanxus]]", "[[squalo]]", "[[levi]]", "[[mammon]]", "[[kyouya]]", "[[ayame]]", "[[tuoi-va-moc]]", "[[fact-sanctuary]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/belphegor|Belphegor]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[squalo]]", "[[levi]]", "[[mammon]]", "[[kyouya]]", "[[ayame]]", "[[tuoi-va-moc]]", "[[fact-sanctuary]]"]
 source:
   type: inference
   ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
@@ -23,7 +23,7 @@ last_updated: 2026-11-21
 
 # Belphegor — trong nhánh `aurel-main`
 
-> 📚 **Canon ở [[Belphegor]]** *(Database/Fandom/KHR)*. ⛔ Đừng chép canon vào đây.
+> 📚 **Canon ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/belphegor|Belphegor]]** *(Database/Fandom/KHR)*. ⛔ Đừng chép canon vào đây.
 
 ## 🔴 Tuổi ở arc Brat — ****9****
 
