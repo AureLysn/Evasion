@@ -15,7 +15,7 @@ last_updated: 2026-11-21
 # MOC — TDTB / decisions
 
 Lựa chọn **đã khoá** (`status: locked`). Đổi phải có lý do viết thành chữ. Nguồn: [[20260926-tra-loi-cau-hoi]] cho năm quyết
-định đầu; lời Aurel "A" (26/09) cho qd-viet-tieng-viet-quy-doi-tdtb; lời Aurel 27/09 cho [[qd-viet-tieng-trung-tdtb]]; [[20260927-tra-loi-analyze-tropes]] cho sáu quyết định ngày 27/09; 20260928-tra-loi-plan-continuation cho sáu quyết định ngày 28/09; lời Aurel 30/09 (*"đồng ý dàn ý, 1C 2A 3A"*) cho ba quyết định ngày 30/09.
+định đầu; lời Aurel "A" (26/09) cho qd-viet-tieng-viet-quy-doi-tdtb; lời Aurel 27/09 cho [[qd-viet-tieng-trung-tdtb]]; [[20260927-tra-loi-analyze-tropes]] cho sáu quyết định ngày 27/09; [[20260928-tra-loi-plan-continuation]] cho sáu quyết định ngày 28/09; lời Aurel 30/09 (*"đồng ý dàn ý, 1C 2A 3A"*) cho ba quyết định ngày 30/09.
 
 | Quyết định | Giải câu hỏi | Nội dung |
 |---|---|---|

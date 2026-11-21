@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 # Hệ thống nhiệm vụ của Tsuna là gì, ai đứng sau?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]. Hệ thống nhận lời nhờ của ý thức thế giới; nhiệm vụ có thể lệch yêu cầu thật; công quy ra điểm. Nguyên văn: 20260928-tra-loi-plan-continuation.
+> ✅ **Đã giải 28/09/2026** → [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]. Hệ thống nhận lời nhờ của ý thức thế giới; nhiệm vụ có thể lệch yêu cầu thật; công quy ra điểm. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
 
 > 🔵 **Một phần đã chốt 27/09:** hai hệ thống (của Tsuna và 0038) **khác nghiệp vụ, không biết nhau, không đối đầu** — [[qd-hai-he-thong-khong-lien-quan-tdtb]]. Câu hỏi này vẫn **mở** về bản chất từng hệ thống.
 

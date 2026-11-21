@@ -26,7 +26,7 @@ last_updated: 2026-09-28
 
 # "Đồng bạn, đồng đội" của Tsuna là ai — và họ có ở thế giới thực không?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-dong-doi-tu-fandom-khac-tdtb]]. Đồng đội đến từ các fandom khác; không ai từ thế giới KHR. Họ có sang thế giới thực không thì **chưa chốt**. Nguyên văn: 20260928-tra-loi-plan-continuation.
+> ✅ **Đã giải 28/09/2026** → [[qd-dong-doi-tu-fandom-khac-tdtb]]. Đồng đội đến từ các fandom khác; không ai từ thế giới KHR. Họ có sang thế giới thực không thì **chưa chốt**. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
 
 > ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật.
 

@@ -22,7 +22,7 @@ last_updated: 2026-11-21
 
 # Quyết định — Ở phía được chiếu, ba người **đã quen nhau** từ trước các sự kiện HSR
 
-> 🟢 **Aurel chốt 04/10/2026.** Nguyên văn: [[20261004-da-quen-o-the-gioi-dung-hop]] · [[20261004-quen-truoc-su-kien-va-giong-dazai]] · 20261004-hieu-ngam-va-bo-thong-tin-nham.
+> 🟢 **Aurel chốt 04/10/2026.** Nguyên văn: [[20261004-da-quen-o-the-gioi-dung-hop]] · [[20261004-quen-truoc-su-kien-va-giong-dazai]] · [[20261004-hieu-ngam-va-bo-thong-tin-nham]].
 
 ## Hai thế giới, hai câu trả lời
 
