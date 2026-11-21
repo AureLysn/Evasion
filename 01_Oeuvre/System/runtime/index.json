@@ -62,6 +62,10 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/sawada-tsunayoshi-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/relationships/tsuna--yamamoto-tdtb.md"
   ],
+  "ai quyet vu yamamoto": [
+   "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-chot-me-takeshi.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/q-me-takeshi-ai-quyet.md"
+  ],
   "ai tells": [
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells.md",
@@ -2780,6 +2784,10 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/sachiko.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-chot-me-takeshi.md"
   ],
+  "yamamoto san tiem takesushi": [
+   "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/sachiko.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/q-me-takeshi-ai-quyet.md"
+  ],
   "yamamoto takeshi": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/characters/yamamoto-takeshi-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/yamamoto-takeshi-hnqt.md",
@@ -3266,7 +3274,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1669,
+ "count": 1670,
  "missing_aliases": [],
  "notes": [
   {
@@ -17960,7 +17968,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 363
+   "words": 368
   },
   {
    "aliases": [
@@ -18006,7 +18014,7 @@
     "p/personal"
    ],
    "type": "project",
-   "words": 1508
+   "words": 1514
   },
   {
    "aliases": [
@@ -23035,7 +23043,7 @@
     "hinh nguoi may bay phan luc"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/27-bay-tren-tokyo-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23070,7 +23078,7 @@
     "reiwa 5 nam"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/27-toi-tokyo-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23138,7 +23146,7 @@
     "yamakage chet"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/an-mcdonalds-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23173,7 +23181,7 @@
     "xu huong 4 gio sang"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/anh-27-bi-xoa-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23208,7 +23216,7 @@
     "event bcmf bom tren tau bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/bom-tren-tau-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23241,7 +23249,7 @@
     "tot nhat cuu the ke hoach"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/cong-bo-ke-hoach-cuu-the-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23274,7 +23282,7 @@
     "event bcmf den do shinichi bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/den-do-shinichi-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23309,7 +23317,7 @@
     "ty le an mang"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/hai-an-dem-va-gia-thuyet-52-ngay-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23342,7 +23350,7 @@
     "the gioi muon huy diet"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/keo-vao-phong-chieu-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23377,7 +23385,7 @@
     "khe giua hai the gioi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/ket-gioi-tri-ni-sette-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23412,7 +23420,7 @@
     "mojito"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/lal-o-quan-bar-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23445,7 +23453,7 @@
     "mukuro hien ra qua fran bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/mukuro-hien-ra-qua-fran-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23480,7 +23488,7 @@
     "tieng chuong dong"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/ngay-nhay-luc-0-gio-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23515,7 +23523,7 @@
     "seirei so sap bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/seirei-so-sap-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23550,7 +23558,7 @@
     "su kien den do amuro bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/su-kien-den-do-amuro-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23585,7 +23593,7 @@
     "tham van seirei so"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/tham-van-o-seirei-so-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23692,7 +23700,7 @@
     "vi sao nhin chang tieu hoc"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-27-chu-y-conan-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23727,7 +23735,7 @@
     "trinh tham va an mang"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-an-mang-bat-thuong-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23762,7 +23770,7 @@
     "xu huong mang xa hoi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-anh-27-bay-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23797,7 +23805,7 @@
     "xac chon muoi may nam"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-bo-xuong-duoi-seirei-so-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23832,7 +23840,7 @@
     "hook bcmf h chien tranh yokohama bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-chien-tranh-yokohama-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23867,7 +23875,7 @@
     "sawada ca ca ta biet mot cho"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-coi-cua-cho-o-tam-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23902,7 +23910,7 @@
     "hook bcmf h conan nghi ngo nhom khr bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-conan-nghi-ngo-nhom-khr-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23937,7 +23945,7 @@
     "nobel y hoc the gioi conan"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-cong-ty-duoc-va-haibara-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -23972,7 +23980,7 @@
     "sach tien hoa"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-da-tang-khong-gian-va-yokohama-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24007,7 +24015,7 @@
     "thang may len tang thuong"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-dazai-dinh-tu-sat-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24042,7 +24050,7 @@
     "ranpo ban di hoi han"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-dazai-va-oda-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24077,7 +24085,7 @@
     "hook bcmf h do trong hanh ly bcmf"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-do-trong-hanh-ly-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24113,7 +24121,7 @@
     "trai thom su phu"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-fran-vi-sao-toi-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24148,7 +24156,7 @@
     "vongola gear hut lua"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-gear-hut-lua-luc-0-gio-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24183,7 +24191,7 @@
     "nguoi khong nen xuat hien"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-hai-bong-nguoi-la-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24218,7 +24226,7 @@
     "kid trong phong chieu"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-kaito-trong-goc-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24253,7 +24261,7 @@
     "the gioi y thuc so hai"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-ke-tach-27-khoi-the-gioi-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24288,7 +24296,7 @@
     "vongola nhat dinh tim duoc nguoi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-ket-gioi-mo-lan-hai-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24323,7 +24331,7 @@
     "mukuro nhap fran"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-mukuro-tinh-than-bi-thuong-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24358,7 +24366,7 @@
     "ngay nhay lan hai"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-nua-dem-tiep-theo-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24393,7 +24401,7 @@
     "satou thay quen"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-satou-quen-thuoc-furuya-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24428,7 +24436,7 @@
     "tac gia doc magic kaito"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-tac-gia-hoc-conan-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24463,7 +24471,7 @@
     "thi len cap 3"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-thi-len-cap-ba-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -24541,7 +24549,7 @@
     "to chuc biet hon loan thoi gian"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-27",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-to-chuc-dieu-tra-0-gio-bcmf.md",
    "project": "BCMF",
    "scope": "project",
@@ -26540,7 +26548,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 249
+   "words": 247
   },
   {
    "aliases": [
@@ -27382,7 +27390,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 933
+   "words": 931
   },
   {
    "aliases": [
@@ -27588,7 +27596,7 @@
     "yamamoto san tiem takesushi"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/sachiko.md",
    "project": "EMB",
    "scope": "branch",
@@ -27600,7 +27608,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 334
+   "words": 329
   },
   {
    "aliases": [
@@ -29283,7 +29291,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 1136
+   "words": 1134
   },
   {
    "aliases": [
@@ -30032,7 +30040,7 @@
     "tong cua ca truyen trong mot canh"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-16",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/fact-p2ch2-con-lai.md",
    "project": "EMB",
    "scope": "project",
@@ -30449,7 +30457,7 @@
     "p/personal"
    ],
    "type": "rule",
-   "words": 1092
+   "words": 1091
   },
   {
    "aliases": [
@@ -30496,7 +30504,7 @@
     "p/personal"
    ],
    "type": "rule",
-   "words": 398
+   "words": 397
   },
   {
    "aliases": [
@@ -30686,7 +30694,7 @@
     "trope va nhip"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-17",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/_MOC.md",
    "project": "EMB",
    "scope": "project",
@@ -30698,7 +30706,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 395
+   "words": 353
   },
   {
    "aliases": [
@@ -30731,7 +30739,7 @@
     "thay doi trong khoang trong"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-17",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/character-arcs.md",
    "project": "EMB",
    "scope": "project",
@@ -30743,7 +30751,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1532
+   "words": 1506
   },
   {
    "aliases": [
@@ -30793,7 +30801,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1447
+   "words": 1422
   },
   {
    "aliases": [
@@ -30871,7 +30879,7 @@
     "tropes"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-17",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes.md",
    "project": "EMB",
    "scope": "project",
@@ -30883,7 +30891,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 2775
+   "words": 2759
   },
   {
    "aliases": [
@@ -32793,7 +32801,7 @@
     "trang thai cuoi nam 6"
    ],
    "lane": "personal",
-   "last_updated": "2026-08-16",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/04_Manuscript/chapters/brat/hai-su-kien-p2.md",
    "project": "EMB",
    "scope": "project",
@@ -32805,7 +32813,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1025
+   "words": 1028
   },
   {
    "aliases": [
@@ -33433,7 +33441,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 813
+   "words": 824
   },
   {
    "aliases": [
@@ -33669,7 +33677,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 518
+   "words": 517
   },
   {
    "aliases": [
@@ -34160,7 +34168,7 @@
     "viec con de ngo"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-20",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/_MOC.md",
    "project": "EMB",
    "scope": "project",
@@ -34172,7 +34180,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 662
+   "words": 681
   },
   {
    "aliases": [
@@ -34241,7 +34249,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 419
+   "words": 407
   },
   {
    "aliases": [
@@ -34310,7 +34318,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 163
+   "words": 665
   },
   {
    "aliases": [
@@ -34345,7 +34353,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 220
+   "words": 232
   },
   {
    "aliases": [
@@ -34380,7 +34388,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 118
+   "words": 151
   },
   {
    "aliases": [
@@ -34481,7 +34489,7 @@
     "tsuna lam gi voi cha me chrome"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-17",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/q-cha-me-nagi.md",
    "project": "EMB",
    "scope": "branch",
@@ -34528,7 +34536,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 146
+   "words": 256
   },
   {
    "aliases": [
@@ -34562,6 +34570,41 @@
    ],
    "type": "question",
    "words": 229
+  },
+  {
+   "aliases": [
+    "ai quyet vu Yamamoto",
+    "me Takeshi hay Tsuyoshi",
+    "khoanh khac quyet dinh vu Yamamoto",
+    "Yamamoto-san tiem Takesushi"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "planned",
+   "confidence": 0.0,
+   "id": "question.EMB.q-me-takeshi-ai-quyet",
+   "keys": [
+    "ai quyet vu yamamoto",
+    "khoanh khac quyet dinh vu yamamoto",
+    "me takeshi hay tsuyoshi",
+    "q me takeshi ai quyet",
+    "question emb q me takeshi ai quyet",
+    "yamamoto san tiem takesushi"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-21",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/q-me-takeshi-ai-quyet.md",
+   "project": "EMB",
+   "scope": "branch",
+   "status": "unresolved",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "question",
+   "words": 161
   },
   {
    "aliases": [
@@ -34814,7 +34857,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 156
+   "words": 227
   },
   {
    "aliases": [
@@ -34849,7 +34892,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 197
+   "words": 209
   },
   {
    "aliases": [
@@ -34884,7 +34927,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 276
+   "words": 288
   },
   {
    "aliases": [
@@ -34907,7 +34950,7 @@
     "xuong song brat con dung khong"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-01",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/q-xuong-song-brat.md",
    "project": "EMB",
    "scope": "branch",
@@ -50670,7 +50713,7 @@
     "tsuna nuoi akutagawa"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-29",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-akutagawa-gap-tsuna-truoc-cf.md",
    "project": "PPCT",
    "scope": "project",
@@ -50682,7 +50725,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 218
+   "words": 211
   },
   {
    "aliases": [
@@ -50705,7 +50748,7 @@
     "ten goi shibusawa ban convert"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-bach-ki-lan.md",
    "project": "PPCT",
    "scope": "project",
@@ -50742,7 +50785,7 @@
     "thoai bao nhieu phan tram"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-cach-do-ty-le-thoai.md",
    "project": "PPCT",
    "scope": "project",
@@ -50775,7 +50818,7 @@
     "question ppct q dazai co biet assassin con song"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-dazai-co-biet-assassin-con-song.md",
    "project": "PPCT",
    "scope": "project",
@@ -50810,7 +50853,7 @@
     "［书］暂且不提"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-dazai-nhat-sach-khi-nao.md",
    "project": "PPCT",
    "scope": "project",
@@ -50845,7 +50888,7 @@
     "thoi diem bsd cua truyen"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-dazai-o-moc-nao-cua-bsd.md",
    "project": "PPCT",
    "scope": "project",
@@ -50882,7 +50925,7 @@
     "我的家族需要"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-gia-toc-cua-tsuna-o-the-gioi-b.md",
    "project": "PPCT",
    "scope": "project",
@@ -50954,7 +50997,7 @@
     "单细胞生物就是所有阴谋家的天敌"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-ke-hoach-that-bai-cua-dazai.md",
    "project": "PPCT",
    "scope": "project",
@@ -50989,7 +51032,7 @@
     "question ppct q khoang cach trieu hoi den ngay 1"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-khoang-cach-trieu-hoi-den-ngay-1.md",
    "project": "PPCT",
    "scope": "project",
@@ -51038,7 +51081,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 351
+   "words": 352
   },
   {
    "aliases": [
@@ -51065,7 +51108,7 @@
     "xung ho convert ppct"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-ngon-ngu-va-xung-ho-ban-viet-tiep.md",
    "project": "PPCT",
    "scope": "project",
@@ -51102,7 +51145,7 @@
     "我想多陪陪我的家人"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-nguyen-vong-chen-thanh-cua-to-caster.md",
    "project": "PPCT",
    "scope": "project",
@@ -51174,7 +51217,7 @@
     "鹤见川 hay 海"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-nhay-song-hay-nhay-bien.md",
    "project": "PPCT",
    "scope": "project",
@@ -51211,7 +51254,7 @@
     "thai te hay 太宰"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-quy-uoc-convert.md",
    "project": "PPCT",
    "scope": "project",
@@ -51246,7 +51289,7 @@
     "thoi gian trong khong gian quan trac"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-saber-xem-the-gioi-song-song-the-nao.md",
    "project": "PPCT",
    "scope": "project",
@@ -51283,7 +51326,7 @@
     "tiem ca ri oda"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-tiem-ca-ri-va-oda.md",
    "project": "PPCT",
    "scope": "project",
@@ -51320,7 +51363,7 @@
     "to matou va kirei"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-to-matou-va-kirei-co-trong-truyen.md",
    "project": "PPCT",
    "scope": "project",
@@ -51359,7 +51402,7 @@
     "vat pham tren nguoi tsuna la gi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/q-vat-pham-tren-nguoi-tsuna-la-gi.md",
    "project": "PPCT",
    "scope": "project",
@@ -51643,7 +51686,7 @@
     "p/personal"
    ],
    "type": "project",
-   "words": 979
+   "words": 999
   },
   {
    "aliases": [
@@ -53601,7 +53644,7 @@
     "p/personal"
    ],
    "type": "location",
-   "words": 174
+   "words": 164
   },
   {
    "aliases": [
@@ -59982,7 +60025,7 @@
     "tsuna co dong doi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/questions/q-dong-doi-cua-tsuna-tdtb.md",
    "project": "TDTB",
    "scope": "project",
@@ -60027,7 +60070,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 219
+   "words": 217
   },
   {
    "aliases": [
@@ -60567,7 +60610,7 @@
     "tsuna co nho lai khong"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-28",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/questions/q-tsuna-co-biet-kiep-truoc-tdtb.md",
    "project": "TDTB",
    "scope": "project",
@@ -60722,7 +60765,7 @@
     "tuyen con mo untch"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-09",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point.md",
    "project": "UNTCH",
    "scope": "project",
@@ -62041,7 +62084,7 @@
     "the other one"
    ],
    "lane": "personal",
-   "last_updated": "2026-08-31",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/04_Manuscript/chapters/omake/omake-01-the-other-one.md",
    "project": "UNTCH",
    "scope": "branch",
@@ -62053,7 +62096,7 @@
     "p/personal"
    ],
    "type": "chapter",
-   "words": 3065
+   "words": 3066
   },
   {
    "aliases": [
@@ -64556,7 +64599,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 1017
+   "words": 1015
   },
   {
    "aliases": [
@@ -68064,7 +68107,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 246
+   "words": 409
   },
   {
    "aliases": [
@@ -68514,7 +68557,7 @@
     "vi sao la ba nguoi nay"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/khung-aeon-hai-nhom.md",
    "project": "CLS",
    "scope": "project",
@@ -68526,7 +68569,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 836
+   "words": 837
   },
   {
    "aliases": [
@@ -68572,7 +68615,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 700
+   "words": 696
   },
   {
    "aliases": [
@@ -68868,7 +68911,7 @@
     "pov phần aeon"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/pov-phan-aeon-qua-nguoi-xem.md",
    "project": "CLS",
    "scope": "project",
@@ -68880,7 +68923,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 164
+   "words": 163
   },
   {
    "aliases": [
@@ -68912,7 +68955,7 @@
     "quy mô cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/quy-mo-arc-khep-kin.md",
    "project": "CLS",
    "scope": "project",
@@ -68924,7 +68967,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 164
+   "words": 151
   },
   {
    "aliases": [
@@ -69065,7 +69108,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 410
+   "words": 422
   },
   {
    "aliases": [
@@ -69101,7 +69144,7 @@
     "vi sao la ba nguoi nay"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-aeon-len-ke-hoach-co-lenh-su.md",
    "project": "CLS",
    "scope": "project",
@@ -69140,7 +69183,7 @@
     "question cls q aeon va phe co khoi pov"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-aeon-va-phe-co-khoi-pov.md",
    "project": "CLS",
    "scope": "project",
@@ -69177,7 +69220,7 @@
     "question cls q ba nguoi quen nhau o the gioi gop"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-ba-nguoi-quen-nhau-o-the-gioi-gop.md",
    "project": "CLS",
    "scope": "project",
@@ -69189,7 +69232,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 265
+   "words": 245
   },
   {
    "aliases": [
@@ -69214,7 +69257,7 @@
     "so suc manh lech su"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-25",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-can-bang-suc-manh.md",
    "project": "CLS",
    "scope": "project",
@@ -69251,7 +69294,7 @@
     "signature cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-04",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-giong-aurel-do-o-dau.md",
    "project": "CLS",
    "scope": "project",
@@ -69286,7 +69329,7 @@
     "question cls q jason thanh lenh su khi nao"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-jason-thanh-lenh-su-khi-nao.md",
    "project": "CLS",
    "scope": "project",
@@ -69356,7 +69399,7 @@
     "question cls q lay bo nao lam mau ket cau"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-25",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-lay-bo-nao-lam-mau-ket-cau.md",
    "project": "CLS",
    "scope": "project",
@@ -69393,7 +69436,7 @@
     "trailblazer la ai"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-04",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-nhan-vat-nguoi-choi-la-ai.md",
    "project": "CLS",
    "scope": "project",
@@ -69432,7 +69475,7 @@
     "question cls q pham vi fandom va giong van"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-pham-vi-fandom-va-giong-van.md",
    "project": "CLS",
    "scope": "project",
@@ -69506,7 +69549,7 @@
     "scope cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-quy-mo-cls.md",
    "project": "CLS",
    "scope": "project",
@@ -69541,7 +69584,7 @@
     "sức mạnh săn bắn của jason"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-04",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-suc-manh-san-ban-cua-jason.md",
    "project": "CLS",
    "scope": "project",
@@ -69584,7 +69627,7 @@
     "trời giáng lệnh sứ"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-25",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-them-lenh-su-ve-sau.md",
    "project": "CLS",
    "scope": "project",
@@ -69623,7 +69666,7 @@
     "tsuna bao nhieu tuoi"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-14",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-timeline-ba-nhan-vat.md",
    "project": "CLS",
    "scope": "project",
@@ -69668,11 +69711,11 @@
     "tsuna trước một mình"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-tsuna-truoc-mot-minh.md",
    "project": "CLS",
    "scope": "project",
-   "status": "resolved",
+   "status": "unresolved",
    "strength": "",
    "tags": [
     "d/fanfic",
@@ -69680,7 +69723,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 810
+   "words": 811
   },
   {
    "aliases": [
@@ -69714,7 +69757,7 @@
     "xét lại mệnh đồ"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-03",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-xet-lai-menh-do.md",
    "project": "CLS",
    "scope": "project",
@@ -70895,7 +70938,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 295
+   "words": 316
   },
   {
    "aliases": [
@@ -70998,7 +71041,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 575
+   "words": 587
   },
   {
    "aliases": [
@@ -71031,7 +71074,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 75
+   "words": 104
   },
   {
    "aliases": [

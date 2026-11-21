@@ -6,9 +6,6 @@ lane: personal
 project: EMB
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: brat
-  chapter: 4
 decision_owner: user
 aliases: ["ai o sessha", "ke cuop co dau", "bride stealing la ai", "thu khac di lai tren mat dat"]
 related: [ "[[ke-cuop-co-dau]]", "[[20260916-p2-ch2]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[emb-chot-sau-p2-ch2]]"]

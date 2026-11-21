@@ -39,5 +39,5 @@ last_updated: 2026-11-21
 
 - 🔴 **Ông không biết Kawahira ở Namimori.** Nếu biết, Namimori thôi là một thị trấn — [[hook-bermuda-to-mo]].
 - 🔴 **Không biết** [[tsuna-tai-sinh]].
-- ⚠️ **Có thấy Tomoshibi không: chưa chốt** — q-bermuda-thay-cao.
+- ⚠️ **Có thấy Tomoshibi không: chưa chốt**.
 - ⛔ Nội dung **điều khoản hai** của lá thư cũ và **"thứ Tsuna có sẵn cho ông"**: không chốt.

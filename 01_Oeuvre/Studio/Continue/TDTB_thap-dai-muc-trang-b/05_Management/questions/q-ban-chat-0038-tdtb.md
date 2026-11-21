@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-0038-quet-bang-ho-so-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "truoc canh 0038 tra xong loi"
 decision_owner: "user"
 aliases: ["0038 la gi", "bản chất 0038", "vì sao 0038 quét sai", "hệ thống công lược TDTB"]
 related: ["[[he-thong-0038-tdtb]]", "[[he-thong-chi-nam-0038-tdtb]]", "[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[h-0038-kiem-tra-yamamoto-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-0038-he-thong-phi-phap-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]"]

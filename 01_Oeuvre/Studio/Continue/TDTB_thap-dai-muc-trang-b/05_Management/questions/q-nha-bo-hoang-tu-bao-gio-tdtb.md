@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-nha-bo-hoang-4-5-nam-tdtb]]"
 resolved_at: 2026-10-03
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["nha bo hoang tu bao gio TDTB", "hang xom biet gi ve nha Sawada", "Gokudera hoi tham tim duoc gi", "Gokudera luc giay to", "Tsuna song o ky tuc tu luc nao"]
 related: ["[[qd-nha-namimori-bo-hoang-tdtb]]", "[[namimori-tdtb]]", "[[gokudera-hayato-tdtb]]"]

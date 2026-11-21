@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "tien de"
-  chapter: "truoc khi chay brainstorm-premise"
 decision_owner: user
 aliases: ["lay bo nao lam mau", "A hay C", "mau ket cau cho CLS", "pham vi fandom cua CLS", "co dung khung xem anh the khong"]
 related: ["[[CLS]]", "[[20260913-nhan-xet-cua-aurel]]", "[[chon-mau-ket-cau-bo-a-va-xem-anh-the]]", "[[q-pham-vi-fandom-va-giong-van]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # CLS lấy bộ nào làm mẫu kết cấu, và phạm vi fandom tới đâu?

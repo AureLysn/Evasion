@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "arc mo dau"
-  chapter: "plan-continuation"
 decision_owner: user
 aliases: ["Aeon co POV khong", "phe co khoi POV khong", "POV Aeon", "POV Gia toc", "canh len ke hoach viet tu mat ai", "Aeon hut dat dien"]
 related: ["[[CLS]]", "[[khung-aeon-hai-nhom]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[q-tsuna-truoc-mot-minh]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Aeon và phe có khối POV không?

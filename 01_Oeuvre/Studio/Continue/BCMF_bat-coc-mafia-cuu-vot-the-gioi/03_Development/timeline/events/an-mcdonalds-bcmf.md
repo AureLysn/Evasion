@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, sau 0 giờ"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch13-ch14, ch24"
 participants: ["character.BCMF.yamakage-bcmf", "character.BCMF.megure-juzo-bcmf", "character.BCMF.shiratori-ninzaburo-bcmf", "character.BCMF.lal-mirch-bcmf", "character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[mcdonalds-24h-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Án đầu độc ở McDonald's

@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-tsuna-nay-la-juudaime-tdtb]]"
 resolved_at: 2026-09-26
-needed_before:
-  arc:
-  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["Tsuna nay va Juudaime", "hai phiên bản Tsuna", "ký ức rơi nhầm thế giới", "vì sao Tsuna không nhớ", "Tsuna mất ký ức hay chưa từng có", "the gioi song song ky uc"]
 related: ["[[ky-uc-tuong-lai-tdtb]]", "[[verde-gui-ky-uc-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[h-verde-quen-dieu-gi-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]"]

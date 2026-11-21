@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-moi-tap-hai-ngay-tdtb]]"
 resolved_at: 2026-09-30
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "shared"
 aliases: ["nhip tap show TDTB", "mot tap quay may ngay", "khoang cach giua hai tap show", "lich quay show TDTB"]
 related: ["[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[h-uc-che-te-het-han-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]"]
@@ -42,7 +39,7 @@ Câu trả lời quyết định ba thứ: tập 1 kết ở đâu; Tsuna có **
 
 | | Phương án | Hệ quả |
 |---|---|---|
-| A | Mỗi tập quay **hai ngày** ở biệt thự, kết bằng chấm điểm. Giữa hai tập, khách **về nhà vài ngày** | tập 1 = S1 + S2; có khoảng trống cho Namimori (ch18–19) và nhiệm vụ (arc 2); 10 tập trải khoảng hai tháng rưỡi tới ba tháng, nên hạn thuốc rơi vào **cuối mùa** |
+| A | Mỗi tập quay **hai ngày** ở biệt thự, kết bằng chấm điểm. Giữa hai tập, khách **về nhà vài ngày** | tập 1 = S1 + S2; có khoảng trống cho Namimori và cho thế giới nhiệm vụ; 10 tập trải khoảng hai tháng rưỡi tới ba tháng, nên hạn thuốc rơi vào **cuối mùa** |
 | B | Mỗi tập **một ngày**; chấm điểm sáng hôm sau | tập ngắn hơn; nhịp nhanh, ít chỗ cho đời thực |
 | C | Khách **ở biệt thự liền** cả mùa, tập nối tập | không còn khoảng trống: Tsuna phải đi nhiệm vụ ban đêm, trong phòng. Thời gian nhiệm vụ trôi riêng nên vẫn làm được, nhưng mất Namimori |
 

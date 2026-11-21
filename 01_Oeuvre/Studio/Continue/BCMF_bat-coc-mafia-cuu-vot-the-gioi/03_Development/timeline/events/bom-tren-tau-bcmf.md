@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D1 chiều tối"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch4-ch6"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.edogawa-conan-bcmf", "character.BCMF.nguoi-dan-ong-mang-bom-bcmf", "character.BCMF.yoshida-ayumi-bcmf", "character.BCMF.kojima-genta-bcmf", "character.BCMF.tsuburaya-mitsuhiko-bcmf"]
 location: ["[[tau-dien-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Quả bom lỏng trên tàu

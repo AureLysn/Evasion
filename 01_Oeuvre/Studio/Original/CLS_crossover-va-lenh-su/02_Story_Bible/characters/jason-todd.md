@@ -72,7 +72,7 @@ Chưa có — chờ [[q-giong-aurel-do-o-dau]].
 
 ## Nhân vật này BIẾT gì
 
-Ở phía được chiếu, Jason **biết** 「người đó」 là Tsuna (nguoi-do-la-tsuna) và giọng không tên là Dazai (giong-khong-ten-la-dazai) — hai người là bạn hắn từ trước các sự kiện HSR ([[ba-nguoi-da-quen-o-phia-duoc-chieu]]).
+Ở phía được chiếu, Jason **biết** 「người đó」 là Tsuna và giọng không tên là Dazai — hai người là bạn hắn từ trước các sự kiện HSR ([[ba-nguoi-da-quen-o-phia-duoc-chieu]]).
 
 ## Quan hệ
 

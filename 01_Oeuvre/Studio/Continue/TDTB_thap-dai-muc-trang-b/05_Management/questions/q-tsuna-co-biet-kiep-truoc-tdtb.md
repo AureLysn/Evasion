@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc: "khung arc tong"
-  chapter: "truoc arc cuoi"
 decision_owner: "user"
 aliases: ["Tsuna co biet kiep truoc", "Tsuna co nho lai khong", "59 danh thuc ky uc thanh cong khong", "Tsuna biet minh la Juudaime"]
 related: ["[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
@@ -21,7 +18,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Tới cuối truyện, Tsuna có biết (hay nhớ) kiếp trước không?

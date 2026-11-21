@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: open
 importance: "major"
 introduced:
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch7"
 payoff:
   status: "unplanned"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Vongola Gear hút Lửa của 27 lúc 0 giờ

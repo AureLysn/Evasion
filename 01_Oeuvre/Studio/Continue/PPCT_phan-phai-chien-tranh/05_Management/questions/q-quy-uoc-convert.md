@@ -6,9 +6,6 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc lan convert dau tien (khong chan ban nhap tieng Trung)"
 decision_owner: user
 aliases: ["quy uoc convert PPCT", "ten rieng khi convert", "Thai Te hay 太宰", "ngoac kep tieng Viet", "cau tieng Trung giu nguyen khi convert"]
 related: ["[[viet-tieng-trung-roi-convert]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Chi tiết convert: tên riêng, ngoặc kép, câu giữ nguyên tiếng Trung

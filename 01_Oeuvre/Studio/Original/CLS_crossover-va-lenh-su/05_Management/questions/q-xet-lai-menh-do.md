@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "truoc khi chot q-aeon-len-ke-hoach-co-lenh-su"
-  chapter: "moi canh co suc manh menh do cua Akutagawa hoac Jason"
 decision_owner: user
 aliases: ["xet lai menh do", "xét lại mệnh đồ", "doi menh do Akutagawa", "doi menh do Jason", "Tsuna Hoa hop hay Bao ho", "Tsuna Hài hoà hay Bảo hộ", "Akutagawa menh do nao", "Jason menh do nao", "Path CLS"]
 related: ["[[CLS]]", "[[lech-su-la-suc-manh-menh-do]]", "[[q-aeon-len-ke-hoach-co-lenh-su]]", "[[20260913-menh-do-cua-tung-nhan-vat]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[luat-doi-xung-quan-he-ngang-hang]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Mệnh đồ của Akutagawa và Jason có nên đổi không?

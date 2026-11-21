@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-cp-all27-than-tinh-tdtb]]"
 resolved_at: 2026-09-26
-needed_before:
-  arc:
-  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["CP chinh", "CP chính", "互动 ??", "all27", "8027", "5927", "6927", "pairing TDTB", "Tsuna ghép với ai"]
 related: ["[[thiet-lap-tac-gia-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[h-80-doi-tuong-to-tinh-tdtb]]", "[[h-khach-moi-moi-deu-chon-tsuna-tdtb]]"]

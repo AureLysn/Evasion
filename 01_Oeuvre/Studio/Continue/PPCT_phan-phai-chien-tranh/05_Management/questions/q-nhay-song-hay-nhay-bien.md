@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc canh dau tien ke lai lan xuong nuoc dau tien cua Dazai kiep truoc"
+needed_before: "khi lap khung — truoc canh dau tien ke lai lan xuong nuoc dau tien cua Dazai kiep truoc"
 decision_owner: user
 aliases: ["nhay song hay nhay bien", "Tsurumi hay bien", "鹤见川 hay 海", "mau thuan tien truyen thuong ha"]
 related: ["[[dazai-khong-tim-thay-namimori]]", "[[dazai-kiep-truoc]]"]
@@ -19,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Lần đầu Dazai kiếp trước xuống nước — sông Tsurumi hay biển cạnh trường?

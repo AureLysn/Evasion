@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "arc 1 (Jason)"
-  chapter: "ch3 — doan phim toi doan Red Hood"
 decision_owner: user
 aliases: ["Jason thanh lenh su khi nao", "Jason thành lệnh sứ khi nào", "Jason thanh Canh Binh khi nao", "Boothill nhin Jason la nguoi cung nhom"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[lech-su-la-suc-manh-menh-do]]", "[[khung-aeon-hai-nhom]]", "[[Galaxy-Rangers]]"]
@@ -19,7 +16,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Jason thành **lệnh sứ Săn bắn** và **Cảnh Binh** khi nào, ở đâu?

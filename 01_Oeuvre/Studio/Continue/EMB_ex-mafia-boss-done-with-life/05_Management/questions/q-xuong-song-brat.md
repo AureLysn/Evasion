@@ -8,9 +8,6 @@ branch: aurel-main
 canon_layer: planned
 status: resolved
 resolved_by: decision.EMB.emb-chot-goc-khung-moi
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "khung rieng arc Brat"
 decision_owner: user
 aliases: ["xuong song Brat con dung khong", "hoc lam tre con", "thang do bon muc Brat", "Brat ket bang gi"]
 related: ["[[emb-chot-xuong-song-brat]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
@@ -23,7 +20,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Xương sống arc Brat — *"học làm trẻ con"* còn đứng không?

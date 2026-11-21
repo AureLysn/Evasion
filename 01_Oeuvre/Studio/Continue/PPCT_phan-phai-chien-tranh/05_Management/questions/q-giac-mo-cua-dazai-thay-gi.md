@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: giac-mo-dazai-chi-la-ky-uc-cua-tsuna
-needed_before:
-  arc:
-  chapter: "giac mo tiep theo cua Dazai"
 decision_owner: user
 aliases: ["giac mo cua Dazai thay gi", "Dazai mo ky uc cua Tsuna", "lien ket giac mo Master Servant PPCT", "前世最后一个梦", "Dazai co mo thay dam tang the gioi A khong"]
 related: ["[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-thay-cai-chet-cua-tsuna]]", "[[Master-Servant-Dream]]"]

@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 > 🔴 **Luật dùng, chốt 22/09/2026 — [[emb-chot-danh-xung-chuc-va-nguyen-to]]**: bảng này giờ chỉ dùng cho **chức danh, tên nghi lễ, lời trang trọng**. Gọi **nguyên tố** thì dùng hệ canon *(Sky · Rain · Storm · Cloud · Mist · Sun · Lightning)*, ở mọi tầng kể cả thoại. Áp dụng từ Child Ch2 bản viết lại. Dòng *phạm vi 19/09* ngay dưới **đã bị thay**, giữ để tra.
 
-> 🔴 **Phạm vi, chốt 19/09/2026** — emb-chot-danh-xung-theo-lanh-tho ⛔: bảng này áp dụng cho **người Namimori** và **trong lãnh thổ Namimori**. Ngoài đó, hoặc với người không phải dân Namimori, dùng **tiếng Anh bình thường**: Sky · Rain · Storm · Cloud · Mist · Sun · Lightning.
+> 🔴 **Phạm vi, chốt 19/09/2026** — [[emb-chot-danh-xung-chuc-va-nguyen-to]]: bảng này áp dụng cho **người Namimori** và **trong lãnh thổ Namimori**. Ngoài đó, hoặc với người không phải dân Namimori, dùng **tiếng Anh bình thường**: Sky · Rain · Storm · Cloud · Mist · Sun · Lightning.
 
 > Đây là **hệ thống riêng của fic**, không phải canon KHR. Nó thay toàn bộ cách gọi Storm/Rain/Sun/… bằng tên Nhật. Sai bảng này là sai **mọi lần gọi tên nhân vật trong mọi chương**.
 

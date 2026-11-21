@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc canh dau tien Cuon Sach len trang"
+needed_before: "khi lap khung — truoc canh dau tien Cuon Sach len trang"
 decision_owner: user
 aliases: ["Dazai nhat sach khi nao", "Cuon Sach dang o dau PPCT", "Mori biet ve Sach khong", "［书］暂且不提"]
 related: ["[[fact-dazai-nhat-sach-thay-kiep-truoc]]", "[[The-Book]]", "[[mori]]"]
@@ -19,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Dazai nhặt Cuốn Sách khi nào, và Sách đang ở đâu?

@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "phien-ngoai-yokohama"
-  chapter: "chi khi giu mach Arcobaleno/Yokohama — truoc dan y phien ngoai dau tien co Akutagawa"
+needed_before: "khi lap khung — chi khi giu mach Arcobaleno/Yokohama"
 decision_owner: user
 aliases: ["Akutagawa gap Tsuna", "Tsuna nuoi Akutagawa", "Akutagawa truoc Checker Face", "thu tu Akutagawa va Checker Face"]
 related: ["[[lam-lai-tu-nguon]]", "[[PPCT]]"]
@@ -19,7 +17,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-29
+last_updated: 2026-11-21
 ---
 
 # Akutagawa gặp Tsuna trước hay sau khi Checker Face xuất hiện?
@@ -34,7 +32,7 @@ Thứ tự quyết định Akutagawa lớn lên dưới ảnh hưởng của Tsu
 
 Arc: phiên ngoại Yokohama · Chương: **chỉ khi** giữ mạch Arcobaleno/Yokohama — trước dàn ý phiên ngoại đầu tiên có Akutagawa
 
-> *29/09/2026 — Aurel đồng ý đổi `needed_before` (cũ: "dàn ý phần tiếp · trước khi khóa dàn ý mới"). Arc 1–5 đã khoá và arc 6 được lập mà không chạm câu này — arc-6-co-xe-gia.*
+> *29/09/2026 — Aurel đồng ý đổi `needed_before` (cũ: "dàn ý phần tiếp · trước khi khóa dàn ý mới"). Dàn ý arc cũ đã xóa khi reset 21/11/2026.*
 
 ## Ai quyết
 

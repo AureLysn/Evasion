@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "truoc khi dung khung arc — co mon no mau nao treo lo lung hay khong"
 decision_owner: user
 aliases: ["cai gia cua loi tien tri", "Hibari Sakura chet vi dau", "Nana khong du quan tam", "F3 dot 7"]
 related: [ "[[fact-loi-tien-tri-muoi]]", "[[fact-hibari-sakura]]", "[[nana]]"]
@@ -25,7 +22,7 @@ last_updated: 2026-11-21
 
 # Lời tiên tri có đòi một cái giá thật không?
 
-> ✅ **ĐÃ CHỐT 17/09/2026** — emb-chot-khung-arc mục 4. **Không có cái giá thật**; Hibari Sakura chết vì sức khoẻ và thiếu chăm sóc sau sinh. Phần dưới giữ để truy vết.
+> ✅ **ĐÃ CHỐT 17/09/2026** — khung arc cũ mục 4 *(note đã xóa khi reset; nội dung giữ ở đây)*. **Không có cái giá thật**; Hibari Sakura chết vì sức khoẻ và thiếu chăm sóc sau sinh. Phần dưới giữ để truy vết.
 
 > ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 

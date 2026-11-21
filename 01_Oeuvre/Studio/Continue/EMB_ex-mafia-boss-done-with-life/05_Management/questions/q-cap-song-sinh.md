@@ -7,7 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before: "giai doan Child"
 owner: user
 aliases: ["cap song sinh", "hai OC Lightning", "ten cap song sinh", "loai yeu quai nuoi", "ai hoa hop truoc", "nha am duong su", "mot cai ten khong the chua hai su that"]
 related: ["[[khung-oc]]", "[[ke-cuop-co-dau]]", "[[rule-danh-xung-flame]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[trope-fandom]]"]

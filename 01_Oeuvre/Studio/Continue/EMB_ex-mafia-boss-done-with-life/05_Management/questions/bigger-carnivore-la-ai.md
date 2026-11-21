@@ -6,9 +6,6 @@ lane: personal
 project: EMB
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: brat
-  chapter: 6
 decision_owner: ai-suggest
 aliases: ["bigger carnivore", "ke an thit lon hon", "ai day Kyouya", "false carnivores"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[kyouya-loai-chu-chot]]"]
@@ -37,8 +34,6 @@ POV Kyouya nhắc hai lần tới **"bigger carnivore"**:
 Văn bản không cho tên. Nhưng nhân vật này đang **định hình hành vi của Kyouya với Tsuna**, nên viết Kyouya mà không biết đây là ai là viết mù.
 
 ## Cần chốt trước
-
-Arc: brat · Chương: **6** — chương Kyouya theo dàn ý cũ.
 
 ## Ai quyết
 

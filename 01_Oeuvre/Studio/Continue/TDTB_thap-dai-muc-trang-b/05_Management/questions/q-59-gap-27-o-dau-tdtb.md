@@ -6,9 +6,7 @@ lane: personal
 project: TDTB
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
+needed_before: "khi lap khung"
 decision_owner: "user"
 aliases: ["59 gap 27 o dau", "Gokudera gap Tsuna khi nao", "cuoc gap Gokudera Tsuna TDTB", "huong khac cua Aurel cho Gokudera", "Gokudera len show khi nao"]
 related: [ "[[h-gokudera-thay-livestream-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]"]

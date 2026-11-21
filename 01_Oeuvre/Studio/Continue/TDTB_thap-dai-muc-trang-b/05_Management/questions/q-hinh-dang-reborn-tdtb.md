@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-reborn-tre-so-sinh-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "canh dau tien co Reborn"
 decision_owner: "user"
 aliases: ["hinh dang Reborn", "Reborn người lớn", "Reborn trẻ sơ sinh", "Arcobaleno lời nguyền"]
 related: ["[[reborn-tdtb]]", "[[arcobaleno-tdtb]]", "[[verde-tdtb]]"]

@@ -17,7 +17,7 @@ confidence: 1.0
 always_load: false
 load_for: [writer, planner, continuity-reviewer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Khung Aeon: **hai nhóm**, Aeon **nhặt** một nhóm và **cướp** nhóm kia
@@ -90,5 +90,5 @@ chưa cần và cũng không vi phạm luật"*.
 | Mốc **trước canon** cụ thể của nhóm đi tìm | chưa đối chiếu canon |
 | **Aeon và phe có khối POV không** — ✅ chốt 03/10: không, kể qua người xem | [[pov-phan-aeon-qua-nguoi-xem]] |
 | Mệnh đồ của **Dazai** và Jason — ✅ chốt 03/10: Dazai Ký ức · Jason Săn bắn | [[lech-su-la-suc-manh-menh-do]] |
-| Mở bằng một mình Tsuna? — ✅ chốt 03/10: Jason → Dazai → Tsuna | arc-mo-dau-jason-dazai-tsuna |
+| Mở bằng một mình Tsuna? — chốt 03/10 đã xóa khi reset 21/11/2026; mở lại | [[q-tsuna-truoc-mot-minh]] |
 | Thêm lệnh sứ về sau | [[q-them-lenh-su-ve-sau]] |

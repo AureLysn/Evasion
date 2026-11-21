@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D1 tối"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch6-ch7"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.natsu-bcmf"]
 location: ["[[tau-dien-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # 27 bay trên Tokyo, gọi Natsu

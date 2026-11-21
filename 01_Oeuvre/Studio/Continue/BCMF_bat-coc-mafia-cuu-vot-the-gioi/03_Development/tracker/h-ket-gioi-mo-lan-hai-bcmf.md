@@ -8,7 +8,7 @@ canon_layer: author_confirmed
 status: open
 importance: "medium"
 introduced:
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch10"
 payoff:
   status: "unplanned"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Kết giới Tri-ni-Sette mở lại — và lời tiên tri của Uni

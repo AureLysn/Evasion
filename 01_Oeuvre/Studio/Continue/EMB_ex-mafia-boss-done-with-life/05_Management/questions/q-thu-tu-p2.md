@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "truoc analyze-drop-point — quyet dinh diem dung that la cuoi P2 Ch1 hay P2 Ch2"
 decision_owner: user
 aliases: ["thu tu P2", "P2 Ch1 xay ra sau P2 Ch2", "diem dung that", "Kawahira ben trai hay phai", "vi sao fic bi drop"]
 related: [ "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[hai-su-kien-p2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[20260916-p2-ch1]]", "[[ao3-tra-loi-tac-gia]]", "[[20260916-p2-ch2]]", "[[tsuna-dam-phan-kawahira]]"]

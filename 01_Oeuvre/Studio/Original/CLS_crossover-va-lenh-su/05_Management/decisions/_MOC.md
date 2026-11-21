@@ -36,3 +36,13 @@ last_updated: 2026-11-21
 | [[doi-truc-bsd-akutagawa-sang-dazai]] — nhân vật trục BSD là **Dazai**; Akutagawa ở lại làm nhân vật phụ | 28/09/2026 |
 | [[khung-aeon-hai-nhom]] — khung Aeon: nhóm bị chiếu *(nhân vật trục)* và nhóm Aeon đi tìm; năm thế giới | 25/09/2026 |
 | [[ba-nguoi-da-quen-o-phia-duoc-chieu]] — ở phía được chiếu ba người đã quen nhau từ trước các sự kiện HSR; Đội tàu trên phim biết Tsuna và Dazai; luật 「hiểu ngầm」 | 04/10/2026 |
+| [[khung-chieu-xem-gop]] — khung chiếu → xem → gộp | 03/10/2026 |
+| [[hai-vong-chieu]] — chiếu hai vòng: sự kiện của cả ba trước, thế giới cũ của cả ba sau | 03/10/2026 |
+| [[quy-mo-arc-khep-kin]] — arc khép kín 8–12 chương, không chốt tổng số | 03/10/2026 |
+| [[pov-phan-aeon-qua-nguoi-xem]] — Aeon và phe không có khối POV; kể qua người HSR đang xem | 03/10/2026 |
+| [[jason-lenh-su-tu-the-gioi-gop]] — Jason là lệnh sứ Săn bắn từ thế giới gộp; thành Cảnh Binh sau | 03/10/2026 |
+| [[bo-khung-nang-luc-da-mat]] — bỏ khung 「mỗi người mất một năng lực」; giữ ba nét tính cách | 03/10/2026 |
+| [[giong-van-pho-thong-khong-nhai-ai]] — văn xuôi phổ thông, không nhại ai | 04/10/2026 |
+| [[cls-viet-bang-tieng-trung]] — viết thành phẩm bằng tiếng Trung giản thể | 12/10/2026 |
+| [[luc-chien-lenh-su-manh-va-day-kinh-nghiem]] — lệnh sứ rất mạnh, rất dày kinh nghiệm | 21/10/2026 |
+| [[tuong-tac-xen-ke-voi-nhan-vat-canon]] — tương tác với nhân vật canon, viết xen kẽ | 22/10/2026 |

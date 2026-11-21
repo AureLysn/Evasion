@@ -9,7 +9,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[emb-chot-thay-thuoc]]"
 resolved_at: 2026-09-17
-needed_before: "arc Brat"
 owner: user
 aliases: ["thay thuoc gia dinh", "bac si gia dinh", "thay thuoc nha Sawada", "POV chuong 1 Brat", "nguoi lon binh thuong dau tien"]
 related: ["[[emb-chot-thay-thuoc]]", "[[genichi]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[fact-loi-flame]]", "[[musashi]]", "[[indra]]"]

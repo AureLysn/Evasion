@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "arc 1 (Jason)"
-  chapter: "van xuoi ch3 canh 02, va moi canh danh sau do (ch6, ch7)"
 decision_owner: user
 aliases: ["suc manh San ban cua Jason", "sức mạnh Săn bắn của Jason", "Jason lenh su trong ra sao", "da chon muc tieu thi khong truot"]
 related: ["[[CLS]]", "[[lech-su-la-suc-manh-menh-do]]", "[[jason-lenh-su-tu-the-gioi-gop]]", "[[Lan]]"]
@@ -19,7 +16,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-04
+last_updated: 2026-11-21
 ---
 
 # Sức mạnh Săn bắn của Jason trông thế nào?

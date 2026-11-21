@@ -17,7 +17,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Quyết định — CLS chia thành **arc khép kín 8–12 chương**, không chốt tổng số
@@ -29,7 +29,6 @@ last_updated: 2026-10-03
 | **Đơn vị** | Arc **khép kín 8–12 chương**; mỗi arc đóng một tuyến và mở một tuyến |
 | **Luật sinh chương** | Một chương chỉ được tồn tại nếu nó **đẩy ít nhất một tuyến nhân vật trục** tiến lên. **Không có chương đệm** |
 | **Tổng độ dài** | Không chốt con số. **Viết bao nhiêu arc** quyết **sau arc đầu tiên** |
-| **Ba arc đầu** | Jason → Dazai → Tsuna — arc-mo-dau-jason-dazai-tsuna |
 
 Ràng buộc đi kèm, đã có từ trước: **ngưỡng 4** *(mỗi nhân vật trục ≥ 1 khối đóng trọn tuyến, chênh ≤ 1,5 lần)* —
 [[luat-doi-xung-quan-he-ngang-hang]]. Luật **1b** và **1c** ở [[q-quy-mo-cls]] vẫn là **đề xuất**, chưa chốt ở đây.

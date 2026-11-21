@@ -17,7 +17,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, gap-dot8m]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # P2 Ch2 — **sáu thứ đáng giữ nhất**
@@ -54,7 +54,7 @@ Cấu trúc cảnh là **câu cá**, chính Tsuna đánh dấu: *Hook* → *Line
 
 Cả thị trấn ra đường dự lễ **mang theo hoả lực hạng nặng**, phòng khi Vongola tới phá — và Namimori tự mô tả mình là **nơi quái vật tới ngủ**.
 
-→ Nếu nhánh cần một arc mà cả thị trấn âm thầm làm khó người của Vongola thì **không phải bịa động cơ**: nó có sẵn. *(Đề xuất arc là của y-chinh-cac-arc, không phải của chương.)*
+→ Nếu nhánh cần một arc mà cả thị trấn âm thầm làm khó người của Vongola thì **không phải bịa động cơ**: nó có sẵn. *(Đề xuất arc thuộc về khung arc, không phải của chương.)*
 
 ## 5. Kyouya nghĩ bằng **sinh thái học**
 
@@ -80,4 +80,4 @@ Tenmei-sama nhỏ xíu trên chiếc kiệu to; các bậc cha mẹ trong đám 
 
 ## 📌 Ghi chú về chính note này
 
-Bản cũ mở đầu bằng một *gate độ phủ* đếm theo dòng của một bản chuyển đổi, và xen ba đề xuất arc vào giữa các dữ kiện chương. Cả hai đã được gỡ: **độ phủ giờ đo bằng năm sổ đối chiếu**, và đề xuất arc **thuộc về y-chinh-cac-arc**. Bài học gốc thì vẫn đứng — chong-loi-dung-som: **phần chưa đọc chứa thứ quan trọng nhất**, và ở đây nó là [[fact-hibari-sakura]].
+Bản cũ mở đầu bằng một *gate độ phủ* đếm theo dòng của một bản chuyển đổi, và xen ba đề xuất arc vào giữa các dữ kiện chương. Cả hai đã được gỡ: **độ phủ giờ đo bằng năm sổ đối chiếu**, và đề xuất arc **thuộc về khung arc**. Bài học gốc thì vẫn đứng: **phần chưa đọc chứa thứ quan trọng nhất**, và ở đây nó là [[fact-hibari-sakura]].

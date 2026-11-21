@@ -27,10 +27,11 @@ last_updated: 2026-11-21
 
 | Câu hỏi | Chặn cái gì | Ai quyết |
 |---|---|---|
-| [[q-can-bang-suc-manh]] — có cần luật cân sức mạnh giữa ba lệnh sứ không | cảnh đầu tiên so sức mạnh — 04/10: Aurel — **không buộc** arc 1 *(hỗ trợ khác tham gia)* | Aurel |
+| [[q-can-bang-suc-manh]] — có cần luật cân sức mạnh giữa ba lệnh sứ không | cảnh đầu tiên so sức mạnh — 04/10: Aurel — **không buộc** *(hỗ trợ khác tham gia)* | Aurel |
 | [[q-them-lenh-su-ve-sau]] — thêm lệnh sứ về sau theo kiểu nào | arc đầu tiên có lệnh sứ mới — không chặn chương 1 | Aurel |
-| [[q-ke-ngoai-lai-jason-va-crime-alley]] — kẻ ngoại lai ở Gotham và trẻ Crime Alley | arc Jason về Gotham *(vòng 2)* | Aurel |
-| [[q-quen-truoc-hay-sau-khi-bi-thay-cho]] — ba người quen nhau trước hay sau khi bị thay chỗ | đại cương vòng 2 | Aurel |
+| [[q-ke-ngoai-lai-jason-va-crime-alley]] — kẻ ngoại lai ở Gotham và trẻ Crime Alley | khi lập khung | Aurel |
+| [[q-quen-truoc-hay-sau-khi-bi-thay-cho]] — ba người quen nhau trước hay sau khi bị thay chỗ | khi lập khung | Aurel |
+| [[q-tsuna-truoc-mot-minh]] — mở bằng một mình Tsuna *(chốt 03/10 đã xóa khi reset 21/11/2026)* | khi lập khung | Aurel |
 
 ## Đã giải quyết
 
@@ -43,9 +44,8 @@ last_updated: 2026-11-21
 | [[q-xet-lai-menh-do]] — mệnh đồ của Dazai và Jason *(03/10: Dazai Ký ức, Jason Săn bắn)* | [[lech-su-la-suc-manh-menh-do]] |
 | [[q-quy-mo-cls]] — truyện dài bao nhiêu chương | [[quy-mo-arc-khep-kin]] |
 | [[q-aeon-va-phe-co-khoi-pov]] — Aeon và phe có khối POV không | [[pov-phan-aeon-qua-nguoi-xem]] |
-| [[q-tsuna-truoc-mot-minh]] — mở bằng một mình Tsuna *(03/10: ngược lại — Jason → Dazai → Tsuna)* | arc-mo-dau-jason-dazai-tsuna |
 | [[q-ba-nguoi-quen-nhau-o-the-gioi-gop]] — ba người có quen nhau không *(04/10: ở phía được chiếu **đã quen**; ở ba thế giới chưa dung hợp thì không)* | [[ba-nguoi-da-quen-o-phia-duoc-chieu]] |
-| [[q-nhan-vat-nguoi-choi-la-ai]] — nhân vật người chơi *(04/10: Stelle)* | arc-1-chot-sau-plan-reviewer |
-| [[q-suc-manh-san-ban-cua-jason]] — sức mạnh Săn bắn *(04/10: đã chọn thì không trượt)* | arc-1-the-canh-da-duyet |
+| [[q-nhan-vat-nguoi-choi-la-ai]] — nhân vật người chơi *(04/10: Stelle)* | trong note *(note chốt cũ đã xóa khi reset)* |
+| [[q-suc-manh-san-ban-cua-jason]] — sức mạnh Săn bắn *(04/10: đã chọn thì không trượt)* | trong note *(note chốt cũ đã xóa khi reset)* |
 | [[q-giong-aurel-do-o-dau]] — đo giọng Aurel từ đâu *(04/10: không dùng giọng Aurel)* | [[giong-van-pho-thong-khong-nhai-ai]] |
 | [[q-jason-thanh-lenh-su-khi-nao]] — Jason thành lệnh sứ và Cảnh Binh khi nào *(03/10: lệnh sứ từ thế giới gộp, Cảnh Binh sau)* | [[jason-lenh-su-tu-the-gioi-gop]] |

@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-pham-vi-universe-tdtb]]"
 resolved_at: 2026-09-26
-needed_before:
-  arc: "crossover-contract"
-  chapter: "truoc khi lap khung"
 decision_owner: "user"
 aliases: ["Kimetsu co mat den dau", "crossover Kimetsu", "鬼灭等", "Quỷ diệt 3.0", "Illumi là ai", "综漫 phạm vi", "Muzan quay lại"]
 related: ["[[nhiem-vu-quy-diet-2-tdtb]]", "[[kibutsuji-muzan-tdtb]]", "[[illumi-zoldyck-tdtb]]", "[[h-muzan-uc-cat-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]"]

@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-11-09
+last_updated: 2026-11-21
 ---
 
 # Drop Point — Untouchable (UNTCH)
@@ -1319,7 +1319,7 @@ nếu không sẽ lệch giọng ngay lập tức. Ghi chéo sang `van-phong-unt
 | Note | Trạng thái | Kết quả |
 |---|---|---|
 | [[q-cha-cua-theodor]] | ✅ `resolved` 31/08 | Kawahira ⇒ [[pq05-cha-cua-theodor-la-kawahira]] |
-| [[q-xanxus-va-endeavor]] | ✅ `resolved` 31/08 | Đúng ⇒ pq04-xanxus-la-em-cung-cha-cua-endeavor |
+| [[q-xanxus-va-endeavor]] | ✅ `resolved` 31/08 | Đúng ⇒ [[pq04-xanxus-la-con-trai-cua-endeavor]] |
 | [[q-izuku-va-cai-chet-bakugo]] | ⏸️ `unresolved` — **cố ý để treo** | Giữ `derived 0.5`. **Tránh chạm tới khi viết**: không khẳng định, không phủ định, để ngỏ |
 
 ⚠️ Hai note đã `resolved` **được giữ nguyên, không xoá** (invariant #3) — chúng ghi *cách* kết

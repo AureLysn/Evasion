@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: viet-tieng-trung-roi-convert
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong viet tiep dau tien (write-chapter); he so quy doi can truoc khi plan-continuation dat ngan sach canh"
 decision_owner: user
 aliases: ["ngon ngu ban viet tiep PPCT", "viet tieng Trung hay tieng Viet", "xung ho convert PPCT", "ta nguoi han nang", "he so quy doi chu Han sang tieng Viet", "giu ten 太宰 纲吉 trong thoai"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[lam-lai-tu-nguon]]"]
@@ -20,7 +17,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Phần viết tiếp viết bằng ngôn ngữ nào, xưng hô ra sao?

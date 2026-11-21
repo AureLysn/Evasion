@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: nguyen-vong-to-caster-de-ngo
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong viet tiep dau tien"
 decision_owner: user
 aliases: ["nguyen vong Chen Thanh cua to Caster", "Tsuna muon gi o Chen Thanh", "Dazai muon gi o Chen Thanh", "o ben gia dinh", "我想多陪陪我的家人"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[hook-menh-lenh-cua-mori]]", "[[q-gia-toc-cua-tsuna-o-the-gioi-b]]", "[[van-dap-nguyen-vong-saber-nam-tay]]"]
@@ -20,7 +17,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Tổ Caster thật sự muốn gì từ Chén Thánh?

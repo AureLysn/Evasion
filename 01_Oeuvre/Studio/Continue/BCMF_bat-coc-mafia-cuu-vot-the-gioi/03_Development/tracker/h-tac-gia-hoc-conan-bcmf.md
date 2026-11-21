@@ -8,7 +8,7 @@ canon_layer: author_confirmed
 status: open
 importance: "minor"
 introduced:
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch3"
 payoff:
   status: "unplanned"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Tác giả định đọc Magic Kaito và Cảnh giáo tổ để viết

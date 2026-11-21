@@ -6,9 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: unresolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong dau tien co Shibusawa"
+needed_before: "khi lap khung — truoc chuong dau tien co Shibusawa"
 decision_owner: user
 aliases: ["Bach Ki Lan", "Bạch Kì Lân", "Shibusawa Tatsuhiko biet danh", "ten goi Shibusawa ban convert"]
 related: ["[[lam-lai-tu-nguon]]", "[[PPCT]]"]
@@ -19,7 +17,7 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # «Bạch Kì Lân» dùng làm gì trong phần tiếp?

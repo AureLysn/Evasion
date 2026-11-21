@@ -6,9 +6,6 @@ lane: personal
 project: EMB
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: brat
-  chapter: 3
 decision_owner: user
 aliases: ["ong tre giai quyet gi", "problem la gi", "your problem", "van de cua Tsuna"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[ong-tre]]", "[[fact-loi-flame]]"]

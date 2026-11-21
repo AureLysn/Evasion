@@ -16,7 +16,7 @@ payoff:
   chapter: null
   via: null
 aliases: ["0038 kiem tra loi", "0038 tra thiếu sót", "vì sao Yamamoto thích Tsuna", "bug check 0038", "漏洞查找", "数据正常，未发现漏洞", "ket qua tra loi 0038"]
-related: ["[[he-thong-0038-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[h-chi-nam-nhiem-vu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
+related: ["[[he-thong-0038-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[h-chi-nam-nhiem-vu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch14"

@@ -20,12 +20,12 @@ authority: ai
 confidence: 0.0
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Omake 01 — *The Other One*
 
-> ⚠️ **Ngoại truyện, `canon_layer: experimental`.** Không thuộc arc-01-menh-lenh, không tiêu
+> ⚠️ **Ngoại truyện, `canon_layer: experimental`.** Không thuộc arc nào, không tiêu
 > payoff nào của arc, và **không phải canon của nhánh**. Đây là **bản thử giọng**.
 >
 > 🔴 **Ràng buộc đã tuân:** không trả lời câu hỏi về Bakugo ([[q-izuku-va-cai-chet-bakugo]] cố ý

@@ -16,7 +16,7 @@ confidence: 0.85
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structure, tropes]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Trope — dùng thẳng, đảo, và bẻ
@@ -182,4 +182,4 @@ Mỗi mục: dựng gì · người đọc chờ gì · điều xảy ra · tác
 
 ## Chưa đọc
 
-Luật chuyển POV trong một chương *(P2 Ch2 có sáu POV — đếm được, chưa tìm ra luật)* · tỉ lệ tường thuật / thoại / chú thích theo cảnh · trope trong 6 chương AI bản v3 *(đã superseded, chưa đối chiếu với bảng này)*
+Luật chuyển POV trong một chương *(P2 Ch2 có sáu POV — đếm được, chưa tìm ra luật)* · tỉ lệ tường thuật / thoại / chú thích theo cảnh

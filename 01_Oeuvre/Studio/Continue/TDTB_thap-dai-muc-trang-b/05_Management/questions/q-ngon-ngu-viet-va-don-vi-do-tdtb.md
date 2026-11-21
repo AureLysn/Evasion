@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-27
-needed_before:
-  arc:
-  chapter: "truoc khi viet chuong dau tien (write-chapter) va truoc khi lap ai-tells.md / khoi gate:"
 decision_owner: "user"
 aliases: ["ngon ngu viet TDTB", "viet tieng Trung hay tieng Viet", "don vi do TDTB", "chu Han hay am tiet", "quy doi zh vi TDTB", "0.928"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[nguyen-van-zh-tdtb]]", "[[ban-convert-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]"]

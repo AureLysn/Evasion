@@ -7,9 +7,6 @@ project: EMB
 branch: aurel-main
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-moi"
-  chapter: "truoc khi xep tuyen Xanxus vao khung arc"
 decision_owner: user
 aliases: ["Xanxus la Storm cua Tsuna", "bat coc Xanxus sau Cradle", "Flame of Wrath thuoc tinh gi", "F1 dot 7"]
 related: [ "[[tuyen-xanxus]]"]
@@ -25,7 +22,7 @@ last_updated: 2026-11-21
 
 # Xanxus có phải Storm của Tsuna không?
 
-> ✅ **ĐÃ CHỐT 17/09/2026** — emb-chot-khung-arc mục 2. **Giữ [[tuyen-xanxus]]**: hoà hợp hai chiều, Xanxus **không** là Storm của Tsuna, **Fon là Storm chính**. Phần dưới giữ để truy vết.
+> ✅ **ĐÃ CHỐT 17/09/2026** — khung arc cũ mục 2 *(note đã xóa khi reset; nội dung giữ ở đây)*. **Giữ [[tuyen-xanxus]]**: hoà hợp hai chiều, Xanxus **không** là Storm của Tsuna, **Fon là Storm chính**. Phần dưới giữ để truy vết.
 
 > ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 

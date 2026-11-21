@@ -69,7 +69,7 @@ góp phần giải. Hướng: cứu rỗi và ràng buộc lẫn nhau ba chiều
 ## Quy mô
 
 Chuẩn thể loại: mỗi phó bản 20–40 chương. **Sửa 06/09/2026:** đơn vị đầu tiên không phải một
-phó bản — là **sân sàng lọc, 8 chương, đã khoá** (xem [[sang-loc-mo-dau-note]], [[loai-pho-ban]]). Phó
+phó bản — là **sân sàng lọc, 8 chương, đã khoá** (xem [[sang-loc-mo-dau-note]], [[loai-pho-ban]]). *(Dàn ý arc đã xóa khi reset 21/11/2026; thiết kế gốc còn.)* Phó
 bản 1 thật (18–22 chương đào nhân vật, đề xuất ban đầu) đến sau, bối cảnh chưa thiết kế. Mục
 tiêu mỗi chương 2.000–3.000 → **2.000–3.500 từ** (nới trần 12/09/2026, Aurel; nguồn gốc: `sources/nguon-aurel-tra-loi.md` — lời Aurel).
 

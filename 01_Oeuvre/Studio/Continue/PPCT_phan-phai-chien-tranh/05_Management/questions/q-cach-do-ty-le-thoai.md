@@ -7,9 +7,6 @@ project: PPCT
 canon_layer: planned
 status: resolved
 resolved_by: thoai-la-cau-trong-ngoac-kep
-needed_before:
-  arc: "style"
-  chapter: "truoc khi viet targets.md cho PPCT"
 decision_owner: user
 aliases: ["cach do ty le thoai", "thoai bao nhieu phan tram", "do thoai ban convert", "45-60% thoai", "dialogue ratio PPCT"]
 related: ["[[lam-lai-tu-nguon]]", "[[PPCT]]"]
@@ -20,7 +17,7 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Tỷ lệ thoại đo bằng gì, và chỉ tiêu là bao nhiêu?

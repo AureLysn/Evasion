@@ -8,9 +8,6 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[qd-tranh-chi-tiet-mua-tdtb]]"
 resolved_at: 2026-09-28
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["truong va hoc ky", "trường của Tsuna", "đại học hay cao đẳng", "khai giảng", "4 nguyệt 1 hào", "mốc thời gian show"]
 related: ["[[truong-tu-nhan-36-tdtb]]", "[[loc-da-tuyet-chuyen-truong-tdtb]]"]

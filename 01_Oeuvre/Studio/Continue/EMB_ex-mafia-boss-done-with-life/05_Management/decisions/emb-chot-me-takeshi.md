@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 # Chốt — ai quyết ở vụ Yamamoto, và bà tên gì
 
-> 🔁 **01/10/2026 — mở lại một phần**. **Giữ:** mục 2, tên **Yamamoto Sachiko** và hồ sơ [[sachiko]]. **Mở lại:** mục 1 *(ai quyết trên trang)* — nó gắn cảnh 2.2 của dàn ý đã lưu trữ; nay là câu hỏi q-me-takeshi-ai-quyet.
+> 🔁 **01/10/2026 — mở lại một phần**. **Giữ:** mục 2, tên **Yamamoto Sachiko** và hồ sơ [[sachiko]]. **Mở lại:** mục 1 *(ai quyết trên trang)* — nó gắn với dàn ý đã xóa khi reset; nay là câu hỏi [[q-me-takeshi-ai-quyet]].
 
 ## Quyết định
 

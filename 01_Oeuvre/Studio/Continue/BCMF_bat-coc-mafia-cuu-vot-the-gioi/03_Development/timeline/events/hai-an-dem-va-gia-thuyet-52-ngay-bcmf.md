@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: occurred
 date:
   story_day: "D2, ~1 giờ sáng"
-  arc: "arc-1-tokyo"
+  arc: null
   chapter: "ch14-ch16"
 participants: ["character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.basil-bcmf", "character.BCMF.kozato-enma-bcmf", "character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[khach-san-bcmf]]"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Hai án nữa trên đường về khách sạn; giả thuyết 52 ngày

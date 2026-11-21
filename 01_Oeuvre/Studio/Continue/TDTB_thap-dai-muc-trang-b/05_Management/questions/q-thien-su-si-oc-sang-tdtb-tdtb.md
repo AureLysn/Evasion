@@ -6,9 +6,6 @@ lane: personal
 project: TDTB
 canon_layer: planned
 status: resolved
-needed_before:
-  arc:
-  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["thien su SI OC sang TDTB", "persona SI OC TDTB", "nhan vat si cua Aurel trong TDTB"]
 related: [ "[[qd-dong-doi-tu-fandom-khac-tdtb]]"]

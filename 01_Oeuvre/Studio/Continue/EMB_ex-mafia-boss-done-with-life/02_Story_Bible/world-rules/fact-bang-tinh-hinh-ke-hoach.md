@@ -35,7 +35,7 @@ Và trong cả đoạn kiểm kê dài này, **cậu không xuất hiện một 
 
 | Người | Trạng thái | Nguyên văn |
 |---|---|---|
-| **Nagi / Chrome** | ✅ đã cứu | *"the Estraneo was dealt with. **Just like Chrome's parents.**"* — và *"he had managed to get to her fast enough that **she hadn't lost her organs**"*. ⚠️ `dealt with` **mở** — xem nagi-khong-biet-chuyen-cha-me ⛔ |
+| **Nagi / Chrome** | ✅ đã cứu | *"the Estraneo was dealt with. **Just like Chrome's parents.**"* — và *"he had managed to get to her fast enough that **she hadn't lost her organs**"*. ⚠️ `dealt with` **mở** — xem [[q-cha-me-nagi]] |
 | **Mukuro** | ✅ an toàn | *"safe and as Mukuro as possible, practically **devouring Kawahira's lessons**"* |
 | **Mẹ Takeshi** | 🟡 còn sống, đang canh | *"**Takeshi's mom was still alive**, and he had asked some of the Hibari to be on the lookout for the assassins that had murdered her **last time around**"* |
 | **Lavinia** *(mẹ Hayato)* | ❌ **không cứu được** | *"There was **no way** he could've saved Lavinia"* |
@@ -45,7 +45,7 @@ Và trong cả đoạn kiểm kê dài này, **cậu không xuất hiện một 
 
 🟡 **Fūta có tên trong văn bản** — nhưng chương **không nói** cậu bé chính là *đứa trẻ nhà Saint-Exavier* mà [[tomoko]] kể. Nối hai câu là **suy luận mạnh**, xem [[hook-dua-tre-saint-exavier]] và [[20260916-p2-ch1]] mục K6.
 
-⚠️ **`dealt with` không có nghĩa là giết.** Bản đầu của note này đọc *"Just like Chrome's parents"* thành *Tsuna giết họ*. Aurel bác, và Aurel đúng — chi tiết ở nagi-khong-biet-chuyen-cha-me ⛔. Nhánh chốt: **can thiệp bằng Mist, không giết**.
+⚠️ **`dealt with` không có nghĩa là giết.** Bản đầu của note này đọc *"Just like Chrome's parents"* thành *Tsuna giết họ*. Aurel bác, và Aurel đúng — chi tiết ở [[q-cha-me-nagi]]. Nhánh chốt: **can thiệp bằng Mist, không giết**.
 
 ## Vì sao cậu không chọn lại bộ Guardian — **ba lý do, đầy đủ**
 

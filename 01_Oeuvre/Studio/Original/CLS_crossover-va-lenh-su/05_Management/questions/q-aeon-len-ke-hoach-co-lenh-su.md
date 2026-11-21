@@ -6,9 +6,6 @@ project: CLS
 lane: personal
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "mo dau truyen"
-  chapter: "truoc khi chot participants o watch-frame va truoc plan-continuation"
 decision_owner: user
 aliases: ["Aeon len ke hoach co lenh su", "Aeon muon co lenh su", "Aeon xem anh the", "Aeon xem ảnh thể", "Aeon dụ dỗ", "keo nguoi du do nguoi", "kéo người dụ dỗ người", "vi sao la ba nguoi nay", "dong co trieu tap", "khung mo dau CLS"]
 related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[watch-frame]]", "[[lech-su-la-suc-manh-menh-do]]", "[[ke-ngoai-lai-thay-cho]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]", "[[q-xet-lai-menh-do]]", "[[q-them-lenh-su-ve-sau]]"]
@@ -19,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Có mở truyện bằng việc các Aeon thấy một thế giới có lệnh sứ hợp ý, rồi lên kế hoạch để có lệnh sứ của mình không?

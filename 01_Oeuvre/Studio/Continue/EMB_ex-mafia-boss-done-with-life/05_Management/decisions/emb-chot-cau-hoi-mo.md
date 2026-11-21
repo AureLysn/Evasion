@@ -81,7 +81,7 @@ Aurel: Xanxus có Flame of Wrath **vì mang cả Sky lẫn Storm** — canon.
 
 Kiểm 17/09: WebSearch trả về mô tả của Reborn Wiki *(trang Dying Will Flame)* là **dạng lai Sky và Storm**. Mở trang trực tiếp bằng WebFetch trả **HTTP 402**, nên chưa đọc toàn văn. Đã sửa dòng *"được gợi ý, chưa xác nhận"* ở `Database/Fandom/KHR/rules/Sky-Flame.md` và câu *"Sky mang đặc tính Storm"* ở [[tuyen-xanxus]].
 
-→ Không đổi chốt 17/09 mục 2 của emb-chot-khung-arc: Storm của Xanxus **không** tính là Storm trong bộ Guardian của Tsuna; **Fon là Storm chính**.
+→ Không đổi chốt 17/09 mục 2 của khung arc cũ *(đã xóa khi reset; nội dung giữ ở [[q-xanxus-la-storm]])*: Storm của Xanxus **không** tính là Storm trong bộ Guardian của Tsuna; **Fon là Storm chính**.
 
 ## 8. ✅ Ước lượng chương — **theo độ dày sự kiện, không theo độ dài chương Baby arc**
 

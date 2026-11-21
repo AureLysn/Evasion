@@ -6,9 +6,6 @@ lane: personal
 project: PPCT
 canon_layer: planned
 status: resolved
-needed_before:
-  arc: "dan-y-phan-tiep"
-  chapter: "truoc chuong dau tien quay ve Yokohama hoac nhac toi Oda"
 decision_owner: user
 aliases: ["Dazai o moc nao cua BSD", "Hac Thoi Dai hay truoc", "Oda con song khong PPCT", "thoi diem BSD cua truyen"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[fact-dazai-chua-thanh-nien]]", "[[q-tiem-ca-ri-va-oda]]", "[[Sakunosuke-Oda]]", "[[The-Book]]"]
@@ -19,7 +16,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Truyện nằm ở mốc nào của dòng thời gian BSD?
