@@ -12,7 +12,7 @@ addressing:
   gokudera_to_tsuna: "'mười đời mắt' = 十代目 Juudaime (ch13, khi vang mat). Truoc ky uc (ch2) chi biet ID 'XXXX27'"
   tsuna_to_gokudera: "chua co — Tsuna chua tung nghe ten"
   ghi_chu: "chua gap mat trong ch1-15"
-aliases: ["Tsuna Gokudera", "5927", "Juudaime", "mười đời mắt", "Gokudera tìm Tsuna"]
+aliases: ["Tsuna Gokudera", "5927", "quan he Juudaime", "quan he mười đời mắt", "Gokudera tìm Tsuna"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[gokudera-den-nhat-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[tsuna-thang-yuki-tdtb]]"]
 source:
   type: fic_text

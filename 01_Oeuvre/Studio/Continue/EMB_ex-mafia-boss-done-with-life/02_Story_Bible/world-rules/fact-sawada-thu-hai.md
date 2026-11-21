@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["dong Sawada thu hai", "second Sawada", "Sawada Ieyasu family", "dong Giotto", "Sawada ben noi", "Ietsuna", "Ottavo", "Sky Flame Potential", "giau Flame", "hidden Sky"]
+aliases: ["dong Sawada thu hai", "fact second Sawada", "fact Sawada Ieyasu family", "fact dong Giotto", "fact Sawada ben noi", "fact Ietsuna", "Ottavo", "Sky Flame Potential", "giau Flame", "hidden Sky"]
 related: ["[[sawada-ieyasu]]", "[[sawada-tu-te]]", "[[ietsuna]]", "[[ieyasu]]", "[[iemitsu]]", "[[ao3-comments]]", "[[fact-sanctuary]]"]
 source:
   type: author_comment

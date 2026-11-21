@@ -11,7 +11,7 @@ relation: "hai người vừa gặp — 27 vô cớ để ý, Conan nghi rồi t
 addressing:
   conan_to_tsuna: "Sawada ca ca / ca ca (giả giọng trẻ con)"
   tsuna_to_conan: "tiểu đệ đệ; chưa gọi tên (ch6)"
-aliases: ["Tsuna Conan", "Sawada ca ca"]
+aliases: ["Tsuna Conan", "quan he Sawada ca ca"]
 related: ["[[sawada-tsunayoshi-bcmf]]", "[[edogawa-conan-bcmf]]", "[[h-27-chu-y-conan-bcmf]]"]
 source:
   type: fic_text

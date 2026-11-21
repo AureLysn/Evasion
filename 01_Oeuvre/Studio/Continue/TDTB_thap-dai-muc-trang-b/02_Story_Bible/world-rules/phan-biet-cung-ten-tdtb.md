@@ -6,7 +6,7 @@ lane: personal
 project: TDTB
 canon_layer: fic_explicit
 status: active
-aliases: ["phan biet cung ten TDTB", "phân biệt cùng tên", "disambiguation TDTB", "ten convert", "tên convert", "Cát nào", "hệ thống nào", "đại phu là ai", "kiện nào", "Tuyết nào", "Yamamoto bị xé tên", "Tsuna nào", "bản võ", "núi vốn"]
+aliases: ["phan biet cung ten TDTB", "phân biệt cùng tên", "disambiguation TDTB", "ten convert", "tên convert", "Cát nào", "hệ thống nào", "đại phu là ai", "kiện nào", "Tuyết nào", "Yamamoto bị xé tên", "Tsuna nào", "fact bản võ", "fact núi vốn"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[kien-chi-lang-tdtb]]", "[[suzuki-kenichi-tdtb]]", "[[kesuke-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[kibutsuji-muzan-tdtb]]", "[[he-thong-0038-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[q-tsuna-nay-va-juudaime-tdtb]]", "[[q-ten-romaji-chua-chot-tdtb]]"]
 source:
   type: fic_text

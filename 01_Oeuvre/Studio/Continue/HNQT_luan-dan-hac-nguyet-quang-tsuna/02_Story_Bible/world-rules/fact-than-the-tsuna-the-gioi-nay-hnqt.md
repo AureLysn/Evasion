@@ -6,7 +6,7 @@ lane: personal
 project: HNQT
 canon_layer: fic_explicit
 status: active
-aliases: ["than the Tsuna the gioi nay", "Gojo Tsunayoshi la ai", "con thu nha Gojo", "em song sinh Luc Nhan", "phong huong bac", "bi giam tu nho", "khong chu luc", "ba lan kiem tra", "loi nguyen song sinh", "双生子的诅咒"]
+aliases: ["than the Tsuna the gioi nay", "Gojo Tsunayoshi la ai", "con thu nha Gojo", "em song sinh Luc Nhan", "fact phong huong bac", "bi giam tu nho", "khong chu luc", "ba lan kiem tra", "loi nguyen song sinh", "双生子的诅咒"]
 related: ["[[sawada-tsunayoshi-hnqt]]", "[[gia-toc-gojo-hnqt]]", "[[ban-gia-gojo-hnqt]]", "[[hook-mat-cua-tsuna-hnqt]]"]
 source:
   type: fic_text

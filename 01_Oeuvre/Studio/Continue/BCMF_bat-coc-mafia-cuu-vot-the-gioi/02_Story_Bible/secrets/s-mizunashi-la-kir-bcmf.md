@@ -14,7 +14,7 @@ unknown_to: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.irie-shoic
 reveal_planned:
   arc: null
   chapter: null
-aliases: ["Mizunashi la Kir", "Kir", "Rena CIA", "Kir cuu khoi FBI"]
+aliases: ["Mizunashi la Kir", "secret Kir", "Rena CIA", "Kir cuu khoi FBI"]
 related: ["[[mizunashi-rena-bcmf]]"]
 source:
   type: fic_text

@@ -11,7 +11,7 @@ relation: "cha – con (và mẹ Yukiko)"
 addressing:
   yusaku_to_shinichi: "Shin-chan / Shinichi"
   yukiko_to_shinichi: "Shin-chan"
-aliases: ["gia dinh Kudo", "Shin-chan"]
+aliases: ["gia dinh Kudo", "quan he Shin-chan"]
 related: ["[[edogawa-conan-bcmf]]", "[[kudo-yusaku-bcmf]]", "[[kudo-yukiko-bcmf]]"]
 source:
   type: fic_text

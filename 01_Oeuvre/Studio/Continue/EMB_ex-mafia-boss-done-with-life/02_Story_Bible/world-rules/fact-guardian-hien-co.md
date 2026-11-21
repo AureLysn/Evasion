@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Guardian", "bo Guardian", "Guardian hien co", "ai la Guardian", "old man guardians", "Guardian ben trai", "Guardian ben phai", "Indra va mot nguoi nua"]
+aliases: ["Guardian", "bo Guardian", "Guardian hien co", "ai la Guardian", "old man guardians", "fact Guardian ben trai", "Guardian ben phai", "Indra va mot nguoi nua"]
 related: ["[[ao3-comments]]", "[[ao3-tra-loi-tac-gia]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[indra-tuyen-the]]", "[[q-thu-tu-p2]]", "[[Harmonization]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: author_comment

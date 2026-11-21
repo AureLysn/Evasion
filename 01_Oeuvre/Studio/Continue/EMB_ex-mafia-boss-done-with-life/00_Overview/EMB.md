@@ -8,7 +8,7 @@ domain: fanfic
 canon_layer: project_locked
 status: active
 title: "Ex-Mafia Boss Done With Life. Life Not Done With Ex-Mafia Boss."
-aliases: ["EMB", "Ex-Mafia Boss", "Ex-Mafia Boss Done With Life", "Local Mafia Boss Blames", "KOHAKU", "Kohaku", "Brat Arc", "Baby Arc", "Whymustwedolife"]
+aliases: ["EMB", "Ex-Mafia Boss", "Ex-Mafia Boss Done With Life", "Local Mafia Boss Blames", "overview KOHAKU", "Brat Arc", "Baby Arc", "Whymustwedolife"]
 related: ["[[universe]]", "[[_KHR-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[Harmonization]]", "[[quy-uoc-ma-project]]", "[[emb-la-kohaku]]"]
 universes: [KHR]
 source:

@@ -14,7 +14,7 @@ payoff:
   status: "unplanned"
   arc: null
   chapter: null
-aliases: ["Dazai Oda", "Oda muon hoi Dazai", "Ranpo ban di hoi han", "quan bar truoc khi vao phong"]
+aliases: ["hook Dazai Oda", "Oda muon hoi Dazai", "Ranpo ban di hoi han", "quan bar truoc khi vao phong"]
 related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/00_Overview/drop-point|drop-point-bcmf]]", "[[nguyen-tac-bcmf]]"]
 source:
   type: fic_text

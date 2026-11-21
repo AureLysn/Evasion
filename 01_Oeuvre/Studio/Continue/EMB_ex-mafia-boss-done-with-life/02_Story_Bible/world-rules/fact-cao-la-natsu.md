@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["con cao", "Natsu", "kudagitsune", "pipe fox", "cao la Natsu", "box animal"]
+aliases: ["fact con cao", "fact Natsu", "fact kudagitsune", "fact pipe fox", "cao la Natsu", "box animal"]
 related: ["[[ao3-comments]]", "[[Harmonization]]"]
 source:
   type: author_comment

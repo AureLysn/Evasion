@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["ong tre", "bamboo tube", "qua cua Kawahira", "kudagitsune", "cao ong", "thu giup duoc van de cua cau"]
+aliases: ["ong tre", "bamboo tube", "qua cua Kawahira", "hook kudagitsune", "hook cao ong", "thu giup duoc van de cua cau"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[nguoi-ban-cu]]", "[[fact-loi-flame]]", "[[fact-cao-la-natsu]]", "[[ong-tre-giai-quyet-gi]]", "[[le-cuoi-cao]]", "[[tsuna-dam-phan-kawahira]]", "[[fic-part2]]", "[[emb-chot-sau-p2-ch2]]", "[[kitsune-phan-loai]]"]
 source:
   type: fic_text

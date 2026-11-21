@@ -9,7 +9,7 @@ status: active
 subject: "Namimori"
 predicate: "nam o"
 object: "tinh Aichi, dao Honshu"
-aliases: ["Namimori o Aichi", "Namimori thuộc Aichi", "Naminori", "trấn Naminori", "đồng thời thịnh", "dong thoi thinh", "tỉnh Aichi", "quê Tsuna", "quê Yamamoto"]
+aliases: ["Namimori o Aichi", "Namimori thuộc Aichi", "fact Naminori", "fact trấn Naminori", "fact đồng thời thịnh", "fact dong thoi thinh", "tỉnh Aichi", "fact quê Tsuna", "quê Yamamoto"]
 related: ["[[namimori-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]"]
 source:
   type: fic_text

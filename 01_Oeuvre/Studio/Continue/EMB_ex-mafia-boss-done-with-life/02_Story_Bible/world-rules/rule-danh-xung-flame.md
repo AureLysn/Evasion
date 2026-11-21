@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: fic_explicit
 status: active
-aliases: ["danh xung Flame", "bang ten Flame", "ceremonial name", "ten nghi le", "Kohaku", "Tenmei", "Amatsumi", "Gen'ei", "Ruriko", "Seiran", "Getsufuji", "Yasuragi", "Ketsueki", "Chiyu", "Hogo", "Kotei", "cach goi ten", "琥珀", "天明"]
+aliases: ["danh xung Flame", "bang ten Flame", "ceremonial name", "ten nghi le", "rule Kohaku", "rule Tenmei", "Amatsumi", "Gen'ei", "rule Ruriko", "rule Seiran", "rule Getsufuji", "Yasuragi", "Ketsueki", "Chiyu", "rule Hogo", "Kotei", "cach goi ten", "琥珀", "天明"]
 related: ["[[fic-part1]]", "[[fic-part2]]", "[[Dying-Will-Flame]]", "[[EMB]]", "[[emb-chot-danh-xung-chuc-va-nguyen-to]]"]
 source:
   type: fic_text

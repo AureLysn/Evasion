@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["Bermuda", "Bermuda von Veckenschtein", "Vindice", "cai nguc Vendicare", "to mo", "curiosity", "thu giai trinh quyen tra dua"]
+aliases: ["Bermuda", "Bermuda von Veckenschtein", "Vindice", "hook cai nguc Vendicare", "to mo", "curiosity", "thu giai trinh quyen tra dua"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[xoa-so-estraneo]]", "[[fact-cao-la-natsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[fact-kimiko-arcobaleno]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Vindice-Prison]]", "[[Flame-of-Night]]", "[[fact-vendicare-giu-so]]"]
 source:
   type: fic_text

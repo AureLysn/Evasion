@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["nguoi dan ba trong dam dong", "如同诅咒一般的双生子", "真是有趣", "ai dung xem o le te"]
+aliases: ["hook nguoi dan ba trong dam dong", "如同诅咒一般的双生子", "真是有趣", "ai dung xem o le te"]
 related: ["[[nguoi-dan-ba-trong-dam-dong-hnqt]]", "[[q-ke-dung-sau-hnqt]]", "[[hook-nguoi-satoru-khoa-trong-dam-dong-hnqt]]"]
 source:
   type: fic_text

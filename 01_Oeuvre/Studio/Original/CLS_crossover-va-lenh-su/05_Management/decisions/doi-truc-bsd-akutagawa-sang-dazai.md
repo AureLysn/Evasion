@@ -7,7 +7,7 @@ lane: personal
 canon_layer: project_locked
 status: active
 strength: hard
-aliases: ["doi truc BSD sang Dazai", "đổi trục BSD sang Dazai", "Dazai thay Akutagawa", "Akutagawa thanh Dazai", "Akutagawa thành Dazai", "nhan vat truc BSD", "nhân vật trục BSD", "Dazai CLS"]
+aliases: ["doi truc BSD sang Dazai", "đổi trục BSD sang Dazai", "Dazai thay Akutagawa", "Akutagawa thanh Dazai", "Akutagawa thành Dazai", "nhan vat truc BSD", "nhân vật trục BSD", "decision Dazai CLS"]
 related: ["[[CLS]]", "[[20260928-cls-la-cua-minh-va-van-tac-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[khung-aeon-hai-nhom]]", "[[ke-ngoai-lai-thay-cho]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[akutagawa]]", "[[q-xet-lai-menh-do]]"]
 source:
   type: user_input

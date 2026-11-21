@@ -6,7 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: fic_explicit
 status: active
-aliases: ["nhan vat phu PPCT", "nhan vat chi duoc nhac PPCT", "Maiya PPCT", "Uni PPCT", "小尤尼", "me Tsuna PPCT", "Hibari PPCT", "ong ba chu nha Waver", "gia dinh Dazai kiep truoc"]
+aliases: ["nhan vat phu PPCT", "nhan vat chi duoc nhac PPCT", "nhan vat Maiya PPCT", "Uni PPCT", "小尤尼", "me Tsuna PPCT", "Hibari PPCT", "ong ba chu nha Waver", "gia dinh Dazai kiep truoc"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[dazai-kiep-truoc]]", "[[kiritsugu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]"]
 source:
   type: fic_text

@@ -11,7 +11,7 @@ date:
   chapter: 12
 participants: ["character.HNQT.sawada-tsunayoshi-hnqt", "character.HNQT.dai-truong-lao-gojo-hnqt", "character.HNQT.he-thong-hac-nguyet-quang-hnqt"]
 location: ["location.HNQT.ban-gia-gojo-hnqt", "location.HNQT.dia-ha-tokyo-hnqt"]
-aliases: ["hien te Tsuna", "献祭", "hom sat", "den nui sau", "神社", "bat coc tren nui sau", "doan ap giai bi giet", "nhiem vu 火种"]
+aliases: ["hien te Tsuna", "献祭", "hom sat", "event den nui sau", "神社", "bat coc tren nui sau", "doan ap giai bi giet", "nhiem vu 火种"]
 related: ["[[hook-ke-bat-coc-nui-sau-hnqt]]", "[[tsuna-la-muc-tieu-thuc-hnqt]]", "[[tsuna-gap-geto-hnqt]]", "[[fact-nhiem-vu-chinh-hnqt]]"]
 source:
   type: fic_text

@@ -6,7 +6,7 @@ lane: personal
 project: UNTCH
 canon_layer: fic_explicit
 status: active
-aliases: ["MNet", "mang xa hoi gioi ngam", "he huy hieu MNet", "Rainbow Badge", "Gold Badge", "Amethyst Badge", "Diamond Badge", "chuong log chat", "viet chuong MNet the nao"]
+aliases: ["MNet", "mang xa hoi gioi ngam", "he huy hieu MNet", "Rainbow Badge", "Gold Badge", "fact Amethyst Badge", "Diamond Badge", "chuong log chat", "viet chuong MNet the nao"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[qd-mau-do-van-phong]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text

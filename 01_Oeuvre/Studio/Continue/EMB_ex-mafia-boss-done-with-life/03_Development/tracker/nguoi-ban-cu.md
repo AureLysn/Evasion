@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["nguoi ban cu", "old friend", "reunited", "hoi ngo", "con cao", "cau cuoi cung cua fic"]
+aliases: ["nguoi ban cu", "old friend", "reunited", "hoi ngo", "hook con cao", "cau cuoi cung cua fic"]
 related: ["[[ong-tre]]", "[[natsu]]", "[[fact-cao-la-natsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[le-cuoi-cao]]", "[[phan-biet-hai-the-gioi]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text

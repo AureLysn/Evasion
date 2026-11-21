@@ -11,7 +11,7 @@ relation: "dong doi cu trong the gioi nhiem vu, quen so"
 addressing:
   illumi_to_tsuna: "'Nha! Cương Cát!' (ch8)"
   tsuna_to_illumi: "'Y Nhĩ Mê' (ch8)"
-aliases: ["Tsuna Illumi", "Y Nhĩ Mê", "đồng đội cũ", "5000 kim tệ"]
+aliases: ["Tsuna Illumi", "quan he Y Nhĩ Mê", "đồng đội cũ", "5000 kim tệ"]
 related: ["[[illumi-zoldyck-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[x-burner-ha-kien-chi-lang-tdtb]]"]
 source:
   type: fic_text

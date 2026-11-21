@@ -12,7 +12,7 @@ date:
   chapter: "khi lap khung"
 participants: ["character.TDTB.suzuki-kenichi-tdtb", "character.TDTB.dao-dien-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["phòng họp của tổ đạo diễn"]
-aliases: ["Kenichi nghe len", "Kenichi nghe lén", "vừa thấy đã yêu sao", "họp tổ đạo diễn", "bản tinh hoa", "đài truyền hình mời", "cảnh cuối TDTB", "drop point TDTB"]
+aliases: ["Kenichi nghe len", "Kenichi nghe lén", "vừa thấy đã yêu sao", "họp tổ đạo diễn", "bản tinh hoa", "đài truyền hình mời", "cảnh cuối TDTB", "event drop point TDTB"]
 related: ["[[suzuki-kenichi-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[dao-dien-tdtb]]", "[[pho-dao-dien-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]"]
 source:
   type: fic_text

@@ -7,7 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: branch_locked
 status: active
-aliases: ["Tsuna Natsu", "Tsuna va con cao", "Tsuna Tomoshibi", "quan he Tsuna cao", "nguoi ban cu"]
+aliases: ["Tsuna Natsu", "Tsuna va con cao", "Tsuna Tomoshibi", "quan he Tsuna cao", "quan he nguoi ban cu"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[natsu]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[emb-chot-loi-dang-quay-ve]]", "[[fact-cao-la-natsu]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[kitsune-phan-loai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[truc-chinh]]"]
 source:
   type: inference

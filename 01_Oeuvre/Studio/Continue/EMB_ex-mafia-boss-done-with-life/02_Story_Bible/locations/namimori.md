@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: fic_explicit
 status: active
-aliases: ["Namimori", "Namimori-cho", "Eienzakuramura", "Lang Anh Dao Vinh Cuu", "thi tran", "Sanctuary", "thanh dia"]
+aliases: ["Namimori", "Namimori-cho", "dia diem Eienzakuramura", "Lang Anh Dao Vinh Cuu", "thi tran", "Sanctuary", "thanh dia"]
 related: ["[[fact-sanctuary]]", "[[kimiko]]", "[[fact-neu-khong-tai-sinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: fic_text

@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: fic_explicit
 status: active
-aliases: ["ten Sawada", "hai cach viet", "chu so trong ten", "Masaya", "cach dat ten Sawada", "truyen thong dat ten", "number character", "chu ky muoi", "muoi duoi", "ten Sawada ngoai"]
+aliases: ["ten Sawada", "hai cach viet", "chu so trong ten", "rule Masaya", "cach dat ten Sawada", "truyen thong dat ten", "number character", "chu ky muoi", "muoi duoi", "ten Sawada ngoai"]
 related: ["[[sawada-tu-te]]", "[[rule-ten-tokugawa]]", "[[fact-loi-tien-tri-muoi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[musashi]]", "[[nana]]", "[[rule-danh-xung-flame]]"]
 source:
   type: fic_text

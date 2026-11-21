@@ -12,7 +12,7 @@ date:
   chapter: P2-Ch1
 participants: ["character.EMB.indra", "character.EMB.tsuna"]
 location: []
-aliases: ["Indra tuyen the", "Guardian dau tien", "East Gate Guardian", "Guardian Cong Dong", "loi the Seiran", "Indra ben phai", "Guardian ben trai"]
+aliases: ["Indra tuyen the", "Guardian dau tien", "East Gate Guardian", "event Guardian Cong Dong", "loi the Seiran", "Indra ben phai", "event Guardian ben trai"]
 related: ["[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[xoa-so-estraneo]]", "[[fact-guardian-hien-co]]", "[[q-thu-tu-p2]]", "[[p2-ch1]]", "[[20260916-p2-ch1]]"]
 source:
   type: fic_text

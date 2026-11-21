@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["Kimiko", "Hibari Kimiko", "thay truoc tuong lai", "see the future", "danh hieu Kimiko", "Eienzakuramura"]
+aliases: ["hook Kimiko", "hook Hibari Kimiko", "thay truoc tuong lai", "see the future", "danh hieu Kimiko", "hook Eienzakuramura"]
 related: ["[[fact-sanctuary]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-21

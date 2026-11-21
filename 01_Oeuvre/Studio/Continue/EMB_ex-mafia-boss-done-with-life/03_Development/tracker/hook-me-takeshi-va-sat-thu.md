@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["me Takeshi", "sat thu giet me Takeshi", "Hibari canh sat thu", "hen gio dang chay", "Yamamoto", "Takeshi mom still alive"]
+aliases: ["hook me Takeshi", "sat thu giet me Takeshi", "Hibari canh sat thu", "hen gio dang chay", "Yamamoto", "Takeshi mom still alive"]
 related: ["[[tsuyoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nha-hibari]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[fact-567-ke-hoach]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]"]
 source:
   type: fic_text
