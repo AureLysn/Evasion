@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1 (ngay quay dau tien)"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.kesuke-tdtb", "character.TDTB.suzuki-kenichi-tdtb", "character.TDTB.thien-dao-tdtb", "character.TDTB.yuuko-tdtb", "character.TDTB.dao-dien-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]]"]
 aliases: ["tap 1 show", "tập 1 show", "Sơ Ngộ", "so ngo", "mặt nạ", "tâm động phòng nhỏ", "Tuyết chọn Tsuna", "Ta lựa chọn cương Cát Quân", "ghép cặp tập 1"]

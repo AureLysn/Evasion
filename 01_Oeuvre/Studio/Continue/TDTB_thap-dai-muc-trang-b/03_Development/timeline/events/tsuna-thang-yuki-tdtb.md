@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: 1
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.gokudera-hayato-tdtb"]
 location: ["cửa hàng JJ cạnh ga tàu điện ngầm gần nhà Tsuna", "phòng đấu sơ cấp game cơ giáp ảo"]
 aliases: ["Tsuna thang Yuki", "trận cơ giáp", "tran co giap", "XXXX27 thắng", "Lâm Chung Quan Hoài", "Trường Hà Mộ Tuyết thua", "5 phút đại lão", "nhiem vu chi nam 2 that bai"]

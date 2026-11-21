@@ -232,7 +232,7 @@ Suy ra được: **vài tháng sau lễ cưới cáo**, tức Tsuna **khoảng s
 
 ## 9. Không có đáp án trong văn bản
 
-Chín câu hỏi đang mở, mỗi câu một note — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/_MOC|questions]]:
+Chín câu hỏi mở **lúc phân tích điểm dừng**, mỗi câu một note; nay đều đã chốt — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/questions/_MOC|questions]]:
 
 | Câu hỏi | Chặn ở đâu |
 |---|---|

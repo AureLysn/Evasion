@@ -35,8 +35,6 @@ Illumi có hai cách đọc: nhiệm vụ giả khác mang hình dạng Illumi, 
 
 ## Cần chốt trước
 
-Cần trước: truoc khi lap khung
-
 ## Ai quyết
 
 ❌ Bắt buộc người viết

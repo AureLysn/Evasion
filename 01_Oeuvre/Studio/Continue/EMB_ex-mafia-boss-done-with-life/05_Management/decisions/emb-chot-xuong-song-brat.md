@@ -19,7 +19,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
 # Xương sống arc Brat — **"học làm trẻ con" nghĩa là gì**
@@ -49,7 +49,7 @@ last_updated: 2026-11-20
 | 3 | **Bốc đồng** | Cậu làm một việc **chưa tính**, và biết nó sẽ làm người khác lo |
 | 4 | 🔴 **Tin rằng có người đỡ khi vấp** | Cậu **vấp thật**, và có người đỡ, và cậu **không sợ họ bỏ đi** |
 
-🔴 Bốn thứ này là **thang đo của arc**. Cái thứ tư là chỗ đóng — xem emb-chot-brat-dong-o-dau.
+🔴 Bốn thứ này là **thang đo của arc**. Cái thứ tư là chỗ đóng; arc đóng ở đâu thì khung mới quyết *(chốt cũ đã xóa khi reset)*.
 
 ## Câu đắt nhất, và cách dùng nó
 

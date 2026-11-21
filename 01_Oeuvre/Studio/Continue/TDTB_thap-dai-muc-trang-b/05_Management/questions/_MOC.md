@@ -44,7 +44,7 @@ Câu hỏi **chưa chốt** (🟡) không đọc như `decision`. Mỗi câu có
 | [[q-nhip-tap-show-tdtb]] | mở lại 21/11 — chốt cũ đã xóa | Một tập show quay mấy ngày, hai tập cách nhau bao lâu? |
 | [[q-thien-su-si-oc-sang-tdtb-tdtb]] | ✅ giải một phần 11/10 → [[qd-thien-su-the-gioi-song-song-tdtb]] | Thiên sư SI OC vào TDTB bằng đường nào, thiết lập nào? |
 | [[q-gioi-cua-gokudera-tdtb]] | ✅ giải 30/09 → [[qd-gokudera-alpha-tdtb]] | Gokudera là alpha, beta hay Omega? |
-| [[q-cach-lo-omega-tdtb]] | ❌ mở — cần trước khi lập đại cương | Tsuna lộ Omega bằng đường nào? (bẻ đường "phát tình giữa chỗ đông") |
-| [[q-ky-uc-mukuro-hibari-tdtb]] | ❌ mở — cần trước khi lập đại cương | Mukuro, Hibari có nhận ký ức Verde gửi không? |
+| [[q-cach-lo-omega-tdtb]] | ❌ mở — cần khi lập khung | Tsuna lộ Omega bằng đường nào? (bẻ đường "phát tình giữa chỗ đông") |
+| [[q-ky-uc-mukuro-hibari-tdtb]] | ❌ mở — cần khi lập khung | Mukuro, Hibari có nhận ký ức Verde gửi không? |
 | [[q-nha-bo-hoang-tu-bao-gio-tdtb]] | ✅ giải 03/10 → [[qd-nha-bo-hoang-4-5-nam-tdtb]] | Nhà Sawada bỏ hoang từ bao giờ, hàng xóm biết gì, Gokudera lục giấy tờ gì? |
 | [[q-59-gap-27-o-dau-tdtb]] | ❌ mở — mốc nhắc: arc có Gokudera | Gokudera gặp Tsuna ở đâu, khi nào (Aurel đang nghĩ hướng khác)? |

@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: 2
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.rangu-tdtb", "character.TDTB.sato-tdtb"]
 location: ["[[truong-tu-nhan-36-tdtb]]"]
 aliases: ["Loc Da Tuyet chuyen truong", "Omega chuyển trường", "chỉ nam nhiệm vụ 3", "diễn đàn trường có Omega", "Tuyet chon Tsuna dan duong"]

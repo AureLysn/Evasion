@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "2 hoac sau do (van ban: 'rat nhanh')"
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.dao-dien-tdtb"]
 location: ["ký túc xá thuê của Tsuna ngoài trường"]
 aliases: ["Tsuna nhan loi show", "Tsuna nhận lời show", "đạo diễn tới nhà Tsuna", "ky hop dong show", "50 vạn một tụ tập"]

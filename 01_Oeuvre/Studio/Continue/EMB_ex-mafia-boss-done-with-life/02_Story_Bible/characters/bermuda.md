@@ -32,7 +32,7 @@ last_updated: 2026-11-21
 | **Phong thái** | **Quý tộc thời Victoria**. Lịch sự như một cái khoá tra đúng ổ. Gọi Musashi là *madam*, gọi Nagi là *young lady* |
 | **Đi cùng** | Không đi một mình. Thường **ngồi trên vai Jäger** |
 | **Núm vú** | Người **duy nhất** đeo núm vú **trong suốt**, để ngoài. Các Vindice khác đeo núm vú **đá**, giấu dưới áo choàng *(Aurel cung cấp; chưa đối chiếu canon)* |
-| **Vì sao để mắt tới Tsuna** | Theo dõi những Flame mạnh nhất để **gặp lại Checker Face**, người luôn tới vì kẻ mạnh nhất. Lập luận: **đếm tranh trong cái hang**, mỗi bộ Arcobaleno 20–30 năm, bộ hiện tại hơn 30, Sky hao trước — emb-chot-bermuda-an-toi §Phép so |
+| **Vì sao để mắt tới Tsuna** | Theo dõi những Flame mạnh nhất để **gặp lại Checker Face**, người luôn tới vì kẻ mạnh nhất. Lập luận: **đếm tranh trong cái hang**, mỗi bộ Arcobaleno 20–30 năm, bộ hiện tại hơn 30, Sky hao trước *(lời Aurel 22/09; câu hỏi còn mở — [[q-bermuda-an-toi]])* |
 | **Người lớn đáng tin** | Có thể, **khi và chỉ khi** không dính tới [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] |
 
 ## ⛔ Ranh giới

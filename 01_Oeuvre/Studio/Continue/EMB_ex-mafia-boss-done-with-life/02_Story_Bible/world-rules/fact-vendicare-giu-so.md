@@ -58,10 +58,8 @@ Ba chỗ tựa được, tất cả đều là canon:
 
 Ý từ bản nháp đã xóa: sổ có **mục nhập, không có mục ra**, và **cột bên cạnh ghi ai đã hỏi trước**.
 
-Và nó là **cánh cửa duy nhất còn lại** sau khi den-kasumi-ise ⛔ đóng.
-
 ## ⛔ Lằn can
 
 - ⛔ **Đừng biến nó thành một thư viện.** Canon cho Vendicare một nhà tù nước, không cho một viện lưu trữ. Cái sổ phải đọc như **sổ chủ nợ**: ngắn, cột, không chú giải.
 - ⚠️ **Nó không toàn năng.** Cái sổ ghi **cái bị lấy**; nó không ghi cái được trả lại, và nó **không biết đứa trẻ giờ ở đâu**. Nên *không có mục ra*.
-- 🔴 **Và nó không có cột nào cho bảy từ của Namimori** — hệt den-kasumi-ise. Nhưng ở đây cái trống phải **có ích**, không được lặp lại chức năng cái trống của den-kasumi-ise.
+- 🔴 **Và nó không có cột nào cho bảy từ của Namimori**. Cái trống ấy phải **có ích**.

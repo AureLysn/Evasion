@@ -21,7 +21,7 @@ last_updated: 2026-11-21
 
 # Nhân vật người chơi của Đoàn tàu là ai trong CLS?
 
-> ✅ **Đóng 04/10/2026** — Aurel: **Stelle.** arc-1-chot-sau-plan-reviewer
+> ✅ **Đóng 04/10/2026** — Aurel: **Stelle.** Nguồn: [[20261004-chin-cau-sau-plan-reviewer]]
 
 
 > ⚠️ **CHƯA CHỐT.** Chặn thẻ cảnh của **cả tám chương** arc 1: Đoàn tàu ngồi trong phòng chiếu từ ch1, và nhân vật người chơi có mặt ở gần hết các cảnh canon mà phim dùng.

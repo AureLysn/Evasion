@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, ban ngay"
   arc: "show-tap-1"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.yamamoto-takeshi-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["[[tokyo-dome-tdtb]]"]
 aliases: ["Yamamoto gap Tsuna", "Yamamoto gặp Tsuna", "Yamamoto om Tsuna", "Yamamoto ôm Tsuna", "A Cương đã lâu không gặp", "Ta sẽ chờ ngươi một mực", "Cự Đản", "巨蛋体育场", "Tokyo Dome TDTB", "đánh bóng chày", "Hamburger", "bạn rất thân"]

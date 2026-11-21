@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "truoc ch4, trong 4 nam lam nhiem vu (thoi gian the gioi nhiem vu: thoi Heian, ~800-900 nam truoc Edo)"
   arc: "tien-su"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.kibutsuji-muzan-tdtb"]
 location: ["thế giới nhiệm vụ Quỷ diệt — nhà Muzan (thời Heian, suy từ ch5)"]
 aliases: ["nhiem vu Quy diet lan 1", "nhiệm vụ Quỷ diệt lần trước", "Tsuna phu ta thay thuoc", "Tsuna bị Muzan giết", "Heian task", "nhiem vu Muzan bac si"]

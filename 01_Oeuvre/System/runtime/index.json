@@ -25768,7 +25768,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 2952
+   "words": 2960
   },
   {
    "aliases": [
@@ -26539,7 +26539,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 247
+   "words": 252
   },
   {
    "aliases": [
@@ -28200,7 +28200,7 @@
     "賀茂"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-21",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/organizations/nha-kotokui.md",
    "project": "EMB",
    "scope": "branch",
@@ -28212,7 +28212,7 @@
     "p/personal"
    ],
    "type": "organization",
-   "words": 693
+   "words": 690
   },
   {
    "aliases": [
@@ -30291,7 +30291,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 457
+   "words": 428
   },
   {
    "aliases": [
@@ -33848,7 +33848,7 @@
     "xuong song brat"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-20",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/emb-chot-xuong-song-brat.md",
    "project": "EMB",
    "scope": "project",
@@ -33860,7 +33860,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 689
+   "words": 700
   },
   {
    "aliases": [
@@ -50224,7 +50224,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 566
+   "words": 570
   },
   {
    "aliases": [
@@ -50736,7 +50736,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 332
+   "words": 325
   },
   {
    "aliases": [
@@ -51020,7 +51020,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 352
+   "words": 354
   },
   {
    "aliases": [
@@ -51625,7 +51625,7 @@
     "p/personal"
    ],
    "type": "project",
-   "words": 997
+   "words": 1007
   },
   {
    "aliases": [
@@ -59657,7 +59657,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 579
+   "words": 575
   },
   {
    "aliases": [
@@ -59892,7 +59892,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 190
+   "words": 184
   },
   {
    "aliases": [
@@ -60003,7 +60003,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 270
+   "words": 264
   },
   {
    "aliases": [
@@ -60086,7 +60086,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 268
+   "words": 262
   },
   {
    "aliases": [
@@ -60557,7 +60557,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 360
+   "words": 354
   },
   {
    "aliases": [
@@ -62510,7 +62510,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 479
+   "words": 482
   },
   {
    "aliases": [
@@ -69092,7 +69092,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 140
+   "words": 141
   },
   {
    "aliases": [
@@ -69240,7 +69240,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 32
+   "words": 31
   },
   {
    "aliases": [

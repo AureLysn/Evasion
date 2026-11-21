@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "cung luc Tsuna tro ve tu nhiem vu Quy diet 2.0 (khong gian trang)"
   arc: "mo-dau"
-  chapter: "khi lap dai cuong"
+  chapter: "khi lap khung"
 participants: ["character.TDTB.verde-tdtb", "character.TDTB.colonnello-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["[[khong-gian-trang-tdtb]]"]
 aliases: ["Verde gui ky uc", "Verde gửi ký ức", "vòng cầu vồng", "Arcobaleno ch8", "tia sáng trắng", "ai đó đào hố cho Tsuna", "future memories sent"]

@@ -38,8 +38,8 @@ Arc 7 — trước khi chọn hướng (nó quyết định hướng 1 và 3 có
 
 ## Dữ kiện đã có
 
-- **Canon** (20261001-canon-diem-chan-arc-7 A4): xích cứng hơn theo thần tính, với mục tiêu không thần tính chỉ là xích chắc (wiki, 0.65). Fate/Zero **không** có cảnh lệnh chú đối xích. Ca gần nhất — UBW: lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki, 0.55). Lời "xích khoá không gian nên lệnh chú dịch chuyển cũng thua" chỉ thấy ở cộng đồng → **fanon**.
-- **PPCT**: ch8 — xích vàng 「无视纲吉控制的能力」. Tsuna là bảo vật thời–không (mức lộ C — loi-giai-bi-an-trung-tam); thần tính của Tsuna: **chưa note nào ghi**. Dazai còn đủ **3** đạo (ch37 「留着。一共就只有三次」).
+- **Canon** *(tra 01/10/2026; báo cáo gốc đã xóa khi reset)*: xích cứng hơn theo thần tính, với mục tiêu không thần tính chỉ là xích chắc (wiki, 0.65). Fate/Zero **không** có cảnh lệnh chú đối xích. Ca gần nhất — UBW: lệnh chú rút lui của Illya cho Berserker **bị xích vô hiệu** (wiki, 0.55). Lời "xích khoá không gian nên lệnh chú dịch chuyển cũng thua" chỉ thấy ở cộng đồng → **fanon**.
+- **PPCT**: ch8 — xích vàng 「无视纲吉控制的能力」. Tsuna là bảo vật thời–không; thần tính của Tsuna: **chưa note nào ghi**. Dazai còn đủ **3** đạo (ch37 「留着。一共就只有三次」).
 
 ## Phương án *(chưa chốt — chỉ để Aurel cân)*
 
