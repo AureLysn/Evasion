@@ -28,7 +28,7 @@ last_updated: 2026-11-21
 2. Có **liên kết kiểu hệ quả**: tình bạn nảy ra từ việc họ làm, không đặt trước.
 3. **Viết xen kẽ** các cảnh tương tác với mạch canon; **không chỉ chạy lại canon**.
 
-## ⊕ Chỉnh 22/10 — **thời điểm kết bạn** (20261022-chinh-thoi-diem-ket-ban-va-doc-penacony)
+## ⊕ Chỉnh 22/10 — **thời điểm kết bạn** ([[20261022-chinh-thoi-diem-ket-ban-va-doc-penacony]])
 
 - Tình bạn giữa ba người và nhân vật Amphoreus **chỉ hình thành SAU khi Amphoreus thành hiện thực**. Trong các sự kiện canon, kể cả **trận Irontomb**, họ có thể **cùng chiến đấu nhưng chưa quen** *(không có cơ hội phù hợp)*.
 - **Jason–Phainon, Jason–Cipher** thuộc **Planarcadia** *(xảy ra sau khi Amphoreus thật)*, không thuộc Amphoreus. **Cipher chết ở canon, lúc chưa quen.**

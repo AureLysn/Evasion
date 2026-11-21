@@ -26,7 +26,7 @@ last_updated: 2026-11-21
 
 # Cha của Tsuna trong TDTB là ai?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-cha-la-iemitsu-tdtb]]. Iemitsu. Giả thuyết của Aurel về nhân vật **chưa có nguồn** mà TDTB được đọc. Nguyên văn: 20260928-tra-loi-plan-continuation.
+> ✅ **Đã giải 28/09/2026** → [[qd-cha-la-iemitsu-tdtb]]. Iemitsu. Giả thuyết của Aurel về nhân vật **chưa có nguồn** mà TDTB được đọc. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
 
 > ⚠️ Đây là câu hỏi CHƯA CHỐT. Không phương án nào dưới đây được dùng như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 

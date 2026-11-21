@@ -28,6 +28,7 @@ Vault giữ note `source` kèm khối `asset:` trỏ sang. Nạp 25/09/2026, sha
 | [[nguyen-van-zh-tdtb]] | `fic_text` | **乐博 — nguyên văn** | `original_author` | 397.708 B · zip 15 HTML · `zh` (GB18030) · 42.660 chữ Hán — nạp 26/09 |
 | [[20260927-tra-loi-analyze-tropes]] | `user_input` | **Aurel** | `user` | trong vault — trả lời `analyze-tropes`, nguyên văn (27/09) |
 | [[20260926-tra-loi-cau-hoi]] | `user_input` | **Aurel** | `user` | nằm trong vault, `sources/user-input/` — trả lời 4 câu hỏi chặn, nguyên văn |
+| [[20260928-tra-loi-plan-continuation]] | `user_input` | **Aurel** | `user` | nằm trong vault, `sources/user-input/` — trả lời `plan-continuation` vòng 1, nguyên văn (28/09); nguồn của các decision về hệ thống, đồng đội, cha của Tsuna, kiếp trước, hướng B |
 
 ## Bảng trích xuất — lần 1 xong 25/09/2026, đối chiếu: `_crosscheck/20260925-trich-xuat-lan-1.md`
 

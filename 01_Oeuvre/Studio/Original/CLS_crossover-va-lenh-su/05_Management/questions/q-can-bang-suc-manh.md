@@ -43,4 +43,4 @@ không cần ngang sức. Đây là suy luận của phiên làm việc, **chưa
 
 ## Trả lời
 
-**Aurel 25/10/2026:** *"Không cần luật riêng"* — không lập luật cân sức mạnh. Ngưỡng 2 đếm **ai giải quyết hộ ai**; sức mạnh theo [[luc-chien-lenh-su-manh-va-day-kinh-nghiem]] *(21/10)* *(20261025-tra-loi-cong-arc-2)*.
+**Aurel 25/10/2026:** *"Không cần luật riêng"* — không lập luật cân sức mạnh. Ngưỡng 2 đếm **ai giải quyết hộ ai**; sức mạnh theo [[luc-chien-lenh-su-manh-va-day-kinh-nghiem]] *(21/10)* *([[20261025-tra-loi-cong-arc-2]])*.

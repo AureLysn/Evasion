@@ -1278,6 +1278,10 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/he-thong-hac-nguyet-quang-hnqt.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/world-rules/fact-he-thong-hac-nguyet-quang-hnqt.md"
   ],
+  "heartless bear": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md",
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl.md"
+  ],
   "hem thap tokyo": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/locations/hem-canh-thap-tokyo-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/timeline/events/27-toi-tokyo-bcmf.md"
@@ -1414,6 +1418,10 @@
   "jason lan": [
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd.md",
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/lech-su-la-suc-manh-menh-do.md"
+  ],
+  "jason lenh su tu the gioi gop": [
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261003-nguoi-xem-arc-1-va-ba-nguoi-khong-quen.md",
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/jason-lenh-su-tu-the-gioi-gop.md"
   ],
   "jason noi dien voi dazai": [
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261003-cap-jason-va-canh-binh-thien-ha.md",
@@ -2018,9 +2026,17 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/loc-da-tuyet-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/events/loc-da-tuyet-chuyen-truong-tdtb.md"
   ],
+  "one eyed owl": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md",
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl.md"
+  ],
   "one for all": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/All-Might.md",
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Power_System/One-For-All.md"
+  ],
+  "operation zulo": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md",
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl.md"
   ],
   "organizations": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/organizations/_MOC.md",
@@ -3564,7 +3580,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 2234,
+ "count": 2244,
  "missing_aliases": [],
  "notes": [
   {
@@ -62825,7 +62841,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 481
+   "words": 520
   },
   {
    "aliases": [
@@ -63012,6 +63028,43 @@
    ],
    "type": "source",
    "words": 591
+  },
+  {
+   "aliases": [
+    "Aurel tra loi plan continuation TDTB",
+    "chon huong B TDTB",
+    "he thong y thuc the gioi nguyen van",
+    "0038 phi phap nguyen van",
+    "user input TDTB 28/09"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.TDTB.20260928-tra-loi-plan-continuation",
+   "keys": [
+    "0038 phi phap nguyen van",
+    "20260928 tra loi plan continuation",
+    "aurel tra loi plan continuation tdtb",
+    "chon huong b tdtb",
+    "he thong y thuc the gioi nguyen van",
+    "source tdtb 20260928 tra loi plan continuation",
+    "user input tdtb 28 09"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-09-28",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/01_Project-canon/sources/user-input/20260928-tra-loi-plan-continuation.md",
+   "project": "TDTB",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 275
   },
   {
    "aliases": [
@@ -75733,6 +75786,43 @@
   },
   {
    "aliases": [
+    "nguoi xem arc 1",
+    "người xem arc 1",
+    "Boothill Rappa Aventurine doi tau",
+    "ba nguoi khong quen o the gioi gop",
+    "Jason lenh su tu the gioi gop"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261003-nguoi-xem-arc-1-va-ba-nguoi-khong-quen",
+   "keys": [
+    "20261003 nguoi xem arc 1 va ba nguoi khong quen",
+    "ba nguoi khong quen o the gioi gop",
+    "boothill rappa aventurine doi tau",
+    "jason lenh su tu the gioi gop",
+    "nguoi xem arc 1",
+    "người xem arc 1",
+    "source cls 20261003 nguoi xem arc 1 va ba nguoi khong quen"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-03",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261003-nguoi-xem-arc-1-va-ba-nguoi-khong-quen.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 131
+  },
+  {
+   "aliases": [
     "the nhan vat loat Tsuna",
     "thẻ nhân vật loạt Tsuna",
     "fanart 纲吉N部曲",
@@ -75814,6 +75904,49 @@
    ],
    "type": "source",
    "words": 160
+  },
+  {
+   "aliases": [
+    "chin cau sau plan reviewer",
+    "chín câu sau plan reviewer",
+    "Stelle",
+    "khoi phim xen ke",
+    "khối phim xen kẽ",
+    "hanh xu theo tinh cach khong lien quan dung sai",
+    "de Jason ra tay thay Ashveil",
+    "ho tro khac truc tiep tham gia"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261004-chin-cau-sau-plan-reviewer",
+   "keys": [
+    "20261004 chin cau sau plan reviewer",
+    "chin cau sau plan reviewer",
+    "chín câu sau plan reviewer",
+    "de jason ra tay thay ashveil",
+    "hanh xu theo tinh cach khong lien quan dung sai",
+    "ho tro khac truc tiep tham gia",
+    "khoi phim xen ke",
+    "khối phim xen kẽ",
+    "source cls 20261004 chin cau sau plan reviewer",
+    "stelle"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-04",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261004-chin-cau-sau-plan-reviewer.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 417
   },
   {
    "aliases": [
@@ -75929,6 +76062,45 @@
    ],
    "type": "source",
    "words": 224
+  },
+  {
+   "aliases": [
+    "hieu ngam tren phim nguyen van",
+    "hiểu ngầm trên phim nguyên văn",
+    "co lien ket nhung khong ai hieu",
+    "có liên kết nhưng không ai hiểu",
+    "nguoi xem day dau cham hoi",
+    "bo thong tin bi nham"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261004-hieu-ngam-va-bo-thong-tin-nham",
+   "keys": [
+    "20261004 hieu ngam va bo thong tin nham",
+    "bo thong tin bi nham",
+    "co lien ket nhung khong ai hieu",
+    "có liên kết nhưng không ai hiểu",
+    "hieu ngam tren phim nguyen van",
+    "hiểu ngầm trên phim nguyên văn",
+    "nguoi xem day dau cham hoi",
+    "source cls 20261004 hieu ngam va bo thong tin nham"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-04",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261004-hieu-ngam-va-bo-thong-tin-nham.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 251
   },
   {
    "aliases": [
@@ -76166,6 +76338,117 @@
   },
   {
    "aliases": [
+    "chinh Byakuran",
+    "Byakuran tuong lai arc cau vong",
+    "cai chet thu ba Firefly Aurel",
+    "Ken Sinh Soi",
+    "Stelle Firefly bi tach",
+    "Farewell Penacony nguon"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261022-chinh-byakuran-va-cai-chet-thu-ba",
+   "keys": [
+    "20261022 chinh byakuran va cai chet thu ba",
+    "byakuran tuong lai arc cau vong",
+    "cai chet thu ba firefly aurel",
+    "chinh byakuran",
+    "farewell penacony nguon",
+    "ken sinh soi",
+    "source cls 20261022 chinh byakuran va cai chet thu ba",
+    "stelle firefly bi tach"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-22",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-chinh-byakuran-va-cai-chet-thu-ba.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 450
+  },
+  {
+   "aliases": [
+    "chinh thoi diem ket ban",
+    "quen sau khi Ampho thanh hien thuc",
+    "Dazai nhac Tsuna Hyacine chu y",
+    "doc ca arc Penacony va Arcadia"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261022-chinh-thoi-diem-ket-ban-va-doc-penacony",
+   "keys": [
+    "20261022 chinh thoi diem ket ban va doc penacony",
+    "chinh thoi diem ket ban",
+    "dazai nhac tsuna hyacine chu y",
+    "doc ca arc penacony va arcadia",
+    "quen sau khi ampho thanh hien thuc",
+    "source cls 20261022 chinh thoi diem ket ban va doc penacony"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-22",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-chinh-thoi-diem-ket-ban-va-doc-penacony.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 377
+  },
+  {
+   "aliases": [
+    "chon phuong an arc 2",
+    "Dazai Evernight bat tay hieu ngam",
+    "Dazai Fyodor Evernight",
+    "giong ??? la Cyrene",
+    "Memokeeper don ve Amphoreus"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "source.CLS.20261022-chon-phuong-an-arc-2-dazai-evernight",
+   "keys": [
+    "20261022 chon phuong an arc 2 dazai evernight",
+    "chon phuong an arc 2",
+    "dazai evernight bat tay hieu ngam",
+    "dazai fyodor evernight",
+    "giong la cyrene",
+    "memokeeper don ve amphoreus",
+    "source cls 20261022 chon phuong an arc 2 dazai evernight"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-22",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-chon-phuong-an-arc-2-dazai-evernight.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 227
+  },
+  {
+   "aliases": [
     "Aurel 22/10 CLS",
     "nghien cuu truoc khi viet",
     "phan tich nhan vat de role play",
@@ -76202,6 +76485,45 @@
    ],
    "type": "source",
    "words": 230
+  },
+  {
+   "aliases": [
+    "One-Eyed Owl",
+    "Heartless Bear",
+    "Operation Zulo",
+    "IPC Wolf ch07",
+    "hat giong nhe Jason Phainon Cipher",
+    "tra loi nam cau arc 1"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.85,
+   "id": "source.CLS.20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl",
+   "keys": [
+    "20261022 tra loi nam cau arc 1 va one eyed owl",
+    "hat giong nhe jason phainon cipher",
+    "heartless bear",
+    "ipc wolf ch07",
+    "one eyed owl",
+    "operation zulo",
+    "source cls 20261022 tra loi nam cau arc 1 va one eyed owl",
+    "tra loi nam cau arc 1"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-22",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 508
   },
   {
    "aliases": [
@@ -76282,6 +76604,88 @@
    ],
    "type": "source",
    "words": 387
+  },
+  {
+   "aliases": [
+    "tra loi cong arc 2",
+    "c truoc Stelle",
+    "bo C6 cho arc 2",
+    "lam arc 2",
+    "tam cau tra loi arc 2",
+    "Aurel tra loi a2-gate",
+    "bo tu xoa bo keo lai",
+    "Dazai ban HSR tu thiet ke",
+    "memokeeper bi evernight xu li"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.95,
+   "id": "source.CLS.20261025-tra-loi-cong-arc-2",
+   "keys": [
+    "20261025 tra loi cong arc 2",
+    "aurel tra loi a2 gate",
+    "bo c6 cho arc 2",
+    "bo tu xoa bo keo lai",
+    "c truoc stelle",
+    "dazai ban hsr tu thiet ke",
+    "lam arc 2",
+    "memokeeper bi evernight xu li",
+    "source cls 20261025 tra loi cong arc 2",
+    "tam cau tra loi arc 2",
+    "tra loi cong arc 2"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-25",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261025-tra-loi-cong-arc-2.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 456
+  },
+  {
+   "aliases": [
+    "tra loi bon cau ch02 arc 2",
+    "dong y them suspected_by Dan Heng",
+    "arc cua Dazai khong cam lo mat",
+    "bun den khong phai bun that",
+    "黑泥 khong phai bun that"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.95,
+   "id": "source.CLS.20261026-tra-loi-bon-cau-ch02-arc-2",
+   "keys": [
+    "20261026 tra loi bon cau ch02 arc 2",
+    "arc cua dazai khong cam lo mat",
+    "bun den khong phai bun that",
+    "dong y them suspected by dan heng",
+    "source cls 20261026 tra loi bon cau ch02 arc 2",
+    "tra loi bon cau ch02 arc 2",
+    "黑泥 khong phai bun that"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-10-26",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261026-tra-loi-bon-cau-ch02-arc-2.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 240
   },
   {
    "aliases": [
