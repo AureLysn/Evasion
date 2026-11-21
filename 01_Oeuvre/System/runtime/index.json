@@ -2554,10 +2554,6 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/secrets/tsuna-co-he-thong-nhiem-vu-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/events/x-burner-ha-kien-chi-lang-tdtb.md"
   ],
-  "tsuna giu bai assassin": [
-   "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/secrets/assassin-chua-chet.md",
-   "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/tracker/hook-assassin-con-song.md"
-  ],
   "tsuna gokudera": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/relationships/tsuna--gokudera-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/relationships/tsuna--gokudera-hnqt.md",
@@ -3265,7 +3261,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1666,
+ "count": 1664,
  "missing_aliases": [],
  "notes": [
   {
@@ -10988,7 +10984,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 3614
+   "words": 3633
   },
   {
    "aliases": [
@@ -41967,7 +41963,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 2471
+   "words": 2474
   },
   {
    "aliases": [
@@ -42384,7 +42380,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 79
+   "words": 82
   },
   {
    "aliases": [
@@ -42592,7 +42588,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 442
+   "words": 445
   },
   {
    "aliases": [
@@ -42814,7 +42810,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 119
+   "words": 122
   },
   {
    "aliases": [
@@ -42890,7 +42886,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 141
+   "words": 144
   },
   {
    "aliases": [
@@ -43241,7 +43237,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 568
+   "words": 571
   },
   {
    "aliases": [
@@ -43938,38 +43934,6 @@
   },
   {
    "aliases": [
-    "Assassin chua chet",
-    "bong lua xanh tham",
-    "Tsuna giu bai Assassin"
-   ],
-   "always_load": false,
-   "authority": "original_author",
-   "canon_layer": "fic_explicit",
-   "confidence": 1.0,
-   "id": "secret.PPCT.assassin-chua-chet",
-   "keys": [
-    "assassin chua chet",
-    "bong lua xanh tham",
-    "secret ppct assassin chua chet",
-    "tsuna giu bai assassin"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/secrets/assassin-chua-chet.md",
-   "project": "PPCT",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/reference",
-    "p/personal"
-   ],
-   "type": "secret",
-   "words": 220
-  },
-  {
-   "aliases": [
     "Dazai mang ky uc kiep truoc",
     "Dazai biet Tsuna tu truoc",
     "nguyen vong that cua Dazai",
@@ -44001,40 +43965,6 @@
    ],
    "type": "secret",
    "words": 251
-  },
-  {
-   "aliases": [
-    "Kirei van la Master",
-    "Master cua Assassin chua bai",
-    "Master bai tran o nha tho la gia",
-    "言峰绮礼 Master Assassin"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "official_canon",
-   "confidence": 0.85,
-   "id": "secret.PPCT.kirei-van-la-master",
-   "keys": [
-    "kirei van la master",
-    "master bai tran o nha tho la gia",
-    "master cua assassin chua bai",
-    "secret ppct kirei van la master",
-    "言峰绮礼 master assassin"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-21",
-   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/secrets/kirei-van-la-master.md",
-   "project": "PPCT",
-   "scope": "project",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/reference",
-    "p/personal"
-   ],
-   "type": "secret",
-   "words": 150
   },
   {
    "aliases": [
@@ -45704,7 +45634,7 @@
     "p/personal"
    ],
    "type": "event",
-   "words": 84
+   "words": 87
   },
   {
    "aliases": [
@@ -49902,7 +49832,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1735
+   "words": 1738
   },
   {
    "aliases": [
@@ -50044,7 +49974,7 @@
     "p/personal"
    ],
    "type": "decision",
-   "words": 147
+   "words": 150
   },
   {
    "aliases": [
@@ -50804,7 +50734,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 165
+   "words": 168
   },
   {
    "aliases": [

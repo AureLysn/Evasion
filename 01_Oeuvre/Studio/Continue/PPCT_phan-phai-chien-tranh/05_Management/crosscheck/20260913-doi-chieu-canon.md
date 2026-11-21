@@ -92,7 +92,7 @@ Truyện nói khác, và đó là **tiền đề của truyện**. `fic_explicit
 
 | Note | Đổi gì |
 |---|---|
-| [[assassin-chua-chet]] | thêm `suspected_by: kiritsugu` (canon + ch5), `known_by: tokiomi` (canon, truyện im lặng) |
+| assassin-chua-chet *(đã xóa 21/11/2026)* | thêm `suspected_by: kiritsugu` (canon + ch5), `known_by: tokiomi` (canon, truyện im lặng) |
 | q-loi-giai-bi-an-trung-tam | vế (c) giả thuyết Aurel **có nguồn**: Ch.405. Vế (a) **chưa xác minh** |
 | [[q-vat-pham-tren-nguoi-tsuna-la-gi]] | núm vú cam = Sky ✅ |
 | [[q-tiem-ca-ri-va-oda]] | canon xác nhận **chủ tiệm cà ri nuôi năm đứa trẻ, Oda gửi tiền** |

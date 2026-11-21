@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Assassin PPCT", "bong nguoi lua xanh tham", "Assassin gia chet PPCT"]
-related: ["[[assassin-chua-chet]]", "[[hook-assassin-con-song]]", "[[tsuna-thay-assassin-con-song]]", "[[Hassan-of-the-Hundred-Faces]]", "[[Kirei-Kotomine]]", "[[to-matou-va-kirei-theo-canon]]", "[[20260913-doi-chieu-canon]]"]
+related: ["[[hook-assassin-con-song]]", "[[tsuna-thay-assassin-con-song]]", "[[Hassan-of-the-Hundred-Faces]]", "[[Kirei-Kotomine]]", "[[to-matou-va-kirei-theo-canon]]", "[[20260913-doi-chieu-canon]]"]
 source:
   type: fic_text
   ref: "反派战争 ch5 (noi tam Kiritsugu), ch7"
@@ -30,7 +30,7 @@ Servant Assassin. Trên trang **chưa xuất hiện trực tiếp**, Master cũn
 
 - Ch5: Kiritsugu nghĩ sự tồn tại của Assassin làm rối mọi kế hoạch.
 - Ch7: Rider nói Archer 「就是用这个杀了Assassin吗？」 — tức tin chung là **Assassin đã chết**.
-- Ch7: sự thật khác — xem [[assassin-chua-chet]] *(bí mật)*.
+- Ch7: sự thật khác — xem assassin-chua-chet *(đã xóa 21/11/2026)* *(bí mật)*.
 
 ## Quan hệ
 

@@ -36,7 +36,7 @@ Chưa có trên trang. Canon: hiền, chịu đau phi thường. Trùng ăn cả
 
 ## Nhân vật này BIẾT gì
 
-- **Không** biết: [[kirei-van-la-master]] (ghi `unknown_to`).
+- **Không** biết: kirei-van-la-master *(đã xóa 21/11/2026)* (ghi `unknown_to`).
 - **Không** biết bất cứ gì về tổ Caster.
 
 ## Quan hệ

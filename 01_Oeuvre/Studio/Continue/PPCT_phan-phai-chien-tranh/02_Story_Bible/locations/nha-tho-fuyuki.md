@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: official_canon
 status: active
 aliases: ["nha tho Fuyuki", "冬木教会", "nha tho tren doc", "noi Master mat Servant xin che cho", "Kotomine church PPCT"]
-related: ["[[kirei]]", "[[Kirei-Kotomine]]", "[[kirei-van-la-master]]"]
+related: ["[[kirei]]", "[[Kirei-Kotomine]]"]
 source:
   type: franchise_canon
   ref: "Canon Fate/Zero. Tinh chinh 21/11/2026 sau reset PPCT: bo mo ta va state lay tu chuong viet tiep ch28-42."

@@ -76,7 +76,7 @@ Bảng cách gọi đầy đủ: các note `relationships/`.
 
 ## Nhân vật này BIẾT gì
 
-- Biết: [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]] · [[assassin-chua-chet]] · [[kiritsugu-la-master-that]] (được Dazai chỉ ra, ch4)
+- Biết: [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]] · assassin-chua-chet *(đã xóa 21/11/2026)* · [[kiritsugu-la-master-that]] (được Dazai chỉ ra, ch4)
 - **Không biết:** vì sao Archer coi mình là bảo vật — 「我也不明白啊」 (ch9)
 
 ## Quan hệ

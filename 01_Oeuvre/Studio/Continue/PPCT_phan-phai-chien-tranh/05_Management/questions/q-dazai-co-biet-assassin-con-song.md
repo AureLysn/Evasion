@@ -9,7 +9,7 @@ status: resolved
 resolved_by: dazai-biet-assassin-con-song
 decision_owner: user
 aliases: ["Dazai co biet Assassin con song", "Dazai co thay bong lua xanh", "POV Dazai Assassin"]
-related: ["[[assassin-chua-chet]]", "[[tsuna-thay-assassin-con-song]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[tsuna-thay-assassin-con-song]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 source:
   type: fic_text
   ref: "反派战争 ch6 (Dazai muon mat Tsuna), ch7"
@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 
 > ✅ **ĐÃ CHỐT 13/09/2026** — [[dazai-biet-assassin-con-song]]: phương án A — Dazai biết, qua mắt Tsuna. *Phần dưới giữ để truy vết.*
 
-> ⚠️ Đây là câu hỏi CHƯA CHỐT. Trong [[assassin-chua-chet]], Dazai **không nằm trong danh sách nào**.
+> ⚠️ Đây là câu hỏi CHƯA CHỐT. Trong assassin-chua-chet *(đã xóa 21/11/2026)*, Dazai **không nằm trong danh sách nào**.
 
 ## Vì sao cần quyết
 

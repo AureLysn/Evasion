@@ -15,7 +15,7 @@ payoff:
   arc:
   chapter:
 aliases: ["Assassin con song hook", "Tsuna giu bai Assassin", "la bai Assassin"]
-related: ["[[assassin-chua-chet]]", "[[tsuna-thay-assassin-con-song]]", "[[assassin]]"]
+related: ["[[tsuna-thay-assassin-con-song]]", "[[assassin]]"]
 source:
   type: fic_text
   ref: "反派战争 ch7"

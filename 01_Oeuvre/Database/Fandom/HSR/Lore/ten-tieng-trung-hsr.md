@@ -24,8 +24,10 @@ last_updated: 2026-11-21
 >
 > - **TextMap cn** — tra chuỗi TextMap tiếng Trung của game. Dùng được.
 > - **bộ name Aurel** — khớp bảng tên `Name HSR - Tổng.csv` của Aurel.
+> - **chưa đối chiếu CSV** — tên dùng trong project hoặc tra BWIKI, chưa khớp với bảng của Aurel; nguồn ghi trong ngoặc. Dùng thận trọng.
+> - **chưa chắc** — tên Việt có nguồn, chữ Hán chưa tra.
 >
-> Chỉ đưa vào đây tên có một trong hai nguồn trên. 143 dòng khác *(phiên AI tự đặt, biệt danh, mô tả riêng của chương, "khá chắc" không nguồn)* **không** chép sang; chúng vẫn ở bảng gốc.
+> Ba mức cuối giữ đúng như bảng gốc *(theo quyết định của Aurel 21/11/2026, rà soát lần 3 N10)*. 143 dòng khác *(phiên AI tự đặt, biệt danh, mô tả riêng của chương, "khá chắc" không nguồn)* **không** chép sang; chúng vẫn ở bảng gốc.
 >
 > Bảng gốc vẫn ở `CLS.../04_Manuscript/chapters/*/chNN-zh-bang-ten.md`. Cột *Lần đầu* là chương CLS nơi tên được ghi lần đầu.
 
@@ -48,7 +50,7 @@ last_updated: 2026-11-21
 | Dovebrook | 鸽川 | TextMap cn | CLS arc-1/ch01 |
 | Văn Phòng Thám Tử | 不死途侦探事务所 | TextMap cn | CLS arc-1/ch01 |
 | Điện Hạ Tu La-Súng Bạc (Rappa gọi Boothill) | 银枪•修罗殿下 | TextMap cn | CLS arc-1/ch01 |
-| Biệt danh Rappa đặt: Gậy Bóng Chày / Ruri / Hiryū | 球棒忍者 / 琉璃忍者 / 飞龙忍者 | TextMap cn | CLS arc-1/ch01 |
+| Biệt danh Rappa đặt: Gậy Bóng Chày / Ruri / Hiryū | 球棒忍者 / 琉璃忍者 / 飞龙忍者 | chưa chắc *(tên Việt theo TextMap)* | CLS arc-1/ch01 |
 | Tổ Chức Đồng Nguyện | 共愿帮 | TextMap cn | CLS arc-1/ch02 |
 | Quán Rượu "Tận Thế" | 世界尽头酒馆 | TextMap cn | CLS arc-1/ch02 |
 | Mặt Nạ Sói | 狼之面具 | TextMap cn | CLS arc-1/ch02 |
@@ -204,13 +206,12 @@ last_updated: 2026-11-21
 | inspiration circuit | 灵感回路 | TextMap cn | CLS arc-2/ch07 |
 | memory zone entanglement | 忆域纠缠 | TextMap cn | CLS arc-2/ch07 |
 | Herta | 黑塔 | TextMap cn | CLS arc-2/ch07 |
-| Evernight | 长夜月 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch08 |
-| Garden of Recollection | 忆庭 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch08 |
-| Irontomb | 铁墓 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch09 |
-| world-cleansing golden blood | 净世金血 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch09 |
-| Fourth Instant · coronation | 第四时刻 · 「铁墓」的加冕 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch09 |
-| Sacrament Courtyard | 祝祭庭院 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch10 |
-| Fuli | 浮黎 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch10 |
+| Evernight | 长夜月 | chưa đối chiếu CSV *(tên dùng trong project)* | CLS arc-2/ch08 |
+| Irontomb | 铁墓 | chưa đối chiếu CSV *(tên dùng trong project)* | CLS arc-2/ch09 |
+| world-cleansing golden blood | 净世金血 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* | CLS arc-2/ch09 |
+| Fourth Instant · coronation | 第四时刻 · 「铁墓」的加冕 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* | CLS arc-2/ch09 |
+| Sacrament Courtyard | 祝祭庭院 | chưa đối chiếu CSV *(BWIKI, kiểm lại 30/10/2026)* | CLS arc-2/ch10 |
+| Fuli | 浮黎 | chưa đối chiếu CSV *(thẻ cảnh, dàn ý arc)* | CLS arc-2/ch10 |
 | Robin | 知更鸟 | TextMap cn | CLS arc-3/ch01 |
 | Firefly | 流萤 | TextMap cn | CLS arc-3/ch01 |
 | Dahlia | 大丽花 | TextMap cn | CLS arc-3/ch01 |
@@ -244,7 +245,7 @@ last_updated: 2026-11-21
 | vương quốc thùng rác · vua thùng rác | 垃圾桶王国 · 垃圾桶之王 | TextMap cn | CLS arc-3/ch03 |
 | Clockwork | 钟表把戏 | TextMap cn | CLS arc-3/ch03 |
 | Acheron | 黄泉 | TextMap cn | CLS arc-3/ch03 |
-| Vườn Ký ức · Memokeeper | 忆庭 · 忆者 | TextMap cn | CLS arc-3/ch03 |
+| Viện Ký Ức (Garden of Recollection) · Nhớ Giả (Memokeeper) | 忆庭 (CSV: 流光忆庭) · 忆者 | TextMap cn; bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-2/ch08, arc-3/ch03 |
 | căn cứ bí mật · Biên giới Dựng Mộng | 秘密据点 · 筑梦边境 | TextMap cn | CLS arc-3/ch03 |
 | Hội chứng Mất Entropy | 失熵症 | TextMap cn | CLS arc-3/ch03 |
 | khoang y tế | 医疗舱 | TextMap cn | CLS arc-3/ch03 |
@@ -276,10 +277,8 @@ last_updated: 2026-11-21
 | giữ hộ · tạm thời bảo quản | 保管 · 暂为保管 | TextMap cn | CLS arc-3/ch04 |
 | Clock Studios Theme Park | 劳克影视乐园 | TextMap cn | CLS arc-3/ch05 |
 | Swarm Nightmare | 深魇蝗灾 | TextMap cn | CLS arc-3/ch06 |
-| 「mưa sao」 | 星雨 | TextMap cn | CLS arc-3/ch06 |
 | “King of Humankind” | 人类之王 | TextMap cn | CLS arc-3/ch07 |
 | Tiernan · Razalina | 铁尔南 · 拉扎莉娜 | TextMap cn | CLS arc-3/ch10 |
 | dì Jessie | 翠丝阿姨 | TextMap cn | CLS arc-3/ch10 |
-| Nhớ Giả · Viện Ký Ức | 忆者 · 忆庭 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-3/ch10 |
 | Path | 命途 | bộ name Aurel (Name HSR - Tổng.csv) | CLS arc-3/ch10 |
 | Bà Từ Ngọc | 慈玉女士 | TextMap cn | CLS arc-3/ch10 |

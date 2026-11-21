@@ -187,7 +187,7 @@ Không phải lời hứa về cốt truyện, chỉ ghi lại: ch12 hứa tuầ
 | [[waver]] | suy sụp vì thấy mình nửa vời | [[waver]] |
 | [[gilgamesh]] | đòi Tsuna; tuyên chiến Rider | [[hook-archer-tuyen-chien-rider]] |
 | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar\|iskandar]] | nguyện vọng thân thể thịt; bị tuyên chiến | [[hook-archer-tuyen-chien-rider]] |
-| [[kiritsugu]] | biết có thế lực dùng máy móc, không biết là ai; nghi Assassin | [[assassin-chua-chet]] |
+| [[kiritsugu]] | biết có thế lực dùng máy móc, không biết là ai; nghi Assassin | assassin-chua-chet *(đã xóa 21/11/2026)* |
 | [[diarmuid]] · [[kayneth]] | bị Dazai giữ sống làm mồi; thương vàng còn nguyền Saber | [[hook-he-qua-thay-to-caster]] |
 | [[tokiomi]] | còn hai lệnh chú | — |
 | [[berserker]] | nhắm Saber; Master chưa từng lên trang | [[q-to-matou-va-kirei-co-trong-truyen]] |

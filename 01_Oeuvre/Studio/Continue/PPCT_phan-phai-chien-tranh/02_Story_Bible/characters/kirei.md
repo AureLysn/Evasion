@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: official_canon
 status: active
 aliases: ["Kirei PPCT", "Kotomine Kirei PPCT", "言峰绮礼", "绮礼", "Master bai tran o nha tho", "nguoi mo cua nha tho ch28"]
-related: ["[[Kirei-Kotomine]]", "[[kirei-van-la-master]]", "[[nha-tho-fuyuki]]", "[[to-matou-va-kirei-theo-canon]]"]
+related: ["[[Kirei-Kotomine]]", "[[nha-tho-fuyuki]]", "[[to-matou-va-kirei-theo-canon]]"]
 source:
   type: user_input
   ref: "to-matou-va-kirei-theo-canon (Aurel 13/09/2026). Tinh chinh 21/11/2026 sau reset PPCT: bo moi state cua chuong viet tiep ch16-42."
@@ -27,7 +27,7 @@ Master của Assassin, con của giám sát viên Risei. Canon: [[Kirei-Kotomine
 ## Riêng trong fic này
 
 - Có trong PPCT theo canon — [[to-matou-va-kirei-theo-canon]].
-- Bí mật: vẫn là Master của Assassin — [[kirei-van-la-master]].
+- Bí mật: vẫn là Master của Assassin — kirei-van-la-master *(đã xóa 21/11/2026)*.
 - Nguyên tác ch1–15: **chưa lên trang**.
 
 ## Ai biết gì về hắn — tại cuối ch15
