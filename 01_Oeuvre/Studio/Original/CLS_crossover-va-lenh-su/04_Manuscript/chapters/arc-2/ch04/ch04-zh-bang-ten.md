@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch04 arc 2 CLS", "bảng tên tiếng Trung ch04 arc 2"]
-related: ["[[ch04-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 26/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch04 arc 2. Ten MOI lay tu bang de xuat trong ch04-plan-a2 (TextMap cn, chua doi chieu Name HSR - Tong.csv cua Aurel, A4). Ten da co o ch01-ch03 arc 2 lay lai tu cac bang ten truoc (dan bang alias 'ch01 arc 2 CLS zh', 'ch02 arc 2 CLS zh', 'bang ten tieng Trung ch03 arc 2 CLS'). Ten khong tra ra thi ghi ro, khong doan. Alias 'ch04 arc 2 CLS zh' thuoc ve ch04-chapter."
@@ -19,7 +19,7 @@ last_updated: 2026-10-26
 
 # Bảng tên tiếng Trung — ch04 arc 2 (第四章　三千万次)
 
-Tên dùng lại từ ch01–ch03 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 星期日 · 缇宝 · 缇宁 · 万敌 · 遐蝶 · 阿格莱雅 · 迷迷 · 风堇 · 克拉特鲁斯 · 金线 · 云石市集 · 奥赫玛 · 黑潮 · 永昼 · 黑袍剑士 · 刻法勒*(chỉ trong 「刻法勒的火种」)* · 册子 · 篷布 · 蜜饼. **黑泥**: chương này **không** dùng chữ ấy ở đâu cả *(C7)*. Dưới đây là tên **mới** của ch04 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của [[ch04-plan-a2]] *(đọc 26/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
+Tên dùng lại từ ch01–ch03 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 · 螺丝咕姆 · 星期日 · 缇宝 · 缇宁 · 万敌 · 遐蝶 · 阿格莱雅 · 迷迷 · 风堇 · 克拉特鲁斯 · 金线 · 云石市集 · 奥赫玛 · 黑潮 · 永昼 · 黑袍剑士 · 刻法勒*(chỉ trong 「刻法勒的火种」)* · 册子 · 篷布 · 蜜饼. **黑泥**: chương này **không** dùng chữ ấy ở đâu cả *(C7)*. Dưới đây là tên **mới** của ch04 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = lấy từ bảng đề xuất của ch04-plan-a2 *(đọc 26/10)*, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
 
 ## Tên riêng
 

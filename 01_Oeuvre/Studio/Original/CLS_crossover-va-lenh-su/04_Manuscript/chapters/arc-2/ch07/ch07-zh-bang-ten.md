@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch07 arc 2 CLS", "bảng tên tiếng Trung ch07 arc 2", "Lech dan y ch07 arc 2 CLS"]
-related: ["[[ch07-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch07 arc 2. Ten MOI lay tu bang de xuat trong ch07-plan-a2 (TextMap cn); phien viet doc lai TextMap cn tren may 27/10 (chi doc; trich chuoi ra file tam de grep, khong chep van) de kiem su co mat cua tung chuoi ten/thuat ngu o duoi (cot Chac?). Chi so dong trong tom tat nhiem vu cua phien viet khong trung so cua planner (cach tach chuoi khac) nen KHONG ghi chi so, chi ghi 'co trong TextMap cn'. CHUA doi chieu Name HSR - Tong.csv cua Aurel (A4). Ten khong tra ra thi ghi ro, khong doan."
@@ -20,7 +20,7 @@ last_updated: 2026-10-30
 # Bảng tên tiếng Trung — ch07 arc 2 (第七章　囚笼)
 
 Tên dùng lại từ ch01–ch06 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 星期日 · 黑天鹅 · 螺丝咕姆 · 迷迷 · 来古士 · 昔涟 · 阿格莱雅 · 缇宝 · 赛飞儿 · 万敌 · 创世涡心 *(涡心)* · 哀丽秘榭 *(chỉ qua 「麦田」, không gọi tên)* · 识刻锚 *(B9: đã lên phim ở ch05; ch07 một câu tả lại ở 7.01)* · 云石天宫 *(ch01–02)*. **黑泥** · **那人** · 册子 · 木箱 · 蜜饼 · 篷布 · 市集: chương này **không** dùng chữ nào; hắn vắng hoàn toàn.
-Cột 「Chắc?」: **TextMap cn** = chuỗi có thật trong TextMap cn (phiên viết grep lại 27/10) *và* có trong bảng của [[ch07-plan-a2]], **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **vault** = dùng lại chữ của chương trước; **phiên đặt** = phiên viết đặt, không có nguồn tra.
+Cột 「Chắc?」: **TextMap cn** = chuỗi có thật trong TextMap cn (phiên viết grep lại 27/10) *và* có trong bảng của ch07-plan-a2, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **vault** = dùng lại chữ của chương trước; **phiên đặt** = phiên viết đặt, không có nguồn tra.
 
 ## Tên riêng
 

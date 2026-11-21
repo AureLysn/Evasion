@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
 chapter: 5
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["chuong 5 CLS", "chương 5 CLS", "ch5 arc 1 CLS", "ch05 CLS zh", "第五章 估值", "ban thu tieng Trung ch05 CLS"]
-related: ["[[ch05-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[ch05-01-nguoi-ke-thua]]", "[[ch05-02-dung-tin]]", "[[ch05-03-dinh-gia]]", "[[ch05-04-mui-ten-lan-hai]]", "[[ch05-05-chan-thap]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-chapter|ch04-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-chapter|ch04-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Planarcadia-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 18/10/2026 theo ke hoach ch05 ban 2 (da qua review-plan hai luot, 0 high) va nam the canh ch05-01..05 ban 2; ap cac residue cua reviewer N1-N5 va dong ve Aventurine/Nihilux/ngoai hinh. Ban thu, viet bang tieng Trung. Ten rieng: ch05-zh-bang-ten.md."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-18
+last_updated: 2026-11-21
 ---
 
 # 第五章　估值

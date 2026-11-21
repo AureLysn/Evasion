@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-7-nguoi-xem-den-cuoi
 chapter: 46
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争46（DeepSeek版）"
 aliases: ["ch46 ban DeepSeek nhap", "chương 46 bản song song DeepSeek", "反派战争46 DeepSeek"]
-related: ["[[ch46-ds-plan]]", "[[ch46-ds-the-canh]]", "[[ch46-ds-kiem]]", "[[ch45-ds-nhap]]"]
+related: [ "[[ch45-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch46-ds-the-canh (2 lượt: A–B; C–D); Claude kiểm lượt 1 và sửa (xem ch46-ds-kiem). Bản aurel-main chưa có ch46. Chat arc 7 (ch45–46): https://chat.deepseek.com/a/chat/s/eb3f56b4-33d5-4d20-95d9-f931c441e2cc"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争46

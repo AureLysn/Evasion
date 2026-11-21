@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-3-ba-dua-tre
 chapter: "pn3-01"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.kunikida]
 language: zh
 aliases: ["pn3-01 ban DeepSeek nhap", "phiên ngoại kỳ thi vào Tổ DeepSeek", "反派战争 番外十四 入社试验 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-01-ds-the-canh]]", "[[pn3-01-ds-kiem]]", "[[pn2-09-ds-nhap]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Dazai-Osamu]]"]
+related: [ "[[pn2-09-ds-nhap]]", "[[Armed-Detective-Agency]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Fukuzawa-Yukichi]]", "[[Dazai-Osamu]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A, C–E, ba bản vụ án (C-a) và ba câu gạch (C-b); GPT chấm (chọn 案子一 sửa cơ chế, 划掉二 cắt câu đầu) và đọc thử; Claude kiểm, viết bù lên ~2.000 chữ (xem pn3-01-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/da8bba17-92cc-46a8-87fc-e1f82913e423"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·十四 入社试验

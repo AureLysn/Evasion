@@ -1,12 +1,11 @@
 ﻿---
 id: chplan.TRIAD.chuong-02-aurel-viet-lai
-type: chapter_plan
+type: chapter
 scope: project
 lane: personal
 project: TRIAD
-arc: san-sang-loc
 chapter: 2
-canon_layer: fic_explicit
+canon_layer: planned
 status: draft
 day: 2
 pov:
@@ -38,7 +37,7 @@ tags:
   - p/personal
 legacy_tags:
   - k/chapter
-last_updated: 2026-09-12
+last_updated: 2026-11-21
 ---
 
 > **Bản nháp số 2 — chỉnh sửa 23/9/2026 

@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-6-co-xe-gia
 chapter: 42
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争42（DeepSeek版）"
 aliases: ["ch42 ban DeepSeek nhap", "chương 42 bản song song DeepSeek", "反派战争42 DeepSeek"]
-related: ["[[ch42-ds-the-canh]]", "[[ch42-ds-kiem]]", "[[ch41-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch42/ch42-chapter|ch42-chapter (aurel-main, final)]]"]
+related: [ "[[ch41-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch42/ch42-chapter|ch42-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 16/11/2026. DeepSeek viết toàn bộ theo ch42-ds-the-canh (3 lượt: A–C; D–F; bốn đoạn bù sàn); Claude kiểm lượt 1 và sửa (xem ch42-ds-kiem). Không dùng văn bản ch42-chapter final. Chat arc 6 (ch41–42): https://chat.deepseek.com/a/chat/s/48c4c382-085c-4b4d-b57a-172b04c43e65"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-16
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争42

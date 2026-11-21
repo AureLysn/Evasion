@@ -1,12 +1,11 @@
 ﻿---
 id: chplan.TRIAD.chuong-01-aurel-viet-lai
-type: chapter_plan
+type: chapter
 scope: project
 lane: personal
 project: TRIAD
-arc: san-sang-loc
 chapter: 1
-canon_layer: fic_explicit
+canon_layer: planned
 status: draft
 pov: ["character.TRIAD.dazai", "character.TRIAD.gojo", "character.TRIAD.tsuna", "character.TRIAD.phap-y", "character.TRIAD.thien-su"]
 word_count: 3349
@@ -21,7 +20,7 @@ confidence: 0.9
 always_load: false
 tags: [d/writing, p/personal]
 legacy_tags: [k/chapter]
-last_updated: 2026-09-12
+last_updated: 2026-11-21
 ---
 
 > **Bản canon của chương 1** — chốt 12/09/2026. Đây là bản Aurel tự viết lại 11/09/2026; bản

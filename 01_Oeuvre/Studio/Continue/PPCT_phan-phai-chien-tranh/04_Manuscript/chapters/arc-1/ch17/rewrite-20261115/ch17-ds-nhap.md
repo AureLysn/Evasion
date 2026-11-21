@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-1-vuong-yen-ha-man
 chapter: 17
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.waver, character.PPCT.dazai]
 language: zh
 title: "【太纲无差】反派战争17（DeepSeek版）"
 aliases: ["ch17 ban DeepSeek nhap", "chương 17 bản song song DeepSeek", "反派战争17 DeepSeek"]
-related: ["[[ch17-ds-the-canh]]", "[[ch17-ds-kiem]]", "[[ch16-ds-nhap]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17-chapter (aurel-main, final)]]"]
+related: [ "[[ch16-ds-nhap]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch17-ds-the-canh (2 lượt: A–B, rồi C–E); Claude kiểm lượt 1 và sửa (xem ch17-ds-kiem). Không dùng văn bản ch17-chapter final. Chat: https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争17

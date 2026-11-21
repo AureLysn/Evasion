@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-7-nguoi-xem-den-cuoi
 chapter: 43
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争43（DeepSeek版）"
 aliases: ["ch43 ban DeepSeek nhap", "chương 43 bản song song DeepSeek", "反派战争43 DeepSeek"]
-related: ["[[ch43-ds-plan]]", "[[ch43-ds-the-canh]]", "[[ch43-ds-kiem]]", "[[ch42-ds-nhap]]"]
+related: [ "[[ch42-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 16/11/2026. DeepSeek viết toàn bộ theo ch43-ds-the-canh (2 lượt: A–B; C–D); Claude kiểm lượt 1 và sửa (xem ch43-ds-kiem). Bản aurel-main chưa có ch43. Chat arc 7 (ch43–44): https://chat.deepseek.com/a/chat/s/9ad40b6b-47d6-46b3-acdc-2ea356049b15"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-16
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争43

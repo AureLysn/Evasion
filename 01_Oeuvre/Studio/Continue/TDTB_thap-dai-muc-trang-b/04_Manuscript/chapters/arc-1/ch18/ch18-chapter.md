@@ -5,18 +5,17 @@ scope: branch
 lane: personal
 project: TDTB
 branch: aurel-main
-arc: dan-y-ch16-ch18-lam-lai-tdtb
 chapter: 18
 canon_layer: planned
-status: final
+status: draft
 pov: [character.TDTB.gokudera-hayato-tdtb, character.TDTB.sawada-tsunayoshi-tdtb]
 language: zh
 title: "装B的第十八天"
 aliases: ["chuong 18 TDTB", "装B的第十八天", "Gokudera o Namimori ch18", "het arc 1 TDTB chuong"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai|ke hoach ch18]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
+related: [ "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 ※本章为同人续写，非原作者乐博所写。

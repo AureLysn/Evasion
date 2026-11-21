@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-2-i-prescelti-sette
 chapter: "pn2-04"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.reborn, character.PPCT.lal, character.PPCT.verde, character.PPCT.viper]
 language: zh
 aliases: ["pn2-04 ban DeepSeek nhap", "phiên ngoại Bảy người xa lạ hạ DeepSeek", "反派战争 番外八 七个陌生人下 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-04-ds-the-canh]]", "[[pn2-04-ds-kiem]]", "[[pn2-03-ds-nhap]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
+related: [ "[[pn2-03-ds-nhap]]", "[[Reborn]]", "[[Lal-Mirch]]", "[[Verde]]", "[[Viper]]", "[[Colonnello]]", "[[Aria]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. Chương không có điểm mở (C4, C5 đã duyệt); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa; GPT đọc thử (xem pn2-04-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/969c7c42-f500-4aba-949c-a5f68d948906"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·八 七个陌生人（下）

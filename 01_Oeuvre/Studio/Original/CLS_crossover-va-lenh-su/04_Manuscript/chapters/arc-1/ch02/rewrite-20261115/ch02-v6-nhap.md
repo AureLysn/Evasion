@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v6-cls
 chapter: 2
 canon_layer: planned
 status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["ch02 ban 6 nhap", "chương 2 bản 6 nháp", "第二章 管辖"]
-related: ["[[ch02-v6-the-canh]]", "[[ch02-v6-kiem]]", "[[ch01-v6-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-chapter|ch02-chapter]]"]
+related: [ "[[ch01-v6-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-chapter|ch02-chapter]]"]
 source:
   type: inference
   ref: "Ban 6, nhap 15/11/2026. DeepSeek viet cac khoi A, A', B, C, B2, C2, E (hai luot); phien sua (xem ch02-v6-kiem). Khoi van phong Pearl: phien chuyen the tu ch02 ban final cu (dong 404-452), bo Jason. Chat: https://chat.deepseek.com/a/chat/s/fe2e14df-fa07-4426-a05f-986dbfb5998c"
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 # 第二章　管辖

@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
 chapter: 6
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.boothill]
 aliases: ["chuong 6 CLS", "chương 6 CLS", "ch6 arc 1 CLS", "ch06 CLS zh", "第六章 报名", "ban thu tieng Trung ch06 CLS"]
-related: ["[[ch06-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[ch06-01-xung-ten]]", "[[ch06-02-toi-biet-doan-nay]]", "[[ch06-03-de-tao]]", "[[ch06-04-lay-gi-ma-chac]]", "[[ch06-05-xu-dat-cuoc]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-zh-bang-ten|ch06-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
 source:
   type: inference
   ref: "write-chapter 18/10/2026 theo ke hoach ch06 ban 2 (da qua review-plan hai luot, 0 high) va nam the canh ch06-01..05 ban 2; ap cac residue N1-N3 cua reviewer; ba khoi phim ke tu ngoai (chi tha cho thay tren man hinh), loi phong ke tu Boothill. Ban thu, viet bang tieng Trung. Ten rieng: ch06-zh-bang-ten.md."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-24
+last_updated: 2026-11-21
 ---
 
 # 第六章　报名

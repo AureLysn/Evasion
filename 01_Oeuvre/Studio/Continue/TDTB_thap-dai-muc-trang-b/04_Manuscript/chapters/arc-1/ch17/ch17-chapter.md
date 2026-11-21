@@ -5,18 +5,17 @@ scope: branch
 lane: personal
 project: TDTB
 branch: aurel-main
-arc: dan-y-ch16-ch18-lam-lai-tdtb
 chapter: 17
 canon_layer: planned
-status: final
+status: draft
 pov: [character.TDTB.loc-da-tuyet-tdtb, character.TDTB.sawada-tsunayoshi-tdtb, character.TDTB.gokudera-hayato-tdtb]
 language: zh
 title: "装B的第十七天"
 aliases: ["chuong 17 TDTB", "ban viet lai ch17 TDTB", "装B的第十七天", "het tap 1 TDTB", "Tsuna goi Takeshi"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai|the viet lai ch17]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter]]"]
+related: [ "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 ※本章为同人续写，非原作者乐博所写。

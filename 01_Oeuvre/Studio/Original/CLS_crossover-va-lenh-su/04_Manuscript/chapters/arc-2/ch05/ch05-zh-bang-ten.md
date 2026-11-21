@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch05 arc 2 CLS", "bảng tên tiếng Trung ch05 arc 2"]
-related: ["[[ch05-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch05 arc 2. Ten MOI lay tu bang de xuat trong ch05-plan-a2 (TextMap cn), chua doi chieu Name HSR - Tong.csv cua Aurel (A4). Phien viet grep them TextMap cn (doc, 27/10): nhan ba man, 智识命途, 识刻锚, 沉浸式戏剧：《英雄之旅》. Ten da co o ch01-ch04 arc 2 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan. Alias 'ch05 arc 2 CLS zh' thuoc ve ch05-chapter."
@@ -19,7 +19,7 @@ last_updated: 2026-10-27
 
 # Bảng tên tiếng Trung — ch05 arc 2 (第五章　邀约)
 
-Tên dùng lại từ ch01–ch04 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 *(không xuất hiện trong thân chương này — Black Swan không có lời, không có cử chỉ)* · 螺丝咕姆 · 星期日 · 迷迷 · 万敌 · 阿格莱雅 · 奥赫玛 · 黑潮 · 黑袍 *(「黑袍的影子」)* · 册子 · 木箱 · 纸包 · 蜜饼 · 彩虹色的幕. **黑泥**: chương này **không** dùng chữ ấy ở đâu cả *(C7)*; phòng không gọi hắn bằng tên nào, lời kể gọi 「那人」. Dưới đây là tên **mới** của ch05 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = có trong bảng đề xuất của [[ch05-plan-a2]] hoặc phiên viết grep lại 27/10, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
+Tên dùng lại từ ch01–ch04 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 黑天鹅 *(không xuất hiện trong thân chương này — Black Swan không có lời, không có cử chỉ)* · 螺丝咕姆 · 星期日 · 迷迷 · 万敌 · 阿格莱雅 · 奥赫玛 · 黑潮 · 黑袍 *(「黑袍的影子」)* · 册子 · 木箱 · 纸包 · 蜜饼 · 彩虹色的幕. **黑泥**: chương này **không** dùng chữ ấy ở đâu cả *(C7)*; phòng không gọi hắn bằng tên nào, lời kể gọi 「那人」. Dưới đây là tên **mới** của ch05 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = có trong bảng đề xuất của ch05-plan-a2 hoặc phiên viết grep lại 27/10, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
 
 ## Tên riêng
 

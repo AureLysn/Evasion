@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-4-ba-dao-lenh-chu
 chapter: 31
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.gilgamesh]
 language: zh
 aliases: ["chuong 31 PPCT", "ban nhap tieng Trung ch31", "礼物 ban nhap", "反派战争31 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan|plan ch31]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争31

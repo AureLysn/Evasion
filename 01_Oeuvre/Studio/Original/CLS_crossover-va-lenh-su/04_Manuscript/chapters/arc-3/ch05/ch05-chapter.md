@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-3-tsuna-v2-cls
 chapter: 5
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 5 arc 3 CLS", "chương 5 arc 3 CLS", "ch05 arc 3 CLS zh", "第五章 三重梦", "ban nhap tieng Trung ch05 arc 3 CLS"]
-related: ["[[ch05-plan-a3]]", "[[a3-ch05-01-ban-cuoc-lon]]", "[[a3-ch05-02-bao-cong-ty-truoc]]", "[[a3-ch05-03-luu-mong-tieu]]", "[[a3-ch05-04-trong-hai-hoa]]", "[[a3-ch05-05-giac-mo-dep]]", "[[a3-ch05-06-ba-tang-mo]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch04/ch04-chapter|ch04-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch04/ch04-chapter|ch04-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Robin]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam) theo ch05-plan-a3 va sau the canh a3-ch05-01..06 (da sua 02/11). Noi tu cuoi ch04 arc 3 (final): dong ho Aventurine 'muoi sau' nhay thanh 'muoi lam'. Canon: wiki Sequence Recap (Heaven is a Place on Earth, The Tell-Tale Heart, All the Sad Tales, A Walk Among the Tombstones, The Great Train Robbery, Small Town Grotesque, The Public Enemy, The Only Path to Tomorrow, Seabiscuit, Beauty and Destruction, Everything that Rises Must Converge, The Sun Also Rises, And on the Eighth Day) va TextMap cn 30075-30097, 182094-182120, 195855-196008 - chi dien y, khong chep thoai (B1). Ngoai hinh Micah, 梦主, Gallagher, Jade theo Penacony-npc-ngoai-hinh; Boothill theo Boothill.md; Soi Bac theo Silver-Wolf.md (form thuong, phim 3.8). PHIEN DAT / DE XUAT (khong canon): cau trong phong cua Stelle, March, Dan Heng, Himeko, Welt, Sunday, Soi Bac, Firefly; canh nguoi do bao Jade truoc va nam vao be mo (5.02) va cau 'Toi cung di' (5.06) - toan bo; cai nut tron nho cua Sparkle (tu 5.01); nhat dong ho; cac chi tiet con vat va phong ghi trong bang ten. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban nhap, tieng Trung."
 authority: ai
 confidence: 0.35
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-02
+last_updated: 2026-11-21
 ---
 
 # 第五章　三重梦

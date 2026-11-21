@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-3-hai-cay-thuong
 chapter: 28
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.sola-ui, character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 28 PPCT", "ban nhap tieng Trung ch28", "教会 ban nhap", "反派战争28 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan|plan ch28]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争28

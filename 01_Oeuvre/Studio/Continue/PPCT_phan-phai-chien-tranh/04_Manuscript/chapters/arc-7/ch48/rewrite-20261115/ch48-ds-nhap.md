@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-7-nguoi-xem-den-cuoi
 chapter: 48
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.kiritsugu]
 language: zh
 title: "【太纲无差】反派战争48（DeepSeek版）"
 aliases: ["ch48 ban DeepSeek nhap", "chương 48 bản song song DeepSeek", "反派战争48 DeepSeek"]
-related: ["[[ch48-ds-plan]]", "[[ch48-ds-the-canh]]", "[[ch48-ds-kiem]]", "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]"]
+related: [ "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết toàn bộ theo ch48-ds-the-canh (A–B viết lại một lần; C; D–E); Claude kiểm và sửa; GPT đọc thử, Claude áp các điểm đã kiểm (xem ch48-ds-kiem). Bản aurel-main chưa có ch48. Chat ch48: https://chat.deepseek.com/a/chat/s/7b6c70c2-d89a-46a7-b589-5c55c1d2460c"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争48

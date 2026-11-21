@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-3-hai-cay-thuong
 chapter: 26
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 26 PPCT", "ban nhap tieng Trung ch26", "梦 ban nhap", "反派战争26 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan|plan ch26]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争26

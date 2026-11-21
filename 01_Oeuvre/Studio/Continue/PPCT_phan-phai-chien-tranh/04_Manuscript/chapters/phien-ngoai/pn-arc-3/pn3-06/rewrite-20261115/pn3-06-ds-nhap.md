@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-3-ba-dua-tre
 chapter: "pn3-06"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn3-06 ban DeepSeek nhap", "phiên ngoại hai Tsuna DeepSeek", "反派战争 番外十九 两个纲吉 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-06-ds-the-canh]]", "[[pn3-06-ds-kiem]]", "[[pn3-05-ds-nhap]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]"]
+related: [ "[[pn3-05-ds-nhap]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 说话 (C-b) và ba bản 今晚 (C-a); GPT chấm (ghép 说话一+三, 今晚一 + bánh của 今晚三) và đọc thử; Claude kiểm và sửa (xem pn3-06-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/afdde674-051e-44ca-b190-251c5c3dfa78"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·十九 两个纲吉

@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-1-yokohama-va-quan-lupin
 chapter: "pn1-01"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn1-01 ban DeepSeek nhap", "phiên ngoại khai trương DeepSeek", "反派战争 番外一 开张 DeepSeek"]
-related: ["[[pn-arc-1-ds-plan]]", "[[pn1-01-ds-the-canh]]", "[[pn1-01-ds-kiem]]", "[[ch51-ds-nhap]]"]
+related: [ "[[ch51-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết A–C (ba bản C) và D–G (ba bản mỗi chỗ D, E, G; tên quán); GPT chấm (晴れの日, C1+C3, D2 + một nhịp D3, E1, 番外·一); DeepSeek viết bản hoàn chỉnh theo lựa chọn; Claude kiểm và sửa (xem pn1-01-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/47ebd9e3-d696-440e-8fce-303de9e87869"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·一 开张

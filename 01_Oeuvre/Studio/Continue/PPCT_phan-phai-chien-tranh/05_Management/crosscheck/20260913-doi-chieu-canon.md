@@ -98,5 +98,5 @@ Truyện nói khác, và đó là **tiền đề của truyện**. `fic_explicit
 | [[q-tiem-ca-ri-va-oda]] | canon xác nhận **chủ tiệm cà ri nuôi năm đứa trẻ, Oda gửi tiền** |
 | [[hook-he-qua-thay-to-caster]] | E1 |
 | [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/byakuran\|byakuran]] | 「棉花糖」 = marshmallow — **đã sửa** lỗi dịch "kẹo bông" |
-| [[artoria]] · cảnh [[04_Manuscript/chapters/arc-1/ch16/scenes/02-ch16-nhung-nuoc-anh]] | *13/09:* thêm link [[Artoria-Pendragon]]; thẻ cảnh 02 nhận danh sách "điểm rẽ" dựng từ canon |
+| [[artoria]] · cảnh 02-ch16-nhung-nuoc-anh | *13/09:* thêm link [[Artoria-Pendragon]]; thẻ cảnh 02 nhận danh sách "điểm rẽ" dựng từ canon |
 | Còn lại | chỉ thêm link `related` lên note canon |

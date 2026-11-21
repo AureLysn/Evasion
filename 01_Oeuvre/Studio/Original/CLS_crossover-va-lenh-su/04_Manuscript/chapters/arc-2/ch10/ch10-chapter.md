@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-2-dazai-v3-cls
 chapter: 10
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 10 arc 2 CLS", "chương 10 arc 2 CLS", "ch10 arc 2 CLS zh", "第十章 第一个早晨", "ban thu tieng Trung ch10 arc 2 CLS"]
-related: ["[[ch10-plan-a2]]", "[[a2-ch10-01-xe-bac]]", "[[a2-ch10-02-hai-loi]]", "[[a2-ch10-03-cho-neo]]", "[[a2-ch10-04-nhin-lai]]", "[[a2-ch10-05-buoi-sang]]", "[[a2-ch10-06-ai-neo-han]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-chapter|ch09-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch09/ch09-chapter|ch09-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch10/ch10-zh-bang-ten|ch10-zh-bang-ten]]"]
 source:
   type: inference
   ref: "write-chapter 30/10/2026, PHIEN DIEU PHOI tu viet (xuong-lam, mot tac nhan), theo ch10-plan-a2 (Aurel duyet 30/10) va sau the a2-ch10-01..06. Noi tu cuoi ch09 arc 2 (铁墓 nga, tuong tam nua tat). Canon 3.7: CHI tom tat phai sinh nhom C 1 #22-#23 va 2(a)(b) (khong TextMap) - moi loi canon dien lai. Ten cn 祝祭庭院, 仪式剑 theo _crosscheck/20261030-ten-cn-va-ngoai-hinh-3-6-3-7 (tra online 30/10). Cho neo, buoi sang dau tien, hop am: de xuat theo chot Aurel (cau 2 = A, cau 8, huong-arc-2-3 #5). Hat giong giay vang: phuong an B (Aurel 30/10) - khong tra. Ban nhap, tieng Trung, chua qua nguoi soat doc lap."
 authority: ai
 confidence: 0.35
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-30
+last_updated: 2026-11-21
 ---
 
 # 第十章　第一个早晨

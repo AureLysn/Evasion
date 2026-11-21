@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-3-tsuna-v2-cls
 chapter: 1
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.robin]
 aliases: ["chuong 1 arc 3 CLS", "chương 1 arc 3 CLS", "ch01 arc 3 CLS zh", "第一章 余音", "ban thu tieng Trung ch01 arc 3 CLS"]
-related: ["[[ch01-plan-a3]]", "[[a3-ch01-01-du-am]]", "[[a3-ch01-02-ghe-moi]]", "[[a3-ch01-03-buoc-nhay]]", "[[a3-ch01-04-quay-le-tan]]", "[[a3-ch01-05-dieu-luat]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-chapter|ch10-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]", "[[Silver-Wolf]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch10/ch10-chapter|ch10-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Penacony-npc-ngoai-hinh]]", "[[Doan-tau-ngoai-hinh]]", "[[Silver-Wolf]]"]
 source:
   type: inference
   ref: "write-chapter 01/11/2026 (xuong-lam) theo ch01-plan-a3 va nam the canh a3-ch01-01..05 (da sua sau review-plan 01/11). Noi tu cuoi ch10 arc 2 (final, tam gan): hop am khong ai hat, 'wall chua sang'. Canon: TextMap cn tom tat nhiem vu 2.0 (dong 27207, 30069, 30071, 112033, 112039, 112040, 112096, 112743) + tom tat phai sinh nhom A (dien y, khong chep thoai - B1). Ngoai hinh Robin, Firefly, Dahlia theo anh In-Game wiki (Aurel 01/11 'Theo wiki', arc-3-chot-01-11 #10): ghi o Penacony-npc-ngoai-hinh; Soi Bac form thuong theo Silver-Wolf (anh Aurel 12/10); Doan tau theo Doan-tau-ngoai-hinh. Cau Sunday noi ra ngoai khung, giong thu hai khong loi, hoa van thiep moi (day nho co nhac), cau Black Swan va Dahlia, cau Firefly lap bap: PHIEN DAT, khong canon. Cac khoi phim ke tu ngoai, cac nhip phong ke tu Robin. Ban thu, tieng Trung."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-01
+last_updated: 2026-11-21
 ---
 
 # 第一章　余音

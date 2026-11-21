@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
 chapter: 7
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.boothill]
 aliases: ["chuong 7 CLS", "chương 7 CLS", "ch7 arc 1 CLS", "ch07 CLS zh", "第七章 不计价", "ban thu tieng Trung ch07 CLS"]
-related: ["[[ch07-plan-v2]]", "[[ch07-01-tang-duoi-v2]]", "[[ch07-02-bay-sap-v2]]", "[[ch07-03-ra-gia-v2]]", "[[ch07-04-cam-chan-v2]]", "[[ch07-05-chinh-am-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-chapter|ch06-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-chapter|ch06-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
 source:
   type: inference
   ref: "write-chapter 22/10/2026 theo ke hoach ch07 ban 2 va nam the canh v2; Aurel uy quyen 'tu lam het arc 1' (22/10); ke hoach tu duyet 25/10 (giao_viec auto, Aurel 25/10 'hoan thien chuong'); ch06 final 24/10. Khoi phim ke tu ngoai, nhip phong ke tu Boothill. Ban thu, tieng Trung. Sua 25/10 (plan-fix, hang doi): M1 thuoc truy na, M2 cu chi tay phai Ashveil, M4 bao gia co dieu khoan, M5 lam mo nhip phong 'co nguoi biet truoc', L4–L7. Sua lan 2 25/10 theo check-continuity: V1–V3, N1–N9, N11."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-25
+last_updated: 2026-11-21
 ---
 
 # 第七章　不计价

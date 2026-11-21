@@ -11,7 +11,7 @@ needed_before:
   chapter: "van xuoi ch3 canh 02, va moi canh danh sau do (ch6, ch7)"
 decision_owner: user
 aliases: ["suc manh San ban cua Jason", "sức mạnh Săn bắn của Jason", "Jason lenh su trong ra sao", "da chon muc tieu thi khong truot"]
-related: ["[[CLS]]", "[[lech-su-la-suc-manh-menh-do]]", "[[jason-lenh-su-tu-the-gioi-gop]]", "[[ch03-02-khong-dau]]", "[[ch07-04-cam-chan]]", "[[Lan]]"]
+related: ["[[CLS]]", "[[lech-su-la-suc-manh-menh-do]]", "[[jason-lenh-su-tu-the-gioi-gop]]", "[[Lan]]"]
 source:
   type: inference
   ref: "plan-continuation 04/10/2026 — plan-reviewer luot 3, M4: dieu chua quyet chi nam trong bang cua the canh"

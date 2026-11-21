@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-2-dazai-v3-cls
 chapter: 1
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.phainon]
 aliases: ["chuong 1 arc 2 CLS", "chương 1 arc 2 CLS", "ch01 arc 2 CLS zh", "第一章 霜", "ban thu tieng Trung ch01 arc 2 CLS"]
-related: ["[[ch01-plan-a2]]", "[[a2-ch01-01-suong-gia]]", "[[a2-ch01-02-toa-roi]]", "[[a2-ch01-03-nguoi-toc-trang]]", "[[a2-ch01-04-to-vang]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch08/ch08-chapter|ch08-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]", "[[Amphoreus-npc-ngoai-hinh]]"]
 source:
   type: inference
   ref: "write-chapter 25/10/2026 (xuong-lam, hang doi CLS) theo ch01-plan-a2 va bon the canh a2-ch01-01..04, da tu duyet 25/10. Noi tu cau cuoi ch08 arc 1 (final). Canon: TextMap cn tom tat nhiem vu va wiki-thoai nhom A (phai sinh, dien y, khong chep thoai - B1). Ngoai hinh nhan vat HSR theo Amphoreus-npc-ngoai-hinh (C6 khong ap arc 2, Aurel 25/10). Nguoi o Okhema chi la bong lung theo thiet ke de xuat Dazai Đ1 (cho Aurel xem). Cac khoi phim ke tu ngoai, cac nhip phong ke tu Phainon. Ban thu, tieng Trung. Sua 25/10 (fix, hang doi) theo check-continuity: H1 tach loi phong khoi khoi phim, V1-V3, N1-N3, N6-N8."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-25
+last_updated: 2026-11-21
 ---
 
 # 第一章　霜

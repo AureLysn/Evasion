@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-1-yokohama-va-quan-lupin
 chapter: "pn1-02"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.irisviel]
 language: zh
 aliases: ["pn1-02 ban DeepSeek nhap", "phiên ngoại Irisviel DeepSeek", "反派战争 番外二 一家人 DeepSeek"]
-related: ["[[pn-arc-1-ds-plan]]", "[[pn1-02-ds-the-canh]]", "[[pn1-02-ds-kiem]]", "[[pn1-01-ds-nhap]]", "[[ch51-ds-nhap]]"]
+related: [ "[[pn1-01-ds-nhap]]", "[[ch51-ds-nhap]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 17/11/2026. DeepSeek viết A–E một lượt (ba bản mỗi chỗ B, C, D); GPT chấm (B1, C3 + một câu C1, D1); Claude ghép và sửa (xem pn1-02-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/499b41a6-d9a8-46c1-957b-44fb41b8762f"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-17
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·二 一家人

@@ -9,7 +9,7 @@ chapter: 5
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch05 CLS", "bảng tên ch05 CLS", "ten Trung ch05 CLS"]
-related: ["[[ch05-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia]]", "[[Ashveil]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia]]", "[[Ashveil]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "TextMap cn tren may Aurel (DesignData/Windows/cn, chi doc), tra 17/10/2026 bang loc chuoi UTF-8 theo tu khoa (tm2.py, tm_and.py trong scratchpad phien); doi chieu nghia voi Planarcadia.md va Ashveil.md; sua 18/10 theo review-plan ch05 luot 1 (L2, M2, H2, L7)"
@@ -42,7 +42,7 @@ Tên dùng lại từ ch01–ch04: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_cr
 | Que cổ vũ FES | **「星铁FES」粉丝应援棒** | TextMap cn *(đạo cụ tuỳ chọn ở 5.01)* |
 | Lệnh sứ | **令使** | TextMap cn: 「「令使」——你一定会跟注的」 · 「借由基石分得「存护」令使的权能」. Thay dòng 「chưa tra TextMap riêng」 của [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten\|ch03-zh-bang-ten]] |
 | Bộ Phận Đầu Tư Chiến Lược | **战略投资部** | TextMap cn: 「星际和平公司「战略投资部」的高级干部，「石心十人」之一」 |
-| Tín dụng *(tiền IPC)* | **信用点** | TextMap cn. **Không** dùng ở ch05 — ch05 không có độ lớn nào ([[ch05-plan]] mục 6) |
+| Tín dụng *(tiền IPC)* | **信用点** | TextMap cn. **Không** dùng ở ch05 — ch05 không có độ lớn nào (ch05-plan mục 6) |
 | Gia tộc *(Penacony)* | **家族** | TextMap cn |
 | 「ứng viên」 của Gia tộc | **候选人** | **đề xuất** — TextMap cn dùng 候选人 cho nghĩa 「người được xét chọn」 ở nhiều chỗ; không có chữ riêng của Gia tộc |
 | ước giá / ra giá | **估值** / **报价** | chữ thường; **đề xuất** — 估值 ở ch05, 报价 để ch07. Câu xếp loại ở 5.03: 「估不出来，所以才值钱」 **[đề xuất]** |
@@ -62,4 +62,4 @@ Tên dùng lại từ ch01–ch04: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_cr
 
 - **虚照**: canon có cô ở chặng FES (dẫn tham quan lắp giáp máy, mô hình 「合金帕姆王」), nhưng TextMap cn 「虚照以钢笔钉入不死途的手腕」 trùng với dòng [[Planarcadia]] 「Nihilux cắm bút vào cổ tay hắn」 → 虚照 thuộc tuyến Nihilux, **không** dùng trong arc 1 (nguoi-xem-nho-toi-cuoi-ban-truoc).
 - 「破晓战队的名誉第五人」 (lời mời Stelle làm thành viên danh dự thứ năm): có trong TextMap cn nhưng không rõ thuộc nhiệm vụ chính hay phụ → không dùng.
-- Ngoại hình 赤焰 · 苍翼 · 曙光: TextMap không có; vault không có ảnh → **chưa có nguồn**; xem [[ch05-plan]] mục 11.
+- Ngoại hình 赤焰 · 苍翼 · 曙光: TextMap không có; vault không có ảnh → **chưa có nguồn**; xem ch05-plan mục 11.

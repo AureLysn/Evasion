@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-1-vuong-yen-ha-man
 chapter: 16
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.artoria, character.PPCT.irisviel]
 language: zh
 title: "【太纲无差】反派战争16（DeepSeek版）"
 aliases: ["ch16 ban DeepSeek nhap", "chương 16 bản song song DeepSeek", "反派战争16 DeepSeek"]
-related: ["[[ch16-ds-the-canh]]", "[[ch16-ds-kiem]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter (aurel-main, final)]]"]
+related: [ "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch16-ds-the-canh (2 lượt: A–B, rồi C–E); Claude kiểm lượt 1 và sửa (xem ch16-ds-kiem). Không dùng văn bản ch16-chapter final. Chat: https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争16

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten tieng Trung ch06 arc 2 CLS", "bảng tên tiếng Trung ch06 arc 2"]
-related: ["[[ch06-plan-a2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch05/ch05-zh-bang-ten|ch05-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch04/ch04-zh-bang-ten|ch04-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch03/ch03-zh-bang-ten|ch03-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-2/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Amphoreus-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "write-chapter 27/10/2026 (xuong-lam, hang doi CLS) — ban nhap ch06 arc 2. Ten MOI lay tu bang de xuat trong ch06-plan-a2 (TextMap cn), phien viet doc lai TextMap cn tren may 27/10 (chi doc, grep chuoi cu the) de kiem cac chuoi 「无缘黎明的卡厄斯兰那」, 「仪式剑」, 「33550336比0」, 「拿去吧…我背负的一切」, 「泰坦」, 「天才俱乐部」 va cau cua Cyrene moi. CHUA doi chieu Name HSR - Tong.csv cua Aurel (A4). Ten da co o ch01-ch05 arc 2 lay lai tu cac bang ten truoc. Ten khong tra ra thi ghi ro, khong doan."
@@ -19,7 +19,7 @@ last_updated: 2026-10-27
 
 # Bảng tên tiếng Trung — ch06 arc 2 (第六章　造像)
 
-Tên dùng lại từ ch01–ch05 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 星期日 · 黑天鹅 · 螺丝咕姆 · 迷迷 · 来古士 · 昔涟 · 万敌 · 阿格莱雅 · 缇宝 · 赛飞儿 · 创世涡心 *(涡心)* · 哀丽秘榭 · 识刻锚 *(**không** dùng ở ch06)*. **黑泥** · **那人** · 册子 · 木箱 · 蜜饼 · 篷布: chương này **không** dùng chữ nào; hắn vắng hoàn toàn. Dưới đây là tên **mới** của ch06 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = có trong bảng đề xuất của [[ch06-plan-a2]] hoặc phiên viết grep lại 27/10, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
+Tên dùng lại từ ch01–ch05 arc 2: 白厄 · 星 · 三月七 · 丹恒 · 姬子 · 瓦尔特 · 星期日 · 黑天鹅 · 螺丝咕姆 · 迷迷 · 来古士 · 昔涟 · 万敌 · 阿格莱雅 · 缇宝 · 赛飞儿 · 创世涡心 *(涡心)* · 哀丽秘榭 · 识刻锚 *(**không** dùng ở ch06)*. **黑泥** · **那人** · 册子 · 木箱 · 蜜饼 · 篷布: chương này **không** dùng chữ nào; hắn vắng hoàn toàn. Dưới đây là tên **mới** của ch06 hoặc tên **chưa chắc**. Cột 「Chắc?」: **TextMap cn** = có trong bảng đề xuất của ch06-plan-a2 hoặc phiên viết grep lại 27/10, **chưa đối chiếu** `Name HSR - Tổng.csv` *(A4: Aurel đối chiếu)*; **phiên đặt** = phiên viết đặt, không có nguồn tra.
 
 ## Tên riêng
 

@@ -5,7 +5,6 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: arc-3-hai-cay-thuong
 chapter: 26
 canon_layer: planned
 status: draft
@@ -13,7 +12,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争26（DeepSeek版）"
 aliases: ["ch26 ban DeepSeek nhap", "chương 26 bản song song DeepSeek", "反派战争26 DeepSeek"]
-related: ["[[ch26-ds-the-canh]]", "[[ch26-ds-kiem]]", "[[ch25-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch26/ch26-chapter|ch26-chapter (aurel-main, final)]]"]
+related: [ "[[ch25-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch26/ch26-chapter|ch26-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch26-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch26-ds-kiem). Không dùng văn bản ch26-chapter final. Chat arc 3: https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9"
@@ -21,7 +20,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争26

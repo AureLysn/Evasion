@@ -7,7 +7,7 @@ project: CLS
 canon_layer: planned
 status: draft
 aliases: ["bang ten ch02 arc 3 CLS", "bảng tên ch02 arc 3 CLS", "bang ten 第二章 星期日的朋友"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[ch02-plan-a3]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]", "[[Robin]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch02/ch02-chapter|ch02-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-3/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[Penacony-npc-ngoai-hinh]]", "[[Robin]]"]
 source:
   type: inference
   ref: "write-chapter 02/11/2026 (xuong-lam). Ten lay tu bang ten de xuat cua ch02-plan-a3 (TextMap cn 30071, 30091, 113140, 20751, 19985, 151248; wiki fandom Sleepless Night, Tales from the Golden Age) va bang ten ch01 arc 3. Khong co Name HSR - Tong.csv trong phien nay - ten MOI chua doi chieu (A4)."
@@ -26,7 +26,7 @@ last_updated: 2026-11-02
 
 | Chữ | Nghĩa | Nguồn trong project | Dùng ở cảnh | Đối chiếu |
 |---|---|---|---|---|
-| 加拉赫 | Gallagher | [[ch02-plan-a3]] *(TextMap cn 30071: 「自称为治安官的加拉赫」)* | 2.03, tự giới thiệu một lần; sau đó 「加拉赫」 | chưa đối chiếu CSV |
+| 加拉赫 | Gallagher | ch02-plan-a3 *(TextMap cn 30071: 「自称为治安官的加拉赫」)* | 2.03, tự giới thiệu một lần; sau đó 「加拉赫」 | chưa đối chiếu CSV |
 | 猎犬家系 · 年轻的猎犬 | nhà Chó Săn · mấy thành viên trẻ nhà Chó Săn | TextMap cn 30091 *(猎犬家系)*; 「年轻的猎犬」: **phiên đặt** cho cách gọi chung | 2.03 | chưa đối chiếu CSV |
 | 鸢尾花家系 | nhà Diên Vĩ *(Iris)* | TextMap cn 30071 *(「鸢尾花家系的艺者流萤」)* | 2.03, Firefly tự giới thiệu một lần | chưa đối chiếu CSV |
 | 偷渡犯 | kẻ lậu vé | TextMap cn 30071, 30091 | 2.03, một lần do thành viên nhà Chó Săn hô; 偷渡客 **không** dùng | chưa đối chiếu CSV |

@@ -7,7 +7,7 @@ project: CLS
 canon_layer: user_canon
 status: active
 aliases: ["One-Eyed Owl", "Heartless Bear", "Operation Zulo", "IPC Wolf ch07", "hat giong nhe Jason Phainon Cipher", "tra loi nam cau arc 1"]
-related: [ "[[ch07-plan]]", "[[ch08-plan]]", "[[Ashveil]]", "[[Galaxy-Rangers]]"]
+related: [ "[[Ashveil]]", "[[Galaxy-Rangers]]"]
 source:
   type: user_input
   ref: "Aurel, phien cloud 22/10/2026, tra loi nam cau cuoi bao cao Planarcadia; doan 'One-Eyed Owl' la van ban wiki Aurel dan vao (chua kiem tren trang goc)"

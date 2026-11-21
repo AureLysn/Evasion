@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-5-ke-san-va-con-moi
 chapter: 38
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 38 PPCT", "ban nhap tieng Trung ch38", "noi ba dao lenh chu ban nhap", "反派战争38 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-5/ch38/ch38-plan|plan ch38]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争38

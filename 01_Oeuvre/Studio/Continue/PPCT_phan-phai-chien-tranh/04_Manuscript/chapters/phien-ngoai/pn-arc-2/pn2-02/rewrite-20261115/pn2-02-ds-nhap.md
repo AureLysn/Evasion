@@ -5,14 +5,13 @@ scope: branch
 lane: personal
 project: PPCT
 branch: deepseek-20261115
-arc: pn-arc-2-i-prescelti-sette
 chapter: "pn2-02"
 canon_layer: planned
 status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn2-02 ban DeepSeek nhap", "phiên ngoại Bài toán lời nguyền DeepSeek", "反派战争 番外六 诅咒的算术 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-02-ds-the-canh]]", "[[pn2-02-ds-kiem]]", "[[pn2-01-ds-nhap]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]"]
+related: [ "[[pn2-01-ds-nhap]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. Chương không có điểm mở (C3 đã duyệt); DeepSeek viết bản hoàn chỉnh; Claude kiểm và sửa; GPT đọc thử (xem pn2-02-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/f9873bdd-b4be-433b-919a-1b694f79f487"
@@ -20,7 +19,7 @@ authority: ai
 confidence: 0.4
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-18
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争 番外·六 诅咒的算术

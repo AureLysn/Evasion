@@ -1,12 +1,11 @@
 ﻿---
 id: chplan.TRIAD.chuong-02
-type: chapter_plan
+type: chapter
 scope: project
 lane: personal
 project: TRIAD
-arc: san-sang-loc
 chapter: 2
-canon_layer: fic_explicit
+canon_layer: planned
 status: draft
 day: 2
 pov: ["character.TRIAD.dazai", "character.TRIAD.gojo", "character.TRIAD.phap-y", "character.TRIAD.thien-su"]
@@ -21,7 +20,7 @@ confidence: 0.5
 always_load: false
 tags: [d/fanfic, p/personal]
 legacy_tags: [k/chapter]
-last_updated: 2026-09-12
+last_updated: 2026-11-21
 ---
 
 > **Bản nháp AI, chưa qua tay Aurel.** `authority: ai` — đây là bản đề xuất, không phải canon.

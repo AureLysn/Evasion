@@ -5,17 +5,16 @@ scope: branch
 lane: personal
 project: PPCT
 branch: aurel-main
-arc: arc-3-hai-cay-thuong
 chapter: 27
 canon_layer: planned
-status: final
+status: draft
 pov: [character.PPCT.tsuna, character.PPCT.diarmuid]
 language: zh
 aliases: ["chuong 27 PPCT", "ban nhap tieng Trung ch27", "决斗 ban nhap", "反派战争27 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan|plan ch27]]"]
+related: []
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 【太纲无差】反派战争27

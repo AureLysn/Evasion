@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
 chapter: 8
 canon_layer: planned
-status: final
+status: draft
 language: zh
 pov: [character.boothill]
 aliases: ["chuong 8 CLS", "chương 8 CLS", "ch8 arc 1 CLS", "ch08 CLS zh", "第八章 他从哪儿来", "ban thu tieng Trung ch08 CLS"]
-related: ["[[ch08-plan-v2]]", "[[ch08-01-hayek-v2]]", "[[ch08-02-tien-chuoi-v2]]", "[[ch08-03-hai-cau-hoi-v2]]", "[[ch08-04-khong-phai-cua-lan-v2]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch07/ch07-chapter|ch07-chapter]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[watch-frame]]"]
 source:
   type: inference
   ref: "write-chapter 22/10/2026 theo ke hoach ch08 ban 2 va bon the canh v2; Aurel uy quyen 'tu lam het arc 1' (22/10); ke hoach CHUA duoc Aurel duyet tung muc; ch06 con draft. Cac khoi phim ke tu ngoai, cac canh phong ke tu Boothill. Ban thu, tieng Trung. Sua 25/10 (plan-fix, hang doi) theo review-plan ch08: V1 bo cap hoi-dap Sunday lap ch07, V2 Stelle khong dem nguoi bi thuong. Sua lan 2 25/10 theo check-continuity: V1 doi nhip ten ra khoi chuoi ve giong, V2 'hoa mien' Sunday phong, N1-N7."
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-25
+last_updated: 2026-11-21
 ---
 
 # 第八章　他从哪儿来

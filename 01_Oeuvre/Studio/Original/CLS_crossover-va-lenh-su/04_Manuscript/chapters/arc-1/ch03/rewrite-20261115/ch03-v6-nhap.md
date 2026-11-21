@@ -4,21 +4,20 @@ type: chapter
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v6-cls
 chapter: 3
 canon_layer: planned
 status: draft
 language: zh
 pov: [character.boothill, character.CLS.jason-todd]
 aliases: ["ch03 ban 6 nhap", "chương 3 bản 6 nháp", "第三章 小鸟"]
-related: ["[[ch03-v6-the-canh]]", "[[ch03-v6-kiem]]", "[[ch02-v6-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]]"]
+related: [ "[[ch02-v6-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-chapter|ch05-chapter]]"]
 source:
   type: inference
   ref: "Ban 6, nhap 15/11/2026. Khoi hau truong FES va khoi ong mau: DeepSeek viet, phien sua. FES canon, dinh gia cua Aventurine, mui ten lan hai: phien chuyen the tu ch05 ban final cu; phong ban 'tieu dieu / hac ne': tu ch02 cu. Xem ch03-v6-kiem. Chat: https://chat.deepseek.com/a/chat/s/fe2e14df-fa07-4426-a05f-986dbfb5998c"
 authority: ai
 confidence: 0.4
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-11-15
+last_updated: 2026-11-21
 ---
 
 # 第三章　小鸟
