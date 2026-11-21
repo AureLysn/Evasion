@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "sau ch3, truoc ngay quay show (doi thuc). Trong the gioi nhiem vu: 24 gio, ket thuc luc rang dong"
   arc: "mo-dau"
-  chapter: "ch4-ch8"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.kien-chi-lang-tdtb", "character.TDTB.kibutsuji-muzan-tdtb", "character.TDTB.binh-an-uyen-hoang-tdtb", "character.TDTB.illumi-zoldyck-tdtb"]
 location: ["[[tram-trung-chuyen-tdtb]]", "[[ky-vien-edo-tdtb]]", "[[ngoc-sinh-vien-tdtb]]"]
 aliases: ["Quy diet 2.0", "Quỷ diệt 2.0", "nhiệm vụ Gion", "nhiem vu Ky vien", "Kimetsu task TDTB", "nhiệm vụ 24 giờ", "tiêu diệt Ức Cát", "Muzan lại bắt đầu gây sự"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

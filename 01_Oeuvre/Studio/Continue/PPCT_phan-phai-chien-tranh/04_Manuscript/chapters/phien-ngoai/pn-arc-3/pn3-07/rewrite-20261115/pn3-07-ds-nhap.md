@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.dazai]
 language: zh
 aliases: ["pn3-07 ban DeepSeek nhap", "phiên ngoại chuyện cũ DeepSeek", "反派战争 番外二十 旧事 DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-07-ds-the-canh]]", "[[pn3-07-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-06-ds-nhap]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[Zero-Point-Breakthrough]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-07-ds-the-canh]]", "[[pn3-07-ds-kiem]]", "[[pn3-06-ds-nhap]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[Zero-Point-Breakthrough]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 梦 (C-a) và ba bản 捣乱 (C-b); GPT chấm (梦一 + 梦二 rút gọn, bỏ 梦三; 捣乱三 làm xương sống ghép 一、二) và đọc thử; Claude kiểm và sửa (xem pn3-07-ds-kiem). Phong ấn của Nono và đối chứng Lambo: [Fanon-phê phán canon] theo dàn ý cũ III.5 và V16. Chat: https://chat.deepseek.com/a/chat/s/ae5e9e97-ef46-4f5b-9f9e-f22b7227b80a"

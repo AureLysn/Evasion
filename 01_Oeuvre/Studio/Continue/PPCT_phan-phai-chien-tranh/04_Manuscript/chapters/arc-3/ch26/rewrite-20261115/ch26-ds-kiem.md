@@ -10,7 +10,7 @@ chapter: 26
 canon_layer: planned
 status: active
 aliases: ["kiem ch26 ban DeepSeek", "kiểm ch26 bản song song", "ch26 ds kiem PPCT"]
-related: ["[[ch26-ds-nhap]]", "[[ch26-ds-the-canh]]", "[[deepseek-20261115]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
+related: ["[[ch26-ds-nhap]]", "[[ch26-ds-the-canh]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat arc 3 https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af9833a-613c-83ec-92bd-8824f9e7ec68"

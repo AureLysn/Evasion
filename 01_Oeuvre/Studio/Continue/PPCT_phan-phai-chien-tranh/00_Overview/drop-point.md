@@ -216,10 +216,10 @@ Mỗi dòng là một note `question`, `status: unresolved`. **Không chốt ở
 | Dazai nhặt Sách khi nào, Sách ở đâu? | [[q-dazai-nhat-sach-khi-nao]] 🆕 |
 | Từ triệu hồi tới ngày 1 là bao lâu? | [[q-khoang-cach-trieu-hoi-den-ngay-1]] 🆕 |
 | Dazai có biết Assassin còn sống? | [[q-dazai-co-biet-assassin-con-song]] |
-| Dazai tìm Gokudera để làm gì? | [[q-dazai-tim-gokudera-de-lam-gi]] |
+| Dazai tìm Gokudera để làm gì? | q-dazai-tim-gokudera-de-lam-gi |
 | Mỗi vật phẩm trên người Tsuna là gì? | [[q-vat-pham-tren-nguoi-tsuna-la-gi]] |
 | Sông hay biển? | [[q-nhay-song-hay-nhay-bien]] |
-| Bí ẩn trung tâm giải thế nào? | [[q-loi-giai-bi-an-trung-tam]] |
+| Bí ẩn trung tâm giải thế nào? | q-loi-giai-bi-an-trung-tam |
 
 ## Xếp hạng tuyến mở — trục tất yếu
 

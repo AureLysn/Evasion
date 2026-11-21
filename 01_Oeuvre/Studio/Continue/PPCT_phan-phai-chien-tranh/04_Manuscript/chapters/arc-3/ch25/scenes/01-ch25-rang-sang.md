@@ -19,7 +19,7 @@ target_paragraph_mean: 48
 target_sentence_median: 20
 status: planned
 aliases: ["canh 25-01 rang sang", "黎明 ch25", "Lancer quyet dinh pha thuong", "moc xich ch24 ch25"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[to-caster-biet-lenh-chu-doi-tay]]", "[[sola-ui-gianh-lenh-chu]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[Diarmuid-Ua-Duibhne]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -54,7 +54,7 @@ Phía bên kia của hình ảnh ch24. Người đọc vừa thấy Lancer qua m
 
 - ch24 câu cuối: 「那把枪还完完整整地放在他的膝盖上。」 · Lancer ngồi 「在离货箱不远的一只木箱上坐了下来，背对着铁皮小屋」 vì 「外面的雨太大」.
 - ch21: 「只要他还带着黄蔷薇，那位骑士王就永……」 (đoạn Lancer nghĩ về lời nguyền) · 「可是那样赢下来的一场，他不要。」 · 「“总有一天……”他没有把那句话说完。」
-- ch19 (POV Dazai, màn hình): Saber 「左手垂在身侧，始终没有抬起来」 — [[kayneth-tap-kich-lau-dai-einzbern]]. Lancer có mặt trận rừng, đánh cả hai bảo cụ (「Lancer两把宝具都亮出来了」).
+- ch19 (POV Dazai, màn hình): Saber 「左手垂在身侧，始终没有抬起来」 — kayneth-tap-kich-lau-dai-einzbern. Lancer có mặt trận rừng, đánh cả hai bảo cụ (「Lancer两把宝具都亮出来了」).
 - Canon: 必灭的黄蔷薇 gây vết thương không lành — [[Diarmuid-Ua-Duibhne]].
 
 ## Kết cảnh phải đạt được gì

@@ -24,7 +24,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Lộc Dã Tuyết là người xuyên việt, mang hệ thống 0038
@@ -53,10 +53,6 @@ last_updated: 2026-10-01
 
 - Cho phép: thấy kỹ năng của cậu ta *đều quá*, *máy móc*. Thấy cậu ta nhìn vào khoảng không, lẩm bẩm. Thấy may rủi bất thường quanh cậu ta.
 - Cấm: nhân vật nào gọi tên "0038", "hệ thống", "điểm tích phân", "công lược" khi chưa có sự kiện lộ.
-
-## 📌 Theo chương viết tiếp
-
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]]: cảnh 01 chỉ có Tuyết và 0038 — phòng riêng, camera tự động đã tắt từ tối S1 (*"好在房间里的自动摄像头昨晚一回来就被他关掉了"*; canon viết tiếp, D7). Tsuna chỉ nhận **trực giác ác ý** ba lần và không nghĩ vì sao (*"是恶意，明明白白的，冲着他来的。"* · *"纲吉没去想为什么。"* · *"那股凉意一下子变尖了，像一根针，直直地扎在纲吉身上。"*) → **không** tính là `suspected_by`. `known_by` không đổi.
 
 ## `leak_terms` — cho `pov_leak_check.py`
 

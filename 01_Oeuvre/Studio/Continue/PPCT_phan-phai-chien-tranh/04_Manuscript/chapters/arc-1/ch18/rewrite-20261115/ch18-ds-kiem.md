@@ -10,7 +10,7 @@ chapter: 18
 canon_layer: planned
 status: active
 aliases: ["kiem ch18 ban DeepSeek", "kiểm ch18 bản song song", "ch18 ds kiem PPCT"]
-related: ["[[ch18-ds-nhap]]", "[[ch18-ds-the-canh]]", "[[deepseek-20261115]]", "[[Hayato-Gokudera]]"]
+related: ["[[ch18-ds-nhap]]", "[[ch18-ds-the-canh]]", "[[Hayato-Gokudera]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af976dd-1bb4-83ec-934c-378b3ddc3623"

@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-22
+last_updated: 2026-11-21
 ---
 
 # Tsuna không thắng nổi Archer khi đối đầu trực diện
@@ -27,7 +27,6 @@ last_updated: 2026-09-22
 - Ghi chú ch5: 「反正打不过Archer组」.
 - Ch7: khi Archer vừa nhìn, Tsuna **lập tức vào thế thủ** — Dazai nhận ra đó là mối đe dọa lớn nhất.
 - Ch9, lời kể: Archer chưa rút bảo cụ thật mà Caster đã phải dùng bảo cụ — 「Caster便已经输了一半」.
-- Ch28 *(viết tiếp)*: Tsuna tự nhận, nhẹ — 「正面打的话，我是打不过Archer的吧。」; Dazai 「打不过。」
 
 ## Vì sao quan trọng khi viết
 

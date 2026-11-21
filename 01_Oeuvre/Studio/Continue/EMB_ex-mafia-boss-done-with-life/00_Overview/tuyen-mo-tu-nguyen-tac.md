@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["tuyen mo tu nguyen tac", "chinh sua noi dung truoc do", "mo ra tuyen cau chuyen", "chi tiet nao la hat giong", "openable threads", "P2 Ch1 la chuong cuoi"]
-related: ["[[hai-su-kien-p2]]", "[[dot8d-thu-tu-p2]]", "[[brat-dan-y-chuong]]", "[[y-chinh-cac-arc]]", "[[truc-chinh]]", "[[fact-hibari-sakura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[hai-su-kien-p2]]", "[[truc-chinh]]", "[[fact-hibari-sakura]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16"
@@ -18,7 +18,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structural, decision]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Chỉnh nội dung cũ để **mở tuyến** — không viết lại, không kể lại
@@ -57,9 +57,9 @@ Bà **liên tục gài chi tiết một dòng rồi để đó**:
 
 | Chi tiết | Mở thành tuyến gì |
 |---|---|
-| **Hội đan len** — Sasagawa · Kurokawa · Miura | dàn phụ huynh canon **đã ở Namimori**. Con họ là ứng viên cho *"đứa trẻ cùng tuổi Tsuna"* — Arc 3 |
+| **Hội đan len** — Sasagawa · Kurokawa · Miura | dàn phụ huynh canon **đã ở Namimori**. Con họ là ứng viên cho *"đứa trẻ cùng tuổi Tsuna"* — giai đoạn Child |
 | **Trẻ em Ý đổ về Mie** | 🔴 **cả một thế hệ trẻ được cứu**, chưa ai kể. Nguồn OC dồi dào nhất đang có |
-| **Nhà Yamamoto = hậu duệ Ugetsu** | nợ bốn trăm năm giữa hai nhà. Vào thẳng Arc 3 |
+| **Nhà Yamamoto = hậu duệ Ugetsu** | nợ bốn trăm năm giữa hai nhà. Vào thẳng giai đoạn Child |
 | **Fūta — Hibari đang lùng châu Âu** | tuyến đang chạy, có người thực thi |
 | **Mẹ Takeshi — Hibari canh sát thủ** | hẹn giờ đang chạy |
 | **Bermuda thấy *"curiosity"*** | tác giả xác nhận có kế hoạch |
@@ -70,7 +70,7 @@ Bà **liên tục gài chi tiết một dòng rồi để đó**:
 | Chi tiết | Câu hỏi |
 |---|---|
 | **Ống tre = `kudagitsune`** | con cáo ống làm được gì? Và **nháy mắt về Natsu** nghĩa là sao? |
-| **Người bạn cũ** | **ai** — chặn Ch3 |
+| **Người bạn cũ** | ✅ **Natsu** — [[fact-cao-la-natsu]] |
 | **Hai cáo đá đứng dậy** | chúng là **linh hồn cáo thời xưa** và **đứng về phía Tsuna** *(chốt 16/09)*. Câu để mở: chúng phục vụ ai, và lễ cưới ràng buộc cậu tới đâu |
 | **Dấu ấn Flame Kimiko để riêng cho Tsuna** | bà để lại gì, ngoài lời nhắn? |
 | **Ba cửa còn lại của Namimori** | Indra là **East Gate**. Còn ba |
@@ -97,4 +97,4 @@ Bà **liên tục gài chi tiết một dòng rồi để đó**:
 
 ## Đã nhặt
 
-*(chưa có — bắt đầu từ Arc 2)*
+*(chưa có — bắt đầu từ arc Brat)*

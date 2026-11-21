@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.artoria, character.PPCT.irisviel]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.750"
 aliases: ["plan ch16 PPCT", "dan y chuong 16 PPCT", "八兆亿个不列颠", "Saber xem the gioi song song ch16"]
-related: ["[[arc-1-vuong-yen-ha-man]]", "[[hook-saber-xem-the-gioi-song-song]]", "[[saber-chi-quan-sat-the-gioi-song-song]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-saber-xem-the-gioi-song-song]]", "[[saber-chi-quan-sat-the-gioi-song-song]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 13/09/2026 — tu Cum 1 dan y v3.1 cu, doi chieu nguyen van ch10, ch14, ch15"

@@ -9,10 +9,10 @@ canon_layer: planned
 status: resolved
 resolved_by: "[[emb-chot-thay-thuoc]]"
 resolved_at: 2026-09-17
-needed_before: "Brat Ch1 — toan bo chuong, vi ong la POV"
+needed_before: "arc Brat"
 owner: user
 aliases: ["thay thuoc gia dinh", "bac si gia dinh", "thay thuoc nha Sawada", "POV chuong 1 Brat", "nguoi lon binh thuong dau tien"]
-related: ["[[emb-chot-thay-thuoc]]", "[[genichi]]", "[[brat-dan-y-ban-20261001]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[fact-loi-flame]]", "[[musashi]]", "[[indra]]"]
+related: ["[[emb-chot-thay-thuoc]]", "[[genichi]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[fact-loi-flame]]", "[[musashi]]", "[[indra]]"]
 source:
   type: inference
   ref: "plan-continuation 17/09/2026 — dan y Brat dat chuong 1 vao POV nhan vat nay, nen ba chi tiet duoi phai chot truoc khi viet. Giai 17/09/2026."
@@ -21,7 +21,7 @@ confidence: 0.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Thầy thuốc gia đình là ai

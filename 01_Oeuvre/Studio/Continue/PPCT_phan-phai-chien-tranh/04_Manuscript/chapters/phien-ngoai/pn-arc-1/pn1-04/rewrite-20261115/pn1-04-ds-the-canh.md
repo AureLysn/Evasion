@@ -10,7 +10,7 @@ chapter: "pn1-04"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn1-04 ban DeepSeek", "thẻ cảnh phiên ngoại Người sống", "pn1-04 ds PPCT", "cứu Oda pn1-04"]
-related: ["[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-03-ds-nhap]]", "[[20261117-canon-phien-ngoai-arc-1]]", "[[oda-duoc-cuu-trong-phien-ngoai]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Ogai-Mori]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[pn-arc-1-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-03-ds-nhap]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Ogai-Mori]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-1-ds-plan mục pn1-04 (Aurel duyệt 17/11/2026; C9–C12 để DeepSeek/GPT đề xuất), oda-duoc-cuu-trong-phien-ngoai, 20261117-canon-phien-ngoai-arc-1 và kết pn1-03 (lời nhắn của Gide, dây buộc tóc đỏ, Oda đi một mình)."

@@ -10,7 +10,7 @@ chapter: "pn4-01"
 canon_layer: planned
 status: active
 aliases: ["kiem pn4-01 ban DeepSeek", "kiểm phiên ngoại bạn của vua", "pn4-01 ds kiem PPCT"]
-related: ["[[pn4-01-ds-nhap]]", "[[pn4-01-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[deepseek-20261115]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]"]
+related: ["[[pn4-01-ds-nhap]]", "[[pn4-01-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/e88c0cdd-b9b5-41b2-becc-f7f99038aee0 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afda974-1f68-83ec-bd00-c7b54ca6fd28"

@@ -7,11 +7,11 @@ project: TDTB
 canon_layer: planned
 status: unresolved
 needed_before:
-  arc: "arc 7 — tap 6-8"
-  chapter: "ch47"
+  arc:
+  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["cach lo Omega TDTB", "duong 掉马 cua Tsuna", "be duong lo phat tinh", "Tsuna lo than phan the nao"]
-related: ["[[h-lo-than-phan-hoa-tang-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[chia-arc-huong-b-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]"]
+related: ["[[h-lo-than-phan-hoa-tang-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]"]
 source:
   type: inference
   ref: "plan-continuation vong 2, 28/09/2026 — tropes.md tang 4 dong 187: 'Lo vi phat tinh / pheromone giua cho dong nguoi' = can nhac be; ban chia arc dau tien lai de dung duong mac dinh do (L62)"
@@ -19,12 +19,12 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna lộ là Omega bằng đường nào?
 
-> ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật. Không chặn arc 1–6.
+> ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật. Không chặn khung đầu.
 
 ## Vì sao phải hỏi
 
@@ -46,4 +46,4 @@ không đặt Tsuna vào cảnh bị phơi cơ thể trước đám đông.
 
 ## Ai quyết
 
-❌ Aurel. Không chặn dàn ý arc 1.
+❌ Aurel. Không chặn khung đầu.

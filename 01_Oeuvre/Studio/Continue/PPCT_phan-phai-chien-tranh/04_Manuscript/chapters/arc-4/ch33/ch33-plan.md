@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.150"
 aliases: ["plan ch33 PPCT", "dan y chuong 33 PPCT", "Archer co chu moi", "den thu phong con sang", "khep arc 4 PPCT"]
-related: ["[[arc-4-ba-dao-lenh-chu]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]", "[[tokiomi-chet-archer-doi-master]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dinh-thu-tosaka]]", "[[gilgamesh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[kirei-van-la-master]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dinh-thu-tosaka]]", "[[gilgamesh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 24/09/2026 — chuong 5 (cuoi) arc 4. Aurel chon dau hieu 'A+B' (Archer tim Tsuna + den thu phong) va muc lo L2 — nghi manh (24/09). AI de xuat C1–C9; Aurel 24/09: 'duyet de xuat' — dong y ca chin"
@@ -25,7 +25,7 @@ last_updated: 2026-09-24
 
 # Kế hoạch chương 33 — Archer có chủ mới · ✅ AUREL DUYỆT 24/09/2026
 
-> Chương 5, **chương cuối** arc 4. Khung arc: *Tổ Caster nhận ra Archer đổi chủ; mối nghi của Dazai siết lại — **không** tên nếu chưa có dữ kiện* ([[arc-4-ba-dao-lenh-chu]]).
+> Chương 5, **chương cuối** arc 4. Khung arc: *Tổ Caster nhận ra Archer đổi chủ; mối nghi của Dazai siết lại — **không** tên nếu chưa có dữ kiện* (arc-4-ba-dao-lenh-chu).
 > **Đã chốt (Aurel 24/09):** dấu hiệu **A + B**: Archer tự tìm Tsuna, cộng thêm ngọn đèn thư phòng ở 远坂宅. Mức lộ **L2, nghi mạnh**.
 > Aurel duyệt **cả C1–C9 theo đề xuất** (24/09/2026). Thẻ cảnh 01–03 đã viết.
 
@@ -45,12 +45,12 @@ Archer đứng trước mặt Tsuna giữa phố và nói rằng lần sau **s�
 
 - [[hook-can-dazai-de-thang-archer]]: **đẩy.** Chính Archer nói ra rằng lần sau không ai gọi hắn về, nên lần ch9 sẽ không lặp lại. Tsuna biết mình không thắng nổi đối đầu trực diện (ch28). Không hứa cách thắng. `status` giữ `open`.
 - [[hook-archer-tuyen-chien-rider]]: **đẩy nhẹ.** 「先是那个征服王」 là thứ tự Archer tự đặt. Không ngày giờ. `open`.
-- [[hook-vi-sao-tsuna-khong-phai-nguoi]]: **chạm nhẹ.** Archer nhìn Tsuna như nhìn một món đồ trong kho. 🔴 **Không** nói loại, **không** nhẫn (❌ [[q-loi-giai-bi-an-trung-tam]]). `open`.
+- [[hook-vi-sao-tsuna-khong-phai-nguoi]]: **chạm nhẹ.** Archer nhìn Tsuna như nhìn một món đồ trong kho. 🔴 **Không** nói loại, **không** nhẫn (❌ q-loi-giai-bi-an-trung-tam). `open`.
 - [[hook-to-caster-khac-che-to-saber]] · [[hook-dazai-mo-tiep-kiep-truoc]] · [[hook-gokudera-dang-duoc-tim]] · [[hook-bo-sung-ma-luc]]: **không chạm.**
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- [[archer-doi-master-sang-kirei]]: **lộ một phần theo plan (L2)**, và chỉ ở cảnh 03.
+- archer-doi-master-sang-kirei: **lộ một phần theo plan (L2)**, và chỉ ở cảnh 03.
   - **Được** trên trang: 时臣 có lẽ đã không còn; Archer còn và có người cấp ma lực.
   - 🔴 **Cấm:** tên Kirei, chữ 绮礼, nhà thờ, Azoth剑, việc Tokiomi bị giết thế nào, và bất kỳ câu khẳng định chắc chắn nào. Dazai nói ở mức **đoán**.
   - Khi `finalize`: thêm `dazai` và `tsuna` vào `suspected_by`, **không** vào `known_by` *(C9)*.
@@ -58,7 +58,7 @@ Archer đứng trước mặt Tsuna giữa phố và nói rằng lần sau **s�
 - 🔴 **Lệnh chú của Sola-Ui:** không một chữ. Trực giác của Tsuna ở ch30 (「还在索拉乌小姐手上」 nghe không khớp) **không** được trả lời ở chương này, để dành cho arc sau.
 - 🔴 **Xác Tokiomi, Rin, Aoi, di chúc:** không lên trang. Khung hình của chuồn chuồn chỉ có bàn, đèn và một khoảng thảm.
 - [[kiritsugu-la-master-that]] · [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]]: không chạm. Riêng ngoại lệ C7 của ch32 **không** kéo sang chương này.
-- Dị năng của Dazai; kế ngày 2 (❌ [[q-ke-hoach-that-bai-cua-dazai]]); lời mời hiện thế (❌ [[q-loi-moi-hien-the]]): **không.**
+- Dị năng của Dazai; kế ngày 2 (❌ [[q-ke-hoach-that-bai-cua-dazai]]); lời mời hiện thế (❌ q-loi-moi-hien-the): **không.**
 - **Đừng bi kịch hoá** (memory): ngọn đèn là một chi tiết, không phải cảnh tang. Không ai tiếc 时臣 thành lời.
 
 ## Ngân sách theo cảnh
@@ -103,7 +103,7 @@ Chương **đời thường + suy luận** — [[05_Evasion/01_Oeuvre/Studio/Con
 | C6 | Vì sao trước giờ không đặt mắt ở 远坂宅, và vì sao bây giờ lại đặt | **Trước:** Archer phát hiện được cả Tsuna đang ẩn (ch6), nên bọ đặt ở đó sẽ bị thấy và dẫn ngược về tổ Caster. **Bây giờ:** Archer đã tự tìm tới Tsuna, giấu nữa cũng vô ích; thêm vào đó chuồn chuồn chỉ đứng **ngoài** cửa sổ và bay về ngay | Lấp một lỗ ("sao tới giờ mới nhìn") bằng dữ kiện có sẵn ở ch6. Một câu của Dazai là đủ. *Khác:* không giải thích — người đọc sẽ hỏi |
 | C7 | Chuồn chuồn thấy gì | **Đèn bàn chụp xanh đang sáng giữa ban ngày**; ánh đèn chỉ tới mặt bàn và một khoảng thảm (đúng như tả ở ch31); hồng ngoại: **không ai ấm** trong khung hình. **Không** xác, **không** cửa phòng, **không** vào nhà | Soi ngược câu 「书房里只剩下台灯的光。」 của ch31. Người đọc biết ngọn đèn đó là gì; nhân vật thì không. "Không ai ấm" để ngỏ cả hai khả năng, vắng mặt hay đã chết, nên giữ được mức L2. Kirei làm gì với xác thì vẫn **không viết** (event ch31). *Khác:* thấy xác — thành L3 về cái chết, và lấn sang điều event ch31 dặn không viết |
 | C8 | Câu kết luận của Dazai | 「时臣大概已经不在了。」 · 「可是Archer还在。」 · có người đang cấp ma lực cho hắn · nhắc ch17 đúng mức cũ. **Không** dùng chữ 死 | "不在了" để ngỏ chết hay mất tích, đúng tinh thần L2 và đúng thói nói tránh của Dazai. *Khác:* 「死了」 — chắc quá mức một ngọn đèn và một câu nói cho phép |
-| C9 | Cập nhật bí mật khi `finalize` | [[archer-doi-master-sang-kirei]]: `dazai` và `tsuna` vào **`suspected_by`**, ghi rõ chỉ ở mức "时臣 không còn, Archer có người khác cấp ma lực, không biết là ai"; `status` giữ `active`; `reveal_planned` chuyển sang arc sau (để trống). [[kirei-van-la-master]]: **không đổi**. `pov_leak_check`: cảnh 01–02 giữ bí mật này trong `forbidden_secrets`; cảnh 03 **bỏ** nó ra (đây là cảnh lộ), rồi review cảnh 03 bằng tay theo danh sách cấm ở trên | `reveal_planned: ch33` đã được đáp ứng ở mức nghi, nhưng sự thật đầy đủ (Kirei) vẫn chưa ai ngoài hai người trong cuộc biết. *Khác:* đưa vào `known_by` — sai, vì họ không biết Master mới là ai |
+| C9 | Cập nhật bí mật khi `finalize` | archer-doi-master-sang-kirei: `dazai` và `tsuna` vào **`suspected_by`**, ghi rõ chỉ ở mức "时臣 không còn, Archer có người khác cấp ma lực, không biết là ai"; `status` giữ `active`; `reveal_planned` chuyển sang arc sau (để trống). [[kirei-van-la-master]]: **không đổi**. `pov_leak_check`: cảnh 01–02 giữ bí mật này trong `forbidden_secrets`; cảnh 03 **bỏ** nó ra (đây là cảnh lộ), rồi review cảnh 03 bằng tay theo danh sách cấm ở trên | `reveal_planned: ch33` đã được đáp ứng ở mức nghi, nhưng sự thật đầy đủ (Kirei) vẫn chưa ai ngoài hai người trong cuộc biết. *Khác:* đưa vào `known_by` — sai, vì họ không biết Master mới là ai |
 
 ## Thời điểm
 
@@ -122,4 +122,4 @@ Chương **đời thường + suy luận** — [[05_Evasion/01_Oeuvre/Studio/Con
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu hỏi ❌ nào có `needed_before` rơi vào ch33. Ba câu ❌ phải **né** (không cần giải): [[q-loi-giai-bi-an-trung-tam]] (Archer không nói Tsuna là gì, không nhẫn) · [[q-ke-hoach-that-bai-cua-dazai]] · [[q-loi-moi-hien-the]].
+Không có câu hỏi ❌ nào có `needed_before` rơi vào ch33. Ba câu ❌ phải **né** (không cần giải): q-loi-giai-bi-an-trung-tam (Archer không nói Tsuna là gì, không nhẫn) · [[q-ke-hoach-that-bai-cua-dazai]] · q-loi-moi-hien-the.

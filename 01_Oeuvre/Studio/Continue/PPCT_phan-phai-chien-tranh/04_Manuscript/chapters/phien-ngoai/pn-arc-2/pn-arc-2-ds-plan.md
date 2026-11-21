@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.dazai, character.PPCT.reborn]
 target_words: "mỗi chương ≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan phien ngoai Arc II DeepSeek", "dàn ý phiên ngoại Arc II", "I Prescelti Sette plan", "pn2 plan PPCT", "番外 Arc II"]
-related: ["[[khung-phien-ngoai-deepseek]]", "[[20261118-canon-phien-ngoai-arc-2]]", "[[pn-arc-1-ds-plan]]", "[[pn1-04-ds-nhap]]", "[[phien-ngoai-du-nam-arc]]", "[[anh-linh-hien-trong-phien-ngoai]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[deepseek-20261115]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]", "[[Lal-Mirch]]", "[[Reborn]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Edogawa-Ranpo]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]"]
+related: [ "[[pn-arc-1-ds-plan]]", "[[pn1-04-ds-nhap]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]", "[[Lal-Mirch]]", "[[Reborn]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Edogawa-Ranpo]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 18/11/2026 — phiên ngoại Arc II nhánh deepseek-20261115. Khung: khung-phien-ngoai-deepseek (V9, V10, V2/V12 chốt 18/11; giữ 9 chương); ý gốc: dàn ý cũ v3.1 PN-Arc II (II.1–II.9); canon: 20261118-canon-phien-ngoai-arc-2 (Q-P4, Q-P5 để DS/GPT; Q-P6, Q-P7 chốt 18/11); nối từ pn1-04 (Oda sống, Gide bị bắt, Dazai giận Ango, mưu Mori chưa lộ)."
@@ -26,7 +26,7 @@ last_updated: 2026-11-18
 # Plan phiên ngoại Arc II bản DeepSeek — «I Prescelti Sette» · ✅ AUREL DUYỆT 18/11/2026
 
 > Chín chương, sau [[pn1-04-ds-nhap]]. Hai mạch chạy song song: **Tsuna và nhóm bảy người mạnh nhất** (lời nguyền Arcobaleno) và **Yokohama** (Dazai rời Cảng, vào Tổ Trinh Thám). Giọng: mode **B** (đời thường hài), một chương **A** (II.6, căng), kết ấm.
-> Anh linh ở quán vẫn không giải thích ([[anh-linh-hien-trong-phien-ngoai]]). Sự thật B **lộ một phần** (V2/V12): Checker Face có thật ở thế giới này và mời Tsuna; Tsuna biết họ từ trước nhưng không nói vì sao; 7³ và vai quản trị chỉ ngầm.
+> Anh linh ở quán vẫn không giải thích (anh-linh-hien-trong-phien-ngoai). Sự thật B **lộ một phần** (V2/V12): Checker Face có thật ở thế giới này và mời Tsuna; Tsuna biết họ từ trước nhưng không nói vì sao; 7³ và vai quản trị chỉ ngầm.
 
 ## Mục tiêu arc
 
@@ -112,7 +112,7 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 - 🔴 Không BEAST, không Cuốn Sách (Arc V); không Byakuran, Yuni, bé Tsuna (Arc III); không Fyodor.
 - ✅ Mưu Mori lộ ở pn2-05 (Dazai đoán ra) — hạt giống từ Arc I.
 - ✅ Tên các Arcobaleno, Checker Face/Kawahira, Bermuda, Talbot, Aria; Ranpo, Kunikida, Fukuzawa, Atsushi, Yosano, Gin.
-- ⚠️ Canon chưa có note: Luce, Aria, Talbot, Cơ quan Thám tử, Kunikida, Guild — tra từng trang trước chương cần ([[20261118-canon-phien-ngoai-arc-2]] mục 5).
+- ⚠️ Canon chưa có note: Luce, Aria, Talbot, Cơ quan Thám tử, Kunikida, Guild — tra từng trang trước chương cần (20261118-canon-phien-ngoai-arc-2 mục 5).
 
 ## Ngân sách
 
@@ -156,6 +156,6 @@ Người từng đứng đầu danh sách ứng viên Arcobaleno được mời 
 | Điều kiện | Trạng thái |
 |---|---|
 | Khung V9, V10, V2/V12; giữ 9 chương | ✅ 18/11/2026 |
-| Canon Arc II, Q-P4–Q-P7 | ✅ [[20261118-canon-phien-ngoai-arc-2]] (Q-P4, Q-P5 để DS/GPT) |
+| Canon Arc II, Q-P4–Q-P7 | ✅ 20261118-canon-phien-ngoai-arc-2 (Q-P4, Q-P5 để DS/GPT) |
 | Aurel duyệt C1–C13 | ✅ 18/11/2026 ("Duyệt, viết pn2-01": duyệt các đề xuất; C2, C7 để DeepSeek/GPT) |
 | Tra canon Luce, Aria, Talbot (trước pn2-03, pn2-06); Cơ quan Thám tử, Kunikida (trước pn2-05) | ✅ Luce, Aria (18/11), Kunikida (pn2-05), Talbot (pn2-06) — note Database; còn Cơ quan Thám tử (Arc III) |

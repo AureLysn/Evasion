@@ -10,7 +10,7 @@ chapter: 26
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch26 ban DeepSeek", "thẻ cảnh ch26 bản song song", "ch26 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan|plan ch26]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch23-ds-nhap]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan|plan ch26]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch23-ds-nhap]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch26-plan + 4 thẻ scenes/ (Aurel duyệt C1–C6 22/09/2026). Không dùng văn bản ch26-chapter final."

@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 40-03 kiem quang", "剑光 ch40", "Excalibur pha Gordius Wheel", "Saber mo to duong rung", "chien xa that tren troi Shinto"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[artoria]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]", "[[waver]]", "[[saber-pha-gordius-wheel-to-caster-thay]]", "[[hook-archer-tuyen-chien-rider]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[q-ket-cuc-rider-waver]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[artoria]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]", "[[waver]]", "[[hook-archer-tuyen-chien-rider]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-30
 # Cảnh 03 — 剑光 · POV Tsuna · ~800 chữ Hán
 
 > `forbidden_secrets` như cảnh 02.
-> 🔴 **Không** nói kết cục của Rider hay Waver ([[q-ket-cuc-rider-waver]]): chỉ thấy **thoát ra**. **Không** biết họ sống hay bị thương nặng.
+> 🔴 **Không** nói kết cục của Rider hay Waver (q-ket-cuc-rider-waver): chỉ thấy **thoát ra**. **Không** biết họ sống hay bị thương nặng.
 > 🔴 **Không** nghe được lời nào: mọi thứ thấy **từ xa**, qua ống kính.
 > 🔴 **Đừng bi kịch hoá:** không ai chết trên trang; Waver được Rider ôm theo.
 
@@ -58,9 +58,9 @@ Trạm e1, thấy từ xa. Trong lúc đuổi, Tsuna tin Saber **đuổi nhầm 
 
 ## Dữ kiện — nguồn
 
-- **Canon** ([[20260929-canon-arc-6-co-xe-gia]] e1, 0.75 · [[Lancelot-Berserker]] dòng 67, 68, 70): Kiritsugu dùng lệnh chú đưa Saber về; Saber đuổi bằng V-MAX từ Shinto → quốc lộ → đường núi/rừng; **thấy Irisviel không có trên xe**; Rider lao tới, Saber tung Excalibur phá Gordius Wheel; Rider ôm Waver thoát. Rider và Waver **không** biết mặt mình bị mượn (họ vừa tập kích rừng Einzbern — **cố ý né**, không lên trang).
+- **Canon** (20260929-canon-arc-6-co-xe-gia e1, 0.75 · [[Lancelot-Berserker]] dòng 67, 68, 70): Kiritsugu dùng lệnh chú đưa Saber về; Saber đuổi bằng V-MAX từ Shinto → quốc lộ → đường núi/rừng; **thấy Irisviel không có trên xe**; Rider lao tới, Saber tung Excalibur phá Gordius Wheel; Rider ôm Waver thoát. Rider và Waver **không** biết mặt mình bị mượn (họ vừa tập kích rừng Einzbern — **cố ý né**, không lên trang).
 - **ch12** ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|iskandar]]): chiến xa, sấm sét; tổ Caster từng ngồi trên đó.
-- **ch25**: tay trái Saber lành khi Gáe Buidhe bị phá, nên cô dùng lại được Excalibur — [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]].
+- **ch25**: tay trái Saber lành khi Gáe Buidhe bị phá, nên cô dùng lại được Excalibur — lancer-tu-pha-gae-buidhe-truoc-quyet-dau.
 - **Xưng hô**: Tsuna gọi 「Saber」; Rider tự xưng 「朕」 (không nghe được ở cảnh này).
 
 ## Writer-only — KHÔNG lên trang

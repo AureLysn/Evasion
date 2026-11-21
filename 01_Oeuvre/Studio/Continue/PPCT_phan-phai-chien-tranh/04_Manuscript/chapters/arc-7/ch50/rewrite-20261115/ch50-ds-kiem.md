@@ -10,7 +10,7 @@ chapter: 50
 canon_layer: planned
 status: active
 aliases: ["kiem ch50 ban DeepSeek", "kiểm ch50 bản song song", "ch50 ds kiem PPCT"]
-related: ["[[ch50-ds-nhap]]", "[[ch50-ds-the-canh]]", "[[ch50-ds-plan]]", "[[deepseek-20261115]]", "[[archer-doi-tsuna-nhu-tyl-xanxus]]", "[[archer-o-lai-net-hien-vuong]]", "[[tsuna--gilgamesh]]"]
+related: ["[[ch50-ds-nhap]]", "[[ch50-ds-the-canh]]", "[[ch50-ds-plan]]", "[[tsuna--gilgamesh]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek chat ch50 https://chat.deepseek.com/a/chat/s/c846bd5d-e9a8-461e-a7c8-cd19b7f6f54a · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc3feb-c9ac-83ec-9dc9-b8954868a9b3"

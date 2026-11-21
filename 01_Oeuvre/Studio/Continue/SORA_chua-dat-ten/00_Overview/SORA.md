@@ -17,14 +17,14 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-08-19
+last_updated: 2026-11-21
 ---
 
 # <chưa đặt tên>
 
 **Mã:** `SORA` · **Ngôn ngữ:** Tiếng Việt
 
-Bộ phương pháp đầy đủ nhất trong nhóm chưa viết — có cả dàn ý chi tiết.
+Bộ phương pháp đầy đủ nhất trong nhóm chưa viết. Dàn ý cũ (`Dan_y_phuong_an`, `Dan_y_chi_tiet`) trong bản xuất chỉ để **tham khảo** — reset 21/11/2026: lập dàn ý lại từ đầu.
 
 ## Quy mô đã có
 

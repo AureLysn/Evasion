@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Shinsou Hitoshi", "Hitoshi", "Overrule", "心操人使", "ke time travel phia hero", "soulmate cua Monoma Neito", "tro giang lop 1-A", "nguoi ngoi sau lung Tsuna"]
-related: ["[[soulmate-au]]", "[[midoriya-izuku]]", "[[qd-huong-arc-01]]", "[[sawada-tsunayoshi]]", "[[Quirk-Types]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[soulmate-au]]", "[[midoriya-izuku]]", "[[sawada-tsunayoshi]]", "[[Quirk-Types]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch26, ch74, ch122, ch124, ch125, ch126, ch127."

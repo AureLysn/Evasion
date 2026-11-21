@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Aizawa Shouta", "Shouta", "Eraserhead", "相澤消太", "thay chu nhiem 1-A", "soulmate la Oboro", "nguoi hieu lam ve Reborn", "nguoi lon doc dung bang chung nhung sai ket luan"]
-related: ["[[soulmate-au]]", "[[reborn]]", "[[nedzu]]", "[[shinsou-hitoshi]]", "[[sawada-tsunayoshi]]", "[[Hero-Public-Safety-Commission]]", "[[qd-huong-arc-01]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[soulmate-au]]", "[[reborn]]", "[[nedzu]]", "[[shinsou-hitoshi]]", "[[sawada-tsunayoshi]]", "[[Hero-Public-Safety-Commission]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch123, ch124, ch125, ch126."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Aizawa Shouta — `Eraserhead`
@@ -101,7 +101,3 @@ là **buông quyền kiểm soát và dựa vào người khác** — và **Rebo
 - **Reborn** — anh ghét ông theo bản năng, và **đúng**
 - **Tsuna** — học sinh anh đang cố cứu khỏi một thứ không tồn tại
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #2: 🔴 **anh PHẢI tiếp tục hiểu lầm.** Vỏ bọc chỉ vỡ với
-**Shouto**, không vỡ với anh. Đó là điều giữ cho đồng hồ đếm ngược còn chạy.

@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Theodor", "Theodor Manz", "Berserk", "Wonomichi", "Legacy", "Conductor of Chaos", "con trai Kawahira", "nguoi con", "trong tai Representative Battle", "ke dang giet cac Fake Funeral Wreath"]
-related: ["[[pq01-wonomichi-la-nguoi-con]]", "[[pq05-cha-cua-theodor-la-kawahira]]", "[[qd-huong-arc-01]]", "[[he-bond]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq01-wonomichi-la-nguoi-con]]", "[[pq05-cha-cua-theodor-la-kawahira]]", "[[he-bond]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. Wonomichi: ch33, ch44, ch47, ch108, ch127. Berserk: ch61, 63, 70, 75, 80, 85, 107, 110, 111, 117, 127. Theodor: ch77, ch110, ch127."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Theodor Manz — `Berserk` · `Wonomichi` · `Legacy`
@@ -118,7 +118,3 @@ sau và rời đi. Đang đi tiếp — mục tiêu kế tiếp **không đượ
 - **Yuni** — hắn gọi cô là *"a scary little girl"*, có phần nể sợ
 - **Em họ** — chưa lộ diện
 
-## Vai trong arc 01
-
-Theo [[qd-huong-arc-01]] quyết định #1, hắn là **một trong ba nguồn nguy hiểm** có thể chạm vào
-gia đình Tsuna và **kích hoạt kế hoạch cá voi sát thủ**.

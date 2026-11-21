@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 23-01 trong xe", "Dazai khoanh vung", "cho sach la dau vet", "车里 ch23"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[Ryuunosuke-Uryuu]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[Ryuunosuke-Uryuu]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-21
 ---
@@ -60,7 +60,7 @@ Biến cái "sạch" mà Dazai chốt ở ch22 thành một vùng trên bản đ
 - ch22 dòng 77: 「警察查不到他，是因为他根本没有理由——没有理由的人最难抓，纲吉。」
 - ch22 dòng 79: bản tin báo **chiều có thể mưa**. Dòng 117: Dazai cầm chìa khoá xe — 「光是那五个街区走一圈，天黑之前也走不完」
 - Canon: Ryūnosuke là freeter (làm thời vụ), không lấy tiền hay đồ của nạn nhân, nhắm phụ nữ trẻ và trẻ em vì dễ ra tay — [[Ryuunosuke-Uryuu]]
-- Quyết định đường truy: [[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]]
+- Quyết định đường truy: to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac
 
 ## Kết cảnh phải đạt được gì
 

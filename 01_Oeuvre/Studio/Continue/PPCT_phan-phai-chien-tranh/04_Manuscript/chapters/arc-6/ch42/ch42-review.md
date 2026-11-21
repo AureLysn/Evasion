@@ -10,7 +10,7 @@ chapter: 42
 canon_layer: user_canon
 status: active
 aliases: ["review ch42 PPCT", "soat ch42", "check-continuity ch42", "check-style ch42", "soat khep arc 6"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-chapter]]", "[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[canh-chan-doc-nha-tho-qua-dem]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[to-caster-quyet-dinh-ra-tay]]", "[[dazai-lo-ba-dao-lenh-chu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-chapter]]", "[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 30/09/2026, tren ban nhap ch42. Nguoi soat cung la nguoi viet ban nhap va planner trong cung phien. The canh chua qua plan-reviewer. Doi lai nguyen van ch4 trong store personal-bulk (反派战争.zip, file 004)."
@@ -55,7 +55,7 @@ last_updated: 2026-09-30
 |---|---|---|---|---|---|
 | 1 | trái nguyên văn | **high** · ✅ **đã sửa** | cảnh 01: 「太宰那时候问他，是不是可怜她了。他没有回答。」 | Nguyên văn ch4: Tsuna **có** trả lời — 「“太宰又想听什么呢？”…“世间所有人都是一样的，因为世界所有死亡都是一样的。…”」. Phạm `forbid: contradict_fic_explicit`. **Sửa thành:** 「他答得很快，说世上所有的死都是一样的。那时候答得那么快。现在，他答不上来了。」 — khớp nguồn, và giữ ý chương | 反派战争.zip, file `004` · [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main\|aurel-main]] |
 | 2 | chi tiết thêm | low | cảnh 04: con mèo lúc hơn 3 giờ sáng | Chi tiết của fic, chứng minh hồng ngoại hoạt động. Không mâu thuẫn | — |
-| 3 | chi tiết thêm | low | cảnh 02: chuồn chuồn đậu 「马路对面，一户人家院墙边的树枝上」 | Vị trí mới cho con mắt canh; ghi vào [[nha-tho-fuyuki]] khi chốt | [[canh-chan-doc-nha-tho-qua-dem]] |
+| 3 | chi tiết thêm | low | cảnh 02: chuồn chuồn đậu 「马路对面，一户人家院墙边的树枝上」 | Vị trí mới cho con mắt canh; ghi vào [[nha-tho-fuyuki]] khi chốt | canh-chan-doc-nha-tho-qua-dem |
 
 ## Bảng văn phong — check-style
 

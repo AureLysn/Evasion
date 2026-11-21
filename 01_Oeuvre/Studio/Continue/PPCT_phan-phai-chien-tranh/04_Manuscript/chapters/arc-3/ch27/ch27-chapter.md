@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna, character.PPCT.diarmuid]
 language: zh
 aliases: ["chuong 27 PPCT", "ban nhap tieng Trung ch27", "决斗 ban nhap", "反派战争27 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan|plan ch27]]", "[[arc-3-hai-cay-thuong]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan|plan ch27]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

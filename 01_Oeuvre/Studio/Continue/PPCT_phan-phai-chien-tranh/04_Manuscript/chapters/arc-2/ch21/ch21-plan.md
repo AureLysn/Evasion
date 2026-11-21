@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.diarmuid]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch21 PPCT", "dan y chuong 21 PPCT", "lenh chu doi tay ch21", "Sola-Ui gianh lenh chu", "Lancer muon dau Saber lanh lan"]
-related: ["[[arc-2-moi-va-luoi]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[hook-he-qua-thay-to-caster]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Diarmuid-Ua-Duibhne]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-he-qua-thay-to-caster]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Diarmuid-Ua-Duibhne]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 20/09/2026 — Aurel chot: POV Lancer · Sola-Ui be ngon tay theo canon · dem ngay 5"
@@ -35,12 +35,12 @@ last_updated: 2026-09-20
 2. **Bị đuổi ra ngoài**: Kayneth ra lệnh cho hắn ra khỏi phòng. Lancer tuân — và nghe thấy tiếng bên trong: Sola-Ui **bẻ từng ngón tay** để ép Kayneth giao lệnh chú *(Aurel chốt 20/09: theo canon)*. Hiệp sĩ đạo không cho hắn xen vào giữa chủ và vị hôn thê; mệnh lệnh của chủ giữ hắn đứng yên.
 3. **Lệnh chú đổi tay**: Sola-Ui bước ra, lệnh chú đã ở trên tay cô. Lancer nhận Master mới. Cô muốn hắn nhìn mình như một người; hắn chỉ nhìn thấy người thay Kayneth — cô thất vọng *(canon)*.
 4. **Song chiếu kiếp trước**: Lancer thấy tình cảnh này **gợi lại kiếp trước** — người phụ nữ của chủ, và cái chết đến từ chính chủ mình — [[Diarmuid-Ua-Duibhne]]. **Không** nói trước hắn sẽ chết thế nào.
-5. **Tay trái**: Lancer nghĩ tới Saber — tay trái cô vẫn không cầm được kiếm vì ngọn thương của hắn. Hắn muốn một trận đấu **khi cô lành lặn**. **Gieo**, tuyệt đối **không** phá Gáe Buidhe trong chương này — [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]].
+5. **Tay trái**: Lancer nghĩ tới Saber — tay trái cô vẫn không cầm được kiếm vì ngọn thương của hắn. Hắn muốn một trận đấu **khi cô lành lặn**. **Gieo**, tuyệt đối **không** phá Gáe Buidhe trong chương này — lancer-tu-pha-gae-buidhe-truoc-quyet-dau.
 
 ## Hook phải chạm
 
 - [[hook-he-qua-thay-to-caster]] — đẩy: Lancer còn trong cuộc chiến, Saber vẫn bị nguyền; giữ `open`.
-- Gieo cho [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]] và [[ket-cuc-lancer-quyet-dau-tu-nguyen]] — cả hai **trả ở arc sau**.
+- Gieo cho lancer-tu-pha-gae-buidhe-truoc-quyet-dau và ket-cuc-lancer-quyet-dau-tu-nguyen — cả hai **trả ở arc sau**.
 
 ## Bí mật CẤM lộ / chi tiết CẤM viết
 

@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Lâu đài Einzbern
@@ -29,7 +29,4 @@ last_updated: 2026-09-30
 ## Sự kiện đã xảy ra tại đây
 
 - [[vuong-yen-khai-mac]] · [[ruou-vongola-va-quy-mo]] · [[van-dap-nguyen-vong-saber-nam-tay]]
-- ch34 *(viết tiếp)*: con bọ cổng của tổ Caster bị dò sóng và gỡ **còn nguyên** (chiều ngày 12); đêm đó chuồn chuồn máy đặt tờ giấy hẹn dưới cần gạt nước chiếc xe đen đỗ ở cổng — [[to-caster-hen-gap-kiritsugu]]
 
-- **Ch40** *(30/09/2026)*: rừng Einzbern ở **phía tây** thành phố (「往城西那片黑沉沉的山林」); một con đường từ rìa thành phố chạy vào rừng. **`fic_explicit` từ ch40, không có nguồn canon** trong vault (review ch40 #3) — [[to-caster-thay-xe-gia]].
-- **Ch41** *(30/09/2026)*: ngoài đường chính vào thành phố còn **một đường núi phía bắc**, hẹp, không đèn — lối Maiya vẫn dùng; lâu đài có **một cửa bên phía rừng** (kẻ mang mặt Rider phá cửa này). **`fic_explicit` từ ch41, không có nguồn canon** (review ch41 #4) — [[kiritsugu-ve-lau-dai-trong]].

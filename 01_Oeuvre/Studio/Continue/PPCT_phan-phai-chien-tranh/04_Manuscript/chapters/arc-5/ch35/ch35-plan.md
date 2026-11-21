@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.kiritsugu]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.100"
 aliases: ["plan ch35 PPCT", "dan y chuong 35 PPCT", "ke san ch35", "猎人 ch35", "Kiritsugu nhan loi hen"]
-related: ["[[arc-5-ke-san-va-con-moi]]", "[[20260924-canon-kiritsugu-theo-doi-nha-tho]]", "[[to-caster-hen-gap-kiritsugu]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[kiritsugu]]", "[[maiya]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[hook-to-caster-khac-che-to-saber]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[kiritsugu]]", "[[maiya]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]", "[[kirei-van-la-master]]", "[[hook-to-caster-khac-che-to-saber]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 24/09/2026 — chuong 2 arc 5. Aurel chon phuong an (a) cua crosscheck 20260924 (Maiya dat lai mat o xa hon). AI de xuat C1–C8; Aurel 24/09: dong y C1–C8 theo de xuat"
@@ -25,8 +25,8 @@ last_updated: 2026-09-24
 
 # Kế hoạch chương 35 — Kẻ săn · ✅ AUREL DUYỆT 24/09/2026
 
-> Chương 2 arc 5. Khung arc: *Phía tổ Saber — Kiritsugu lần theo; biết tổ Lancer đã đi; nhận lời hẹn. POV 🟡* ([[arc-5-ke-san-va-con-moi]]).
-> **Đã chốt (Aurel 24/09):** phương án **(a)** của [[20260924-canon-kiritsugu-theo-doi-nha-tho]] — sau khi Kirei giết con dơi đêm đầu, Maiya **đặt lại mắt ở xa hơn**, canh con đường xuống nhà thờ.
+> Chương 2 arc 5. Khung arc: *Phía tổ Saber — Kiritsugu lần theo; biết tổ Lancer đã đi; nhận lời hẹn. POV 🟡* (arc-5-ke-san-va-con-moi).
+> **Đã chốt (Aurel 24/09):** phương án **(a)** của 20260924-canon-kiritsugu-theo-doi-nha-tho — sau khi Kirei giết con dơi đêm đầu, Maiya **đặt lại mắt ở xa hơn**, canh con đường xuống nhà thờ.
 > Aurel duyệt **cả C1–C8 theo đề xuất** (24/09/2026) — POV **Kiritsugu**. Thẻ cảnh 01–03 đã viết.
 
 ## Mục tiêu chương
@@ -52,7 +52,7 @@ Chương đầu tiên nhìn **từ phía kẻ săn**. Kiritsugu có hai thứ t�
 
 - [[kiritsugu-la-master-that]]: POV chính là hắn → được viết tự nhiên.
 - [[kirei-van-la-master]]: Kiritsugu ở `suspected_by` (canon — [[Kiritsugu-Emiya]]). **Được:** coi Kirei nguy hiểm nhất, sợ hắn, nghi hắn chưa thật sự thua; thấy hắn xuống dốc tối ngày 10. **Cấm:** Kiritsugu **biết** Kirei còn là Master; biết Kirei đi đâu; biết lệnh chú của Sola-Ui ở tay Kirei.
-- 🔴 [[archer-doi-master-sang-kirei]]: Kiritsugu **không biết** Tokiomi chết hay Archer đổi chủ (crosscheck #7). Không một chữ 时臣 / 远坂 trong đầu hắn liên quan tới đêm ngày 10.
+- 🔴 archer-doi-master-sang-kirei: Kiritsugu **không biết** Tokiomi chết hay Archer đổi chủ (crosscheck #7). Không một chữ 时臣 / 远坂 trong đầu hắn liên quan tới đêm ngày 10.
 - 🔴 **Lệnh chú của Sola-Ui:** Kiritsugu thấy họ **lên xe đi**. Hắn **không** biết họ đã trao gì cho nhà thờ.
 - 🔴 **Tổ Caster:** Kiritsugu **không** biết mặt, tên, căn cứ; không biết Tsuna là gì. Hắn **có thể** nghi người gửi là Master của Caster 🟡 *(C5)*.
 - [[tsuna-bi-byakuran-giet]] · [[dazai-mang-ky-uc-kiep-truoc]]: không chạm.
@@ -110,10 +110,10 @@ Chương **dệt canon, POV phía Saber** — [[05_Evasion/01_Oeuvre/Studio/Cont
 |---|---|
 | Phương án (a) | ✅ Aurel 24/09/2026 |
 | Chốt C1–C8 và duyệt plan này | ✅ 24/09/2026 |
-| Canon: dơi CCD, Kirei giết dơi, Kiritsugu sợ Kirei | ✅ [[20260924-canon-kiritsugu-theo-doi-nha-tho]] |
+| Canon: dơi CCD, Kirei giết dơi, Kiritsugu sợ Kirei | ✅ 20260924-canon-kiritsugu-theo-doi-nha-tho |
 | Nguồn PPCT: ch19 (POV Kiritsugu, màn hình chia ô, 「纯粹的机械造物」, thuốc lá) · ch29 (xe ở chân dốc) · ch34 (tờ giấy, 「检查一下车底」) | ✅ |
 | Thẻ cảnh 01–03 | ✅ 24/09 |
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌ nào. Phải **né**: [[q-loi-giai-bi-an-trung-tam]] · [[q-loi-moi-hien-the]] · [[q-ke-hoach-that-bai-cua-dazai]].
+Không có câu ❌ nào. Phải **né**: q-loi-giai-bi-an-trung-tam · q-loi-moi-hien-the · [[q-ke-hoach-that-bai-cua-dazai]].

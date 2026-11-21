@@ -10,7 +10,7 @@ chapter: 19
 canon_layer: planned
 status: active
 aliases: ["kiem ch19 ban DeepSeek", "kiểm ch19 bản song song", "ch19 ds kiem PPCT"]
-related: ["[[ch19-ds-nhap]]", "[[ch19-ds-the-canh]]", "[[deepseek-20261115]]", "[[Kiritsugu-Emiya]]"]
+related: ["[[ch19-ds-nhap]]", "[[ch19-ds-the-canh]]", "[[Kiritsugu-Emiya]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat arc 2 https://chat.deepseek.com/a/chat/s/f8a57c82-9618-459e-b001-264e6620c29a · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af97c28-687c-83ec-9e40-e851b5843d3f"

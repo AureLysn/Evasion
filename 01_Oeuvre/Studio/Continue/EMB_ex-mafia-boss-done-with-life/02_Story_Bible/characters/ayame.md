@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Ayame", "phu ta cua Musashi", "nguoi hau Musashi", "Ketsueki nha Sawada", "nguoi thap den"]
-related: ["[[musashi]]", "[[indra]]", "[[tsuna]]", "[[kazuki]]", "[[rule-danh-xung-flame]]", "[[p2-ch2]]", "[[ayame-phan-cu]]"]
+related: ["[[musashi]]", "[[indra]]", "[[tsuna]]", "[[kazuki]]", "[[rule-danh-xung-flame]]", "[[p2-ch2]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch2"
@@ -17,12 +17,12 @@ flame: Ketsueki (Storm)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, minor, household]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Ayame — *Ketsueki* · phụ tá thân cận của Musashi
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Văn bản cho biết
 

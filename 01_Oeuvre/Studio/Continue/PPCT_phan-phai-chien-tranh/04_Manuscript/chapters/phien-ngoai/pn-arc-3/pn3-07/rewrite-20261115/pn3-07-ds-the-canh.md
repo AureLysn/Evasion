@@ -10,7 +10,7 @@ chapter: "pn3-07"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-07 ban DeepSeek", "thẻ cảnh chuyện cũ", "pn3-07 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-06-ds-nhap]]", "[[pn3-06-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-bi-byakuran-giet]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-06-ds-nhap]]", "[[pn3-06-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-bi-byakuran-giet]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Iemitsu-Sawada]]", "[[gia-thuyet-khr-cua-aurel]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-07 (Aurel duyệt; C10 để DeepSeek/GPT), dàn ý cũ III.5 (chương mới, đã duyệt: Tsuna từng bị ấn 4–6 tuổi khi Nono tới thăm; đối chứng Lambo; cả nhà lên kế hoạch gây rối; 'đừng ai chết'); V16 [Fanon-phê phán canon]; quyết định giac-mo-dazai-chi-la-ky-uc-cua-tsuna; dữ kiện pn3-06-ds-kiem."

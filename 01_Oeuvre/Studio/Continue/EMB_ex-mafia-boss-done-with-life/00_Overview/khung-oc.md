@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: proposed
 aliases: ["khung OC", "nhan vat moi", "OC framework", "dat ten OC", "chuc vu trong Namimori", "can bao nhieu OC", "vi tri con trong"]
-related: ["[[nguoi-lon-co-trach-nhiem]]", "[[truc-chinh]]", "[[rule-ten-sawada]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[nha-hibari]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[y-chinh-cac-arc]]"]
+related: ["[[nguoi-lon-co-trach-nhiem]]", "[[truc-chinh]]", "[[rule-ten-sawada]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[nha-hibari]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: inference
   ref: "Count of the non-canon characters in the original fic (about 43,000 words), made in answer to Aurel's remark quoted in the note; source block added 2026-11-13 from the note's own text"
@@ -18,7 +18,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [plan, oc, proposal]
-last_updated: 2026-09-16
+last_updated: 2026-11-20
 ---
 
 # Khung nhân vật mới — **vì nguyên tác đã làm thế**
@@ -58,7 +58,7 @@ Trong **43.000 từ**, tác giả gốc dựng **ít nhất 15 nhân vật khôn
 
 Guardian thì không đủ tư cách chăm sóc. Musashi và Maro đã già. Ayame và Kazuki là người làm. **Tsuna cần thêm người lớn có tam quan bình thường** — và họ phải được dựng ra.
 
-## 🔴 Danh sách Aurel liệt kê — **đợt 8k**
+## 🔴 Danh sách Aurel liệt kê
 
 > *"Những người có dấu vết từ trước và những người mình có thể nghĩ đến là sẽ có tiếp xúc với Tsuna."*
 
@@ -75,7 +75,7 @@ Guardian thì không đủ tư cách chăm sóc. Musashi và Maro đã già. Aya
 
 | Ai | Ghi chú |
 |---|---|
-| ✅ **Hai OC Lightning** | *"hai người có **đất diễn quan trọng** trong truyện"* — ✅ **đúng là cặp song sinh** *(Aurel chốt 17/09)*, **Arc 3 Child**. 🔴 **Chốt đầy đủ 21/09** — [[emb-chot-cap-song-sinh]]: [[yasuyuki]] và [[noriyuki]], nhà **Kamo/Kōtokui** |
+| ✅ **Hai OC Lightning** | *"hai người có **đất diễn quan trọng** trong truyện"* — ✅ **đúng là cặp song sinh** *(Aurel chốt 17/09)*, giai đoạn **Child**. 🔴 **Chốt đầy đủ 21/09** — [[emb-chot-cap-song-sinh]]: [[yasuyuki]] và [[noriyuki]], nhà **Kamo/Kōtokui** |
 | 🔴 **Bác sĩ gia đình** | *"mình không nghĩ Musashi sẽ bỏ mặc các floating episodes của Tsuna"* — **đúng, và nó là một lỗ hổng logic đang mở**: đứa bé có triệu chứng thần kinh mà không ai gọi thầy thuốc? |
 | **Người đến thăm đền thờ** | Namimori là đền Inari đang hoạt động. Có khách hành hương |
 | **Mafia nghỉ hưu muốn tới Namimori** | 🔴 **Sanctuary có hồ sơ xin vào** — [[tomoko]] đã đi qua cửa đó. Đây là **một loại cảnh chưa ai viết** |
@@ -87,7 +87,7 @@ Guardian thì không đủ tư cách chăm sóc. Musashi và Maro đã già. Aya
 
 **Bermuda · Byakuran · Yuni · Enma · Daemon · các OC Vindice**
 
-⚠️ Bermuda **đã được tác giả xác nhận** là có kế hoạch. Byakuran/Yuni nối vào Tri-Ni-Sette *(Arc 5)*. Enma là **"Mặt đất"** — [[gia-thuyet-aurel-2]].
+⚠️ Bermuda **đã được tác giả xác nhận** là có kế hoạch. Byakuran/Yuni nối vào Tri-Ni-Sette *(giai đoạn Teen)*. Enma là **"Mặt đất"** — [[gia-thuyet-aurel-2]].
 
 ## Bốn nhóm chức năng còn trống
 
@@ -95,7 +95,7 @@ Guardian thì không đủ tư cách chăm sóc. Musashi và Maro đã già. Aya
 |---|---|---|
 | 🔴 **Người lớn bình thường** | thứ cả dàn đang thiếu — [[nguoi-lon-co-trach-nhiem]] | thầy cô, hàng xóm, thầy thuốc, người trông trẻ. **Không cần mạnh** |
 | **Bộ máy Namimori** | Sanctuary có hợp đồng, có cửa, có nghi lễ — mà mới thấy **East Gate** | ba cửa còn lại? người giữ hợp đồng? |
-| **Nhà tư tế khác** | Arc 3 đi ra ngoài Namimori — âm dương sư, nhà của cặp song sinh | luật khác, danh xưng khác |
+| **Nhà tư tế khác** | Giai đoạn Child đi ra ngoài Namimori — âm dương sư, nhà của cặp song sinh | luật khác, danh xưng khác |
 | **Đồng lứa của Tsuna** | cậu 6 tuổi và **chưa có một người bạn cùng tuổi nào** | ⚠️ Nagi nhỏ hơn, Kyouya lớn hơn 5 tuổi |
 
 ⚠️ Nhóm cuối đáng chú ý nhất: **cả truyện chưa có một đứa trẻ nào coi Tsuna là bạn cùng tuổi.** Ai cũng nhìn cậu từ trên xuống hoặc từ dưới lên.

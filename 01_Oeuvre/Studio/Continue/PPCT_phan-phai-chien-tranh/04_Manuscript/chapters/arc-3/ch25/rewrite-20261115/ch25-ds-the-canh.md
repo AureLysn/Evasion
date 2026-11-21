@@ -10,7 +10,7 @@ chapter: 25
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch25 ban DeepSeek", "thẻ cảnh ch25 bản song song", "ch25 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan|plan ch25]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch21-ds-nhap]]", "[[Diarmuid-Ua-Duibhne]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan|plan ch25]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch21-ds-nhap]]", "[[Diarmuid-Ua-Duibhne]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch25-plan + 4 thẻ scenes/ (Aurel duyệt C1–C6 22/09/2026). Không dùng văn bản ch25-chapter final."

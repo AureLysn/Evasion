@@ -5,7 +5,7 @@ scope: project
 lane: personal
 project: PPCT
 canon_layer: fic_explicit
-status: partially_paid
+status: open
 importance: minor
 introduced:
   arc: chien-tranh-chen-thanh
@@ -21,7 +21,7 @@ source:
   ref: "反派战争 ch10"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -41,7 +41,6 @@ Ch10: 「那么纲吉要给我补偿。」
 |---|---|
 | ch10 | Đòi |
 | ch11 | Cùng ngày đi mua cả núi quần áo cho Tsuna — **có phải là "bù đắp" không, văn bản không nói** |
-| ch20 *(viết tiếp)* | **Trả một phần**: Dazai nói ra đòi gì — 「今天一整天，不许有圣杯战争。」 — và được trả ngay trong ngày. `status` → `partially_paid` *(Aurel 20/09)*; ch11 vẫn để ngỏ là quà tự mua, không tính — [[mot-ngay-khong-co-chien-tranh-chen-thanh]] |
 
 ## Phương án payoff đang cân nhắc
 

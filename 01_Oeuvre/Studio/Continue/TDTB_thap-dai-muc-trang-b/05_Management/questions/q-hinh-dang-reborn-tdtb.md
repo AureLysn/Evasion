@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-reborn-tre-so-sinh-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "arc 1"
+  arc:
   chapter: "canh dau tien co Reborn"
 decision_owner: "user"
 aliases: ["hinh dang Reborn", "Reborn người lớn", "Reborn trẻ sơ sinh", "Arcobaleno lời nguyền"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Reborn của TDTB là trẻ sơ sinh hay người lớn?
@@ -41,7 +41,7 @@ ch8: Arcobaleno (Verde, Colonnello) **là trẻ sơ sinh**, ở một không gia
 
 ## Cần chốt trước
 
-Arc: arc 1 · Chương: canh dau tien co Reborn
+Cần trước: canh dau tien co Reborn
 
 ## Ai quyết
 

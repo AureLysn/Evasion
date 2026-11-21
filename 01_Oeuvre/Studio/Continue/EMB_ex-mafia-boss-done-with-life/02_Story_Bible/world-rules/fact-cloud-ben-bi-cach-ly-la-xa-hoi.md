@@ -9,7 +9,7 @@ status: locked
 decided: 2026-09-20
 decided_by: user
 aliases: ["Cloud la gi", "cach ly xa hoi nguoc", "hai canh tay", "khoang cach Cloud", "di bang Cloud", "Cloud khong phai tang hinh", "Getsufuji la gi", "vi sao khong ai lai gan Cloud"]
-related: ["[[rule-danh-xung-flame]]", "[[emb-chot-danh-xung-theo-lanh-tho]]", "[[emb-chot-may-nhan-loi-sky]]", "[[fact-cham-lua-thu-tuong-thich]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[brat-ch4-chapter-ban-20261001]]", "[[brat-ch5-chapter-ban-20261001]]"]
+related: ["[[rule-danh-xung-flame]]", "[[emb-chot-may-nhan-loi-sky]]", "[[fact-cham-lua-thu-tuong-thich]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: user_input
   ref: "Aurel, 20/09/2026: 'thay vi mo ta vo hinh va khong thu vi... moi nguoi biet khong nen lam phien mot cloud, khong nen lam cloud kho chiu, va khong den qua gan mot cloud trong khoang cach tam hai canh tay. minh dang nghi cloud la loai cach ly xa hoi nhung ben bi cach ly la xa hoi chu khong phai cloud'"
@@ -50,11 +50,11 @@ Nhìn từ trong thì **ngược hẳn**: Cloud không phải bên bị cách ly
 
 Nếu Cloud khiến người ta *tránh* chứ không khiến người ta *không thấy*, thì cái di chuyển trên phố là **một túi khoảng-trống biết đi**. Với thường dân: vô hình hoàn toàn. Với **một người được huấn luyện để tìm đúng thứ đó**: sáng như đèn.
 
-→ Đây là lý do [[mammon]] tìm ra [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] ở [[brat-ch4-chapter-ban-20261001]] ⛔. Không phải cậu sơ suất. **Lỗ hổng nằm sẵn trong cơ chế**, và cậu biết, và cậu đã chấp nhận nó cho tám ngày.
+→ Đây là lý do [[mammon]] tìm ra [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] ở *văn xuôi đã xóa*. Không phải cậu sơ suất. **Lỗ hổng nằm sẵn trong cơ chế**, và cậu biết, và cậu đã chấp nhận nó cho tám ngày.
 
 ### ② [[kyouya]] đứng im hai tiếng đắt hơn ta tưởng
 
-[[brat-ch5-chapter-ban-20261001]] ⛔: Varia đi ngang, và cậu **không động**. Với luật này, việc ấy không chỉ là nhịn đánh — nó là **để người lạ bước vào trong hai cánh tay của mình và không làm gì cả**, nhiều lần liên tiếp, trên đất của chính mình.
+*văn xuôi đã xóa*: Varia đi ngang, và cậu **không động**. Với luật này, việc ấy không chỉ là nhịn đánh — nó là **để người lạ bước vào trong hai cánh tay của mình và không làm gì cả**, nhiều lần liên tiếp, trên đất của chính mình.
 
 ### ③ Nó giải thích vì sao Namimori đối xử với Cloud như đối xử với thời tiết
 

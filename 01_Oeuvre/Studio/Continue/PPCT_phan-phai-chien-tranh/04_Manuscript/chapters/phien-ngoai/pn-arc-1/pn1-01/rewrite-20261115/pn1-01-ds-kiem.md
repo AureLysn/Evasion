@@ -10,7 +10,7 @@ chapter: "pn1-01"
 canon_layer: planned
 status: active
 aliases: ["kiem pn1-01 ban DeepSeek", "kiểm phiên ngoại khai trương", "pn1-01 ds kiem PPCT"]
-related: ["[[pn1-01-ds-nhap]]", "[[pn1-01-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[Ogai-Mori]]", "[[Koyo-Ozaki]]", "[[Ryuro-Hirotsu]]"]
+related: ["[[pn1-01-ds-nhap]]", "[[pn1-01-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[Ogai-Mori]]", "[[Koyo-Ozaki]]", "[[Ryuro-Hirotsu]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/47ebd9e3-d696-440e-8fce-303de9e87869 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc7cf3-e5d8-83ec-be6c-8cbfb3f15559"

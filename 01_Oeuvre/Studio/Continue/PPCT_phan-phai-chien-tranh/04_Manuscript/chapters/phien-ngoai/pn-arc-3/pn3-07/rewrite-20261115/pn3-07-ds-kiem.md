@@ -10,7 +10,7 @@ chapter: "pn3-07"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-07 ban DeepSeek", "kiểm phiên ngoại chuyện cũ", "pn3-07 ds kiem PPCT"]
-related: ["[[pn3-07-ds-nhap]]", "[[pn3-07-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[gia-thuyet-khr-cua-aurel]]"]
+related: ["[[pn3-07-ds-nhap]]", "[[pn3-07-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[gia-thuyet-khr-cua-aurel]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/ae5e9e97-ef46-4f5b-9f9e-f22b7227b80a · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd9205-edb4-83ec-aa6a-6efd59b9ed1b"

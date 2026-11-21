@@ -22,7 +22,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Saber
@@ -36,8 +36,6 @@ last_updated: 2026-09-14
 | ch13 | Saber thiện cảm với Tsuna 「不低」 |
 | ch15 | Tsuna khuyên đừng hối hận; Saber gọi cả ba là bạo quân, **gồm cả Tsuna** |
 | ch15 | Saber nắm tay Tsuna để xem các thế giới song song |
-| ch16 *(viết tiếp)* | Xem cùng các nước Anh song song; Saber tự dừng lại (「……够了。」); Tsuna: 「辛苦了，Saber小姐。」 |
-
 Lời kể ch15, qua Saber: Caster khá hơn Rider và Archer, nhưng cũng chỉ nới **dục vọng cá nhân thành dục vọng gia tộc**.
 
 ## Cách xưng hô

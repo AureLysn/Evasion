@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争24（DeepSeek版）"
 aliases: ["ch24 ban DeepSeek nhap", "chương 24 bản song song DeepSeek", "反派战争24 DeepSeek"]
-related: ["[[ch24-ds-the-canh]]", "[[ch24-ds-kiem]]", "[[deepseek-20261115]]", "[[ch23-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch24/ch24-chapter|ch24-chapter (aurel-main, final)]]"]
+related: ["[[ch24-ds-the-canh]]", "[[ch24-ds-kiem]]", "[[ch23-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch24/ch24-chapter|ch24-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch24-ds-the-canh (lượt 1 kẹt trong phần nghĩ; lượt 2 A–B; lượt 3 C–E); Claude kiểm lượt 1 và sửa (xem ch24-ds-kiem). Không dùng văn bản ch24-chapter final. Chat arc 3: https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9"

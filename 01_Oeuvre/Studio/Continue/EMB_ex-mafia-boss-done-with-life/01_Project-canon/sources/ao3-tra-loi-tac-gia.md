@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["AO3 author replies", "reply tac gia", "24 reply", "tra loi cua tac gia tren AO3", "Whymustwedolife reply", "ban trich reply"]
-related: ["[[sources/_MOC|sources]]", "[[ao3-comments]]", "[[emb-lam-lai-tu-nguon]]", "[[q-thu-tu-p2]]"]
+related: ["[[sources/_MOC|sources]]", "[[ao3-comments]]", "[[q-thu-tu-p2]]"]
 source:
   type: author_comment
   ref: "AO3 comment section Part 1 + Part 2 — ban trich chi lay reply cua Whymustwedolife tu hai file copy-paste Aurel gui 2026-08-15. Ban sao nguyen byte: personal-bulk:fiction-sources/EMB/raw/ao3/AO3-author-replies.md"

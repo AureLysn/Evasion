@@ -12,7 +12,7 @@ needed_before:
   chapter: "truoc khi xep tuyen Arcobaleno / Reborn vao khung arc"
 decision_owner: user
 aliases: ["Sukunabikona gan voi ai", "Sukunabikona va Reborn", "Reborn la Sun cua Tsuna", "D2 dot 7"]
-related: ["[[emb-chot-cau-hoi-mo]]", "[[emb-lam-lai-tu-nguon]]", "[[dot7-quyet-dinh]]", "[[hook-sukunabikona]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]
+related: ["[[emb-chot-cau-hoi-mo]]", "[[hook-sukunabikona]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]
 source:
   type: user_input
   ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 — decisions/dot7-quyet-dinh.md muc D2"
@@ -20,14 +20,14 @@ authority: user
 confidence: 0.5
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Sukunabikona gắn với tuyến nào?
 
 > ✅ **ĐÃ CHỐT 17/09/2026** — [[emb-chot-cau-hoi-mo]] mục 1. **Phương án C**: qua Arcobaleno, **Reborn làm Sun của Tsuna**. Chân *"tác giả đã đưa dấu hiệu"* chưa tìm thấy nguồn. Phần dưới giữ để truy vết.
 
-> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026 theo [[emb-lam-lai-tu-nguon]]. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
+> ⚠️ Câu hỏi CHƯA CHỐT. Mở lại 15/09/2026. Không dùng phương án dưới đây như sự thật. Khi chốt, tạo note `decision` và đổi `status: resolved`.
 
 ## Vì sao cần quyết
 
@@ -41,7 +41,7 @@ Trước khi xếp tuyến Arcobaleno / Reborn vào khung arc mới.
 
 ❌ Bắt buộc người viết
 
-## Đề xuất cũ — đợt 7, phương án C *(Aurel, 16/08/2026)*
+## Đề xuất cũ của Aurel — phương án C *(16/08/2026)*
 
 Sukunabikona gắn với **Arcobaleno**, cụ thể là **Reborn làm Sun của Tsuna**. Ba chân Aurel nêu:
 

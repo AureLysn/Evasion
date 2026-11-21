@@ -9,11 +9,11 @@ status: resolved
 resolved_by: "[[qd-gokudera-alpha-tdtb]]"
 resolved_at: 2026-09-30
 needed_before:
-  arc: "arc 1 — dem S1 den het tap 1"
-  chapter: "ch19"
+  arc:
+  chapter: "khi lap dai cuong"
 decision_owner: "shared"
 aliases: ["gioi ABO cua Gokudera", "Gokudera la alpha", "Gokudera alpha hay beta TDTB"]
-related: ["[[gokudera-hayato-tdtb]]", "[[h-nhieu-khach-moi-alpha-tdtb]]", "[[abo-the-gioi-tdtb]]", "[[chia-arc-huong-b-tdtb]]", "[[dan-y-ch16-ch19-tdtb]]"]
+related: ["[[gokudera-hayato-tdtb]]", "[[h-nhieu-khach-moi-alpha-tdtb]]", "[[abo-the-gioi-tdtb]]"]
 source:
   type: inference
   ref: "plan-continuation vong 2, 28/09/2026 — ch1-15 khong neu gioi ABO cua Gokudera; 文案 hua '为什么这个节目会加那么多alpha嘉宾啊！'"
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Gokudera là alpha, beta hay Omega?
@@ -33,7 +33,7 @@ last_updated: 2026-09-30
 ## Vì sao phải hỏi
 
 15 chương không nêu giới ABO của Gokudera. Arc 3 đưa anh lên show làm khách mời, nên phải biết pheromone của anh là gì, và anh chiếm
-suất nào trong đội hình 2 alpha, 2 beta, 2 Omega (luật 8). Câu này **chặn ch19** (plan-reviewer, 28/09). Tsuna, một Omega đang giấu thân phận, đối mặt Gokudera gần 2.000 chữ qua POV của cậu: không để ý giới của anh là không thật.
+suất nào trong đội hình 2 alpha, 2 beta, 2 Omega (luật 8). Tsuna, một Omega đang giấu thân phận, đối mặt Gokudera gần 2.000 chữ qua POV của cậu: không để ý giới của anh là không thật.
 
 ## Các phương án
 

@@ -10,7 +10,7 @@ chapter: "pn3-03"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-03 ban DeepSeek", "thẻ cảnh kẻ nhớ mang máng", "pn3-03 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-02-ds-nhap]]", "[[pn3-02-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-02-ds-nhap]]", "[[pn3-02-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Byakuran-Gesso]]", "[[Edogawa-Ranpo]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-03 (Aurel duyệt; C5, C6 để DeepSeek/GPT), V15 'Byakuran lên trang, 7³ vẫn ngầm' (khung-phien-ngoai-deepseek); note Database Byakuran-Gesso (bổ sung 18/11/2026); dữ kiện pn3-02-ds-kiem."

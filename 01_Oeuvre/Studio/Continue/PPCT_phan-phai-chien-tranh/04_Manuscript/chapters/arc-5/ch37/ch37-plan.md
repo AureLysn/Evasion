@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.050"
 aliases: ["plan ch37 PPCT", "dan y chuong 37 PPCT", "bo ma ch37", "补魔 ch37", "chuong nha arc 5", "lenh chu cua Dazai"]
-related: ["[[arc-5-ke-san-va-con-moi]]", "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[hook-bo-sung-ma-luc]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[Command-Spells]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]", "[[to-caster-gap-kiritsugu]]", "[[to-caster-nhan-ra-archer-doi-chu]]", "[[dazai--tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: [ "[[04_Manuscript/chapters/arc-5/ch36/ch36-chapter]]", "[[04_Manuscript/chapters/arc-4/ch33/ch33-chapter]]", "[[hook-bo-sung-ma-luc]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[Command-Spells]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]", "[[dazai--tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 25/09/2026 — chuong 4 arc 5 (chuong nha). Aurel 25/09: 'dong y de xuat, H1 muc (b)' — huong bo sung ma luc, 补魔 muc (b) = cu chi than mat toi muc om / nam tay. AI de xuat C1–C11; Aurel 25/09: dong y C1–C11 theo de xuat."
@@ -25,7 +25,7 @@ last_updated: 2026-09-25
 
 # Kế hoạch chương 37 — Bổ ma · ✅ AUREL DUYỆT 25/09/2026
 
-> Chương 4 arc 5 — **chương nhà**. Khung arc: *Giữa hai bước: một trong [[hook-dazai-mo-tiep-kiep-truoc]] · [[hook-bo-sung-ma-luc]] · [[hook-gokudera-dang-duoc-tim]] · hoặc Tsuna và câu trực giác đã có tên* ([[arc-5-ke-san-va-con-moi]]).
+> Chương 4 arc 5 — **chương nhà**. Khung arc: *Giữa hai bước: một trong [[hook-dazai-mo-tiep-kiep-truoc]] · [[hook-bo-sung-ma-luc]] · [[hook-gokudera-dang-duoc-tim]] · hoặc Tsuna và câu trực giác đã có tên* (arc-5-ke-san-va-con-moi).
 > **Đã chốt (Aurel 25/09):** hướng **H1 — bổ sung ma lực**; 补魔 mức **(b)** — có cử chỉ thân mật tới mức ôm / nắm tay như các chương đời thường của tác giả, **không** vượt quá.
 > Aurel duyệt **cả C1–C11 theo đề xuất** (25/09/2026). Thẻ cảnh 01–04 đã viết.
 
@@ -49,7 +49,7 @@ Câu ch33 「有人在给他魔力」 quay về chính căn cứ: Archer có ng�
 ## Bí mật / chi tiết — cho phép và CẤM
 
 - 🔴 **Rò kế hoạch ch38 *(C9)*.** Chương này đặt **kiến thức** (lệnh chú = ma lực), **không** đặt **suy luận**. **Không ai** nối "lệnh chú là ma lực" với Archer, với người đang nuôi Archer, với ba đạo của Sola-Ui hay nhà thờ. Câu ch33 chỉ là **cửa vào** câu hỏi của Tsuna về *chính mình*; Dazai trả lời về *Tsuna*, không quay lại Archer. Người đọc tự nối — đó là `foreshadow: hint`, chỉ ở mức người đọc.
-- 🔴 [[archer-doi-master-sang-kirei]]: Dazai/Tsuna giữ **L2** — không tên, không nhà thờ, không lệnh chú Sola-Ui.
+- 🔴 archer-doi-master-sang-kirei: Dazai/Tsuna giữ **L2** — không tên, không nhà thờ, không lệnh chú Sola-Ui.
 - 🔴 [[kirei-van-la-master]]: Tsuna `unknown_to`. Không chạm.
 - 🔴 **Dị năng Dazai không lên trang** (arc 5 điểm 4). Hai người chạm tay **không** được kèm bất kỳ câu nào về 人间失格, "vô hiệu", "không có tác dụng lên Tsuna" — [[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]] là luật cho người viết, không phải chuyện trên trang.
 - 🔴 [[dazai-mang-ky-uc-kiep-truoc]] · [[tsuna-bi-byakuran-giet]]: không chạm. Không giấc mơ.
@@ -117,4 +117,4 @@ Câu ch33 「有人在给他魔力」 quay về chính căn cứ: Archer có ng�
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌ nào có `needed_before` rơi vào ch37. **Không chạm:** ❌ [[q-tsuna-mo-quan-ca-phe]] (kết truyện) · [[q-tiem-ca-ri-va-oda]] · ❌ [[q-loi-giai-bi-an-trung-tam]] · ❌ [[q-loi-moi-hien-the]] · ❌ [[q-ke-hoach-that-bai-cua-dazai]].
+Không có câu ❌ nào có `needed_before` rơi vào ch37. **Không chạm:** ❌ q-tsuna-mo-quan-ca-phe (kết truyện) · [[q-tiem-ca-ri-va-oda]] · ❌ q-loi-giai-bi-an-trung-tam · ❌ q-loi-moi-hien-the · ❌ [[q-ke-hoach-that-bai-cua-dazai]].

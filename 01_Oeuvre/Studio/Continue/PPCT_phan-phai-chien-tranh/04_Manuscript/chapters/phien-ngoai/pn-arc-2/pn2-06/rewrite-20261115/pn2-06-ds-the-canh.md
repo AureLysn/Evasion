@@ -10,7 +10,7 @@ chapter: "pn2-06"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-06 ban DeepSeek", "thẻ cảnh ngày định mệnh song song", "pn2-06 ds PPCT", "ngay bi nguyen pn2-06"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-nhap]]", "[[pn2-02-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn2-05-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[20261118-canon-phien-ngoai-arc-2]]", "[[Kawahira]]", "[[Talbot]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Arcobaleno-Pacifier]]", "[[Flame-of-Night]]", "[[Lal-Mirch]]", "[[Colonnello]]", "[[Luce]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-nhap]]", "[[pn2-02-ds-nhap]]", "[[pn2-04-ds-nhap]]", "[[pn2-05-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kawahira]]", "[[Talbot]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Arcobaleno-Pacifier]]", "[[Flame-of-Night]]", "[[Lal-Mirch]]", "[[Colonnello]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-06 (Aurel duyệt 18/11/2026; C8 Vindice tới vì Checker Face; C9 nguyền kích hoạt rồi giải ngay, chỉ Lal về dáng người lớn); C7 (Arc II ngắn, Luce đang mang thai); note Database Talbot (tạo 18/11/2026), Lal-Mirch, Bermuda, Kawahira."

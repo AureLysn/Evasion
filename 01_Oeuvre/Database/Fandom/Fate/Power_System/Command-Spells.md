@@ -95,4 +95,4 @@ Chưa nghiên cứu. *(Riêng ý "lệnh chú dịch chuyển không phá đư�
 
 ## Fic nào dùng theo hướng nào
 
-- **PPCT** — xem [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/crosscheck/20260922-canon-chuyen-lenh-chu|20260922-canon-chuyen-lenh-chu]]: ch27–28 để Sola-Ui **giữ** ba lệnh chú sau khi Lancer chết, trái luật 1 — **lệch có chủ đích** (Aurel 22/09, [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/decisions/lenh-chu-con-sau-khi-servant-chet|lenh-chu-con-sau-khi-servant-chet]]). Luật 2 (Kirei có lệnh chú mới) giữ theo canon; luật 4 (cách Kirei lấy) dùng cho ch29.
+- **PPCT** — xem 20260922-canon-chuyen-lenh-chu: ch27–28 để Sola-Ui **giữ** ba lệnh chú sau khi Lancer chết, trái luật 1 — **lệch có chủ đích** (Aurel 22/09, lenh-chu-con-sau-khi-servant-chet). Luật 2 (Kirei có lệnh chú mới) giữ theo canon; luật 4 (cách Kirei lấy) dùng cho ch29.

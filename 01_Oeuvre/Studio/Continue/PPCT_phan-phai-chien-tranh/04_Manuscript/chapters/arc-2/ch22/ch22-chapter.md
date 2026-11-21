@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 22 PPCT", "ban nhap tieng Trung ch22", "新闻 ban nhap", "反派战争22 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[arc-2-moi-va-luoi]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

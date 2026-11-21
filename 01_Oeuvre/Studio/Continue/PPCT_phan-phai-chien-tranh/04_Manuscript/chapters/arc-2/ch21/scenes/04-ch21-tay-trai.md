@@ -18,7 +18,7 @@ target_paragraph_mean: 45
 target_sentence_median: 18
 status: planned
 aliases: ["canh 21-04 tay trai", "Lancer nghi ve Saber", "muon mot tran cong bang"]
-related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[Diarmuid-Ua-Duibhne]]", "[[hook-he-qua-thay-to-caster]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[Diarmuid-Ua-Duibhne]]", "[[hook-he-qua-thay-to-caster]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -50,8 +50,8 @@ Gieo mong muốn đấu Saber **khi cô lành lặn** — và để nó đứng 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
 - ch11 *(nguyên tác)*: Lancer đâm Saber bằng Gáe Buidhe, vết thương **không lành** — [[Diarmuid-Ua-Duibhne]]
-- Canon: Lancer muốn một ngày được đấu với Saber **khi cô lành lặn**; vì vậy sau này **tự phá Gáe Buidhe** — *"Lancer broke his Gae Buidhe in order for Saber to use her Excalibur."* — [[Diarmuid-Ua-Duibhne]] · [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]]
-- Aurel chốt 15/09: Lancer **tự phá Gáe Buidhe trước quyết đấu**, và việc đó ở **arc sau**, không phải arc 2 — [[lancer-tu-pha-gae-buidhe-truoc-quyet-dau]] · [[ket-cuc-lancer-quyet-dau-tu-nguyen]]
+- Canon: Lancer muốn một ngày được đấu với Saber **khi cô lành lặn**; vì vậy sau này **tự phá Gáe Buidhe** — *"Lancer broke his Gae Buidhe in order for Saber to use her Excalibur."* — [[Diarmuid-Ua-Duibhne]] · lancer-tu-pha-gae-buidhe-truoc-quyet-dau
+- Aurel chốt 15/09: Lancer **tự phá Gáe Buidhe trước quyết đấu**, và việc đó ở **arc sau**, không phải arc 2 — lancer-tu-pha-gae-buidhe-truoc-quyet-dau · ket-cuc-lancer-quyet-dau-tu-nguyen
 
 ## Kết cảnh phải đạt được gì
 

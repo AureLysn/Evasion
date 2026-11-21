@@ -10,7 +10,7 @@ chapter: 39
 canon_layer: user_canon
 status: active
 aliases: ["review ch39 PPCT", "soat ch39", "check-continuity ch39", "check-style ch39", "soat giao dich Kirei Kariya"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-chapter]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[kirei]]", "[[berserker]]", "[[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]", "[[kirei-nap-mot-dao-lenh-chu-cho-kariya]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[Kariya-Matou]]", "[[Lancelot-Berserker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-chapter]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[kirei]]", "[[berserker]]", "[[Kariya-Matou]]", "[[Lancelot-Berserker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 29/09/2026, tren ban nhap ch39 (1.655 chu Han). Nguoi soat cung la nguoi viet ban nhap trong cung phien."
@@ -32,7 +32,7 @@ last_updated: 2026-09-29
 |---|---|
 | `pov_leak_check` ×3 cảnh | Không phát hiện rò rỉ. Exit 1 ở cả ba, vì 3 bí mật không có `leak_terms` chữ Hán: [[assassin-chua-chet]] · [[dazai-mang-ky-uc-kiep-truoc]] · [[kiritsugu-la-master-that]] |
 | Grep tay cho 3 bí mật trên | Assassin · 暗杀 · 哈桑 · 假死 · 前世 · 书 · 卫宫 · 切嗣 · 真正的御主 · 彭格列 đều = **0**. 太宰 · 纲吉 chỉ có ở khối 预警 và lời người viết tiếp, thân truyện = 0 |
-| Grep tay `leak_terms` và ranh giới | 时臣死 · 时臣已经死 · 远坂时臣死 · 时臣被杀 · Archer的新御主 · Archer换了御主 · Archer的御主换 · 绮礼的从者 · Azoth · 容器 · 言峰 · 绮礼 · 索拉 · Lancelot · 兰斯洛特 = **0**. 时臣 ×1, trong ý nghĩ của Kariya, như với người còn sống — đúng [[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]] |
+| Grep tay `leak_terms` và ranh giới | 时臣死 · 时臣已经死 · 远坂时臣死 · 时臣被杀 · Archer的新御主 · Archer换了御主 · Archer的御主换 · 绮礼的从者 · Azoth · 容器 · 言峰 · 绮礼 · 索拉 · Lancelot · 兰斯洛特 = **0**. 时臣 ×1, trong ý nghĩ của Kariya, như với người còn sống — đúng kariya-khong-biet-tokiomi-chet-kirei-hua-chen |
 | 「我」 ngoài ngoặc kép | 0 |
 | `ai_tells_check --project PPCT` | exit **0** |
 | `style_metrics --write --json` | exit 0. 1.655 chữ, trên sàn 1.500 |
@@ -45,8 +45,8 @@ last_updated: 2026-09-29
 |---|---|---|
 | 1 | Timeline | ✅ 「第十五天中午。」 nằm sau ch38 (trưa ngày 14). 「第一天晚上在仓库街」 khớp [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master\|master]]: đêm kho cảng = ngày 1. 「今天晚上」 khớp khung arc (vụ bắt cóc tối ngày 15) |
 | 2 | Ranh giới hiểu biết | ✅ Kariya không biết Kirei là Master, không biết Tokiomi chết, không biết Master thật của Saber. 「Saber的御主？」 → 「你可以这么想。」 làm Kariya **tin sai** mà không để lộ [[kiritsugu-la-master-that]]. Người kể không gọi tên Kirei (chỉ 「神父」) |
-| 3 | Trạng thái nhân vật | ✅ tóc bạc, nửa trái mặt và người tê, 刻印虫, Berserker rút ma lực — [[Kariya-Matou]]. Lệnh chú 1 → 2 — [[kirei-nap-mot-dao-lenh-chu-cho-kariya]]. Xem **#1** (fact mới) |
-| 4 | Luật thế giới | ✅ Nạp lệnh chú bằng cách vẽ theo dấu và tụng kinh — [[20260929-canon-arc-6-co-xe-gia]] d3. Xem **#3** |
+| 3 | Trạng thái nhân vật | ✅ tóc bạc, nửa trái mặt và người tê, 刻印虫, Berserker rút ma lực — [[Kariya-Matou]]. Lệnh chú 1 → 2 — kirei-nap-mot-dao-lenh-chu-cho-kariya. Xem **#1** (fact mới) |
+| 4 | Luật thế giới | ✅ Nạp lệnh chú bằng cách vẽ theo dấu và tụng kinh — 20260929-canon-arc-6-co-xe-gia d3. Xem **#3** |
 | 5 | Quan hệ, xưng hô | — không có note quan hệ Kirei–Kariya. Kariya gọi Kirei là 「你」, người kể dùng 「神父」 từ đầu tới cuối — đúng thẻ cảnh 02 |
 | 6 | Canon | ✅ Berserker lao vào Saber trái ý Master (ch9 · [[Kariya-Matou]]). Không chân danh — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten\|phan-biet-cung-ten]] dòng 39. Xem **#2**, **#4** |
 | 7 | Hợp đồng nhánh | ✅ không phạm `forbid` |
@@ -56,9 +56,9 @@ last_updated: 2026-09-29
 
 | # | Loại | Mức | Chỗ trong chương | Chi tiết | Note đối chiếu |
 |---|---|---|---|---|---|
-| 1 | fact mới | low | cảnh 02: 「几天前的夜里，他倒在间桐家后面的巷子里…是这个人把他扶了起来」 | Chương **đặt** lần gặp đầu: vài ngày trước, ở ngõ sau nhà Matō, Kirei đỡ Kariya dậy. Khớp plan C1 (「Kirei tìm tới vì Kariya kiệt sức」) và arc 5 điểm 5 (sợi nền, ngoài trang). **Không** mâu thuẫn; `finalize-chapter` phải ghi thành state | [[arc-5-ke-san-va-con-moi]] điểm 5 · plan C1 |
+| 1 | fact mới | low | cảnh 02: 「几天前的夜里，他倒在间桐家后面的巷子里…是这个人把他扶了起来」 | Chương **đặt** lần gặp đầu: vài ngày trước, ở ngõ sau nhà Matō, Kirei đỡ Kariya dậy. Khớp plan C1 (「Kirei tìm tới vì Kariya kiệt sức」) và arc 5 điểm 5 (sợi nền, ngoài trang). **Không** mâu thuẫn; `finalize-chapter` phải ghi thành state | arc-5-ke-san-va-con-moi điểm 5 · plan C1 |
 | 2 | chi tiết thêm | low | cảnh 01: 「那个穿银色铠甲的女骑士」 | Màu giáp **bạc** không có trong [[artoria]] hay note canon. Canon Saber mặc giáp bạc xanh, nên khó sai, nhưng mình **không chắc** — không có nguồn trong vault | [[artoria]] (không ghi màu) |
-| 3 | canon quá nguồn | low | cảnh 02: 「能把别人的样子穿在身上，连气息也一起穿上」 | "Cả khí tức" đi xa hơn crosscheck a1, vốn chỉ ghi "sương đen ẩn chỉ số và hình dáng; nhái dạng Anh linh khác". Lời Kirei nói ra thì được phép phóng đại, nhưng câu này sẽ thành nền cho cảnh tổ Caster nhìn thấu ở ch40: nếu "khí tức" cũng giả được, Tsuna dựa vào đâu? | [[20260929-canon-arc-6-co-xe-gia]] a1 (0.75) |
+| 3 | canon quá nguồn | low | cảnh 02: 「能把别人的样子穿在身上，连气息也一起穿上」 | "Cả khí tức" đi xa hơn crosscheck a1, vốn chỉ ghi "sương đen ẩn chỉ số và hình dáng; nhái dạng Anh linh khác". Lời Kirei nói ra thì được phép phóng đại, nhưng câu này sẽ thành nền cho cảnh tổ Caster nhìn thấu ở ch40: nếu "khí tức" cũng giả được, Tsuna dựa vào đâu? | 20260929-canon-arc-6-co-xe-gia a1 (0.75) |
 | 4 | chi tiết thêm | low | cảnh 01: 「樱坐在走廊尽头那把小椅子上，手里捏着他折的纸鹤」 | Con hạc giấy không có trong [[Kariya-Matou]]. Hình ảnh ấm, đúng memory "đừng bi kịch hoá". Không mâu thuẫn gì; chỉ ghi lại để không ai coi nó là canon | [[Kariya-Matou]] |
 | 5 | trạng thái | low | cảnh 01: 「现在两道已经暗了下去」 | Chương **không** nói hai đạo đã dùng ở đâu, đúng thẻ 01. Nhưng việc "Kariya còn 1 đạo trước ngày 15" giờ đã lên trang. Nếu có chương cũ nào ngầm cho Kariya dùng đạo thứ ba thì mới mâu thuẫn. Grep 令咒 ch6–10 chỉ thấy của Tokiomi → **không** thấy mâu thuẫn | [[04_Manuscript/chapters/arc-2/ch19/ch19-review]] #1 |
 

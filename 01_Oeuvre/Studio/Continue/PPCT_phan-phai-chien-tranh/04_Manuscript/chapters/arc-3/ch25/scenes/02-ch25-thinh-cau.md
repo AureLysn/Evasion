@@ -19,7 +19,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 25-02 thinh cau", "请求 ch25", "Lancer xin phep Sola-Ui", "lan dau Lancer hoi Sola-Ui", "我想听你问我一句 payoff"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[sola-ui-gianh-lenh-chu]]", "[[sola-ui]]", "[[kayneth]]", "[[quy-uoc-to-lancer]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[sola-ui]]", "[[kayneth]]", "[[quy-uoc-to-lancer]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -59,7 +59,7 @@ Trả câu Sola-Ui đòi ở ch21: 「我想听你问我一句。」 Lần đầ
 - ch21: 「“你看着我的时候，看见的是什么？”」 → 「“我的御主。”」 · 「“你真是个称职的从者。”」
 - ch21: Sola-Ui là nguồn ma lực của Lancer — 「那是我的魔力在养着的从者。」
 - Sola-Ui giữ **ba** đạo lệnh chú, chưa dùng — [[quy-uoc-to-lancer]] · [[sola-ui]].
-- ch24: Kayneth nằm trên thùng hàng, tay quấn băng, ngón nẹp — [[to-caster-biet-lenh-chu-doi-tay]].
+- ch24: Kayneth nằm trên thùng hàng, tay quấn băng, ngón nẹp — to-caster-biet-lenh-chu-doi-tay.
 - Mức tình cảm của Sola-Ui với Lancer: **chưa có decision** ([[sola-ui]] mục "Chưa quyết").
 
 ## Kết cảnh phải đạt được gì

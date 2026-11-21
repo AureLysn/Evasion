@@ -10,7 +10,7 @@ chapter: "pn4-04"
 canon_layer: planned
 status: active
 aliases: ["kiem pn4-04 ban DeepSeek", "kiểm phiên ngoại Chén Thánh mười bốn người", "pn4-04 ds kiem PPCT"]
-related: ["[[pn4-04-ds-nhap]]", "[[pn4-04-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[deepseek-20261115]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Artoria-Pendragon]]"]
+related: ["[[pn4-04-ds-nhap]]", "[[pn4-04-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Artoria-Pendragon]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/8b914924-4cc3-447f-86ca-bf5428f041ad · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdb45f-851c-83ec-8b80-fe318f9547f8"

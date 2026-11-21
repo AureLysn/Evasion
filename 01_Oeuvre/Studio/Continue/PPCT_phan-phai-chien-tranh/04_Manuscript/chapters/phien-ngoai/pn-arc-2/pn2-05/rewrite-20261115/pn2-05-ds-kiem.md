@@ -10,7 +10,7 @@ chapter: "pn2-05"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-05 ban DeepSeek", "kiểm phiên ngoại Yokohama song song", "pn2-05 ds kiem PPCT"]
-related: ["[[pn2-05-ds-nhap]]", "[[pn2-05-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[20261118-canon-phien-ngoai-arc-2]]", "[[Luce]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Doppo-Kunikida]]", "[[Akutagawa-Ryunosuke]]"]
+related: ["[[pn2-05-ds-nhap]]", "[[pn2-05-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Luce]]", "[[Ogai-Mori]]", "[[Sakaguchi-Ango]]", "[[Doppo-Kunikida]]", "[[Akutagawa-Ryunosuke]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/fcce3cf4-f553-469e-89e6-1ebdf6220315 · GPT chấm https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afceece-0ea0-83ec-a3f6-3195401abe01 · GPT đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd1fce-4bbc-83ec-a01e-ffc163012637"

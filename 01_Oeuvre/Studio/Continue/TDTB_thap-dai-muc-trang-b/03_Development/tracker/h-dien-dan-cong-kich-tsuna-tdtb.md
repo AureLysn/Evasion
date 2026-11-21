@@ -15,7 +15,7 @@ payoff:
   arc: null
   chapter:
 aliases: ["dien dan cong kich Tsuna", "diễn đàn công kích Tsuna", "cướp bạn trai", "bản tinh hoa đài truyền hình", "Tsuna bị ghét trên mạng"]
-related: ["[[yamamoto-den-phong-tsuna-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb-phan-cu]]"]
+related: ["[[yamamoto-den-phong-tsuna-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch12, ch14, ch15"
@@ -23,7 +23,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna thành đích công kích trên mạng
@@ -43,4 +43,3 @@ Show có tiền lệ khán giả đào *"hắc lịch sử"* khiến khách mờ
 | Chương | |
 |---|---|
 | ch15 | diễn đàn: *"10 cái có 9 cái"* lên án Tsuna **cướp bạn trai** |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)* | đẩy: chia phe sau bữa trưa — vẫn *"蹭热度"*, *"心机beta"*, có người *"只有我觉得午饭那段很帅吗？"*; danmaku *"反差"*. Tsuna đọc, *"哦"* |

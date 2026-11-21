@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["dany v2 vs v3", "doi chung dan y", "dot 7 doi chung", "dan y Child Arc ban cu", "vat lieu roi mat", "chuong bi mat khi len v3", "Illusionist chapter", "Sky Turns Seven", "Ring Says Something Useful", "child arc ban cu"]
-related: ["[[EMB]]", "[[dot7-quyet-dinh]]", "[[dot4-vs-hoso]]", "[[Uu-Tien-Nguon]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]"]
+related: ["[[EMB]]", "[[dot4-vs-hoso]]", "[[Uu-Tien-Nguon]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "So tung beat hai ban DANY-KOHAKU.md ngay 2026-09-09. Ban v3 (507 dong) o 02_Storage/01_Personal-Archive/fiction/Studio/Continue/EMB_ex-mafia-boss-done-with-life/sources/knowledge-data/. Ban cu (376 dong) chi con tren Drive tai 02_Storage/01_Personal-Archive/03_Fandom/[KHR] Katekyo Hitman Reborn/AI_Continue/OldVer/[KOHAKU] .../[KOHAKU] DANY.md. Aurel xac nhan cung ngay: phan chenh la ROI MAT, khong phai bo co chu y."
@@ -16,14 +16,14 @@ confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [doi-chung, meta]
-last_updated: 2026-09-09
+last_updated: 2026-11-21
 ---
 
 # Đợt 7 — `DANY` bản cũ vs bản v3
 
 > Đây là mục **"Chưa làm"** mà [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/_MOC|_MOC]] của thư mục này đã treo từ 16/08: *"đối chứng với `DANY-KOHAKU.md` (40 KB) — dàn ý, so ở giai đoạn 7"*.
 
-**Vì sao có hai bản.** [[dot7-quyet-dinh]] §E ghi: *"A2 đã làm phần lớn nhóm E mất hiệu lực — chúng thuộc `DANY` Child Arc, **nay đã mở lại**."* Mục B3 được viết lại thành v3. Bản cũ không bị xoá, nó chỉ ở lại trong bản sao trên Drive.
+**Vì sao có hai bản.** dot7-quyet-dinh §E ghi: *"A2 đã làm phần lớn nhóm E mất hiệu lực — chúng thuộc `DANY` Child Arc, **nay đã mở lại**."* Mục B3 được viết lại thành v3. Bản cũ không bị xoá, nó chỉ ở lại trong bản sao trên Drive.
 
 **Aurel chốt 09/09/2026:** phần chênh là **rơi mất**, không phải bỏ có chủ ý. Nên note này là danh sách phục hồi, không phải biên bản lưu trữ.
 
@@ -98,7 +98,7 @@ Bản cũ Ch8, POV Musashi → Tsuna. Sinh nhật 7 tuổi và cover story chín
 | `DANY` §B2 Brat Ch8, beat 2 | *"**Cover story tuổi 7**, gắn với fanon 'Flame định hình năm 7 tuổi'."* — v3 đã hút tuyến cover story về Brat Arc |
 | `DANY` §B3 *ĐIỂM XUẤT PHÁT* | cover story **đã nộp** trước khi Child Arc mở |
 | `DANY` §B3 Ch1 | *"Tsuna 7 tuổi, mùa xuân"* · *"ba tuần yên đầu tiên"* sau lễ — tức **sinh nhật 7 đã qua** |
-| Đĩa | `chapters/brat/BratArc-Chuong3..8.md` — **Brat Ch3–8 đã viết thành văn** |
+| Đĩa | `chapters/brat/BratArc-Chuong3..8.md` — **Brat Ch3–8 đã viết thành văn** *(note tóm tắt đã xóa 21/11/2026)* |
 
 Nên không thể trả khối này về Brat Ch8 (phải viết lại văn đã xong), cũng không thể đặt vào Child Arc như một sinh nhật (Tsuna đã 7 từ trước Ch1). Cái **thật sự chưa có nhà** là beat *ký ức sinh nhật cuối cùng ở kiếp trước, đối lập hai cuộc đời* — mà một ký ức thì **không cần rơi đúng ngày sinh nhật**.
 

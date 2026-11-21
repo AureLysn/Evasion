@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-27
 needed_before:
-  arc: "arc 1"
+  arc:
   chapter: "truoc khi viet chuong dau tien (write-chapter) va truoc khi lap ai-tells.md / khoi gate:"
 decision_owner: "user"
 aliases: ["ngon ngu viet TDTB", "viet tieng Trung hay tieng Viet", "don vi do TDTB", "chu Han hay am tiet", "quy doi zh vi TDTB", "0.928"]
@@ -21,12 +21,12 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Viết tiếp bằng tiếng gì, và đo bằng đơn vị nào?
 
-> ✅ **Đã giải 26/09/2026** — Aurel chọn **A** → [[qd-viet-tieng-viet-quy-doi-tdtb]]. Phần dưới giữ làm lịch sử cân nhắc.
+> ✅ **Đã giải 26/09/2026** — Aurel chọn **A** → qd-viet-tieng-viet-quy-doi-tdtb. Phần dưới giữ làm lịch sử cân nhắc.
 >
 > 🔁 **Đổi 27/09/2026** → [[qd-viet-tieng-trung-tdtb]]: Aurel chọn lại, viết **thành phẩm tiếng Trung**, gần với phương án B nhưng không convert.
 

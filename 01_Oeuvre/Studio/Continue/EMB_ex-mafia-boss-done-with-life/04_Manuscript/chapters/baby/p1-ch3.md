@@ -27,7 +27,7 @@ last_updated: 2026-09-15
 
 # P1 Ch3 — *Local Mafia Boss Would Like to Hug a Tree, Says it Saved his Life*
 
-> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Đối chiếu: [[20260915-p1-ch3]].
+> 🔁 **Viết lại từ nguồn 15/09/2026** trong đợt emb-lam-lai-tu-nguon. Đối chiếu: [[20260915-p1-ch3]].
 >
 > `word_count` = thân chương. Chương có **ba POV**: Tsuna, Indra, Musashi. Chapter Notes ghi đây là chương cuối Baby Arc. **Chapter 4** chỉ là thông báo arc mới (59 từ), không có nội dung truyện.
 

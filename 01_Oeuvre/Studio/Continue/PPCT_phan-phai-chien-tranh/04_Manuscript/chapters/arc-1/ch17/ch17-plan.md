@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.waver, character.PPCT.dazai]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.400"
 aliases: ["plan ch17 PPCT", "dan y chuong 17 PPCT", "Yen tan", "Assassin tap kich Vuong Yen ch17", "Ionioi Hetairoi ch17"]
-related: ["[[arc-1-vuong-yen-ha-man]]", "[[hook-assassin-con-song]]", "[[hook-archer-tuyen-chien-rider]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]]", "[[Kirei-Kotomine]]"]
+related: [ "[[hook-assassin-con-song]]", "[[hook-archer-tuyen-chien-rider]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]]", "[[Kirei-Kotomine]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 14/09/2026 — khung Cum 1 dan y v3.1 cu (ch17), sua theo decision 14/09 va canon Iskandar/Hassan/Kirei doc 14/09"
@@ -34,7 +34,7 @@ Khép Vương Yến bằng đúng mốc canon — Assassin tập kích, Rider m�
 1. **Assassin lộ diện ở yến**: hàng chục mặt nạ đầu lâu trong sân lâu đài; mọi người thấy Assassin — vốn "đã chết" — còn sống. Tổ Caster **không tỏ ra bất ngờ**, nhưng không ai khác nhận ra điều đó.
 2. **Rider mời rượu, bị từ chối**: Rider đưa muôi rượu mời cả Assassin; chúng từ chối → Rider mở **Ionioi Hetairoi** *(canon: [[Hassan-of-the-Hundred-Faces]] — chết khi "decline Iskander's wine offer")*.
 3. **Vương Quân**: sa mạc, nắng gắt, hàng chục nghìn quân — mỗi người là Anh linh theo vua sau khi chết; quân áp đảo chưa tới một trăm Assassin *([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]])*. Waver hiểu ra vương đạo của Rider nằm ở những người đi theo.
-4. **Dazai trong kết giới**: không mỉa được thứ thuần túy đến vậy — nối lời Tsuna ch6 「越纯粹，就越强大」; suy ra ở mức **nghi**: Master của Assassin còn lệnh chú, và cùng phe Archer dựng màn chết giả mà ai cũng tin *(sửa 15/09: bỏ "đêm đầu" — [[assassin-chet-gia-truoc-dem-kho-cang]])* — [[dazai-nghi-master-assassin-cung-phe-archer]].
+4. **Dazai trong kết giới**: không mỉa được thứ thuần túy đến vậy — nối lời Tsuna ch6 「越纯粹，就越强大」; suy ra ở mức **nghi**: Master của Assassin còn lệnh chú, và cùng phe Archer dựng màn chết giả mà ai cũng tin *(sửa 15/09: bỏ "đêm đầu" — assassin-chet-gia-truoc-dem-kho-cang)* — dazai-nghi-master-assassin-cung-phe-archer.
 5. **Yến tàn**: kết giới tan; Archer rời đi, để lại lời với Rider (đẩy [[hook-archer-tuyen-chien-rider]]); Saber im lặng.
 
 ## Hook phải chạm

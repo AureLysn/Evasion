@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Thể lệ show 《Làm lòng người động ngươi》
@@ -49,16 +49,3 @@ last_updated: 2026-10-03
 | # | Luật | Căn cứ |
 |---|---|---|
 | A1 | Mỗi tập quay **hai ngày** ở biệt thự, kết bằng chấm điểm tối ngày thứ hai. Giữa hai tập, khách **về nhà vài ngày** | [[qd-moi-tap-hai-ngay-tdtb]] (30/09) |
-
-## Thêm từ chương viết tiếp — không phải văn bản gốc
-
-> Lớp `planned`: [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] là chương viết tiếp, **không phải** chương của tác giả gốc 乐博. Bảng này chỉ ghi cái **trang ch17 cho thấy** về phần kết tập 1. Không sửa luật nào ở hai bảng trên.
-
-| # | Trang ch17 cho thấy | Căn cứ (nguyên văn ch17) |
-|---|---|---|
-| V1 | Kết tập, tối ngày thứ hai: tổ chương trình gọi cả sáu khách về **phòng khách**, livestream vẫn mở, tổng đạo diễn điều hành. **Mỗi khách nói một câu cảm tưởng** | *"天黑以后，节目组把六位嘉宾都叫回了客厅。"* · *"直播还开着，按照流程，第一集只剩下最后一个环节，评分。"* · *"“第一集就要结束啦，每位嘉宾都来说一句感想吧，说什么都行。”"* |
-| V2 | **Phỏng vấn riêng**: khách lần lượt vào một phòng nhỏ chỉ có **một camera tự động và một màn hình**. Câu hỏi hiện từng câu trên màn hình, không có người hỏi. **Ba câu**: *"给今天的自己打几分"* · *"这一集最想继续了解的嘉宾"* · *"下一集想和谁一组"*. Trang chỉ cho thấy lượt của Tsuna, và không nói phần này có lên sóng hay không | *"嘉宾们轮流进一间小屋子，屋里只有一台自动摄像机和一块屏幕，问题一条一条地跳出来，旁边没有人问，对着镜头回答就行。"* |
-| V3 | Mục cuối của phần phỏng vấn riêng: **phiếu chấm các khách khác, 1–10 điểm**, mỗi người một ô, viết tay rồi nộp. Trang chỉ cho thấy phiếu của Tsuna | *"最后一项是给其他嘉宾打分，一到十分，一人一栏。"* · *"交表之前"* |
-| V4 | Công bố ở phòng khách: **không đọc điểm, không báo xếp hạng**, chỉ một câu *"本集没有嘉宾下车"*. Sau đó tổng đạo diễn chỉ nói *"沢田君，下一集也拜托啦"*, không giải thích | *"“本集没有嘉宾下车。”"* · *"分数不念，排名也不报，就这么一句。"* |
-| V5 | **"Tổ chương trình cũng chấm"** (luật 6, ch9): ở ch17 chỉ xuất hiện trong **ý nghĩ của Tuyết** (cảnh 01). Không cảnh nào của ch17 cho thấy tổ chương trình chấm, chấm thế nào, hay điểm được dùng ra sao | *"晚上要评分，节目组评分，嘉宾之间也要互相评分，得分过低，又没有其他嘉宾愿意和他配对的话，就会被请下车。"* |
-| V6 | Quay xong, **xe của tổ chương trình** đưa từng khách về nhà (khớp A1) | *"节目组的车就等在别墅门口，一趟一趟地把嘉宾们送回家。"* |

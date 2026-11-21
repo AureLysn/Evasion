@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.dazai]
 target_words: "mỗi chương ≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan phien ngoai Arc III DeepSeek", "dàn ý phiên ngoại Arc III", "Ba dua tre plan", "pn3 plan PPCT", "番外 Arc III"]
-related: ["[[khung-phien-ngoai-deepseek]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[pn-arc-2-ds-plan]]", "[[pn2-09-ds-nhap]]", "[[pn2-07-ds-nhap]]", "[[phien-ngoai-du-nam-arc]]", "[[anh-linh-hien-trong-phien-ngoai]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[gia-thuyet-khr-cua-aurel]]", "[[deepseek-20261115]]", "[[Byakuran-Gesso]]", "[[Uni]]", "[[Luce]]", "[[Sawada-Tsunayoshi]]", "[[Xanxus]]", "[[Rokudo-Mukuro]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Nakajima-Atsushi]]", "[[Akiko-Yosano]]", "[[Sakunosuke-Oda]]"]
+related: [ "[[pn-arc-2-ds-plan]]", "[[pn2-09-ds-nhap]]", "[[pn2-07-ds-nhap]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[gia-thuyet-khr-cua-aurel]]", "[[Byakuran-Gesso]]", "[[Uni]]", "[[Luce]]", "[[Sawada-Tsunayoshi]]", "[[Xanxus]]", "[[Rokudo-Mukuro]]", "[[Doppo-Kunikida]]", "[[Edogawa-Ranpo]]", "[[Nakajima-Atsushi]]", "[[Akiko-Yosano]]", "[[Sakunosuke-Oda]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 18/11/2026 — phiên ngoại Arc III nhánh deepseek-20261115. Khung: khung-phien-ngoai-deepseek (V13–V16 Aurel chốt 18/11/2026); ý gốc: dàn ý cũ v3.1 PN-Arc III (III.1–III.9) và Lưới gặp gỡ xen kẽ; C7 Arc II (vào Tổ, Atsushi, Guild dời sang đầu Arc III); canon: 20261118-canon-phien-ngoai-arc-3; nối từ pn2-09 (Arc II kết, quán thành nhà chung) và pn2-07 (Dazai nợ Yosano)."
@@ -36,7 +36,7 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 
 - pn3-01: khoảng **hai năm** sau Arc II, Dazai ~20 (canon vào Cơ quan).
 - pn3-02: Dazai ~22 (canon gặp Atsushi). Từ pn3-03 trở đi Arc chạy trong vài tháng quanh mốc này.
-- Bé Tsuna **5 tuổi**. Tuổi các đứa trẻ khác lấy theo [[20261118-canon-phien-ngoai-arc-3]] mục 3; không viết phép tính tuổi giữa Luce, Aria, Yuni (V14).
+- Bé Tsuna **5 tuổi**. Tuổi các đứa trẻ khác lấy theo 20261118-canon-phien-ngoai-arc-3 mục 3; không viết phép tính tuổi giữa Luce, Aria, Yuni (V14).
 
 ## pn3-01 · Kỳ thi vào Tổ — POV Kunikida *(C1)*
 
@@ -133,7 +133,7 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 - 🔴 Không BEAST, không Cuốn Sách (Arc V); không Fyodor, Shibusawa, Thiên Nhân Ngũ Suy (Lưới để muộn — xem C8).
 - ✅ 白兰, 尤尼, thế giới song song; nhẫn Mare được **nhắc**, Byakuran chưa có nhẫn (Cervello tới khi hắn học đại học).
 - ✅ Phong ấn của Nono, Iemitsu vắng, Nana bản manga — [Fanon-phê phán canon], nối [[gia-thuyet-khr-cua-aurel]].
-- ⚠️ Canon chưa có note: Cơ quan Thám tử, Entrance Exam, Guild, Kyouka, Q, Estraneo, Chrome, Verlaine, Kyoko/Ryohei/Haru, Nono, Cradle — tra từng trang trước chương cần ([[20261118-canon-phien-ngoai-arc-3]] mục 5).
+- ⚠️ Canon chưa có note: Cơ quan Thám tử, Entrance Exam, Guild, Kyouka, Q, Estraneo, Chrome, Verlaine, Kyoko/Ryohei/Haru, Nono, Cradle — tra từng trang trước chương cần (20261118-canon-phien-ngoai-arc-3 mục 5).
 
 ## Ngân sách
 
@@ -185,6 +185,6 @@ Người từng bị khoá lửa từ năm năm tuổi gặp lại chính mình 
 | Điều kiện | Trạng thái |
 |---|---|
 | Khung V13–V16 | ✅ 18/11/2026 |
-| Canon Arc III | ✅ [[20261118-canon-phien-ngoai-arc-3]] (mục 5 còn tra từng trang) |
+| Canon Arc III | ✅ 20261118-canon-phien-ngoai-arc-3 (mục 5 còn tra từng trang) |
 | Aurel duyệt C1–C17 | ✅ 18/11/2026 — "Để DS/GPT đề xuất" |
 | Tra Cơ quan Thám tử, *Entrance Exam* (trước pn3-01) | ✅ 18/11/2026 — [[Armed-Detective-Agency]] |

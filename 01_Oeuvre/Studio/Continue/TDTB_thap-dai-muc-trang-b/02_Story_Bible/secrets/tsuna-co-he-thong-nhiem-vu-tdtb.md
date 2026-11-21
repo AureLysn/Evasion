@@ -24,7 +24,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Tsuna có một hệ thống nhiệm vụ, và dùng lửa trong thế giới nhiệm vụ
@@ -40,7 +40,6 @@ last_updated: 2026-10-03
 3. **Trong thế giới nhiệm vụ cậu dùng lửa.** ch8: *"Cương Cát trên đầu cùng trên tay dấy lên tinh khiết màu cam hỏa diễm"*, mắt *"phảng phất giống như mạ vàng"*, bay bằng lửa, hô *"X—burner!"*. Lửa *"có tịnh hóa tác dụng"*. Vũ khí: đôi găng len thêu *"27"*, *"Liệt Ân dưới tình huống trọng yếu dựng dục ra vũ khí"* (ch5).
 4. Chính **Tsuna không biết Leon là ai**: *"Cho nên ta muốn hỏi rất lâu, Liệt Ân đến cùng là ai vậy?"* (ch5).
 5. Cậu mạnh hơn cậu tự nhận. ch8 *"cũng không có sử xuất toàn lực"*.
-6. 📌 [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]]: một đêm giữa hai tập, vào 中转站 (tả theo ch4: màn hình lơ lửng, mã chạy), mở *"可选任务"*, chọn đi. Không ai khác biết.
 
 ## Ai biết, biết đến đâu
 

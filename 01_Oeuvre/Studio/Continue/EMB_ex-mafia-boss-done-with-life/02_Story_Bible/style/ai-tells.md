@@ -55,12 +55,12 @@ gate:
     had10k_max: 210
   # chapter_gate khop CO phan biet hoa thuong: ten nguyen to viet hoa an toan, nhung phai liet ke rieng flame/flames viet thuong
   terms: [Flame, Flames, flame, flames, Fire, "Honō", Kotei, Kohaku, kohaku, Tenmei, Amatsumi, Ketsueki, Kogyoku, Tatsuran, Yasuragi, Seigyoku, Shigure, Seiran, Chiyu, "Ōgyoku", Taiyou, Terumi, Hogo, Ryokugyoku, Rokugyoku, Raiga, Mirai, Getsufuji, Shimizuakira, Akizuki, Kaguya, "Gen'ei", Ruri, Rui, Ruriko, Weaver, Amakakeru, Hoshikuzu, Eienzakuramura, Amenokagami, Shinkyo, kokoshi, hakukoshi, Sanctuary, sanctuary, crux, soulscape, "neutral core", Harmony, Arcobaleno, arcobaleno, Tri-Ni-Sette, pacifier, Sky, Rain, Cloud, Mist, Storm, Lightning, Sun]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Tật AI — đo từ **cả 6 chương** so với 43.152 từ nguyên tác
 
-> 🔁 **17/09/2026 — ngưỡng trong frontmatter đã đo lại từ nguồn thô** *(5 thân chương, 37.391 từ)*. Thân bài dưới đây là **phân tích lịch sử** của sáu chương bản v3 so với **mốc cũ**; giữ nguyên làm bằng chứng. Số tác giả hiện hành: [[targets]] · [[signature]].
+> 🔁 **17/09/2026 — ngưỡng trong frontmatter đã đo lại từ nguồn thô** *(5 thân chương, 37.391 từ)*. Thân bài dưới đây là **phân tích lịch sử** của sáu chương bản v3 *(note đã xóa 21/11/2026)* so với **mốc cũ**; giữ nguyên làm bằng chứng. Số tác giả hiện hành: [[targets]] · [[signature]].
 >
 > 🔴 Chạy cổng này lên **chính năm chương gốc** với ngưỡng cũ thì **cả năm thoát mã 2** — `...` bị cấm trong khi tác giả dùng nó ở cả năm chương. Đã sửa: bỏ `...` khỏi `forbid_chars`, hạ `!` từ sàn 6 xuống 5, trung vị câu từ 11–15 về 10–14.
 
@@ -138,7 +138,7 @@ Cấu trúc khác chỉ có ở AI, nguyên tác 0: `the way you/one <v>` · `th
 
 ## 🔴 Tật nặng nhất chưa từng bị bắt — **"on the record"**
 
-Aurel bắt được, đợt 8s: *"mình không thích cụm 'và tôi muốn điều đó được ghi lại'… cảm giác nó xuất hiện khá nhiều, kể cả trong các lần thử trước đây, và nó hơi kì lạ."*
+Aurel bắt được: *"mình không thích cụm 'và tôi muốn điều đó được ghi lại'… cảm giác nó xuất hiện khá nhiều, kể cả trong các lần thử trước đây, và nó hơi kì lạ."*
 
 Đếm ra thì **6 lần / 7 chương**, và **nguyên tác 0**:
 

@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.sola-ui, character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 28 PPCT", "ban nhap tieng Trung ch28", "教会 ban nhap", "反派战争28 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan|plan ch28]]", "[[arc-3-hai-cay-thuong]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan|plan ch28]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.400"
 aliases: ["plan ch46 ban DeepSeek", "dàn ý chương 46 bản song song", "不去 ch46 PPCT", "khong di ch46", "cao trao arc 7"]
-related: ["[[de-xuat-arc-7-v2-huong-1]]", "[[huong-arc-7-nguoi-xem-den-cuoi]]", "[[deepseek-20261115]]", "[[ch45-ds-plan]]", "[[ch16-ds-nhap]]", "[[ch28-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch37-ds-nhap]]", "[[dazai-khong-dung-lenh-chu-dem-cuoi]]", "[[tsuna-chan-dam-chay-bang-zero-point]]", "[[hook-bao-cu-that-cua-tsuna]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-nhan-mare-trong-tay-tsuna]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[loi-moi-hien-the-ai-nhan]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]"]
+related: [ "[[ch45-ds-plan]]", "[[ch16-ds-nhap]]", "[[ch28-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch37-ds-nhap]]", "[[hook-bao-cu-that-cua-tsuna]]", "[[hook-vi-sao-tsuna-khong-phai-nguoi]]", "[[hook-can-dazai-de-thang-archer]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-nhan-mare-trong-tay-tsuna]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — chương 4 arc 7 (cao trào) cho nhánh deepseek-20261115. Khung: de-xuat-arc-7-v2-huong-1 dòng ch46; Q11 đã chốt 17/11; Q13, Q14 là 🟡 đưa thành C1–C2; chỉnh theo bản DS (ch16, ch28, ch33, ch37). Aurel 17/11/2026: 'Duyệt đề xuất' (C1–C6)."
@@ -25,8 +25,8 @@ last_updated: 2026-11-17
 
 # Kế hoạch chương 46 bản DeepSeek — 不去 · Không đi · ✅ AUREL DUYỆT 17/11/2026
 
-> Chương 4 arc 7, **cao trào của tổ Caster**, nối [[ch45-ds-plan]]. Cao trào là một **lựa chọn**, không phải một trận: Archer gọi, Tsuna không đi, Dazai không ra lệnh ([[dazai-khong-dung-lenh-chu-dem-cuoi]]).
-> **Nối với ch47 đã chốt** ([[tsuna-chan-dam-chay-bang-zero-point]]): 「我不过去」 là lời từ chối **Archer**, không phải lời thề không làm gì cả đêm. Chương này không được để Dazai hay Tsuna nói câu kiểu "đêm nay ta không ra tay gì nữa".
+> Chương 4 arc 7, **cao trào của tổ Caster**, nối [[ch45-ds-plan]]. Cao trào là một **lựa chọn**, không phải một trận: Archer gọi, Tsuna không đi, Dazai không ra lệnh (dazai-khong-dung-lenh-chu-dem-cuoi).
+> **Nối với ch47 đã chốt** (tsuna-chan-dam-chay-bang-zero-point): 「我不过去」 là lời từ chối **Archer**, không phải lời thề không làm gì cả đêm. Chương này không được để Dazai hay Tsuna nói câu kiểu "đêm nay ta không ra tay gì nữa".
 
 ## Mục tiêu chương
 
@@ -59,7 +59,7 @@ Người xem bị nhìn lại. Lời gọi của Archer bắt Tsuna phải nói 
 ## Bí mật / chi tiết — cho phép và CẤM
 
 - 🔴 [[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]] — mức C: **không** 白兰; không kế vị / 管理者 / 继承; không 7³ / 三次方; không núm vú; nhẫn không làm gì mới. Chạy `pov_leak_check`.
-- 🔴 [[loi-moi-hien-the-ai-nhan]] — tránh 「留在这个世界」「决定留下来」「答应留下」「重新现界」; không lý do vì sao Tsuna sẽ còn tồn tại sau chiến tranh.
+- 🔴 loi-moi-hien-the-ai-nhan — tránh 「留在这个世界」「决定留下来」「答应留下」「重新现界」; không lý do vì sao Tsuna sẽ còn tồn tại sau chiến tranh.
 - 🔴 Không 人间失格, không dị năng ([[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]]); Dazai không dùng lệnh chú, kể cả làm ma lực.
 - 🔴 Chân danh Berserker: không. Kariya: **không dòng nào** *(C2)*.
 - 🔴 L3 không tên; không 容器.

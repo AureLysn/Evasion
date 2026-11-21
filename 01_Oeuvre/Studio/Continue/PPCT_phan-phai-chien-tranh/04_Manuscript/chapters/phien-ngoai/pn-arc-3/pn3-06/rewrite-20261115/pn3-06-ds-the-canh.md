@@ -10,7 +10,7 @@ chapter: "pn3-06"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-06 ban DeepSeek", "thẻ cảnh hai Tsuna", "pn3-06 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-05-ds-nhap]]", "[[pn3-05-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-05-ds-nhap]]", "[[pn3-05-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Zero-Point-Breakthrough]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-06 (Aurel duyệt; C9 để DeepSeek/GPT), dàn ý cũ III.4 (viết lại trình tự phong ấn, đã duyệt); note Database Zero-Point-Breakthrough (First Edition: băng phong ấn Flame, chỉ tan bằng Dying Will Flame); dữ kiện pn3-05-ds-kiem (tối 14/10, sinh nhật bé Tsuna)."

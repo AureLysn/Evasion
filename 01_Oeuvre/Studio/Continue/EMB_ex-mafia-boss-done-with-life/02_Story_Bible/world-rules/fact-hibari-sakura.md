@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Hibari Sakura", "me cua Kimiko", "vi sao Namimori nhieu anh dao", "revenge", "Eienzakuramura", "nguoi khong ai khoc", "chin duoi", "dem den tam chin duoi", "goc re cua chu de"]
-related: ["[[kimiko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[musashi]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[fact-dem-den-tam]]", "[[y-chinh-cac-arc]]", "[[nguoi-lon-co-trach-nhiem]]"]
+related: ["[[kimiko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[musashi]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[fact-dem-den-tam]]", "[[nguoi-lon-co-trach-nhiem]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch2 — loi Kawahira ke, ~20 phut truoc 3 gio sang"
@@ -17,7 +17,7 @@ always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, load-bearing, thesis-origin]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Hibari Sakura — **gốc rễ của cả chủ đề, và vault đã bỏ sót nó**
@@ -26,7 +26,7 @@ last_updated: 2026-09-16
 > ⚠️ **Khai tầng trước khi đọc tiếp:** toàn bộ chuyện Hibari Sakura, cuộc trả thù và lời hứa đến từ **miệng [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]** trong một cảnh đối thoại — tầng *lời nhân vật*, luật 6 ở [[phan-biet-hai-the-gioi]]. Chỉ **hai mươi năm tang mẹ** và tên **Eienzakuramura** có chú thích tác giả đỡ lưng *(chú thích 53–54)*.
 > Các dòng 🔴 bên dưới là **cách đọc của vault**, không phải câu chữ — kể cả *"bốn trăm năm"*, *"Tsuna là số tám"* và *"Kimiko sắp xếp việc giải phóng Kawahira"*. Việc nối *yêu cầu thứ hai* với câu *đếm tới tám* đã được **Aurel chốt** 16/09, [[emb-chot-sau-p2-ch2]] — chốt như một **cách đọc**, không phải như văn bản.
 
-> 🔴 Nằm ở **40% cuối P2 Ch2** — phần duy nhất chưa đạt gate độ phủ. Đọc nốt ở đợt 8m thì đây là thứ đầu tiên rơi ra.
+> 🔴 Nằm ở **40% cuối P2 Ch2** — phần duy nhất chưa đạt gate độ phủ. Đọc nốt phần đó thì đây là thứ đầu tiên rơi ra.
 
 ## Chuyện
 
@@ -108,7 +108,7 @@ Chín đuôi là **kitsune đạt viên mãn**. Với ông, nó nghĩa là **xon
 
 ## Hệ quả
 
-1. 🔴 **Arc 5 không phải Tsuna trả ơn Kawahira.** Là **Tsuna hoàn thành lời hứa của Kimiko** — cậu là công cụ của một kế hoạch bốn trăm năm. ⚠️ *Và cậu là người tin mình không quan trọng.*
+1. 🔴 **Giai đoạn Teen không phải Tsuna trả ơn Kawahira.** Là **Tsuna hoàn thành lời hứa của Kimiko** — cậu là công cụ của một kế hoạch bốn trăm năm. ⚠️ *Và cậu là người tin mình không quan trọng.*
 2. **Chủ đề không cần bịa** — nó nằm ở gốc thị trấn. Mỗi cây anh đào ở Namimori là một lời nhắc rằng **có người từng bị coi là chỉ có công dụng**
 3. [[fact-dem-den-tam]] phải được đọc lại: *"đếm đến tám"* **không phải một câu đố về Tsuna**. Nó là **một lời hứa với Kawahira**
 4. **Nếu có ai đó nói với Tsuna rằng cậu không chỉ là công dụng của mình**, thì lý lẽ mạnh nhất đã có sẵn trong lịch sử thị trấn — và [[musashi]] là người biết nó rõ nhất

@@ -10,7 +10,7 @@ chapter: "pn2-03"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-03 ban DeepSeek", "thẻ cảnh phiên ngoại Bảy người xa lạ thượng", "pn2-03 ds PPCT", "Skull Luce Fon pn2-03"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-02-ds-nhap]]", "[[pn2-02-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Luce]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull]]", "[[Fon]]", "[[Arcobaleno-Pacifier]]", "[[Kawahira]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-02-ds-nhap]]", "[[pn2-02-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Luce]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull]]", "[[Fon]]", "[[Arcobaleno-Pacifier]]", "[[Kawahira]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-03 (Aurel duyệt 18/11/2026; C4 mỗi người một khối, ngăn bằng tên in đậm) và note Database Luce (tạo 18/11/2026), Skull, Fon."

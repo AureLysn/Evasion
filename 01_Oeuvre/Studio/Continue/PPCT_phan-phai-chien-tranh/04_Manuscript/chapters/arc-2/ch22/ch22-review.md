@@ -10,7 +10,7 @@ chapter: 22
 canon_layer: user_canon
 status: final
 aliases: ["review ch22 PPCT", "soat ch22", "check-continuity ch22", "check-style ch22"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[do-tham-saber-lancer-kho-cang]]", "[[assassin-tap-kich-vuong-yen]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[do-tham-saber-lancer-kho-cang]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 2, 20/09/2026, tren ban nhap ch22 (2.251 chu Han)"
@@ -67,7 +67,7 @@ Quyết định C2 ("biết một nửa") đứng được, nhưng chương ph�
 
 **Chương:** 「这座城里现在有**六个御主、六个从者**，随便哪一个认真起来都能把半条街掀掉。」
 
-**[[assassin-tap-kich-vuong-yen]]:** “Dazai (POV) … thì thầm với Tsuna hai điều **nghi**: **Master của Assassin còn lệnh chú**; màn Assassin 'chết' … có lẽ cùng phe Archer. 「也可能不是。现在还只是猜。」”
+**assassin-tap-kich-vuong-yen:** “Dazai (POV) … thì thầm với Tsuna hai điều **nghi**: **Master của Assassin còn lệnh chú**; màn Assassin 'chết' … có lẽ cùng phe Archer. 「也可能不是。现在还只是猜。」”
 
 Sáu **从者** thì đúng (Saber · Lancer · Rider · Archer · Berserker · Caster — Assassin bị loại ở ch17, [[assassin]]). Nhưng sáu **御主** là con số Dazai tự đặt dấu hỏi cách đây ba chương, và chương này để hắn nói ra như một sự thật đã đếm xong.
 
@@ -103,7 +103,7 @@ Truyện chỉ ghi tổ Caster theo dõi **Einzbern** (ch3) và bám trận kho 
 
 ## Ghi cho plan ch23 — không phải lỗi của ch22
 
-Chương này chốt 「连一具尸体都没找到」 và 「警察查不到他」. Vậy **tổ Caster tìm ra hắn bằng cách nào** ở ch23? Canon đã loại hang ổ cống ngầm ([[ryunosuke-gay-an-khong-servant]]), nên ch23 phải tự dựng đường truy. Đây là câu hỏi phải trả lời **trước** khi viết ch23.
+Chương này chốt 「连一具尸体都没找到」 và 「警察查不到他」. Vậy **tổ Caster tìm ra hắn bằng cách nào** ở ch23? Canon đã loại hang ổ cống ngầm (ryunosuke-gay-an-khong-servant), nên ch23 phải tự dựng đường truy. Đây là câu hỏi phải trả lời **trước** khi viết ch23.
 
 ---
 

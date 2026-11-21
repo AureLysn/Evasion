@@ -89,7 +89,7 @@ last_updated: 2026-09-13
 
 1. **May mắn B+** — ghi chú ch5 → [[fact-chi-so-tsuna]]
 2. **Dazai chưa thành niên**, thấp hơn Tsuna giơ ly — ch14 → [[fact-dazai-chua-thanh-nien]]
-3. **Tác giả: Dazai đạt nguyện vọng ngay khi triệu hồi** — ghi chú ch2. **Củng cố giả thuyết Gokudera của Aurel** → [[q-dazai-tim-gokudera-de-lam-gi]]
+3. **Tác giả: Dazai đạt nguyện vọng ngay khi triệu hồi** — ghi chú ch2. **Củng cố giả thuyết Gokudera của Aurel** → q-dazai-tim-gokudera-de-lam-gi
 4. **Hệ quả thay tổ Caster** (Lancer không bẻ thương đỏ, Saber không dùng được bảo cụ) và **đó là lý do Dazai giữ Lancer** → [[hook-he-qua-thay-to-caster]]
 5. **Hình dáng Anh linh trẻ hơn lúc chết** → [[fact-tsuna-hien-than-tre-hon-luc-chet]]
 6. **Tsuna gọi Byakuran là 「我的一个朋友」** → [[tsuna--byakuran]]
@@ -115,10 +115,10 @@ last_updated: 2026-09-13
 
 | Câu hỏi | Ảnh hưởng |
 |---|---|
-| [[q-loi-giai-bi-an-trung-tam]] | Lớp 1 (giả thuyết của Aurel) phải xét cùng **D2** — mô tả vật phẩm thật ra rộng hơn |
+| q-loi-giai-bi-an-trung-tam | Lớp 1 (giả thuyết của Aurel) phải xét cùng **D2** — mô tả vật phẩm thật ra rộng hơn |
 | [[q-tiem-ca-ri-va-oda]] | Nguyên tác **không có** Oda hay tiệm cà ri — hoàn toàn thuộc phần viết tiếp và canon BSD |
-| [[q-akutagawa-gap-tsuna-truoc-cf]] · [[q-khung-arc-v]] · [[q-bach-ki-lan]] | Nguyên tác **không có** Akutagawa, Arcobaleno, Shibusawa, arc xem phim. Toàn bộ là sáng tác của bản cũ |
-| [[q-loi-moi-hien-the]] · [[q-ket-cuc-lancer]] · [[q-tsuna-mo-quan-ca-phe]] | Nguyên tác dừng **trước** mọi mốc này; không có bằng chứng thêm |
+| [[q-akutagawa-gap-tsuna-truoc-cf]] · q-khung-arc-v · [[q-bach-ki-lan]] | Nguyên tác **không có** Akutagawa, Arcobaleno, Shibusawa, arc xem phim. Toàn bộ là sáng tác của bản cũ |
+| q-loi-moi-hien-the · q-ket-cuc-lancer · q-tsuna-mo-quan-ca-phe | Nguyên tác dừng **trước** mọi mốc này; không có bằng chứng thêm |
 
 ## Một mâu thuẫn giữa quy ước cũ và nguyên tác
 

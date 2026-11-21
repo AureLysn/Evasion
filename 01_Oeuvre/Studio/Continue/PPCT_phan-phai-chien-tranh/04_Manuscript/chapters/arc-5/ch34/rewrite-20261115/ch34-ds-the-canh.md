@@ -10,7 +10,7 @@ chapter: 34
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch34 ban DeepSeek", "thẻ cảnh ch34 bản song song", "ch34 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan|plan ch34]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch34/ch34-plan|plan ch34]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch30-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch34-plan + 3 thẻ scenes/ (Aurel duyệt C1–C7 24/09/2026). Không dùng văn bản ch34-chapter final."

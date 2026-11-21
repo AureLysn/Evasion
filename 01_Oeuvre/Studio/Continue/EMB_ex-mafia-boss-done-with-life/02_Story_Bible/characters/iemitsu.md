@@ -17,12 +17,12 @@ flame: kohaku (Sky)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Sawada Iemitsu
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 
 ## Địa vị — **Sky ngoại, không phải cư dân**
 

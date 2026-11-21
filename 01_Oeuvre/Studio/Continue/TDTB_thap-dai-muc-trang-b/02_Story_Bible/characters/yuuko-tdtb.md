@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["Yuuko", "优子", "优子小姐", "Yūko", "Yūko tiểu thư", "Yūko tiểu thư tỷ", "Yuko", "nữ alpha trên show", "khách quý số bốn"]
-related: ["[[thien-dao-tdtb]]", "[[sau-khach-moi-mua-4-tdtb]]", "[[yuuko-tdtb-phan-cu]]"]
+related: ["[[thien-dao-tdtb]]", "[[sau-khach-moi-mua-4-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch9, ch10, ch14"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Yuuko
@@ -30,8 +30,6 @@ Khách mời nữ alpha của show, mùa 4. Họ không nêu. Chữ Hán: **优�
 - ch9: xoay ghế thứ tư. *"mặc dù tên là Yuuko khả ái như vậy tên, nhưng nhìn đi lên lại vô cùng cởi mở, một đầu dán da đầu tóc ngắn, tai phải ghim một cái dân tộc gió vòng tai"*.
 - ch10: khán giả: *"Yūko tiểu thư tỷ hảo táp a"*.
 - ch14: cặp nướng thịt ăn ý với Thiên Đảo.
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)*: dẫn đầu chia việc bếp, *"我来掌勺"* (giữ); giao Yamamoto (*"山本君"*) khuân đồ; sau khi Tsuna đổ rau thì đổi
-  cậu sang vo gạo. Làm rơi đũa khi Tsuna cười.
 - Mặt nạ: **không nêu**.
 
 ## Nhân vật này BIẾT gì

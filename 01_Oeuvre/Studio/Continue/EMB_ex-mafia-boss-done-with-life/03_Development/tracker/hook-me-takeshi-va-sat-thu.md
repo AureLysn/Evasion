@@ -15,7 +15,7 @@ payoff:
   arc:
   chapter:
 aliases: ["me Takeshi", "sat thu giet me Takeshi", "Hibari canh sat thu", "hen gio dang chay", "Yamamoto", "Takeshi mom still alive"]
-related: ["[[tsuyoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nha-hibari]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[fact-567-ke-hoach]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[khung-sau-arc]]", "[[hook-me-takeshi-va-sat-thu-phan-cu]]"]
+related: ["[[tsuyoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nha-hibari]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[fact-567-ke-hoach]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 — doan Tsuna kiem ke ke hoach sau vu Estraneo. Dung 16/09/2026 trong analyze-drop-point"

@@ -9,7 +9,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-28
 aliases: ["huong B TDTB", "show dan xen nhiem vu", "khung arc da chon TDTB", "show va the gioi nhiem vu xen ke"]
-related: ["[[20260928-tra-loi-plan-continuation]]", "[[khung-arc-tong-de-xuat-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[h-uc-che-te-het-han-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[h-uc-che-te-het-han-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 — sources/user-input/20260928-tra-loi-plan-continuation.md: 'B'"
@@ -18,12 +18,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Quyết định — hướng **B**: show và thế giới nhiệm vụ đan xen
 
-Aurel chọn **B** trong [[khung-arc-tong-de-xuat-tdtb]], ngày 28/09/2026.
+Aurel chọn **B** trong ba hướng khung arc tổng *(đề xuất đã xóa khi reset 21/11/2026)*, ngày 28/09/2026.
 
 ## Chốt
 

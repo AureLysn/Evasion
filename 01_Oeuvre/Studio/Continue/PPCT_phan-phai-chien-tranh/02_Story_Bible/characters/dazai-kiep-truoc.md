@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-24
+last_updated: 2026-11-21
 ---
 
 # Dazai kiếp trước — tiền truyện
@@ -37,7 +37,6 @@ Cậu con trai một gia đình quyền quý ở một thế giới **không có
 - Nhiều lần 「入水」; hứa với Tsuna sẽ không tự sát, hôm sau thất hứa — [[hua-khong-tu-sat-va-that-hua]].
 - Năm 18 tuổi tốt nghiệp, tặng Tsuna **cúc áo thứ hai** — [[tsuna-ke-thua-vongola-nhan-cuc-ao]].
 - Được thiết lập là **tác giả của 《人间失格》《潘多拉盒子》** — [[fact-sach-cua-kiep-truoc]].
-- **ch32 (viết tiếp):** lên trang qua **mắt Tsuna** trong giấc mơ của Dazai thế giới B — tả theo *Ngoại hình* ở dưới: **tóc đen xoăn, hơi rối**; Dazai thế giới B nhận ra bằng **ký ức**, **không** phải cùng khuôn mặt (review ch32 #1 — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]). Nói dở 「你不用……」 — [[dazai-mo-buoi-truoc-cuoc-dam-phan]].
 
 ## Trạng thái cuối cùng trong nguồn
 

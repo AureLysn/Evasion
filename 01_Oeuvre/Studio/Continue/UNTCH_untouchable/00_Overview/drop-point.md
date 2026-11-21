@@ -897,7 +897,7 @@ mà là một cái công tắc bật cô dậy.**
 > Aurel sửa lại; mở nguyên văn ra thì Aurel đúng trên **ba điểm độc lập** — tuổi Xanxus ở ch74
 > đoạn 15, việc Dabi so người phụ nữ kia với **chính mẹ mình** ở đoạn 21, và việc Tsuna **soi Rei
 > để loại trừ** ở ch94 đoạn 89. Bản ghi sai lưu ở
-> [[pq04-xanxus-la-em-cung-cha-cua-endeavor]] (`superseded`).
+> pq04-xanxus-la-em-cung-cha-cua-endeavor (`superseded`).
 >
 > 🔴 Hệ quả bắt buộc: **mẫu tóc Shouto ở ch119 giờ PHẢI nổ**, và **ch99 đọc lại thành nghĩa đen** —
 > Tsuna dùng chấn thương của Xanxus để cứu Todoroki, và họ **thật sự là anh em**.
@@ -1310,7 +1310,7 @@ nếu không sẽ lệch giọng ngay lập tức. Ghi chéo sang `van-phong-unt
 | [[pq02-globe-la-soulmate-xanxus]] | Globe **là** soulmate của Xanxus | `user_canon` + `fic_explicit` (ch68) |
 | [[pq03-cha-cua-byakuran-hawks]] | Cha Byakuran/Hawks = con thứ của boss Estraneo | `user_canon` + `derived 0.95` |
 | **[[pq04-xanxus-la-con-trai-cua-endeavor]]** | **ENDEAVOR LÀ CHA CỦA XANXUS ⇒ Xanxus là ANH/EM CÙNG CHA KHÁC MẸ của Touya/Fuyumi/Natsuo/Shouto** | `user_canon` *(31/08)* |
-| [[pq04-xanxus-la-em-cung-cha-cua-endeavor]] (superseded) | ❌ bản ghi sai của tôi, `superseded` — giữ làm hồ sơ lỗi | — |
+| pq04-xanxus-la-em-cung-cha-cua-endeavor (superseded) | ❌ bản ghi sai của tôi, `superseded` — giữ làm hồ sơ lỗi | — |
 | **[[pq05-cha-cua-theodor-la-kawahira]]** | **Cha của Theodor = Kawahira / Checkerface** | `user_canon` *(31/08)* |
 | [[qd-mau-do-van-phong]] | Bốn chương MNet tách khỏi mẫu đo văn phong | `project_locked` |
 
@@ -1319,7 +1319,7 @@ nếu không sẽ lệch giọng ngay lập tức. Ghi chéo sang `van-phong-unt
 | Note | Trạng thái | Kết quả |
 |---|---|---|
 | [[q-cha-cua-theodor]] | ✅ `resolved` 31/08 | Kawahira ⇒ [[pq05-cha-cua-theodor-la-kawahira]] |
-| [[q-xanxus-va-endeavor]] | ✅ `resolved` 31/08 | Đúng ⇒ [[pq04-xanxus-la-em-cung-cha-cua-endeavor]] |
+| [[q-xanxus-va-endeavor]] | ✅ `resolved` 31/08 | Đúng ⇒ pq04-xanxus-la-em-cung-cha-cua-endeavor |
 | [[q-izuku-va-cai-chet-bakugo]] | ⏸️ `unresolved` — **cố ý để treo** | Giữ `derived 0.5`. **Tránh chạm tới khi viết**: không khẳng định, không phủ định, để ngỏ |
 
 ⚠️ Hai note đã `resolved` **được giữ nguyên, không xoá** (invariant #3) — chúng ghi *cách* kết

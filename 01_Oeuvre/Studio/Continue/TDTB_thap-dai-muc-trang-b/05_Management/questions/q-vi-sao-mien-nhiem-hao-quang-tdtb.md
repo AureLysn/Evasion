@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-co-che-hao-quang-tdtb]]"
 resolved_at: 2026-09-27
 needed_before:
-  arc: "outline arc 1"
+  arc:
   chapter: "truoc canh dau tien Tuyet dung dao cu len mot nguoi mang ky uc khac (Gokudera...)"
 decision_owner: "user"
 aliases: ["vi sao Yamamoto mien nhiem", "mien nhiem hao quang TDTB", "ai tinh truoc Tuyet", "thuoc mi luc vo hieu", "truc C phan Mary Sue TDTB"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-27
+last_updated: 2026-11-21
 ---
 
 # Vì sao Yamamoto không trúng bùa của Tuyết — và ai khác cũng vậy?

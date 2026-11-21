@@ -20,14 +20,14 @@ target_paragraph_mean: 45
 target_sentence_median: 19
 status: planned
 aliases: ["canh 39-01 trung", "虫 ch39", "Kariya mot minh ch39", "nha Mato trua ngay 15"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[berserker]]", "[[nha-mato]]", "[[Kariya-Matou]]", "[[Lancelot-Berserker]]", "[[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]", "[[bo-canh-kariya-va-aoi]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[berserker]]", "[[nha-mato]]", "[[Kariya-Matou]]", "[[Lancelot-Berserker]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-29
 ---
 
 # Cảnh 01 — 虫 · POV Kariya · ~550 chữ Hán
 
-> `forbidden_secrets`: Kariya **không biết** Tokiomi đã chết, Archer đổi chủ, hay Kirei còn là Master. Hắn nghĩ về Tokiomi **như nghĩ về người còn sống** ([[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]).
+> `forbidden_secrets`: Kariya **không biết** Tokiomi đã chết, Archer đổi chủ, hay Kirei còn là Master. Hắn nghĩ về Tokiomi **như nghĩ về người còn sống** (kariya-khong-biet-tokiomi-chet-kirei-hua-chen).
 > 🔴 **Đừng bi kịch hoá:** thân thể **ở mức canon, không thêm**. Không tả trùng chui ra da, không máu, không co giật. Một hai chi tiết là đủ.
 
 ## Ngân sách

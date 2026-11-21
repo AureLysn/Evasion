@@ -10,7 +10,7 @@ decided: 2026-09-19
 decided_by: user
 decided_at: 2026-09-19
 aliases: ["May nhan len Sky", "Cloud nhan loi", "vi sao Cloud khong phat trien", "phong an va ngon lua may", "di bang May la khong boc lo", "Tsuna dung ca Sky lan Cloud"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tuyen-xanxus]]", "[[fact-loi-flame]]", "[[emb-chot-loi-dang-quay-ve]]", "[[hook-su-co-nha-khoa-hoc-vongola]]", "[[brat-ch4-the-canh-ban-20261001]]", "[[emb-chot-tuyen-varia]]", "[[timoteo-phong-an-tsuna]]", "[[rule-danh-xung-flame]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tuyen-xanxus]]", "[[fact-loi-flame]]", "[[emb-chot-loi-dang-quay-ve]]", "[[hook-su-co-nha-khoa-hoc-vongola]]", "[[timoteo-phong-an-tsuna]]", "[[rule-danh-xung-flame]]"]
 source:
   type: user_input
   ref: "Aurel, 19/09/2026, tra loi cong 4 cua brat-ch4-the-canh."
@@ -31,7 +31,7 @@ last_updated: 2026-09-19
 
 ## 🔴 Đi bằng Mây **không phải nén Bầu trời xuống**
 
-Aurel bác thẳng cơ chế AI đề xuất ở [[brat-ch4-the-canh-ban-20261001]] cổng 4.
+Aurel bác thẳng cơ chế AI đề xuất ở *văn xuôi đã xóa* cổng 4.
 
 | ⛔ Sai | ✅ Đúng |
 |---|---|

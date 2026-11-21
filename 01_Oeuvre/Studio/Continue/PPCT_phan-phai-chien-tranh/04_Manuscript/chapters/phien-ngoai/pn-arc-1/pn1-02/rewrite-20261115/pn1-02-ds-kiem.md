@@ -10,7 +10,7 @@ chapter: "pn1-02"
 canon_layer: planned
 status: active
 aliases: ["kiem pn1-02 ban DeepSeek", "kiểm phiên ngoại Irisviel", "pn1-02 ds kiem PPCT"]
-related: ["[[pn1-02-ds-nhap]]", "[[pn1-02-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[Kiritsugu-Emiya]]", "[[20261117-canon-phien-ngoai-arc-1]]"]
+related: ["[[pn1-02-ds-nhap]]", "[[pn1-02-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[Kiritsugu-Emiya]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/499b41a6-d9a8-46c1-957b-44fb41b8762f · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc7f3f-84f0-83ec-8489-fe9dbada6804"

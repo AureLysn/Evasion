@@ -10,7 +10,7 @@ chapter: 49
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch49 ban DeepSeek", "thẻ cảnh ch49 bản song song", "ch49 ds PPCT"]
-related: ["[[ch49-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch47-ds-nhap]]", "[[ch48-ds-nhap]]", "[[fact-zero-point-so-dai]]"]
+related: ["[[ch49-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch47-ds-nhap]]", "[[ch48-ds-nhap]]", "[[fact-zero-point-so-dai]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch49-ds-plan (Aurel duyệt C1–C7 17/11/2026)."

@@ -22,12 +22,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [secret]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Nana giấu Iemitsu việc Tsuna tỉnh lại
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Sự thật
 

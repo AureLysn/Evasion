@@ -22,7 +22,7 @@ source:
 authority: original_author
 confidence: 1.0
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Hai con cáo đá đứng dậy
@@ -74,7 +74,7 @@ Nguyên văn ở `personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Bo
 
 ## Xếp arc — ✅ chốt 17/09/2026
 
-**Arc 3 — Child**, cùng arc với **cặp song sinh / hai OC Lightning**. Aurel chốt trong lượt duyệt [[emb-duyet-khung-nam-arc]].
+**Giai đoạn Child**, cùng arc với **cặp song sinh / hai OC Lightning**. Aurel chốt khi duyệt khung năm arc *(khung đó đã xóa khi reset 20/11/2026; chốt xếp arc này vẫn giữ)*.
 
 Không phải xếp chỗ cho gọn. `questions/_MOC.md` đã ghi sẵn cặp song chiếu: cặp song sinh có **một** tên nghi lễ cho **hai** người, cấp nó cho một đứa là tuyên bố đứa nào thật — *"một cái tên không thể chứa hai sự thật"*. Tsuna từ chối chọn, và **chưa nhận ra mình đang mắc đúng chỗ đó với con cáo**. Hai con cáo và cặp song sinh là **cùng một câu hỏi hỏi hai lần**; tách sang hai arc thì song chiếu mất.
 
@@ -83,4 +83,3 @@ Không phải xếp chỗ cho gọn. `questions/_MOC.md` đã ghi sẵn cặp so
 | Chương | Tiến triển |
 |---|---|
 | P2 Ch2 *(gốc)* | gieo; giải một nửa qua reply của tác giả. Fic dừng ngay sau |
-| nhánh `aurel-main` Ch3–8 | ⚠️ **chưa kiểm** đã dùng hook này theo hướng nào — nếu đã viết theo tiền đề cũ thì phải `check-conflicts` |

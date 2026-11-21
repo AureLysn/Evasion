@@ -10,7 +10,7 @@ chapter: "pn2-09"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-09 ban DeepSeek", "thẻ cảnh khách trà song song", "pn2-09 ds PPCT"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-08-ds-nhap]]", "[[pn2-08-ds-kiem]]", "[[pn2-06-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[khung-phien-ngoai-deepseek]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Gin-Akutagawa]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-08-ds-nhap]]", "[[pn2-08-ds-kiem]]", "[[pn2-06-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Gin-Akutagawa]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-09 (Aurel duyệt 18/11/2026; C12 khách: Akutagawa, Gin, Oda và lũ trẻ, Chuuya, Kawahira, Bermuda), V2/V12 'lộ một phần' (khung-phien-ngoai-deepseek), dữ kiện pn2-08-ds-kiem; note Database Gin-Akutagawa (tạo 18/11/2026)."

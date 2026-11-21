@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-tranh-chi-tiet-mua-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "arc 1"
-  chapter: "ch16"
+  arc:
+  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["truong va hoc ky", "trường của Tsuna", "đại học hay cao đẳng", "khai giảng", "4 nguyệt 1 hào", "mốc thời gian show"]
 related: ["[[truong-tu-nhan-36-tdtb]]", "[[loc-da-tuyet-chuyen-truong-tdtb]]"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Trường của Tsuna là loại trường gì, và show quay vào lúc nào trong năm?
@@ -43,7 +43,6 @@ last_updated: 2026-09-28
 
 ## Cần chốt trước
 
-Arc: arc 1 · Chương: ch16
 
 ## Ai quyết
 

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.dazai, character.PPCT.oda]
 target_words: "mỗi chương ≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan phien ngoai Arc V DeepSeek", "dàn ý phiên ngoại Arc V", "xem va phan ung plan", "pn5 plan PPCT", "番外 Arc V", "Cuon Sach Arc V"]
-related: ["[[khung-phien-ngoai-deepseek]]", "[[pn-arc-4-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[phien-ngoai-du-nam-arc]]", "[[oda-duoc-cuu-trong-phien-ngoai]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[deepseek-20261115]]", "[[The-Book]]", "[[Dazai-Osamu]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Armed-Detective-Agency]]", "[[Mimic]]", "[[Andre-Gide]]"]
+related: [ "[[pn-arc-4-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[pn1-04-ds-nhap]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[The-Book]]", "[[Dazai-Osamu]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Armed-Detective-Agency]]", "[[Mimic]]", "[[Andre-Gide]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 18/11/2026 — phiên ngoại Arc V nhánh deepseek-20261115. Khung: khung-phien-ngoai-deepseek V21–V24 (Aurel chốt 18/11/2026: chỉ bản A; ba bí mật giữ ngầm; BSD canon thay BEAST; nối 《晴日》 ngắn); ý gốc: dàn ý cũ v3.1 PN-Arc V bản A (V-A.1–V-A.3, dòng 297–303); canon: note The-Book, Sakunosuke-Oda, Dazai-Osamu, Armed-Detective-Agency; nối từ pn3-11 (《晴日》) và pn1-04 (Oda được cứu)."

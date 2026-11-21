@@ -10,7 +10,7 @@ chapter: "pn3-04"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-04 ban DeepSeek", "thẻ cảnh công chúa bị bắt cóc", "pn3-04 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-03-ds-nhap]]", "[[pn3-03-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Uni]]", "[[Byakuran-Gesso]]", "[[Luce]]", "[[Yumeno-Kyusaku]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-03-ds-nhap]]", "[[pn3-03-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Uni]]", "[[Byakuran-Gesso]]", "[[Luce]]", "[[Yumeno-Kyusaku]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-04 (Aurel duyệt; C7, C8 để DeepSeek/GPT), V14 (giữ Yuni, không giải thích), V15 (7³ ngầm); note Database Uni (bổ sung 18/11/2026), Yumeno-Kyusaku (tạo 18/11/2026); dữ kiện pn3-03-ds-kiem."

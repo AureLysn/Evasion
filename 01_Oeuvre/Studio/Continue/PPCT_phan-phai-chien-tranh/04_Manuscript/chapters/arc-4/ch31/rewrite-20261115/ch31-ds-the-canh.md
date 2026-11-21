@@ -10,7 +10,7 @@ chapter: 31
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch31 ban DeepSeek", "thẻ cảnh ch31 bản song song", "ch31 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan|plan ch31]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Gilgamesh-Archer]]", "[[20260923-canon-lenh-chu-tokiomi]]", "[[ch17-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch31/ch31-plan|plan ch31]]", "[[hard-rules]]", "[[ai-tells]]", "[[Gilgamesh-Archer]]", "[[ch17-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch31-plan + 3 thẻ scenes/ (Aurel duyệt POV Gilgamesh 23/09/2026). Không dùng văn bản ch31-chapter final."

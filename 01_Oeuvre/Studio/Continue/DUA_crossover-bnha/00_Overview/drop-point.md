@@ -13,7 +13,7 @@ source:
   ref: "DUA.md và 4 file phương pháp từ Data-export/projects/ (Claude Project export)"
 authority: user
 confidence: 0.9
-last_updated: 2026-11-09
+last_updated: 2026-11-21
 ---
 
 # Drop Point — <Chưa đặt tên — crossover BNHA> (DUA)
@@ -44,7 +44,7 @@ last_updated: 2026-11-09
 
 ## 6. Next Writing Steps
 - Đo văn phong mục tiêu (`signature`).
-- Lập dàn ý chi tiết cho cụm 3 chương mở đầu (Chương 1: Xuất hiện và buổi kiểm tra sức khỏe tại phòng y tế Recovery Girl; Chương 2: Cuộc thẩm vấn thầm lặng của Aizawa; Chương 3: Phản ứng của lớp 1-A).
+- Lập dàn ý từ đầu (`plan-continuation`) cho cụm chương mở đầu.
 - Khởi tạo hồ sơ nhân vật và các quyết định canon trong `05_Management/decisions/`.
 
 ## 7. Continuity Warnings

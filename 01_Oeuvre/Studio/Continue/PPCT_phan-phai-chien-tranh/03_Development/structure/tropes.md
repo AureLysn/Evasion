@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: high_confidence_inference
 status: active
 aliases: ["trope PPCT", "tropes PPCT", "dinh vi trope PPCT", "định vị trope PPCT", "PPCT dung trope nao", "PPCT be trope nao", "ket cau PPCT", "PPCT tren ban do the loai", "西州 trien khai the nao", "tac gia 反派战争 tu choi trope nao", "PPCT va Servant crossover", "PPCT va time travel phien ngoai"]
-related: ["[[PPCT]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[crossover-khr-bsd]]", "[[servant-crossover-fate]]", "[[time-travel-fix-it]]", "[[time-travel-khr]]", "[[trope-fandom-khr]]", "[[trope-fandom-bsd]]", "[[de-xuat-arc-6-sau-ke-san-va-con-moi]]"]
+related: ["[[PPCT]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[crossover-khr-bsd]]", "[[servant-crossover-fate]]", "[[time-travel-fix-it]]", "[[time-travel-khr]]", "[[trope-fandom-khr]]", "[[trope-fandom-bsd]]"]
 source:
   type: inference
   ref: "analyze-tropes 28/09/2026, tang 1-4. Tang 1: doc lai nguyen van 反派战争 ch1-15 tu store personal-bulk (反派战争.zip, sha256_16 02F2B7BA115ECF17), giai nen vao scratchpad phien, doc het 15 chuong + ghi chu tac gia. Tang 2-3: 6 ban do — Database/Fandom/KHR/tropes/crossover-khr-bsd (0.4), KHR/tropes/time-travel-khr (0.45), KHR/tropes/trope-fandom-khr (0.5), BSD/tropes/trope-fandom-bsd (0.6), Fate/tropes/servant-crossover-fate (0.55), Library/genres/time-travel-fix-it (0.55). Tang 4: doi chieu voi decisions/, canon/, questions/, arcs/ arc 1-5 va de xuat arc 6."
@@ -16,7 +16,7 @@ confidence: 0.45
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [structure, tropes]
-last_updated: 2026-10-04
+last_updated: 2026-11-21
 ---
 
 # PPCT trên bản đồ trope — tầng 1 · 2 · 3 · 4
@@ -30,8 +30,6 @@ last_updated: 2026-10-04
 | 1 · tác giả nguồn | ✅ | `origin: continuation`. Đọc lại 15 chương nguyên văn 28/09/2026 |
 | 2 · fandom | ✅ | KHR · BSD · Fate — có đủ bản đồ. `universes:` khai 29/09 (xem mục 7) |
 | 3 · thể loại | ✅ một phần | [[time-travel-fix-it]] — Aurel chỉ định cho **phiên ngoại**, không phải truyện chính. Truyện chính không có bản đồ thể loại riêng ngoài ba bản đồ fandom |
-| 4 · định vị | ✅ | Có 23 chương viết tiếp (ch16–38), 5 arc, đề xuất arc 6 |
-
 ---
 
 ## 1. Tầng 1 — 西州 kể 《反派战争》 thế nào
@@ -190,21 +188,14 @@ Ch3, ch7, ch11, ch12, ch13 **không có** thay đổi nào với tổ Caster. T�
 
 ### 2c. Fate — [[servant-crossover-fate]]
 
-- **Trục "ai bị thay chỗ".** Caster gốc bị thay. Hệ quả: Ryūnosuke gây án **mà không có Servant**. Xem [[ryunosuke-gay-an-khong-servant]], arc 2.
-  - Bản đồ chỉ ghi việc **thay chỗ**. PPCT đi tiếp một bước: **hậu quả của việc thay chỗ** trở thành một arc.
+- **Trục "ai bị thay chỗ".** Caster gốc bị thay. Hệ quả: Ryūnosuke gây án **mà không có Servant** — [[fact-to-caster-thay-to-caster-goc]].
 - **Sáo mòn 4.1 và 4.2** — Servant crossover quá mạnh hoặc toàn năng (`sourced`, có lời chê cộng đồng). Tầng 1 đã **từ chối** chuyện này (mục 1f).
-  - Phần viết tiếp giữ được: [[fact-tsuna-khong-thang-noi-archer]] · [[fact-ma-luc-dazai-rat-thap]] · bổ ma ở ch37.
 - **Sáo mòn 4.4** — Zelretch làm deus ex machina (`sourced`). Nhẫn Mare đang ở **đúng vị trí đó**: một chìa khoá vạn năng sang các thế giới song song.
   - Hiện đã có giới hạn: [[saber-chi-quan-sat-the-gioi-song-song]] — chỉ nhìn, không đi qua.
-  - ⚠️ Đề xuất cũ của [[q-loi-moi-hien-the]] ("Tsuna dùng tư cách quản trị 7³ làm nguồn cho lời mời hiện thế") sẽ biến nhẫn Mare / Tri-ni-sette thành **cái cớ vạn năng**. Xem dòng 18.
 - **Nhịp 4 — người mới được chèn vào Vương Yến** (`sourced`, lặp lại ở ít nhất 4 fic khác fandom). Tầng 1 **đảo** nhịp này (mục 1f).
 - **"Kirei bị lộ"** (nhịp 5). Bản đồ **không tìm được** fic nào đúng dạng "có người vạch mặt Kirei trước khi hắn ra tay".
-  - PPCT đang đi một nhánh **chậm hơn** mọi dạng bản đồ có ghi: nghi dần qua L1 → L3, **không nêu tên**, **không đối mặt**, giữ luật 「不碰教会」 (arc 4–5, ch38).
-- **Fix-it Fate/Zero** — 112 fic AO3 (`measured`). PPCT đang **cộng dồn những lần sửa nhỏ**:
-  - Lancer chết trong quyết đấu tự nguyện, không phải vì lệnh chú phản bội ([[ket-cuc-lancer-quyet-dau-tu-nguyen]]).
-  - Kayneth và Sola-Ui rời đi an toàn ([[sola-ui-doi-lenh-chu-lay-duong-ve]]).
-  - Maiya **bị thương nặng nhưng sống** (đã đồng ý cho arc 6).
-- **Thụ nhục thân** (trục cuối của bản đồ). Gốc canon là Iskandar; fanon lấy lại cho Servant crossover. PPCT để ở [[q-loi-moi-hien-the]] ❌.
+- **Fix-it Fate/Zero** — 112 fic AO3 (`measured`). PPCT sẽ đặt mình ở đâu trên trục này là việc của khung mới.
+- **Thụ nhục thân** (trục cuối của bản đồ). Gốc canon là Iskandar; fanon lấy lại cho Servant crossover. PPCT **chưa đặt**.
 
 ### 2d. Chỗ các fandom va nhau — việc của `crossover-contract`
 
@@ -255,40 +246,22 @@ PPCT **chưa có note `crossover-contract`** gom các luật này lại. Xem m�
 
 | # | Trope | Tầng | Xử lý | Ở đâu | Vì sao | Trạng thái |
 |---|---|---|---|---|---|---|
-| 1 | Nhân vật crossover / Servant quá mạnh | Fate §4.1 · KHR (BAMF Tsuna) · nguồn | **đảo** — Tsuna không thắng được Archer, ma lực là giới hạn | ghi chú ch8 · [[fact-tsuna-khong-thang-noi-archer]] · ch37 bổ ma | Tác giả **từ chối có nói lý do** | 🔒 neo `fic_explicit` + fact |
 | 2 | Nguyện vọng làm động cơ | nguồn · Fate trục "muốn gì" | **lật** — đạt ngay lúc triệu hồi; nguyện vọng của Tsuna để ngỏ | ghi chú ch2 · [[nguyen-vong-to-caster-de-ngo]] | Tác giả nói thẳng | 🔒 decision |
 | 3 | Caster không biết phép | nguồn · Fate trục "gán class" | **đảo** — cụ thể hoá Vongola bằng ma lực, vẫn là máy móc | ch3, ch5 · [[fact-ky-nang-caster-cu-tuong-hoa-vongola]] · luật năng lượng 25/09 | — | 🔒 fact |
 | 4 | Tsuna chết giả rồi quay lại | KHR canon · time-travel "kích hoạt = cái chết" | **đảo** — chết thật; không quay về quá khứ mà **bị triệu hồi sang thế giới khác** | ghi chú ch10 · [[fact-tsuna-kiep-truoc-chet-that]] | — | 🔒 fact |
-| 5 | Vương Yến chấm người mới | Fate nhịp 4 | **đảo** — người mới chấm lại Saber | ch15 · arc 1 · [[saber-chi-quan-sat-the-gioi-song-song]] | — | 🔒 decision |
+| 5 | Vương Yến chấm người mới | Fate nhịp 4 | **đảo** — người mới chấm lại Saber | ch15 · [[saber-chi-quan-sat-the-gioi-song-song]] | — | 🔒 decision |
 | 6 | All27 / Tsuna được mọi người yêu | KHR §2e | **tránh** — sự chú ý của Archer là chiếm hữu đồ vật, bị bác | ch9, ch13 · 「CP已定」 | Tác giả khoá CP | 🔒 `author_confirmed` |
 | 7 | Dazai/Tsuna lãng mạn (so với "Dazai là anh trai") | crossover-khr-bsd trục B, 3/56 so với 4/56 | **thẳng**, ở ô thiểu số | 【太纲无差】 | — | 🔒 `author_confirmed` |
-| 8 | Dị năng gặp hệ năng lượng khác | crossover-khr-bsd trục D (bản đồ **trống**) | **đặt luật riêng** | [[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]] · Dazai không dùng năng lực trên trang (arc 5) | — | 🔒 decision |
-| 9 | Hậu quả của việc thay Servant canon | Fate trục "ai bị thay" | **lấn tiếp một bước** — Ryūnosuke gây án không có Servant thành một arc | arc 2 · [[ryunosuke-gay-an-khong-servant]] | — | 🔒 decision |
-| 10 | Kirei bị lộ | Fate nhịp 5 (bản đồ không thấy đúng dạng) | **bẻ chậm** — nghi dần, không nêu tên, không đối mặt, 「不碰教会」 | arc 4–5 · ch38 · đề xuất arc 6 hướng B | Giữ nhịp **hé lộ** của tầng 1 (mục 1e) | `proposed` — **Aurel quyết** khi tới hướng B/C |
-| 11 | Fix-it Fate/Zero (cứu người) | Fate · 112 fic `measured` | **bẻ** trên trang — cứu cách chết, không cứu mạng (Lancer); tầng ẩn: Lancer, Rider nhận lời mời hiện thế ([[loi-moi-hien-the-dap-an-cu-ket-mo]]); cứu nhỏ (Maiya sống, tổ Lancer rời đi) | [[ket-cuc-lancer-quyet-dau-tu-nguyen]] · arc 4 · arc 6 | — | 🔒 [[maiya-trong-thuong-song]] (29/09) · Lancer: decision |
+| 8 | Dị năng gặp hệ năng lượng khác | crossover-khr-bsd trục D (bản đồ **trống**) | **đặt luật riêng** | [[nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat]] | — | 🔒 decision |
 | 12 | Oda sống / cứu Oda | BSD · 873 fic `measured` | **chưa đặt** — mốc truyện trước cái chết của Oda | [[moc-bsd-truoc-cai-chet-cua-oda]] · [[q-tiem-ca-ri-va-oda]] | Kết truyện ở Yokohama kéo trục này vào | `open` — gắn với dòng 20 |
-| 13 | Stations of the Canon | time-travel-fix-it §4.1 | **đang dùng, cố ý** — đó là giọng tác giả | ch4–9, ch12–15 · arc 1–5 · arc 6 A | Mỗi trạm cần một chỗ lệch có ý nghĩa | 🔒 [[moi-tram-canon-lech-co-he-qua]] — ≥ 1 lệch có hệ quả (Aurel 29/09) |
-| 14 | Người mới giành đất diễn | KHR §4.1 | **tránh** | arc 3 (Lancer), arc 4 (Sola-Ui) | — | `proposed` giữ tới đêm cuối |
 | 15 | Ōba Yōzō trong Dazai | BSD 5b | **bẻ** — dựng nhân vật, không xuyên | 预警 · [[fact-dazai-mot-nua-la-yozo]] · [[go-quy-uoc-cam-trich-dazai-osamu]] | — | 🔒 |
-| 16 | Người quan sát nấp trong cảnh canon | nguồn | **thẳng** — chuồn chuồn và camera | ch4–9 · arc 5 (chuồn chuồn ở chân dốc, camera của Kiritsugu ch38) | Giọng tác giả | 🔒 `fic_explicit` |
 | 17 | Nhẫn Mare làm chìa khoá thế giới song song | Fate §4.4 (Zelretch) | **giới hạn** — chỉ nhìn | [[saber-chi-quan-sat-the-gioi-song-song]] | — | 🔒 decision |
-| 18 | Tri-ni-sette / 7³ làm nguồn cho lời mời hiện thế | Fate §4.4 · trục thụ nhục thân | **giữ ngoài trang** — đề xuất cũ là sự thật ẩn; kết mở + không lộ cơ chế để 7³ không thành cái cớ vạn năng | [[q-loi-moi-hien-the]] · [[q-loi-giai-bi-an-trung-tam]] | Bản đồ có lời chê cộng đồng đúng dạng này — plan cảnh mời phải kiểm lại | 🔒 [[loi-moi-hien-the-dap-an-cu-ket-mo]] |
-| 19 | Thụ nhục thân | Fate trục cuối · canon Iskandar | **tầng ẩn** — Rider, Lancer, Saber nhận lời mời (kể cả người đã chết); trang kết mở | [[q-loi-moi-hien-the]] | — | 🔒 [[loi-moi-hien-the-dap-an-cu-ket-mo]] |
-| 20 | Tsuna ở đâu sau chiến tranh | crossover-khr-bsd trục C (bản đồ có ô "ngoài cả hai tổ chức" và ô "cả hai, không chọn phe") | **ô "ngoài cả hai tổ chức"** — quán cà phê nhỏ ở Yokohama, vùng trung lập, từ chối Mori | [[q-tsuna-mo-quan-ca-phe]] | — | 🔒 [[tsuna-mo-quan-ca-phe-o-yokohama]] (30/09) |
-| 21 | Kết cục của Rider / Waver | Fate nhịp 6 · canon | **thẳng** trên trang — Rider chết dưới tay Archer, Waver sống; tầng ẩn: Rider nhận lời mời hiện thế ([[loi-moi-hien-the-dap-an-cu-ket-mo]]) | [[q-ket-cuc-rider-waver]] · arc 7 | — | 🔒 [[ket-cuc-rider-waver-nhu-canon]] (30/09) |
 | 22 | Trục phiên ngoại time travel | time-travel-fix-it | **chưa đặt cả 8 trục** | mục 3 | — | `open` |
-| 23 | Nhịp giữ tuyến | nguồn §1d | ⚠️ **lệch nhịp tác giả**: tuyến ba đạo lệnh chú gieo ở ch30 (sáng ngày 10, 「还在她手上」), trả một nửa ở ch36, trả trọn ở ch38 — **khoảng 8 chương**. Tác giả trả tuyến cỡ này trong **0–1 chương** (trung vị 1) và chỉ giữ lâu bí ẩn lớn | ch30 · ch34 · ch36 · ch38 | Quan sát, không phải chấm điểm. Có thể là cố ý (arc 5 là arc săn tin) | 🔒 [[tuyen-co-trung-tra-trong-0-1-chuong]] — từ arc 6 (Aurel 29/09) |
-
 ---
 
 ## 6. Trục chưa đặt — ứng viên thành `question`
 
-| Trục | Cần trước | Có note chưa |
-|---|---|---|
-| Kết cục Rider / Waver | dàn ý hướng C (đêm cuối) | ✅ [[q-ket-cuc-rider-waver]] (29/09), ✅ chốt 30/09 → [[ket-cuc-rider-waver-nhu-canon]] |
-| 8 trục time travel của phiên ngoại (mục 3) | dàn ý phiên ngoại đầu tiên | ❌ **chưa** |
-| Mức lệch tối thiểu cho mỗi "trạm" canon (dòng 13) | dàn ý arc 6 | ✅ chốt → [[moi-tram-canon-lech-co-he-qua]] |
-| Lời mời hiện thế · lời giải bí ẩn trung tâm · Tsuna sau chiến tranh | dàn ý hướng C | ✅ có sẵn, ❌ chưa chốt |
+Sau reset 21/11/2026, các trục từng được chốt qua dàn ý cũ đều mở lại: kết cục từng Servant, lời mời hiện thế, lời giải bí ẩn trung tâm, Tsuna sau chiến tranh, mức lệch ở mỗi trạm canon *(luật chung vẫn giữ: [[moi-tram-canon-lech-co-he-qua]])*, 8 trục time travel của phiên ngoại (mục 3). Khung mới quyết.
 
 ---
 

@@ -27,7 +27,7 @@ last_updated: 2026-10-03
 
 # Cảnh 03 — 山本 · POV Yamamoto · ~600 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Mở bằng vạch cảnh (`……` một dòng). Khối này ngắn và **ấm**, không bi thương dài.
 > 🔴 Ký ức **chỉ đúng mức ch15**, và **chỉ một phần** của nó. Không thêm: ai, ở đâu, vì sao, khi nào. Chi tiết kiếp trước là **phác

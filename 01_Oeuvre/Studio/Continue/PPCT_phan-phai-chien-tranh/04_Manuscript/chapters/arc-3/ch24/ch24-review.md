@@ -10,7 +10,7 @@ chapter: 24
 canon_layer: user_canon
 status: active
 aliases: ["review ch24 PPCT", "soat ch24", "check-continuity ch24", "check-style ch24"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-chapter]]", "[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[sola-ui-gianh-lenh-chu]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[quy-uoc-to-lancer]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-chapter]]", "[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[quy-uoc-to-lancer]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch24 (2.315 chu Han)"
@@ -50,7 +50,7 @@ last_updated: 2026-09-22
 
 **Chương, dòng 77:** 「前天晚上，肯尼斯还躺在那里，Lancer还站在他那边。中间只隔了一个晚上。」
 
-**ch19, câu cuối cảnh màn hình:** 「太宰治伸出手，把屏幕一块一块地关掉了。」 — đêm ngày 4 kết thúc ở **lâu đài Einzbern**, khi Lancer bế Kayneth đi ([[kayneth-tap-kich-lau-dai-einzbern]]). Ngày 5 không ai mở màn hình (ch20). Sáng ngày 6 mới là lần đầu con bọ trong **nhà kho phía tây** lên trang (ch22 dòng 39).
+**ch19, câu cuối cảnh màn hình:** 「太宰治伸出手，把屏幕一块一块地关掉了。」 — đêm ngày 4 kết thúc ở **lâu đài Einzbern**, khi Lancer bế Kayneth đi (kayneth-tap-kich-lau-dai-einzbern). Ngày 5 không ai mở màn hình (ch20). Sáng ngày 6 mới là lần đầu con bọ trong **nhà kho phía tây** lên trang (ch22 dòng 39).
 
 → Dazai đang nói như thể hắn đã thấy Kayneth nằm trong nhà kho với Lancer bên cạnh từ đêm ngày 4. Chưa có chương nào cho thấy điều đó; thậm chí **con bọ được đặt vào nhà kho lúc nào** cũng chưa lên trang.
 

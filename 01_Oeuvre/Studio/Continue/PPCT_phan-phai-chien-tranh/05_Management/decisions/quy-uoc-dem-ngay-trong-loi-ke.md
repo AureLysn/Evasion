@@ -16,7 +16,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-21
+last_updated: 2026-11-21
 ---
 
 # Quy ước đếm ngày trong lời kể
@@ -29,7 +29,7 @@ Ngày **1** = đêm trận kho cảng, theo [[05_Evasion/01_Oeuvre/Studio/Contin
 
 ## Vì sao cần chốt
 
-ch22 mở bằng 「第六天早上」. Soát lại thì **không chương nào khác**, kể cả nguyên tác, dùng lối này: nguyên tác neo bằng mốc trong truyện (ch13: 「昨日」; ch12: 「前天在仓库前」). Tức ch22 tự mở một quy ước mới — và một quy ước chỉ dùng một lần thì lần sau sẽ có người sửa nó đi.
+Soát nguyên tác thì **không chương nào** neo bằng lối 「第六天早上」: nguyên tác neo bằng mốc trong truyện (ch13: 「昨日」; ch12: 「前天在仓库前」). Tức ch22 tự mở một quy ước mới — và một quy ước chỉ dùng một lần thì lần sau sẽ có người sửa nó đi.
 
 ## Cách dùng
 
@@ -39,4 +39,4 @@ ch22 mở bằng 「第六天早上」. Soát lại thì **không chương nào 
 
 ## Ghi kèm — một chữ chưa tra được
 
-Cùng lúc soát ch22, chương đổi thiết bị giám sát thành 「一只苍蝇大小的**监视虫**」 cho khớp ch3. Nhưng vault chỉ có **mô tả tiếng Việt** ("bọ giám sát cỡ ruồi", ch3) — **không có nguyên văn tiếng Trung**. Chữ 「监视虫」 là chữ tự đặt, **chưa đối chiếu nguyên tác**; ghi ở [[fact-cong-nghe-vongola-trong-chien-tranh]]. Khi nào mở lại ch3 thì sửa cho khớp rồi xoá dòng này.
+Thiết bị giám sát viết là 「一只苍蝇大小的**监视虫**」 cho khớp ch3. Nhưng vault chỉ có **mô tả tiếng Việt** ("bọ giám sát cỡ ruồi", ch3) — **không có nguyên văn tiếng Trung**. Chữ 「监视虫」 là chữ tự đặt, **chưa đối chiếu nguyên tác**; ghi ở [[fact-cong-nghe-vongola-trong-chien-tranh]]. Khi nào mở lại ch3 thì sửa cho khớp rồi xoá dòng này.

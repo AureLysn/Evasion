@@ -18,7 +18,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 22-04 chia khoa xe", "Dazai cam chia khoa", "man hinh de nguyen dang bat"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[mot-ngay-khong-co-chien-tranh-chen-thanh]]", "[[dazai--tsuna]]", "[[ryunosuke-gay-an-khong-servant]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[dazai--tsuna]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -49,8 +49,8 @@ Cho Dazai làm ngược lại lời chính hắn vừa nói — và **không** g
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch20 *(viết tiếp)*: cả ngày 5 không ai mở màn hình; 「明天屏幕还是要开的。」 — [[mot-ngay-khong-co-chien-tranh-chen-thanh]]
-- Dàn ý cũ (v3.1, Cụm 2): "Dazai nói không phải việc của chúng ta nhưng cầm chìa khoá xe" — **tiền đề** đã chốt 15/09, chi tiết chốt ở plan này — [[ryunosuke-gay-an-khong-servant]]
+- ch20 *(viết tiếp)*: cả ngày 5 không ai mở màn hình; 「明天屏幕还是要开的。」 — mot-ngay-khong-co-chien-tranh-chen-thanh
+- Dàn ý cũ (v3.1, Cụm 2): "Dazai nói không phải việc của chúng ta nhưng cầm chìa khoá xe" — **tiền đề** đã chốt 15/09, chi tiết chốt ở plan này — ryunosuke-gay-an-khong-servant
 - Xưng hô hai người: [[dazai--tsuna]]
 
 ## Kết cảnh phải đạt được gì

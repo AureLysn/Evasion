@@ -17,12 +17,12 @@ payoff:
 aliases: ["Kimiko", "Hibari Kimiko", "thay truoc tuong lai", "see the future", "danh hieu Kimiko", "Eienzakuramura"]
 related: ["[[fact-sanctuary]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Hibari Kimiko thấy trước tương lai
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Tuyến này là gì
 

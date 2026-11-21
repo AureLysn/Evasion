@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules", "luat cung van phong", "quy tac cung", "khong duoc vi pham"]
-related: ["[[signature]]", "[[ai-tells]]", "[[targets]]", "[[emb-lam-lai-tu-nguon]]"]
+related: ["[[signature]]", "[[ai-tells]]", "[[targets]]"]
 source:
   type: measured
   ref: "Do lai 17/09/2026 tu personal-bulk:fiction-sources/EMB/raw/original-fic/ — 5 than chuong, 37.391 tu. Moi luat duoi day da kiem la ca 5/5 chuong tac gia deu dat. Chay ai_tells_check.py len chinh 5 chuong goc: ban cu cho exit 2 ca 5."

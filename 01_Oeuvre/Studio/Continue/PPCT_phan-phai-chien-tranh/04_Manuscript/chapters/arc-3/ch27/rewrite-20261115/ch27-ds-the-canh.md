@@ -10,7 +10,7 @@ chapter: 27
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch27 ban DeepSeek", "thẻ cảnh ch27 bản song song", "ch27 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan|plan ch27]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Diarmuid-Ua-Duibhne]]", "[[Artoria-Pendragon]]", "[[20260922-canon-saber-quyet-dau]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-plan|plan ch27]]", "[[hard-rules]]", "[[ai-tells]]", "[[Diarmuid-Ua-Duibhne]]", "[[Artoria-Pendragon]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch27-plan + 5 thẻ scenes/ (Aurel duyệt C1–C6 22/09/2026). Không dùng văn bản ch27-chapter final."

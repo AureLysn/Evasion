@@ -9,7 +9,7 @@ aliases: ["moc nguon tdtb", "sources tdtb", "ban do nguon TDTB"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[TDTB-MOC]]", "[[ban-convert-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[20260926-tra-loi-cau-hoi]]", "[[nguyen-van-zh-tdtb]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # TDTB — nguồn
@@ -26,7 +26,6 @@ Vault giữ note `source` kèm khối `asset:` trỏ sang. Nạp 25/09/2026, sha
 | [[ban-convert-tdtb]] | `fic_text` | 乐博 (bản convert máy dịch) | `original_author` | 93.286 B · epub · `vi` · 15 chương |
 | [[trang-jjwxc-tdtb]] | `author_comment` | 乐博 + nền tảng JJWXC | `original_author` | 113.051 B · html · `zh` (GB18030) |
 | [[nguyen-van-zh-tdtb]] | `fic_text` | **乐博 — nguyên văn** | `original_author` | 397.708 B · zip 15 HTML · `zh` (GB18030) · 42.660 chữ Hán — nạp 26/09 |
-| [[20260928-tra-loi-plan-continuation]] | `user_input` | **Aurel** | `user` | trong vault — trả lời `plan-continuation` vòng 1, nguyên văn (28/09) |
 | [[20260927-tra-loi-analyze-tropes]] | `user_input` | **Aurel** | `user` | trong vault — trả lời `analyze-tropes`, nguyên văn (27/09) |
 | [[20260926-tra-loi-cau-hoi]] | `user_input` | **Aurel** | `user` | nằm trong vault, `sources/user-input/` — trả lời 4 câu hỏi chặn, nguyên văn |
 

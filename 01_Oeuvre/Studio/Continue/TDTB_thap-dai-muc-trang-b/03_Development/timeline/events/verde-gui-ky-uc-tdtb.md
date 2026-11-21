@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "cung luc Tsuna tro ve tu nhiem vu Quy diet 2.0 (khong gian trang)"
   arc: "mo-dau"
-  chapter: "ch8"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.verde-tdtb", "character.TDTB.colonnello-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["[[khong-gian-trang-tdtb]]"]
 aliases: ["Verde gui ky uc", "Verde gửi ký ức", "vòng cầu vồng", "Arcobaleno ch8", "tia sáng trắng", "ai đó đào hố cho Tsuna", "future memories sent"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

@@ -12,7 +12,7 @@ preserve: ["diem dung giua ky thi thuc hanh cuoi ky nam nhat, ch127", "toan bo p
 allowed_expansion: ["Parallel Sight / Sky Mare Ring cua Byakuran mo rong sang mot the gioi khong Flames khong Byakuran nao — the gioi UNTCH (cau chan #9, manh may moc duy nhat nhanh nay phai bia). Ghi o day, KHONG ghi vao canon/ dung chung", "Phan ung cu the cua tung nhan vat canon khi xem — chua chot chi tiet, se lam o buoc 8"]
 forbid: ["em dash", "dau cham phay", "smut", "moi tinh tiet lien quan Trung Quoc", "Nedzu bi thi nghiem hoac High Spec", "Nedzu va Reborn khong phai soulmate", "Xanxus la con cua Vongola Nono", "Kawahira la ke cuoi cung cua chung toc", "giai quyet tuyen Izuku va cai chet Bakugo theo bat ky huong nao", "viet canh cao trao bang hanh dong truc tiep", "nhoi chu bond", "sai quy uoc POV ten rieng va ho — ap ca hai phia canon va UNTCH (cau chan #6)", "nhac he Flame trong chuong MNet", "chieu ch118-119 (cau chan #10)", "co tang 3 trong phong — Lien minh Villain hoac AFO (cau chan #2)", "de nhan vat canon anh huong nguoc vao cot truyen aurel-main — hai nhanh khong thay nhau (cau chan #7)", "Byakuran giai thich co che hoac xac nhan/dinh chinh day la tuong lai cua ai"]
 aliases: ["hop dong nhanh aurel-watch", "branch contract aurel-watch", "nhanh xem anh the UNTCH", "watch frame UNTCH", "canon BNHA xem UNTCH", "khung xem anh the"]
-related: ["[[UNTCH]]", "[[aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[bien-ban-su-kien-untch]]", "[[de-len-canon-bnha]]", "[[_BNHA-MOC]]", "[[Nezu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/aizawa-shouta|Aizawa-Shouta]]", "[[All-Might]]", "[[Endeavor]]", "[[Hawks]]", "[[Bakugou-Katsuki]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|Todoroki-Shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku|Midoriya-Izuku]]", "[[Ojiro-Mashirao]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi|Shinsou-Hitoshi]]", "[[Tokoyami-Fumikage]]", "[[Uraraka-Ochako]]", "[[Iida-Tenya]]", "[[Vlad-King]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/byakuran|byakuran]]", "[[pq01-wonomichi-la-nguoi-con]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[pq03-cha-cua-byakuran-hawks]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq05-cha-cua-theodor-la-kawahira]]", "[[khung-xem-anh-the]]"]
+related: ["[[UNTCH]]", "[[aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[bien-ban-su-kien-untch]]", "[[de-len-canon-bnha]]", "[[_BNHA-MOC]]", "[[Nezu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/aizawa-shouta|Aizawa-Shouta]]", "[[All-Might]]", "[[Endeavor]]", "[[Hawks]]", "[[Bakugou-Katsuki]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|Todoroki-Shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku|Midoriya-Izuku]]", "[[Ojiro-Mashirao]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi|Shinsou-Hitoshi]]", "[[Tokoyami-Fumikage]]", "[[Uraraka-Ochako]]", "[[Iida-Tenya]]", "[[Vlad-King]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/byakuran|byakuran]]", "[[pq01-wonomichi-la-nguoi-con]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[pq03-cha-cua-byakuran-hawks]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq05-cha-cua-theodor-la-kawahira]]"]
 source:
   type: user_input
   ref: "Aurel chot 04/09/2026 qua AskUserQuestion — tra loi 8 cau chan (#2,4,5,6,7,9,10,13) cua khung 3 hoi dung 31/08-01/09/2026 o 03_Workspace/draft-khung-nhanh-xem-anh-the.md. File goc cua khung van o 03_Workspace, confidence 0.0, chua vao vault — hop dong nhanh nay chi khoa PHAN da chot, khong khoa toan bo khung."
@@ -21,7 +21,7 @@ confidence: 1.0
 always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-04
+last_updated: 2026-11-21
 ---
 
 # Hợp đồng nhánh — `aurel-watch`
@@ -38,11 +38,7 @@ Canon BNHA (tiền canon, ngay sau kỳ thi tuyển sinh UA) xem lại *Untoucha
 buổi chiếu do **Byakuran** dựng. Phần 1 của bộ ba *(1. Xem → 2. Canon xuyên sang UNTCH → 3. UNTCH
 xuyên sang canon)* — [[UNTCH]] mục *"Việc đang mở"*.
 
-Khung 3 hồi đầy đủ (26 khối chiếu, cách xếp Hồi I/II/III, danh sách cảnh) vẫn nằm ở
-`03_Workspace/draft-khung-nhanh-xem-anh-the.md` — **chưa vào vault, `confidence: 0.0`**. File
-này chỉ khoá **phần Aurel đã quyết** (mục 7 của bản khung, tám câu chặn). **04/09/2026: Hồi I đã
-có dàn ý chương đầy đủ** ở [[khung-xem-anh-the]] (arc note) và `chapters/hoi-1/` (9 chương). Hồi
-II và III vẫn chỉ ở mức bảng khối trong bản nháp gốc, chưa dàn ý.
+File này chỉ khoá **phần Aurel đã quyết** (tám câu chặn, 04/09/2026). Khung 3 hồi, dàn ý Hồi I *(9 chương)* đã xóa khi reset 21/11/2026 — lập lại từ đầu.
 
 ## Fork — độc lập với `aurel-main`
 
@@ -126,13 +122,9 @@ và nội tâm nhân vật NẰM TRONG khối chiếu — đặt trong 【 】. 
 ngồi trong phòng xem) để trần, không ngoặc. Ranh giới 【…】 phải khớp đúng ranh giới "trong màn
 hình / ngoài màn hình" ở **mọi chương có cảnh chiếu**, không chỉ chương đầu.
 
-**Vì sao chọn nhánh có đánh dấu:** Hồi I dựng đúng chủ đề "bản ghi tự đổi / ranh giới mập mờ"
-([[khung-xem-anh-the]]). Dấu ngoặc rõ ràng giúp người đọc LUÔN biết chắc mình đang ở đâu — để
+**Vì sao chọn nhánh có đánh dấu:** nhánh này dựng quanh chủ đề "bản ghi tự đổi / ranh giới mập mờ". Dấu ngoặc rõ ràng giúp người đọc LUÔN biết chắc mình đang ở đâu — để
 khi ranh giới đó thật sự bị phá vỡ (khối chiếu ngắn, cắt giữa chừng, hai bản ghi không khớp), cú
 sốc đến từ **nội dung**, không phải từ việc người đọc tự mơ hồ đoán xem cái gì vừa xảy ra.
-
-⚠️ **xem-ch01 viết trước quyết định này** — cảnh 3 (mảnh chiếu Nezu·Yagi) cần sửa lại để bọc
-đúng 【 】 quanh phần chiếu, giữ phần phản ứng của Vlad King/Nezu/Shouta để trần như cũ.
 
 ### `intervention_allowed`
 
@@ -170,20 +162,9 @@ Todoroki là *Shouto*, Tokoyami là *Fumi*, Shinsou là *Hitoshi*, giống hệt
 cùng phía cậu, không phải góc nhìn ngây thơ của dàn canon. Mỉa mai kịch chở 30 chương tốt hơn một
 câu đố kéo dài.
 
-## Dàn ý chương — Hồi I xong, Hồi II/III còn ở mức khung
+## Dàn ý chương
 
-🔴 **04/09/2026: bước 8 cho Hồi I đã xong.** Xem [[khung-xem-anh-the]] — arc note đầy đủ (dòng
-tông, hook payoff, bí mật cấm lộ cấp hồi, kiểm bốn trigger chủ động của `plan-continuation`) và
-`chapters/hoi-1/` — 9 chương đã dàn ý riêng từng chương (beat bắt buộc, bí mật cấm lộ riêng, ngân
-sách từ theo cảnh). Cổng quyết định của skill đã chạy: **không có `question` nào — cả nhánh lẫn
-dùng chung — có `needed_before` rơi vào Hồi I.**
-
-26 khối chiếu (8 khối Hồi I · 13 khối Hồi II · 5 khối Hồi III — Hồi I thực ra dùng 9 khối sau khi
-tách khối mở màn ch76 riêng, xem [[khung-xem-anh-the]]), kèm nguồn chương và "phòng trả cái gì"
-cho từng khối: xem mục 5 của `03_Workspace/draft-khung-nhanh-xem-anh-the.md`. **Hồi II và III
-chưa tách thành chương riêng** — việc đó thuộc phiên bước-8 kế tiếp. Khi dàn ý từng khối, ánh xạ
-`known_by`/`suspected_by`/`unknown_to` cho các `secrets/` liên quan (nếu có) trước khi
-`finalize-chapter` — hợp đồng này không tự làm việc đó.
+Chưa có — reset 21/11/2026. Khi dàn ý từng khối, ánh xạ `known_by`/`suspected_by`/`unknown_to` cho các `secrets/` liên quan trước khi `finalize-chapter`.
 
 ## Việc còn thiếu, theo thứ tự
 
@@ -193,10 +174,7 @@ chưa tách thành chương riêng** — việc đó thuộc phiên bước-8 k�
       `participants`. Chạy trước khi viết bất kỳ cảnh nào có xung đột trực tiếp hai hệ thống
 - [x] **3b — `style/ai-tells.md` + khối `gate:`** cho UNTCH, chốt 04/09/2026 — mốc nền đo bằng
       `measure_gate.py`, `ital10k` đo lại sau khi vá `extract_all.py` (0,0 giả → 54,4 thật)
-- [x] **8 — dàn ý chương, Hồi I** — chốt 04/09/2026, xem [[khung-xem-anh-the]] và `chapters/hoi-1/`
-      (9 chương, ~24.200 từ dự kiến). **Hồi II · III chưa dàn ý**, chỉ có bảng khối
-- [ ] **9 — viết** (tiếng Anh) — **chưa mở**, chờ Aurel duyệt outline Hồi I trước (điểm dừng bắt
-      buộc "sau OUTLINE")
+- [ ] **7b · 8 — khung và dàn ý chương** — chưa có *(reset 21/11/2026)*
+- [ ] **9 — viết** (tiếng Anh) — **chưa mở**, chờ khung và dàn ý
 
 ⚠️ Hai chỗ **bắt buộc dừng chờ người** theo `AGENTS.md`: **sau OUTLINE**, và **trước COMMIT**.
-Hồi I hiện đang ở đúng điểm dừng đầu tiên.

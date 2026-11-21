@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.sola-ui]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.200"
 aliases: ["plan ch29 PPCT", "dan y chuong 29 PPCT", "交换 ch29", "Sola-Ui trao lenh chu", "mo arc 4 PPCT", "chieu ngay 9 PPCT"]
-related: ["[[arc-4-ba-dao-lenh-chu]]", "[[lenh-chu-con-sau-khi-servant-chet]]", "[[Command-Spells]]", "[[20260922-canon-chuyen-lenh-chu]]", "[[kirei-thay-lenh-chu-cua-sola-ui]]", "[[kirei]]", "[[nha-tho-fuyuki]]", "[[sola-ui]]", "[[kayneth]]", "[[kirei-van-la-master]]", "[[sola-ui-gianh-lenh-chu]]", "[[Kirei-Kotomine]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[Command-Spells]]", "[[kirei]]", "[[nha-tho-fuyuki]]", "[[sola-ui]]", "[[kayneth]]", "[[kirei-van-la-master]]", "[[Kirei-Kotomine]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — chuong dau arc 4; Aurel duyet C1–C6 theo de xuat, 22/09/2026; beat 4 sua theo crosscheck chuyen lenh chu"
@@ -25,8 +25,8 @@ last_updated: 2026-09-22
 
 # Kế hoạch chương 29 — 交换 (Trao đổi) · ✅ AUREL DUYỆT 22/09/2026
 
-> Chương đầu arc 4. Khung arc: *Kirei đề nghị nhà thờ giữ hộ ba đạo lệnh chú; Sola-Ui mặc cả đường rời Fuyuki; chuyển lệnh chú; xe rời thành phố lúc chạng vạng* ([[arc-4-ba-dao-lenh-chu]]).
-> Aurel duyệt **cả C1–C6 theo đề xuất** (22/09/2026). Beat 4 sửa theo [[20260922-canon-chuyen-lenh-chu]]; lệch canon có chủ đích — [[lenh-chu-con-sau-khi-servant-chet]]. Thẻ cảnh 01–03 đã viết.
+> Chương đầu arc 4. Khung arc: *Kirei đề nghị nhà thờ giữ hộ ba đạo lệnh chú; Sola-Ui mặc cả đường rời Fuyuki; chuyển lệnh chú; xe rời thành phố lúc chạng vạng* (arc-4-ba-dao-lenh-chu).
+> Aurel duyệt **cả C1–C6 theo đề xuất** (22/09/2026). Beat 4 sửa theo 20260922-canon-chuyen-lenh-chu; lệch canon có chủ đích — lenh-chu-con-sau-khi-servant-chet. Thẻ cảnh 01–03 đã viết.
 
 ## Mục tiêu chương
 
@@ -98,8 +98,8 @@ Chương **dệt canon** nhẹ (một cuộc mặc cả với canon chống lưn
 |---|---|
 | Chốt C1–C6 và duyệt plan này | ✅ 22/09/2026 |
 | Thẻ cảnh 01–03: lượt thoại, thuật ngữ, trích nguyên văn | ✅ 22/09 |
-| Canon: nghi thức chuyển lệnh chú (có cần người trao tự nguyện; có dấu hiệu gì trên da) | ✅ 22/09 — [[Command-Spells]] luật 4 · [[20260922-canon-chuyen-lenh-chu]] |
-| Lệnh chú còn sau khi Servant chết | ✅ lệch canon có chủ đích — [[lenh-chu-con-sau-khi-servant-chet]] |
+| Canon: nghi thức chuyển lệnh chú (có cần người trao tự nguyện; có dấu hiệu gì trên da) | ✅ 22/09 — [[Command-Spells]] luật 4 · 20260922-canon-chuyen-lenh-chu |
+| Lệnh chú còn sau khi Servant chết | ✅ lệch canon có chủ đích — lenh-chu-con-sau-khi-servant-chet |
 | Canon: nhà thờ giữ lệnh chú chưa dùng của các cuộc chiến trước | ✅ [[Kirei-Kotomine]] (lệnh chú dự trữ của Risei) |
 | Nguyên văn ch28: lời Kirei, cảnh cửa khép | ✅ [[04_Manuscript/chapters/arc-3/ch28/ch28-chapter]] |
 

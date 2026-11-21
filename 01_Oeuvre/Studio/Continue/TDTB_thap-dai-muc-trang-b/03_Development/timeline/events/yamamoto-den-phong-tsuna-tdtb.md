@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, dem"
   arc: "show-tap-1"
-  chapter: "ch15"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.yamamoto-takeshi-tdtb"]
 location: ["[[biet-thu-tam-dong-tdtb]] — phòng Tsuna, lầu hai bên trái"]
 aliases: ["Yamamoto den phong Tsuna", "Yamamoto đến phòng Tsuna", "A Cương chớ đi", "pheromone Yamamoto", "Thiên Lan quỳ tràn hành lang", "đêm đầu tiên", "cá ướp muối Tsuna"]
@@ -21,11 +21,10 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.
-
 
 # Yamamoto tìm tới phòng Tsuna trong đêm
 
@@ -41,8 +40,3 @@ last_updated: 2026-09-30
 ## Hệ quả
 
 - Hai người ở chung phòng, camera tắt, khi truyện dừng.
-
-## Kết thúc đêm — [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] *(viết tiếp)*
-
-- Đêm chỉ có một cái ôm. Yamamoto ngủ gục cạnh giường; Tsuna đắp khăn lạnh, không gọi ai.
-- Rạng sáng S2 Yamamoto ra khỏi phòng trước giờ quay. **Kenichi thấy**: [[kenichi-thay-yamamoto-ra-phong-tdtb]].

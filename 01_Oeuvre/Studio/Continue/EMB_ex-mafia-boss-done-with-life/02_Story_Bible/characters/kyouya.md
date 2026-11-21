@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Kyouya", "Kyoya", "Hibari Kyouya", "Hibari Kyoya", "Getsufuji", "Akizuki", "carnivore", "anh em ho", "dam may o mep rung"]
-related: ["[[tuoi-va-moc]]", "[[tsuna]]", "[[indra]]", "[[keita]]", "[[kojiro]]", "[[nagi]]", "[[fact-kyouya-anh-em-ho]]", "[[kyouya-loai-chu-chot]]", "[[bigger-carnivore-la-ai]]", "[[tsuna--kyouya]]", "[[emb-chot-sau-p2-ch2]]", "[[phan-biet-hai-the-gioi]]", "[[kyouya-phan-cu]]"]
+related: ["[[tuoi-va-moc]]", "[[tsuna]]", "[[indra]]", "[[keita]]", "[[kojiro]]", "[[nagi]]", "[[fact-kyouya-anh-em-ho]]", "[[kyouya-loai-chu-chot]]", "[[bigger-carnivore-la-ai]]", "[[tsuna--kyouya]]", "[[emb-chot-sau-p2-ch2]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 (loi Tsuna, ky uc kiep truoc) va Ch2 (POV cuoi chuong); End Notes P1 Ch3; reply tac gia 2024-09-11. Doc lai 15-16/09/2026"
@@ -17,12 +17,12 @@ flame: Getsufuji (Cloud)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Hibari Kyouya — *Getsufuji*
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 >
 > 🔴 **Tuổi:** cậu **gần bằng tuổi Tsuna** *(chênh tối đa 1–2)* — chốt ở [[tuoi-va-moc]]. Ghi chú tác giả P1 Ch3 nói Kyoya và Kusakabe **còn là trẻ nhỏ** lúc Tsuna một tháng tuổi; dòng *"chúng mới mười một"* ở P2 Ch1 ngược lại, và là một trong các con số của chương ấy **không khớp** với thứ tự đã chốt 16/09 — [[emb-chot-sau-p2-ch2]].
 >

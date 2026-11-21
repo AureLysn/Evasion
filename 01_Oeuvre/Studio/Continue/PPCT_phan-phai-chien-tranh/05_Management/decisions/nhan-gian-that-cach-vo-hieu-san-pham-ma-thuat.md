@@ -9,7 +9,7 @@ status: locked
 resolves: [question.PPCT.q-nhan-gian-that-cach-va-ma-thuat]
 decided_at: 2026-09-14
 aliases: ["Nhan Gian That Cach vo hieu san pham ma thuat", "Dazai cam Excalibur mat Invisible Air", "di nang chu dong voi ma thuat ton ma luc", "Anh linh khong tinh la san pham ma thuat", "phai cham da", "死气的顶点 khong bi vo hieu", "人间失格 va ma thuat Fate da chot", "Dazai vo hieu ngon lua khong vo hieu phep", "Dazai cham Tsuna khong sao", "luat di nang Dazai PPCT"]
-related: ["[[q-nhan-gian-that-cach-va-ma-thuat]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[arc-1-vuong-yen-ha-man]]", "[[hook-bo-sung-ma-luc]]"]
+related: ["[[q-nhan-gian-that-cach-va-ma-thuat]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[hook-bo-sung-ma-luc]]"]
 source:
   type: user_input
   ref: "Aurel, chat 14/09/2026 (2 luot): 'b. nhung khong vo hieu hoa ma thuat/ma luc ma vo hieu hoa ma thuat tao ra. VD phep lua: khong vo hieu hoa ma thuat tao ra ngon lua ma vo hieu hoa ngon lua (chi la vi du)'"

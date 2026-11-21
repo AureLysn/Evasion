@@ -10,7 +10,7 @@ chapter: 19
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch19 ban DeepSeek", "thẻ cảnh ch19 bản song song", "ch19 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[Kayneth-El-Melloi-Archibald]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[Kayneth-El-Melloi-Archibald]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch19-plan + 4 thẻ scenes/ (Aurel duyệt C1–C4 15/09/2026). Không dùng văn bản ch19-chapter final."

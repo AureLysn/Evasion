@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 32-03 ngay thuong", "平常 ch32", "choi game Tsuna thua", "man hinh dem qua khong co gi", "khep ch32"]
-related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan]]", "[[mot-ngay-khong-co-chien-tranh-chen-thanh]]", "[[archer-doi-master-sang-kirei]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch32/ch32-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---
@@ -29,7 +29,7 @@ last_updated: 2026-09-24
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
 > [[tsuna-bi-byakuran-giet]] **cấm** ở cảnh này — giấc mơ đã khép ở cảnh 01–02; ngày thường không quay lại.
-> 🔴 [[archer-doi-master-sang-kirei]]: tổ Caster **không biết**. Không Tokiomi, 远坂宅, Archer, Kirei. **Không** báo trước ch33.
+> 🔴 archer-doi-master-sang-kirei: tổ Caster **không biết**. Không Tokiomi, 远坂宅, Archer, Kirei. **Không** báo trước ch33.
 
 ## Ngân sách
 

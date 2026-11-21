@@ -11,7 +11,7 @@ decided: 2026-09-21
 decided_by: user
 decided_at: 2026-09-21
 aliases: ["chot cap song sinh", "hai OC Lightning", "nha Kamo Kotokui", "Yasuyuki Noriyuki", "yamauba nuoi dua bi bo", "nha doan sai", "mot cai ten khong the chua hai su that"]
-related: ["[[q-cap-song-sinh]]", "[[khung-oc]]", "[[emb-duyet-khung-nam-arc]]", "[[khung-nam-arc]]", "[[child-dan-y-ban-20260925]]", "[[ke-cuop-co-dau]]", "[[rule-danh-xung-flame]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[yasuyuki]]", "[[noriyuki]]", "[[trope-fandom]]"]
+related: ["[[q-cap-song-sinh]]", "[[khung-oc]]", "[[ke-cuop-co-dau]]", "[[rule-danh-xung-flame]]", "[[tomoko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[yasuyuki]]", "[[noriyuki]]", "[[trope-fandom]]"]
 source:
   type: user_input
   ref: "Aurel, 21/09/2026: 'chot ca bon de xuat' — bon bang de xuat trong q-cap-song-sinh."
@@ -21,7 +21,7 @@ always_load: true
 load_for: [writer, reviewer, planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing, oc]
-last_updated: 2026-09-21
+last_updated: 2026-11-21
 ---
 
 # Chốt cặp song sinh Lightning
@@ -96,7 +96,7 @@ Yamauba là **tiền lệ duy nhất** trong folklore Nhật: bà nuôi **Kintar
 
 ## Hoà hợp — không ai trong arc Child
 
-[[child-dan-y-ban-20260925]] chỉ có **bốn chương**, và Ch4 đã cõng cả đứa trẻ Saint-Exavier lẫn tin Cradle. [[khung-nam-arc]] xếp cặp song sinh ở dòng **C — ai nhìn ra cậu**, tức họ là **một con mắt**, không phải một lời giải.
+Khung cũ đã dồn đứa trẻ Saint-Exavier lẫn tin Cradle vào giai đoạn Child, và xếp cặp song sinh ở vai **ai nhìn ra cậu**, tức họ là **một con mắt**, không phải một lời giải.
 
 Họ tới, cái bẫy tên lộ ra, **Tsuna từ chối chọn**, không gì được giải.
 
@@ -112,7 +112,7 @@ Họ tới, cái bẫy tên lộ ra, **Tsuna từ chối chọn**, không gì đ
 
 Chốt tên **Yasuyuki / Noriyuki** đóng luôn ý *"hai đứa cùng là nam"* của file lưu trữ: cả hai là tên nam.
 
-⚠️ **Còn đúng một ý chưa xác nhận:** *"họ cảm được cảm xúc của nhau mà không biết"* — `authority: ai`, `archived`, nên [[emb-lam-lai-tu-nguon]] chưa cho dùng. Nó là ý đáng nhất trong bốn, vì nó cho hai người **đã hoà hợp với nhau từ trước khi gặp Tsuna** mà không ai gọi tên được việc ấy.
+⚠️ **Còn đúng một ý chưa xác nhận:** *"họ cảm được cảm xúc của nhau mà không biết"* — `authority: ai`, `archived`, nên chưa được dùng: chờ Aurel xác nhận. Nó là ý đáng nhất trong bốn, vì nó cho hai người **đã hoà hợp với nhau từ trước khi gặp Tsuna** mà không ai gọi tên được việc ấy.
 
 ## ⛔ Lằn can
 

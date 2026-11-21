@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Mukuro", "Rokudo Mukuro", "nguoi duoc cuu khoi Estraneo", "hoc tro cua Kawahira", "Mukuro trong nhanh nay"]
-related: ["[[tsuna]]", "[[kawahira]]", "[[nagi]]", "[[xoa-so-estraneo]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[mukuro-phan-cu]]"]
+related: ["[[tsuna]]", "[[kawahira]]", "[[nagi]]", "[[xoa-so-estraneo]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch1 - bang kiem ke ke hoach"
@@ -17,12 +17,12 @@ flame: Gen'ei (Mist)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, rescued-by-tsuna, gap-dot8b]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Mukuro — **được cứu, và điều đó là mục đích**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > ⚠️ Note ngắn có chủ ý. Fic gốc mới cho **hai dòng** về cậu ta sau khi được cứu. Mọi thứ dài hơn thế đều là suy luận, và **canon KHR không được lắp vào đây mặc định**.
 
@@ -48,7 +48,7 @@ Nghĩa là **Mukuro không phải người duy nhất được đưa ra**, và n
 
 ## Vì sao cậu ta quan trọng hơn hai dòng chữ
 
-🔴 Đây là **bằng chứng trung tâm cho điều Aurel sửa ở đợt 8b**.
+🔴 Đây là **bằng chứng trung tâm cho cách đọc Aurel đã chốt** — [[fact-bang-tinh-hinh-ke-hoach]].
 
 Bản cũ của vault ghi: *"cứu Mukuro là tác dụng phụ của việc xoá Estraneo."* Aurel bác: **cứu Mukuro chính là mục đích.** Và văn bản đứng về phía Aurel — cùng đoạn đó, Tsuna liệt kê Mukuro trong một **danh sách người**, không phải trong một danh sách mục tiêu chiến thuật:
 
@@ -75,4 +75,4 @@ Bản cũ của vault ghi: *"cứu Mukuro là tác dụng phụ của việc xo�
 
 - Ken, Chikusa có trong số *"traumatised Italian children"* không?
 - Cậu ta **biết Tsuna là ai** ở mức nào?
-- Cậu ta có biết chuyện gì đã xảy ra với cha mẹ [[nagi]] không — [[nagi-khong-biet-chuyen-cha-me]]?
+- Cậu ta có biết chuyện gì đã xảy ra với cha mẹ [[nagi]] không — nagi-khong-biet-chuyen-cha-me?

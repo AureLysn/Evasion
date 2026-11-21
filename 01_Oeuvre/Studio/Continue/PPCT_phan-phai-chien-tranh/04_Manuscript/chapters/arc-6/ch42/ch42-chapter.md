@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 42 PPCT", "ban nhap tieng Trung ch42", "khong phai viec cua minh ban nhap", "反派战争42 viet tiep", "khep arc 6 ban nhap"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan|plan ch42]]", "[[arc-6-co-xe-gia]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan|plan ch42]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

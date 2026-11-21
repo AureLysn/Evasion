@@ -15,27 +15,23 @@ authority: ai
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # MOC — TDTB / events
 
 Chỉ những gì **đã xảy ra trên trang** ch1–15 (`status: occurred`). Thứ tự thời gian: `Timeline/master.md`.
-Từ ch16 trở đi là chương **viết tiếp** (nhánh `aurel-main`, `scope: branch`); cột Nội dung ghi rõ chương.
-
 | Note | Loại | Nội dung |
 |---|---|---|
 | [[ba-nguoi-nhan-ky-uc-tdtb]] | `event` | Reborn, Gokudera, Yamamoto cùng nhắm mắt ở ba nơi |
 | [[binh-an-uyen-phan-muzan-tdtb]] | `event` | Chủ Ngọc Sinh Viên phản Muzan, cả Gion kịp chạy |
 | [[gokudera-den-nhat-tdtb]] | `event` | Gokudera tới Nhật, và thấy Tsuna trên livestream |
 | [[kenichi-nghe-len-tdtb]] | `event` | Họp tổ đạo diễn — Kenichi nghe lén (cảnh cuối của truyện) |
-| [[ket-tap-1-khong-ai-xuong-xe-tdtb]] | `event` | Kết tập 1: chấm điểm, và không ai xuống xe — tối S2 (ch17, viết tiếp) |
 | [[loc-da-tuyet-bo-thuoc-yamamoto-tdtb]] | `event` | Tiệc nướng và vụ bỏ thuốc thất bại |
 | [[loc-da-tuyet-chuyen-truong-tdtb]] | `event` | Lộc Dã Tuyết chuyển vào lớp Tsuna |
 | [[nhiem-vu-quy-diet-1-tdtb]] | `event` | Nhiệm vụ Quỷ diệt lần đầu — Tsuna cứu bác sĩ và chết thay |
 | [[nhiem-vu-quy-diet-2-tdtb]] | `event` | Nhiệm vụ "Quỷ diệt 2.0" — Gion thời Edo |
 | [[show-tap-1-so-ngo-tdtb]] | `event` | Tập 1: mặt nạ, Sơ Ngộ, và Lộc Dã Tuyết chọn Tsuna |
-| [[tsuna-dua-nuoc-cho-tro-ly-thu-am-tdtb]] | `event` | Tsuna đưa nước cho trợ lý thu âm — ban ngày S2 (ch17, viết tiếp) |
 | [[tsuna-nhan-loi-show-tdtb]] | `event` | Tsuna nhận lời lên show |
 | [[tsuna-thang-yuki-tdtb]] | `event` | Tsuna (XXXX27) thắng Yuki trận thứ 100 |
 | [[u-linh-omega-tdtb]] | `event` | "U Linh Omega" — bốn năm trước, cả Tokyo ngửi thấy |

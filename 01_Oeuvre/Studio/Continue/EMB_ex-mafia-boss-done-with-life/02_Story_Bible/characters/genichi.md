@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Genichi", "Gen'ichi", "Sugita", "Sugita Genichi", "Sugita Gen'ichi", "Sugita-sensei", "thay thuoc gia dinh", "bac si gia dinh", "thay thuoc nha Sawada", "nguoi lon binh thuong", "POV chuong 1 Brat"]
-related: ["[[emb-chot-thay-thuoc]]", "[[q-thay-thuoc-gia-dinh]]", "[[musashi]]", "[[nana]]", "[[tsuna]]", "[[indra]]", "[[maro]]", "[[nguoi-lon-co-trach-nhiem]]", "[[khung-oc]]", "[[brat-dan-y-ban-20261001]]", "[[fact-loi-flame]]", "[[emb-sua-con-troi-dat]]", "[[genichi-phan-cu]]"]
+related: ["[[emb-chot-thay-thuoc]]", "[[q-thay-thuoc-gia-dinh]]", "[[musashi]]", "[[nana]]", "[[tsuna]]", "[[indra]]", "[[maro]]", "[[nguoi-lon-co-trach-nhiem]]", "[[khung-oc]]", "[[fact-loi-flame]]", "[[emb-sua-con-troi-dat]]"]
 source:
   type: user_input
   ref: "Aurel chot 17/09/2026 — xem emb-chot-thay-thuoc. Vai do phien plan-continuation de xuat, Aurel duyet: thay thuoc rieng nha Sawada, KHONG biet chuyen Lua, ten do AI dat theo cach tac gia goc dat ten."
@@ -19,12 +19,12 @@ always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, pov-character]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Sugita Gen'ichi — 杉田 玄一 · **thầy thuốc nhà Sawada**
 
-> 🆕 Nhân vật mới của nhánh `aurel-main`, chốt 17/09/2026 — [[emb-chot-thay-thuoc]]. **POV trọn chương 1 arc Brat.**
+> 🆕 Nhân vật mới của nhánh `aurel-main`, chốt 17/09/2026 — [[emb-chot-thay-thuoc]]. Từng là POV trọn một chương trong bản nháp arc Brat đã xóa; khung mới chưa xác nhận vai POV.
 >
 > ⚠️ **Không phải** thầy thuốc Ấn Độ mà nhà Hibari mời từ Kerala trong [[khung-oc]]. Hai người khác nhau, xem §Ranh giới.
 
@@ -63,7 +63,7 @@ Giờ ông gặp lại đúng cái im lặng ấy ở đứa cháu bà: một đ
 | Nguồn | mới, nhánh `aurel-main` | **nguyên tác**, P1 Ch2 |
 | Ai mời | nhà Sawada, thường trực | **nhà Hibari**, qua [[indra]] |
 | Biết Lửa | **không** | gần như chắc là có |
-| Trạng thái | đang dùng, POV Ch1 Brat | **chưa đặt tên, chưa tiêu** — để dành |
+| Trạng thái | dự kiến dùng *(xem trên)* | **chưa đặt tên, chưa tiêu** — để dành |
 
 ## Giọng và cách nói
 

@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 35-02 to giay", "Kiritsugu doc to giay", "kiem gam xe", "饮料我请 Kiritsugu"]
-related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[to-caster-hen-gap-kiritsugu]]", "[[Kiritsugu-Emiya]]", "[[hook-to-caster-khac-che-to-saber]]", "[[lau-dai-einzbern]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan]]", "[[Kiritsugu-Emiya]]", "[[hook-to-caster-khac-che-to-saber]]", "[[lau-dai-einzbern]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---

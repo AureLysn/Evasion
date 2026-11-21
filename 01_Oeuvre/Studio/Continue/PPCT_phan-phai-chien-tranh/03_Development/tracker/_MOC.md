@@ -10,12 +10,12 @@ aliases: ["hook PPCT", "tuyen treo PPCT", "open threads PPCT", "tuyen chua giai 
 related: ["[[PPCT]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 # MOC — PPCT / hooks
 
-19 tuyến treo *(cập nhật 11/10/2026)*: 3 `paid_off` ([[hook-saber-xem-the-gioi-song-song]] · [[hook-assassin-con-song]] · [[hook-he-qua-thay-to-caster]]), 6 `partially_paid`, 10 `open`. Xếp theo mức phần viết tiếp buộc phải chạm — thứ tự lấy từ [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]].
+19 tuyến treo, **đều `open`** — tính tại cuối nguyên tác ch15 *(reset 21/11/2026: chương viết tiếp ch16–42 không còn là canon, nên không tuyến nào được trả)*. Xếp theo mức phần viết tiếp buộc phải chạm — thứ tự lấy từ [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]].
 
 ## 🔴 Bắt buộc ngay tại điểm dừng
 

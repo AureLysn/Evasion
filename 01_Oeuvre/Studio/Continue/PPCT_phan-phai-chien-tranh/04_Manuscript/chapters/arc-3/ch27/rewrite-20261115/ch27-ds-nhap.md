@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna, character.PPCT.diarmuid]
 language: zh
 title: "【太纲无差】反派战争27（DeepSeek版）"
 aliases: ["ch27 ban DeepSeek nhap", "chương 27 bản song song DeepSeek", "反派战争27 DeepSeek"]
-related: ["[[ch27-ds-the-canh]]", "[[ch27-ds-kiem]]", "[[deepseek-20261115]]", "[[ch26-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch27/ch27-chapter|ch27-chapter (aurel-main, final)]]"]
+related: ["[[ch27-ds-the-canh]]", "[[ch27-ds-kiem]]", "[[ch26-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch27/ch27-chapter|ch27-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch27-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch27-ds-kiem). Không dùng văn bản ch27-chapter final. Chat arc 3: https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9"

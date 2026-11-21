@@ -18,7 +18,7 @@ target_paragraph_mean: 35
 target_sentence_median: 15
 status: planned
 aliases: ["canh 19-04 man hinh", "Dazai khong can thiep", "giu song khong phai giu nguyen ven"]
-related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch19/ch19-plan|plan ch19]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-15
 ---
@@ -43,7 +43,7 @@ Lộ ra rằng tổ Caster **đã xem toàn bộ** và **chọn không cứu**. 
 ## Diễn biến
 
 - Căn cứ, hàng chục màn hình. Hình từ **chuồn chuồn máy** bay tới đậu ở khung cửa sổ lâu đài và lơ lửng trên rừng *(sửa 15/09 theo review #4 — ch3 không nói thiết bị được cài trong lâu đài; ch4–5 chuồn chuồn bay tới chỗ quan sát)*.
-- Tổ Caster **biết** vụ Hyatt — Aurel chốt 15/09 ([[hyatt-da-sap-kayneth-chua-bi-phe]]).
+- Tổ Caster **biết** vụ Hyatt — Aurel chốt 15/09 (hyatt-da-sap-kayneth-chua-bi-phe).
 - Dazai xem Kayneth gục, Lancer mang chủ đi. Hắn **không** động tới tay cầm điều khiển.
 - Tsuna hỏi (hoặc chỉ nhìn Dazai). Dazai giải thích: Master của Lancer **vẫn sống**, Lancer vẫn đứng, nên người đàn ông kia vẫn phải để mắt về phía đó — nước cờ cũ còn chạy. Giữ sống không có nghĩa là giữ nguyên vẹn.
 - Tsuna phản ứng với cái giá: thương cảm, không nói to — nhịp giống lúc cậu nhìn người nhà Einzbern trên màn hình ở ch3.

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.dazai]
 target_words: "mỗi chương ≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan phien ngoai Arc IV DeepSeek", "dàn ý phiên ngoại Arc IV", "tuyen tap gag Fate plan", "pn4 plan PPCT", "番外 Arc IV"]
-related: ["[[khung-phien-ngoai-deepseek]]", "[[pn-arc-3-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[phien-ngoai-du-nam-arc]]", "[[anh-linh-hien-trong-phien-ngoai]]", "[[irisviel-song]]", "[[ryunosuke-gay-an-khong-servant]]", "[[archer-o-lai-net-hien-vuong]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[deepseek-20261115]]", "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[Kiritsugu-Emiya]]", "[[Ryuunosuke-Uryuu]]", "[[Kariya-Matou]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Irisviel-von-Einzbern]]", "[[Second-Magic]]"]
+related: [ "[[pn-arc-3-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[Gilgamesh-Archer]]", "[[Kirei-Kotomine]]", "[[Kiritsugu-Emiya]]", "[[Ryuunosuke-Uryuu]]", "[[Kariya-Matou]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Irisviel-von-Einzbern]]", "[[Second-Magic]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 18/11/2026 — phiên ngoại Arc IV nhánh deepseek-20261115. Khung: khung-phien-ngoai-deepseek V17–V20 (Aurel chốt 18/11/2026); ý gốc: dàn ý cũ v3.1 PN-Arc IV (IV.1–IV.4, dòng 290–295); nối từ pn3-11 (Arc III kết)."
@@ -42,7 +42,7 @@ Những người từng đánh một cuộc Chén Thánh bằng cả mạng số
 1. 阿纲 (đã lớn, tuổi không xác định — mười mấy) bị cuốn sang một thế giới Chén Thánh khác (nền *Fate/strange Fake*, Snowfield) và vô tình triệu hồi **Enkidu**. Tsuna lớn đi theo trông.
 2. Enkidu và 阿纲: "phi nhân dịu dàng" gặp "đứa trẻ được yêu" — hợp tính ngay.
 3. Hai chủ tớ chuyên "hãm hại" Gilgamesh thế giới đó (trộm rượu, đổi đồ trong kho, dạy Enkidu pha cà phê); Gilgamesh dao động giữa thịnh nộ và hoài niệm.
-4. Về nhà: Archer của nhánh (khách thi thoảng, [[archer-o-lai-net-hien-vuong]]) ngửi thấy mùi gì đó trên áo 阿纲, im rất lâu.
+4. Về nhà: Archer của nhánh (khách thi thoảng, archer-o-lai-net-hien-vuong) ngửi thấy mùi gì đó trên áo 阿纲, im rất lâu.
 
 ## pn4-02 · Thế giới không có tổ Caster như ta — POV Dazai *(V18)*
 
@@ -65,7 +65,7 @@ Những người từng đánh một cuộc Chén Thánh bằng cả mạng số
 **Beat (dàn ý cũ IV.4):**
 1. Một "Chén Thánh" bày trò ở thế giới của nhánh: **14 người** full-cast hai thế hệ (Anh linh của quán, Arcobaleno, Byakuran, Xanxus, 阿纲…) *(C6: cơ chế và ai làm chủ trò)*.
 2. **EMIYA (Archer)** của một thế giới khác lọt vào, hoang mang tuyệt đối: "kho của ta có bản sao đồ của nhà này từ bao giờ".
-3. Cameo **gia đình Emiya của nhánh**: Kiritsugu, Irisviel (sống — [[irisviel-song]]), Shirō, Illya ghé quán *(C7)*.
+3. Cameo **gia đình Emiya của nhánh**: Kiritsugu, Irisviel (sống — irisviel-song), Shirō, Illya ghé quán *(C7)*.
 4. Kết: ai cũng thắng một thứ vô dụng; về chỗ cũ; chén rượu ở nhà Dazai vẫn chưa ai uống.
 
 ## Bí mật / chi tiết — cho phép và CẤM

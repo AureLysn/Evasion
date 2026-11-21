@@ -8,11 +8,11 @@ canon_layer: planned
 status: resolved
 resolved_by: nhan-gian-that-cach-vo-hieu-san-pham-ma-thuat
 needed_before:
-  arc: "arc-1-vuong-yen-ha-man"
-  chapter: "ch17 — Dazai o trong Co huu ket gioi cua Rider"
+  arc:
+  chapter: "canh Dazai cham ma thuat lan dau"
 decision_owner: user
 aliases: ["Nhan Gian That Cach va ma thuat", "人间失格 voi ma thuat Fate", "di nang Dazai vo hieu hoa ma thuat khong", "Dazai cham Anh linh", "No Longer Human Fate magic"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[arc-1-vuong-yen-ha-man]]", "[[hook-bo-sung-ma-luc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[hook-bo-sung-ma-luc]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1 (loi ke: 「太宰治他的强大并非在他的异能」), ch2 (「戴了手铠的手朝他伸过来」 → 「太宰握住了他伸出的手」); dan y v3.1 cu ch25, ch35 (de xuat, khong phai nguon)"
@@ -20,7 +20,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # 人间失格 của Dazai tác động thế nào lên ma thuật Fate và lên Anh linh?
@@ -41,7 +41,6 @@ last_updated: 2026-09-14
 |---|---|---|
 | ch2 | 「戴了手铠的手朝他伸过来」 → 「太宰握住了他伸出的手，感受到手里切实的触感」 | **không** — Tsuna đeo 手铠 |
 | ch3 | Tsuna ôm nhẹ Dazai ([[dazai--tsuna]]) | qua áo — *chưa đọc lại câu* |
-| ch16 *(viết tiếp)* | 「他慢条斯理地拉过纲吉刚才被Saber握过的那只手」, lau bằng khăn | ⚠️ "kéo tay" — **có thể** là da chạm da |
 
 ## Cần chốt trước
 

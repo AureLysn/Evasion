@@ -17,16 +17,16 @@ always_load: true
 load_for: [writer]
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [rule, naming, core, fic-explicit]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Hệ danh xưng Flame — bảng của chính tác giả
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > 🔴 **Luật dùng, chốt 22/09/2026 — [[emb-chot-danh-xung-chuc-va-nguyen-to]]**: bảng này giờ chỉ dùng cho **chức danh, tên nghi lễ, lời trang trọng**. Gọi **nguyên tố** thì dùng hệ canon *(Sky · Rain · Storm · Cloud · Mist · Sun · Lightning)*, ở mọi tầng kể cả thoại. Áp dụng từ Child Ch2 bản viết lại. Dòng *phạm vi 19/09* ngay dưới **đã bị thay**, giữ để tra.
 
-> 🔴 **Phạm vi, chốt 19/09/2026** — [[emb-chot-danh-xung-theo-lanh-tho]] ⛔: bảng này áp dụng cho **người Namimori** và **trong lãnh thổ Namimori**. Ngoài đó, hoặc với người không phải dân Namimori, dùng **tiếng Anh bình thường**: Sky · Rain · Storm · Cloud · Mist · Sun · Lightning.
+> 🔴 **Phạm vi, chốt 19/09/2026** — emb-chot-danh-xung-theo-lanh-tho ⛔: bảng này áp dụng cho **người Namimori** và **trong lãnh thổ Namimori**. Ngoài đó, hoặc với người không phải dân Namimori, dùng **tiếng Anh bình thường**: Sky · Rain · Storm · Cloud · Mist · Sun · Lightning.
 
 > Đây là **hệ thống riêng của fic**, không phải canon KHR. Nó thay toàn bộ cách gọi Storm/Rain/Sun/… bằng tên Nhật. Sai bảng này là sai **mọi lần gọi tên nhân vật trong mọi chương**.
 
@@ -96,7 +96,7 @@ Dùng nó làm mã project là trộn hai tầng: mã project phải trỏ tới
 
 ## 🔴 Luật phạm vi — **hệ danh xưng này CHỈ của xã hội lửa Nhật**
 
-Aurel bắt ở đợt 8u: *"các tên Ketsueki… khi nói về quá khứ tức là hệ ngọn lửa của Ý không phải của Namimori nên dùng tên tiếng Anh thay vì tên của Namimori, hoặc nếu muốn nói người bảo vệ cũ thì nên dùng tên của họ."*
+Aurel bắt: *"các tên Ketsueki… khi nói về quá khứ tức là hệ ngọn lửa của Ý không phải của Namimori nên dùng tên tiếng Anh thay vì tên của Namimori, hoặc nếu muốn nói người bảo vệ cũ thì nên dùng tên của họ."*
 
 | Bối cảnh | Dùng gì |
 |---|---|
@@ -108,4 +108,3 @@ Aurel bắt ở đợt 8u: *"các tên Ketsueki… khi nói về quá khứ tứ
 
 → Tsuna là người **duy nhất trong truyện thạo cả hai**, và điều đó phải **thấy được trên trang giấy**.
 
-⚠️ Đã sửa 5 chỗ ở `draft-p3-ch3`. Ch1 và Ch2 sạch — mọi tên Nhật ở đó đều chỉ người Namimori đương thời.

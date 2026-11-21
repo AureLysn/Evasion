@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Sachiko", "Yamamoto Sachiko", "me Takeshi", "me cua Takeshi", "Yamamoto-san tiem Takesushi", "nguoi quyet vu Yamamoto", "canh 2.2 Brat"]
-related: ["[[emb-chot-me-takeshi]]", "[[q-me-takeshi-ai-quyet]]", "[[hook-me-takeshi-va-sat-thu]]", "[[tsuyoshi]]", "[[tsuna]]", "[[brat-dan-y-ban-20261001]]", "[[khung-nam-arc]]", "[[phan-biet-hai-the-gioi]]", "[[sachiko-phan-cu]]"]
+related: ["[[emb-chot-me-takeshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[tsuyoshi]]", "[[tsuna]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: user_input
   ref: "Aurel chot 17/09/2026 — xem emb-chot-me-takeshi. Vai do khung-nam-arc cap slot B; ten do AI dat sau khi tra fandom 17/09 va xac nhan fandom KHONG co ten chung cho nhan vat nay."
@@ -23,13 +23,13 @@ last_updated: 2026-10-01
 
 # Yamamoto Sachiko — 山本 幸子 · **mẹ Takeshi**
 
-> 🆕 Tên do nhánh đặt, chốt 17/09/2026 — [[emb-chot-me-takeshi]]. *(Cảnh đầu của bà thuộc dàn ý đã lưu trữ; chờ [[q-me-takeshi-ai-quyet]].)*
+> 🆕 Tên do nhánh đặt, chốt 17/09/2026 — [[emb-chot-me-takeshi]]. *(Cảnh đầu của bà thuộc dàn ý đã lưu trữ; chờ q-me-takeshi-ai-quyet.)*
 
 ## Bà là ai
 
 Mẹ [[tsuyoshi|Takeshi]], ở tiệm **Takesushi**. Người nhận lời triệu của nhà Sawada mà nguyên tác chỉ ghi là *"Yamamoto-san tiệm Takesushi"* — [[hook-me-takeshi-va-sat-thu]].
 
-**Ở kiếp trước bà đã chết.** Ở kiếp này, ai quyết khi sát thủ tới **chưa chốt** — [[q-me-takeshi-ai-quyet]] · [[phan-biet-hai-the-gioi]].
+**Ở kiếp trước bà đã chết.** Ở kiếp này, ai quyết khi sát thủ tới **chưa chốt** — q-me-takeshi-ai-quyet · [[phan-biet-hai-the-gioi]].
 
 ## 🔴 Cái tên — và vì sao nó không phải tên fandom
 
@@ -47,7 +47,7 @@ Chốt bà làm người quyết **không khẳng định gì** về quan hệ �
 
 ## Trạng thái hiện tại
 
-Chưa xuất hiện trên trang. Cảnh đầu **chưa định**: dàn ý cũ đã lưu trữ, và việc ai quyết ở vụ Yamamoto đang là [[q-me-takeshi-ai-quyet]].
+Chưa xuất hiện trên trang. Cảnh đầu **chưa định**: dàn ý cũ đã lưu trữ, và việc ai quyết ở vụ Yamamoto đang là q-me-takeshi-ai-quyet.
 
 ## Bà biết gì
 

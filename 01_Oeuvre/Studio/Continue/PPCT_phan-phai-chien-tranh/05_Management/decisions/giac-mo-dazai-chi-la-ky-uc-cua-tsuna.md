@@ -9,7 +9,7 @@ status: locked
 resolves: [question.PPCT.q-giac-mo-cua-dazai-thay-gi]
 decided_at: 2026-09-15
 aliases: ["giac mo Dazai chi la ky uc cua Tsuna", "luat giac mo PPCT", "Dazai mo qua lien ket Master Servant", "khong co giac mo dam tang"]
-related: ["[[q-giac-mo-cua-dazai-thay-gi]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-thay-cai-chet-cua-tsuna]]", "[[Master-Servant-Dream]]", "[[arc-1-vuong-yen-ha-man]]"]
+related: ["[[q-giac-mo-cua-dazai-thay-gi]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-thay-cai-chet-cua-tsuna]]", "[[Master-Servant-Dream]]"]
 source:
   type: user_input
   ref: "Aurel, chat 15/09/2026: 'A' — tra loi q-giac-mo-cua-dazai-thay-gi"

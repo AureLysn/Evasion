@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Musashi", "Sawada Musashi", "Gen-ei", "Genei", "Ruriko", "Ruriko-sama", "Ruri", "ba ngoai", "grandmother", "sensei", "truong tu te Namimori Inari-Taisha", "ba cua Tsuna"]
-related: ["[[tsuna]]", "[[nana]]", "[[kojiro]]", "[[maro]]", "[[indra]]", "[[nagi]]", "[[kimiko]]", "[[keigo]]", "[[kyuuto]]", "[[sawada-tu-te]]", "[[rule-danh-xung-flame]]", "[[nana-iemitsu-cuoi-nhau]]", "[[le-cuoi-cao]]", "[[fact-inari-va-kitsune]]", "[[phan-biet-hai-the-gioi]]", "[[musashi-phan-cu]]"]
+related: ["[[tsuna]]", "[[nana]]", "[[kojiro]]", "[[maro]]", "[[indra]]", "[[nagi]]", "[[kimiko]]", "[[keigo]]", "[[kyuuto]]", "[[sawada-tu-te]]", "[[rule-danh-xung-flame]]", "[[nana-iemitsu-cuoi-nhau]]", "[[le-cuoi-cao]]", "[[fact-inari-va-kitsune]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 (Ch2 la chuong tieu su cua ba) + Ex-Mafia_Boss_Spends.html Ch1-2, doc lai 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch2, 20260916-p2-ch2"
@@ -17,12 +17,12 @@ flame: Gen'ei (Mist)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Sawada Musashi — *Gen'ei* · *Ruriko*
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 
 ## Tên gọi
 

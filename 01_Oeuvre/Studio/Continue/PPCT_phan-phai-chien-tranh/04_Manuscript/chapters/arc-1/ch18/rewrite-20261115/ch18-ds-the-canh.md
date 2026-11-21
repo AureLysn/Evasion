@@ -10,7 +10,7 @@ chapter: 18
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch18 ban DeepSeek", "thẻ cảnh ch18 bản song song", "ch18 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]", "[[hard-rules]]", "[[ai-tells]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch18-plan + 5 thẻ scenes/ (Aurel duyệt 15/09/2026). Không dùng văn bản ch18-chapter final."

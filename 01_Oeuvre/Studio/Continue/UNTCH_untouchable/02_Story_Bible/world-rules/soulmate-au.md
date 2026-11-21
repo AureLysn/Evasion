@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["he soulmate UNTCH", "soulmate AU", "soulmark", "dau soulmate", "vet soulmate", "mat soulmate thi sao", "Soulmate Killings", "giet soulmate cua minh", "chi soulmate moi goi ve duoc", "soulmate la ai cua ai"]
-related: ["[[he-bond]]", "[[soulmate-au-trope]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[bien-ban-su-kien-untch]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[qd-huong-arc-01]]", "[[UNTCH]]"]
+related: ["[[he-bond]]", "[[soulmate-au-trope]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[bien-ban-su-kien-untch]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. Tong hop tu bien ban tung chuong: ch5, ch12, ch26, ch30, ch35, ch36, ch38, ch45, ch116, ch123, ch124. Trich dan nguyen van kem so chuong trong than note."
@@ -16,7 +16,7 @@ confidence: 0.95
 always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Hệ soulmate — thiết lập riêng của UNTCH
@@ -112,7 +112,6 @@ soulmate, I'd definitely date him."*
 ## Ràng buộc khi viết
 
 🔴 **Cấm smut** — Notes ch1, *"This is not negotiable."* Áp cho mọi cặp, kể cả soulmate.
-🔴 **Cấm cho bond Hawks–Izuku hình thành trong arc 01** — [[qd-huong-arc-01]] quyết định #3.
 ⚠️ Fic có một câu về cổ tích, ch~26: *"Every fairy tale ended with soulmates living happily ever
 after, and dying together."* — **giọng của thế giới này về soulmate**, dùng lại được.
 

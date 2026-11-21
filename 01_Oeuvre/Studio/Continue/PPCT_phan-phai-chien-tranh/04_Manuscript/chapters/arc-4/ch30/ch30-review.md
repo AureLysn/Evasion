@@ -10,7 +10,7 @@ chapter: 30
 canon_layer: user_canon
 status: active
 aliases: ["review ch30 PPCT", "soat ch30", "check-continuity ch30", "寻找 review"]
-related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[kirei-van-la-master]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[lenh-chu-con-sau-khi-servant-chet]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[kirei-van-la-master]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1, 23/09/2026, tren ban nhap ch30 (2.125 chu Han)"
@@ -43,7 +43,7 @@ last_updated: 2026-09-23
 | Timeline | ✅ 「第十天早上」 → 「到了中午」 — đúng C6; ch31 (đêm ngày 10) không bị chạm. 「前天晚上西郊那间仓库」 = đêm ngày 8 ✓ ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master\|master]] dòng 69). 「剩下的从者，五个，和昨天一样」 khớp ch28 (dòng 123–125: Saber, Archer, Rider, Berserker, Caster) ✓ |
 | Ranh giới tri thức | ✅ Cả hai tin lệnh chú còn ở tay Sola-Ui (dòng 85) — niềm tin sai có chủ đích, đúng thẻ cảnh 02. ✅ Trực giác Tsuna **không nội dung** (dòng 97 「不知道。是直觉。」), không trỏ vào ai. ✅ Kiritsugu được gọi 「魔术师杀手」 — tổ Caster biết (ch27 dòng 115). 🟠 **#1** mối nghi ch17 bị nối với nhà thờ và dùng làm lý do hành động |
 | Trạng thái nhân vật | ✅ Tsuna nhớ lo cho Sola-Ui đêm ngày 8 (dòng 45) — khớp ch27 dòng 113 「索拉乌小姐她……没事吧？」. ✅ Dazai ghế xoay + bút — ch26 dòng 33. ✅ Câu 「雷达」 gán đúng người: ch23 dòng 85 là **Tsuna** nói 「我的直觉又不是雷达。」 |
-| Luật thế giới | ✅ Nhà thờ trung lập, không ai giải thích vì sao lệnh chú còn sau khi mất Servant — [[lenh-chu-con-sau-khi-servant-chet]]. ✅ Kết giới ngoài cửa sổ căn cứ — ch28 dòng 119. 🔵 **#2** ràng buộc mới về cách đặt bọ · 🔵 **#3** cơ chế mới "không chạy bằng ma lực" |
+| Luật thế giới | ✅ Nhà thờ trung lập, không ai giải thích vì sao lệnh chú còn sau khi mất Servant — lenh-chu-con-sau-khi-servant-chet. ✅ Kết giới ngoài cửa sổ căn cứ — ch28 dòng 119. 🔵 **#2** ràng buộc mới về cách đặt bọ · 🔵 **#3** cơ chế mới "không chạy bằng ma lực" |
 | Quan hệ / xưng hô | ✅ Tsuna 「太宰」, Dazai 「纲吉」 — [[dazai--tsuna]]. ✅ 「索拉乌小姐」 · 「肯尼斯先生」 — ch28 dòng 79 |
 | Canon | ✅ Maiya không được gọi tên (Tsuna chỉ biết là 「那个总是跟在卫宫切嗣身边的女人」). ✅ Kiritsugu lần theo bên thứ ba bằng vật chứng — hợp lối làm việc canon. ✅ 爱因兹贝伦 — cùng cách viết ch19, ch22, ch25 |
 | Hợp đồng nhánh | ✅ Không chạm mục `Cấm` |
@@ -61,7 +61,7 @@ last_updated: 2026-09-23
 > ……
 > 太宰治说：「现在也还是猜。」他伸了个懒腰，「所以更不能去碰。万一猜错了，我们会在一个晚上多出三个敌人来。」
 
-**[[dazai-nghi-master-assassin-cung-phe-archer]], Ràng buộc kéo theo:** 「**Không nâng** mức nghi lên "Master đó ở nhà thờ và còn là Master" (Aurel 22/09)」.
+**dazai-nghi-master-assassin-cung-phe-archer, Ràng buộc kéo theo:** 「**Không nâng** mức nghi lên "Master đó ở nhà thờ và còn là Master" (Aurel 22/09)」.
 **Thẻ cảnh 02, Diễn biến 4:** 「**Không** nối với nhà thờ bằng câu khẳng định.」 · mục CẤM: 「nói chắc Master của Assassin ở nhà thờ」.
 
 → ch28 để hai dữ kiện **đứng cạnh nhau** thành một câu đùa rồi bỏ đó (「教会倒是一个很方便的地方呢！」). ch30 đi thêm hai bước:

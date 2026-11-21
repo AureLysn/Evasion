@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn3-10 ban DeepSeek nhap", "phiên ngoại anh lớn Xanxus DeepSeek", "反派战争 番外二十三 大哥XANXUS DeepSeek"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-10-ds-the-canh]]", "[[pn3-10-ds-kiem]]", "[[deepseek-20261115]]", "[[pn3-09-ds-nhap]]", "[[Xanxus]]", "[[Kawahira]]", "[[Zero-Point-Breakthrough]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-10-ds-the-canh]]", "[[pn3-10-ds-kiem]]", "[[pn3-09-ds-nhap]]", "[[Xanxus]]", "[[Kawahira]]", "[[Zero-Point-Breakthrough]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E, ba bản 去 (C-a) và ba bản 停 (C-b); GPT chấm (去一; 停二 ghép Squalo của 停三 + Ottavio đã mật báo) và đọc thử; Claude kiểm và sửa (xem pn3-10-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/26c38350-ca51-46a1-8315-f07f5af4b4ff"

@@ -15,7 +15,7 @@ forbidden_secrets: [secret.TDTB.ky-uc-tuong-lai-tdtb, secret.TDTB.ky-uc-hoa-bach
 target_words: 900
 status: final
 aliases: ["the lam lai ch16 canh 02", "ch16 lam lai mao-jin"]
-related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---

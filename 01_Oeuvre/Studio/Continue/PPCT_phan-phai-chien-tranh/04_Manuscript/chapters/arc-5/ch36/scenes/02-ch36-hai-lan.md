@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 17
 status: planned
 aliases: ["canh 36-02 hai lan", "ai chan Kiritsugu hai lan", "luat doi tin", "两次 蜻蜓 苍蝇"]
-related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[lancer-chet-trong-quyet-dau]]", "[[hook-to-caster-khac-che-to-saber]]", "[[q-ke-hoach-that-bai-cua-dazai]]", "[[q-loi-giai-bi-an-trung-tam]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[dazai-chan-phat-ban-cua-kiritsugu]]", "[[hook-to-caster-khac-che-to-saber]]", "[[q-ke-hoach-that-bai-cua-dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-25
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-25
 # Cảnh 02 — 两次 · POV Tsuna · ~700 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh: như cảnh 01.
-> 🔴 Khi Kiritsugu hỏi **vì sao** chặn anh ta, Dazai **không** được giải thích mưu (ngày 2, ch6 「只要Lancer的御主不死…」) hay mục đích của tổ Caster — ❌ [[q-ke-hoach-that-bai-cua-dazai]] · ❌ [[q-loi-giai-bi-an-trung-tam]] · ❌ [[q-loi-moi-hien-the]].
+> 🔴 Khi Kiritsugu hỏi **vì sao** chặn anh ta, Dazai **không** được giải thích mưu (ngày 2, ch6 「只要Lancer的御主不死…」) hay mục đích của tổ Caster — ❌ [[q-ke-hoach-that-bai-cua-dazai]] · ❌ q-loi-giai-bi-an-trung-tam · ❌ q-loi-moi-hien-the.
 > 🔴 Dị năng Dazai **không** lên trang. Không ai chạm vào ai.
 
 ## Ngân sách
@@ -61,7 +61,7 @@ Kiritsugu tới để hỏi một câu. Dazai trả lời nó **trước khi b�
 ## Dữ kiện — nguồn
 
 - **ch5:** chuồn chuồn máy chắn ống ngắm rồi nổ, hỏng khẩu súng — [[dazai-chan-phat-ban-cua-kiritsugu]]. ch35: 「仓库街那天晚上，他在瞄准镜里最后看见的，就是这样一点红光。」
-- **ch27:** con bọ tự nổ khi Kiritsugu ép Sola-Ui — 「那次是蜻蜓，这次是苍蝇」 — [[lancer-chet-trong-quyet-dau]].
+- **ch27:** con bọ tự nổ khi Kiritsugu ép Sola-Ui — 「那次是蜻蜓，这次是苍蝇」 — lancer-chet-trong-quyet-dau.
 - **ch34:** 「他在找我们，是因为他想知道一个答案：两次拦住他的到底是谁。一个想要答案的人，要的是还能开口的人，不是尸体。」
 - **ch4:** Dazai đọc vị Kiritsugu qua video — **nắm hết trong tay, tin chỉ mình làm được**. Giọng Dazai với anh ta có thể mang chút biết-trước; **không** giảng lại bài đọc vị.
 

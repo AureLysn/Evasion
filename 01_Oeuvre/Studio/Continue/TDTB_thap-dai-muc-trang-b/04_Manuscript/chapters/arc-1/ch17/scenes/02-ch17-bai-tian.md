@@ -24,16 +24,16 @@ status: superseded
 superseded_by: "[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]"
 superseded_at: 2026-10-03
 aliases: ["canh 17-02 bai tian", "白天 ch17 TDTB", "Tsuna lam nhat ngay S2", "Tsuna va tro ly thu am", "chai nuoc lay thua TDTB", "ly do tren trang lan hai TDTB", "hoat dong ngay S2 TDTB"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[yuuko-tdtb]]", "[[pho-dao-dien-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[biet-thu-tam-dong-tdtb]]", "[[q-yamamoto-di-dau-ngay-s2-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[sawada-tsunayoshi-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[yuuko-tdtb]]", "[[pho-dao-dien-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]", "[[the-le-show-lam-long-nguoi-dong-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[h-mot-tap-roi-xuong-xe-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[h-dien-dan-cong-kich-tsuna-tdtb]]", "[[biet-thu-tam-dong-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 02 — 白天 · POV Tsuna · ~1.000 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
-> Nửa beat 2 (phía Tsuna) và beat 3 của [[dan-y-ch16-ch19-tdtb]]. Đây là **lý do trên trang, lần hai** ([[qd-tsuna-xung-dang-duoc-yeu-tdtb]]):
+> Nửa beat 2 (phía Tsuna) và beat 3 của dan-y-ch16-ch19-tdtb. Đây là **lý do trên trang, lần hai** ([[qd-tsuna-xung-dang-duoc-yeu-tdtb]]):
 > lần một (ch16) cậu giữ thể diện cho Yamamoto; lần này cho **một người không ai để ý tới, và không bỏ phiếu được**.
 > Viết như việc vặt. Tsuna **không** nghĩ đó là việc tốt, và tới cuối cảnh còn không nhận ra người ta đang nói về nó.
 > 🔴 Tông 咸鱼, hài. Không bi kịch hoá ai: trợ lý không bị mắng té tát, không có chuyện đời thương tâm; Tsuna không tủi thân vì bị chửi.
@@ -160,8 +160,8 @@ Cộng: 🔴 không một chi tiết mùa ([[qd-tranh-chi-tiet-mua-tdtb]]) · �
 - Cái chai nước là lý do trên trang lần hai; lần ba ở ch19 (đối xử với Gokudera như **một người**). Cùng một sợi: Tsuna coi người trước mặt
   là người, không phải phông nền, không phải ngôi sao.
 - Tuyết đang tiêu dần tài nguyên vào Tsuna (điểm vào hồ sơ rỗng ở cảnh 01, thù hằn vào một người vốn đã muốn bị loại): mầm của cơ chế
-  tự diệt vong ([[dan-y-ch16-ch19-tdtb]], mục "Vì sao" của ch17). Không nói ra.
-- Yamamoto đi đâu: **chưa chốt**, không ai trên trang biết; theo dõi ở [[q-yamamoto-di-dau-ngay-s2-tdtb]] (D11 ✅). Đừng gợi rằng anh đem chai nước đi xét nghiệm.
+  tự diệt vong (dan-y-ch16-ch19-tdtb, mục "Vì sao" của ch17). Không nói ra.
+- Yamamoto đi đâu: **chưa chốt**, không ai trên trang biết; theo dõi ở q-yamamoto-di-dau-ngay-s2-tdtb (D11 ✅). Đừng gợi rằng anh đem chai nước đi xét nghiệm.
 
 ## Writer nhận gì
 

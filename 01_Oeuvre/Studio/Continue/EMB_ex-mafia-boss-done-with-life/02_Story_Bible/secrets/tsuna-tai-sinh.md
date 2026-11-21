@@ -16,18 +16,18 @@ reveal_planned:
   chapter: 
 leak_terms: ["Vongola Decimo", "reincarnation", "past life", "previous life", "reincarnated"]
 aliases: ["Tsuna tai sinh", "reincarnation", "Vongola Decimo kiep truoc", "past life", "bi mat lon nhat", "ong gia trong xac tre con"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-567-ke-hoach]]", "[[fact-toan-canh-tuong-lai]]", "[[tsuna-tai-sinh-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-567-ke-hoach]]", "[[fact-toan-canh-tuong-lai]]"]
 authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [secret]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Tsuna là Vongola Decimo tái sinh từ một dòng thời gian khác
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Sự thật
 

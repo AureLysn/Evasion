@@ -10,7 +10,7 @@ chapter: "pn4-01"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn4-01 ban DeepSeek", "thẻ cảnh bạn của vua", "pn4-01 ds PPCT"]
-related: ["[[pn-arc-4-ds-plan]]", "[[khung-phien-ngoai-deepseek]]", "[[pn3-11-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]", "[[archer-o-lai-net-hien-vuong]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Enkidu]]", "[[Gilgamesh-Archer]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-4-ds-plan mục pn4-01 (Aurel duyệt; C1, C2, C8 để DeepSeek/GPT), khung V17–V20; note Database Enkidu (tạo 18/11/2026), Gilgamesh-Archer; quyết định archer-o-lai-net-hien-vuong (Archer của nhánh là khách thi thoảng)."
@@ -27,7 +27,7 @@ Cốt truyện = [[pn-arc-4-ds-plan]] mục pn4-01. POV **Tsuna**. Mode B. **Th�
 
 **Canon dùng** ([[Enkidu]]): *Fate/strange Fake*, thành phố **Snowfield** (Mỹ); Enkidu là **Fake Lancer**, vốn được **một con sói bạc lai** bị thương triệu hồi (bản năng sống thành nghi thức); dáng người mười sáu tuổi, **tóc dài xanh lục nhạt**, **áo chùng trơn**, tay không; **không nam không nữ** (không dùng 他/她 — gọi 恩奇都); điềm tĩnh, lễ độ, yêu thiên nhiên, nghe "bài ca của dòng sông"; ánh mắt "cự tuyệt" với kẻ xúc phạm chủ. Gilgamesh của thế giới ấy (giáp vàng, bước ra từ một hang có kết giới) — **là người khác** với Archer của nhánh; không nêu tên Master của hắn.
 
-**Dữ kiện nhánh:** quán 「晴れの日」 Yokohama; Archer (Gilgamesh) của nhánh là **khách thi thoảng**, chê cà phê, đòi rượu, "trông chừng đồ của vua" ([[archer-o-lai-net-hien-vuong]]); 阿纲 muốn sau này mở quán; Tsuna dùng lửa tím; Byakuran mơ thấy thế giới khác.
+**Dữ kiện nhánh:** quán 「晴れの日」 Yokohama; Archer (Gilgamesh) của nhánh là **khách thi thoảng**, chê cà phê, đòi rượu, "trông chừng đồ của vua" (archer-o-lai-net-hien-vuong); 阿纲 muốn sau này mở quán; Tsuna dùng lửa tím; Byakuran mơ thấy thế giới khác.
 
 | Khối | Nội dung | Chữ Hán |
 |---|---|---|

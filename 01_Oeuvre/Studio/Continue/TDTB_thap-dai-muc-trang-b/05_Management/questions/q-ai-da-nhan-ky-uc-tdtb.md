@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-ky-uc-verde-gui-rong-tdtb]]"
 resolved_at: 2026-09-26
 needed_before:
-  arc: "outline arc 1"
+  arc:
   chapter: "truoc canh dau cua 69 hoac 18"
 decision_owner: "user"
 aliases: ["ai da nhan ky uc", "ai đã nhận ký ức", "Mukuro có ký ức không", "Hibari có ký ức không", "Reborn có ký ức không"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-26
+last_updated: 2026-11-21
 ---
 
 # Ngoài Gokudera và Yamamoto, ai đã nhận ký ức tương lai?
@@ -36,7 +36,7 @@ Verde gửi cho *"đi qua đồng bạn"* (số nhiều, không liệt kê). ch9
 
 ## Cần chốt trước
 
-Arc: outline arc 1 · Chương: truoc canh dau cua 69 hoac 18
+Cần trước: truoc canh dau cua 69 hoac 18
 
 ## Ai quyết
 

@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["truc chinh", "truyen ke ve cai gi", "doc gia muon doc gi", "uu tien doc", "cai lam nen truyen", "khong phai 568 ke hoach", "spine", "vi sao fandom yeu Tsuna"]
-related: ["[[nguoi-lon-co-trach-nhiem]]", "[[gia-thuyet-aurel]]", "[[gia-thuyet-aurel-2]]", "[[trope-fandom]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[y-chinh-cac-arc]]", "[[hai-su-kien-p2]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
+related: ["[[nguoi-lon-co-trach-nhiem]]", "[[gia-thuyet-aurel]]", "[[gia-thuyet-aurel-2]]", "[[trope-fandom]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[hai-su-kien-p2]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16"
@@ -18,12 +18,12 @@ always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [thesis, load-bearing, spine]
-last_updated: 2026-08-16
+last_updated: 2026-11-20
 ---
 
 # Trục chính — **truyện này kể về việc một người được nhìn thấy**
 
-> 🔴 Note này **hạ bệ** một thứ mình vừa dựng. Ở đợt 8e mình đề nghị lấy **thanh 568 kế hoạch** làm sợi nối các vignette. Aurel bác:
+> 🔴 Note này **hạ bệ** một thứ mình vừa dựng. AI từng đề nghị lấy **thanh 568 kế hoạch** làm sợi nối các vignette. Aurel bác:
 >
 > *"Mình không muốn lấy 500 kế hoạch làm nền… cái quan trọng ở đây **không phải là kế hoạch**, cũng không phải là **bí mật tái sinh** của Tsuna."*
 
@@ -77,7 +77,7 @@ Trong năm chương, **POV không-phải-Tsuna chiếm phần lớn ở bốn ch
 
 Và đó cũng chính là luận đề ở [[gia-thuyet-aurel]] dựng thành kết cấu: **cả thị trấn nhìn thấy cậu, còn cậu thì không.**
 
-## 🔴 Bổ sung đợt 8h — **mặt kia của trục: bị biến thành chức năng**
+## 🔴 Bổ sung — **mặt kia của trục: bị biến thành chức năng**
 
 Nạp nốt tài liệu của Aurel thì lộ ra một câu lặp bốn lần, về bốn nhóm người khác nhau — [[gia-thuyet-aurel-2]]:
 
@@ -106,7 +106,7 @@ Nhìn lại những gì tác giả xây, chúng đều là **luật về cách n
 | **Hệ danh xưng ba tầng** — [[rule-danh-xung-flame]] | mỗi lần gọi tên là **một tuyên bố về khoảng cách** |
 | **Tenmei · Amatsumi · Seiran** là *danh hiệu*, không phải tên | dùng danh hiệu = **đổi tính chất cuộc trò chuyện** |
 | **Nghi lễ courtship** trước khi harmonise | bond **không được ép**. Phải có người **chọn** |
-| **Reborn nhìn thẳng vào mắt Tsuna** ở lần gặp đầu — tác giả đùa: *"Namimori: How dare-?!"* | ⚠️ Arc 6 đã có sẵn xung đột: **người duy nhất đối xử với cậu như một người thường** |
+| **Reborn nhìn thẳng vào mắt Tsuna** ở lần gặp đầu — tác giả đùa: *"Namimori: How dare-?!"* | ⚠️ Đoạn kết đã có sẵn xung đột: **người duy nhất đối xử với cậu như một người thường** |
 
 → **Viết world building tức là viết cái này.** Không phải liệt kê phong tục — mà là cho thấy **mỗi phong tục quy định một cách nhìn**, và Tsuna đứng giữa tất cả mà vẫn tin mình không quan trọng.
 

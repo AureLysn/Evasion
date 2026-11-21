@@ -20,7 +20,7 @@ authority: original_author
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Gokudera ↔ Angelie tạp
@@ -28,8 +28,6 @@ last_updated: 2026-10-03
 ## Bản chất quan hệ
 
 Quản lý chiều nghệ sĩ nhưng coi anh ta là *"cây rụng tiền"* (ch9). Gokudera lờ lịch trình, bỏ họp báo, cúp máy (ch13).
-
-*[[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]]:* Gokudera tắt tiếng cuộc gọi thứ tư trong ngày của quản lý, không nghe; nhớ lại ở Ý từng ngờ cô *"在故意拖延时间"* (ch13).
 
 ## Cách xưng hô
 

@@ -42,7 +42,7 @@ Câu của Herta là trích từ game **qua báo**; phần diễn giải quanh n
 
 > ⊕ **03/10/2026 — Aurel đọc:** *"fuli chưa sinh nhưng đã tồn tại"*. Aurel nhớ *(tự rào: "nếu mình nhớ đúng")* rằng ở Amphoreus,
 > **Cyrene** — cùng March 7th mang một danh xưng 「đồng tử…」 — là **ứng viên mạnh nhất đăng thần thành Fuli**, 「Fuli của Amphoreus」;
-> giống Sunday suýt thành Aeon Trật tự mới ở Penacony. Nguyên văn: `Studio/Continue/CLS_crossover-va-lenh-su/01_Project-canon/sources/20261003-fuli-chua-sinh-va-menh-do-tu-tinh-cach.md`.
+> giống Sunday suýt thành Aeon Trật tự mới ở Penacony. Nguyên văn: `Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/20261003-fuli-chua-sinh-va-menh-do-tu-tinh-cach.md`.
 > Khớp hướng với câu Herta qua Beebom và với bài Beebom 06/11/2025 *(gọi March 7th và Cyrene bằng một danh xưng chung)*. **Trí nhớ của
 > Aurel, chưa đối chiếu văn bản game** — đủ để định hướng, chưa đủ để trích như canon.
 

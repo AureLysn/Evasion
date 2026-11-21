@@ -15,14 +15,14 @@ payoff:
   arc:
   chapter:
 aliases: ["Iemitsu tra gia", "comeuppance", "Iemitsu bi trung phat", "loi hua chua tra", "Iemitsu phai tra gia"]
-related: ["[[iemitsu]]", "[[nana-iemitsu-cuoi-nhau]]", "[[fact-iemitsu-sky-ngoai]]", "[[ieyasu]]", "[[sawada-ieyasu]]", "[[ao3-comments]]", "[[hook-iemitsu-tra-gia-phan-cu]]"]
+related: ["[[iemitsu]]", "[[nana-iemitsu-cuoi-nhau]]", "[[fact-iemitsu-sky-ngoai]]", "[[ieyasu]]", "[[sawada-ieyasu]]", "[[ao3-comments]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Iemitsu phải trả giá — **lời hứa tường minh duy nhất chưa trả**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Nguyên văn
 

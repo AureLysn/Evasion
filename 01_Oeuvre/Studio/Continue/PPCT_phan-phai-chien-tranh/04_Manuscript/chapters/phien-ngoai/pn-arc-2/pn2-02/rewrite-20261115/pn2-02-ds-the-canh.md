@@ -10,7 +10,7 @@ chapter: "pn2-02"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-02 ban DeepSeek", "thẻ cảnh phiên ngoại Bài toán lời nguyền", "pn2-02 ds PPCT"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-nhap]]", "[[pn2-01-ds-kiem]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Kawahira]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-01-ds-nhap]]", "[[pn2-01-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Arcobaleno-Pacifier]]", "[[Representative-Battle-Aftermath]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Kawahira]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-02 (Aurel duyệt 18/11/2026; C3 câu gạt Dazai như bản cũ) và dữ kiện pn2-01-ds-kiem (hẹn ngày kia, Tsuna chưa nhận lời, Dazai đoán 「未必放心」, 「请假」)."

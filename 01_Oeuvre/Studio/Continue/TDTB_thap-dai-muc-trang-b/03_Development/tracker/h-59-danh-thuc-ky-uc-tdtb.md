@@ -25,7 +25,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # 59 muốn đánh thức ký ức của Tsuna
@@ -50,7 +50,6 @@ Gokudera sẽ cố làm Tsuna **nhớ lại** một quá khứ. Tức là theo l
 | ch9 | Gokudera che mắt, *"Ta, vì sao lại ở đây"* |
 | ch13 | Gokudera sang Nhật tìm *"mười đời mắt"*, mua quà. Thấy Tsuna trên livestream |
 | — | **Chưa gặp Tsuna. Chưa có hành động "đánh thức" nào.** |
-| [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]] | Gokudera tìm Tsuna ở 并盛 nhiều ngày (nhà bỏ hoang, 町役场, trường); **chưa gặp**. Ký ức giữ mức ch13 |
 
 ## ✅ Văn án và văn bản đã ráp — Aurel chốt 26/09
 

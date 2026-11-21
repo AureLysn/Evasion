@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.200"
 aliases: ["plan ch30 PPCT", "dan y chuong 30 PPCT", "寻找 ch30", "Kiritsugu di tim ben thu ba", "ngay 10 to Caster PPCT"]
-related: ["[[arc-4-ba-dao-lenh-chu]]", "[[hook-to-caster-khac-che-to-saber]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kirei-van-la-master]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-to-caster-khac-che-to-saber]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kirei-van-la-master]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 22/09/2026 — chuong 2 arc 4; AI de xuat C1–C6, CHO Aurel duyet"
@@ -25,7 +25,7 @@ last_updated: 2026-09-23
 
 # Kế hoạch chương 30 — 寻找 (Tìm) · ✅ AUREL DUYỆT 23/09/2026
 
-> Chương 2 arc 4. Khung arc: *Ngày 10: tổ Caster đọc thế cục — Kiritsugu đi tìm; Dazai để ý nhà thờ 🟡* ([[arc-4-ba-dao-lenh-chu]]).
+> Chương 2 arc 4. Khung arc: *Ngày 10: tổ Caster đọc thế cục — Kiritsugu đi tìm; Dazai để ý nhà thờ 🟡* (arc-4-ba-dao-lenh-chu).
 > Aurel duyệt **cả C1–C6 theo đề xuất** (23/09/2026). Thẻ cảnh 01–03 đã viết.
 
 ## Mục tiêu chương
@@ -43,7 +43,7 @@ Tổ Caster **bị tìm** lần đầu trong chiến tranh — và biết mình 
 ## Hook phải chạm
 
 - [[hook-to-caster-khac-che-to-saber]]: **đẩy** — Kiritsugu đi tìm, tổ Caster lần đầu ở thế **bị săn**. `status` giữ `partially_paid`.
-- [[dazai-nghi-master-assassin-cung-phe-archer]]: nhắc nhẹ nếu C3 chọn nói về nhà thờ; **không** nâng mức nghi (decision ch28).
+- dazai-nghi-master-assassin-cung-phe-archer: nhắc nhẹ nếu C3 chọn nói về nhà thờ; **không** nâng mức nghi (decision ch28).
 - [[hook-can-dazai-de-thang-archer]] · [[hook-archer-tuyen-chien-rider]] · [[hook-bo-sung-ma-luc]] · [[hook-dazai-mo-tiep-kiep-truoc]]: **không chạm** (để ch31–33).
 
 ## Bí mật CẤM lộ / chi tiết CẤM viết

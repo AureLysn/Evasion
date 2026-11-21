@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 21-03 lenh chu doi tay", "Sola-Ui thanh Master", "song chieu kiep truoc cua Lancer"]
-related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Diarmuid-Ua-Duibhne]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Diarmuid-Ua-Duibhne]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---

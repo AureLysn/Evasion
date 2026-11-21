@@ -10,7 +10,7 @@ chapter: 37
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch37 ban DeepSeek", "thẻ cảnh ch37 bản song song", "ch37 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan|plan ch37]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Command-Spells]]", "[[ch33-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan|plan ch37]]", "[[hard-rules]]", "[[ai-tells]]", "[[Command-Spells]]", "[[ch33-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch37-plan + 4 thẻ scenes/ (Aurel duyệt C1–C11 25/09/2026). Không dùng văn bản ch37-chapter final."

@@ -10,7 +10,7 @@ chapter: 23
 canon_layer: user_canon
 status: active
 aliases: ["review ch23 PPCT", "soat ch23", "check-continuity ch23", "check-style ch23"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-chapter]]", "[[04_Manuscript/chapters/arc-2/ch23/ch23-plan]]", "[[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]]", "[[Ryuunosuke-Uryuu]]", "[[khu-nha-ryunosuke]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-chapter]]", "[[04_Manuscript/chapters/arc-2/ch23/ch23-plan]]", "[[Ryuunosuke-Uryuu]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 21/09/2026, tren ban nhap ch23 (4.001 chu Han)"
@@ -56,7 +56,7 @@ last_updated: 2026-09-21
 
 **Hệ quả:** cô bé phải bị bắt **sau khi mưa bắt đầu**, tức trong lúc hai người đi bộ qua hai con phố. Như vậy từ lúc bị bắt tới lúc Dazai gọi điện có lẽ chưa tới một giờ, mà Dazai lại nói với cảnh sát như thể họ **đang** tìm cô bé.
 
-**Note liên quan:** [[to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac]] — 「trực giác chỉ phải chọn giữa vài cánh cửa, nên không thành *deus ex machina*」. Trực giác thì không có vấn đề. Vấn đề là **thời điểm quá khớp**: tổ Caster tới đúng trong khoảng một giờ ngay sau khi hắn ra tay. Đây là kiểu trùng hợp người đọc dễ nhận ra.
+**Note liên quan:** to-caster-truy-hung-thu-bang-suy-luan-va-truc-giac — 「trực giác chỉ phải chọn giữa vài cánh cửa, nên không thành *deus ex machina*」. Trực giác thì không có vấn đề. Vấn đề là **thời điểm quá khớp**: tổ Caster tới đúng trong khoảng một giờ ngay sau khi hắn ra tay. Đây là kiểu trùng hợp người đọc dễ nhận ra.
 
 Không mâu thuẫn với note nào. Đây là lỗi logic nội bộ của chương.
 
@@ -87,9 +87,9 @@ Hai vụ nằm "phía núi", mà vùng ở giữa cũng "dưới chân núi". Đ
 
 **Chương, dòng 75 và 213:** 「深山町」
 
-**Note:** [[khu-nha-ryunosuke]] — 「tên khu phố: chưa chốt. Writer chọn … và báo lại」. `Database/Fandom/Fate/` không có note địa danh Fuyuki.
+**Note:** khu-nha-ryunosuke — 「tên khu phố: chưa chốt. Writer chọn … và báo lại」. `Database/Fandom/Fate/` không có note địa danh Fuyuki.
 
-Miyama-chō là khu phố cũ của Fuyuki trong canon Fate. Mình ghi theo trí nhớ canon, nhãn `assumed`, chưa đối chiếu nguồn. Không phải mâu thuẫn. Tới `finalize-chapter` thì ghi tên này vào [[khu-nha-ryunosuke]]. Nếu muốn chắc, chạy `crosscheck-canon` cho địa danh Fuyuki.
+Miyama-chō là khu phố cũ của Fuyuki trong canon Fate. Mình ghi theo trí nhớ canon, nhãn `assumed`, chưa đối chiếu nguồn. Không phải mâu thuẫn. Tới `finalize-chapter` thì ghi tên này vào khu-nha-ryunosuke. Nếu muốn chắc, chạy `crosscheck-canon` cho địa danh Fuyuki.
 
 ---
 
@@ -151,7 +151,7 @@ Miyama-chō là khu phố cũ của Fuyuki trong canon Fate. Mình ghi theo trí
 ## Còn treo sang `finalize-chapter`
 
 - đã làm ở Mode 3, xem mục dưới.
-- `finalize-chapter`: ghi 「深山町」 vào [[khu-nha-ryunosuke]]. Cập nhật `hook-dazai-mo-tiep-kiep-truoc` (đẩy nhẹ ở ch23, giữ `partially_paid`), dòng ch23 trong bảng arc 2, và timeline chiều–tối ngày 6.
+- `finalize-chapter`: ghi 「深山町」 vào khu-nha-ryunosuke. Cập nhật `hook-dazai-mo-tiep-kiep-truoc` (đẩy nhẹ ở ch23, giữ `partially_paid`), dòng ch23 trong bảng arc 2, và timeline chiều–tối ngày 6.
 
 ---
 
@@ -167,7 +167,7 @@ Aurel gọi Mode 3 không chỉ định từng mục, nên mình làm theo đún
 | #3 | 「那台……电视」 → 「那块连着别人家客厅的屏幕」 | cảnh 5 |
 | S1 | Gộp hai đoạn lời kể ngắn vào đoạn liền kề. Thêm một lượt thoại ở cảnh 2 (「我的腿已经不是我的了」/「是你自己要开车来的」). Cắt ba câu tả | cảnh 2, 4, 5 |
 | S3 | Dòng 165 rút còn hai vế: 「没有生气，也没有嘲笑」 | cảnh 3 |
-| #4 | Không sửa chương — để `finalize-chapter` ghi vào [[khu-nha-ryunosuke]] | — |
+| #4 | Không sửa chương — để `finalize-chapter` ghi vào khu-nha-ryunosuke | — |
 
 ⚠️ Chỗ lệch so với review: #1 (a) trong review đề xuất **dời giờ mưa lên sớm hơn**. Mình chọn cách kéo dài thời gian đi bộ, vì cách đó giữ được mốc "bị bắt chiều hôm đó" của thẻ cảnh 03 và câu 「新闻难得说准一次」. Aurel muốn dùng đúng cách dời giờ mưa thì báo lại.
 

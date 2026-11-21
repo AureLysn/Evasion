@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 29-02 trao doi", "交换 ch29", "Kirei lay ba dao lenh chu", "Sola-Ui mac ca duong ve", "ngon tay trong suot"]
-related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[Command-Spells]]", "[[20260922-canon-chuyen-lenh-chu]]", "[[lenh-chu-con-sau-khi-servant-chet]]", "[[kirei]]", "[[Kirei-Kotomine]]", "[[kirei-van-la-master]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[Command-Spells]]", "[[kirei]]", "[[Kirei-Kotomine]]", "[[kirei-van-la-master]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-22
 # Cảnh 02 — 交换 · POV Sola-Ui · ~1.000 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
-> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — [[lenh-chu-con-sau-khi-servant-chet]]: **không** nhân vật nào giải thích hay nhắc luật.
+> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — lenh-chu-con-sau-khi-servant-chet: **không** nhân vật nào giải thích hay nhắc luật.
 
 ## Ngân sách
 

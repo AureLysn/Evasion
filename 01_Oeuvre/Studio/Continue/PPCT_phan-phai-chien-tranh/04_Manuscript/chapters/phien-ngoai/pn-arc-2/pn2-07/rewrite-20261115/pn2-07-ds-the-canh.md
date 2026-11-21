@@ -10,7 +10,7 @@ chapter: "pn2-07"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-07 ban DeepSeek", "thẻ cảnh tu la tràng song song", "pn2-07 ds PPCT", "修罗场 pn2-07"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-06-ds-nhap]]", "[[pn2-06-ds-kiem]]", "[[pn2-05-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]", "[[Dazai-Osamu]]", "[[Lal-Mirch]]", "[[Luce]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-06-ds-nhap]]", "[[pn2-06-ds-kiem]]", "[[pn2-05-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]", "[[Dazai-Osamu]]", "[[Lal-Mirch]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-07 (Aurel duyệt 18/11/2026; C10 Yosano có mặt; C11 câu kết 「每次都让我来晚。」; C7 không Moby Dick, Dazai đang ẩn mình), dữ kiện pn2-06-ds-kiem; note Database Akiko-Yosano (tạo 18/11/2026)."

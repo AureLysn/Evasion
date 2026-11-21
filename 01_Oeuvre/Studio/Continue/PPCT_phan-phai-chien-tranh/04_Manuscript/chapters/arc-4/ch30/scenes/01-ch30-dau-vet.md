@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 30-01 dau vet", "痕迹 ch30", "Maiya mang manh bo ve", "Kiritsugu di tim ben thu ba", "sang ngay 10"]
-related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[lancer-chet-trong-quyet-dau]]", "[[maiya]]", "[[kiritsugu]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[hook-to-caster-khac-che-to-saber]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[maiya]]", "[[kiritsugu]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-23
 ---

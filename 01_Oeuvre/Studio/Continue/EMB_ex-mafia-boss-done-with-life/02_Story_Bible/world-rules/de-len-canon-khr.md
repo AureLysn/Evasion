@@ -16,12 +16,12 @@ confidence: 0.9
 always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # EMB chạm vào luật KHR ở đâu
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > **Vì sao note này tồn tại.** Tới 02/09/2026, **chín** note trong `Database/Fandom/KHR/` chứa nội
 > dung **chỉ đúng với EMB** (dưới tên cũ `KOHAKU`) — tuyến chính của fic, log project, việc cần
@@ -120,7 +120,7 @@ fact nào lật ngược được nó.
 Aurel đánh dấu **bản Revised** là **quan trọng với EMB**.
 
 > 🔍 **Ghi chú cần Aurel xác nhận, chưa gán làm fact.** Log EMB có chi tiết Tsuna bị ghi là
-> **"âm tính"** trên giấy tờ như một cover story, và cover story đó **tự chặn cậu ở Ch7**.
+> **"âm tính"** trên giấy tờ như một cover story, và cover story đó **về sau tự chặn cậu**.
 > First Edition có cơ chế **"năng lượng chuyển thành âm"**. Có thể là trùng hợp, có thể là cố ý.
 > Nếu là cố ý thì đây là **một hook rất chặt** và nên ghi thành `hook` note.
 > **Mình không tự kết luận.**

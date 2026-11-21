@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Gokudera Hayato (TDTB)
@@ -47,13 +47,6 @@ Nghệ sĩ dương cầm nổi tiếng ở Ý. Là mục tiêu "nam thần" đ�
 - ch13: nhờ Angelie tạp tra *"trạch điền cương Cát"*, mấy ngày không có kết quả, tự bay sang Nhật, bỏ họp báo.
 - ch13: mua quà *"cho mười đời mắt cùng nại nại mụ mụ"*: một bộ dưỡng da đắt tiền và một chiếc đồng hồ. *"tay không đi bái phỏng mười đời mắt là không thể tha thứ"*.
 - ch13: thấy Yamamoto trên TV, mở livestream, tắt bình luận, rồi hét: *"Mười đời mắt a a a a a!!!!!!"*
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết tiếp, 03/10)*: tối S2, 并盛, đứng trước một ngôi nhà có biển tên *沢田*, tay xách túi quà của cửa hàng ở 成田; nhà không
-  đèn; định bấm chuông rồi thôi (*"十代目今天还在录节目"*); lùi vào bóng cột điện, chờ: *"十代目总会回家的。"* Nhà thật ra bỏ hoang
-  4–5 năm ([[qd-nha-bo-hoang-4-5-nam-tdtb]]) — anh **chưa** biết.
-- [[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18]]: rình cả đêm, tập chào; sáng ra thấy nhà bỏ hoang (*"灰上干干净净的，一个脚印都没有。"*). Vài ngày sau: hàng xóm, cửa hàng,
-  công viên chỉ biết nhà lâu rồi không ai ở; 町役场 từ chối cho xem đăng ký cư trú (*"只有本人或者家属"*); trường sơ trung 并盛 không cho vào.
-  Tắt tiếng cuộc gọi của quản lý. Nhớ mấy ngày ở Ý sốt ruột chờ tra tên; tự nhủ *"十代目是真的……只是还没有找到而已。"* Vẫn tìm tiếp.
-  Quà: *"护肤品是给奈奈妈妈的，手表是给十代目的。"* (Aurel giữ, 03/10).
 
 ## Giọng và cách nói
 

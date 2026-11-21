@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["tuyen Xanxus", "pha bang cho Xanxus", "hoa hop hai chieu", "Tsuna la May cua Xanxus", "Cloud thu cap", "Fon la Bao", "Cradle", "Zero Point Breakthrough"]
-related: ["[[y-chinh-cac-arc]]", "[[truc-chinh]]", "[[gia-thuyet-aurel-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[khung-oc]]", "[[tuyen-xanxus-phan-cu]]"]
+related: [ "[[truc-chinh]]", "[[gia-thuyet-aurel-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[khung-oc]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16"
@@ -18,7 +18,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [arc, plan, proposal]
-last_updated: 2026-09-19
+last_updated: 2026-11-20
 ---
 
 # Tuyến Xanxus — **hai Bầu trời hoà hợp lẫn nhau**
@@ -65,9 +65,19 @@ Lý lẽ của Aurel:
 |---|---|
 | **[[indra]]** | *"raised alongside Fon before marrying Hibari Keita"* — ghi chú tác giả P1 Ch3 |
 | **Hội Tam Hoàng** | Aurel đưa vào danh sách OC. Fon là cửa vào giới đó |
-| **Arcobaleno** | Kawahira nói **không ai trong huyết thống Kimiko được xét** — nên Fon vẫn mang Pacifier, và **sẽ được Tsuna giải phóng ở Arc 5** |
+| **Arcobaleno** | Kawahira nói **không ai trong huyết thống Kimiko được xét** — nên Fon vẫn mang Pacifier, và **sẽ được Tsuna giải phóng ở giai đoạn Teen** |
 
 🔴 Ba đường độc lập cùng dẫn tới một người. Đó là dấu hiệu tốt.
+
+## Xanxus gặp một Mây, không gặp một Sky *(Aurel, 19/09/2026)*
+
+> Chép lại 20/11/2026 từ decision `emb-chot-tuyen-varia`. Decision đó đã xóa khi EMB reset về sau trích xuất. Phần gắn sự kiện là của dàn ý cũ, nên không giữ.
+
+Cơ chế: **Bầu trời quá thu hút sự chú ý**, nên Tsuna dùng **Mây thứ cấp** khi trốn mọi người để làm kế hoạch một mình. Vì vậy Xanxus gặp **một Mây**, không gặp một Sky.
+
+> Đôi khi mọi người quản chặt quá nên cậu **trốn nhà đi chơi** — và *"cũng là một kiểu biểu hiện học làm đứa trẻ… cậu ấy biết sẽ khiến mọi người lo lắng nhưng cậu không lo họ sẽ buồn và bỏ đi. **Được yêu thương thì không sợ hãi mà.**"*
+
+Cùng một hành động, trốn đi một mình, vừa là động cơ của tuyến Xanxus, vừa là mục 3 của thang đo *(bốc đồng, và không sợ bị bỏ)* ở [[emb-chot-xuong-song-brat]].
 
 ## Cảnh phá băng — hai cách vào
 
@@ -90,15 +100,15 @@ Lý lẽ của Aurel:
 
 ### 1. ✅ Thời điểm Cradle — **Aurel đã chốt: lùi 3–4 năm**
 
-Mình từng nêu vấn đề: theo canon, Cradle xảy ra khi Tsuna **khoảng 6 tuổi** — tức ngay ở điểm dừng, quá sớm cho Arc 5.
+Mình từng nêu vấn đề: theo canon, Cradle xảy ra khi Tsuna **khoảng 6 tuổi** — tức ngay ở điểm dừng, quá sớm cho tuyến này.
 
 Aurel gỡ bằng nguyên tắc: **thế giới này đã lệch rồi**, vì bà của Tsuna còn sống. Fic gốc nói thẳng — *"Somehow Sawada Musashi's survival had **diverted the flow of this world** from what he knew."* Nên mốc canon **không ràng buộc**.
 
 | | Canon | Nhánh này |
 |---|---|---|
-| Cradle khi Tsuna | ~6 | **~9–10** — Arc 3 |
+| Cradle khi Tsuna | ~6 | **~9–10** — giai đoạn Child |
 | Xanxus nằm băng | 8 năm | **4–6 năm** |
-| Phá băng khi Tsuna | — | **13–15** — Arc 5 |
+| Phá băng khi Tsuna | — | **13–15** — giai đoạn Teen |
 
 Chi tiết: [[tuoi-va-moc]].
 

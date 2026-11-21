@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["đạo diễn", "tổng đạo diễn", "Tổng đạo diễn", "dao dien", "tong dao dien", "tảng đá đầu", "tang da dau", "đạo diễn Làm lòng người động", "导演 (van an)"]
-related: ["[[pho-dao-dien-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]", "[[tsuna-nhan-loi-show-tdtb]]", "[[h-dao-dien-nhan-qua-nhieu-tdtb]]", "[[phan-biet-cung-ten-tdtb]]", "[[dao-dien-tdtb-phan-cu]]"]
+related: ["[[pho-dao-dien-tdtb]]", "[[to-chuong-trinh-lam-long-nguoi-dong-tdtb]]", "[[tsuna-nhan-loi-show-tdtb]]", "[[h-dao-dien-nhan-qua-nhieu-tdtb]]", "[[phan-biet-cung-ten-tdtb]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC novelid 5231858, ban convert tieng Viet — ch3, ch4, ch9, ch14, ch15; van an JJWXC"
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.85
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-03
+last_updated: 2026-11-21
 ---
 
 # Đạo diễn (tổng đạo diễn) của 《Làm lòng người động ngươi》
@@ -33,11 +33,7 @@ Người lập ra show và vẫn cầm trịch.
 - ch9: *"《 Làm lòng người Động 》 từ quý đầu tiên bắt đầu chính là đạo diễn một tay hoạch định, quyền nói chuyện rất cao"*. Giữ Tsuna dù tỷ lệ xem 3%: *"Ta có loại dự cảm, trạch điền cương trên thân Cát sẽ xuất hiện ta muốn hí kịch tính chất."*
 - ch14: *"che giấu lương tâm"* gọi Yamamoto là *"bản kỳ đặc biệt quý khách"*.
 - ch15: *"Ánh mắt của ta thực là không tồi a!"*
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết lại 03/10)*: có mặt ở phòng khách cuối tập 1, *"还是那张慈眉善目的脸"*; Tsuna nhớ chính ông mang hợp đồng tới ký túc xá
-  (câu giữ nguyên). Công bố *"本集没有嘉宾下车。"*; lúc tan, tự đi ngang vỗ vai Tsuna: *"沢田君，下一集也拜托啦。"* Không còn cảnh Tsuna
-  đuổi theo hỏi.
 
-✅ Người tới ký túc xá Tsuna ở ch3 **chính là** tổng đạo diễn — xác nhận ở [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] (chương viết tiếp, Aurel đồng ý delta 01/10), từ POV
 Tsuna: *"当初就是这位大叔拿着合同，亲自找到了他在校外租住的宿舍。"* Khớp nguyên văn ch3.34 (*"纲吉在校园外租住的宿舍"*). Trước 01/10 dòng
 này ghi đây là điều rút ra từ ch4 + ch9.
 

@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.diarmuid]
 language: zh
 aliases: ["chuong 21 PPCT", "ban nhap tieng Trung ch21", "令咒易手 ban nhap", "反派战争21 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]", "[[arc-2-moi-va-luoi]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch21/ch21-plan|plan ch21]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-09-20

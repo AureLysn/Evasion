@@ -15,14 +15,14 @@ payoff:
   arc:
   chapter:
 aliases: ["Tsunashige", "Sawada Tsunashige", "em trai Tsuna", "Reborn", "hai vi khach", "two visitors", "Let the games begin", "18 tuoi"]
-related: ["[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[iemitsu]]", "[[nana]]", "[[rule-ten-tokugawa]]", "[[sawada-ieyasu]]", "[[hook-tsunashige-va-reborn-phan-cu]]"]
+related: ["[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[iemitsu]]", "[[nana]]", "[[rule-ten-tokugawa]]", "[[sawada-ieyasu]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Tsunashige và Reborn — **đích đến đã công bố**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Tuyến này là gì
 
@@ -61,4 +61,4 @@ Chưa quyết bây giờ. Để mở tới giai đoạn dựng dàn ý.
 
 Có đích đến thì việc dựng arc **đổi bản chất**: không còn là "chuyện gì xảy ra tiếp", mà là "cần bao nhiêu arc để đi hết 12 năm, và mỗi arc đặt quân cờ nào vào đúng chỗ cho cảnh cuối".
 
-Đó là bài toán ngược, và nó dễ hơn — nhưng chỉ khi biết rằng nó tồn tại. Cả đợt 2 lẫn đợt 3 đều **không biết**.
+Đó là bài toán ngược, và nó dễ hơn — nhưng chỉ khi biết rằng nó tồn tại. Các lượt trích xuất đầu đều **không biết**.

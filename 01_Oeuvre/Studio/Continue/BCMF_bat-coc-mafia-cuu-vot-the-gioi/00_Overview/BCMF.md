@@ -18,7 +18,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Bắt cóc một cái Mafia tới cứu vớt thế giới
@@ -122,6 +122,8 @@ thì phải lấy từ nguồn khi trích xuất, **đừng đoán**.
 - [ ] `questions/` — mỗi câu có `needed_before` *(8 câu, đều `unresolved` — xem `questions/_MOC.md`)*
 - [ ] `decisions/`
 - [ ] `chapters/`
+
+- [x] **Reset về sau trích xuất — 21/11/2026:** đã xóa khung phần Conan, đề xuất khung, bảng arc 1, decision trục Conan *(Tổ chức = người chảy ngược thời gian)* và decision chỗ ở nhà Kudo. Chưa có chương viết tiếp nào. Bước kế: lập khung từ đầu (`plan-continuation`).
 
 ## Chưa biết — ghi ra để khỏi đoán
 

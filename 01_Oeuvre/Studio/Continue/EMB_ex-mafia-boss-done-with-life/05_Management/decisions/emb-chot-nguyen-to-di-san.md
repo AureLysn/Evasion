@@ -10,7 +10,7 @@ decided: 2026-09-20
 decided_by: user
 decided_at: 2026-09-20
 aliases: ["nguyen to di san", "cham vao mot Sky hoa hop", "bi san lung", "vi sao co Ban Ky luat", "Kyouya lap doi quan", "Indra loi Fon vao", "Kawahira toi lien doi", "phan ung cua ba nguyen to"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fon]]", "[[iemitsu]]", "[[hook-iemitsu-tra-gia]]", "[[emb-chot-dac-vu-vongola]]", "[[brat-ch7-the-canh-ban-20261001]]", "[[fact-cham-lua-thu-tuong-thich]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[gia-thuyet-aurel]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[indra]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fon]]", "[[iemitsu]]", "[[hook-iemitsu-tra-gia]]", "[[fact-cham-lua-thu-tuong-thich]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[gia-thuyet-aurel]]"]
 source:
   type: user_input
   ref: "Aurel, 20/09/2026: 'ai do dong vao mot bau troi hoa hop thi nen bi cac nguyen to cua bau troi do san lung' + ba phan ung cu the cho Kyouya, Indra, Kawahira."
@@ -20,7 +20,7 @@ always_load: true
 load_for: [writer, planner, reviewer]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing]
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 ---
 
 # Chốt — **động vào một Sky đã hoà hợp thì bị các nguyên tố của nó săn lùng**
@@ -39,11 +39,11 @@ Aurel, 20/09: *"ai đó động vào một bầu trời hoà hợp thì nên **b
 
 ⚠️ **Đây là cơ chế giữ [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]] `forbid` #2b còn nguyên.** Mục ấy cấm đặt Tsuna vào danh sách người được cứu. Một nguyên tố đi săn **không cứu cậu** — nó làm một việc **với người khác**, và cậu là người phải sống với việc đó.
 
-## 🔴 Và nó là mặt sau của Ch5
+## 🔴 Và nó có hai mặt *(ý từ bản nháp đã xóa)*
 
-[[brat-ch5-chapter-ban-20261001]]: thị trấn hành động **không cần cậu**, và nó **cứu được thị trấn**. Cậu về muộn một ngày và phát hiện mình không cần thiết.
+Một lần thị trấn hành động **không cần cậu** và **cứu được thị trấn**; cậu về muộn một ngày và phát hiện mình không cần thiết.
 
-[[brat-ch7-the-canh-ban-20261001]]: họ lại hành động không cần cậu — và lần này **nó đáng sợ**.
+Lần sau họ lại hành động không cần cậu — và lần này **nó đáng sợ**.
 
 → Cùng một cơ chế, hai mặt. Cậu vẫn không tắt được nó. **Đó là cái giá của việc có người**, và nó là chỗ arc Brat tiếp đất.
 
@@ -65,7 +65,7 @@ Bà làm một việc **xứng với một Hibari và một Rain nghịch đảo
 
 Rain là nguyên tố **làm dịu**. Nghịch đảo của nó thì làm điều ngược lại — nên bị một Yasuragi đảo chiều đi săn thì không có gì dịu ở bất kỳ khâu nào.
 
-[[brat-ch5-chapter-ban-20261001]] đã viết sẵn câu cho bà, khi ấy còn nói về con trai bà:
+*văn xuôi đã xóa* đã viết sẵn câu cho bà, khi ấy còn nói về con trai bà:
 
 > *"Hibari Indra had spent eleven years being the person who arrives forty minutes after you would like her to… and there was **exactly one person in the world** for whom she had never once been late."*
 

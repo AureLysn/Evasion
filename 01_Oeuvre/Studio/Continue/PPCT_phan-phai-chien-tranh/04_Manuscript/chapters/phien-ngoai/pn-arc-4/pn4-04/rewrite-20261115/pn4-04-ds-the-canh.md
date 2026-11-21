@@ -10,7 +10,7 @@ chapter: "pn4-04"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn4-04 ban DeepSeek", "thẻ cảnh Chén Thánh mười bốn người", "pn4-04 ds PPCT"]
-related: ["[[pn-arc-4-ds-plan]]", "[[pn4-03-ds-nhap]]", "[[pn4-03-ds-kiem]]", "[[pn1-02-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Irisviel-von-Einzbern]]", "[[Artoria-Pendragon]]", "[[irisviel-song]]"]
+related: ["[[pn-arc-4-ds-plan]]", "[[pn4-03-ds-nhap]]", "[[pn4-03-ds-kiem]]", "[[pn1-02-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[EMIYA-Archer]]", "[[Kiritsugu-Emiya]]", "[[Irisviel-von-Einzbern]]", "[[Artoria-Pendragon]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-4-ds-plan mục pn4-04 (Aurel duyệt; C6, C7 để DeepSeek/GPT), V20 (chén rượu của vua để ngỏ), C1 (khe khi Byakuran ngủ mơ); note Database EMIYA-Archer (tạo 18/11/2026); dữ kiện pn1-02 (gia đình Emiya của nhánh: Irisviel sống, đón được Illya; Kiritsugu mất ma thuật vì lời nguyền, đứng ngoài cửa quán nhiều hơn trong quán; Saber–Kiritsugu giữ khoảng cách)."

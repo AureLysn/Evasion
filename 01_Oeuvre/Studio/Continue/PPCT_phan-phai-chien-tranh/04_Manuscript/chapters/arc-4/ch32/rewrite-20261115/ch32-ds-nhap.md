@@ -13,7 +13,7 @@ pov: [character.PPCT.dazai, character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争32（DeepSeek版）"
 aliases: ["ch32 ban DeepSeek nhap", "chương 32 bản song song DeepSeek", "反派战争32 DeepSeek"]
-related: ["[[ch32-ds-the-canh]]", "[[ch32-ds-kiem]]", "[[deepseek-20261115]]", "[[ch31-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch32/ch32-chapter|ch32-chapter (aurel-main, final)]]"]
+related: ["[[ch32-ds-the-canh]]", "[[ch32-ds-kiem]]", "[[ch31-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch32/ch32-chapter|ch32-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch32-ds-the-canh (2 lượt: A, rồi B–D); Claude kiểm lượt 1 và sửa (xem ch32-ds-kiem). Không dùng văn bản ch32-chapter final. Chat arc 4: https://chat.deepseek.com/a/chat/s/1e453ac0-73fe-49db-8741-b8d25c292c9a"

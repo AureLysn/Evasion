@@ -12,7 +12,7 @@ preserve: ["diem dung giua ky thi cuoi ky nam nhat", "he bond va cach fic mo ta 
 allowed_expansion: ["ket qua ADN mau toc ch119", "noi dung ke hoach ca voi sat thu", "he thong categories cua Kage", "danh tinh nguoi em ho cua Theodor", "nguoi me nguoi Y cua Xanxus", "Michaela Diamant", "quirk Harmony di truyen hay dot bien", "an oan Nedzu voi Vongola Nono", "ba nguoi song sot Estraneo Massacre", "Theodor don dep cac Fake Funeral Wreath", "Shinsou biet Izuku giet Neito"]
 forbid: ["em dash", "dau cham phay", "smut", "moi tinh tiet lien quan Trung Quoc", "Nedzu bi thi nghiem hoac High Spec", "Nedzu va Reborn khong phai soulmate", "Xanxus la con cua Vongola Nono", "Kawahira la ke cuoi cung cua chung toc", "giai quyet tuyen Izuku va cai chet Bakugo theo bat ky huong nao", "viet canh cao trao bang hanh dong truc tiep", "nhoi chu bond", "sai quy uoc POV ten rieng va ho", "nhac he Flame trong chuong MNet"]
 aliases: ["hop dong nhanh UNTCH", "branch contract UNTCH", "aurel-main UNTCH", "nhanh viet tiep Untouchable", "rang buoc nhanh UNTCH", "duoc viet gi va cam viet gi"]
-related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[bien-ban-su-kien-untch]]", "[[pq01-wonomichi-la-nguoi-con]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[pq03-cha-cua-byakuran-hawks]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq05-cha-cua-theodor-la-kawahira]]", "[[qd-huong-arc-01]]", "[[soulmate-au]]", "[[he-bond]]", "[[one-for-all-untch]]", "[[mnet]]", "[[all-for-one-untch]]", "[[thang-xep-hang]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]", "[[hawks-takami-keigo]]", "[[theodor-manz]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/sawada-tsunayoshi|sawada-tsunayoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku|midoriya-izuku]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/byakuran|byakuran]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi|shinsou-hitoshi]]", "[[tokoyami-fumi-va-kage]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/xanxus|xanxus]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/reborn|reborn]]", "[[nedzu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/aizawa-shouta|aizawa-shouta]]", "[[arc-01-menh-lenh]]", "[[ch128]]", "[[qd-ch143-va-ch146]]", "[[soulmate-au-trope]]", "[[q-ai-chet-o-ch143]]", "[[q-izuku-va-cai-chet-bakugo]]"]
+related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[bien-ban-su-kien-untch]]", "[[pq01-wonomichi-la-nguoi-con]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[pq03-cha-cua-byakuran-hawks]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq05-cha-cua-theodor-la-kawahira]]", "[[soulmate-au]]", "[[he-bond]]", "[[one-for-all-untch]]", "[[mnet]]", "[[all-for-one-untch]]", "[[thang-xep-hang]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]", "[[hawks-takami-keigo]]", "[[theodor-manz]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/sawada-tsunayoshi|sawada-tsunayoshi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku|midoriya-izuku]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/byakuran|byakuran]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi|shinsou-hitoshi]]", "[[tokoyami-fumi-va-kage]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/xanxus|xanxus]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/reborn|reborn]]", "[[nedzu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/aizawa-shouta|aizawa-shouta]]", "[[soulmate-au-trope]]", "[[q-izuku-va-cai-chet-bakugo]]"]
 source:
   type: user_input
   ref: "Aurel chot 31/08/2026: dich den la dong cac tuyen lon roi ket fic; arc dau 20 chuong; khong them rang buoc rieng ngoai rang buoc tac gia."
@@ -21,7 +21,7 @@ confidence: 1.0
 always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Hợp đồng nhánh — `aurel-main`
@@ -127,10 +127,4 @@ Hợp đồng này đã đủ để **cấm** và **cho phép**. Nó **chưa đ�
 🔴 **Cái kết cụ thể.** *"Đóng tám tuyến rồi kết"* cho biết **điều kiện kết**, không cho biết
 **cảnh kết**. Mà khung arc thì dựng ngược từ cảnh kết.
 
-Câu hỏi kèm theo, đều `needed_before: arc-01`:
-1. **Kế hoạch "cá voi sát thủ" nổ hay không nổ?** Nếu nổ thì mafia thế giới tràn vào Nhật, và
-   đó là một fic khác về quy mô. Nếu không nổ thì phải có lý do đủ nặng.
-2. **Tsuna kết thúc ở đâu?** Còn ở UA, hay vỏ bọc vỡ?
-3. **Hawks và Izuku có gặp nhau không?**
-
-Ba câu này sẽ thành `question` note có `needed_before` ở bước 5.
+Câu hỏi kèm theo: kế hoạch "cá voi sát thủ" nổ hay không · Tsuna kết thúc ở đâu · Hawks và Izuku có gặp nhau không. *(Lần trả lời 31/08 gắn với arc 01 đã xóa khi reset 21/11/2026 — mở lại khi lập khung.)*

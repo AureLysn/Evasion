@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, author-confirmed]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Sanctuary — cơ chế đầy đủ
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Luật
 
@@ -57,7 +57,7 @@ Nên vị trí của Tsuna không phải "đứa trẻ đặc biệt" — cậu 
 
 ## Hai cửa vào — **khách** và **cư dân** *(luật của nhánh, 26/09/2026)*
 
-> ⚠️ **Nguồn là [[child-ch1-chapter-ban-20261001]] ⛔ cảnh 1.3, không phải tác giả gốc.** Aurel giữ luật này khi duyệt review *(M2, 26/09/2026)*. Tầng: nhánh.
+> ⚠️ **Nguồn là *văn xuôi đã xóa* cảnh 1.3, không phải tác giả gốc.** Aurel giữ luật này khi duyệt review *(M2, 26/09/2026)*. Tầng: nhánh.
 
 | | Khách | Cư dân |
 |---|---|---|
@@ -66,5 +66,5 @@ Nên vị trí của Tsuna không phải "đứa trẻ đặc biệt" — cậu 
 | Là người của ai | **vẫn là người của phe kia**: thị trấn không giao ra, nhưng cũng không giả vờ họ không phải | **không của ai** |
 | Hệ quả | hai phe có thể **ngồi hai bên vạch** bao lâu cũng được | phe kia **mất quyền đòi** |
 
-> *"There are two ways into this town. You can visit. Visitors keep what they came with … But a visitor is still somebody else's man."* — [[musashi]], [[child-ch1-chapter-ban-20261001]] ⛔
+> *"There are two ways into this town. You can visit. Visitors keep what they came with … But a visitor is still somebody else's man."* — [[musashi]], *văn xuôi đã xóa*
 

@@ -10,7 +10,7 @@ chapter: 42
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch42 ban DeepSeek", "thẻ cảnh ch42 bản song song", "ch42 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan|plan ch42]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch22-ds-nhap]]", "[[ch37-ds-nhap]]", "[[ch38-ds-nhap]]", "[[ch40-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan|plan ch42]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch22-ds-nhap]]", "[[ch37-ds-nhap]]", "[[ch38-ds-nhap]]", "[[ch40-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch42-plan + thẻ cảnh trong plan (Aurel duyệt C1–C11 30/09/2026). Không dùng văn bản ch42-chapter final."

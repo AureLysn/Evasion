@@ -24,7 +24,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-29
+last_updated: 2026-11-21
 ---
 
 # Master thật của Saber là Kiritsugu, không phải Irisviel
@@ -49,4 +49,3 @@ Irisviel đi cùng Saber như Master. Master thật là **Emiya Kiritsugu**, đa
 - **Cho phép:** coi Irisviel là Master; thấy lạ khi Irisviel không đọc được chỉ số.
 - **Cấm:** gọi Kiritsugu là Master của Saber.
 
-📌 *ch39 (29/09/2026):* Kariya **tin sai** có chủ đích: 「Saber的御主？」 → Kirei 「你可以这么想。」 Kariya giữ `unknown_to` — [[kirei-nap-lenh-chu-cho-kariya]].

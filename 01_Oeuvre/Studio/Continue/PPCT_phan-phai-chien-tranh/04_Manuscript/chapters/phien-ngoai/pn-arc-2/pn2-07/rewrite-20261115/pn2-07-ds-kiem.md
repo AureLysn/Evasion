@@ -10,7 +10,7 @@ chapter: "pn2-07"
 canon_layer: planned
 status: active
 aliases: ["kiem pn2-07 ban DeepSeek", "kiểm phiên ngoại tu la tràng", "pn2-07 ds kiem PPCT"]
-related: ["[[pn2-07-ds-nhap]]", "[[pn2-07-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]"]
+related: ["[[pn2-07-ds-nhap]]", "[[pn2-07-ds-the-canh]]", "[[pn-arc-2-ds-plan]]", "[[Akiko-Yosano]]", "[[Sakaguchi-Ango]]", "[[Nakahara-Chuuya]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/fe98b997-9a43-47ae-b615-7a4d9b863610 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd3bfc-9b2c-83ec-bae1-888d49f06c1d"

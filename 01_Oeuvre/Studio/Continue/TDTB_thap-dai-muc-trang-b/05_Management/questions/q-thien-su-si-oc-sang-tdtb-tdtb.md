@@ -7,11 +7,11 @@ project: TDTB
 canon_layer: planned
 status: resolved
 needed_before:
-  arc: "arc 2 — nhiem vu 1"
-  chapter: "ch19"
+  arc:
+  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["thien su SI OC sang TDTB", "persona SI OC TDTB", "nhan vat si cua Aurel trong TDTB"]
-related: ["[[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]", "[[20261011-chot-dong-doi-nhiem-vu-1]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]", "[[chia-arc-huong-b-tdtb]]"]
+related: [ "[[qd-dong-doi-tu-fandom-khac-tdtb]]"]
 source:
   type: inference
   ref: "Phien Claude Code 11/10/2026 — Aurel chon Thien su SI OC (TRIAD) lam dong doi nhiem vu 1; luat 2.4 (05_Evasion/01_Oeuvre/AGENTS.md) cam hai project doc nhau"
@@ -19,7 +19,7 @@ authority: ai
 confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-11
+last_updated: 2026-11-21
 ---
 
 # Thiên sư SI OC vào TDTB bằng đường nào, với những thiết lập nào?
@@ -30,7 +30,7 @@ last_updated: 2026-10-11
 
 ## Đã có
 
-- Aurel 11/10 chọn **Thiên sư SI OC** làm đồng đội nhiệm vụ 1 cùng Chuuya ([[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]).
+- Aurel 11/10 chọn **Thiên sư SI OC** làm đồng đội nhiệm vụ 1 cùng Chuuya *(decision này đã xóa khi reset 21/11/2026)*.
 - Nhân vật hiện nằm trong project khác. Nhân vật dùng nhiều fandom đi qua `Personas/`, không sao chép giữa hai project.
 
 ## Cần Aurel trả lời

@@ -10,7 +10,7 @@ chapter: "pn1-03"
 canon_layer: planned
 status: active
 aliases: ["kiem pn1-03 ban DeepSeek", "kiểm phiên ngoại Lupin", "pn1-03 ds kiem PPCT"]
-related: ["[[pn1-03-ds-nhap]]", "[[pn1-03-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[deepseek-20261115]]", "[[Mimic]]", "[[Bar-Lupin]]", "[[20261117-canon-phien-ngoai-arc-1]]"]
+related: ["[[pn1-03-ds-nhap]]", "[[pn1-03-ds-the-canh]]", "[[pn-arc-1-ds-plan]]", "[[Mimic]]", "[[Bar-Lupin]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/f2f3e0d0-7af2-4300-8fe1-f5581ad55c6f · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afc8182-c9a8-83ec-b9e9-ca101bf8ff47"

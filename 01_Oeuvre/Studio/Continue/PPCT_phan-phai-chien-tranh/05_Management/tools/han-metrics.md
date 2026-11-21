@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: project_locked
 status: active
 aliases: ["tools PPCT", "han_metrics PPCT", "cong cu rieng PPCT", "script dem chu Han PPCT"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]", "[[arc-5-ke-san-va-con-moi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]]"]
 source:
   type: user_input
   ref: "Aurel 25/09/2026: 'Script han_metrics.py tao thu muc moi trong PPCT de giu file' — dong y de xuat giu nguyen tung byte, buoc bat buoc chuyen sang style_metrics.py"

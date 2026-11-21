@@ -10,7 +10,7 @@ chapter: "pn5-03"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn5-03 ban DeepSeek", "thẻ cảnh mạch chính", "pn5-03 ds PPCT"]
-related: ["[[pn-arc-5-ds-plan]]", "[[pn5-02-ds-nhap]]", "[[pn3-11-ds-nhap]]", "[[pn3-02-ds-nhap]]", "[[khung-phien-ngoai-deepseek]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]", "[[The-Book]]"]
+related: ["[[pn-arc-5-ds-plan]]", "[[pn5-02-ds-nhap]]", "[[pn3-11-ds-nhap]]", "[[pn3-02-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[Nakajima-Atsushi]]", "[[Akutagawa-Ryunosuke]]", "[[Sakunosuke-Oda]]", "[[The-Book]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-5-ds-plan mục pn5-03 (C1 POV Oda; C5 bờ sông + trận đầu Akutagawa–Atsushi; C6 dòng cuối pn3-11; C7 ghế của Oda thế giới kia), V22–V24; canon: note Nakajima-Atsushi (manga ch.1; ch.3–4 đọc wiki 18/11/2026); dữ kiện nhánh: pn3-02 (Atsushi gặp Dazai, tỉnh dậy trên ghế dài ở 「晴れの日」), pn3-11 (Akutagawa ngồi cạnh cửa sổ, được rót nước nóng; dòng 《晴日》 viết về 阿纲 ngủ gục)."

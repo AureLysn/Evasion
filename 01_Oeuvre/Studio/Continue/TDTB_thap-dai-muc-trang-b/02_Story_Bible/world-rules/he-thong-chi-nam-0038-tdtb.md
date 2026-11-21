@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Hệ thống 0038 và chỉ nam nhiệm vụ — luật vận hành
@@ -31,7 +31,6 @@ last_updated: 2026-10-01
 | 3 | **"Thế giới này vậy mà một cái nam thần cũng không có"**, nên Tuyết bỏ **1000 điểm** mua **chỉ nam** | ch2 |
 | 4 | **Chỉ nam** chỉ cho từng bước một: *"chỉ cấp hắn một cái nhiệm vụ, để cho hắn làm xong mới có kế tiếp nhiệm vụ chỉ thị"*. Hiện màu vàng trong thanh nhiệm vụ | ch2 |
 | 5 | Nhiệm vụ thất bại → phạt. Nhiệm vụ 2 hỏng: *"Fan hâm mộ điểm trừ ngược 2 phân"*, và **"lọc kính"** (hiệu ứng làm fan thấy mọi thủ đoạn là đáng yêu) mất tác dụng | ch2 |
-| 6 | Dịch vụ tốn điểm: tra sâu người dùng hệ thống du khách **10** (*"深度搜查"*, ch2.18). Quét toàn diện **50** (*"全方位扫描"*, ch3.8). Tư liệu S cấp **100**. Mị lực dược thủy (giá không nêu). **Thêm ở ch17 — chương viết tiếp, không phải văn bản gốc (Aurel đồng ý 30/09, D3/N2):** tra hồ sơ đầy đủ của một người (`完整档案调阅`) **100 tích phân** — *"“调阅人物完整档案需要100积分，宿主确认扣除吗？”"*. Tuyết tự so: cùng giá với tư liệu S cấp (*"居然跟S级男神一个价"*) | ch2, ch3, ch11, ch14 · ch17 (viết tiếp) |
 | 7 | Thưởng: nhiệm vụ 3 → *"Mị lực điểm 1 điểm, tích phân 5 phân"*. Công lược Yamamoto → *"mị lực điểm 500 điểm, năng lực giá trị 500 điểm"* + thưởng thêm. Nhiệm vụ 5 → kỹ năng *"Dương cầm nhất cấp"* | ch2, ch11, ch13 |
 | 8 | **Kỹ năng/kim thủ chỉ**: Tuyết có sẵn kỹ năng bóng chày ('Bổng Cầu'), bật lên là đánh chuẩn. Tác dụng phụ quan sát được: *"tư thế, góc độ đều giống nhau như đúc"* | ch10, ch13 |
 | 9 | **Khí Vận Chi Tử** (con cưng của thế giới) là *"thiên địch"* của người xuyên việt. Tuyết loại Tsuna khỏi diện này vì Tsuna là B cấp | ch3 |
@@ -47,4 +46,3 @@ last_updated: 2026-10-01
 | 2 | *"Tại phòng phát sóng trực tiếp tiến hành 100 tràng cơ giáp chiến đấu, đồng thời thu được toàn thắng, từ đó hấp dẫn nam thần 'Ngục Tự người chim' lực chú ý"* | ❌ thất bại (ch1) |
 | 3 | *"Nhập học Đông Kinh tư nhân thứ 36 mấy người trường cao đẳng một năm 2 ban"* | ✅ (ch2) |
 | 4 | *"Cùng trạch điền cương Cát cùng tiến lên yêu nhau phối đôi tống nghệ tiết mục ——《 Làm lòng người động ngươi 》"* | ✅ theo sự kiện, nhưng văn bản không ghi dòng "hoàn thành". ch13: chỉ nam *"kể từ lên tiết mục sau đó sau khi hoàn thành nhiệm vụ cũng lại không động tới"*, tức là đã xong |
-| 5 | *"Cùng núi bản võ cùng một chỗ tiến hành bóng chày huấn luyện đồng thời thu được hắn tán thưởng"* | ⏳ chưa xong (ch13). **ch17 (viết tiếp):** vẫn treo — Tuyết tự thấy khả năng gần bằng không rồi gác lại (*"这件事的可能性大概跟零也差不了多少"*); trang không nhắc hình phạt |

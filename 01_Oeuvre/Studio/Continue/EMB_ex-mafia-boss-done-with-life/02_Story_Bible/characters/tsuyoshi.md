@@ -7,7 +7,7 @@ project: EMB
 canon_layer: planned
 status: proposed
 aliases: ["Tsuyoshi", "Yamamoto Tsuyoshi", "cha Takeshi", "Takesushi", "sat thu giai nghe", "Shigure Soen Ryu"]
-related: ["[[tsuna]]", "[[y-chinh-cac-arc]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[indra]]", "[[sawada-ieyasu]]"]
+related: ["[[tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[indra]]", "[[sawada-ieyasu]]"]
 source:
   type: fic_text
   ref: "P2 Ch1 (nhac ten trong danh sach ke hoach); P2 Ch1 (thu trieu tap Takesushi)"
@@ -16,7 +16,7 @@ confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, arc3, unappeared]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Yamamoto Tsuyoshi — **người đã ở trong thế giới đó và bước ra được**
@@ -33,7 +33,7 @@ last_updated: 2026-09-16
 
 🔴 Đây là **hẹn giờ duy nhất đang chạy** trong danh sách của Tsuna. Không phải việc phải khởi động — việc **đang diễn ra**.
 
-## Vật liệu của Aurel — Arc 3
+## Vật liệu của Aurel — giai đoạn Child
 
 Sát thủ giải nghệ; quá khứ quay lại và giết vợ ông khi Takeshi 5–6 tuổi. Tsuna sửa điều đó.
 
@@ -47,7 +47,7 @@ Sát thủ giải nghệ; quá khứ quay lại và giết vợ ông khi Takeshi
 
 ⚠️ Và khác Musashi *(nói từ tình thương)* và Kawahira *(nói từ nhận ra mình)*, Tsuyoshi sẽ nói từ **kinh nghiệm nghề**: ông biết một người còn đang mang việc cũ trông như thế nào.
 
-## 🔴 Bổ sung đợt 8h — **ông chưa từng thuộc về một Sky nào**
+## 🔴 Bổ sung — **ông chưa từng thuộc về một Sky nào**
 
 [[gia-thuyet-aurel-2]]:
 

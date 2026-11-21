@@ -21,22 +21,22 @@ target_dialogue_ratio: "~25 %"
 min_dialogue_turns: 10
 target_terms: "≥ 13 — 十代目 · 机甲 · 节目 · 直播"
 status: superseded
-superseded_by: "[[dan-y-ch16-ch18-lam-lai-tdtb]]"
+superseded_by: "dan-y-ch16-ch18-lam-lai-tdtb (da xoa khi reset 21/11/2026)"
 superseded_at: 2026-10-03
 aliases: ["canh 18-03 fan zhuo", "饭桌 ch18 TDTB", "bua com nha Sawada ch18", "Nana ke ve Tsuna cua doi nay", "很少带朋友回家", "can phong cu cua Tsuna ch18", "gieo lop 掉马 1 game", "Gokudera khong noi XXXX27"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/02-ch18-ke-ren]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/04-ch18-dian-hua]]", "[[dan-y-ch16-ch19-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[co-giap-ao-jj-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[h-giai-co-giap-jj-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[q-yamamoto-di-dau-ngay-s2-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[nguyen-van-zh-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/01-ch18-men-qian]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/02-ch18-ke-ren]]", "[[04_Manuscript/chapters/arc-1/ch18/scenes/04-ch18-dian-hua]]", "[[gokudera-hayato-tdtb]]", "[[sawada-nana-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[namimori-tdtb]]", "[[tsuna--gokudera-tdtb]]", "[[co-giap-ao-jj-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[h-giai-co-giap-jj-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-tranh-chi-tiet-mua-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[nguyen-van-zh-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 03 — 饭桌 · POV Gokudera · ~1.100 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[dan-y-ch16-ch18-lam-lai-tdtb]]: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
+> 🔁 **Bị thay 03/10/2026** → dan-y-ch16-ch18-lam-lai-tdtb: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
 
 > 🔢 **Đánh số đoạn** (N3, Aurel đồng ý 30/09): theo cách đếm của vault, **ch9 tính cả hai dòng `*`**. Mọi số `chN.M` trong thẻ này đã
 > **đối lại trên nguyên văn zh** ngày 01/10 (zip trong store `personal-bulk`, [[nguyen-van-zh-tdtb]]), không lấy từ tóm tắt.
 > ⏳ **Chưa mục nào trong thẻ này được Aurel đồng ý.** 03.1–03.9 là **đề xuất**; mục *Diễn biến* viết theo phương án được đề xuất và
-> ghi số đề xuất ở từng chỗ. Beat 3 và beat 4 lấy **nguyên** từ [[dan-y-ch16-ch19-tdtb]] (Aurel đồng ý 30/09), thẻ không đổi beat.
+> ghi số đề xuất ở từng chỗ. Beat 3 và beat 4 lấy **nguyên** từ dan-y-ch16-ch19-tdtb (Aurel đồng ý 30/09), thẻ không đổi beat.
 > 📏 **Số liệu của thẻ này là số chuẩn** (plan ch18 ghi cột 03 là *ước lượng*): **~1.100 chữ Hán** (sàn, không phải trần) · thoại
 > **~25 %** (các câu ví dụ cộng lại ~250 chữ; plan ước ~30 %) · **≥ 10 lượt** (奈奈 ≥ 6, Gokudera ≥ 4) · thuật ngữ **≥ 13** (十代目 · 机甲 · 节目 · 直播; sàn [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] 10/1000 = 11, cộng 2
 > vì khối 奈奈 của thẻ 02 đặt 0). Lệch thì **báo số**, không nhét chữ.
@@ -131,7 +131,7 @@ Yamamoto) và thẻ 01 ch18; nó bị **giới hạn** bằng dòng thứ ba c�
 | Chi tiết kiếp trước (phác thảo **chưa chốt**, [[qd-tsuna-nay-la-juudaime-tdtb]]) | 🔴 không một chi tiết nào, kể cả để so sánh: phác thảo ghi kiếp trước Tsuna *"không có ai chia sẻ"*, nên một câu kiểu *"以前的十代目身边总是有人"* là **dựng sai** trên chỗ chưa chốt | — |
 
 Cộng, không phải bí mật nhưng cấm ở đây: 🔴 **Yamamoto** — không ai nhắc 山本, tiệm sushi, hay *"hôm nay hắn đi đâu"*
-(❌ [[q-yamamoto-di-dau-ngay-s2-tdtb]], plan C7) · 🔴 **show** — không ai **nói** chữ 节目 / 直播 / 电视 (plan C10; 03.8) · 🔴 **十代目**
+(❌ q-yamamoto-di-dau-ngay-s2-tdtb, plan C7) · 🔴 **show** — không ai **nói** chữ 节目 / 直播 / 电视 (plan C10; 03.8) · 🔴 **十代目**
 không thành tiếng (thẻ 02, 02.2) · 🔴 **alpha** — anh là alpha ([[qd-gokudera-alpha-tdtb]]) nhưng cảnh này không có một chữ ABO
 nào · 🔴 không Lửa · 🔴 không nhân vật mới (hàng xóm, họ hàng) · 🔴 chữ *粉丝* không có trong đầu Gokudera (plan, mục foreshadow).
 
@@ -168,7 +168,7 @@ nào · 🔴 không Lửa · 🔴 không nhân vật mới (hàng xóm, họ hà
   của ký ức. Vì vậy 🔴 **đừng** viết anh *càng thêm quý* Tsuna qua lời kể của 奈奈, đừng để chuyện game hay căn phòng làm anh *"心里一暖"*: cảnh này cho anh một **khoảng lệch**, không cho anh một lý do.
 - **Khoảng lệch** (plan, mục *Vì sao*): anh nói *"了不起"*, bà kể một đứa trẻ tan học về nhà đánh game. Hai câu ấy đứng cạnh nhau là
   toàn bộ hạt của `hint`. Không cần câu nào nối chúng lại.
-- **Lớp 掉马 1** ([[h-giai-co-giap-jj-tdtb]]): theo [[chia-arc-huong-b-tdtb]], lớp này trả ở arc 5 (ch36–43). Từ ch18 tới đó xa hơn
+- **Lớp 掉马 1** ([[h-giai-co-giap-jj-tdtb]]): theo chia-arc-huong-b-tdtb, lớp này trả ở arc 5 (ch36–43). Từ ch18 tới đó xa hơn
   nhiều so với nhịp trả mạch của 乐博 (trung vị 1 chương, [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]] 1.4) → ở đây chỉ **một câu**, để người đọc nhớ lại 2.43, không
   dựng thành một mạch phải theo dõi.
 - **Câu 3c** chạm sát hai bí mật (Omega, hệ thống): 15.64 nối *"分化成了Omega之后"* với *"变得能干"*. Trên trang, 奈奈 chỉ có nửa sau.

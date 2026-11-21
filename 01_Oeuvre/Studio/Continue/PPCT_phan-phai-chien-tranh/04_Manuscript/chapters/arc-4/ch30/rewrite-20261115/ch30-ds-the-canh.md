@@ -10,7 +10,7 @@ chapter: 30
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch30 ban DeepSeek", "thẻ cảnh ch30 bản song song", "ch30 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan|plan ch30]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch27-ds-nhap]]", "[[ch28-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan|plan ch30]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch27-ds-nhap]]", "[[ch28-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch30-plan + 3 thẻ scenes/ (Aurel duyệt). Không dùng văn bản ch30-chapter final."

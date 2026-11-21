@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["bon lan can", "day van la fanfic", "duoc quyet dinh nhung gi minh muon", "phi logic vo li vo nghia kho chiu", "gioi han cua tu do", "vi sao co vault"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[truc-chinh]]", "[[Uu-Tien-Nguon]]", "[[gia-thuyet-aurel]]", "[[y-chinh-cac-arc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[truc-chinh]]", "[[Uu-Tien-Nguon]]", "[[gia-thuyet-aurel]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16"

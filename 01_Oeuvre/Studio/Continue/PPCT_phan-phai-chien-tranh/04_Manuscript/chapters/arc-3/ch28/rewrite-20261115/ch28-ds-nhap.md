@@ -13,7 +13,7 @@ pov: [character.PPCT.sola-ui, character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争28（DeepSeek版）"
 aliases: ["ch28 ban DeepSeek nhap", "chương 28 bản song song DeepSeek", "反派战争28 DeepSeek"]
-related: ["[[ch28-ds-the-canh]]", "[[ch28-ds-kiem]]", "[[deepseek-20261115]]", "[[ch27-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter|ch28-chapter (aurel-main, final)]]"]
+related: ["[[ch28-ds-the-canh]]", "[[ch28-ds-kiem]]", "[[ch27-ds-nhap]]", "[[04_Manuscript/chapters/arc-3/ch28/ch28-chapter|ch28-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch28-ds-the-canh (2 lượt: A, rồi B–D); Claude kiểm lượt 1 và sửa (xem ch28-ds-kiem). Không dùng văn bản ch28-chapter final. Chat arc 3: https://chat.deepseek.com/a/chat/s/587c797a-df34-479d-b5b5-90ce1245c5a9"

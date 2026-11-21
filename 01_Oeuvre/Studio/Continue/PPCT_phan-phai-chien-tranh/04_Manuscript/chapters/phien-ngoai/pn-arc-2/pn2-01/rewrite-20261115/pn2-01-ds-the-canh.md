@@ -10,7 +10,7 @@ chapter: "pn2-01"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn2-01 ban DeepSeek", "thẻ cảnh phiên ngoại Trước ngày có khách lạ", "pn2-01 ds PPCT", "Checker Face mời Tsuna"]
-related: ["[[pn-arc-2-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-04-ds-nhap]]", "[[20261118-canon-phien-ngoai-arc-2]]", "[[Akutagawa-Ryunosuke]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[pn1-04-ds-nhap]]", "[[Akutagawa-Ryunosuke]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[dazai-mang-ky-uc-kiep-truoc]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-2-ds-plan mục pn2-01 (Aurel duyệt 18/11/2026; C1 Dazai sai Akutagawa tới, C2 để DeepSeek/GPT) và 20261118-canon-phien-ngoai-arc-2."

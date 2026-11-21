@@ -18,7 +18,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Thập Đại Mục mỗi ngày đều đang trang B
@@ -86,9 +86,9 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - **Tsuna này là "Thập Đại Mục":** [[qd-tsuna-nay-la-juudaime-tdtb]]
 - **Lửa ở thế giới thực:** [[qd-lua-o-the-gioi-thuc-tdtb]]
 - **28/09 — `plan-continuation`:** hướng B [[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]] · hợp đồng nhánh [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]] (active) · [[qd-dong-doi-tu-fandom-khac-tdtb]] · [[qd-tsuna-khong-biet-kiep-truoc-tdtb]] · [[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]] · [[qd-0038-he-thong-phi-phap-tdtb]] · [[qd-0038-quet-bang-ho-so-tdtb]] · [[qd-cha-la-iemitsu-tdtb]] · [[qd-reborn-tre-so-sinh-tdtb]] · [[qd-tranh-chi-tiet-mua-tdtb]]
-- **30/09 — duyệt dàn ý arc 1:** [[dan-y-ch16-ch19-tdtb]] (active) · [[qd-kenichi-loi-dung-truoc-tdtb]] · [[qd-moi-tap-hai-ngay-tdtb]] · [[qd-gokudera-alpha-tdtb]]
-- **27/09 — sau `analyze-tropes`:** [[qd-co-che-hao-quang-tdtb]] · [[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]] · [[qd-hai-he-thong-khong-lien-quan-tdtb]] · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] · [[qd-ket-cuc-he-thong-va-dong-doi-tdtb]] · [[qd-dua-dan-nhan-vat-len-tdtb]]
-- **Viết thành phẩm tiếng Trung:** [[qd-viet-tieng-trung-tdtb]] (thay [[qd-viet-tieng-viet-quy-doi-tdtb]] của 26/09)
+- **30/09:** [[qd-moi-tap-hai-ngay-tdtb]] · [[qd-gokudera-alpha-tdtb]]
+- **27/09 — sau `analyze-tropes`:** [[qd-co-che-hao-quang-tdtb]] · [[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]] · [[qd-hai-he-thong-khong-lien-quan-tdtb]] · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] · qd-ket-cuc-he-thong-va-dong-doi-tdtb · [[qd-dua-dan-nhan-vat-len-tdtb]]
+- **Viết thành phẩm tiếng Trung:** [[qd-viet-tieng-trung-tdtb]] (thay qd-viet-tieng-viet-quy-doi-tdtb của 26/09)
 
 ## Trạng thái nhập vault
 
@@ -100,7 +100,16 @@ phải mở lại ở đây khi đến bước `analyze-style`.
 - [x] `canon/` + `Characters/` — trích xuất lần 1, 25/09
 - [x] `questions/` — 12 câu; 5 đã giải 26/09
 - [x] `decisions/` — 5 quyết định, 26/09
-- [ ] `chapters/` — viết tiếp bắt đầu: [[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16]] `final` 30/09 · [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] `final` 01/10
+
+## 🔴 Trạng thái — reset về sau trích xuất (21/11/2026)
+
+Aurel chốt reset **thật**, như PPCT và CLS.
+
+- 3 chương ch16–ch18 vẫn nằm trong `04_Manuscript/chapters/arc-1/` nhưng **không còn là canon**. Không rút fact từ chúng.
+- **Mốc state để lập kế hoạch:** cuối ch15 của nguyên tác (đêm S1) — [[drop-point]].
+- Đã xóa: khung arc, chia arc hướng B, dàn ý arc 1 *(hai bản)*, snapshot, event và nhân vật sinh từ ch16–18, decision và câu hỏi gắn chương, decision kết cục *(hệ thống, đồng đội, Lộc Dã Tuyết)* và nhiệm vụ 1 *(JJK)*.
+- Giữ: hướng B *(show đan xen thế giới nhiệm vụ)* và mọi quyết định về thế giới, hệ thống, nhân vật, quy ước viết.
+- **Bước kế:** lập khung từ đầu (`plan-continuation`).
 
 ## Ranh giới với tác giả gốc
 

@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-15
+last_updated: 2026-11-21
 ---
 
 # Assassin
@@ -31,10 +31,6 @@ Servant Assassin. Trên trang **chưa xuất hiện trực tiếp**, Master cũn
 - Ch5: Kiritsugu nghĩ sự tồn tại của Assassin làm rối mọi kế hoạch.
 - Ch7: Rider nói Archer 「就是用这个杀了Assassin吗？」 — tức tin chung là **Assassin đã chết**.
 - Ch7: sự thật khác — xem [[assassin-chua-chet]] *(bí mật)*.
-
-## Trạng thái hiện tại — sau ch17 (viết tiếp, chốt 15/09/2026)
-
-**Bị loại.** Lộ diện ở Vương Yến, bị Ionioi Hetairoi của Rider diệt sạch, tan thành linh tử — [[assassin-tap-kich-vuong-yen]].
 
 ## Quan hệ
 

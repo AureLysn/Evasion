@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~1.900"
 aliases: ["plan ch51 ban DeepSeek", "dàn ý chương 51 bản song song", "邀请 ch51 PPCT", "loi moi ch51", "ket truyen chinh nhanh DeepSeek"]
-related: ["[[ch47-ds-plan]]", "[[ch50-ds-plan]]", "[[ch50-ds-nhap]]", "[[ch49-ds-nhap]]", "[[deepseek-20261115]]", "[[canh-loi-moi-pov-tsuna-khong-ai-hien]]", "[[loi-moi-hien-the-dap-an-cu-ket-mo]]", "[[loi-moi-hien-the-ai-nhan]]", "[[quan-ca-phe-yokohama-sang-phien-ngoai]]", "[[tsuna-mo-quan-ca-phe-o-yokohama]]", "[[bay-ngay-chi-la-loi-nhan-vat]]", "[[irisviel-song]]", "[[ket-cuc-rider-waver-nhu-canon]]", "[[moc-bsd-truoc-cai-chet-cua-oda]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
+related: ["[[ch47-ds-plan]]", "[[ch50-ds-plan]]", "[[ch50-ds-nhap]]", "[[ch49-ds-nhap]]", "[[bay-ngay-chi-la-loi-nhan-vat]]", "[[moc-bsd-truoc-cai-chet-cua-oda]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — chương 9 (cuối) arc 7, khép truyện chính nhánh deepseek-20261115, theo khung ch47–51 trong ch47-ds-plan (Aurel duyệt 17/11). Quyết định: canh-loi-moi-pov-tsuna-khong-ai-hien, loi-moi-hien-the-dap-an-cu-ket-mo (kết mở), quan-ca-phe-yokohama-sang-phien-ngoai, tsuna-mo-quan-ca-phe-o-yokohama, bay-ngay-chi-la-loi-nhan-vat."
@@ -25,7 +25,7 @@ last_updated: 2026-11-17
 
 # Kế hoạch chương 51 bản DeepSeek — 邀请 · Lời mời · ✅ AUREL DUYỆT 17/11/2026
 
-> Chương cuối arc 7 và **cuối truyện chính** của nhánh. POV Tsuna, sáng ngày 17, nối [[ch50-ds-nhap]] (Archer đi; chén rượu trong xe; Dazai mở cửa xe đợi). Ba việc phải khép: người phụ nữ ở ghế sau đi đâu; lời mời hiện thế (**có xuất hiện, không ai nhận trên trang, không cơ chế** — [[loi-moi-hien-the-dap-an-cu-ket-mo]], [[canh-loi-moi-pov-tsuna-khong-ai-hien]]); đường về Yokohama, dừng **trước** quán (quán và Mori là phiên ngoại — [[quan-ca-phe-yokohama-sang-phien-ngoai]]).
+> Chương cuối arc 7 và **cuối truyện chính** của nhánh. POV Tsuna, sáng ngày 17, nối [[ch50-ds-nhap]] (Archer đi; chén rượu trong xe; Dazai mở cửa xe đợi). Ba việc phải khép: người phụ nữ ở ghế sau đi đâu; lời mời hiện thế (**có xuất hiện, không ai nhận trên trang, không cơ chế** — loi-moi-hien-the-dap-an-cu-ket-mo, canh-loi-moi-pov-tsuna-khong-ai-hien); đường về Yokohama, dừng **trước** quán (quán và Mori là phiên ngoại — quan-ca-phe-yokohama-sang-phien-ngoai).
 
 ## Mục tiêu chương
 
@@ -41,9 +41,9 @@ Người xem đi về. Chiến tranh xong mà tổ Caster không thắng ai. H�
 
 ## Hook phải chạm
 
-- [[loi-moi-hien-the-ai-nhan]] — lời mời **xuất hiện**, câu trả lời **không** lên trang. Chạy `pov_leak_check` (leak_terms).
-- [[irisviel-song]] / [[tsuna-cuu-irisviel]] — khép mở: cô tự đi tìm người của mình, ngoài tầm nhìn của Tsuna.
-- [[tsuna-mo-quan-ca-phe-o-yokohama]] — có thể gieo bằng hình ảnh tuỳ kết được chọn (C7), không nói "quán cà phê".
+- loi-moi-hien-the-ai-nhan — lời mời **xuất hiện**, câu trả lời **không** lên trang. Chạy `pov_leak_check` (leak_terms).
+- irisviel-song / tsuna-cuu-irisviel — khép mở: cô tự đi tìm người của mình, ngoài tầm nhìn của Tsuna.
+- tsuna-mo-quan-ca-phe-o-yokohama — có thể gieo bằng hình ảnh tuỳ kết được chọn (C7), không nói "quán cà phê".
 - [[hook-can-dazai-de-thang-archer]] / lệnh chú — Dazai vẫn giữ đạo cuối; không nhắc.
 
 ## Tuyến cỡ trung — gieo → trả
@@ -56,7 +56,7 @@ Người xem đi về. Chiến tranh xong mà tổ Caster không thắng ai. H�
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- 🔴 Leak terms của [[loi-moi-hien-the-ai-nhan]]: 「接受了邀请」「答应了邀请」「拒绝了邀请」「答应留下」「决定留下来」「留在这个世界」「重新现界」 và mọi câu cho thấy ai nhận / từ chối; không ai hiện, không bóng người, không tiếng đáp, không ánh sáng đáp lại.
+- 🔴 Leak terms của loi-moi-hien-the-ai-nhan: 「接受了邀请」「答应了邀请」「拒绝了邀请」「答应留下」「决定留下来」「留在这个世界」「重新现界」 và mọi câu cho thấy ai nhận / từ chối; không ai hiện, không bóng người, không tiếng đáp, không ánh sáng đáp lại.
 - 🔴 Không cơ chế lời mời; không 白兰, kế vị, 7³, Tri-ni-sette; nhẫn Mare không làm gì.
 - 🔴 Không giải thích vì sao Tsuna vẫn còn sau khi Chén vỡ.
 - 🔴 Không 容器; không tên người phụ nữ, Kiritsugu, đứa trẻ, Saber/Rider/Lancer/Berserker trong lời mời *(C3)*.

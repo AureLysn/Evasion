@@ -11,7 +11,7 @@ decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17
 aliases: ["sua con troi dat", "con troi dat da dut", "sua khung nam arc", "mau thuan floating episodes", "bang cuoi nam 6 sai", "precedence fact-loi-flame"]
-related: ["[[brat-dan-y-ban-20261001]]", "[[khung-nam-arc]]", "[[hai-su-kien-p2]]", "[[fact-loi-flame]]", "[[ong-tre]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[natsu]]", "[[emb-chot-sau-p2-ch2]]", "[[03-precedence]]", "[[emb-duyet-khung-nam-arc]]"]
+related: [ "[[hai-su-kien-p2]]", "[[fact-loi-flame]]", "[[ong-tre]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[natsu]]", "[[emb-chot-sau-p2-ch2]]", "[[03-precedence]]"]
 source:
   type: user_input
   ref: "Aurel, 17/09/2026 dong y sua mau thuan con troi dat, sau khi brat-dan-y neu no va phien nay bao cao lai."
@@ -20,12 +20,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Sửa — các cơn trôi dạt **đã dứt** ở vạch xuất phát
 
-> Một phân định precedence, đã duyệt. Nó sửa ba dòng của [[khung-nam-arc]] *(đã duyệt 17/09)* và một dòng của [[hai-su-kien-p2]].
+> Một phân định precedence, đã duyệt. Nó từng sửa ba dòng của khung năm arc *(đã duyệt 17/09, đã xóa khi reset 20/11/2026)* và một dòng của [[hai-su-kien-p2]].
 
 ## Quyết định
 
@@ -45,7 +45,7 @@ Hai nguồn nói ngược nhau, cả hai `fic_explicit`:
 - [[fact-loi-flame]] và [[ong-tre]] — **viết lại từ nguyên tác 16/09**, có số đo hai đầu
 - [[hai-su-kien-p2]] bảng *"Trạng thái cuối năm 6"* — viết **16/08**, trước khi thứ tự hai chương được chốt 16/09 *([[emb-chot-sau-p2-ch2]])*
 
-Theo [[03-precedence]]: cùng tier, nhưng bản 16/09 **được đối chiếu lại toàn văn nguồn** còn bản 16/08 thì chưa. **Bản mới thắng.** [[khung-nam-arc]] dựng 17/09 đọc bảng cũ và thừa kế luôn cái sai.
+Theo [[03-precedence]]: cùng tier, nhưng bản 16/09 **được đối chiếu lại toàn văn nguồn** còn bản 16/08 thì chưa. **Bản mới thắng.** khung năm arc dựng 17/09 đọc bảng cũ và thừa kế luôn cái sai.
 
 ## Cái này không phá sự kiện thầy thuốc — nó sửa lý do ông tới
 
@@ -59,5 +59,5 @@ Bản sửa đắt hơn: một triệu chứng **tự khỏi** làm một thầy
 ## Ràng buộc kéo theo
 
 - 🔴 **Triệu chứng dứt, bệnh thì không.** [[fact-loi-flame]] nói rõ lõi **vẫn tách khỏi crux**, kế hoạch *"đợi lớn"* rồi cũng không đủ, cậu **sẽ phải tìm giải pháp nhân tạo**. Không được đọc quyết định này thành "Tsuna đã ổn".
-- Ba file đã sửa theo trong cùng đợt: [[khung-nam-arc]] *(dòng lối C, dòng Áp lực, dòng Sự kiện dự kiến)* · [[hai-su-kien-p2]] *(bảng cuối năm 6)* · [[brat-dan-y-ban-20261001]] đã viết theo bản đúng từ đầu.
+- Ba file đã sửa theo cùng lúc: khung năm arc *(đã xóa)* *(dòng lối C, dòng Áp lực, dòng Sự kiện dự kiến)* · [[hai-su-kien-p2]] *(bảng cuối năm 6)* · *văn xuôi đã xóa* đã viết theo bản đúng từ đầu.
 - Mọi cảnh Brat có cơn trôi dạt **xảy ra trên trang** là sai, trừ khi là hồi tưởng.

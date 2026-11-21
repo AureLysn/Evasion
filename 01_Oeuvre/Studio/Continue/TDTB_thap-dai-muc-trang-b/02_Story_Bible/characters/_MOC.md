@@ -15,7 +15,7 @@ authority: ai
 confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # MOC — TDTB / Characters
@@ -46,7 +46,6 @@ Nhân vật. Note nhân vật **không chứa bí mật** người khác chưa b
 | [[sawada-tsunayoshi-tdtb]] | `character` | Sawada Tsunayoshi (TDTB) |
 | [[suzuki-kenichi-tdtb]] | `character` | Suzuki Kenichi |
 | [[thien-dao-tdtb]] | `character` | Thiên Đảo |
-| [[tro-ly-thu-am-tdtb]] | `character` | Trợ lý thu âm (tổ Tsuna) — không tên, từ ch17 viết tiếp |
 | [[verde-tdtb]] | `character` | Verde (TDTB) |
 | [[yamamoto-takeshi-tdtb]] | `character` | Yamamoto Takeshi (TDTB) |
 | [[yuuko-tdtb]] | `character` | Yuuko |

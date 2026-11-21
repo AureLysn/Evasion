@@ -15,7 +15,7 @@ authority: user
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-29
+last_updated: 2026-11-21
 ---
 
 # Nhà Matō
@@ -24,11 +24,10 @@ Nhà của dòng Matō ở Fuyuki. Có **hầm trùng**. Kariya sống ở đây
 
 ## Riêng trong fic này
 
-- Nguyên tác (ch1–15) và phần viết tiếp tới ch38: **không** lên trang. **Lên trang lần đầu: ch39.**
-- **Ch39** *(chốt 29/09/2026)*: trưa ngày 15, Kirei tới gặp Kariya ở một phòng tối rèm kín — [[kirei-nap-lenh-chu-cho-kariya]].
-- **Ngõ sau nhà Matō**: mấy ngày trước ch39, Kariya ngã ở đây, Kirei đỡ hắn dậy (lần gặp đầu, ngoài trang — kể lại ở ch39).
+- Nguyên tác (ch1–15): **không** lên trang.
+- **Ch39** *(chốt 29/09/2026)*: trưa ngày 15, Kirei tới gặp Kariya ở một phòng tối rèm kín — kirei-nap-lenh-chu-cho-kariya.
 - Tổ Caster **không** có mắt ở đây, và không biết nhà Matō có Master.
 
 ## Chưa có
 
-Vị trí trong thành phố, hình dáng nhà: chưa trích canon. Thẻ cảnh ch39 **không** tả những thứ này.
+Vị trí trong thành phố, hình dáng nhà: chưa trích canon.

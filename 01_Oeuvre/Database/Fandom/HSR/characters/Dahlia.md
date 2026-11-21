@@ -26,7 +26,7 @@ last_updated: 2026-11-13
 - Là người bạn đồng hành của **Black Swan** trong bóng ký ức ở cái chết thứ nhất của Firefly **[web — hsrmerch]**.
 - Bản 3.8 là nhân vật mới; **tác động ký ức** **[web — Siliconera]**; tự nói có chi tiết Penacony mà người chơi bỏ sót **[web — Siliconera]**.
 - Credits 3.8 ghi 「Extra」 với chữ 「group」 khoanh tròn; bài hsrmerch đọc là cô có thể **đổi nhận thức và đóng vai bất kỳ ai** — **diễn giải của bài viết**, không phải canon.
-- Liên hệ phe **Cremator** (焚化工, Ký ức): ghi trong [[q-arc-2-phe-chen-vao]]; **chưa xác nhận**.
+- Liên hệ phe **Cremator** (焚化工, Ký ức): ghi trong q-arc-2-phe-chen-vao; **chưa xác nhận**.
 
 🔴 **Note này không ghi project nào quyết gì.**
 
@@ -39,4 +39,4 @@ Nguồn: wiki fandom *(honkai-star-rail.fandom.com, API wikitext, tải 22/10/20
 
 ## Fic nào dùng theo hướng nào
 
-- **Nghĩa cho CLS:** 「Dahlia xuất hiện và kể lại Penacony」 của Aurel **có thật trong canon** — cô là **người dẫn** khôi phục ký ức. Luật B5 của CLS *(không người dẫn chuyện)* sẽ **va** nếu cô giữ nguyên vai người dẫn — xem [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/05_Management/questions/q-arc-3-dahlia-nguoi-dan-va-luat-b5|q-arc-3-dahlia-nguoi-dan-va-luat-b5]].
+- **Nghĩa cho CLS:** 「Dahlia xuất hiện và kể lại Penacony」 của Aurel **có thật trong canon** — cô là **người dẫn** khôi phục ký ức. Luật B5 của CLS *(không người dẫn chuyện)* sẽ **va** nếu cô giữ nguyên vai người dẫn — xem q-arc-3-dahlia-nguoi-dan-va-luat-b5.

@@ -10,7 +10,7 @@ chapter: "pn5-01"
 canon_layer: planned
 status: active
 aliases: ["kiem pn5-01 ban DeepSeek", "kiểm phiên ngoại trang giấy tự lật", "pn5-01 ds kiem PPCT"]
-related: ["[[pn5-01-ds-nhap]]", "[[pn5-01-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[deepseek-20261115]]", "[[The-Book]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]"]
+related: ["[[pn5-01-ds-nhap]]", "[[pn5-01-ds-the-canh]]", "[[pn-arc-5-ds-plan]]", "[[The-Book]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/aab1d024-3fef-4008-8716-a52d5d204785 · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdba97-a1a4-83ec-a17c-cd3349959c10"

@@ -26,7 +26,7 @@ last_updated: 2026-09-28
 
 # Tới cuối truyện, Tsuna có biết (hay nhớ) kiếp trước không?
 
-> ✅ **Đã giải 28/09/2026** → [[qd-tsuna-khong-biet-kiep-truoc-tdtb]]. Phương án C: Tsuna không bao giờ biết. Nguyên văn: [[20260928-tra-loi-plan-continuation]].
+> ✅ **Đã giải 28/09/2026** → [[qd-tsuna-khong-biet-kiep-truoc-tdtb]]. Phương án C: Tsuna không bao giờ biết. Nguyên văn: 20260928-tra-loi-plan-continuation.
 
 > ⚠️ Câu hỏi **CHƯA CHỐT**. Không phương án nào dưới đây được dùng như sự thật.
 

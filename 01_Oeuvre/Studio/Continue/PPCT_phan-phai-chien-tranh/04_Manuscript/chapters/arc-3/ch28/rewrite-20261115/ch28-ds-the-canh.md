@@ -10,7 +10,7 @@ chapter: 28
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch28 ban DeepSeek", "thẻ cảnh ch28 bản song song", "ch28 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan|plan ch28]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch17-ds-nhap]]", "[[Kirei-Kotomine]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan|plan ch28]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch17-ds-nhap]]", "[[Kirei-Kotomine]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch28-plan + 3 thẻ scenes/ (Aurel duyệt C1–C6 22/09/2026). Không dùng văn bản ch28-chapter final."

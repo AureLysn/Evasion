@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.600 (C1 = A)"
 aliases: ["plan ch40 PPCT", "dan y chuong 40 PPCT", "假的 ch40", "Rider gia ch40", "Excalibur pha Gordius Wheel ch40", "to Caster thay xe gia"]
-related: ["[[arc-6-co-xe-gia]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[20260929-canon-arc-6-co-xe-gia]]", "[[saber-pha-gordius-wheel-to-caster-thay]]", "[[moi-tram-canon-lech-co-he-qua]]", "[[tuyen-co-trung-tra-trong-0-1-chuong]]", "[[irisviel-binh-chua-chi-he-qua-tsuna]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-nap-lenh-chu-cho-kariya]]", "[[Lancelot-Berserker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[moi-tram-canon-lech-co-he-qua]]", "[[tuyen-co-trung-tra-trong-0-1-chuong]]", "[[hook-tsuna-nhin-saber-im-lang]]", "[[hook-archer-tuyen-chien-rider]]", "[[hook-can-dazai-de-thang-archer]]", "[[kirei-van-la-master]]", "[[Lancelot-Berserker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/iskandar|Iskandar]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 29/09/2026 — chuong 2 arc 6. Khung ch40 cu (chien xa bay, khong sam) SAI theo crosscheck a2 -> viet lai. Tram e1 theo decision saber-pha-gordius-wheel-to-caster-thay (Aurel A). AI de xuat C1–C10; Aurel 30/09: 'duyet' (ca C1–C10 theo de xuat)."
@@ -25,8 +25,8 @@ last_updated: 2026-09-30
 
 # Kế hoạch chương 40 — Giả · ✅ AUREL DUYỆT 30/09/2026
 
-> Chương 2 arc 6. **Khung arc cũ cho ch40 sai**: nó viết "chiến xa bay ngang, không sấm", nhưng crosscheck a2 cho biết kẻ giả **không có chiến xa**. Plan này viết lại khung đó, và đặt trạm e1 (Saber phá Gordius Wheel) vào chương — [[saber-pha-gordius-wheel-to-caster-thay]].
-> Canon: [[20260929-canon-arc-6-co-xe-gia]] a1–a3, e1 — độ tin ≤ 0.75, lấy từ tóm tắt bản dịch fan.
+> Chương 2 arc 6. **Khung arc cũ cho ch40 sai**: nó viết "chiến xa bay ngang, không sấm", nhưng crosscheck a2 cho biết kẻ giả **không có chiến xa**. Plan này viết lại khung đó, và đặt trạm e1 (Saber phá Gordius Wheel) vào chương — saber-pha-gordius-wheel-to-caster-thay.
+> Canon: 20260929-canon-arc-6-co-xe-gia a1–a3, e1 — độ tin ≤ 0.75, lấy từ tóm tắt bản dịch fan.
 > Aurel duyệt **cả C1–C10 theo đề xuất** (30/09/2026: "duyệt"). C10 → dòng bổ sung trong [[moi-tram-canon-lech-co-he-qua]]. Thẻ cảnh 01–04 đã viết.
 
 ## Mục tiêu chương
@@ -72,15 +72,15 @@ Tối ngày 15, tổ Caster thấy **hai cỗ "Rider"** trong cùng một đêm.
 | Trạm | Lệch | So với canon | Dùng ở |
 |---|---|---|---|
 | Vụ bắt cóc | Tổ Caster **thấy và nhìn thấu** xe giả | canon: không ai nhìn thấu tại chỗ (a3) | **Chỉ là lệch ở người xem**, nên không tính một mình. Hai chỗ lệch có hệ quả của trạm này nằm ở ch39 (lệnh chú của Sola-Ui) và ch41 (Maiya sống) |
-| Saber phá Gordius Wheel (e1) | Có người **biết ai đã mang mặt Rider** (khói đen của kho cảng; kẻ đứng sau có lẽ ở nhà thờ), và **không nói** | canon: Saber chỉ biết "không phải Rider" khi thấy xe trống ([[Lancelot-Berserker]] dòng 67, 70); không ai biết ai làm cho tới khi Kiritsugu suy ra | ✅ **C10 Aurel xác nhận lại 30/09** (plan ch42 C1) — tiền đề cũ ("biết Rider vô can") sai. Điều **chỉ** tổ Caster biết là dấu vết kẻ bắt. Dùng ở: **ch42** — [[canh-chan-doc-nha-tho-qua-dem]] |
+| Saber phá Gordius Wheel (e1) | Có người **biết ai đã mang mặt Rider** (khói đen của kho cảng; kẻ đứng sau có lẽ ở nhà thờ), và **không nói** | canon: Saber chỉ biết "không phải Rider" khi thấy xe trống ([[Lancelot-Berserker]] dòng 67, 70); không ai biết ai làm cho tới khi Kiritsugu suy ra | ✅ **C10 Aurel xác nhận lại 30/09** (plan ch42 C1) — tiền đề cũ ("biết Rider vô can") sai. Điều **chỉ** tổ Caster biết là dấu vết kẻ bắt. Dùng ở: **ch42** — canh-chan-doc-nha-tho-qua-dem |
 
 ## Bí mật / chi tiết — cho phép và CẤM
 
-- 🔴 [[kirei-van-la-master]] · [[archer-doi-master-sang-kirei]]: Tsuna và Dazai ở **L3 không tên**. **Cấm:** 言峰 · 绮礼 · 神父 · "Master của Assassin" gắn với vụ bắt cóc; mọi `leak_terms`. Chỉ được "người ở nhà thờ", ở mức đoán.
+- 🔴 [[kirei-van-la-master]] · archer-doi-master-sang-kirei: Tsuna và Dazai ở **L3 không tên**. **Cấm:** 言峰 · 绮礼 · 神父 · "Master của Assassin" gắn với vụ bắt cóc; mọi `leak_terms`. Chỉ được "người ở nhà thờ", ở mức đoán.
 - 🔴 **Cảnh giao Irisviel trên mái nhà (canon a1: Kirei nhận):** chuồn chuồn **mất dấu trước đó**. Không bóng người thứ hai, không áo đen, không thánh giá.
-- 🔴 [[kirei-nap-lenh-chu-cho-kariya]]: tổ Caster **không** biết Kariya, không biết lệnh chú. **Không** 间桐 · 雁夜.
+- 🔴 kirei-nap-lenh-chu-cho-kariya: tổ Caster **không** biết Kariya, không biết lệnh chú. **Không** 间桐 · 雁夜.
 - 🔴 Chân danh Berserker (Lancelot): **không**. Tsuna chỉ nhận ra **khói**. [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]] dòng 59, 63.
-- 🔴 [[irisviel-binh-chua-chi-he-qua-tsuna]]: **không** 容器 · 圣杯容器. Câu ch4 về Irisviel dành cho **ch42**, **không** dùng ở đây.
+- 🔴 irisviel-binh-chua-chi-he-qua-tsuna: **không** 容器 · 圣杯容器. Câu ch4 về Irisviel dành cho **ch42**, **không** dùng ở đây.
 - Irisviel: chỉ **đoán** qua mái tóc trắng trong bóng tối *(C5)*.
 - Dazai: **không** dùng dị năng, **không** dùng lệnh chú. Luật 「不碰教会」 giữ.
 - Tổ Caster **không can thiệp**, không liên lạc với ai (arc 6 điểm 6).
@@ -139,10 +139,10 @@ POV Tsuna, **nửa suy luận nửa dệt canon**. [[05_Evasion/01_Oeuvre/Studio
 |---|---|
 | Aurel duyệt C1–C10 | ✅ 30/09/2026 |
 | Cập nhật khung arc: dòng ch40 (bỏ "chiến xa bay, không sấm"); C1 = A, arc giữ 5 chương | ✅ 30/09 |
-| Canon a1–a3, e1 | ✅ [[20260929-canon-arc-6-co-xe-gia]] (≤ 0.75) |
+| Canon a1–a3, e1 | ✅ 20260929-canon-arc-6-co-xe-gia (≤ 0.75) |
 | Nguồn PPCT: ch12 (Rider phá kết giới, chở tổ Caster trên chiến xa) · ch7 (khói đen) · ch38 (chuồn chuồn, L3, 「不碰教会」) · ch36 (lời hứa về con bọ lâu đài) | ✅ |
 | Thẻ cảnh 01–04 | ✅ 30/09 — [[04_Manuscript/chapters/arc-6/ch40/scenes/01-ch40-dem]] · [[04_Manuscript/chapters/arc-6/ch40/scenes/02-ch40-gia]] · [[04_Manuscript/chapters/arc-6/ch40/scenes/03-ch40-kiem-quang]] · [[04_Manuscript/chapters/arc-6/ch40/scenes/04-ch40-sau-do]] |
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌. [[q-saber-duoi-rider-that]] đã chốt (A). Phải **né**: [[q-ket-cuc-rider-waver]] (Rider thoát, **không** nói kết cục) · [[q-loi-giai-bi-an-trung-tam]] · [[q-loi-moi-hien-the]].
+Không có câu ❌. q-saber-duoi-rider-that đã chốt (A). Phải **né**: q-ket-cuc-rider-waver (Rider thoát, **không** nói kết cục) · q-loi-giai-bi-an-trung-tam · q-loi-moi-hien-the.

@@ -27,7 +27,7 @@ last_updated: 2026-09-16
 
 # P2 Ch2 — *Local Old Guy Swears He Is Not A Creep For Stalking A Child. Says The Child Planned All This*
 
-> 🔁 **Viết lại từ nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]]. Đối chiếu: [[20260916-p2-ch2]].
+> 🔁 **Viết lại từ nguồn 16/09/2026** trong đợt emb-lam-lai-tu-nguon. Đối chiếu: [[20260916-p2-ch2]].
 >
 > `word_count` = thân chương, không gồm Summary, Notes, 55 chú thích và End Notes. POV: **Musashi · Indra · Nagi · cư dân (tập thể) · Tsuna · Kyoya**, xen các đoạn người kể kể lịch sử.
 >

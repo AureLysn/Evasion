@@ -9,8 +9,8 @@ status: resolved
 resolved_by: "[[qd-thuoc-da-mua-lai-truoc-show-tdtb]]"
 resolved_at: 2026-09-28
 needed_before:
-  arc: "arc 1"
-  chapter: "ch16"
+  arc:
+  chapter: "khi lap dai cuong"
 decision_owner: "user"
 aliases: ["thuoc uc che da mua lai chua", "thuốc ức chế đã mua lại chưa", "mới uống hối đoái ức chế tề", "ch4 vs ch11"]
 related: ["[[h-uc-che-te-het-han-tdtb]]", "[[tsuna-la-omega-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[nhiem-vu-quy-diet-2-tdtb]]"]
@@ -21,7 +21,7 @@ authority: ai
 confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Tsuna đã mua lại thuốc ức chế cường hiệu trước khi lên show chưa?
@@ -40,7 +40,6 @@ Giữa hai câu, Tsuna làm xong một nhiệm vụ cấp S (ch8), điểm thư�
 
 ## Cần chốt trước
 
-Arc: arc 1 · Chương: ch16
 
 ## Ai quyết
 

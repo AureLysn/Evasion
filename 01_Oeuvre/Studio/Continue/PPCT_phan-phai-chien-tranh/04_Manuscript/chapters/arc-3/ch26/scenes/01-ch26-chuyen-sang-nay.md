@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 26-01 chuyen sang nay", "早上的事 ch26", "to Caster nghe tieng thuong gay", "loi hua cua Sola-Ui ch26"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[gae-buidhe-bi-pha]]", "[[to-caster-biet-lenh-chu-doi-tay]]", "[[hook-to-caster-khac-che-to-saber]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[hook-to-caster-khac-che-to-saber]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -56,7 +56,7 @@ Chuyện sáng nay **được kể lại**, không dựng lại. Người đọc
 
 - ch24: 「“当然要做啊，”太宰治说，“从今天晚上开始，看着令咒！”」 → họ theo dõi suốt đêm ngày 6 sang sáng ngày 7.
 - ch3 nguyên tác: bọ giám sát 「监视，传声」 — nghe được.
-- ch25: Lancer 「在下有一件事，想问一问您的意思。」 · Sola-Ui 「三道令咒都还在我手上，我一道也不会用来拦你。」 · tiếng thương gãy 「发出一声很干的响，像是一根晒透了的树枝被人从中间折断」 — [[gae-buidhe-bi-pha]].
+- ch25: Lancer 「在下有一件事，想问一问您的意思。」 · Sola-Ui 「三道令咒都还在我手上，我一道也不会用来拦你。」 · tiếng thương gãy 「发出一声很干的响，像是一根晒透了的树枝被人从中间折断」 — gae-buidhe-bi-pha.
 - ch24: Tsuna 「是Lancer，他不想那样赢。」
 - ⚠️ Góc máy con bọ: chỉ thấy **trong** nhà kho (ch22 「角度很差」). Việc bẻ thương ở **ngoài** nhà kho (ch25) → tổ Caster **nghe**, không **thấy**.
 

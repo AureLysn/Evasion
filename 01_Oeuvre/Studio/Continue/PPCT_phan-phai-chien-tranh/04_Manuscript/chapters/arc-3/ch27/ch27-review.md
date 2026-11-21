@@ -10,7 +10,7 @@ chapter: 27
 canon_layer: user_canon
 status: active
 aliases: ["review ch27 PPCT", "soat ch27", "check-continuity ch27", "check-style ch27"]
-related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-chapter]]", "[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[20260922-canon-saber-quyet-dau]]", "[[gae-buidhe-bi-pha]]", "[[dazai-ke-giac-mo-buoi-tap]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[Diarmuid-Ua-Duibhne]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch27/ch27-chapter]]", "[[04_Manuscript/chapters/arc-3/ch27/ch27-plan]]", "[[Diarmuid-Ua-Duibhne]]"]
 source:
   type: inference
   ref: "check-continuity Mode 1 + check-style Mode 1, 22/09/2026, tren ban nhap ch27 (2.692 chu Han)"
@@ -38,10 +38,10 @@ last_updated: 2026-09-22
 |---|---|
 | Timeline | ✅ Đêm ngày 8 (「圣杯战争打到第八个晚上」). Kiritsugu đặt súng trên 龙门吊 đêm ngày 1 — ch5 nguyên tác ✓. Tsuna đoán Saber trả giá vì chủ quan — [[do-tham-saber-lancer-kho-cang]] ✓ |
 | Ranh giới tri thức | ✅ POV Lancer không nhắc Kiritsugu, không biết tổ Caster. Tổ Caster **suy ra** Sola-Ui không dùng lệnh chú (Lancer vẫn đánh) — không thêm thiết bị. 🟠 **#1** Saber biết 「那一声」 |
-| Trạng thái nhân vật | ✅ Lancer chết **trong quyết đấu**, không nguyền rủa — đúng [[ket-cuc-lancer-quyet-dau-tu-nguyen]]; Sola-Ui không dùng lệnh chú — giữ lời ch25; tổ Caster không lộ mặt |
+| Trạng thái nhân vật | ✅ Lancer chết **trong quyết đấu**, không nguyền rủa — đúng ket-cuc-lancer-quyet-dau-tu-nguyen; Sola-Ui không dùng lệnh chú — giữ lời ch25; tổ Caster không lộ mặt |
 | Luật thế giới | ✅ Bọ giám sát nổ bằng chức năng có sẵn (ch3 「小型炸弹」), khác chuồn chuồn ch5 (quá tải) — đúng thẻ cảnh 03. Gáe Dearg xuyên Invisible Air — [[Diarmuid-Ua-Duibhne]] ✓ |
 | Quan hệ / xưng hô | ✅ 「纲吉」 · 「太宰」; Lancer gọi 「Saber」; Irisviel không nói — hợp |
-| Canon | ✅ Kiếp trước: nước lọt kẽ tay chủ quân hai lần, lần ba đã muộn — khớp [[Diarmuid-Ua-Duibhne]] (Fionn), không nêu tên. Saber **không** tự bỏ tay — lệch có chủ đích C2, ghi ở [[20260922-canon-saber-quyet-dau]]. Excalibur không giải phóng ✓ |
+| Canon | ✅ Kiếp trước: nước lọt kẽ tay chủ quân hai lần, lần ba đã muộn — khớp [[Diarmuid-Ua-Duibhne]] (Fionn), không nêu tên. Saber **không** tự bỏ tay — lệch có chủ đích C2, ghi ở 20260922-canon-saber-quyet-dau. Excalibur không giải phóng ✓ |
 | Hợp đồng nhánh | ✅ Không chạm mục `Cấm` |
 
 ---

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsunashige", "Sawada Tsunashige", "em trai Tsuna", "con thu hai", "nguoi duoc Reborn day", "ung vien Decimo", "chau thu hai cua Musashi"]
-related: ["[[tsuna]]", "[[reborn]]", "[[nana]]", "[[iemitsu]]", "[[musashi]]", "[[fact-toan-canh-tuong-lai]]", "[[rule-ten-tokugawa]]", "[[tuoi-va-moc]]", "[[q-tsunashige-biet-anh]]", "[[y-chinh-cac-arc]]", "[[truc-chinh]]"]
+related: ["[[tsuna]]", "[[reborn]]", "[[nana]]", "[[iemitsu]]", "[[musashi]]", "[[fact-toan-canh-tuong-lai]]", "[[rule-ten-tokugawa]]", "[[tuoi-va-moc]]", "[[q-tsunashige-biet-anh]]", "[[truc-chinh]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 (loi Tomoko va loi Tsuna) va Ch2 (Musashi nghi ve chau thu hai); Local_Mafia_Boss_Blames.html Ch3 (toan canh tuong lai + ghi chu tac gia ve ten). Doc lai 15-16/09/2026"
@@ -16,12 +16,12 @@ confidence: 0.9
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, gap-dot8g, unappeared]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Sawada Tsunashige — **em trai, và người biết sai về anh mình**
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]]. Cậu ta được nhắc trong hơn hai mươi note mà **chưa xuất hiện một lần nào**.
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. Cậu ta được nhắc trong hơn hai mươi note mà **chưa xuất hiện một lần nào**.
 
 ## Những gì văn bản cho
 
@@ -63,11 +63,11 @@ Và [[nana]] ở phía kia của cùng bức tường: bà **để mắt kỹ h�
 
 → Một đứa bé chưa biết nói đang **giữ vai trò bằng chứng** trong tính toán an ninh của hai người lớn ở nửa vòng trái đất.
 
-## Vai trò trong dàn ý
+## Vai trò dự kiến
 
-**Arc 4** — cậu ta về Namimori cùng mẹ. Lần đầu hai anh em ở cùng một chỗ, và **người mẹ đang bảo vệ cả hai theo hai cách trái ngược**.
+**Giai đoạn School** — cậu ta về Namimori cùng mẹ. Lần đầu hai anh em ở cùng một chỗ, và **người mẹ đang bảo vệ cả hai theo hai cách trái ngược**.
 
-**Arc 6** — nửa của cuộc gặp không đối xứng ba chiều: Tsuna nhớ tất cả · Reborn chưa từng gặp · **Tsunashige nghĩ mình biết nhưng biết sai**.
+**Đoạn kết** — nửa của cuộc gặp không đối xứng ba chiều: Tsuna nhớ tất cả · Reborn chưa từng gặp · **Tsunashige nghĩ mình biết nhưng biết sai**.
 
 ⚠️ Một câu độc giả AO3 hỏi mà tác giả **chưa trả lời**: Tsunashige có được dạy **gia sử bên ngoại** không? Nếu không, cậu ta bước vào đền mà **không biết một luật lễ nghi nào** — trước mặt cả Namimori.
 

@@ -10,7 +10,7 @@ chapter: "pn3-10"
 canon_layer: planned
 status: active
 aliases: ["kiem pn3-10 ban DeepSeek", "kiểm phiên ngoại anh lớn Xanxus", "pn3-10 ds kiem PPCT"]
-related: ["[[pn3-10-ds-nhap]]", "[[pn3-10-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[deepseek-20261115]]", "[[Xanxus]]", "[[Kawahira]]"]
+related: ["[[pn3-10-ds-nhap]]", "[[pn3-10-ds-the-canh]]", "[[pn-arc-3-ds-plan]]", "[[Xanxus]]", "[[Kawahira]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/26c38350-ca51-46a1-8315-f07f5af4b4ff · GPT chấm + đọc thử https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afd97e3-8ee0-83ec-acc9-7417e9aadec1"

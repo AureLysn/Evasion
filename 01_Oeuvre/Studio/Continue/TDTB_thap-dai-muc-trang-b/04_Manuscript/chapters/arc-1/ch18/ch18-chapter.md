@@ -13,7 +13,7 @@ pov: [character.TDTB.gokudera-hayato-tdtb, character.TDTB.sawada-tsunayoshi-tdtb
 language: zh
 title: "装B的第十八天"
 aliases: ["chuong 18 TDTB", "装B的第十八天", "Gokudera o Namimori ch18", "het arc 1 TDTB chuong"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai|ke hoach ch18]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai|ke hoach ch18]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

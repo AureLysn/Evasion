@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 26-04 dem mai", "明晚 ch26", "Dazai quyet di xem tan noi", "duoi ch26"]
-related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]", "[[ket-cuc-lancer-quyet-dau-tu-nguyen]]", "[[arc-3-hai-cay-thuong]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch26/ch26-plan]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -57,7 +57,7 @@ last_updated: 2026-09-22
 - ch25: Saber 「这是他在向我下战书！他不需要写信，这样就够了。」 — tổ Caster **không** nghe câu này (không có bọ nghe ở lâu đài trong ch25).
 - ch25: Sola-Ui 「我一道也不会用来拦你。」
 - ch24: 「那三道令咒会落到谁手里，谁想从她手里拿走，谁会拿它逼Lancer做什么——这个，我得比所有人都先知道。」
-- Decision [[ket-cuc-lancer-quyet-dau-tu-nguyen]] — planner biết Lancer sẽ chết ở ch27; **nhân vật không biết**.
+- Decision ket-cuc-lancer-quyet-dau-tu-nguyen — planner biết Lancer sẽ chết ở ch27; **nhân vật không biết**.
 
 ## Kết cảnh phải đạt được gì
 

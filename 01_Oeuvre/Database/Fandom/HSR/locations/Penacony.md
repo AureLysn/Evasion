@@ -41,7 +41,7 @@ last_updated: 2026-11-13
 
 ## Chưa biết
 
-- **Cái chết thứ ba trong bản 3.8 cụ thể là gì** và **kết của lần kể lại** — không nguồn nào đọc được tả. → [[q-arc-3-ket-hoi-tuong-va-cai-chet-thu-ba]].
+- **Cái chết thứ ba trong bản 3.8 cụ thể là gì** và **kết của lần kể lại** — không nguồn nào đọc được tả. → q-arc-3-ket-hoi-tuong-va-cai-chet-thu-ba.
 - Thoại mọi chặng; vai Sunday, Robin trong 3.8; Robin chết thật hay không *(bài hsrmerch nói còn treo)*.
 - Cần đọc TextMap **trên máy Aurel** trước thẻ cảnh arc 3.
 

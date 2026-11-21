@@ -10,7 +10,7 @@ chapter: 35
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch35 ban DeepSeek", "thẻ cảnh ch35 bản song song", "ch35 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan|plan ch35]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[ch19-ds-nhap]]", "[[ch29-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch35/ch35-plan|plan ch35]]", "[[hard-rules]]", "[[ai-tells]]", "[[Kiritsugu-Emiya]]", "[[ch19-ds-nhap]]", "[[ch29-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch35-plan + 3 thẻ scenes/ (Aurel duyệt POV Kiritsugu 24/09/2026). Không dùng văn bản ch35-chapter final."

@@ -17,14 +17,14 @@ always_load: true
 load_for: [planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, structure, load-bearing]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Tác giả **đã cho biết đích đến** — nhảy thời gian ở cuối P1 Ch3
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
-> 🔴 **Đợt 2 và đợt 3 đều bỏ sót cái này.** Note chương `p1-ch3` chỉ ghi *"Sau chương này là một khoảng nhảy thời gian dài"* — sai. Cú nhảy ấy **nằm trong chính chương**, và nó kể tới tận năm Tsuna 18 tuổi. File `HOSO` cũ có ghi; mình không có. Đây là thu hoạch lớn nhất của đợt đối chứng.
+> 🔴 **Các lượt trích xuất đầu đều bỏ sót cái này.** Note chương `p1-ch3` chỉ ghi *"Sau chương này là một khoảng nhảy thời gian dài"* — sai. Cú nhảy ấy **nằm trong chính chương**, và nó kể tới tận năm Tsuna 18 tuổi. File `HOSO` cũ có ghi; mình không có. Đây là thu hoạch lớn nhất của đợt đối chứng.
 
 ## Nguyên văn — câu kết của Part 1
 

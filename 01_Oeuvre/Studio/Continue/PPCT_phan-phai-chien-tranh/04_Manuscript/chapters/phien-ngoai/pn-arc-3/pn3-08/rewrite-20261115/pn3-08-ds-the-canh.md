@@ -10,7 +10,7 @@ chapter: "pn3-08"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-08 ban DeepSeek", "thẻ cảnh đòi nợ Estraneo", "pn3-08 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-07-ds-nhap]]", "[[pn3-07-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Estraneo-Famiglia]]", "[[Rokudo-Mukuro]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Paul-Verlaine]]", "[[Nakahara-Chuuya]]", "[[Luce]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-07-ds-nhap]]", "[[pn3-07-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Estraneo-Famiglia]]", "[[Rokudo-Mukuro]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Paul-Verlaine]]", "[[Nakahara-Chuuya]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-08 (Aurel duyệt; C11, C12 để DeepSeek/GPT), dàn ý cũ III.6; note Database Estraneo-Famiglia, Paul-Verlaine (tạo 18/11/2026), Rokudo-Mukuro, Vindice; dữ kiện pn3-07-ds-kiem ('别死人'), pn2-09 (Bermuda là khách trà)."

@@ -10,7 +10,7 @@ chapter: "pn5-01"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn5-01 ban DeepSeek", "thẻ cảnh trang giấy tự lật", "pn5-01 ds PPCT"]
-related: ["[[pn-arc-5-ds-plan]]", "[[khung-phien-ngoai-deepseek]]", "[[pn3-11-ds-nhap]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[The-Book]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Edogawa-Ranpo]]"]
+related: ["[[pn-arc-5-ds-plan]]", "[[pn3-11-ds-nhap]]", "[[hard-rules]]", "[[ai-tells]]", "[[The-Book]]", "[[dazai-mang-ky-uc-kiep-truoc]]", "[[tsuna-ke-vi-7-3-va-nhan-mare-cua-byakuran]]", "[[tsuna-bi-byakuran-giet]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Edogawa-Ranpo]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-5-ds-plan mục pn5-01 (Aurel duyệt C1–C8 18/11/2026: POV Tsuna; C2 khách mời; C8 khối 【放映】/【反应】), V22 (ba bí mật ngầm); note Database The-Book (trang trắng, viết gì thành thật, chỉ một bản, trang rời như cả cuốn, cần nhân quả liền mạch)."

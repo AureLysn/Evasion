@@ -19,7 +19,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 25-04 tay trai", "左手 ch25", "tay trai Saber lanh", "是他 ch25", "Saber cam kiem hai tay"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[artoria]]", "[[irisviel]]", "[[kiritsugu]]", "[[kiritsugu-la-master-that]]", "[[lau-dai-einzbern]]", "[[kayneth-tap-kich-lau-dai-einzbern]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan]]", "[[artoria]]", "[[irisviel]]", "[[kiritsugu]]", "[[kiritsugu-la-master-that]]", "[[lau-dai-einzbern]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -53,9 +53,9 @@ Lời nguyền tan, **từ phía người mang nó**. Và Saber hiểu: một b�
 ## Dữ kiện quá khứ — nguyên văn / canon
 
 - ch6 (nguyên tác): 「虽然左手还是没有握力，只是用四只手指搭在剑柄上。」 — hình ảnh để **đảo lại**.
-- ch19: 「左手垂在身侧，始终没有抬起来」 — [[kayneth-tap-kich-lau-dai-einzbern]]; ch19 kết khi Irisviel chạy tới, Saber thu kiếm.
+- ch19: 「左手垂在身侧，始终没有抬起来」 — kayneth-tap-kich-lau-dai-einzbern; ch19 kết khi Irisviel chạy tới, Saber thu kiếm.
 - [[kiritsugu-la-master-that]] — Saber **biết** Kiritsugu là Master của mình (`known_by` có artoria). Quan hệ lạnh (canon).
-- ch16: Saber đã xem các thế giới song song, tự buông nguyện vọng — [[saber-xem-cac-nuoc-anh-song-song]] · [[hook-to-caster-khac-che-to-saber]] ch16. Đạo tâm đã lung lay → cô có thể nghĩ về Lancer như một hiệp sĩ, không phải kẻ địch cần thắng. Không nói lại ch16 dài.
+- ch16: Saber đã xem các thế giới song song, tự buông nguyện vọng — saber-xem-cac-nuoc-anh-song-song · [[hook-to-caster-khac-che-to-saber]] ch16. Đạo tâm đã lung lay → cô có thể nghĩ về Lancer như một hiệp sĩ, không phải kẻ địch cần thắng. Không nói lại ch16 dài.
 - Canon: Saber mang **Excalibur**, hai tay mới giải phóng được — trận ch27 mới dùng. ⚠️ [[Artoria-Pendragon]] chưa có phần Invisible Air/Excalibur; cảnh này **không** tả bảo cụ.
 - Nơi chốn: không chương nào đặt Saber chỗ khác lâu đài từ ch19 → mặc định [[lau-dai-einzbern]].
 

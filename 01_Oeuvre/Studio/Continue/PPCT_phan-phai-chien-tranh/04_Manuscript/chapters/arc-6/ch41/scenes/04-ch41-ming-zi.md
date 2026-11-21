@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 41-04 ming zi", "名字 ch41", "Saber ve khong phai Rider", "Kiritsugu ghep ra Kirei", "言峰绮礼 trong dau Kiritsugu"]
-related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[artoria]]", "[[kirei-van-la-master]]", "[[archer-doi-master-sang-kirei]]", "[[kiritsugu-nhan-loi-hen]]", "[[to-caster-gap-kiritsugu]]", "[[saber-pha-gordius-wheel]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch41/ch41-plan]]", "[[kiritsugu]]", "[[artoria]]", "[[kirei-van-la-master]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

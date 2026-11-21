@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.200"
 aliases: ["plan ch20 PPCT", "dan y chuong 20 PPCT", "chuong nha ch20", "Dazai doi bu dap ch20", "mot ngay thuong ch20"]
-related: ["[[arc-2-moi-va-luoi]]", "[[hook-dazai-doi-bu-dap]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
+related: [ "[[hook-dazai-doi-bu-dap]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 20/09/2026 — Aurel chot 3 lua chon: ch20 khong co Yokohama; bu dap = mot ngay thuong; giac mo chi mot cau"

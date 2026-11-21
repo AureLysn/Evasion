@@ -17,12 +17,12 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [fanon, reference, trope]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Đối chiếu trope fandom — **Aurel đã làm sẵn**
 
-> 🔴 Đợt 9 lẽ ra là "tra trope fandom". **Phần VII trong tài liệu của Aurel chính là nó.**
+> 🔴 **Phần VII trong tài liệu của Aurel chính là phần tra trope fandom.**
 >
 > ✅ **Đo lại 17/09/2026** *(nhật ký lỗi `L33`: không ghi "không truy cập được" khi chưa thử)*: WebFetch `tvtropes.org` và `fanlore.org` đều trả **HTTP 403**. Reddit và SpaceBattles **chưa thử** — không ghi là bị chặn. Dù sao, trang trope **không phải bằng chứng về fic này**; kết cấu của fic nằm ở [[tropes]].
 

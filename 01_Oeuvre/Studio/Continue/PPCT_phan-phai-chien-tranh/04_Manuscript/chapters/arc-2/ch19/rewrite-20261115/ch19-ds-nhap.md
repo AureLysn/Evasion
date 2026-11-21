@@ -13,7 +13,7 @@ pov: [character.PPCT.kiritsugu, character.PPCT.dazai]
 language: zh
 title: "【太纲无差】反派战争19（DeepSeek版）"
 aliases: ["ch19 ban DeepSeek nhap", "chương 19 bản song song DeepSeek", "反派战争19 DeepSeek"]
-related: ["[[ch19-ds-the-canh]]", "[[ch19-ds-kiem]]", "[[deepseek-20261115]]", "[[ch18-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch19/ch19-chapter|ch19-chapter (aurel-main, final)]]"]
+related: ["[[ch19-ds-the-canh]]", "[[ch19-ds-kiem]]", "[[ch18-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch19/ch19-chapter|ch19-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch19-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch19-ds-kiem). Không dùng văn bản ch19-chapter final. Chat arc 2: https://chat.deepseek.com/a/chat/s/f8a57c82-9618-459e-b001-264e6620c29a"

@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: user_canon
 status: active
 aliases: ["Aurel xac nhan the gioi song song thien su", "thien su chua bi truc xuat", "thien su kiem phap the thuat", "Kenjaku xui chu linh", "truoc co lang sau co ho", "Geto hoang mang hoi nhom", "chua nap canon JJK", "user input TDTB 11/10 lan 4"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]", "[[qd-dong-doi-nhiem-vu-1-jjk-tdtb]]", "[[20261011-ket-cuc-nhiem-vu-1]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[q-thien-su-si-oc-sang-tdtb-tdtb]]", "[[qd-thien-su-the-gioi-song-song-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel, chat phien Claude Code 11/10/2026 — tra loi xac nhan the gioi song song, phan Thien su, Kenjaku, Geto"

@@ -10,7 +10,7 @@ chapter: 24
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch24 ban DeepSeek", "thẻ cảnh ch24 bản song song", "ch24 ds PPCT"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan|plan ch24]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch22-ds-nhap]]", "[[ch23-ds-nhap]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan|plan ch24]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch22-ds-nhap]]", "[[ch23-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026, gom từ ch24-plan + 4 thẻ scenes/ (Aurel duyệt 22/09/2026). Không dùng văn bản ch24-chapter final."

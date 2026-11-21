@@ -20,7 +20,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 28-01 nha tho", "教会 ch28", "Sola-Ui den nha tho", "Kirei mo cua", "mot cai nhin vao ba vet do"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[Kirei-Kotomine]]", "[[kirei-van-la-master]]", "[[lancer-chet-trong-quyet-dau]]", "[[sola-ui]]", "[[kayneth]]", "[[20260915-canon-to-lancer-arc-2]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[Kirei-Kotomine]]", "[[kirei-van-la-master]]", "[[sola-ui]]", "[[kayneth]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -61,7 +61,7 @@ Sola-Ui và Kayneth **sống** và có chỗ đi *(C1)*. Arc 4 được gieo b�
 - ch21: Sola-Ui giơ tay trái — 「三道红色的纹路在皮肤底下亮着」.
 - Canon: 言峰璃正 là giám sát viên chiến tranh lần 3 và lần 4 ([Baidu — 言峰璃正](https://baike.baidu.com/item/%E8%A8%80%E5%B3%B0%E7%92%83%E6%AD%A3/7375462)); Kirei ở nhà thờ làm "Master bại trận" sau màn Assassin chết giả — [[Kirei-Kotomine]].
 - Canon (**chỉ planner**): Kirei **đã dùng hết lệnh chú** ở Vương Yến — [[Kirei-Kotomine]]. ⚠️ PPCT ch17 có Assassin tập kích Vương Yến như canon, **chưa có nguyên văn PPCT** nói Kirei dùng hết lệnh chú → *suy theo canon*.
-  - ✏️ *Bổ sung 22/09/2026 sau khi chốt ch28:* *Canon: sau khi mất Assassin, Chén trao cho Kirei **lệnh chú mới** ([[Command-Spells]]) — PPCT giữ theo canon, không lên trang.* — [[20260922-canon-chuyen-lenh-chu]].
+  - ✏️ *Bổ sung 22/09/2026 sau khi chốt ch28:* *Canon: sau khi mất Assassin, Chén trao cho Kirei **lệnh chú mới** ([[Command-Spells]]) — PPCT giữ theo canon, không lên trang.* — 20260922-canon-chuyen-lenh-chu.
 - Chữ Hán đã kiểm: 言峰绮礼 · 言峰璃正 ([萌娘百科 — 言峰绮礼](https://mzh.moegirl.org.cn/zh-hans/%E8%A8%80%E5%B3%B0%E7%BB%AE%E7%A4%BC)).
 
 ## Kết cảnh phải đạt được gì

@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争30（DeepSeek版）"
 aliases: ["ch30 ban DeepSeek nhap", "chương 30 bản song song DeepSeek", "反派战争30 DeepSeek"]
-related: ["[[ch30-ds-the-canh]]", "[[ch30-ds-kiem]]", "[[deepseek-20261115]]", "[[ch29-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter|ch30-chapter (aurel-main, final)]]"]
+related: ["[[ch30-ds-the-canh]]", "[[ch30-ds-kiem]]", "[[ch29-ds-nhap]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter|ch30-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết theo ch30-ds-the-canh (2 lượt: A–B, rồi C; ghi chú cuối do Claude viết vì DeepSeek bỏ sót); Claude kiểm lượt 1 và sửa (xem ch30-ds-kiem). Không dùng văn bản ch30-chapter final. Chat arc 4: https://chat.deepseek.com/a/chat/s/1e453ac0-73fe-49db-8741-b8d25c292c9a"

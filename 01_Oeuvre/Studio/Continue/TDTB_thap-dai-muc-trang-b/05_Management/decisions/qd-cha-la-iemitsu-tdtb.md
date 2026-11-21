@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-28
 aliases: ["cha cua Tsuna TDTB", "Iemitsu TDTB", "cha Tsuna la Iemitsu", "Aurel khong thich Iemitsu"]
-related: ["[[20260928-tra-loi-plan-continuation]]", "[[q-cha-cua-tsuna-tdtb]]", "[[sawada-nana-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[gia-thuyet-khr-cua-aurel]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Iemitsu-Sawada]]", "[[qd-ky-uc-kich-hoat-khi-cham-tsuna-tdtb]]", "[[qd-nha-namimori-bo-hoang-tdtb]]"]
+related: [ "[[q-cha-cua-tsuna-tdtb]]", "[[sawada-nana-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[gia-thuyet-khr-cua-aurel]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Iemitsu-Sawada]]", "[[qd-ky-uc-kich-hoat-khi-cham-tsuna-tdtb]]", "[[qd-nha-namimori-bo-hoang-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 — sources/user-input/20260928-tra-loi-plan-continuation.md, doan 4"

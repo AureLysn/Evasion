@@ -21,14 +21,14 @@ status: superseded
 superseded_by: "[[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]"
 superseded_at: 2026-10-03
 aliases: ["canh 17-04 dian hua", "电话 ch17 TDTB", "Nana goi dien cho Tsuna", "ban toc bac nguoi nuoc ngoai", "我哪来的朋友", "cuoi chuong 17 TDTB"]
-related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[sawada-tsunayoshi-tdtb]]", "[[sawada-nana-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Nana-Sawada]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch17/ch17-plan]]", "[[sawada-tsunayoshi-tdtb]]", "[[sawada-nana-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[h-gokudera-thay-livestream-tdtb]]", "[[h-tsuna-khong-co-ban-tdtb]]", "[[qd-moi-tap-hai-ngay-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]", "[[qd-gokudera-alpha-tdtb]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Nana-Sawada]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
 
 # Cảnh 04 — 电话 · POV Tsuna · ~400 chữ Hán · **khép chương**
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch17/ch17-the-lam-lai]]: ch17 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > 🔢 **Đánh số đoạn** (N3, Aurel đồng ý 30/09): theo cách đếm của vault, **ch9 tính cả hai dòng `*`** (bản `jjwxc-5231858-ch09.txt`), như plan và thẻ ch16. Mọi số `chN.M` trong thẻ này theo quy ước đó.
 > Cảnh ngắn nhất chương, **thoại nhiều nhất** (~45 %). Nhịp nhanh, hài, và **dừng đúng ở câu của Tsuna**: không giải thích, không

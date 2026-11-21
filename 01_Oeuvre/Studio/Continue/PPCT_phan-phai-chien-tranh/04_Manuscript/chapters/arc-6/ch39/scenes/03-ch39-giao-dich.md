@@ -24,7 +24,7 @@ target_paragraph_mean: 42
 target_sentence_median: 19
 status: planned
 aliases: ["canh 39-03 giao dich", "交易 ch39 canh cuoi", "Kariya nhin tay ch39", "khep ch39"]
-related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[berserker]]", "[[kirei-nap-mot-dao-lenh-chu-cho-kariya]]", "[[kariya-khong-biet-tokiomi-chet-kirei-hua-chen]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch39/ch39-plan]]", "[[kariya]]", "[[berserker]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-29
 ---
@@ -59,7 +59,7 @@ Khép chương bằng một hình ảnh. Kariya nhận thêm sức và **không 
 
 ## Dữ kiện — nguồn
 
-- Số lệnh chú: trước cảnh 02 còn **1**, Kirei đưa **1** → **2** ([[kirei-nap-mot-dao-lenh-chu-cho-kariya]] · plan C4).
+- Số lệnh chú: trước cảnh 02 còn **1**, Kirei đưa **1** → **2** (kirei-nap-mot-dao-lenh-chu-cho-kariya · plan C4).
 - Berserker: giáp đen, khói đen như lửa (ch7 — [[berserker]]).
 
 ## Kết cảnh phải đạt được gì

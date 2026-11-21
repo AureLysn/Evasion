@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["bang tinh hinh ke hoach", "ke hoach da xong", "Tsuna kiem ke", "doan uong tra", "nhung nguoi da duoc cuu", "phan chieu cua ho", "reflections of them", "vi sao khong chon lai Guardian", "danh sach da sua", "P2-Ch1 doan cuoi"]
-related: ["[[fact-567-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nagi]]", "[[nagi-khong-biet-chuyen-cha-me]]", "[[tomoko]]", "[[xoa-so-estraneo]]", "[[hook-dua-tre-saint-exavier]]", "[[khung-sau-arc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[indra]]", "[[kyouya]]", "[[fact-guardian-hien-co]]"]
+related: ["[[fact-567-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nagi]]", "[[tomoko]]", "[[xoa-so-estraneo]]", "[[hook-dua-tre-saint-exavier]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[indra]]", "[[kyouya]]", "[[fact-guardian-hien-co]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch1, doan Tsuna uong tra sau vu Estraneo"
@@ -16,20 +16,16 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, load-bearing, thesis-evidence, gap-dot8b]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Bảng tình hình kế hoạch — **đoạn quan trọng nhất fic, và vault đã bỏ sót nó**
-
-> 🔴 Vault chạy **tám đợt** mà chỉ rút một câu duy nhất từ đoạn này (*"five hundred and sixty seven"*). Phần còn lại — **danh sách những người đã được cứu, lý do Tsuna không chọn lại Guardian, và luận đề nói bằng chính lời tác giả** — chưa từng được ghi.
->
-> ⚠️ **Cùng một lỗi, lần thứ tư.** Đợt 2 dừng ở thứ tự đăng. Đợt 3 đọc comment trước thân truyện. Đợt 3–6 dừng ở dòng 817 của P1-Ch2. Giờ là dừng ở đoạn hậu quả Estraneo, **trong khi bảng kiểm kê nằm ngay hai mươi dòng sau**.
 
 ## Luận đề — **tác giả tự viết ra, không cần suy luận**
 
 > *"There were limits to what Tsuna could do of course. But **he was determined to do what he could**. These people might **not be *his* people. But they were reflections of them, and he wanted to do whatever he could for them**."*
 
-🔴 Đây là xác nhận thẳng cho điều Aurel sửa ở đợt 8b, và bác bỏ dứt điểm bản cũ *"điều tốt là tác dụng phụ"*.
+🔴 Đây là xác nhận thẳng cho cách đọc của Aurel, và bác bỏ dứt điểm cách đọc *"điều tốt là tác dụng phụ"*.
 
 Cậu sửa bất hạnh của người khác **vì họ là phản chiếu của những người cậu yêu**. Không phải sinh tồn. Không phải lòng tốt trừu tượng. **Vì họ xứng đáng** — [[gia-thuyet-aurel]].
 
@@ -39,7 +35,7 @@ Và trong cả đoạn kiểm kê dài này, **cậu không xuất hiện một 
 
 | Người | Trạng thái | Nguyên văn |
 |---|---|---|
-| **Nagi / Chrome** | ✅ đã cứu | *"the Estraneo was dealt with. **Just like Chrome's parents.**"* — và *"he had managed to get to her fast enough that **she hadn't lost her organs**"*. ⚠️ `dealt with` **mở** — xem [[nagi-khong-biet-chuyen-cha-me]] ⛔ |
+| **Nagi / Chrome** | ✅ đã cứu | *"the Estraneo was dealt with. **Just like Chrome's parents.**"* — và *"he had managed to get to her fast enough that **she hadn't lost her organs**"*. ⚠️ `dealt with` **mở** — xem nagi-khong-biet-chuyen-cha-me ⛔ |
 | **Mukuro** | ✅ an toàn | *"safe and as Mukuro as possible, practically **devouring Kawahira's lessons**"* |
 | **Mẹ Takeshi** | 🟡 còn sống, đang canh | *"**Takeshi's mom was still alive**, and he had asked some of the Hibari to be on the lookout for the assassins that had murdered her **last time around**"* |
 | **Lavinia** *(mẹ Hayato)* | ❌ **không cứu được** | *"There was **no way** he could've saved Lavinia"* |
@@ -49,7 +45,7 @@ Và trong cả đoạn kiểm kê dài này, **cậu không xuất hiện một 
 
 🟡 **Fūta có tên trong văn bản** — nhưng chương **không nói** cậu bé chính là *đứa trẻ nhà Saint-Exavier* mà [[tomoko]] kể. Nối hai câu là **suy luận mạnh**, xem [[hook-dua-tre-saint-exavier]] và [[20260916-p2-ch1]] mục K6.
 
-⚠️ **`dealt with` không có nghĩa là giết.** Bản đầu của note này đọc *"Just like Chrome's parents"* thành *Tsuna giết họ*. Aurel bác, và Aurel đúng — chi tiết ở [[nagi-khong-biet-chuyen-cha-me]] ⛔. Nhánh chốt: **can thiệp bằng Mist, không giết**.
+⚠️ **`dealt with` không có nghĩa là giết.** Bản đầu của note này đọc *"Just like Chrome's parents"* thành *Tsuna giết họ*. Aurel bác, và Aurel đúng — chi tiết ở nagi-khong-biet-chuyen-cha-me ⛔. Nhánh chốt: **can thiệp bằng Mist, không giết**.
 
 ## Vì sao cậu không chọn lại bộ Guardian — **ba lý do, đầy đủ**
 
@@ -89,7 +85,7 @@ Chú ý cả chi tiết Tsuna tự sửa mình giữa dòng: *"his Cloud- no it'
 >
 > Indra: *"**I'm no longer planning to leave.**"*
 
-🔴 Đây là chỗ Aurel đã chỉ đúng ở câu B3 đợt 7: Indra ở lại **vì bà là Rain của Tsuna**, và [[kyouya]] mất cái mốc cậu ta đang đếm ngược — [[khung-sau-arc]] Arc 2.
+🔴 Aurel đã chỉ đúng chỗ này: Indra ở lại **vì bà là Rain của Tsuna**, và [[kyouya]] mất cái mốc cậu ta đang đếm ngược.
 
 ## Vì sao Vongola chắc chắn sẽ đến
 
@@ -99,10 +95,10 @@ Chú ý cả chi tiết Tsuna tự sửa mình giữa dòng: *"his Cloud- no it'
 
 Phương án của cậu: *"tie up all loose ends and **live his best life as a sanctuary sky**"*, chấp nhận *"some preemptive measures that would take him **way too close to the mafia** for comfort."*
 
-## Cái đoạn này đổi gì trong [[khung-sau-arc]]
+## Cái đoạn này đổi gì cho việc lập khung
 
-1. **Arc 3 không bắt đầu từ số không.** Bốn mục đã xong hoặc đang chạy trước khi arc mở màn. Arc 3 là **tiếp tục**, không phải khởi động
+1. **Phần viết tiếp không bắt đầu từ số không.** Bốn mục đã xong hoặc đang chạy trước mốc dừng. Viết tiếp là **tiếp tục**, không phải khởi động
 2. **Mẹ Takeshi là hẹn giờ đang chạy** — Hibari đang canh sát thủ. Chưa nổ
 3. **Fūta là kế hoạch đang mở duy nhất có người đang thực thi**
 4. **Lavinia là thất bại đã ghi nhận.** Fic-it này **có giới hạn**, và tác giả nói ra giới hạn đó. Nhánh viết tiếp **không được xoá nó**
-5. Câu cuối *"he was determined to do what he could"* là **giọng của cả sáu arc**
+5. Câu cuối *"he was determined to do what he could"* là **giọng của cả truyện**

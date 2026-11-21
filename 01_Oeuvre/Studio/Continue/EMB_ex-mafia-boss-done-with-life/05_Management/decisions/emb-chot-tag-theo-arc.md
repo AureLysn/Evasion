@@ -10,7 +10,7 @@ decided: 2026-09-19
 decided_by: user
 decided_at: 2026-09-19
 aliases: ["tag theo arc", "tag Part 2 la tag Brat", "mot tac pham mot arc", "doc chat tag AO3", "danh sach vai cua Brat", "lat khung nam arc"]
-related: ["[[ao3-tags]]", "[[khung-nam-arc]]", "[[emb-duyet-khung-nam-arc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[fic-part1]]", "[[fic-part2]]", "[[tuyen-xanxus]]", "[[hook-bermuda-to-mo]]", "[[hook-sukunabikona]]"]
+related: ["[[ao3-tags]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[fic-part1]]", "[[fic-part2]]", "[[tuyen-xanxus]]", "[[hook-bermuda-to-mo]]", "[[hook-sukunabikona]]"]
 source:
   type: user_input
   ref: "Aurel, 19/09/2026: 'doc chat, tag Part 2 la trong arc Brat vi tac gia da tag ten truc tiep nen co le tac gia da co mot ke hoach nao do truoc khi drop'."
@@ -19,12 +19,12 @@ confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-20
 ---
 
 # Chốt — tag AO3 là tag **theo arc**, không phải theo cả seri
 
-> 🔴 Quyết định này **lật một phần [[khung-nam-arc]]**, thứ đã được duyệt 17/09. Đọc trước khi dùng bất kỳ dòng nào của khung ấy.
+> 🔴 Quyết định này từng lật khung năm arc 17/09 (khung đó đã xóa khi reset 20/11/2026). **Khung mới phải xếp nhân vật theo quyết định này.**
 
 ## Quyết định
 
@@ -44,9 +44,9 @@ Part 1 = Baby arc *(Ch1–3)* + thông báo. Part 2 = **Brat arc**, mở bằng 
 
 **3. Tác giả tag TÊN TRỰC TIẾP.** Không phải tag thể loại mà là tag quan hệ nhân vật — `Sawada Tsunayoshi & Xanxus`, `& Vindice`, `Arcobaleno &`, `Fon &`, `Reborn &`. Người ta không tag tên một nhân vật mình chưa định đưa vào tác phẩm ấy.
 
-## Hệ quả — sáu chỗ của khung 17/09 xếp sai
+## Hệ quả — các vai thuộc arc Brat
 
-| Nhân vật | [[khung-nam-arc]] xếp | Tag nói |
+| Nhân vật | Khung cũ 17/09 từng xếp | Tag nói |
 |---|---|---|
 | **Xanxus** | Child *(Cradle)* → Teen | **Brat** |
 | **Fon** | Teen | **Brat** |
@@ -56,9 +56,7 @@ Part 1 = Baby arc *(Ch1–3)* + thông báo. Part 2 = **Brat arc**, mở bằng 
 | **Mukuro / Chrome** | rải rác | **Brat** |
 | [[shouichi]] | Brat → Child | ✅ đúng sẵn |
 
-🔴 **Và hệ quả lớn hơn từng dòng một:** arc Brat được khung cấp **5 sự kiện / 2 chương**. Nếu nó phải chứa ngần ấy người thì **Brat không phải arc nhỏ** — nó là arc lớn nhất, và hình dạng năm arc sai từ gốc.
-
-⚠️ Note cũ [[y-chinh-cac-arc]] *(lưu trữ)* ghi **Bermuda** và **hai OC Lightning** là *"đẩy từ Arc 2"* — kế hoạch cũ **đã** đặt họ ở Brat rồi đẩy đi. Khung 17/09 đẩy xa thêm một arc nữa.
+🔴 **Và hệ quả lớn hơn từng dòng một:** nếu Brat phải chứa ngần ấy người thì **Brat không phải arc nhỏ** — nó là **arc lớn nhất**. Khung cũ cấp cho nó 5 sự kiện / 2 chương, và sai từ gốc ở chỗ đó.
 
 ## Ranh giới — cái quyết định này KHÔNG nói
 
@@ -68,6 +66,6 @@ Part 1 = Baby arc *(Ch1–3)* + thông báo. Part 2 = **Brat arc**, mở bằng 
 
 ## Ràng buộc kéo theo
 
-- 🔴 [[khung-nam-arc]] phải **dựng lại**, không phải vá. [[emb-duyet-khung-nam-arc]] được giữ làm bản ghi của lượt duyệt 17/09, nhưng nội dung khung thì hết hiệu lực ở phần phân bổ nhân vật.
+- 🔴 Khung mới xếp các vai trên vào **arc Brat**.
 - Mọi lần đọc tag từ nay phải hỏi **tag của tác phẩm nào** trước khi dùng.
 - [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]] §`allowed_expansion` ghi *"Xanxus · Vindice · Arcobaleno · Fon · Shouichi — đều có trong tag AO3 mà chưa lên hình"* — câu ấy vẫn đúng, nhưng **phạm vi của nó là arc Brat**, không phải mười hai năm.

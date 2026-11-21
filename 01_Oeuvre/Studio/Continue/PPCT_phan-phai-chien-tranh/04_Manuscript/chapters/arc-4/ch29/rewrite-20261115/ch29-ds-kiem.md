@@ -10,7 +10,7 @@ chapter: 29
 canon_layer: planned
 status: active
 aliases: ["kiem ch29 ban DeepSeek", "kiểm ch29 bản song song", "ch29 ds kiem PPCT"]
-related: ["[[ch29-ds-nhap]]", "[[ch29-ds-the-canh]]", "[[deepseek-20261115]]", "[[Command-Spells]]"]
+related: ["[[ch29-ds-nhap]]", "[[ch29-ds-the-canh]]", "[[Command-Spells]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat arc 4 https://chat.deepseek.com/a/chat/s/1e453ac0-73fe-49db-8741-b8d25c292c9a · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af988bf-42d4-83ec-91e0-60231cd76eef"

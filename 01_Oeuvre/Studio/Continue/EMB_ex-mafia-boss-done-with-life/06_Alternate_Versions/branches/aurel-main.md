@@ -12,11 +12,11 @@ preserve: ["dich den nam 18 tuoi", "loi tien tri = Vongola Decimo", "hai dong Sa
 allowed_expansion: ["noi dung 567 ke hoach", "nhan vat moi dong tu te theo luat chu so", "yokai hoac than linh o sessha", "pha he dong Sawada Ieyasu", "Xanxus Vindice Arcobaleno Fon Shouichi theo tag AO3", "Sukunabikona qua cua Reborn", "co the lich an tu chu thich thuc vat"]
 forbid: ["Tsuna tro thanh Vongola Decimo", "viet Tsuna nhu nguoi tot bung", "dat Tsuna vao danh sach nguoi duoc cuu", "Iemitsu co arc chuoc toi", "chon lai bo Guardian canon tru Kyouya", "viet Kawahira theo canon KHR", "em dash", "dung canh cho mot qua trinh thay doi dai hoac ben trong mot hanh dong lon", "phong an Flame viet nhu bao ve vung ve", "nghi le dan gian chi de trang tri"]
 aliases: ["hop dong nhanh", "branch contract", "aurel-main", "nhanh viet tiep", "rang buoc nhanh"]
-related: ["[[bon-lan-can]]", "[[truc-chinh]]", "[[EMB]]", "[[dot7-quyet-dinh]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[emb-chot-khung-arc]]"]
+related: ["[[bon-lan-can]]", "[[truc-chinh]]", "[[EMB]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]"]
 always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-20
 ---
 
 # Hợp đồng nhánh — `aurel-main`
@@ -66,23 +66,23 @@ Vi phạm bất kỳ mục nào là **lỗi**, không phải lựa chọn phong 
 | # | Cấm | Vì sao |
 |---|---|---|
 | 1 | **Tsuna trở thành Vongola Decimo** | Tag giữ ở cả hai phần: `Sawada Tsunayoshi Is Not Vongola Decimo`. Đây là động cơ fic tháo ra |
-| 2 | **Viết Tsuna như một người tốt bụng** | 🔴 **Đã sửa ở đợt 8b.** Cậu sửa bất hạnh của người khác vì **họ xứng đáng** — không phải vì lòng tốt trừu tượng, và **cậu không nghĩ mình là người tốt**. Xem [[gia-thuyet-aurel]] |
+| 2 | **Viết Tsuna như một người tốt bụng** | Cậu sửa bất hạnh của người khác vì **họ xứng đáng** — không phải vì lòng tốt trừu tượng, và **cậu không nghĩ mình là người tốt**. Xem [[gia-thuyet-aurel]] |
 | 2b | **Đặt Tsuna vào danh sách người được cứu** | Luận đề: *"chỉ riêng bản thân mình là không quan trọng với bất kỳ ai"*. Cậu **không nằm trong 568 kế hoạch của chính mình** — và đó là toàn bộ arc |
 | 3 | **Iemitsu có arc chuộc tội hoặc nhiều đất diễn** | Tác giả nói thẳng: *"he won't be a major character that you'll have to suffer through"*. Cái giá phải **đắt mà cảnh phải ngắn** — [[hook-iemitsu-tra-gia]] |
 | 4 | **Chọn lại bộ Guardian canon** | Tsuna chủ động không chọn lại, **trừ [[kyouya]]** |
 | 5 | **Viết [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] theo canon KHR** | Tác giả **vô hiệu canon** cho nhân vật này: *"Much of Kawahira's characterization is mine own… based off on fox yokai folktales"* |
 | 6 | **Em dash** | [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules\|hard-rules]] — nguyên tác dùng **0 lần** trên 43.000 từ |
-| 7 | **dựng thành cảnh một quá trình thay đổi dài**, hoặc **dựng cảnh bên trong một hành động lớn** | Thay đổi dài diễn ra **ngoài trang**, báo lại bằng biên niên hoặc bảng kiểm; trên trang chỉ có **khoảnh khắc quyết định** và **hậu quả**; hành động lớn kể **bằng hai mép**. Đo: 8 trên trang · 9 ngoài trang; hai mép 4/4 — [[character-arcs]] · [[emb-chot-khung-arc]] |
+| 7 | **dựng thành cảnh một quá trình thay đổi dài**, hoặc **dựng cảnh bên trong một hành động lớn** | Thay đổi dài diễn ra **ngoài trang**, báo lại bằng biên niên hoặc bảng kiểm; trên trang chỉ có **khoảnh khắc quyết định** và **hậu quả**; hành động lớn kể **bằng hai mép**. Đo: 8 trên trang · 9 ngoài trang; hai mép 4/4 — [[character-arcs]] |
 | 8 | **Phong ấn Flame viết như "bảo vệ vụng về"** | Tác giả chọn phe rõ: *"I'm going to take the **'Flame Sealing is Bad'** route"* |
 | 9 | **Nghi lễ dân gian chỉ để trang trí** | Chưa lần nào tác giả viết một nghi lễ mà nó không đồng thời là một nước cờ — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes\|tropes]] |
 
-> **Forbid #7 không có ngoại lệ** — Aurel, 01/10/2026; xét lại khi có dàn ý Child mới, [[emb-chot-goc-khung-moi]] mục 4. Lời chê 25/09 *(sự kiện tới bằng giấy tờ — *"không miêu tả được tầm quan trọng của sự kiện"*)* **vẫn là thước đo**.
+> **Forbid #7 không có ngoại lệ** — Aurel, 01/10/2026, [[emb-chot-goc-khung-moi]] mục 4. Lời chê 25/09 *(sự kiện tới bằng giấy tờ — *"không miêu tả được tầm quan trọng của sự kiện"*)* **vẫn là thước đo**.
 
-## 🔴 Luật dựng dàn ý — chốt đợt 8c
+## 🔴 Luật dựng dàn ý
 
 | | |
 |---|---|
-| **Ý chính sáu arc** | có sẵn từ đầu — [[y-chinh-cac-arc]] |
+| **Ý chính mọi arc** | có sẵn từ đầu, trước mọi dàn ý chi tiết |
 | **Dàn ý chi tiết** | **một arc tại một thời điểm** |
 | **Điều kiện sang arc sau** | arc trước **đã viết xong**, không phải "đã lên dàn ý xong" |
 
@@ -98,7 +98,7 @@ Aurel: *"Suy cho cùng đây vẫn là fanfic và **chúng ta có thể quyết 
 
 Nhưng bốn lằn can **không nới tầng canon**: ghi sai một dữ kiện vẫn là lỗi. Chọn một hướng khác cho truyện mới là quyền.
 
-## Bốn câu hỏi kiểm — **sửa ở đợt 8f**
+## Bốn câu hỏi kiểm
 
 Ba câu cho **chương**:
 

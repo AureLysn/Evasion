@@ -10,7 +10,7 @@ status: active
 decided: 2026-09-16
 decided_by: user
 aliases: ["chot sau P2 Ch2", "quyet dinh 16/09", "Kawahira phu Hoshikuzu Oi", "hai tuong cao la linh hon cao", "yeu cau thu hai cua Kimiko", "Tsuna la hau due Kimiko qua Nana"]
-related: ["[[emb-lam-lai-tu-nguon]]", "[[20260916-p2-ch2]]", "[[ai-o-sessha]]", "[[ke-cuop-co-dau]]", "[[q-thu-tu-p2]]", "[[fact-dem-den-tam]]", "[[kimiko-nhan-pacifier]]", "[[fact-kimiko-arcobaleno]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[nghi-le-hop-nhat-loi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kojiro]]", "[[nana]]"]
+related: [ "[[20260916-p2-ch2]]", "[[ai-o-sessha]]", "[[ke-cuop-co-dau]]", "[[q-thu-tu-p2]]", "[[fact-dem-den-tam]]", "[[kimiko-nhan-pacifier]]", "[[fact-kimiko-arcobaleno]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[nghi-le-hop-nhat-loi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kojiro]]", "[[nana]]"]
 source:
   type: user_input
   ref: "Aurel, 16/09/2026 — tra loi bon cho mo cua so doi chung P2 Ch2"
@@ -18,7 +18,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Bốn chốt sau khi đọc lại P2 Ch2
@@ -85,7 +85,7 @@ Khoảng cách thì chọn theo **chi tiết người**, không theo con số: [
 
 ⚠️ Cái giá của lựa chọn này: các con số ở P2 Ch1 — nhà Irie ở Namimori *"khoảng mười năm"* kể từ 1/1992, và *"chúng mới mười một"* — **không khớp**, và được xếp cùng hạng với mâu thuẫn tuổi Kyoya mà [[tuoi-va-moc]] đã ghi: **nguồn tự lệch ở các con số, và nhánh đi theo chi tiết người.**
 
-→ Hệ quả: trạng thái mới nhất của thế giới nằm ở **cuối [[p2-ch1]]**, đúng như [[hai-su-kien-p2]] đã chốt ở đợt 8o. [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]] phải dựng lại ở bước `analyze-drop-point`.
+→ Hệ quả: trạng thái mới nhất của thế giới nằm ở **cuối [[p2-ch1]]**, đúng như [[hai-su-kien-p2]] đã chốt. [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]] phải dựng lại ở bước `analyze-drop-point`.
 
 ## Việc kéo theo
 

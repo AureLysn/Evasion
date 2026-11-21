@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 29-03 chang vang", "黄昏 ch29", "xe roi Fuyuki", "ban tay tron", "to Lancer roi thanh pho"]
-related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[sola-ui]]", "[[kayneth]]", "[[sola-ui-gianh-lenh-chu]]", "[[nha-tho-fuyuki]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch29/ch29-plan]]", "[[sola-ui]]", "[[kayneth]]", "[[nha-tho-fuyuki]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -28,7 +28,7 @@ last_updated: 2026-09-22
 # Cảnh 03 — 黄昏 · POV Sola-Ui · ~600 chữ Hán
 
 > `forbidden_secrets` ở cấp cảnh thắng mọi thứ khác, kể cả khi POV thật ra có biết.
-> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — [[lenh-chu-con-sau-khi-servant-chet]]: **không** nhân vật nào giải thích hay nhắc luật.
+> ⚠️ `kirei-van-la-master`: người đọc biết; **Sola-Ui không** biết Kirei còn là Master, **không** nghi. Lệnh chú còn sau khi Lancer chết là lệch canon có chủ đích — lenh-chu-con-sau-khi-servant-chet: **không** nhân vật nào giải thích hay nhắc luật.
 
 ## Ngân sách
 

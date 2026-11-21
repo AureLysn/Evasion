@@ -10,7 +10,7 @@ chapter: "pn4-03"
 canon_layer: planned
 status: active
 aliases: ["kiem pn4-03 ban DeepSeek", "kiểm phiên ngoại Kiritsugu mất ngủ", "pn4-03 ds kiem PPCT"]
-related: ["[[pn4-03-ds-nhap]]", "[[pn4-03-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[deepseek-20261115]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]"]
+related: ["[[pn4-03-ds-nhap]]", "[[pn4-03-ds-the-canh]]", "[[pn-arc-4-ds-plan]]", "[[Kiritsugu-Emiya]]", "[[Maiya-Hisau]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026. DeepSeek https://chat.deepseek.com/a/chat/s/d9c56897-edba-45c0-98c3-086e7998a5cf · GPT chấm + đọc thử (dừng ở điểm 3/11) https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6afdb22c-b294-83ec-815c-bcd6b2c64ae6"

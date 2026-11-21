@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "the gioi nhiem vu, dem cua ngay nhiem vu"
   arc: "mo-dau"
-  chapter: "ch7-ch8"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.binh-an-uyen-hoang-tdtb", "character.TDTB.kien-chi-lang-tdtb", "character.TDTB.sawada-tsunayoshi-tdtb"]
 location: ["nhà sau Ngọc Sinh Viên", "vọng lâu cửa thành, Gion"]
 aliases: ["Binh An Uyen phan boi", "chủ Ngọc Sinh Viên phản bội", "Gion so tan", "báo động cửa thành", "con diều", "dao cạo"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

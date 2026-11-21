@@ -27,7 +27,7 @@ last_updated: 2026-10-03
 
 # Cảnh 02 — 毛巾 · POV Tsuna · ~400 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > Đây là **lý do trên trang, lần một** ([[qd-tsuna-xung-dang-duoc-yeu-tdtb]]). Viết như việc vặt, **không** như một nghĩa cử.
 > Tsuna không nghĩ đó là việc gì to tát.

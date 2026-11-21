@@ -10,7 +10,7 @@ subjects: ["character.PPCT.dazai", "character.PPCT.tsuna", "character.PPCT.iskan
 relation: "dong minh mem, khong ket uoc; ban choi"
 addressing:
   rider_goi_tsuna: ["Caster"]
-  waver_goi_tsuna: ["Caster (ch16)"]
+  waver_goi_tsuna: ["Caster"]
   rider_goi_waver: ["小鬼", "小子"]
   rider_tu_xung: ["朕"]
   waver_goi_rider: ["笨蛋", "你这个笨蛋"]
@@ -27,7 +27,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # Tổ Caster ↔ Tổ Rider
@@ -49,4 +49,3 @@ last_updated: 2026-09-14
 | Waver → Rider | 「笨蛋」 |
 | Dazai → Waver | 「吐槽役」 (nói với Tsuna) |
 | Tsuna → Rider | 「征服王」 |
-| Waver → Tsuna | 「Caster」 (ch16, viết tiếp) |

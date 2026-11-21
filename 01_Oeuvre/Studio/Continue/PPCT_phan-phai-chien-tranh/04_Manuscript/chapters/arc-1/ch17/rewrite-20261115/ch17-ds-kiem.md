@@ -10,7 +10,7 @@ chapter: 17
 canon_layer: planned
 status: active
 aliases: ["kiem ch17 ban DeepSeek", "kiểm ch17 bản song song", "ch17 ds kiem PPCT"]
-related: ["[[ch17-ds-nhap]]", "[[ch17-ds-the-canh]]", "[[deepseek-20261115]]"]
+related: ["[[ch17-ds-nhap]]", "[[ch17-ds-the-canh]]"]
 source:
   type: inference
   ref: "Claude 15/11/2026. DeepSeek chat https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72 · GPT https://chatgpt.com/g/g-p-6af97531ef0c8191a708021329791a4c-ppct/c/6af976dd-1bb4-83ec-934c-378b3ddc3623"
@@ -47,7 +47,7 @@ last_updated: 2026-11-15
 | # | Điểm GPT | Claude | Lý do |
 |---|---|---|---|
 | 1 | Dazai kết luận "còn lệnh chú" quá chắc | **theo** | thẻ 03-ch17: chỉ ở mức nghi → 「多半…大概…说不定」 |
-| 2 | 「一个谁也没亲眼看见的死」 lệch canon (một Assassin chết thật) | **theo** | 「死了一个，所有人就都当Assassin已经退场了。」 — đúng cả canon lẫn [[assassin-chet-gia-truoc-dem-kho-cang]] |
+| 2 | 「一个谁也没亲眼看见的死」 lệch canon (một Assassin chết thật) | **theo** | 「死了一个，所有人就都当Assassin已经退场了。」 — đúng cả canon lẫn assassin-chet-gia-truoc-dem-kho-cang |
 | 3 | Vương Quân thiếu sức nặng | **theo một phần** | thêm một câu cả quân giơ vũ khí đáp tay Rider; trận vẫn ngắn (thẻ 02: không tả dài) |
 | 4 | Waver hiểu đột ngột; 「他」 mơ hồ | **theo một phần** | 「好像都没那么要紧了」, 「从Rider活着的时候」 |
 | 5 | 「隔着鞋底，沙子碰不到他」 gượng | **theo** | 「鞋底陷进细沙」 |

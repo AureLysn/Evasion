@@ -31,7 +31,7 @@ last_updated: 2026-10-03
 
 # Cảnh 01 — 夜里 · POV Tsuna · ~1.000 chữ Hán
 
-> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo [[dan-y-ch16-ch18-lam-lai-tdtb]]. Giữ làm lịch sử.
+> 🔁 **Bị thay 03/10/2026** → [[04_Manuscript/chapters/arc-1/ch16/ch16-the-lam-lai]]: ch16 viết lại theo dan-y-ch16-ch18-lam-lai-tdtb. Giữ làm lịch sử.
 
 > 🔴 Cái làm Tsuna căng người là **áp lực của alpha đỉnh cấp** và **nỗi sợ bị đánh dấu**. **Không** viết cậu bị pheromone cuốn đi,
 > không đồng thuận mờ ([[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]] tầng 4, Aurel sửa 27/09). Không đẩy thành cảnh thân mật.

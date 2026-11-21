@@ -10,9 +10,9 @@ status: active
 inherits: ["Studio/Continue/TDTB_thap-dai-muc-trang-b — toan bo fact fic_explicit (乐博 ch1-15) va author_confirmed (文案 JJWXC)"]
 preserve: ["Tsuna la Omega gia Beta nho thuoc cuong hieu cua cua hang he thong, hieu luc 3-4 thang", "he thong nhiem vu cua Tsuna va the gioi nhiem vu ton tai that", "Jack Sue Loc Da Tuyet nam Omega co he thong 0038", "the le show 令人心动的你", "moi loi hua trong 文案", "Tsuna nay la Juudaime kiep truoc, nguoi mang ky uc coi nhu trong sinh", "co che hao quang be cong nhan thuc", "hai he thong khac nghiep vu khong biet nhau", "Tsuna co Lua, Lua la bi mat the gioi ngam", "all27 than tinh, chua co CP chinh", "viet thanh pham tieng Trung theo style/"]
 allowed_expansion: ["dua dan moi nhan vat trong tag len san khau (69, 18, R va Arcobaleno)", "the gioi nhiem vu moi trong menu (Hokage, Tho san) va nhiem vu moi", "dong ban dong doi cua Tsuna den tu cac fandom khac (the gioi nhiem vu), khong ai tu the gioi KHR", "manh ky uc kiep truoc qua POV nguoi mang ky uc, o muc phac thao da duyet"]
-forbid: ["hao quang cua Jack Sue thang mot nguoi mang ky uc", "Tsuna biet ve kiep truoc (nho lai hoac duoc ke) - Aurel 28/09: khong bao gio", "hai he thong doi dau hoac biet nhau", "0038 biet dieu khong ai ghi lai (Lua, he thong cua Tsuna, ky uc kiep truoc)", "Tsuna san Sue hoac chu dong tra thu Jack Sue", "nhan vat yeu thich Tsuna ma trang khong cho ly do", "nguoi mang ky uc chiem cho trong long Tsuna de dang", "day canh than mat thanh CP chinh hoac dong thuan mo", "dung chi tiet phac thao kiep truoc nhu su that khi chua chot", "nguoi thuong biet ve Lua", "dua ca dan nhan vat moi len cung mot luc", "chi tiet buoc truyen vao mot mua (thang, le theo mua, thoi tiet mua, ky nghi theo mua)", "chuong viet bang tieng Viet", "dong doi cua Tsuna la nguoi the gioi KHR", "viet Iemitsu trai voi gia thuyet cua Aurel (Database/Fandom/KHR gia-thuyet-khr-cua-aurel)"]
+forbid: ["hao quang cua Jack Sue thang mot nguoi mang ky uc", "Tsuna biet ve kiep truoc (nho lai hoac duoc ke) - Aurel 28/09: khong bao gio", "hai he thong doi dau hoac biet nhau", "0038 biet dieu khong ai ghi lai (Lua, he thong cua Tsuna, ky uc kiep truoc)", "Tsuna san Sue hoac chu dong tra thu Jack Sue", "nhan vat yeu thich Tsuna ma trang khong cho ly do", "nguoi mang ky uc chiem cho trong long Tsuna de dang", "day canh than mat thanh CP chinh hoac dong thuan mo", "dung chi tiet phac thao kiep truoc nhu su that khi chua chot", "nguoi thuong biet ve Lua", "dua ca dan nhan vat moi len cung mot luc", "chi tiet buoc truyen vao mot mua (thang, le theo mua, thoi tiet mua, ky nghi theo mua)", "chuong viet bang tieng Viet", "dong doi cua Tsuna la nguoi the gioi KHR", "viet Iemitsu trai voi gia thuyet cua Aurel (Database/Fandom/KHR gia-thuyet-khr-cua-aurel)", "dung chuong ch16-18 lam su that (reset 21/11/2026)"]
 aliases: ["hop dong nhanh TDTB", "branch contract TDTB", "aurel-main TDTB", "nhanh viet tiep TDTB", "rang buoc nhanh TDTB"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-lua-o-the-gioi-thuc-tdtb]]", "[[qd-viet-tieng-trung-tdtb]]", "[[qd-pham-vi-universe-tdtb]]", "[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[20260928-tra-loi-plan-continuation]]", "[[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]", "[[qd-0038-he-thong-phi-phap-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes|tropes]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[qd-nguoi-mang-ky-uc-nhu-trong-sinh-tdtb]]", "[[qd-co-che-hao-quang-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-xung-dang-duoc-yeu-tdtb]]", "[[qd-dua-dan-nhan-vat-len-tdtb]]", "[[qd-cp-all27-than-tinh-tdtb]]", "[[qd-lua-o-the-gioi-thuc-tdtb]]", "[[qd-viet-tieng-trung-tdtb]]", "[[qd-pham-vi-universe-tdtb]]", "[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]]", "[[qd-dong-doi-tu-fandom-khac-tdtb]]", "[[qd-tsuna-khong-biet-kiep-truoc-tdtb]]", "[[qd-he-thong-tsuna-y-thuc-the-gioi-tdtb]]", "[[qd-0038-he-thong-phi-phap-tdtb]]", "[[qd-cha-la-iemitsu-tdtb]]"]
 source:
   type: user_input
   ref: "Dung 28/09/2026 tu 13 decision cua Aurel (26-27/09), 文案 JJWXC va nguyen van ch1-15. Moi dong preserve/forbid tro ve mot note co nguon. Cho Aurel duyet"
@@ -21,12 +21,12 @@ confidence: 0.8
 always_load: true
 load_for: [writer, planner]
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-28
+last_updated: 2026-11-21
 ---
 
 # Hợp đồng nhánh — `aurel-main` (TDTB)
 
-> ✅ **`status: active` — Aurel duyệt 28/09/2026** ([[20260928-tra-loi-plan-continuation]]). Hướng đã chọn: **B** ([[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]]).
+> ✅ **`status: active` — Aurel duyệt 28/09/2026** (Aurel 28/09/2026). Hướng đã chọn: **B** ([[qd-huong-b-show-dan-xen-nhiem-vu-tdtb]]).
 >
 > Writer và Planner phải nhận file này trong mọi tác vụ thuộc nhánh. Mục `forbid` là **ràng buộc cứng**.
 
@@ -35,9 +35,7 @@ last_updated: 2026-09-28
 Viết tiếp 《十代目每天都在装B》 của 乐博 từ **điểm dừng**: đêm của ngày quay đầu tiên, cuối ch15 ([[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/drop-point|drop-point]]). Viết bằng
 tiếng Trung, và bản Trung là thành phẩm ([[qd-viet-tieng-trung-tdtb]]).
 
-**Đích đến**, đã chốt ở [[qd-ket-cuc-he-thong-va-dong-doi-tdtb]]:
-- hệ thống được xử lý, kẻ ngoại lai tự diệt vong;
-- người mang ký ức phải **tự giành** chỗ bên Tsuna, vì Tsuna đã có đồng đội.
+**Đích đến:** chưa chốt — decision kết cục đã xóa khi reset 21/11/2026; khung mới quyết.
 
 ## Giữ nguyên (preserve)
 
@@ -70,6 +68,7 @@ tiếng Trung, và bản Trung là thành phẩm ([[qd-viet-tieng-trung-tdtb]]).
 
 ## Cấm tuyệt đối
 
+- **Dùng ch16–ch18 làm sự thật.** Aurel reset TDTB ngày 21/11/2026 về ngay sau trích xuất; ba chương ấy vẫn nằm trong `04_Manuscript/` nhưng không còn là canon.
 | Cấm | Vì sao |
 |---|---|
 | Hào quang của Jack Sue **thắng** một người mang ký ức | tác giả đã từ chối ở ch15 · [[qd-co-che-hao-quang-tdtb]] |
@@ -78,7 +77,7 @@ tiếng Trung, và bản Trung là thành phẩm ([[qd-viet-tieng-trung-tdtb]]).
 | 0038 biết điều **không ai ghi lại**: Lửa, hệ thống của Tsuna, ký ức kiếp trước | [[qd-0038-quet-bang-ho-so-tdtb]] |
 | Tsuna **săn** Sue, hoặc chủ động trả thù Jack Sue | Tsuna chỉ nhờ siêu trực giác mà lảng tránh · [[qd-tsuna-xung-dang-duoc-yeu-tdtb]] |
 | Nhân vật thích Tsuna mà **trang không cho lý do** | đó là cơ chế của hào quang, không phải của Tsuna · như trên |
-| Người mang ký ức chiếm chỗ trong lòng Tsuna **dễ dàng** | [[qd-ket-cuc-he-thong-va-dong-doi-tdtb]] |
+| Người mang ký ức chiếm chỗ trong lòng Tsuna **dễ dàng** | Aurel 27/09/2026 |
 | Đẩy cảnh thân mật thành CP chính hoặc đồng thuận mờ | [[qd-cp-all27-than-tinh-tdtb]] · [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/structure/tropes\|tropes]] |
 | Dùng chi tiết **phác thảo** kiếp trước như sự thật khi chưa chốt | [[qd-tsuna-nay-la-juudaime-tdtb]] |
 | Người thường biết về Lửa | [[qd-lua-o-the-gioi-thuc-tdtb]] |

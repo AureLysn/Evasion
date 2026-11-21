@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 20-01 ngu toi trua", "thu chuon chuon may", "trua muon ngay 5"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[kayneth-tap-kich-lau-dai-einzbern]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -51,7 +51,7 @@ Hạ nhiệt sau đêm ch19 bằng một buổi trưa rất tầm thường, và
 
 - ch17: 「晒死我了。」 · 「纲吉，回去我要睡到中午。」 · 「好，那就睡到中午。」
 - ch3 (thiết bị): 「只有飞虫大小，但同时兼顾监视，传声，和小型炸弹的功能。」 — [[fact-cong-nghe-vongola-trong-chien-tranh]]
-- ch19 *(viết tiếp)*: chuồn chuồn đậu ở khung cửa sổ lâu đài — [[kayneth-tap-kich-lau-dai-einzbern]]
+- ch19 *(viết tiếp)*: chuồn chuồn đậu ở khung cửa sổ lâu đài — kayneth-tap-kich-lau-dai-einzbern
 
 ## Kết cảnh phải đạt được gì
 

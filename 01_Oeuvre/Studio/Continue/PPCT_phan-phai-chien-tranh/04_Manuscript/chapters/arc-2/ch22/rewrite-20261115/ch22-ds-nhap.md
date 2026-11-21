@@ -13,7 +13,7 @@ pov: [character.PPCT.tsuna]
 language: zh
 title: "【太纲无差】反派战争22（DeepSeek版）"
 aliases: ["ch22 ban DeepSeek nhap", "chương 22 bản song song DeepSeek", "反派战争22 DeepSeek"]
-related: ["[[ch22-ds-the-canh]]", "[[ch22-ds-kiem]]", "[[deepseek-20261115]]", "[[ch21-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter|ch22-chapter (aurel-main, final)]]"]
+related: ["[[ch22-ds-the-canh]]", "[[ch22-ds-kiem]]", "[[ch21-ds-nhap]]", "[[04_Manuscript/chapters/arc-2/ch22/ch22-chapter|ch22-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch22-ds-the-canh (2 lượt); Claude kiểm lượt 1 và sửa (xem ch22-ds-kiem). Không dùng văn bản ch22-chapter final. Chat arc 2: https://chat.deepseek.com/a/chat/s/f8a57c82-9618-459e-b001-264e6620c29a"

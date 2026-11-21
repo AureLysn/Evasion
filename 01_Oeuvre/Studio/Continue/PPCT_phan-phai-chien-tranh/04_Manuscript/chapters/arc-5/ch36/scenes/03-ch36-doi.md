@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 17
 status: planned
 aliases: ["canh 36-03 doi", "doi tin nha tho lay Tokiomi", "cau ch30 co ten", "交换 教会 时臣"]
-related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[kiritsugu-bat-dau-tim-ben-thu-ba]]", "[[to-caster-nhan-ra-archer-doi-chu]]", "[[kiritsugu-nhan-loi-hen]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[archer-doi-master-sang-kirei]]", "[[kirei-van-la-master]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch36/ch36-plan]]", "[[04_Manuscript/chapters/arc-4/ch30/ch30-chapter]]", "[[kirei-van-la-master]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-25
 ---

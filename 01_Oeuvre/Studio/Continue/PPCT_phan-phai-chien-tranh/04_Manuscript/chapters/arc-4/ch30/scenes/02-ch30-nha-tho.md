@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 30-02 nha tho", "教会 ch30", "Dazai khong dat bo o nha tho", "truc giac Tsuna ch30", "还在索拉乌小姐手上"]
-related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[kirei-van-la-master]]", "[[sola-ui-doi-lenh-chu-lay-duong-ve]]", "[[fact-chi-so-tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch30/ch30-plan]]", "[[kirei-van-la-master]]", "[[fact-chi-so-tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-23
 ---
@@ -59,7 +59,7 @@ Giải thích **vì sao tổ Caster mù ở nhà thờ** *(C3)* — và để tr
 
 - ch28: Dazai 「一个御主，从者没有了，人还活着，能去的地方只有一个。」 · 「对她来说，没有用了。对别人来说，就不一定了。」 · 「到今天也还只是猜。」
 - ch23: Tsuna 「我的直觉又不是雷达。」 · ch24: 「是直觉。可是也不全是直觉。」
-- ch29 *(chỉ planner / người đọc)*: lệnh chú đã về tay Kirei — [[sola-ui-doi-lenh-chu-lay-duong-ve]].
+- ch29 *(chỉ planner / người đọc)*: lệnh chú đã về tay Kirei — sola-ui-doi-lenh-chu-lay-duong-ve.
 
 ## Kết cảnh phải đạt được gì
 

@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # 0038 — hệ thống của Lộc Dã Tuyết
@@ -41,14 +41,7 @@ Dịu, nhẫn nại: *"0038 ôn thanh nói"* (ch2), *"0038 ấm giọng an ủi"
 | ch13 | *"trạch điền cương Cát xác nhận là thổ dân"*, không phải nhiệm vụ giả | xem [[tsuna-co-he-thong-nhiem-vu-tdtb]]. **Không phát hiện** |
 | ch13 | Yamamoto và Tsuna *"sau đó liền không có cái gì lui tới"* | đúng với dữ liệu, nhưng không giải thích được hành vi của Yamamoto |
 | ch14 | *"Ta đã xin tra tìm thiếu sót, nhưng mà cái này cần thời gian nhất định"* | kết quả **chưa có** khi truyện dừng, xem [[h-0038-kiem-tra-yamamoto-tdtb]] |
-| [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]] *(viết tiếp)* | kết quả tra lỗ hổng: *"目标人物‘山本武’，数据正常，未发现漏洞。"* Rồi nhắc lại ý cũ: *"山本武和沢田纲吉确实是初中同学，但是之后就没有什么来往了。"* | đúng với dữ liệu, vẫn không giải thích được hành vi của Yamamoto |
-| ch17 *(viết tiếp)* | hồ sơ đầy đủ của Tsuna (100 积分): *"在15岁那年分化为beta。人物评级：B级普通男。"* + *"未发现异常记录。"* | giống hồ sơ cũ, chỉ thêm mệnh đề dân mạng đã tự đối ra khách *"纲吉"*. Xem [[tsuna-la-omega-tdtb]]: vẫn **không phát hiện** |
-
 → 0038 **không đọc được** hệ thống của Tsuna, thuốc ức chế cường hiệu, hay ký ức tương lai. Mỗi lần nó quét là một lần nó đưa thông tin sai cho Lộc Dã Tuyết.
-
-## Theo chương viết tiếp
-
-- [[04_Manuscript/chapters/arc-1/ch17/ch17-chapter|ch17]]: gọi Tuyết là *"宿主"*, giọng vẫn dịu (*"0038的语气还是那么温和"*), hỏi xác nhận trước khi trừ điểm — *"调阅人物完整档案需要100积分，宿主确认扣除吗？"* Chỉ đọc hồ sơ: Yamamoto "bình thường"; hồ sơ Tsuna y như cũ. Chen một câu **đoán**: *"……也许，山本武就是单纯地喜欢他呢？"* — đây là 0038 đoán, không phải người kể xác nhận. Không biết gì hơn hồ sơ (khớp [[qd-0038-quet-bang-ho-so-tdtb]]).
 
 ## Nhân vật này BIẾT gì
 

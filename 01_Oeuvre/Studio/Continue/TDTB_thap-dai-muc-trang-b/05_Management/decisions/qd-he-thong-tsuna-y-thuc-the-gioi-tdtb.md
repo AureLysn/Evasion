@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-28
 aliases: ["he thong cua Tsuna la gi", "y thuc the gioi nho giup", "loi cau cuu cua the gioi", "nhiem vu khac yeu cau thuc te", "the gioi tra cong quy ra diem"]
-related: ["[[20260928-tra-loi-plan-continuation]]", "[[q-he-thong-cua-tsuna-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[nhiem-vu-quy-diet-2-tdtb]]", "[[nhiem-vu-da-lam-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-0038-he-thong-phi-phap-tdtb]]"]
+related: [ "[[q-he-thong-cua-tsuna-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[nhiem-vu-quy-diet-2-tdtb]]", "[[nhiem-vu-da-lam-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-0038-he-thong-phi-phap-tdtb]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 — sources/user-input/20260928-tra-loi-plan-continuation.md, doan 2"

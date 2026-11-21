@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Tomoko", "Irie Tomoko", "me Shouichi", "nha Irie", "Irie", "moi gioi thong tin", "hacker", "Ryokugyoku nha Irie", "nguoi ro ri ho so Estraneo", "POV P2-Ch1"]
-related: ["[[tsuna]]", "[[indra]]", "[[musashi]]", "[[nagi]]", "[[tsuna-trieu-kien-tomoko]]", "[[xoa-so-estraneo]]", "[[fact-sanctuary]]", "[[rule-danh-xung-flame]]", "[[hook-dua-tre-saint-exavier]]", "[[fact-567-ke-hoach]]", "[[emb-chot-sau-p2-ch2]]", "[[tomoko-phan-cu]]"]
+related: ["[[tsuna]]", "[[indra]]", "[[musashi]]", "[[nagi]]", "[[tsuna-trieu-kien-tomoko]]", "[[xoa-so-estraneo]]", "[[fact-sanctuary]]", "[[rule-danh-xung-flame]]", "[[hook-dua-tre-saint-exavier]]", "[[fact-567-ke-hoach]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3; Ex-Mafia_Boss_Spends.html Ch1 (POV phan lon chuong) + chu thich 9-12. Doc lai 16/09/2026"
@@ -17,12 +17,12 @@ flame: Ryokugyoku (Lightning)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, pov-character, gap-dot8b]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Irie Tomoko — *Ryokugyoku* · **người kéo cò vụ Estraneo**
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]]. Bà là **POV của phần lớn P2 Ch1** — chương ở **mốc muộn nhất** của nguyên tác, [[emb-chot-sau-p2-ch2]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn. Bà là **POV của phần lớn P2 Ch1** — chương ở **mốc muộn nhất** của nguyên tác, [[emb-chot-sau-p2-ch2]].
 
 ## Bà là ai
 

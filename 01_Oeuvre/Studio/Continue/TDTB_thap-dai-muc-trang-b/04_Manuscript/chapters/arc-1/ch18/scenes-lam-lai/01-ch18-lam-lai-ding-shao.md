@@ -18,7 +18,7 @@ min_dialogue_turns: 0
 target_terms: "≥ 3 — 十代目 · 节目 · 直播"
 status: final
 aliases: ["the ch18 canh 01 ding shao", "Gokudera ring nha Sawada", "Gokudera cho den sang"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[qd-nha-bo-hoang-4-5-nam-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[namimori-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[qd-nha-bo-hoang-4-5-nam-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[namimori-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---

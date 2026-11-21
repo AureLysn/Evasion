@@ -20,7 +20,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 33-02 ngon den", "den thu phong con sang", "chuon chuon may toi 远坂宅", "机械蜻蜓 远坂宅"]
-related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[dinh-thu-tosaka]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[can-cu-to-caster]]", "[[tokiomi-chet-archer-doi-master]]", "[[hook-can-dazai-de-thang-archer]]"]
+related: ["[[04_Manuscript/chapters/arc-4/ch33/ch33-plan]]", "[[dinh-thu-tosaka]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[can-cu-to-caster]]", "[[hook-can-dazai-de-thang-archer]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-24
 ---

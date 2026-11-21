@@ -17,7 +17,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 ---
 
 # Quyết định — Truyện nằm trước sự việc dẫn tới cái chết của Oda
@@ -46,4 +46,3 @@ Thế giới B của PPCT đặt ở mốc **trước** chuỗi sự việc gây
 - Tác giả đã khai Dazai thế giới này 「和文野主世界的那个有差别」 (ghi chú ch1) — mốc này **không** bắt truyện bám từng chi tiết canon BSD.
 - Vẫn **chưa chốt**: Oda và lũ trẻ ở đâu, tên quán — [[q-tiem-ca-ri-va-oda]]; Akutagawa đã gặp Tsuna chưa — [[q-akutagawa-gap-tsuna-truoc-cf]].
 - ⚠️ **Trước chương đầu tiên có Oda hoặc Yokohama lên trang:** cần `crosscheck-canon` cho BSD. `Database/Fandom/BSD/` **đã có** [[Sakunosuke-Oda]] và [[The-Book]]; **chưa có** note cho Mori, Chuuya, Akutagawa, hay mốc Hắc Thời Đại.
-- ch20 **vẫn không có Yokohama** (Aurel chốt 20/09 khi lập plan ch20); hook [[hook-tsuna-muon-den-yokohama]] và [[hook-menh-lenh-cua-mori]] hết bị chặn bởi câu hỏi mốc, nhưng chương nào chạm tới vẫn cần canon BSD trước.

@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.200"
 aliases: ["plan ch49 ban DeepSeek", "dàn ý chương 49 bản song song", "天亮以前 ch49 PPCT", "truoc khi troi sang ch49", "Zero Point chan dam chay"]
-related: ["[[ch47-ds-plan]]", "[[ch48-ds-plan]]", "[[ch48-ds-nhap]]", "[[ch47-ds-nhap]]", "[[deepseek-20261115]]", "[[tsuna-chan-dam-chay-bang-zero-point]]", "[[dazai-khong-dung-lenh-chu-dem-cuoi]]", "[[irisviel-song]]", "[[tsuna-cuu-irisviel]]", "[[fact-zero-point-so-dai]]", "[[Zero-Point-Breakthrough]]", "[[Holy-Grail]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
+related: ["[[ch47-ds-plan]]", "[[ch48-ds-plan]]", "[[ch48-ds-nhap]]", "[[ch47-ds-nhap]]", "[[fact-zero-point-so-dai]]", "[[Zero-Point-Breakthrough]]", "[[Holy-Grail]]", "[[Kiritsugu-Emiya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — chương 7 arc 7 cho nhánh deepseek-20261115, theo khung ch47–51 trong ch47-ds-plan (Aurel duyệt 17/11). Canon: Database/Fandom/KHR Zero-Point-Breakthrough (First Edition / Revised); Fate Holy-Grail (Act 16 Part 9–10: bùn tràn, đại hoả, hơn 500 thương vong, 134 toà nhà). Chỉnh theo bản DS ch47–48. Aurel 17/11/2026: 'Duyệt đề xuất' (C1–C7)."
@@ -25,7 +25,7 @@ last_updated: 2026-11-17
 
 # Kế hoạch chương 49 bản DeepSeek — 天亮以前 · Trước khi trời sáng · ✅ AUREL DUYỆT 17/11/2026
 
-> Chương 7 arc 7, POV Tsuna, nối thẳng [[ch48-ds-nhap]] (Excalibur chém, Chén vỡ, bùn nuốt Archer, Saber tan). Trả quyết định [[tsuna-chan-dam-chay-bang-zero-point]] và đạo lệnh chú **thứ hai** của Dazai (C7 ch47: "Hai, giữ một").
+> Chương 7 arc 7, POV Tsuna, nối thẳng [[ch48-ds-nhap]] (Excalibur chém, Chén vỡ, bùn nuốt Archer, Saber tan). Trả quyết định tsuna-chan-dam-chay-bang-zero-point và đạo lệnh chú **thứ hai** của Dazai (C7 ch47: "Hai, giữ một").
 
 ## Mục tiêu chương
 
@@ -42,7 +42,7 @@ last_updated: 2026-11-17
 
 ## Hook phải chạm
 
-- [[tsuna-chan-dam-chay-bang-zero-point]] — trả.
+- tsuna-chan-dam-chay-bang-zero-point — trả.
 - [[hook-bo-sung-ma-luc]] — trả phần cuối đêm: đạo thứ hai; Tsuna gần cạn.
 - [[hook-can-dazai-de-thang-archer]] — chạm: Dazai giữ đạo cuối.
 - [[fact-zero-point-so-dai]] — dùng lại trên trang.

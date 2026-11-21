@@ -9,7 +9,7 @@ status: occurred
 date:
   story_day: "S1, dem"
   arc: "show-tap-1"
-  chapter: "ch15 (canh cuoi cua truyen)"
+  chapter: "khi lap dai cuong"
 participants: ["character.TDTB.suzuki-kenichi-tdtb", "character.TDTB.dao-dien-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["phòng họp của tổ đạo diễn"]
 aliases: ["Kenichi nghe len", "Kenichi nghe lén", "vừa thấy đã yêu sao", "họp tổ đạo diễn", "bản tinh hoa", "đài truyền hình mời", "cảnh cuối TDTB", "drop point TDTB"]
@@ -21,7 +21,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 > `status: occurred` = đã xảy ra trên trang (ch1–15). Việc mới lên kế hoạch không đặt ở đây.

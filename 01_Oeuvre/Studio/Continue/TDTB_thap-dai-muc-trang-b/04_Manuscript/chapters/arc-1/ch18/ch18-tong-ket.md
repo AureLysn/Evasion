@@ -9,10 +9,10 @@ arc: dan-y-ch16-ch19-tdtb
 chapter: 18
 canon_layer: user_canon
 status: superseded
-superseded_by: "[[dan-y-ch16-ch18-lam-lai-tdtb]]"
+superseded_by: "dan-y-ch16-ch18-lam-lai-tdtb (da xoa khi reset 21/11/2026)"
 superseded_at: 2026-10-03
 aliases: ["tong ket ch18 TDTB", "tong ket ke hoach chuong 18 TDTB", "summary ch18 TDTB", "tom tat ba tac nhan ch18 TDTB", "ch18 Namimori tong ket vong 1"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[dan-y-ch16-ch19-tdtb]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-tong-ket]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-chapter]]", "[[04_Manuscript/chapters/arc-1/ch17/ch17-tong-ket]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: inference
   ref: "summarizer, 01/10/2026, doc truc tiep ch18-plan + 4 the canh + ch17-chapter + dan-y-ch16-ch19-tdtb; bao cao plan-reviewer va continuity-reviewer do dispatcher chuyen lai (khong co file rieng), moi phat hien da doi lai voi file khi doi duoc"
@@ -25,7 +25,7 @@ last_updated: 2026-10-03
 
 # Tổng kết ch18 — 《装B的第十八天》 (giai đoạn kế hoạch, vòng 1)
 
-> 🔁 **Bị thay 03/10/2026** → [[dan-y-ch16-ch18-lam-lai-tdtb]]: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
+> 🔁 **Bị thay 03/10/2026** → dan-y-ch16-ch18-lam-lai-tdtb: Aurel sửa Tsuna (OOC ở ch16–17), nhà Namimori bỏ hoang, gộp ch18–19 ([[qd-tsuna-tren-show-thu-dong-tdtb]], [[qd-nha-namimori-bo-hoang-tdtb]]). Phần dưới giữ làm lịch sử, **không** còn là kế hoạch.
 
 > Chỉ đọc, không sửa. Đây là **kế hoạch chương + bốn thẻ cảnh**, chưa có bản nháp. Quyết định thuộc về Aurel.
 > **Kết luận ngắn:** 1 phát hiện `high`, 12 `medium`, 22 `low` sau khi gộp (31 dòng từ hai reviewer + 4 dòng do tổng kết thêm). **Chưa sẵn sàng `write-chapter`**, vì ba lý do:

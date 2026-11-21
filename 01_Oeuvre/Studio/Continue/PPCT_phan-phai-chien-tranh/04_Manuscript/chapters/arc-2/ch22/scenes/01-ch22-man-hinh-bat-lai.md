@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 17
 status: planned
 aliases: ["canh 22-01 man hinh bat lai", "ngay 6 mo man hinh", "nuoc co ch19 con dung"]
-related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[mot-ngay-khong-co-chien-tranh-chen-thanh]]", "[[sola-ui-gianh-lenh-chu]]", "[[kayneth-tap-kich-lau-dai-einzbern]]", "[[hook-to-caster-khac-che-to-saber]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch22/ch22-plan|plan ch22]]", "[[hook-to-caster-khac-che-to-saber]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -49,9 +49,9 @@ Nối lại chiến tranh sau một ngày tắt máy — và đặt **cái tổ 
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch19 *(viết tiếp)*: 「一个废掉的魔术师，只要令咒还在手上，就还是御主。」 · 「只要他还活着，Lancer就还在。」 — [[kayneth-tap-kich-lau-dai-einzbern]]
-- ch20 *(viết tiếp)*: 「明天屏幕还是要开的。」 — ngày nghỉ chỉ có một ngày — [[mot-ngay-khong-co-chien-tranh-chen-thanh]]
-- ch21 *(viết tiếp)*: lệnh chú đổi tay trong **đêm ngày 5**, đúng lúc không ai mở màn hình — [[sola-ui-gianh-lenh-chu]]
+- ch19 *(viết tiếp)*: 「一个废掉的魔术师，只要令咒还在手上，就还是御主。」 · 「只要他还活着，Lancer就还在。」 — kayneth-tap-kich-lau-dai-einzbern
+- ch20 *(viết tiếp)*: 「明天屏幕还是要开的。」 — ngày nghỉ chỉ có một ngày — mot-ngay-khong-co-chien-tranh-chen-thanh
+- ch21 *(viết tiếp)*: lệnh chú đổi tay trong **đêm ngày 5**, đúng lúc không ai mở màn hình — sola-ui-gianh-lenh-chu
 - Nguyên tác: Tsuna có **siêu trực giác**, khác với suy luận của Dazai — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]
 
 ## Kết cảnh phải đạt được gì

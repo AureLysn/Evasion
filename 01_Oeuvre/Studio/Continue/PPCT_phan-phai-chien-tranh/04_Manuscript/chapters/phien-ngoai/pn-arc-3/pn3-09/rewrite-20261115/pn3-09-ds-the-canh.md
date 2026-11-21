@@ -10,7 +10,7 @@ chapter: "pn3-09"
 canon_layer: planned
 status: proposed
 aliases: ["the canh pn3-09 ban DeepSeek", "thẻ cảnh nhặt đủ một bầu trời", "pn3-09 ds PPCT"]
-related: ["[[pn-arc-3-ds-plan]]", "[[pn3-08-ds-nhap]]", "[[pn3-08-ds-kiem]]", "[[20261118-canon-phien-ngoai-arc-3]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[Takeshi-Yamamoto]]", "[[Irie-Shoichi]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Kyoya-Hibari]]", "[[Hayato-Gokudera]]", "[[Haru-Miura]]", "[[Rokudo-Mukuro]]", "[[Byakuran-Gesso]]"]
+related: ["[[pn-arc-3-ds-plan]]", "[[pn3-08-ds-nhap]]", "[[pn3-08-ds-kiem]]", "[[hard-rules]]", "[[ai-tells]]", "[[Takeshi-Yamamoto]]", "[[Irie-Shoichi]]", "[[Kyoko-Sasagawa]]", "[[Ryohei-Sasagawa]]", "[[Kyoya-Hibari]]", "[[Hayato-Gokudera]]", "[[Haru-Miura]]", "[[Rokudo-Mukuro]]", "[[Byakuran-Gesso]]"]
 source:
   type: inference
   ref: "Claude 18/11/2026, từ pn-arc-3-ds-plan mục pn3-09 (Aurel duyệt; C13, C14 để DeepSeek/GPT); dàn ý cũ III.7; note Database Kyoko-Sasagawa, Ryohei-Sasagawa, Haru-Miura (tạo 18/11/2026), Takeshi-Yamamoto, Irie-Shoichi, Kyoya-Hibari, Hayato-Gokudera; dữ kiện pn3-08-ds-kiem."

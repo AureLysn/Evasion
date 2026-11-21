@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 37 PPCT", "ban nhap tieng Trung ch37", "bo ma ban nhap", "反派战争37 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan|plan ch37]]", "[[arc-5-ke-san-va-con-moi]]"]
+related: ["[[04_Manuscript/chapters/arc-5/ch37/ch37-plan|plan ch37]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

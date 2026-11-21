@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.kiritsugu]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.300"
 aliases: ["plan ch48 ban DeepSeek", "dàn ý chương 48 bản song song", "台下 ch48 PPCT", "duoi san khau ch48", "POV Kiritsugu dem cuoi"]
-related: ["[[ch47-ds-plan]]", "[[ch47-ds-nhap]]", "[[deepseek-20261115]]", "[[ch48-pov-kiritsugu]]", "[[noi-luat-dung-chi-o-pov-kiritsugu]]", "[[saber-pha-chen-nhu-canon]]", "[[ket-gioi-giau-irisviel-o-tosaka]]", "[[risei-phat-tin-hieu-dem-cuoi]]", "[[irisviel-song]]", "[[tsuna-cuu-irisviel]]", "[[tsuna-chan-dam-chay-bang-zero-point]]", "[[ch41-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch35-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Kirei-Kotomine]]", "[[Holy-Grail]]", "[[20261117-canon-arc-7-ch47-49]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
+related: ["[[ch47-ds-plan]]", "[[ch47-ds-nhap]]", "[[ch41-ds-nhap]]", "[[ch36-ds-nhap]]", "[[ch35-ds-nhap]]", "[[Kiritsugu-Emiya]]", "[[Kirei-Kotomine]]", "[[Holy-Grail]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/structure/tropes|tropes]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — chương 6 arc 7 cho nhánh deepseek-20261115, theo khung ch47–51 trong ch47-ds-plan (Aurel duyệt 17/11). Canon: Database/Fandom/Fate Kiritsugu-Emiya (sổ cái lệnh chú; Act 16 Part 6, 8, 9), Kirei-Kotomine (Act 16 Part 6), Holy-Grail (Act 16 Part 6–10). Chỉnh theo bản DS ch35, ch36, ch41, ch47. Aurel 17/11/2026: sửa C8 'Kết ở Saber tan'; 'Duyệt, viết ch48'."
@@ -25,7 +25,7 @@ last_updated: 2026-11-17
 
 # Kế hoạch chương 48 bản DeepSeek — 台下 · Dưới sân khấu · ✅ AUREL DUYỆT 17/11/2026
 
-> Chương 6 arc 7, cùng đêm với [[ch47-ds-nhap]], **POV Kiritsugu** ([[ch48-pov-kiritsugu]]). Chương POV Kiritsugu thứ tư của nhánh (sau ch19, ch35, ch41). Chữ 容器 · 圣杯容器 **được** dùng ở chương này, và chỉ ở chương này ([[noi-luat-dung-chi-o-pov-kiritsugu]]).
+> Chương 6 arc 7, cùng đêm với [[ch47-ds-nhap]], **POV Kiritsugu** (ch48-pov-kiritsugu). Chương POV Kiritsugu thứ tư của nhánh (sau ch19, ch35, ch41). Chữ 容器 · 圣杯容器 **được** dùng ở chương này, và chỉ ở chương này (noi-luat-dung-chi-o-pov-kiritsugu).
 
 ## Mục tiêu chương
 
@@ -33,7 +33,7 @@ Ch47 là việc trên sân khấu; ch48 là việc **dưới** sân khấu. Kiri
 
 ## Beat bắt buộc
 
-1. **Dưới sân khấu *(C1)*.** Kho đạo cụ dưới sân khấu, đang giữa trận Kiritsugu–Kirei (canon Act 16 Part 6): Time Alter, Origin Bullet bị Kirei vô hiệu bằng lệnh chú làm nguồn ma lực, Avalon vá thân thể hắn. Kiritsugu tới đây theo tín hiệu của giám sát viên ([[risei-phat-tin-hieu-dem-cuoi]]), một mình; Maiya nằm ở chỗ trú (bản DS ch41: cô sống). Giữa trận, trên trần có **tiếng chân chạy lên sân khấu**, rồi một giọng nói ngắn, không rõ chữ. Hắn không lên được.
+1. **Dưới sân khấu *(C1)*.** Kho đạo cụ dưới sân khấu, đang giữa trận Kiritsugu–Kirei (canon Act 16 Part 6): Time Alter, Origin Bullet bị Kirei vô hiệu bằng lệnh chú làm nguồn ma lực, Avalon vá thân thể hắn. Kiritsugu tới đây theo tín hiệu của giám sát viên (risei-phat-tin-hieu-dem-cuoi), một mình; Maiya nằm ở chỗ trú (bản DS ch41: cô sống). Giữa trận, trên trần có **tiếng chân chạy lên sân khấu**, rồi một giọng nói ngắn, không rõ chữ. Hắn không lên được.
 2. **Trong Chén *(C2)*.** Bùn đen rỉ xuống từ sàn sân khấu, nuốt cả hai. Ảo ảnh canon (Act 16 Part 8): "ý chí của Chén" mượn hình Irisviel, phép tính cứu nhóm nào ngày một nhỏ; hắn bắn Illya; hắn bóp cổ "Irisviel" để từ chối. Chữ 容器 lên trang ở đây, qua lời hình bóng ấy hoặc qua ý nghĩ hắn.
 3. **Tỉnh dậy, bắn *(C3)*.** Kiritsugu tỉnh trong kho đạo cụ, bắn Kirei từ phía sau khi Kirei xin đừng phá Chén (canon). Không tả Kirei sống lại (việc của bùn, ngoài trang).
 4. **Lô khán đài *(C4, C5, C6)*.** Hắn lên lô. Từ trên cao: Chén vàng lơ lửng giữa không trung trên sân khấu, **không ở trên người nào**; Saber nằm, chân trái bị xuyên; Archer đứng giữa sân khấu. Và ở cánh gà sân khấu: **người ở quán ăn** (bản DS ch36), cậu thiếu niên đi cùng hắn, và Irisviel — mắt mở, ngực lên xuống. Một cuộn băng trắng trên sàn. Hắn biết vật chứa phải tiêu cô; hắn không biết vì sao cô còn. Hắn nhìn cô một nhịp.
@@ -43,9 +43,9 @@ Ch47 là việc trên sân khấu; ch48 là việc **dưới** sân khấu. Kiri
 ## Hook phải chạm
 
 - [[kiritsugu-la-master-that]] — trạm cuối: hai đạo cuối, Saber biết hắn là ai.
-- [[irisviel-binh-chua-chi-he-qua-tsuna]] — hệ quả lên trang qua POV Kiritsugu (容器 được dùng).
+- irisviel-binh-chua-chi-he-qua-tsuna — hệ quả lên trang qua POV Kiritsugu (容器 được dùng).
 - [[hook-can-dazai-de-thang-archer]] — chạm: Kiritsugu thấy một đạo lệnh chú của người ở quán ăn đã mất (băng trên sàn, mu bàn tay); không hiểu để làm gì.
-- [[tsuna-chan-dam-chay-bang-zero-point]] — **không** gieo ở ch48; ch49 mở bằng lửa.
+- tsuna-chan-dam-chay-bang-zero-point — **không** gieo ở ch48; ch49 mở bằng lửa.
 
 ## Tuyến cỡ trung — gieo → trả
 
@@ -116,4 +116,4 @@ Khoảng 02:05 (giữa trận dưới sân khấu) → ~02:40 (Chén vỡ, Saber
 
 ## Quyết định còn treo chặn chương này
 
-Không có câu ❌. Ràng buộc mở trong [[saber-pha-chen-nhu-canon]] ("hoàn cảnh ra lệnh có thể khác canon khi Irisviel sống; chốt khi plan ch48") — xử lý ở C4.
+Không có câu ❌. Ràng buộc mở trong saber-pha-chen-nhu-canon ("hoàn cảnh ra lệnh có thể khác canon khi Irisviel sống; chốt khi plan ch48") — xử lý ở C4.

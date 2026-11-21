@@ -20,7 +20,7 @@ target_paragraph_mean: 35
 target_sentence_median: 16
 status: planned
 aliases: ["canh 42-02 po dao xia mian", "坡道下面 ch42", "chuon chuon canh chan doc qua dem", "以前是不碰。现在是……看着。"]
-related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[canh-chan-doc-nha-tho-qua-dem]]", "[[nha-tho-fuyuki]]", "[[to-caster-noi-ba-dao-lenh-chu]]", "[[hook-can-dazai-de-thang-archer]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch42/ch42-plan]]", "[[nha-tho-fuyuki]]", "[[hook-can-dazai-de-thang-archer]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-30
 ---

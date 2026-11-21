@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["chuong 40 PPCT", "ban nhap tieng Trung ch40", "gia ban nhap", "反派战争40 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan|plan ch40]]", "[[arc-6-co-xe-gia]]"]
+related: ["[[04_Manuscript/chapters/arc-6/ch40/ch40-plan|plan ch40]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

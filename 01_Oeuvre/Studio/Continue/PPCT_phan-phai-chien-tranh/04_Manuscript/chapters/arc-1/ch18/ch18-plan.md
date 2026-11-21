@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.dazai]
 target_words: "≥ 1.500 chữ Hán — dự kiến ~2.400"
 aliases: ["plan ch18 PPCT", "dan y chuong 18 PPCT", "nhat ky giac mo ch18", "mot ngay o Vongola ch18", "人不吃饭总归是不行的 ch18"]
-related: ["[[arc-1-vuong-yen-ha-man]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[dazai-tim-gokudera-lam-dau-moi]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-nhan-mare-trong-tay-tsuna]]", "[[hook-gokudera-dang-duoc-tim]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]"]
+related: [ "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[hook-nhan-mare-trong-tay-tsuna]]", "[[hook-gokudera-dang-duoc-tim]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 15/09/2026 — theo lua chon cua Aurel: A (giac mo = ky uc Tsuna) · ghep Huong 1+2 · P1 · M3 · nhat ky ngoi mot · khong ghi ngay · Gokudera A"
@@ -33,7 +33,7 @@ last_updated: 2026-09-15
 
 1. **Nhật ký mở**: Dazai viết sau khi tỉnh — lại mơ, như tác giả hứa (ghi chú ch10: 「你接下来没什么不做梦的日子了」). Không dòng ngày.
 2. **Một ngày ở Vongola** (ký ức, qua mắt Tsuna): buổi sáng ở tổng bộ, giấy tờ, Gokudera gọi 「十代目」, gia sư. Dazai thấy **tay Tsuna**: nhẫn đá xanh ở **ngón giữa tay phải**, **ngón trỏ tay trái trống** — [[dinh-danh-vat-pham-tren-nguoi-tsuna]].
-3. **Người Dazai đã cho tìm**: Dazai nhận ra Gokudera — người hắn dùng Cảng Mafia tìm — và vì sao hắn tìm: mắt xích để tới Tsuna — [[dazai-tim-gokudera-lam-dau-moi]]. Nhìn "gia đình" thế giới A của Tsuna; không ghen ra mặt — [[gia-dinh-cua-tsuna-la-dazai]].
+3. **Người Dazai đã cho tìm**: Dazai nhận ra Gokudera — người hắn dùng Cảng Mafia tìm — và vì sao hắn tìm: mắt xích để tới Tsuna — dazai-tim-gokudera-lam-dau-moi. Nhìn "gia đình" thế giới A của Tsuna; không ghen ra mặt — [[gia-dinh-cua-tsuna-la-dazai]].
 4. **Tỉnh dậy — P1**: Tsuna hiện hình; **Dazai nói thật là mình lại mơ** (như ch10 — **không** giấu nhau); nhìn nhẫn cánh bạc trên **ngón trỏ trái** của Tsuna, **không hỏi**.
 5. **Bữa sáng**: Dazai nói với Tsuna 「人不吃饭总归是不行的」 — câu Tsuna từng nói với Dazai kiếp trước (tiền truyện hạ), nay đảo người nói.
 

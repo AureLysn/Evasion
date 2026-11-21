@@ -18,7 +18,7 @@ min_dialogue_turns: 4
 target_terms: "≥ 3 — 十代目 · 节目 · 直播"
 status: final
 aliases: ["the ch18 canh 02 xun zhao", "Gokudera hoi tham hang xom", "Gokudera luc giay to", "Gokudera o 市役所"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[dan-y-ch16-ch18-lam-lai-tdtb]]", "[[qd-nha-bo-hoang-4-5-nam-tdtb]]", "[[qd-nha-namimori-bo-hoang-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[angelie-tap-tdtb]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-the-lam-lai]]", "[[qd-nha-bo-hoang-4-5-nam-tdtb]]", "[[qd-nha-namimori-bo-hoang-tdtb]]", "[[qd-0038-quet-bang-ho-so-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[angelie-tap-tdtb]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-03
 ---
@@ -47,7 +47,7 @@ last_updated: 2026-10-03
 - 🔴 Không phán xét bố mẹ; hàng xóm không nói xấu ai.
 - 🔴 Không liên hệ đạo diễn, không nghĩ tới chuyện lên show ([[q-59-gap-27-o-dau-tdtb]] còn mở).
 - 🔴 Ký ức mơ hồ, mức ch13; không gọi tên hiện tượng.
-- 🔴 Không Hibari, không 风纪委员, không cảm giác bị theo dõi ở 并盛 — Hibari là arc 5 ([[chia-arc-huong-b-tdtb]], [[q-ky-uc-mukuro-hibari-tdtb]]).
+- 🔴 Không Hibari, không 风纪委员, không cảm giác bị theo dõi ở 并盛 — Hibari là arc 5 (chia-arc-huong-b-tdtb, [[q-ky-uc-mukuro-hibari-tdtb]]).
 
 ## Vì sao — writer đọc, nhân vật KHÔNG biết
 

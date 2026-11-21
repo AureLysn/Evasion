@@ -11,21 +11,21 @@ needed_before:
   chapter: 3
 decision_owner: user
 aliases: ["ong tre giai quyet gi", "problem la gi", "your problem", "van de cua Tsuna"]
-related: ["[[emb-chot-cau-hoi-mo]]", "[[emb-lam-lai-tu-nguon]]", "[[dot7-quyet-dinh]]", "[[ong-tre]]", "[[fact-loi-flame]]"]
+related: ["[[emb-chot-cau-hoi-mo]]", "[[ong-tre]]", "[[fact-loi-flame]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # "Problem" trong lời nhắn của Kawahira là vấn đề gì?
 
 > ✅ **ĐÃ CHỐT 17/09/2026** — [[emb-chot-cau-hoi-mo]] mục 2. **Phương án C**: cả lõi Flame lẫn sự cô lập, Kawahira cố tình mập mờ; phải có cảnh Tsuna nhận ra nghĩa thứ hai. Phần dưới giữ để truy vết.
 
-> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án C** *(Aurel, đợt 7)*: **cả hai** — lõi Flame **và** sự cô lập — và **Kawahira cố tình mập mờ**.
+> ⏪ **MỞ LẠI 15/09/2026 — đề xuất cũ: phương án C** *(Aurel, 16/08/2026)*: **cả hai** — lõi Flame **và** sự cô lập — và **Kawahira cố tình mập mờ**.
 >
-> ⚠️ **Không phải quyết định.** dot7 đã `superseded` — xem [[emb-lam-lai-tu-nguon]].
+> ⚠️ **Không phải quyết định.** Đề xuất cũ này đã `superseded`.
 >
-> Ràng buộc kèm theo: cần **một cảnh sau này Tsuna nhận ra nghĩa thứ hai**. Xem [[dot7-quyet-dinh]].
+> Ràng buộc kèm theo: cần **một cảnh sau này Tsuna nhận ra nghĩa thứ hai**.
 
 ## Vì sao cần quyết
 
@@ -63,4 +63,4 @@ Arc: brat · Chương: **3** — chương đầu tiên của phần viết tiế
 
 ## Ghi chú
 
-Bản `aurel-main` Ch3 đã chọn một hướng rồi. **Chưa đối chiếu** hướng đó với câu hỏi này — việc của đợt 4.
+Bản v3 *(BratArc Ch3–8, `superseded`)* không dùng làm căn cứ.

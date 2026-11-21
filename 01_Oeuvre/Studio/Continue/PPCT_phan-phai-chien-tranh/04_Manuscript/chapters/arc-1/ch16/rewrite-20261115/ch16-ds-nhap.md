@@ -13,7 +13,7 @@ pov: [character.PPCT.artoria, character.PPCT.irisviel]
 language: zh
 title: "【太纲无差】反派战争16（DeepSeek版）"
 aliases: ["ch16 ban DeepSeek nhap", "chương 16 bản song song DeepSeek", "反派战争16 DeepSeek"]
-related: ["[[ch16-ds-the-canh]]", "[[ch16-ds-kiem]]", "[[deepseek-20261115]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter (aurel-main, final)]]"]
+related: ["[[ch16-ds-the-canh]]", "[[ch16-ds-kiem]]", "[[04_Manuscript/chapters/arc-1/ch16/ch16-chapter|ch16-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch16-ds-the-canh (2 lượt: A–B, rồi C–E); Claude kiểm lượt 1 và sửa (xem ch16-ds-kiem). Không dùng văn bản ch16-chapter final. Chat: https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72"

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Tsuna Kyouya", "Tsuna va Kyouya", "quan he Tsuna Kyouya", "anh em ho", "small animal"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[fact-kyouya-anh-em-ho]]", "[[kyouya-loai-chu-chot]]", "[[tsuna--kyouya-phan-cu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[fact-kyouya-anh-em-ho]]", "[[kyouya-loai-chu-chot]]"]
 source:
   type: author_comment
   ref: "AO3 comment 2024-09-11 + Part 2 Ch2 POV Kyouya"
@@ -19,12 +19,12 @@ addressing:
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [relationship, core]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Kyouya
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Quan hệ chính thức
 
@@ -41,7 +41,7 @@ last_updated: 2026-09-19
 
 > ✅ **Aurel chốt 17/09/2026.** Nguyên văn: *"Tsuna gọi Kyouya"*.
 >
-> Trước đó ô này ghi *"chưa có trong văn bản gốc — **không được bịa**"*, và đúng là nguyên tác chưa cho. [[brat-ch2-chapter-ban-20261001|Brat Ch2]] là chương đầu tiên có hai người nói chuyện với nhau suốt một cảnh dài, nên nó **buộc** phải quyết. `check-continuity` nêu, Aurel chốt.
+> Trước đó ô này ghi *"chưa có trong văn bản gốc — **không được bịa**"*, và đúng là nguyên tác chưa cho. Cảnh đầu tiên có hai người nói chuyện với nhau suốt một cảnh dài **buộc** phải quyết. `check-continuity` nêu, Aurel chốt.
 
 ⚠️ Đây là **quyết định của nhánh**, không phải dữ kiện nguyên tác. Fact mới từ tác giả gốc mà mâu thuẫn thì fact thắng — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]] §Kế thừa.
 
@@ -65,10 +65,6 @@ Cậu **không** nghĩ "mình lo cho Tsuna". Cậu nghĩ Tsuna là **loài chủ
 
 Đã harmonize chính thức chưa · Tsuna nghĩ gì về cậu ở dòng thời gian này · hai người đã gặp nhau bao nhiêu lần
 
-## Ch4 — bond chạy ở ba nghìn cây số
+## Bond — khi nó hình thành
 
-Tsuna ra khỏi thị trấn lúc nửa đêm. [[kyouya]] **tỉnh dậy lúc 00:04** vì điều đó, đọc được hướng và tốc độ, và ghi nhận **sợi dây không mỏng đi**.
-
-Cậu ta cân nhắc cảng, đường, năm người có thể gọi dậy — rồi thấy mọi phương án đều tới muộn, và **nằm xuống lại**.
-
-⛔ Cậu ta **vẫn không biết vì sao mình cảm được**. [[bond-bam-vao-cay]] giữ nguyên ô ấy.
+Luật neo của bond: [[bond-bam-vao-cay]] *(`planned`)*. Bond bám vào nơi lửa của Tsuna thật sự ở, và [[kyouya]] **không biết vì sao mình cảm được**.

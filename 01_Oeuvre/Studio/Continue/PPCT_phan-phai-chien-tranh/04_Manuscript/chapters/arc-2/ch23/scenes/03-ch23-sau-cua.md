@@ -18,7 +18,7 @@ target_paragraph_mean: 40
 target_sentence_median: 18
 status: planned
 aliases: ["canh 23-03 sau cua", "bat Ryunosuke", "dua tre thu sau", "Dazai va Ryunosuke noi ve cai chet", "门后 ch23"]
-related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[Ryuunosuke-Uryuu]]", "[[ryunosuke-gay-an-khong-servant]]", "[[khu-nha-ryunosuke]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch23/ch23-plan|plan ch23]]", "[[Ryuunosuke-Uryuu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-21
 ---
@@ -52,7 +52,7 @@ Gặp mặt. Hung thủ là một người thường, vui vẻ, không sợ, và
 ## Dữ kiện quá khứ — nguyên văn / canon
 
 - Canon Ryūnosuke — [[Ryuunosuke-Uryuu]]: vui vẻ, cởi mở, dễ đọc cảm xúc người khác; tò mò về cái chết như một thứ tri thức; tóc cam, hai khuyên tai, dây xích ở thắt lưng; chưa từng bị nghi.
-- Canon **đã loại**: hang ổ cống ngầm, vòng tay thôi miên, sách phép — [[ryunosuke-gay-an-khong-servant]]
+- Canon **đã loại**: hang ổ cống ngầm, vòng tay thôi miên, sách phép — ryunosuke-gay-an-khong-servant
 - Bản thử nghiệm cũ có "đối thoại hai loại trống rỗng". Đó **chỉ là đề xuất**, không phải sự thật (`forbid: dung-de-xuat-ban-thu-nghiem-cu-nhu-su-that` — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/06_Alternate_Versions/branches/aurel-main|aurel-main]]). Aurel chọn C4: giữ ngắn.
 
 ## Kết cảnh phải đạt được gì

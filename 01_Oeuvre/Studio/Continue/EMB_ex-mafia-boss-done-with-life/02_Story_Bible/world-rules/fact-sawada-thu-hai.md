@@ -16,12 +16,12 @@ confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [fact, author-confirmed]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Dòng Sawada thứ hai — liên tục có Sky, và cố tình giấu
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 > ⚠️ **"Dòng thứ hai" = [[sawada-ieyasu]]**, tức dòng hậu duệ Giotto, **bên nội** của Tsuna. Nó là "thứ hai" vì **đến sau** — [[sawada-tu-te]] đã ở Namimori từ trước và Giotto **lấy họ của họ**. Đừng đọc "thứ hai" thành "phụ".
 

@@ -18,7 +18,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 24-01 tuan lenh", "遵命 ch24", "Dazai nghe Sola-Ui ra lenh", "ban tay Kayneth quan bang"]
-related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[sola-ui-gianh-lenh-chu]]", "[[to-caster-bat-ryunosuke]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[can-cu-to-caster]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch24/ch24-plan]]", "[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[can-cu-to-caster]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---

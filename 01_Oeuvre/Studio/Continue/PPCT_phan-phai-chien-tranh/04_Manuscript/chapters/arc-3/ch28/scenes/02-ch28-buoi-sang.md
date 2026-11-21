@@ -20,7 +20,7 @@ target_paragraph_mean: 38
 target_sentence_median: 18
 status: planned
 aliases: ["canh 28-02 buoi sang", "早晨 ch28", "Dazai suy ra nha tho", "moi nghi Master cua Assassin ch28"]
-related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[dazai-nghi-master-assassin-cung-phe-archer]]", "[[assassin-tap-kich-vuong-yen]]", "[[lancer-chet-trong-quyet-dau]]", "[[hook-to-caster-khac-che-to-saber]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch28/ch28-plan]]", "[[hook-to-caster-khac-che-to-saber]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
@@ -56,8 +56,8 @@ Tổ Caster không còn mắt ở nhà kho; Dazai **suy** ra chỗ Sola-Ui đi *
 
 ## Dữ kiện quá khứ — nguyên văn / canon
 
-- ch17: 「“Assassin死掉的那出戏，”太宰治说，“唱戏的大概不止Archer一个。”」 · 「“一个还留着令咒的御主，和Archer那边是一伙的。”太宰治顿了顿，“也可能不是。现在还只是猜。”」 — [[dazai-nghi-master-assassin-cung-phe-archer]]
-- ch17: 「几十个Assassin同时行动，目标明确地冲着酒宴来。」 — Assassin bị Rider diệt sạch ([[assassin-tap-kich-vuong-yen]]).
+- ch17: 「“Assassin死掉的那出戏，”太宰治说，“唱戏的大概不止Archer一个。”」 · 「“一个还留着令咒的御主，和Archer那边是一伙的。”太宰治顿了顿，“也可能不是。现在还只是猜。”」 — dazai-nghi-master-assassin-cung-phe-archer
+- ch17: 「几十个Assassin同时行动，目标明确地冲着酒宴来。」 — Assassin bị Rider diệt sạch (assassin-tap-kich-vuong-yen).
 - ch27: 「他会想很久，那只虫子到底是谁放的。」 · con bọ nhà kho đã nổ ([[fact-cong-nghe-vongola-trong-chien-tranh]]).
 - ch27: 「她那句关于令咒的话，最后还是算数了。」
 

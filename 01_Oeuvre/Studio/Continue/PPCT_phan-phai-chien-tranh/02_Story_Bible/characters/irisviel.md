@@ -15,7 +15,7 @@ authority: original_author
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
-last_updated: 2026-09-30
+last_updated: 2026-11-21
 ---
 
 # Irisviel von Einzbern
@@ -32,17 +32,6 @@ Người đi cùng Saber, **không phải Master** — [[kiritsugu-la-master-tha
 - Ch12: tiếp đón Rider và tổ Caster ở lâu đài.
 - Ch13: bất ngờ vì Caster bênh Master của mình đến mức đó.
 - Ch15: can Saber, không kịp.
-- Ch16 *(viết tiếp)*: đưa tay định kéo Saber lại thì Saber đã buông tay Tsuna; lo cho Saber, không biết cô đã thấy gì.
-
-## Trạng thái hiện tại — sau ch40 (viết tiếp, chốt 30/09/2026)
-
-Tối ngày 15: **bị bắt** — bị bế đi trên các mái nhà, bất động; tổ Caster chỉ thấy mái tóc trắng qua ống kính và **đoán** là cô. Bị mang tới đâu: ngoài trang — [[to-caster-thay-xe-gia]]. **Bổ sung ch41 (phía lâu đài):** bị bắt ngay trong phòng mình, không có dấu vết giằng co; còn lại chiếc khăn choàng trắng trên ghế — [[kiritsugu-ve-lau-dai-trong]].
-
-*Trước đó — ch19:* Đêm ngày 4 ở cùng Maiya trong lâu đài theo lệnh Kiritsugu (「你和爱丽丝菲尔留在原地，不要出来。」); sau trận chạy ra rừng tới chỗ Saber — [[kayneth-tap-kich-lau-dai-einzbern]].
-
-*Trước đó — ch17:* Được Saber che khi Assassin tập kích; nhận ra Cố hữu kết giới (「固有结界……」); đưa Saber về sau yến (ch17).
-
-*Trước đó — ch16:* Ở Vương Yến cạnh Saber; lo lắng, đoán Saber đã thấy điều gì đó đau nhưng không biết là gì — 「她到底看见了什么？爱丽丝菲尔想。」
 
 ## Nhân vật này BIẾT gì
 

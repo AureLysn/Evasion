@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Reborn", "sat thu Reborn", "gia su cua Tsunashige", "thay cu", "Sun Arcobaleno", "cai bong", "bai thi cuoi"]
-related: ["[[tsuna]]", "[[tsunashige]]", "[[fact-toan-canh-tuong-lai]]", "[[y-chinh-cac-arc]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[kawahira]]", "[[fact-guardian-hien-co]]", "[[reborn-phan-cu]]"]
+related: ["[[tsuna]]", "[[tsunashige]]", "[[fact-toan-canh-tuong-lai]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[kawahira]]", "[[fact-guardian-hien-co]]"]
 source:
   type: fic_text
   ref: "P1 Ch1-Ch3 (hoi uc Tsuna); P1 Ch3 (toan canh tuong lai); AO3 comment cua tac gia"
@@ -17,14 +17,12 @@ flame: Chiyu (Sun)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, gap-dot8g, unappeared]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Reborn — **chưa lên hình, và là bài thi cuối**
 
-> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong đợt [[emb-lam-lai-tu-nguon]] — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
-
-> 🔴 Được nhắc trong **24 note** của vault mà **không có note nào**. Phát hiện khi dựng lại dàn ý ở đợt 8g — ngay sau khi mình đặt ông làm điểm kết của cả sáu arc. Cùng hình dạng lỗi với [[gap-nhan-vat]].
+> ✅ **Đối chiếu lại toàn văn nguồn 16/09/2026** trong lượt làm lại từ nguồn — nội dung note khớp với nguồn, không phải sửa. Sổ: [[20260916-p2-ch2]] và bốn sổ trước.
 
 ## Ông chưa xuất hiện một dòng nào
 
@@ -40,7 +38,7 @@ Toàn bộ những gì vault biết đến từ **ba nguồn gián tiếp**: h�
 
 Trong đời này ông tới Namimori để dạy **[[tsunashige]]**, và **chưa từng gặp Tsuna**.
 
-### 🔴 Ông tới để làm gì — Aurel chốt ở đợt 8i
+### 🔴 Ông tới để làm gì — Aurel chốt
 
 **Không phải** để đánh giá một ứng viên Decimo. Ba việc:
 
@@ -95,15 +93,15 @@ Reply của tác giả trên AO3, khi độc giả nói về cuộc gặp đầu
 
 Và với Tsuna, đó là **lần đầu có người đối xử với cậu như một người thường** kể từ khi cậu một tháng tuổi.
 
-## ⚠️ Ba chỗ chưa biết — và đều chặn Arc 5, Arc 6
+## ⚠️ Ba chỗ chưa biết — và đều chặn giai đoạn Teen và đoạn kết
 
 | | |
 |---|---|
-| **Lời nguyền Arcobaleno** | ✅ **giải trước khi ông tới** — chốt ở [[y-chinh-cac-arc]] Arc 5. Nên ông tới **đã hồi phục**, và 🔴 **đang giận vì không biết ai đã cứu mình**. Ân nhân của ông ở ngay trong ngôi đền ông sắp bước vào |
+| **Lời nguyền Arcobaleno** | ✅ **giải trước khi ông tới** — chốt trong ý chính các arc *(giai đoạn Teen)*. Nên ông tới **đã hồi phục**, và 🔴 **đang giận vì không biết ai đã cứu mình**. Ân nhân của ông ở ngay trong ngôi đền ông sắp bước vào |
 | **Ông có nghi gì không** | Hyper Intuition của Tsuna *"rivaled Uni's future sight"*. Reborn thì có bản năng sát thủ. Ông sẽ **cảm thấy có gì đó** — nhưng cảm thấy gì? |
 | **Độc giả đoán ông là Sun của Tsuna** | tác giả **không xác nhận**. Và Tsuna đã nói rõ cậu **không chọn lại bộ cũ** — [[fact-bang-tinh-hinh-ke-hoach]] |
 
-🔴 **Và một khoảng trống lớn hơn:** Aurel có ~500 dòng chưa nạp trong tài liệu giả thuyết, **trong đó có hẳn một phần về Reborn và Arcobaleno**. Note này viết mà chưa đọc phần đó. Cần nạp trước khi dựng chi tiết Arc 5–6.
+🔴 Tài liệu giả thuyết của Aurel có hẳn một phần về Reborn và Arcobaleno — [[gia-thuyet-aurel-2]]. Đọc nó trước khi dựng chi tiết giai đoạn Teen và đoạn kết.
 
 ## Lan can
 

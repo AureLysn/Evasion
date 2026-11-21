@@ -19,7 +19,7 @@ source:
   ref: "Tien truyen thuong (doan cuoi truoc 未完); 反派战争 ch10"
 authority: original_author
 confidence: 1.0
-last_updated: 2026-09-24
+last_updated: 2026-11-21
 tags: [d/fanfic, k/reference, p/personal]
 ---
 
@@ -35,8 +35,6 @@ tags: [d/fanfic, k/reference, p/personal]
 ## Hệ quả
 
 Tsuna thế giới A chết — [[fact-tsuna-kiep-truoc-chet-that]].
-
-- **ch32 (viết tiếp):** phần **trước** cuộc gặp lên trang qua giấc mơ của Dazai — phòng mơ trắng (nguyên văn tiền truyện thượng), hành lang, giọng không tên 「十代目……去……小心……」, cánh cửa phòng họp; tỉnh trước khi cửa mở. **Bên trong không lặp lại** — [[dazai-mo-buoi-truoc-cuoc-dam-phan]].
 
 ## Mở ra hook nào
 

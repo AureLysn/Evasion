@@ -9,7 +9,7 @@ status: locked
 resolves: [question.PPCT.q-vat-pham-tren-nguoi-tsuna-la-gi]
 decided_at: 2026-09-13
 aliases: ["dinh danh vat pham tren nguoi Tsuna", "nhan do la nhan Simon", "nhan cam co canh la nhan Mare", "nhan da xanh duong la nhan Vongola", "ba vat pham bau troi da chot"]
-related: ["[[q-vat-pham-tren-nguoi-tsuna-la-gi]]", "[[fact-vat-pham-tren-nguoi-tsuna]]", "[[q-loi-giai-bi-an-trung-tam]]", "[[Vongola-Ring]]", "[[Tri-ni-sette]]", "[[Arcobaleno-Pacifier]]"]
+related: ["[[q-vat-pham-tren-nguoi-tsuna-la-gi]]", "[[fact-vat-pham-tren-nguoi-tsuna]]", "[[Vongola-Ring]]", "[[Tri-ni-sette]]", "[[Arcobaleno-Pacifier]]"]
 source:
   type: user_input
   ref: "Aurel, chat 13/09/2026: 'nhan do co kha nang cao la nhan simon, nhan cam la nhan mare, mau cam co canh, nhan vongola co vien da chinh mau xanh duong'"
@@ -44,6 +44,6 @@ last_updated: 2026-09-13
 
 ## Ràng buộc kéo theo
 
-- Giả thuyết ba vật phẩm bầu trời (Vongola · Mare · núm vú) **có đủ vật chứng**. Nó vẫn **chưa phải lời giải** bí ẩn trung tâm — [[q-loi-giai-bi-an-trung-tam]] còn mở.
+- Giả thuyết ba vật phẩm bầu trời (Vongola · Mare · núm vú) **có đủ vật chứng**. Nó vẫn **chưa phải lời giải** bí ẩn trung tâm — q-loi-giai-bi-an-trung-tam còn mở.
 - Viết nhẫn Simon lên trang như một cái tên: cần đối chiếu canon trước (`crosscheck-canon`); chỉ tả năng lực như ch8 thì không cần.
 - Nhẫn đeo cổ ch4: không gán tên cho tới khi có quyết định.

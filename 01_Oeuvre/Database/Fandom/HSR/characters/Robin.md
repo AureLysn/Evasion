@@ -74,4 +74,4 @@ Không ghi ở đây. `Penacony-npc-ngoai-hinh` *(ảnh `Character_Robin_Game.pn
 
 ## Fic nào dùng theo hướng nào
 
-- **CLS** — ngoại hình Robin theo ảnh In-Game của wiki: [[05_Evasion/01_Oeuvre/Studio/Continue/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]]
+- **CLS** — ngoại hình Robin theo ảnh In-Game của wiki: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/Penacony-npc-ngoai-hinh|Penacony-npc-ngoai-hinh]]

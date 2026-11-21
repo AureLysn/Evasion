@@ -10,7 +10,7 @@ chapter: 46
 canon_layer: planned
 status: proposed
 aliases: ["the canh ch46 ban DeepSeek", "thẻ cảnh ch46 bản song song", "ch46 ds PPCT"]
-related: ["[[ch46-ds-plan]]", "[[deepseek-20261115]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch45-ds-plan]]", "[[ch16-ds-nhap]]", "[[ch28-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch37-ds-nhap]]"]
+related: ["[[ch46-ds-plan]]", "[[hard-rules]]", "[[ai-tells]]", "[[ch45-ds-plan]]", "[[ch16-ds-nhap]]", "[[ch28-ds-nhap]]", "[[ch33-ds-nhap]]", "[[ch37-ds-nhap]]"]
 source:
   type: inference
   ref: "Claude 17/11/2026, từ ch46-ds-plan (Aurel duyệt C1–C6 17/11/2026)."

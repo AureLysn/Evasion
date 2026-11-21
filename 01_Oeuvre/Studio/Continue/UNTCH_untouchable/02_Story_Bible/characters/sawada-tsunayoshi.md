@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Sawada Tsunayoshi", "Tsuna", "Natsu", "Vongola Decimo", "Mini-Boss", "Decimo", "沢田綱吉", "hoc sinh 1-A", "soulmate cua Byakuran", "nguoi noi bai ca voi sat thu"]
-related: ["[[soulmate-au]]", "[[he-bond]]", "[[qd-huong-arc-01]]", "[[todoroki-shouto]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[thang-xep-hang]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[soulmate-au]]", "[[he-bond]]", "[[todoroki-shouto]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[thang-xep-hang]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch30, ch35-38, ch51, ch62, ch94, ch95, ch99, ch105, ch109, ch116, ch119, ch121, ch124, ch127."
@@ -15,7 +15,7 @@ authority: original_author
 confidence: 0.95
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-31
+last_updated: 2026-11-21
 ---
 
 # Sawada Tsunayoshi — `Natsu` · Vongola Decimo
@@ -68,7 +68,7 @@ that made him uncomfortable"*. Cậu **giấu giỏi** — Aizawa chưa từng t
   trên. Yakuza thân Vongola **đã gửi báo cáo thẳng cho cậu**. Xem [[mnet]].
 - ch62: cậu **đang chuẩn bị đảo chính Vongola**. Reborn bảo dừng; cậu đáp *"Ông ấy chọn tôi làm
   người kế vị."* / *"Chỉ vì ông ta hết lựa chọn."* Reborn: **"Touché."**
-- 🔴 **ch124 — bài cá voi sát thủ.** Xem [[qd-huong-arc-01]] quyết định #1. Điều kiện kích hoạt do
+- 🔴 **ch124 — bài cá voi sát thủ.** Điều kiện kích hoạt do
   chính cậu nêu: *"someone in my family is in immediate danger."*
 
 ### Cậu đang harmonize Todoroki Shouto mà không nói ra
@@ -110,6 +110,3 @@ cậu vừa gặp nạn, và cậu thấy **phiền**. Hyper Intuition vừa reo
 - **Aizawa** — thầy chủ nhiệm, **đang hiểu lầm** cậu bị Hero Commission ép. Cậu đã thử đính chính
   **hai lần và thất bại cả hai**
 
-## Vai trong arc 01
-
-Người **ra lệnh đẩy nhanh kế hoạch** ở cuối arc. Xem [[qd-huong-arc-01]].

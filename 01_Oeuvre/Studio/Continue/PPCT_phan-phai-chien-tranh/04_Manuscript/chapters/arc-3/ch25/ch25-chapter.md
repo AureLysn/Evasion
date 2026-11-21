@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.diarmuid, character.PPCT.artoria]
 language: zh
 aliases: ["chuong 25 PPCT", "ban nhap tieng Trung ch25", "破魔 ban nhap", "反派战争25 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan|plan ch25]]", "[[arc-3-hai-cay-thuong]]"]
+related: ["[[04_Manuscript/chapters/arc-3/ch25/ch25-plan|plan ch25]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

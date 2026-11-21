@@ -5,43 +5,41 @@ scope: branch
 lane: personal
 project: EMB
 branch: aurel-main
-canon_layer: branch_locked
-status: active
+canon_layer: planned
+status: draft
 aliases: ["Chiyo", "co gai canh pho", "nguoi canh nha Yamamoto", "co gai chi duong ra ga", "nguoi Hibari o pho Takesushi"]
-related: ["[[brat-ch2-chapter-ban-20261001]]", "[[sachiko]]", "[[indra]]", "[[hook-me-takeshi-va-sat-thu]]", "[[nha-hibari]]", "[[tsuna]]"]
+related: [ "[[sachiko]]", "[[indra]]", "[[hook-me-takeshi-va-sat-thu]]", "[[nha-hibari]]", "[[tsuna]]"]
 source:
   type: user_input
-  ref: "Len trang o brat-ch2-chapter.md canh 2.1 va 2.5; Aurel duyet delta 17/09/2026."
+  ref: "OC sinh tu ban nhap arc Brat (da xoa khi reset 20/11/2026); Aurel duyet nhan vat 17/09/2026. Tinh chinh 21/11/2026: ha tu branch_locked xuong planned, su kien cua ban nhap chuyen thanh y tuong."
 authority: user
-confidence: 1.0
+confidence: 0.9
 always_load: false
-load_for: [writer]
+load_for: [planner, writer]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character, minor]
-last_updated: 2026-09-17
+last_updated: 2026-11-21
 ---
 
 # Chiyo — người nhà Hibari canh phố Takesushi
 
+> `planned`. Chiyo ra đời trong bản nháp arc Brat, đã xóa khi reset 20/11/2026. Aurel duyệt nhân vật ngày 17/09/2026. Mọi thứ dưới đây là **ý tưởng để dùng lại**, chưa có cảnh nào **đã xảy ra**.
+
 ## Cô là ai
 
-Khoảng **mười chín tuổi**. Người nhà [[indra]] cắt đứng ở phố nhà Yamamoto, và đã đứng ở đó **nhiều tuần** trước khi chuyện xảy ra.
+Khoảng **mười chín tuổi**. Người nhà [[indra]] cắt đứng canh ở phố nhà Yamamoto.
 
-Cô là **một trong chín người** chặn bốn kẻ tới giết [[sachiko]] ở ngã tư tháp nước — [[hook-me-takeshi-va-sat-thu]].
+Vai dự kiến: một trong những người chặn sát thủ tới giết [[sachiko]] — [[hook-me-takeshi-va-sat-thu]].
 
-## Vì sao cô có note riêng
+## Vì sao cô đáng giữ
 
-Vì [[sachiko]] **đòi biết tên cô**, và đó là một trong ba việc bà quyết ngay tại chỗ:
+🔴 Ý chính: [[sachiko]] **đòi biết tên cô**. Một người canh gác **có tên** thì không còn là một biện pháp an ninh nữa. Ở chỗ đó tuyến này đổi chất: từ *Tsuna bố trí người* sang **hai người phụ nữ biết nhau**.
 
-> *"I want it. I want to know what to call her when I take food out to her, because I am going to take food out to her, and I am not going to stand in my own street calling someone* excuse me *for another six years."*
+## Chi tiết có thể dùng lại *(từ bản nháp đã xóa)*
 
-🔴 Một người canh gác **có tên** thì không còn là một biện pháp an ninh nữa. Đó là chỗ tuyến này đổi chất: từ *Tsuna bố trí người* sang **hai người phụ nữ biết nhau**.
-
-## Chi tiết trên trang
-
-- Tháng Ba năm ấy, Sachiko **chỉ đường ra ga** cho cô, không biết cô là ai
-- [[tsuna]] tự đi lấy tên cô, gây một khủng hoảng hành chính nhỏ trong nhà Hibari vì không ai biết ai được phép nói tên một người canh gác cho một chủ tiệm. [[indra]] dẹp bằng một câu: *"Tenmei-sama asked."*
-- Từ đó Sachiko **nuôi cô hai lần một tuần**, và mùa đông sau bắt đầu gửi đồ về cho mẹ cô
+- Trước đó, Sachiko từng **chỉ đường ra ga** cho cô mà không biết cô là ai
+- [[tsuna]] tự đi lấy tên cô, gây một khủng hoảng hành chính nhỏ trong nhà Hibari, vì không ai biết ai được phép nói tên một người canh gác cho một chủ tiệm. [[indra]] dẹp bằng một câu: *"Tenmei-sama asked."*
+- Từ đó Sachiko **mang đồ ăn ra cho cô**, rồi bắt đầu gửi đồ về cho mẹ cô
 
 ## Chưa biết
 

@@ -11,7 +11,7 @@ needed_before:
   arc: "dan-y-moi"
   chapter: "chuong dau tien co Nagi trong POV, va moi canh co mat cha me Nagi"
 aliases: ["cha me Nagi", "dealt with nghia la gi", "Tsuna lam gi voi cha me Chrome", "co giet khong"]
-related: ["[[emb-chot-cau-hoi-mo]]", "[[nagi]]", "[[nagi-khong-biet-chuyen-cha-me]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]"]
+related: ["[[emb-chot-cau-hoi-mo]]", "[[nagi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-bang-tinh-hinh-ke-hoach]]"]
 source:
   type: inference
   ref: "Question raised from the original fic's line 'Just like Chrome's parents.'; resolved 2026-09-17 in emb-chot-cau-hoi-mo item 5, as the note states; source block added 2026-11-13 from the note's own text"

@@ -13,7 +13,7 @@ date:
 participants: ["character.EMB.tsuna", "character.EMB.kawahira"]
 location: ["location.EMB.namimori"]
 aliases: ["Tsuna dam phan Kawahira", "gap Kawahira o sessha", "lan gap dau Kawahira", "Kawahira lo dien", "Hook Line Sinker Gotcha", "Tri-Ni-Sette cat tieng", "Kawahira ke ve Kimiko", "tu do cho Kawahira"]
-related: ["[[p2-ch2]]", "[[le-cuoi-cao]]", "[[20260916-p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kimiko]]", "[[fact-hibari-sakura]]", "[[fact-dem-den-tam]]", "[[fact-kimiko-arcobaleno]]", "[[fact-fon-huyet-thong]]", "[[eienzakuramura]]", "[[fact-loi-flame]]", "[[phan-biet-hai-the-gioi]]", "[[q-thu-tu-p2]]", "[[ai-o-sessha]]", "[[tsuna-dam-phan-kawahira-phan-cu]]"]
+related: ["[[p2-ch2]]", "[[le-cuoi-cao]]", "[[20260916-p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[kimiko]]", "[[fact-hibari-sakura]]", "[[fact-dem-den-tam]]", "[[fact-kimiko-arcobaleno]]", "[[fact-fon-huyet-thong]]", "[[eienzakuramura]]", "[[fact-loi-flame]]", "[[phan-biet-hai-the-gioi]]", "[[q-thu-tu-p2]]", "[[ai-o-sessha]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html — Chapter 2, doan POV Tsuna o sessha (tu 'Back at the sessha' toi 'The bride was left at the clearing, alone'); chu thich 15, 47-55 va *"

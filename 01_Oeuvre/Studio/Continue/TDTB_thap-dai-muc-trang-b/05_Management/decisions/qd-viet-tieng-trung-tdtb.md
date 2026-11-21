@@ -7,9 +7,9 @@ project: TDTB
 canon_layer: user_canon
 status: locked
 decided_at: 2026-09-27
-supersedes: "[[qd-viet-tieng-viet-quy-doi-tdtb]]"
+supersedes:
 aliases: ["viet tieng Trung TDTB", "thanh pham tieng Trung TDTB", "ngon ngu viet TDTB 27/09", "TDTB viet bang chu Han", "khong convert TDTB"]
-related: ["[[qd-viet-tieng-viet-quy-doi-tdtb]]", "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]", "[[q-thuat-ngu-va-ngoac-tieng-viet-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]"]
+related: [ "[[q-ngon-ngu-viet-va-don-vi-do-tdtb]]", "[[q-thuat-ngu-va-ngoac-tieng-viet-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]"]
 source:
   type: user_input
   ref: "Aurel, chat phien Claude Code 27/09/2026: 'viet tieng trung'; lam ro qua AskUserQuestion cung luot: 'Doi sang viet tieng Trung' + 'Thanh pham tieng Trung' + 'Dong y, sua du'"
@@ -23,7 +23,7 @@ last_updated: 2026-09-27
 
 # Quyết định — viết tiếp **bằng tiếng Trung**, và bản Trung là **thành phẩm**
 
-Thay [[qd-viet-tieng-viet-quy-doi-tdtb]] (26/09). Aurel chốt 27/09/2026.
+Thay qd-viet-tieng-viet-quy-doi-tdtb (26/09). Aurel chốt 27/09/2026.
 
 ## Chốt
 

@@ -18,7 +18,7 @@ target_paragraph_mean: 42
 target_sentence_median: 18
 status: planned
 aliases: ["canh 20-04 chieu toi", "mot cau ve giac mo", "ket chuong nha ch20"]
-related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[dazai-mo-mot-buoi-sang-o-vongola]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
+related: ["[[04_Manuscript/chapters/arc-2/ch20/ch20-plan|plan ch20]]", "[[hook-dazai-mo-tiep-kiep-truoc]]", "[[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-20
 ---
@@ -49,7 +49,7 @@ last_updated: 2026-09-20
 ## Dữ kiện quá khứ — nguyên văn
 
 - Ghi chú tác giả ch10: 「太宰，没办法了，你接下来没什么不做梦的日子了。」 — [[hook-dazai-mo-tiep-kiep-truoc]]
-- ch18 *(viết tiếp)*: 「明天大概还会做梦。那就明天再记。」 — [[dazai-mo-mot-buoi-sang-o-vongola]]
+- ch18 *(viết tiếp)*: 「明天大概还会做梦。那就明天再记。」 — dazai-mo-mot-buoi-sang-o-vongola
 - [[giac-mo-dazai-chi-la-ky-uc-cua-tsuna]]: giấc mơ chỉ là ký ức của Tsuna
 
 ## Kết cảnh phải đạt được gì

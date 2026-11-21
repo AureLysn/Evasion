@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: locked
 decided_at: 2026-09-28
 aliases: ["0038 la he thong phi phap", "0038 chiem khi van", "he thong cong luoc phi phap TDTB", "0038 hut nang luong the gioi"]
-related: ["[[20260928-tra-loi-plan-continuation]]", "[[q-ban-chat-0038-tdtb]]", "[[he-thong-0038-tdtb]]", "[[he-thong-chi-nam-0038-tdtb]]", "[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[phan-xuyen-phan-he-thong]]"]
+related: [ "[[q-ban-chat-0038-tdtb]]", "[[he-thong-0038-tdtb]]", "[[he-thong-chi-nam-0038-tdtb]]", "[[loc-da-tuyet-co-he-thong-0038-tdtb]]", "[[qd-hai-he-thong-khong-lien-quan-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]", "[[phan-xuyen-phan-he-thong]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 — sources/user-input/20260928-tra-loi-plan-continuation.md, doan 3"

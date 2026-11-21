@@ -12,7 +12,7 @@ status: planned
 pov: [character.PPCT.tsuna, character.PPCT.irisviel, character.PPCT.dazai]
 target_words: "mỗi chương ≥ 1.500 chữ Hán — dự kiến ~2.000"
 aliases: ["plan phien ngoai Arc I DeepSeek", "dàn ý phiên ngoại Arc I", "Yokohama va quan Lupin plan", "pn1 plan PPCT", "番外 Arc I"]
-related: ["[[khung-phien-ngoai-deepseek]]", "[[20261117-canon-phien-ngoai-arc-1]]", "[[phien-ngoai-du-nam-arc]]", "[[anh-linh-hien-trong-phien-ngoai]]", "[[oda-duoc-cuu-trong-phien-ngoai]]", "[[irisviel-co-chuong-rieng-phien-ngoai]]", "[[tsuna-mo-quan-ca-phe-o-yokohama]]", "[[hook-tsuna-muon-den-yokohama]]", "[[hook-menh-lenh-cua-mori]]", "[[gap-to-rider-khi-mua-sam]]", "[[dazai--chuuya]]", "[[ch51-ds-nhap]]", "[[ch50-ds-nhap]]", "[[deepseek-20261115]]", "[[Ogai-Mori]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Bar-Lupin]]", "[[Sakunosuke-Oda]]", "[[Kiritsugu-Emiya]]"]
+related: [ "[[hook-tsuna-muon-den-yokohama]]", "[[hook-menh-lenh-cua-mori]]", "[[gap-to-rider-khi-mua-sam]]", "[[dazai--chuuya]]", "[[ch51-ds-nhap]]", "[[ch50-ds-nhap]]", "[[Ogai-Mori]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Bar-Lupin]]", "[[Sakunosuke-Oda]]", "[[Kiritsugu-Emiya]]"]
 source:
   type: inference
   ref: "plan-continuation Mode 2, 17/11/2026 — phiên ngoại Arc I nhánh deepseek-20261115. Khung: khung-phien-ngoai-deepseek (V1–V4, V7, V8, V11 chốt 17/11); ý gốc: dàn ý cũ v3.1 PN-Arc I (I.1–I.3); canon: 20261117-canon-phien-ngoai-arc-1 (Q-P1–Q-P3 chốt 17/11); móc truyện gốc: thẻ đen 「我偷小矮子的卡养你啊」 (gap-to-rider-khi-mua-sam), ch11 Tsuna muốn tới Yokohama cảm ơn Chuuya tận mặt."
@@ -26,7 +26,7 @@ last_updated: 2026-11-17
 # Plan phiên ngoại Arc I bản DeepSeek — «Yokohama & quán Lupin» · ✅ AUREL DUYỆT 17/11/2026
 
 > Bốn chương, sau [[ch51-ds-nhap]] (Tsuna về chỗ ở của Dazai ở Yokohama). Giọng phiên ngoại: **mode B** (đời thường hài) ở pn1-01, pn1-02; chuyển dần sang căng ở pn1-03, pn1-04. Truyện vẫn ở mốc **Hắc Thời Đại, trước cái chết của Oda** ([[moc-bsd-truoc-cai-chet-cua-oda]]): Dazai còn là cán bộ Cảng Mafia.
-> Anh linh (Rider, Lancer, Saber) **có mặt ở quán, không ai giải thích vì sao** ([[anh-linh-hien-trong-phien-ngoai]], V2/V3). Archer: khách thi thoảng (V4).
+> Anh linh (Rider, Lancer, Saber) **có mặt ở quán, không ai giải thích vì sao** (anh-linh-hien-trong-phien-ngoai, V2/V3). Archer: khách thi thoảng (V4).
 
 ## Mục tiêu arc
 
@@ -39,7 +39,7 @@ Người xem mở một cái quán. Tsuna dựng một chỗ ở giữa hai th�
 2. Ba vị khách không cần giải thích: Rider tự phong bảo vệ, dọa khách bằng thiện chí — một câu cho biết ông đã gặp lại Waver trước khi tới (V11); Saber ăn kỷ lục tuần đầu; Lancer lau ly kéo cả hàng khách nữ, bị Dazai tính "phí hấp dẫn" trừ lương.
 3. **Chuuya** tới đòi nợ thẻ đen (móc gốc: 「我偷小矮子的卡养你啊」). Tsuna trả lời đúng lời hứa ch11 — cảm ơn tận mặt *(C1)*. Chuuya "vâng, anh nói đúng" tới tắt lửa, về với ly miễn phí.
 4. Kōyō, Hirotsu lần lượt ghé: "cà phê đền bù tinh thần vì phải chịu đựng Dazai".
-5. **Mori** ghé thăm dò, mời Tsuna vào Cảng — **bị từ chối** ([[tsuna-mo-quan-ca-phe-o-yokohama]]); Mori ăn nửa bữa rồi đi, không giận *(C2)*.
+5. **Mori** ghé thăm dò, mời Tsuna vào Cảng — **bị từ chối** (tsuna-mo-quan-ca-phe-o-yokohama); Mori ăn nửa bữa rồi đi, không giận *(C2)*.
 6. Archer ghé một lần, chê cà phê, đòi rượu; liếc chén rượu trên kệ *(C3)*.
 7. Kết: sổ khách quen dày lên, toàn tên có số má. Dazai ghen → đắc ý ("người của tôi") → lại ghen.
 
@@ -65,7 +65,7 @@ Người xem mở một cái quán. Tsuna dựng một chỗ ở giữa hai th�
 
 **Beat:**
 1. Tsuna tách ra cứu đứa trẻ bị giữ; Dazai đi thẳng tới căn cứ Mimic.
-2. Phòng khiêu vũ: Oda và Gide đã giương súng. Tsuna tới kịp — **Oda sống** ([[oda-duoc-cuu-trong-phien-ngoai]]). Gide ra sao *(C10)*.
+2. Phòng khiêu vũ: Oda và Gide đã giương súng. Tsuna tới kịp — **Oda sống** (oda-duoc-cuu-trong-phien-ngoai). Gide ra sao *(C10)*.
 3. Bệnh viện: lũ trẻ khóc nhào lên Oda; ông chủ tiệm cà ri; Dazai lần đầu thấy "kết cục khác" bằng mắt thật.
 4. Cắt cảnh **Ango**: tưởng thấy hồn ma khi thấy Oda; Dazai **vẫn giận**, không tha rẻ (dây sang Arc II).
 5. Kết: Oda ngồi bên giường, lần đầu nghĩ nghiêm túc về "viết".
@@ -117,6 +117,6 @@ Người xem mở một cái quán. Tsuna dựng một chỗ ở giữa hai th�
 | Điều kiện | Trạng thái |
 |---|---|
 | Khung phiên ngoại V1–V4, V7, V8, V11 | ✅ 17/11/2026 |
-| Canon Arc I, Q-P1–Q-P3 | ✅ [[20261117-canon-phien-ngoai-arc-1]] |
+| Canon Arc I, Q-P1–Q-P3 | ✅ 20261117-canon-phien-ngoai-arc-1 |
 | Aurel duyệt C1–C12 | ✅ 17/11/2026 (cả mười hai để DeepSeek/GPT đề xuất; "Duyệt, viết pn1-01") |
 | Tên quán (V8) | DeepSeek/GPT đề xuất khi viết pn1-01 |

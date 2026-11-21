@@ -13,7 +13,7 @@ pov: [character.PPCT.kariya]
 language: zh
 title: "【太纲无差】反派战争39（DeepSeek版）"
 aliases: ["ch39 ban DeepSeek nhap", "chương 39 bản song song DeepSeek", "反派战争39 DeepSeek"]
-related: ["[[ch39-ds-the-canh]]", "[[ch39-ds-kiem]]", "[[deepseek-20261115]]", "[[ch38-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-chapter|ch39-chapter (aurel-main, final)]]"]
+related: ["[[ch39-ds-the-canh]]", "[[ch39-ds-kiem]]", "[[ch38-ds-nhap]]", "[[04_Manuscript/chapters/arc-6/ch39/ch39-chapter|ch39-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch39-ds-the-canh (4 lượt: A–B bản đầu quá ngắn, viết lại; C–D; ba đoạn bù sàn); Claude kiểm lượt 1 và sửa (xem ch39-ds-kiem). Không dùng văn bản ch39-chapter final. Chat arc 6 (ch39–40): https://chat.deepseek.com/a/chat/s/3b76100c-0bb7-49b4-8671-dcd538f53aac"

@@ -9,7 +9,7 @@ status: active
 aliases: ["dia diem EMB", "locations EMB", "noi chon"]
 related: ["[[EMB]]"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-08-15
+last_updated: 2026-11-21
 ---
 
 # MOC — EMB / locations
@@ -22,4 +22,4 @@ Dinh thự Sawada · đền thờ Inari Ōkami và **cây sakaki** · sessha nơ
 
 ⚠️ **Cây sakaki nên có note riêng, không gộp vào đền.** Nó mang lõi Flame trung tính hàng thế kỷ, đang giữ lõi của Tsuna, và là lý do Namimori còn sống. Nó gần một nhân vật hơn một địa điểm.
 
-- [[eienzakuramura]] — **tên cũ của Namimori**: *Làng Anh Đào Vĩnh Cửu*. Kimiko dành **20 năm** biến cả thị trấn thành nơi quanh năm có anh đào nở, để tang mẹ *(đợt 5)*
+- [[eienzakuramura]] — **tên cũ của Namimori**: *Làng Anh Đào Vĩnh Cửu*. Kimiko dành **20 năm** biến cả thị trấn thành nơi quanh năm có anh đào nở, để tang mẹ

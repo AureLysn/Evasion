@@ -1,4 +1,4 @@
-﻿---
+---
 id: info.EMB.drop-point
 type: info
 scope: project
@@ -7,11 +7,11 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["# Drop Point", "Drop Point", "drop-point", "drop point EMB", "diem dung EMB", "tuyen con mo EMB", "tinh trang hien tai EMB"]
-related: ["[[EMB]]", "[[emb-chot-sau-p2-ch2]]", "[[hai-su-kien-p2]]", "[[p2-ch1]]", "[[p2-ch2]]", "[[hooks/_MOC|hooks]]", "[[questions/_MOC|questions]]", "[[fic-part2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[EMB]]", "[[emb-chot-sau-p2-ch2]]", "[[hai-su-kien-p2]]", "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[questions/_MOC|questions]]", "[[fic-part2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [drop-point, analysis]
-last_updated: 2026-11-09
+last_updated: 2026-11-21
 ---
 
 # Drop Point — Ex-Mafia Boss Done With Life (EMB)
@@ -67,8 +67,6 @@ last_updated: 2026-11-09
 # Điểm dừng — EMB (Phân tích gốc)
 
 > 🔁 **Dựng lại 16/09/2026 (Mode 2)** sau khi đọc lại cả năm chương từ nguồn thô và sau bốn chốt của Aurel — [[emb-chot-sau-p2-ch2]].
->
-> Bản đợt 2 viết trên giả định **P2 Ch2 là chương cuối và là chỗ nhánh bắt đầu**. Vế đầu đúng theo **thứ tự đăng**; vế sau **sai**. Toàn bộ khung diễn giải đã đổi.
 >
 > Lần này mọi mục đều **đầy đủ**: `events/` và `Characters/` đã dựng xong, nên ba mục từng `provisional` *(2, 3, 7)* giờ trả lời được.
 

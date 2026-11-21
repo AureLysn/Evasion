@@ -12,7 +12,7 @@ status: final
 pov: [character.PPCT.artoria, character.PPCT.irisviel]
 language: zh
 aliases: ["chuong 16 PPCT", "ban nhap tieng Trung ch16", "八兆亿个不列颠 ban nhap", "反派战争16 viet tiep"]
-related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-plan|plan ch16]]", "[[arc-1-vuong-yen-ha-man]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch16/ch16-plan|plan ch16]]"]
 always_load: false
 tags: [d/fanfic, k/deliverable, p/personal]
 last_updated: 2026-10-11

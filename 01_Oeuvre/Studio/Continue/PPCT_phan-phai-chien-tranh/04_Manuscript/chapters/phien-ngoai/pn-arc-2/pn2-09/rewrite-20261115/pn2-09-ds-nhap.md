@@ -12,7 +12,7 @@ status: draft
 pov: [character.PPCT.tsuna]
 language: zh
 aliases: ["pn2-09 ban DeepSeek nhap", "phiên ngoại khách trà DeepSeek", "反派战争 番外十三 特别的茶客 DeepSeek"]
-related: ["[[pn-arc-2-ds-plan]]", "[[pn2-09-ds-the-canh]]", "[[pn2-09-ds-kiem]]", "[[deepseek-20261115]]", "[[pn2-08-ds-nhap]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Gin-Akutagawa]]", "[[Akutagawa-Ryunosuke]]", "[[Luce]]"]
+related: ["[[pn-arc-2-ds-plan]]", "[[pn2-09-ds-the-canh]]", "[[pn2-09-ds-kiem]]", "[[pn2-08-ds-nhap]]", "[[Kawahira]]", "[[Bermuda-von-Veckenschtein]]", "[[Gin-Akutagawa]]", "[[Akutagawa-Ryunosuke]]", "[[Luce]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 18/11/2026. DeepSeek viết A–E và ba bản 川平 (C-d); GPT chấm (chọn bản 二, ghép 三) và đọc thử; Claude kiểm và sửa (xem pn2-09-ds-kiem). Chat: https://chat.deepseek.com/a/chat/s/5ba6ffbb-2517-4a57-b0a3-b7ff52306261"

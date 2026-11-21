@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Azuma Maro", "Maro", "Maro-san", "Azuma-san", "Azuma-sama", "ba thu hai", "Hell Ring cuoi cung", "nhan hinh sung", "hoc gia Flame", "nguoi canh tam man"]
-related: ["[[musashi]]", "[[tsuna]]", "[[kawahira]]", "[[indra]]", "[[nghi-le-hop-nhat-loi]]", "[[le-cuoi-cao]]", "[[fact-yama-gio-thu-ba]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[phan-biet-hai-the-gioi]]", "[[maro-phan-cu]]"]
+related: ["[[musashi]]", "[[tsuna]]", "[[kawahira]]", "[[indra]]", "[[nghi-le-hop-nhat-loi]]", "[[le-cuoi-cao]]", "[[fact-yama-gio-thu-ba]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3 va End Notes; Ex-Mafia_Boss_Spends.html Ch2 (mo chuong, doan tren hien, POV Tsuna); reply tac gia ve chiec nhan. Doc lai 15-16/09/2026"
@@ -17,12 +17,12 @@ flame: Gen'ei (Mist)
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Azuma Maro
 
-> 🔁 Viết lại từ nguồn 16/09/2026 trong đợt [[emb-lam-lai-tu-nguon]].
+> 🔁 Viết lại từ nguồn 16/09/2026 trong lượt làm lại từ nguồn.
 
 ## Vai
 

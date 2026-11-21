@@ -16,7 +16,7 @@ target_words: 400
 target_dialogue_ratio: "15 %"
 status: planned
 aliases: ["canh 18-03 nguoi toi tim", "Dazai nhan ra Gokudera", "gia dinh the gioi A cua Tsuna"]
-related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]", "[[dazai-tim-gokudera-lam-dau-moi]]", "[[gia-dinh-cua-tsuna-la-dazai]]"]
+related: ["[[04_Manuscript/chapters/arc-1/ch18/ch18-plan|plan ch18]]", "[[gia-dinh-cua-tsuna-la-dazai]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-15
 ---
@@ -39,7 +39,7 @@ Nhật ký dừng lại ở Gokudera: Dazai nói ra vì sao hắn đã cho Cản
 ## Diễn biến
 
 - Dazai viết: người gọi 「十代目」 là **Gokudera Hayato** — người hắn đã cho tìm mà **chưa từng gặp**.
-- Lý do (theo [[dazai-tim-gokudera-lam-dau-moi]]): muốn tìm Tsuna mà không để ai biết mình tìm Tsuna — nên tìm "con chó" trước, vì chó sẽ dẫn về chủ.
+- Lý do (theo dazai-tim-gokudera-lam-dau-moi): muốn tìm Tsuna mà không để ai biết mình tìm Tsuna — nên tìm "con chó" trước, vì chó sẽ dẫn về chủ.
 - Giờ đã thấy chủ của con chó đó — và chủ đang ở ngay bên cạnh hắn. Việc tìm kiếm mất nghĩa.
 - Nhìn "gia đình" thế giới A của Tsuna qua ký ức: họ thương cậu. Dazai **không ghen ra mặt**; một câu tự giễu.
 
