@@ -12,7 +12,7 @@ aliases: ["Sukunabikona gan voi ai", "Sukunabikona va Reborn", "Reborn la Sun cu
 related: ["[[emb-chot-cau-hoi-mo]]", "[[hook-sukunabikona]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]"]
 source:
   type: user_input
-  ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 — decisions/dot7-quyet-dinh.md muc D2"
+  ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 (note dot7-quyet-dinh da xoa khi reset 21/11/2026)"
 authority: user
 confidence: 0.5
 always_load: false

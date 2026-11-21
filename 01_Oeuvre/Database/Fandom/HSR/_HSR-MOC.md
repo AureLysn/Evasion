@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: active
 aliases: ["MOC HSR", "canon HSR", "ban do HSR", "bản đồ HSR", "Honkai Star Rail MOC"]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-04
+last_updated: 2026-11-21
 ---
 
 # MOC — Honkai: Star Rail *(mở toàn bộ từ 03/10/2026, tra theo nhu cầu)*
@@ -18,6 +18,7 @@ last_updated: 2026-10-04
 ## Thực thể
 
 - [[Emanator|Lệnh sứ (令使)]] — định nghĩa, cách thành, tuân lệnh, mất tư cách, địa vị · *25/09/2026*
+- [[ten-tieng-trung-hsr|Đối chiếu tên tiếng Trung]] — 277 tên có nguồn TextMap cn hoặc bộ name Aurel, gom từ bảng tên CLS · *21/11/2026*
 - [[HSR/characters/_MOC|Characters]] — ba Aeon của khung: [[Xipe]] · [[IX]] · [[Aha]] · *25/09/2026*; mở thêm: [[Qlipoth]] · [[Fuli]] · [[Mythus]] · *02/10/2026*; [[Lan]] · *03/10/2026*; nhân vật: [[Welt]] · *04/10/2026*
 
 ## Trạng thái — mở 25/09/2026

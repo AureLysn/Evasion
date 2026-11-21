@@ -4,9 +4,9 @@ type: info
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
+arc: null
 chapter: 3
-canon_layer: user_canon
+canon_layer: planned
 status: draft
 aliases: ["bang ten ch03 CLS", "bảng tên ch03 CLS", "ten Trung ch03 CLS"]
 related: [ "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch02/ch02-zh-bang-ten|ch02-zh-bang-ten]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch01/ch01-zh-bang-ten|ch01-zh-bang-ten]]", "[[Planarcadia-npc-ngoai-hinh]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]"]
@@ -17,7 +17,7 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-14
+last_updated: 2026-11-21
 ---
 
 # Bảng tên tiếng Trung — ch03

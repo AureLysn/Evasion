@@ -13,7 +13,7 @@ aliases: ["xuong song Brat con dung khong", "hoc lam tre con", "thang do bon muc
 related: ["[[emb-chot-xuong-song-brat]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: user_input
-  ref: "Aurel, 01/10/2026: dong y danh sach B cua emb-lam-lai-lan-ba. Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
+  ref: "Aurel, 01/10/2026: dong y danh sach B (note emb-lam-lai-lan-ba da xoa khi reset 21/11/2026). Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
 authority: user
 confidence: 0.5
 always_load: false

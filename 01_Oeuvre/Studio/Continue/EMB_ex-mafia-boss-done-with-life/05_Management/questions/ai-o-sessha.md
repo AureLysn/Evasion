@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 >
 > ⚠️ **Không phải quyết định.** Đề xuất cũ này đã `superseded`.
 >
-> Và thiết lập của tác giả **đã được tìm thấy, nó ủng hộ mạnh lựa chọn này** — xem [[fact-inari-va-kitsune]]. Musashi nói thẳng: *"Foxes tend to like shiny things. And Tsuna…he is remarkable… I don't want to surrender my grandson. Not to this plane or any other."* Xem dot7-quyet-dinh.
+> Và thiết lập của tác giả **đã được tìm thấy, nó ủng hộ mạnh lựa chọn này** — xem [[fact-inari-va-kitsune]]. Musashi nói thẳng: *"Foxes tend to like shiny things. And Tsuna…he is remarkable… I don't want to surrender my grandson. Not to this plane or any other."*
 
 ## Vì sao cần quyết
 

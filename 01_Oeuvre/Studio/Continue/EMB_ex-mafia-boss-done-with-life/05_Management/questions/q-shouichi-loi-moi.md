@@ -13,7 +13,7 @@ aliases: ["Shouichi ru choi", "bon giay im lang", "Tsuna bo hau to truoc", "xung
 related: ["[[emb-chot-shouichi-kiep-truoc]]", "[[shouichi]]", "[[tsuna--shouichi]]", "[[truc-chinh]]"]
 source:
   type: user_input
-  ref: "Aurel, 01/10/2026: dong y danh sach B cua emb-lam-lai-lan-ba. Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
+  ref: "Aurel, 01/10/2026: dong y danh sach B (note emb-lam-lai-lan-ba da xoa khi reset 21/11/2026). Chot cu gan su kien cua ban da luu tru, mo lai thanh cau hoi."
 authority: user
 confidence: 0.5
 always_load: false

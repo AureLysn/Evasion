@@ -12,7 +12,7 @@ aliases: ["Xanxus la Storm cua Tsuna", "bat coc Xanxus sau Cradle", "Flame of Wr
 related: [ "[[tuyen-xanxus]]"]
 source:
   type: user_input
-  ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 — decisions/dot7-quyet-dinh.md muc F1"
+  ref: "Aurel tra loi danh sach cau hoi dot 7, 2026-08-16 (note dot7-quyet-dinh da xoa khi reset 21/11/2026)"
 authority: user
 confidence: 0.5
 always_load: false

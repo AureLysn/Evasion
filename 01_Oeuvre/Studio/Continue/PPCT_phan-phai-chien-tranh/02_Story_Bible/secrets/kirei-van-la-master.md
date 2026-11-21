@@ -46,5 +46,4 @@ Kirei **giả làm Master đã bại**, ở nhà thờ; Assassin vẫn do thám 
 - **Cho phép:** thấy Assassin xuất hiện; nghĩ "có Master đứng sau"; nghi ngờ nhà thờ nếu POV có dữ kiện.
 - **Cấm:** gọi tên Kirei là Master của Assassin khi POV không biết.
 
-✅ *14/09/2026:* cách Dazai suy luận đã chốt — dazai-nghi-master-assassin-cung-phe-archer.
 
