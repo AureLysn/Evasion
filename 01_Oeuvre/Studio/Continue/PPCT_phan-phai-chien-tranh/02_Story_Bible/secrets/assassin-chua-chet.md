@@ -32,7 +32,7 @@ last_updated: 2026-11-21
 
 ## Sự thật
 
-Tin chung — Rider nhắc lại ở trận kho cảng: Archer đã giết Assassin. Cái chết giả xảy ra **trước** đêm đó; tổ Caster không chứng kiến — assassin-chet-gia-truoc-dem-kho-cang. Tsuna bật hồng ngoại và thấy **một bóng người như cháy lửa xanh thẫm**; cậu chọn im lặng.
+Tin chung — Rider nhắc lại ở trận kho cảng: Archer đã giết Assassin. Tsuna bật hồng ngoại và thấy **một bóng người như cháy lửa xanh thẫm**; cậu chọn im lặng.
 
 ## Ai biết, biết đến đâu
 

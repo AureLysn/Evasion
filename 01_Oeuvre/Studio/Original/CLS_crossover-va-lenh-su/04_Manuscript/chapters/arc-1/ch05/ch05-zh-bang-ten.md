@@ -4,7 +4,7 @@ type: info
 scope: project
 lane: personal
 project: CLS
-arc: dan-y-arc-1-jason-v5-cls
+arc: null
 chapter: 5
 canon_layer: planned
 status: draft
@@ -17,7 +17,7 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-18
+last_updated: 2026-11-21
 ---
 
 # Bảng tên tiếng Trung — ch05

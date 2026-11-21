@@ -28,7 +28,7 @@ last_updated: 2026-11-21
 
 ## Vì sao đây là cách gỡ đúng
 
-dot8d-thu-tu-p2 tìm ra một cái nút không có lối thoát: Kawahira là đồng minh ở Ch1 nhưng Ch2 là lần gặp đầu tiên, nên Ch1 phải ở sau — mà như thế thì cliffhanger của Ch2 đã bị chương trước làm hỏng.
+Đợt 8d tìm ra một cái nút không có lối thoát: Kawahira là đồng minh ở Ch1 nhưng Ch2 là lần gặp đầu tiên, nên Ch1 phải ở sau — mà như thế thì cliffhanger của Ch2 đã bị chương trước làm hỏng.
 
 **Cái nút chỉ tồn tại nếu ta buộc hai chương thành một chuỗi.** Bỏ giả định đó thì nút tự tan.
 

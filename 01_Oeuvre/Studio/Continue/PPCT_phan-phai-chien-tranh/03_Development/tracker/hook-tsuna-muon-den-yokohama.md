@@ -45,6 +45,4 @@ Tsuna **giả định mình sẽ về Yokohama** sau chiến tranh, và muốn g
 
 ## Phương án payoff đang cân nhắc
 
-✅ *30/09/2026 — hướng trả chốt:* tsuna-mo-quan-ca-phe-o-yokohama — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
-
-Gắn với việc Tsuna sống ra sao sau chiến tranh: q-tsuna-mo-quan-ca-phe.
+Chưa.

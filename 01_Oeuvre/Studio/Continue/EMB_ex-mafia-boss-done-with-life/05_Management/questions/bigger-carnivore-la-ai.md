@@ -22,7 +22,7 @@ last_updated: 2026-11-21
 >
 > ⚠️ **Không phải quyết định.** Đề xuất cũ này đã `superseded`.
 >
-> Bà là người **hiện đang quản lý Namimori**, đáng lẽ **sẽ rời đi khi Kyouya đủ trưởng thành** — nhưng **giờ đã là Rain của Tsuna**. Lời thề Guardian cuối P2 Ch1 vừa **neo bà vào Namimori**, tức Kyouya vừa mất cái mốc mình đang đếm và **chưa biết**. Xem dot7-quyet-dinh.
+> Bà là người **hiện đang quản lý Namimori**, đáng lẽ **sẽ rời đi khi Kyouya đủ trưởng thành** — nhưng **giờ đã là Rain của Tsuna**. Lời thề Guardian cuối P2 Ch1 vừa **neo bà vào Namimori**, tức Kyouya vừa mất cái mốc mình đang đếm và **chưa biết**.
 
 ## Vì sao cần quyết
 

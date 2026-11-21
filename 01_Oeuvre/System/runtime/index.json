@@ -3265,7 +3265,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1665,
+ "count": 1666,
  "missing_aliases": [],
  "notes": [
   {
@@ -9545,7 +9545,7 @@
     "moc universe hsr"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-04",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Database/Fandom/HSR/_HSR-MOC.md",
    "project": "",
    "scope": "universe",
@@ -9557,7 +9557,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 338
+   "words": 362
   },
   {
    "aliases": [
@@ -10954,6 +10954,41 @@
    ],
    "type": "fact",
    "words": 890
+  },
+  {
+   "aliases": [
+    "ten tieng Trung HSR",
+    "đối chiếu tên HSR",
+    "bang ten zh HSR",
+    "HSR Chinese names"
+   ],
+   "always_load": false,
+   "authority": "ai",
+   "canon_layer": "general_reference",
+   "confidence": 0.7,
+   "id": "lore.HSR.ten-tieng-trung-hsr",
+   "keys": [
+    "bang ten zh hsr",
+    "doi chieu ten hsr",
+    "hsr chinese names",
+    "lore hsr ten tieng trung hsr",
+    "ten tieng trung hsr",
+    "đối chiếu tên hsr"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-21",
+   "path": "05_Evasion/01_Oeuvre/Database/Fandom/HSR/Lore/ten-tieng-trung-hsr.md",
+   "project": "",
+   "scope": "universe",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/reference",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 3962
   },
   {
    "aliases": [
@@ -32804,7 +32839,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1028
+   "words": 1029
   },
   {
    "aliases": [
@@ -34120,7 +34155,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 816
+   "words": 814
   },
   {
    "aliases": [
@@ -34155,7 +34190,7 @@
     "p/personal"
    ],
    "type": "question",
-   "words": 407
+   "words": 405
   },
   {
    "aliases": [
@@ -43931,7 +43966,7 @@
     "p/personal"
    ],
    "type": "secret",
-   "words": 235
+   "words": 220
   },
   {
    "aliases": [
@@ -43999,7 +44034,7 @@
     "p/personal"
    ],
    "type": "secret",
-   "words": 160
+   "words": 150
   },
   {
    "aliases": [
@@ -46321,7 +46356,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 182
+   "words": 132
   },
   {
    "aliases": [
@@ -46500,7 +46535,7 @@
     "p/personal"
    ],
    "type": "hook",
-   "words": 140
+   "words": 80
   },
   {
    "aliases": [
@@ -65240,7 +65275,7 @@
    ],
    "always_load": false,
    "authority": "ai",
-   "canon_layer": "user_canon",
+   "canon_layer": "planned",
    "confidence": 0.8,
    "id": "info.CLS.ch03-zh-bang-ten",
    "keys": [
@@ -65251,7 +65286,7 @@
     "ten trung ch03 cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-14",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch03/ch03-zh-bang-ten.md",
    "project": "CLS",
    "scope": "project",
@@ -65357,7 +65392,7 @@
     "ten trung ch04 cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-17",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch04/ch04-zh-bang-ten.md",
    "project": "CLS",
    "scope": "project",
@@ -65463,7 +65498,7 @@
     "ten trung ch05 cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-18",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch05/ch05-zh-bang-ten.md",
    "project": "CLS",
    "scope": "project",
@@ -65535,7 +65570,7 @@
     "ten trung ch06 cls"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-18",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/arc-1/ch06/ch06-zh-bang-ten.md",
    "project": "CLS",
    "scope": "project",

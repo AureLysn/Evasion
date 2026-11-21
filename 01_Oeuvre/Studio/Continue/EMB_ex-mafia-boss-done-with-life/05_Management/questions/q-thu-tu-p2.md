@@ -12,7 +12,7 @@ aliases: ["thu tu P2", "P2 Ch1 xay ra sau P2 Ch2", "diem dung that", "Kawahira b
 related: [ "[[p2-ch1]]", "[[p2-ch2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[hai-su-kien-p2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[20260916-p2-ch1]]", "[[ao3-tra-loi-tac-gia]]", "[[20260916-p2-ch2]]", "[[tsuna-dam-phan-kawahira]]"]
 source:
   type: user_input
-  ref: "Aurel, dot 8d, 2026-08-16 — decisions/dot8d-thu-tu-p2.md (Aurel doc reply tac gia truc tiep tren AO3)"
+  ref: "Aurel, dot 8d, 2026-08-16 (Aurel doc reply tac gia truc tiep tren AO3; note dot8d-thu-tu-p2 da xoa khi reset 21/11/2026)"
 authority: user
 confidence: 0.5
 always_load: false

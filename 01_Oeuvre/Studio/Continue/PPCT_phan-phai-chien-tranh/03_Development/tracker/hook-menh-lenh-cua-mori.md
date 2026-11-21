@@ -46,6 +46,4 @@ Mori ra lệnh đem chiến thắng Chén Thánh về cho Cảng Mafia, và hỏ
 
 ## Phương án payoff đang cân nhắc
 
-✅ *30/09/2026 — hướng trả chốt:* tsuna-mo-quan-ca-phe-o-yokohama — Tsuna về Yokohama, mở quán cà phê nhỏ ở vùng trung lập, **không** vào Cảng Mafia; Mori mời, bị từ chối. Cảnh lên trang ở đâu (cuối truyện chính hay phiên ngoại): chưa quyết. `status` giữ `open` tới khi một chương trả.
-
 Chưa.

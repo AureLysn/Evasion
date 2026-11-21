@@ -6,7 +6,6 @@ lane: personal
 project: EMB
 canon_layer: fic_explicit
 status: resolved
-resolved_by: dot7-quyet-dinh
 blocking: naming
 aliases: ["so cua Kyuuto", "Kyuuto 9", "chu ky muoi quay vong", "nhanh phu dem rieng", "dat ten nhan vat Sawada moi"]
 related: [ "[[rule-ten-sawada]]", "[[fact-loi-tien-tri-muoi]]", "[[kyuuto]]", "[[sawada-tu-te]]"]
