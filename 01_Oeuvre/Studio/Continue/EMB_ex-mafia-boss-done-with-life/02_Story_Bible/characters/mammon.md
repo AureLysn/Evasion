@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Mammon EMB", "Viper trong nhanh", "nguoi nhan ra dieu ki la", "Arcobaleno thay duoc con cao"]
-related: ["[[Viper]]", "[[xanxus]]", "[[chi-chu-nhan-thay-cao]]", "[[natsu]]", "[[tsuna]]", "[[xoa-so-estraneo]]", "[[tomoko]]", "[[kitsune-phan-loai]]", "[[kawahira]]", "[[truc-chinh]]"]
+related: ["[[Viper]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[chi-chu-nhan-thay-cao]]", "[[natsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[xoa-so-estraneo]]", "[[tomoko]]", "[[kitsune-phan-loai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[truc-chinh]]"]
 source:
   type: inference
   ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Viper]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ho. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
@@ -51,7 +51,7 @@ Nếu nhánh cần một người nhận ra, canon cho Mammon đúng hai chân:
 
 Canon: *"Out of all Arcobaleno, Viper is **the most obsessed in breaking the curse**."*
 
-→ Mammon là **người bị trói vào một điều kiện họ muốn thoát ra nhất trong cả nhóm Arcobaleno**. Đó **đúng hạng người** mà nước cờ của [[tsuna]] có tác dụng — cùng hạng với [[kawahira]] và Bermuda.
+→ Mammon là **người bị trói vào một điều kiện họ muốn thoát ra nhất trong cả nhóm Arcobaleno**. Đó **đúng hạng người** mà nước cờ của [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] có tác dụng — cùng hạng với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] và Bermuda.
 
 ⛔ **Nhưng KHÔNG mở tuyến ấy ở arc Brat.** Lần đầu gặp, họ chỉ **nhận ra và đối chất**. Việc Tsuna có thứ họ muốn là **hạt giống**, không phải nước đi.
 

@@ -15,7 +15,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-13
+last_updated: 2026-11-21
 ---
 
 # Bản đồ nguồn — CLS
@@ -83,6 +83,10 @@ Aurel gửi 14/09/2026, kèm trang tác giả `https://wikicv.org/tac-gia/双水
 
 **双水木** *(Hán-Việt: Song Thuỷ Mộc)* — **KHÔNG phải** 陌上若非花 *(tác giả A/B/C)*.
 Aurel xác nhận trực tiếp, 14/09/2026. Tác giả có **5 bộ**; đây là **1 trong 5**.
+
+## Nguồn tham chiếu khác
+
+- [[a-skys-choir-thebetterbina]] — `A Sky's Choir`, tiền lệ độc lập cho Tsuna = lệnh sứ Xipe
 
 ## 🟢 Vai trò trong CLS — Aurel chốt 14/09/2026
 

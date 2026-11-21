@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Mori PPCT", "Mori Ougai PPCT", "森欧外 反派战争", "森先生", "thu linh Cang Mafia PPCT", "首领"]
-related: ["[[dazai]]", "[[dazai--mori]]", "[[cang-mafia]]", "[[chuuya-vot-dazai-mori-giao-nhiem-vu]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[dazai--mori]]", "[[cang-mafia]]", "[[chuuya-vot-dazai-mori-giao-nhiem-vu]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1, ch2 (qua thuoc ha); duoc nhac ch3"
@@ -22,7 +22,7 @@ last_updated: 2026-09-13
 
 ## Nhận dạng
 
-Thủ lĩnh [[cang-mafia]]. Giao [[dazai]] nhiệm vụ đem chiến thắng Chén Thánh về cho tổ chức.
+Thủ lĩnh [[cang-mafia]]. Giao [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]] nhiệm vụ đem chiến thắng Chén Thánh về cho tổ chức.
 
 ## Canon gốc
 

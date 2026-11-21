@@ -7,7 +7,7 @@ project: CLS
 canon_layer: project_locked
 status: active
 aliases: ["Dazai", "Dazai Osamu", "Osamu Dazai", "太宰治", "太宰", "thai te tri", "Thái Tể Trị", "Dazai CLS", "nhan vat truc BSD", "nhân vật trục BSD", "truc BSD", "cho trong tu xoa", "chỗ trống tự xoá", "loi Oda trao", "lời Oda trao", "lenh su Ky uc", "lệnh sứ Ký ức", "Dazai Fuli"]
-related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[doi-truc-bsd-akutagawa-sang-dazai]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[q-xet-lai-menh-do]]", "[[tsuna]]", "[[jason-todd]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Dazai-Osamu|Dazai-Osamu (canon)]]", "[[trope-fandom-bsd]]", "[[Fuli]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[doi-truc-bsd-akutagawa-sang-dazai]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[q-xet-lai-menh-do]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[akutagawa]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Dazai-Osamu|Dazai-Osamu (canon)]]", "[[trope-fandom-bsd]]", "[[Fuli]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026: doi truc BSD sang Dazai (decisions/doi-truc-bsd-akutagawa-sang-dazai.md). Aurel 02/10/2026 qua AskUserQuestion, worldbuild-original luot 2: dieu quan trong nhat = 'Loi Oda trao'; nang luc da mat + kieu bi xoa = 'Cap 1: cho trong tu xoa' — chon sau khi yeu cau tra fandom BSD (trope-fandom-bsd muc 2F). Cau chu cua cap 1 do phien lam viec soan, Aurel chon noi dung. Cung ngay: moc day = 'Cuoi quang an minh'; kieu day = 'tam ben duoi, nhe ben tren' (Aurel tu go, sau khi duoc hoi lai); ke ngoai lai = 'Cho han dinh toi'; muc = 'Ghi de ho so'. Aurel 03/10/2026: menh do = 'Ky uc — Fuli'."
@@ -82,7 +82,7 @@ Chưa có `secrets/`.
 
 ## Quan hệ
 
-- [[tsuna]] — ✅ **cặp đối chốt 03/10/2026:** [[tsuna--dazai-cls]].
-- [[jason-todd]] — 🟡 chốt tạm 03/10: [[dazai--jason-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]] — ✅ **cặp đối chốt 03/10/2026:** [[tsuna--dazai-cls]].
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]] — 🟡 chốt tạm 03/10: [[dazai--jason-cls]].
 - [[akutagawa]] — nhân vật phụ của thế giới BSD từ 28/09; quan hệ thầy–trò trong CLS **chưa bàn**.
 - 🟡 Đề xuất **chưa chốt**: áp **ngưỡng 3** chặt cho riêng Dazai — [[doi-truc-bsd-akutagawa-sang-dazai]].

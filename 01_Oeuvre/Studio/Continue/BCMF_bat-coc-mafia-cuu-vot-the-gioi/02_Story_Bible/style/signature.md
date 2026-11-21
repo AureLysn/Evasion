@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: tendency
 aliases: ["signature BCMF", "giong van ningshijiu", "giong van tac gia BCMF", "thoi quen van phong BCMF", "chu ky van phong BCMF"]
-related: ["[[BCMF]]", "[[hard-rules]]", "[[targets]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]"]
+related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]"]
 source:
   type: measured
   ref: "Do 28/09/2026 tren nguyen van zh ch1-24 (60.274 chu Han than truyen) bang style_metrics.py + script dem; doc toan van 27-28/09/2026. Moi muc ghi so dem va chuong"
@@ -22,7 +22,7 @@ last_updated: 2026-09-28
 
 # Chữ ký văn phong — ningshijiu
 
-> **Thói quen**, `tendency`: được lệch, nhưng phải nói vì sao. Luật cứng ở [[hard-rules]], con số ở [[targets]].
+> **Thói quen**, `tendency`: được lệch, nhưng phải nói vì sao. Luật cứng ở [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]], con số ở [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]].
 >
 > Đo trên **60.274 chữ Hán** thân truyện nguyên văn — vượt xa mức tối thiểu ~5.000 để số có nghĩa.
 
@@ -31,7 +31,7 @@ last_updated: 2026-09-28
 Người kể **toàn tri, lang thang** giữa phòng chiếu và hiện thực trên màn hình, nhảy vào đầu nhiều người trong
 cùng một chương (27, Conan, Amuro, Shoichi, Fran, Dazai, Chuuya, Taneda…).
 
-**Không có dấu nào** báo đang ở tầng nào ([[hard-rules]] §2, §5). Tác giả chuyển bằng:
+**Không có dấu nào** báo đang ở tầng nào ([[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]] §2, §5). Tác giả chuyển bằng:
 
 - **Câu nối nhìn**: *"隔着荧屏的棕发少年感觉不到这些视线"* (ch3) — người trên màn hình không thấy ánh mắt trong phòng.
 - **Câu đồng bộ hai tầng**: *"江户川柯南的思路与大厅里的工藤新一几乎重合"* (ch6).
@@ -50,7 +50,7 @@ biết đang ở tầng nào.
 
 ## 3. Gọi tên đầy đủ, gắn danh hiệu
 
-- 27 trong lời kể: `沢田纲吉` (342) ≈ `纲吉` (343); **không bao giờ** `阿纲` ([[hard-rules]] §4).
+- 27 trong lời kể: `沢田纲吉` (342) ≈ `纲吉` (343); **không bao giờ** `阿纲` ([[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]] §4).
 - Dazai: `首领太宰治` (22) — gắn chức danh vào tên như một định ngữ cố định.
 - Mô tả bằng đặc điểm trước khi gọi tên: *棕发少年*, *红围巾男人*, *黑发绿眼青年*, *蓝西装小学生* — người lạ được gọi
   bằng ngoại hình **cho tới khi phòng biết tên** (Ranpo là *黑发绿眼青年* (6) / *黑发绿眼侦探* (2) cho tới khi tự giới thiệu ở ch4). Đếm: *棕发少年* 34 · *红围巾男人* 13 · *蓝西装小学生* 5.

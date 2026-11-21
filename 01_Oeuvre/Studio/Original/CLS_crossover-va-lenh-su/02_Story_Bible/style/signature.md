@@ -8,7 +8,7 @@ canon_layer: user_canon
 status: draft
 strength: tendency
 aliases: ["signature CLS", "van phong CLS", "chu ky van phong CLS", "van xuoi pho thong CLS", "do giong o dau"]
-related: ["[[CLS]]", "[[hard-rules]]", "[[targets]]", "[[ai-tells]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]", "[[quan-anh-the-reaction-fic]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]]", "[[giong-van-pho-thong-khong-nhai-ai]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]", "[[quan-anh-the-reaction-fic]]"]
 source:
   type: user_input
   ref: "Aurel 04/10/2026: 'viet theo dang thuong thay' + chon 'Van xuoi pho thong, khong nhai ai' — sources/user-input/20261004-giu-an-va-van-xuoi-pho-thong.md"
@@ -38,11 +38,11 @@ CLS/style/hard-rules  >  CLS/style/ai-tells  >  CLS/style/targets
    >  (file nay)  >  Global/writing/  >  Global/vietnamese/
 ```
 
-Đã có *(04/10)*: [[hard-rules]] — luật cơ bản và luật của thể loại · [[ai-tells]] — tật của máy, **đếm và báo**, chưa có trần · [[targets]] — sàn ~3.000 từ mỗi chương.
+Đã có *(04/10)*: [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules|hard-rules]] — luật cơ bản và luật của thể loại · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]] — tật của máy, **đếm và báo**, chưa có trần · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]] — sàn ~3.000 từ mỗi chương.
 `chapter_gate.py` vẫn **dừng, exit 2** ở ch1 *(không có khối `gate:` vì chưa có mốc đo)*: ch1 soát bằng `ai_tells_check.py`, `pov_leak_check.py`, bảng luật cứng, và mắt Aurel.
 
 ## Việc kế
 
 1. Viết ch1.
 2. Aurel chỉnh.
-3. `analyze-style` đo **ch1 đã chỉnh** → điền số vào [[targets]], đặt trần cho [[ai-tells]], thêm khối `gate:`. Ch1 dự kiến 5.500 từ — vừa qua ngưỡng ~5.000 của sub-vault.
+3. `analyze-style` đo **ch1 đã chỉnh** → điền số vào [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets|targets]], đặt trần cho [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells|ai-tells]], thêm khối `gate:`. Ch1 dự kiến 5.500 từ — vừa qua ngưỡng ~5.000 của sub-vault.

@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["phap y ve huu", "thu ky", "o 2", "kham hien truong"]
-related: ["[[dazai]]", "[[thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/thien-su|thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]"]
 source:
   type: user_input
   ref: "sources/phap-y.md. Aurel + AI, goi ho-so-nhan-vat 2026-09-04."

@@ -46,7 +46,7 @@ last_updated: 2026-10-14
 
 ## Việc tiếp theo
 
-Xong 14/10/2026 (PR #210): nạp 19 chương ([[fic-jjwxc]], không chương nào lỗi/trống) · 150 note thực thể · [[doi-chieu-canon-hnqt]] · [[drop-point]] (dừng cuối Ch19, nhiệm vụ 3 vừa mở).
+Xong 14/10/2026 (PR #210): nạp 19 chương ([[fic-jjwxc]], không chương nào lỗi/trống) · 150 note thực thể · [[doi-chieu-canon-hnqt]] · [[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/00_Overview/drop-point|drop-point]] (dừng cuối Ch19, nhiệm vụ 3 vừa mở).
 
 1. `analyze-style` — đo văn phong trên [[fic-jjwxc]]; `write-chapter` từ chối khi chưa có `style/`.
 2. `crossover-contract` — KHR × JJK (lửa Tử Khí và chú lực tương tác thế nào).

@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["quy trinh viet", "cong kiem chuong", "chapter gate", "viet tu do roi do", "bo giu luat trong dau", "workflow"]
-related: ["[[hard-rules]]", "[[ai-tells]]", "[[targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel chot trong phien lam viec 16/08/2026 — cau nguyen van trich o muc dau file"
@@ -76,7 +76,7 @@ Chạy lần đầu, nó bắt ngay ba tật chưa ai thấy:
 | `he made a small noise` | Ch1 · Ch2 · Ch4 |
 | `she had never once heard` | Ch1 · Ch2 |
 
-⚠️ **Vì sao loại tật này nguy hiểm hơn `Not X.`** — nó *có vẻ hay*, nên không tự báo lỗi; và khi cùng một cấu trúc được gán cho nhiều nhân vật thì nó **làm phẳng dàn nhân vật**. Xem [[ai-tells]].
+⚠️ **Vì sao loại tật này nguy hiểm hơn `Not X.`** — nó *có vẻ hay*, nên không tự báo lỗi; và khi cùng một cấu trúc được gán cho nhiều nhân vật thì nó **làm phẳng dàn nhân vật**. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]].
 
 ### Và gate phải được lọc, nếu không nó vô dụng
 

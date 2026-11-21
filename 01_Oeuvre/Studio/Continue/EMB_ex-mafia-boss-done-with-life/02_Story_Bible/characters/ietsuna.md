@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Sawada Ietsuna", "Ietsuna", "ong noi Tsuna", "paternal grandfather", "cha cua Iemitsu", "hon uoc cua Musashi", "hau due Kohaku ngoai lai"]
-related: ["[[sawada-ieyasu]]", "[[ieyasu]]", "[[iemitsu]]", "[[musashi]]", "[[tsuna]]", "[[fact-sawada-thu-hai]]", "[[rule-ten-tokugawa]]"]
+related: ["[[sawada-ieyasu]]", "[[ieyasu]]", "[[iemitsu]]", "[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[fact-sawada-thu-hai]]", "[[rule-ten-tokugawa]]"]
 source:
   type: fic_text
   ref: "Part 1 Ch1 (doan 269); Part 1 Ch2 (doan 427-447); Part 1 Ch3 (doan 530); AO3 comment 2024-08-14"
@@ -28,7 +28,7 @@ last_updated: 2026-11-21
 
 ## Ai
 
-**Ông nội của [[tsuna]]** — cha của [[iemitsu]], chồng của **Miya Akiko**. Thuộc [[sawada-ieyasu]], tức **hậu duệ trực hệ của [[ieyasu]]/Giotto**.
+**Ông nội của [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]** — cha của [[iemitsu]], chồng của **Miya Akiko**. Thuộc [[sawada-ieyasu]], tức **hậu duệ trực hệ của [[ieyasu]]/Giotto**.
 
 > *"So while he knew a lot about his **paternal grandparents, Sawada Ietsuna, and Miya Akiko**, he knew next to nothing about his maternal family"* — P1 Ch1
 

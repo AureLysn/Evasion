@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["tuoi nhan vat", "bang tuoi", "moc thoi gian chot", "Tsunashige 14", "Kyouya cung tuoi Tsuna", "Cradle lui lai", "the gioi da lech", "mau thuan tuoi Kyouya", "sinh nhat khong chot truoc", "Tsuna tron 7 luc nao", "moc tuoi de noi dung quyet"]
-related: ["[[master]]", "[[tuyen-xanxus]]", "[[tsunashige]]", "[[kyouya]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[tuyen-xanxus]]", "[[tsunashige]]", "[[kyouya]]", "[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16 — chot moc tuoi"
@@ -110,7 +110,7 @@ Ranh giới, vì nó không mâu thuẫn với mục 1–3 ở trên:
 
 Lý do phân biệt: khoảng cách tuổi là **ràng buộc** — sai một chỗ là hỏng mọi chỗ khác, nên phải chốt. Còn một sinh nhật rơi vào chương nào là **nhịp** — và nhịp chỉ biết được khi đã có văn.
 
-**Hệ quả thực hành:** đừng mở lại câu *"Tsuna tròn 7 lúc nào"* như một câu hỏi chặn. Nó không chặn. Chương nào cần thì chương đó tự định, rồi ghi ngược lại vào [[master]].
+**Hệ quả thực hành:** đừng mở lại câu *"Tsuna tròn 7 lúc nào"* như một câu hỏi chặn. Nó không chặn. Chương nào cần thì chương đó tự định, rồi ghi ngược lại vào [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]].
 
 ## Bảng tuổi — bản làm việc
 

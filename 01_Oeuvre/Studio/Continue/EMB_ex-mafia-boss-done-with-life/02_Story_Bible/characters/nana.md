@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Nana", "Sawada Nana", "Ryokugyoku", "Hogo", "Sawada Mirai", "Mirai", "me Tsuna", "mother", "nguoi thu bay", "con gai Kojiro"]
-related: ["[[musashi]]", "[[iemitsu]]", "[[kojiro]]", "[[kyuuto]]", "[[tsuna]]", "[[tsunashige]]", "[[kyouya]]", "[[nana-iemitsu-cuoi-nhau]]", "[[nana-giau-viec-tsuna-tinh]]", "[[nana-sang-y]]", "[[rule-ten-sawada]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[musashi]]", "[[iemitsu]]", "[[kojiro]]", "[[kyuuto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[tsunashige]]", "[[kyouya]]", "[[nana-iemitsu-cuoi-nhau]]", "[[nana-giau-viec-tsuna-tinh]]", "[[nana-sang-y]]", "[[rule-ten-sawada]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 + End Notes; Ex-Mafia_Boss_Spends.html Ch1 (doan in nghieng) va Ch2. Doc lai 15-16/09/2026"

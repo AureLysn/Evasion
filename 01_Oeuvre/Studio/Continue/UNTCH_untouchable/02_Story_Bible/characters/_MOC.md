@@ -23,7 +23,7 @@ Hồ sơ nhân vật **của fic này**. Canon chung của nhân vật thuộc [
 
 | Nhân vật | Vai |
 |---|---|
-| [[todoroki-shouto]] | bạn thân nhất của Tsuna ở UA; em cùng cha khác mẹ của Xanxus — **chưa biết** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto\|todoroki-shouto]] | bạn thân nhất của Tsuna ở UA; em cùng cha khác mẹ của Xanxus — **chưa biết** |
 | [[hawks-takami-keigo]] | đang tìm em trai *(Byakuran)*; soulmate của Izuku — **chưa gặp** |
 | [[theodor-manz]] | đang giết dần các Fake Funeral Wreath |
 
@@ -31,19 +31,19 @@ Hồ sơ nhân vật **của fic này**. Canon chung của nhân vật thuộc [
 
 | Nhân vật | Điểm phải nhớ |
 |---|---|
-| [[sawada-tsunayoshi]] | Ba danh tính · **nguy cơ Cloudy Sky** |
-| [[midoriya-izuku]] | Quirk **không tắt được** · ⚠️ ràng buộc [[q-izuku-va-cai-chet-bakugo]] |
-| [[byakuran]] | 🔴 **Luôn nghe các phiên bản song song**, và giấu điều đó |
-| [[xanxus]] | Con ruột Endeavor — **cậu không biết**; ba người khác thì biết |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/sawada-tsunayoshi\|sawada-tsunayoshi]] | Ba danh tính · **nguy cơ Cloudy Sky** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/midoriya-izuku\|midoriya-izuku]] | Quirk **không tắt được** · ⚠️ ràng buộc [[q-izuku-va-cai-chet-bakugo]] |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/byakuran\|byakuran]] | 🔴 **Luôn nghe các phiên bản song song**, và giấu điều đó |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/xanxus\|xanxus]] | Con ruột Endeavor — **cậu không biết**; ba người khác thì biết |
 
 ### Phía UA
 
 | Nhân vật | Điểm phải nhớ |
 |---|---|
-| [[reborn]] | "Reboyama-sensei" · soulmate của Nedzu (`author_confirmed`) · đang giữ **kết quả ADN** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/reborn\|reborn]] | "Reboyama-sensei" · soulmate của Nedzu (`author_confirmed`) · đang giữ **kết quả ADN** |
 | [[nedzu]] | **Là người** · ân oán chưa rõ với **Vongola Nono** · bán thông tin cho giới ngầm |
-| [[aizawa-shouta]] | đang hiểu lầm về Tsuna |
-| [[shinsou-hitoshi]] | Ngồi sau lưng Tsuna; soulmate **bị Izuku giết** — cậu chưa biết ai giết |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/aizawa-shouta\|aizawa-shouta]] | đang hiểu lầm về Tsuna |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/shinsou-hitoshi\|shinsou-hitoshi]] | Ngồi sau lưng Tsuna; soulmate **bị Izuku giết** — cậu chưa biết ai giết |
 | [[tokoyami-fumi-va-kage]] | 🔴 **Kage hiểu hệ bond và đang giấu vật chủ** · đoán trúng vụ mẫu tóc |
 
 ## Chưa có — mức thấp, chưa chặn việc viết

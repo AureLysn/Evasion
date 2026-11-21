@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 strength: hard
 status: active
 aliases: ["hard rules UNTCH", "luat cung van phong", "khong duoc lam gi khi viet tiep UNTCH", "rang buoc tac gia UNTCH", "dau cau UNTCH"]
-related: ["[[UNTCH]]", "[[targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[nguyen-tac-ao3]]"]
+related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[nguyen-tac-ao3]]"]
 source:
   type: measured
   ref: "Dem tren toan bo 343.418 tu van xuoi da tach (03_Workspace/untch-extract/), 31/08/2026. Cong them cac rang buoc tac gia da ghi trong drop-point.md (Notes ch1, end note ch122/ch123/ch126)."

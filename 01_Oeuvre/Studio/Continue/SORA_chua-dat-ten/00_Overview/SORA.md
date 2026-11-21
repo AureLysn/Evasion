@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: idea
 title: "<chưa đặt tên>"
 aliases: ["SORA", "viet tiep sora"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/SORA_chua-dat-ten/00_Overview/drop-point|drop-point]]"]
 source:
   type: user_input
   ref: "Data-export/projects/ (Claude Project export)"

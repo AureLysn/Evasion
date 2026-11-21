@@ -8,7 +8,7 @@ canon_layer: high_confidence_inference
 strength: target
 status: active
 aliases: ["van phong UNTCH", "targets UNTCH", "do dai chuong Untouchable", "style profile UNTCH", "nguong van phong", "chuong bao nhieu tu"]
-related: ["[[UNTCH]]", "[[hard-rules]]", "[[nguyen-tac-ao3]]", "[[bien-ban-su-kien-untch]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]"]
+related: ["[[UNTCH]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]", "[[nguyen-tac-ao3]]", "[[bien-ban-su-kien-untch]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]"]
 source:
   type: measured
   ref: "Do bang 01_Origine/04_Tools/VaultTool/style_metrics.py qua 03_Workspace/untch-extract/measure_all.py tren 127/127 chuong da tach (343.418 tu, khop moc nen). Chay 31/08/2026."
@@ -161,4 +161,4 @@ chuyện công khai trên mạng xã hội và **không nhắc tới Flames ở 
 python3 01_Origine/04_Tools/VaultTool/style_metrics.py <chuong.md> --project 05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable
 ```
 
-Exit 0 = đạt · 1 = lệch target · 2 = vi phạm hard rule (xem [[hard-rules]]).
+Exit 0 = đạt · 1 = lệch target · 2 = vi phạm hard rule (xem [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]).

@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Sawada Tsunayoshi", "Tsuna", "Natsu", "Vongola Decimo", "Mini-Boss", "Decimo", "沢田綱吉", "hoc sinh 1-A", "soulmate cua Byakuran", "nguoi noi bai ca voi sat thu"]
-related: ["[[soulmate-au]]", "[[he-bond]]", "[[todoroki-shouto]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[thang-xep-hang]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[soulmate-au]]", "[[he-bond]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]", "[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[thang-xep-hang]]", "[[mnet]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch30, ch35-38, ch51, ch62, ch94, ch95, ch99, ch105, ch109, ch116, ch119, ch121, ch124, ch127."
@@ -73,7 +73,7 @@ that made him uncomfortable"*. Cậu **giấu giỏi** — Aizawa chưa từng t
 
 ### Cậu đang harmonize Todoroki Shouto mà không nói ra
 
-Xem [[todoroki-shouto]]. ch124: cậu gọi Shouto là **gia đình**, và cảm giác phản kháng trong cậu
+Xem [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]. ch124: cậu gọi Shouto là **gia đình**, và cảm giác phản kháng trong cậu
 bé **dịu xuống**. Cậu **chưa hề giải thích cho ai** rằng mình đang làm gì.
 
 ## Trạng thái hiện tại — ch127

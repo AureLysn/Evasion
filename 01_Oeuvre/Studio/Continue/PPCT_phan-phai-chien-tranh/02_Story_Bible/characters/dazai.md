@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Dazai PPCT", "Dazai the gioi B", "太宰治 反派战争", "太宰", "太宰君", "太宰大人", "Master cua Caster", "御主 Caster", "青花鱼", "can bo Cang Mafia Dazai", "Dazai 50% Yozo"]
-related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[dazai-kiep-truoc]]", "[[tsuna]]", "[[dazai--tsuna]]", "[[dazai--chuuya]]", "[[dazai--mori]]", "[[fact-dazai-mot-nua-la-yozo]]", "[[fact-dazai-nhat-sach-thay-kiep-truoc]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[fact-dazai-chua-thanh-nien]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[dazai-kiep-truoc]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]", "[[dazai--tsuna]]", "[[dazai--chuuya]]", "[[dazai--mori]]", "[[fact-dazai-mot-nua-la-yozo]]", "[[fact-dazai-nhat-sach-thay-kiep-truoc]]", "[[fact-ma-luc-dazai-rat-thap]]", "[[fact-dazai-chua-thanh-nien]]", "[[fact-nguyen-vong-dazai-thanh-khi-trieu-hoi]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1–15; ghi chu tac gia ch1, ch2, ch3, ch9, ch11"
@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 
 ## Nhận dạng
 
-Người của **Cảng Mafia** ở một vũ trụ song song của BSD. [[mori]] phái đi tham chiến Chén Thánh ở Fuyuki. Triệu hồi [[tsuna]] làm Caster.
+Người của **Cảng Mafia** ở một vũ trụ song song của BSD. [[mori]] phái đi tham chiến Chén Thánh ở Fuyuki. Triệu hồi [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]] làm Caster.
 
 ## Canon gốc
 

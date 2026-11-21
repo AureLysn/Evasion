@@ -64,7 +64,7 @@ Tức hai câu liền nhau trong P2 Ch2 là **một lượt trao đổi**, khôn
 P1 Ch2 xác nhận: Musashi cãi các trưởng lão rằng **Kojirō, hậu duệ của Hibari Kimiko**, xứng ngang Sawada Ietsuna; rồi *Hibari Kojirō đã thành Sawada Kojirō*, và Nana ra đời.
 
 ```
-Hibari Kimiko → … → [[kojiro]] (Hibari, cưới vào nhà Sawada) → [[nana]] → [[tsuna]]
+Hibari Kimiko → … → [[kojiro]] (Hibari, cưới vào nhà Sawada) → [[nana]] → [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]
 ```
 
 → Đây là lý do [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] gọi cậu là **Hibari theo dòng máu** ở P2 Ch2, và là lý do **lời hứa miễn huyết thống che được cậu** — [[fact-kimiko-arcobaleno]]. Không còn là chỗ trống; `fic_explicit`.

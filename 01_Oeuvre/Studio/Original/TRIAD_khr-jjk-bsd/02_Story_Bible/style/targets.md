@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: draft
 strength: target
 aliases: ["targets TRIAD", "chi tieu van phong TRIAD", "so can cham TRIAD", "word count band TRIAD"]
-related: ["[[signature]]", "[[hard-rules]]", "[[quyet-dinh-dau-cau]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]]", "[[quyet-dinh-dau-cau]]"]
 source:
   type: user_input
   ref: "Dat tu so do chuong-01-aurel-viet-lai.md (3349 tu) ngay 12/09/2026. N=1 chuong nen khoang dat rong co y."
@@ -31,7 +31,7 @@ last_updated: 2026-11-21
 | Số từ / chương | 3.349 | **2.000–3.500** | Aurel 12/09/2026 — nới trần, không dời tâm |
 | Đoạn — trung bình | 63,1 | **45–75 từ** | |
 | Câu — trung vị | 30,5 | **20–35 từ** | |
-| Phẩy / câu — trung bình | 2,52 | **≥ 1,8** | chữ ký chính — [[signature]] §1 |
+| Phẩy / câu — trung bình | 2,52 | **≥ 1,8** | chữ ký chính — [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature\|signature]] §1 |
 | Câu ≤5 từ | 1,0 % | **≤ 10 %** | đây là **trần**, không phải sàn — nhịp chặt là giọng bản AI |
 | **Thoại** | 20,8 % (đoạn có thoại) ❌ | **≥ 38 %** | Nguyên văn hợp đồng tông [[tong-va-cach-ke]] `[A]`, Aurel giữ lại 12/09 ([[quyet-dinh-dau-cau]]). ⚠️ Hợp đồng **không nói % gì** — xem ghi chú dưới bảng |
 | Ngắt cảnh `---` / chương | 7 | **≥ 4** | cấu trúc montage nhiều tuyến |

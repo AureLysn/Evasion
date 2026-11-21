@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Spanner PPCT", "斯帕纳", "tho may Vongola PPCT"]
-related: ["[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[tsuna]]"]
+related: ["[[fact-cong-nghe-vongola-trong-chien-tranh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/tsuna|tsuna]]"]
 source:
   type: fic_text
   ref: "反派战争 ch3, ch5; ghi chu tac gia ch5"

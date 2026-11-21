@@ -12,7 +12,7 @@ pov: [character.PPCT.dazai]
 language: zh
 title: "【太纲无差】反派战争18（DeepSeek版）"
 aliases: ["ch18 ban DeepSeek nhap", "chương 18 bản song song DeepSeek", "反派战争18 DeepSeek"]
-related: [ "[[ch17-ds-nhap]]", "[[04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18-chapter (aurel-main, final)]]"]
+related: [ "[[ch17-ds-nhap]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/04_Manuscript/chapters/arc-1/ch18/ch18-chapter|ch18-chapter (aurel-main, final)]]"]
 source:
   type: inference
   ref: "Bản song song deepseek-20261115, nháp 15/11/2026. DeepSeek viết toàn bộ theo ch18-ds-the-canh (2 lượt: A–B, rồi C–F); Claude kiểm lượt 1 và sửa (xem ch18-ds-kiem). Không dùng văn bản ch18-chapter final. Chat: https://chat.deepseek.com/a/chat/s/5c4623dd-29fb-48ef-98d7-52941e735d72"

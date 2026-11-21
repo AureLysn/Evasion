@@ -24,4 +24,4 @@ Một note: dòng thời gian chuẩn.
 
 | Note | Loại | Nội dung |
 |---|---|---|
-| [[master]] | `timeline` | Dòng thời gian — TDTB |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master\|master]] | `timeline` | Dòng thời gian — TDTB |

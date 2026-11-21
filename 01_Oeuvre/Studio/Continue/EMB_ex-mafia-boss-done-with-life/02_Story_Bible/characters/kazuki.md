@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["Kazuki", "nguoi lam vuon nha Sawada", "gardener", "Chiyu nha Sawada", "nguoi dung khien Flame vang", "Kazuki-san", "Kazuki-kun"]
-related: ["[[musashi]]", "[[tsuna]]", "[[nagi]]", "[[ayame]]", "[[author-notes]]", "[[p2-ch2]]"]
+related: ["[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[nagi]]", "[[ayame]]", "[[author-notes]]", "[[p2-ch2]]"]
 source:
   type: author_comment
   ref: "End Notes P2 Ch2 + than truyen P2 Ch2"
@@ -43,7 +43,7 @@ Cảnh mở P2 Ch2: Tsuna đứng dầm mưa, Nagi chạy tới với chiếc *j
 | Ai gọi | Cách gọi | Vì sao |
 |---|---|---|
 | [[musashi]] *(gia chủ)* | *"Kazuki-kun leading Nagi away"* | bà chủ gọi người làm |
-| [[tsuna]] *(nội tâm)* | *"Tsuna would have felt offended on **Kazuki-san's** behalf"* | Tsuna mang tâm trí người trưởng thành và **tôn trọng người làm** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] *(nội tâm)* | *"Tsuna would have felt offended on **Kazuki-san's** behalf"* | Tsuna mang tâm trí người trưởng thành và **tôn trọng người làm** |
 
 🔴 Chênh lệch hậu tố này **không phải lỗi văn bản** — nó là đặc điểm nhân vật của Tsuna, hiện ra qua một chữ. Giữ nguyên khi viết tiếp.
 

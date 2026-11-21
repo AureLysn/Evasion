@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: user_canon
 status: active
 aliases: ["MOC style TRIAD", "van phong TRIAD", "style TRIAD"]
-related: ["[[TRIAD]]", "[[signature]]", "[[hard-rules]]", "[[targets]]"]
+related: ["[[TRIAD]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-21
@@ -19,9 +19,9 @@ Ba mức, **không trộn** — biến số từ mục tiêu thành luật cứn
 
 | Note | `strength` | Nội dung | Trạng thái |
 |---|---|---|---|
-| [[hard-rules]] | `hard` | 6 dấu cấm + đại từ pháp y/thiên sư | `active` |
-| [[targets]] | `target` | Số từ, độ dài câu/đoạn, mật độ phẩy, **Thoại ≥ 38 %** | `draft` v1 |
-| [[signature]] | `tendency` | Thói quen, lệch được nếu có lý do | `draft` v1 |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules\|hard-rules]] | `hard` | 6 dấu cấm + đại từ pháp y/thiên sư | `active` |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets\|targets]] | `target` | Số từ, độ dài câu/đoạn, mật độ phẩy, **Thoại ≥ 38 %** | `draft` v1 |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/signature\|signature]] | `tendency` | Thói quen, lệch được nếu có lý do | `draft` v1 |
 
 ## Nguồn đo
 

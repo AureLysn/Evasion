@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: planned
 status: active
 aliases: ["Squalo EMB", "Squalo trong nhanh", "pho tuong Varia muoi lam tuoi", "Rain cua Xanxus"]
-related: ["[[Superbia-Squalo]]", "[[xanxus]]", "[[mammon]]", "[[belphegor]]", "[[levi]]", "[[tuoi-va-moc]]"]
+related: ["[[Superbia-Squalo]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/xanxus|xanxus]]", "[[mammon]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/belphegor|belphegor]]", "[[levi]]", "[[tuoi-va-moc]]"]
 source:
   type: inference
   ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"

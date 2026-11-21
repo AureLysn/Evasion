@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["Chuuya PPCT", "Nakahara Chuuya PPCT", "中原中也 反派战争", "小蛞蝓", "蛞蝓", "小矮子", "tieu oa du", "tieu lun PPCT", "小矮子先生"]
-related: ["[[dazai]]", "[[dazai--chuuya]]", "[[hook-tsuna-muon-den-yokohama]]", "[[cang-mafia]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]", "[[dazai--chuuya]]", "[[hook-tsuna-muon-den-yokohama]]", "[[cang-mafia]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1, ch2; duoc nhac ch6, ch11"
@@ -22,7 +22,7 @@ last_updated: 2026-09-13
 
 ## Nhận dạng
 
-Người của Cảng Mafia, đối tác oan gia của [[dazai]]. Chỉ **xuất hiện trực tiếp ở ch1–2**; từ ch6 là người được nhắc tới.
+Người của Cảng Mafia, đối tác oan gia của [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/dazai|dazai]]. Chỉ **xuất hiện trực tiếp ở ch1–2**; từ ch6 là người được nhắc tới.
 
 ## Canon gốc
 

@@ -7,7 +7,7 @@ project: PPCT
 canon_layer: fic_explicit
 status: active
 aliases: ["# Drop Point", "Drop Point", "drop-point", "drop point PPCT", "diem dung PPCT", "tuyen con mo PPCT", "tinh trang hien tai PPCT"]
-related: ["[[PPCT]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[hooks/_MOC|hooks]]", "[[questions/_MOC|questions]]", "[[20260913-doi-chieu-canon]]", "[[20260913-trich-xuat-vs-ban-thu-nghiem]]"]
+related: ["[[PPCT]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/master|master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/tracker/_MOC|tracker]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/05_Management/questions/_MOC|questions]]", "[[20260913-doi-chieu-canon]]", "[[20260913-trich-xuat-vs-ban-thu-nghiem]]"]
 source:
   type: fic_text
   ref: "反派战争 ch1–15 + ghi chu tac gia; tien truyen thuong/ha. Phan tich 13/09/2026, Mode 1, doc tu nguyen van"

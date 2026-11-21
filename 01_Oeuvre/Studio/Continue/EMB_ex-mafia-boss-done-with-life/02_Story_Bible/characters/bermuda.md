@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Bermuda EMB", "Bermuda nhanh aurel-main", "Warden of Vendicare", "Cai nguc Vendicare", "Bermuda quy toc Victoria", "Bermuda tren vai Jager", "Bermuda an toi", "ong gia o Vendicare"]
-related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Flame-of-Night]]", "[[hook-bermuda-to-mo]]", "[[tsuna--bermuda]]", "[[kawahira]]", "[[fact-vendicare-giu-so]]"]
+related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Flame-of-Night]]", "[[hook-bermuda-to-mo]]", "[[tsuna--bermuda]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-vendicare-giu-so]]"]
 source:
   type: user_input
   ref: "Aurel 22/09/2026 (emb-chot-bermuda-an-toi) + len trang o child-ch2-chapter ban viet lai 22/09. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
@@ -33,7 +33,7 @@ last_updated: 2026-11-21
 | **Đi cùng** | Không đi một mình. Thường **ngồi trên vai Jäger** |
 | **Núm vú** | Người **duy nhất** đeo núm vú **trong suốt**, để ngoài. Các Vindice khác đeo núm vú **đá**, giấu dưới áo choàng *(Aurel cung cấp; chưa đối chiếu canon)* |
 | **Vì sao để mắt tới Tsuna** | Theo dõi những Flame mạnh nhất để **gặp lại Checker Face**, người luôn tới vì kẻ mạnh nhất. Lập luận: **đếm tranh trong cái hang**, mỗi bộ Arcobaleno 20–30 năm, bộ hiện tại hơn 30, Sky hao trước — emb-chot-bermuda-an-toi §Phép so |
-| **Người lớn đáng tin** | Có thể, **khi và chỉ khi** không dính tới [[kawahira]] |
+| **Người lớn đáng tin** | Có thể, **khi và chỉ khi** không dính tới [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] |
 
 ## ⛔ Ranh giới
 

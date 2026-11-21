@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["cau hoi mo KOHAKU", "questions KOHAKU", "viec con de ngo", "nut that chua giai"]
-related: ["[[EMB]]", "[[sources/_MOC|sources]]"]
+related: ["[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|sources]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [question, blocking]

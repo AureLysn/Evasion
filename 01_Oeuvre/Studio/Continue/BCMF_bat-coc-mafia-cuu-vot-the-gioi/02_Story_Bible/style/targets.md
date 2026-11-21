@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets BCMF", "chi tieu van phong BCMF", "con so can cham BCMF", "do dai chuong BCMF"]
-related: ["[[BCMF]]", "[[hard-rules]]", "[[signature]]", "[[nguyen-van-zh-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]", "[[watch-frame-bcmf]]"]
+related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]]", "[[nguyen-van-zh-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]", "[[watch-frame-bcmf]]"]
 source:
   type: measured
   ref: "Do 28/09/2026 bang style_metrics.py tren nguyen van zh ch1-24, than truyen (bo tieu de, van an, loi tac gia): 60.274 chu Han. Nguong = dai cua chinh tac gia, khong tu dat. Ty le chieu/phong do tren dau 【】 cua ban convert nguyen-tac-bcmf (proxy, ch3-22)"
@@ -65,7 +65,7 @@ Từ khoá `荧屏, 大厅` chia cho số chữ Hán × 1000.
 
 ## Tỉ lệ chiếu / phòng — **xấp xỉ**, không phải số đo nguyên văn
 
-Nguyên văn **không đánh dấu** đoạn chiếu ([[hard-rules]] §2), nên không đo trực tiếp được. Số dưới đây lấy từ
+Nguyên văn **không đánh dấu** đoạn chiếu ([[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]] §2), nên không đo trực tiếp được. Số dưới đây lấy từ
 dấu `【】` do **người convert** thêm vào [[nguyen-tac-bcmf]] — dùng như thước ước lượng:
 
 | | ch3–22 |

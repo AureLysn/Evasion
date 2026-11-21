@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["thien su bi truc xuat", "SI OC", "o 6", "tri thuc nen"]
-related: ["[[tsuna]]", "[[dazai]]", "[[phap-y]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[aurelysn-persona|persona AureLysn]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/dazai|dazai]]", "[[phap-y]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[aurelysn-persona|persona AureLysn]]"]
 source:
   type: user_input
   ref: "sources/thien-su.md. Aurel + AI, goi ho-so-nhan-vat 2026-09-04."

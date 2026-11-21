@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: draft
 title: "Untouchable"
 aliases: ["UNTCH", "Untouchable", "untouchable", "Mina37", "fic Untouchable", "AO3 28933989"]
-related: ["[[_OEUVRE-MOC]]", "[[quy-uoc-ma-project]]", "[[UNTCH-MOC]]", "[[drop-point]]", "[[nguyen-tac-ao3]]", "[[dump-comment-ao3]]"]
+related: ["[[_OEUVRE-MOC]]", "[[quy-uoc-ma-project]]", "[[UNTCH-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[nguyen-tac-ao3]]", "[[dump-comment-ao3]]"]
 universes: [BNHA, KHR]
 source:
   type: user_input
@@ -70,11 +70,11 @@ Thêm hai ràng buộc tìm được ở khối đọc 1 — cùng tầng `autho
   soulmate** (ch126). **Marco Gagliardi = Gamma** (comment).
 
 Về lời mời đề xuất quirk cho dàn KHR: **có thật, nhưng hẹp hơn** — end note ch17, kèm
-*"in the end, I write it the way I want it to be"*. Chi tiết: [[drop-point]] mục cuối.
+*"in the end, I write it the way I want it to be"*. Chi tiết: [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]] mục cuối.
 
 ## Điểm dừng của tác giả — ĐÃ XÁC MINH 23/08/2026
 
-Đủ nguyên văn + số chương ở [[drop-point]]. Tóm tắt: chương cuối là **ch127 (2021-12-28)**,
+Đủ nguyên văn + số chương ở [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]. Tóm tắt: chương cuối là **ch127 (2021-12-28)**,
 dừng **giữa cảnh** ngay trước bài thi cuối kỳ. End note ch124 là lời báo hiatus; end note
 ch127 xác nhận *"around 1000 words written for the next chapter, but it's not finished"*.
 Bản 1000 từ đó (nửa chương 128 bị bỏ dở) **chưa bao giờ được đăng** — không nạp được.
@@ -86,7 +86,7 @@ Thứ tự bắt buộc, xem [[quy-uoc-ma-project]]. **Bước 7 trước bướ
 - [x] **0. Đặt mã + [[UNTCH]]** — 23/08/2026
 - [x] **1. `sources/`** — 2 nguồn đã ra kho + đăng ký: [[nguyen-tac-ao3]] · [[dump-comment-ao3]]
 - [x] **2. drop-point** — 23/08/2026 khối 1; **mở rộng 30–31/08** sau khi đọc hết 127 chương:
-      [[drop-point]] · **45 tuyến** · biên bản từng chương [[bien-ban-su-kien-untch]] (127/127)
+      [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]] · **45 tuyến** · biên bản từng chương [[bien-ban-su-kien-untch]] (127/127)
 - [x] **3. `style/`** — ✅ 31/08/2026. Đo **toàn bộ 127 chương** (không phải 5.000 từ mẫu):
       [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/style/hard-rules|hard-rules]]. Bốn chương MNet tách riêng theo [[qd-mau-do-van-phong]]
 - [~] **4. `canon/` + `Characters/`** — ✅ **CHẶN ĐÃ GỠ 31/08/2026**: [[_BNHA-MOC]] đã mở, có

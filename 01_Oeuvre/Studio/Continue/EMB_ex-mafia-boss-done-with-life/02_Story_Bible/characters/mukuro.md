@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Mukuro", "Rokudo Mukuro", "nguoi duoc cuu khoi Estraneo", "hoc tro cua Kawahira", "Mukuro trong nhanh nay"]
-related: ["[[tsuna]]", "[[kawahira]]", "[[nagi]]", "[[xoa-so-estraneo]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[nagi]]", "[[xoa-so-estraneo]]", "[[fact-bang-tinh-hinh-ke-hoach]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]"]
 source:
   type: fic_text
   ref: "Part 2 Ch1 - bang kiem ke ke hoach"
@@ -38,7 +38,7 @@ Ba điều, đếm được:
 |---|---|
 | **An toàn** | ra khỏi Estraneo — [[xoa-so-estraneo]] |
 | **Vẫn là chính mình** | *"as Mukuro as possible"* — tác giả nói rõ việc được cứu **không làm cậu ta dịu đi** |
-| **Học với [[kawahira]]** | và học **ngấu nghiến** |
+| **Học với [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]]** | và học **ngấu nghiến** |
 
 Cùng với đó, ở đoạn hậu quả:
 
@@ -67,7 +67,7 @@ Bản cũ của vault ghi: *"cứu Mukuro là tác dụng phụ của việc xo�
 
 ## ⚠️ Lan can
 
-- **Không** dựng tiểu sử Mukuro từ canon KHR. Tác giả đã chứng minh sẵn sàng vô hiệu canon cho nhân vật — [[kawahira]], điều cấm số 5 ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]
+- **Không** dựng tiểu sử Mukuro từ canon KHR. Tác giả đã chứng minh sẵn sàng vô hiệu canon cho nhân vật — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]], điều cấm số 5 ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]
 - **Không** mặc định cậu ta thành Mist của Tsuna. Bộ Guardian có tiêu chí riêng, và Tsuna **chủ động từ chối chọn lại** — [[fact-bang-tinh-hinh-ke-hoach]]
 - Cụm *"as Mukuro as possible"* là **chỉ dẫn giọng của tác giả**, không phải câu đùa. Giữ nó
 

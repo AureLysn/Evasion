@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["ai tells", "ai_tells", "giong AI", "tat AI", "chong giong Claude", "van phong AI", "sao rong"]
-related: ["[[signature]]", "[[hard-rules]]", "[[targets]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]"]
 always_load: true
 load_for: [writer]
 tags: [d/fanfic, k/rule, p/personal]
@@ -60,7 +60,7 @@ last_updated: 2026-11-21
 
 # Tật AI — đo từ **cả 6 chương** so với 43.152 từ nguyên tác
 
-> 🔁 **17/09/2026 — ngưỡng trong frontmatter đã đo lại từ nguồn thô** *(5 thân chương, 37.391 từ)*. Thân bài dưới đây là **phân tích lịch sử** của sáu chương bản v3 *(note đã xóa 21/11/2026)* so với **mốc cũ**; giữ nguyên làm bằng chứng. Số tác giả hiện hành: [[targets]] · [[signature]].
+> 🔁 **17/09/2026 — ngưỡng trong frontmatter đã đo lại từ nguồn thô** *(5 thân chương, 37.391 từ)*. Thân bài dưới đây là **phân tích lịch sử** của sáu chương bản v3 *(note đã xóa 21/11/2026)* so với **mốc cũ**; giữ nguyên làm bằng chứng. Số tác giả hiện hành: [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]].
 >
 > 🔴 Chạy cổng này lên **chính năm chương gốc** với ngưỡng cũ thì **cả năm thoát mã 2** — `...` bị cấm trong khi tác giả dùng nó ở cả năm chương. Đã sửa: bỏ `...` khỏi `forbid_chars`, hạ `!` từ sàn 6 xuống 5, trung vị câu từ 11–15 về 10–14.
 
@@ -190,4 +190,4 @@ Cả ba đều do đo trên văn bản chưa làm sạch. Đã sửa `strip_meta
 
 ---
 
-> **Nguồn gốc.** Nguyên văn từ [[ai-tells]] (15–16/08/2026). Thân bài **không sửa một chữ** — đây là số đo, sửa là làm hỏng bằng chứng. Frontmatter đổi: thêm `lane: personal`, thêm `strength: hard`, `tags` đổi sang 4 trục taxonomy ([[_TAXONOMY-MOC]]) và giữ bản cũ ở `legacy_tags`. Nhật ký: (đợt chuyển tháng 08/2026).
+> **Nguồn gốc.** Nguyên văn từ [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/ai-tells|ai-tells]] (15–16/08/2026). Thân bài **không sửa một chữ** — đây là số đo, sửa là làm hỏng bằng chứng. Frontmatter đổi: thêm `lane: personal`, thêm `strength: hard`, `tags` đổi sang 4 trục taxonomy ([[_TAXONOMY-MOC]]) và giữ bản cũ ở `legacy_tags`. Nhật ký: (đợt chuyển tháng 08/2026).

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsuna", "Tsunayoshi", "Sawada Tsunayoshi", "Masaya", "Sawada Masaya", "Tenmei", "Tenmei-sama", "Kohaku", "Kohaku-sama", "小動物", "small animal", "Decimo", "Neo Vongola Primo", "Il Cielo Piu Forte", "Fondazione del Tri-Ni-Sette", "27", "nguoi thu tam", "eight in the line", "vo cao cua Namimori"]
-related: ["[[musashi]]", "[[nana]]", "[[kojiro]]", "[[kyouya]]", "[[kawahira]]", "[[indra]]", "[[nagi]]", "[[fact-loi-flame]]", "[[rule-ten-sawada]]", "[[rule-ten-tokugawa]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[sawada-ieyasu]]", "[[fact-loi-tien-tri-muoi]]", "[[fact-kimiko-arcobaleno]]", "[[phan-biet-hai-the-gioi]]", "[[tsuna-dam-phan-kawahira]]", "[[le-cuoi-cao]]", "[[emb-chot-sau-p2-ch2]]"]
+related: ["[[musashi]]", "[[nana]]", "[[kojiro]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[nagi]]", "[[fact-loi-flame]]", "[[rule-ten-sawada]]", "[[rule-ten-tokugawa]]", "[[rule-danh-xung-flame]]", "[[sawada-tu-te]]", "[[sawada-ieyasu]]", "[[fact-loi-tien-tri-muoi]]", "[[fact-kimiko-arcobaleno]]", "[[phan-biet-hai-the-gioi]]", "[[tsuna-dam-phan-kawahira]]", "[[le-cuoi-cao]]", "[[emb-chot-sau-p2-ch2]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch1-3 + Ex-Mafia_Boss_Spends.html Ch1-2, doc lai toan van 15-16/09/2026. Doi chieu: _doi-chung/20260915-p1-ch1, -p1-ch2, -p1-ch3, 20260916-p2-ch1, 20260916-p2-ch2"
@@ -50,7 +50,7 @@ Chính cuộc phối hai dòng này là thứ hội đồng trưởng lão từn
 Hibari Kimiko → … → Kojirō → Nana → Tsuna
 ```
 
-Ở P2 Ch2, [[kawahira]] gọi thẳng cậu là *thừa kế nhà Sawada và một Hibari theo dòng máu*. Đó **không phải** lời khen suông: lời hứa Kimiko bắt ông không bao giờ cân nhắc **huyết thống bà** cho Arcobaleno, và chính điều đó **che cậu khỏi Sky Pacifier** — [[fact-kimiko-arcobaleno]]. Aurel chốt mắt xích này 16/09, xem [[emb-chot-sau-p2-ch2]].
+Ở P2 Ch2, [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] gọi thẳng cậu là *thừa kế nhà Sawada và một Hibari theo dòng máu*. Đó **không phải** lời khen suông: lời hứa Kimiko bắt ông không bao giờ cân nhắc **huyết thống bà** cho Arcobaleno, và chính điều đó **che cậu khỏi Sky Pacifier** — [[fact-kimiko-arcobaleno]]. Aurel chốt mắt xích này 16/09, xem [[emb-chot-sau-p2-ch2]].
 
 ## Tên gọi — ai gọi bằng gì
 
@@ -60,14 +60,14 @@ Hibari Kimiko → … → Kojirō → Nana → Tsuna
 | Cư dân Namimori | **Tenmei-sama** — tên nghi lễ Sky, nam |
 | [[kyouya]] | **small animal** *(con thú nhỏ)* — không bao giờ gọi tên |
 | [[indra]] | **Tsunayoshi**; khi trang trọng thì **Tenmei-sama** |
-| [[kawahira]] | ⚠️ **đổi theo chương**: ở P2 Ch2 là **Sawada-san** → **Kohaku-sama** *(khi chuyển sang giọng Checkerface)* → **Sawada Masaya** *(khi nhấn số tám)*; ở P2 Ch1 — muộn hơn vài tháng — là **Tsunayoshi** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] | ⚠️ **đổi theo chương**: ở P2 Ch2 là **Sawada-san** → **Kohaku-sama** *(khi chuyển sang giọng Checkerface)* → **Sawada Masaya** *(khi nhấn số tám)*; ở P2 Ch1 — muộn hơn vài tháng — là **Tsunayoshi** |
 | Chính thức | **Kohaku** của nhà Sawada |
 
 Cách gọi của Kawahira là **chỉ dấu thời gian dùng được**: càng thân, càng gọi gọn. Xem [[rule-danh-xung-flame]] và [[rule-ten-sawada]].
 
 ## Bản chất
 
-Vongola Decimo **tái sinh và chuyển sinh cùng lúc** *(trực giác xác nhận cả hai)* vào một dòng thời gian khác. Ở P2 Ch2, [[kawahira]] tự suy ra: cậu hoà nhập quá khít với thân xác này để là chuyển sinh xuyên xác, nên **phải là tái sinh** — cậu *quên uống canh*.
+Vongola Decimo **tái sinh và chuyển sinh cùng lúc** *(trực giác xác nhận cả hai)* vào một dòng thời gian khác. Ở P2 Ch2, [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] tự suy ra: cậu hoà nhập quá khít với thân xác này để là chuyển sinh xuyên xác, nên **phải là tái sinh** — cậu *quên uống canh*.
 
 Ở đây cậu **sinh ra với lõi Sky đã mở**, giữa lúc Vongola đang có khủng hoảng kế vị.
 
@@ -129,7 +129,7 @@ Cậu thấy **không xứng** với lòng biết ơn của Namimori — cậu c
 | **Sky của Namimori** trên thực tế | vòm **Amakakeru Tsubasa**; cư dân thề trung thành; cậu thấy mình không xin điều đó |
 | **Kohaku** | mặc **jūnihitoe**, đeo mặt nạ, cầm quạt khi tiếp kiến chính thức; phải học kiềm **Attraction**; ra trận thì mặc lễ phục mẫu **Uka-no-Mitama-no-Kami** |
 | **Vợ cáo của Namimori** | tự xin làm cô dâu ở [[le-cuoi-cao]]; lễ là lễ thật, đủ chín ngụm |
-| **Bộ Guardian** | phải lấy đủ, nhưng **không lấy lại người cũ** — quá đau, và họ là người khác. **Trừ [[kyouya]]**. Đã nhận [[indra]] làm Guardian Cổng Đông; đã có một Guardian **bên trái** trước đó, gần như chắc là [[kawahira]] |
+| **Bộ Guardian** | phải lấy đủ, nhưng **không lấy lại người cũ** — quá đau, và họ là người khác. **Trừ [[kyouya]]**. Đã nhận [[indra]] làm Guardian Cổng Đông; đã có một Guardian **bên trái** trước đó, gần như chắc là [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] |
 | **Kế hoạch** | **567** việc còn lại, làm cho xong trước khi Vongola nhúng tay |
 | **Ẩn mình** | trốn Vongola tới P2 Ch1 thì thôi: *Honō loại cậu không thích ẩn nấp* |
 

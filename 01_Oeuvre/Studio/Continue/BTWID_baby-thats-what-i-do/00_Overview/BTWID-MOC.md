@@ -6,7 +6,7 @@ project: BTWID
 lane: personal
 status: draft
 aliases: ["moc btwid", "ban do btwid"]
-related: ["[[btwid]]", "[[drop-point]]"]
+related: ["[[btwid]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BTWID_baby-thats-what-i-do/00_Overview/drop-point|drop-point]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-19

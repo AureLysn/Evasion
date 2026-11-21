@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["ai tells TDTB", "tat AI TDTB", "giong AI TDTB", "cum cam TDTB", "profile ai_tells_check TDTB", "extra_constructs TDTB"]
-related: ["[[hard-rules]]", "[[targets]]", "[[signature]]", "[[qd-viet-tieng-trung-tdtb]]", "[[nguyen-van-zh-tdtb]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/signature|signature]]", "[[qd-viet-tieng-trung-tdtb]]", "[[nguyen-van-zh-tdtb]]"]
 source:
   type: measured
   ref: "Do 27/09/2026 tren nguyen van zh ch1-15 (42.660 chu Han) — ty le cua chinh 乐博 tren tung cau truc, bang script tam + ai_tells_check.py. Danh sach cau truc: tat cua model (dung chung, theo AGENTS.md sub-vault §5) — lay tu cac ho PPCT da bat that khi review + tat van Trung thuong gap o AI. Aurel dong y lap file 27/09 ('Dong y, sua du')."
@@ -93,9 +93,9 @@ last_updated: 2026-11-14
 
 Trước 14/11/2026 file này không có khối `gate:` vì `chapter_gate.py` chỉ đọc chữ Latin. Cổng nay có nhánh
 chữ Hán, nên mốc tác giả đã được đo trên 15 chương nguyên văn (42.668 chữ Hán) và ghi ở frontmatter;
-Aurel duyệt số 14/11/2026 (`TR-006`). Cổng đếm khác [[targets]] ở hai chỗ: câu dài là câu **≥ 35** chữ Hán,
+Aurel duyệt số 14/11/2026 (`TR-006`). Cổng đếm khác [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] ở hai chỗ: câu dài là câu **≥ 35** chữ Hán,
 và mỗi 「……」 tính 3 lượt. Thử trên ch16–ch18 ngày 14/11: cả ba exit 1, chỉ lệch trung vị câu
-*(15, 17, 17 so với sàn 24)*. `ai_tells_check.py` với profile này và `style_metrics.py` với [[targets]] vẫn chạy như cũ.
+*(15, 17, 17 so với sàn 24)*. `ai_tells_check.py` với profile này và `style_metrics.py` với [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/style/targets|targets]] vẫn chạy như cũ.
 
 ## Ngưỡng đặt thế nào — đo trên chính 乐博
 

@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["timeline", "dong thoi gian", "moc su kien", "master timeline", "lich su", "thu tu su kien EMB", "Timeline/master", "timeline/master"]
-related: ["[[tuoi-va-moc]]", "[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[chapters/_MOC|chapters]]", "[[emb-chot-sau-p2-ch2]]", "[[q-thu-tu-p2]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[tuoi-va-moc]]", "[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/04_Manuscript/chapters/_MOC|chapters]]", "[[emb-chot-sau-p2-ch2]]", "[[q-thu-tu-p2]]", "[[phan-biet-hai-the-gioi]]"]
 always_load: false
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [timeline]

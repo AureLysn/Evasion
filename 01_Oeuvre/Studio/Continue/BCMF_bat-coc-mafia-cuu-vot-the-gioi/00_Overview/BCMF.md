@@ -10,7 +10,7 @@ origin: continuation
 universes: [KHR, BSD, CONAN]
 title: "Bắt cóc một cái Mafia tới cứu vớt thế giới"
 aliases: ["BCMF", "Bat coc mot cai Mafia toi cuu vot the gioi", "Bắt cóc một cái Mafia tới cứu vớt thế giới", "Bat coc Mafia cuu the", "bắt cóc Mafia cứu thế", "xem anh the KHR BSD Conan", "xem ảnh thể KHR BSD Conan", "Ninh Thap Cuu", "Ninh Thập Cửu", "ningshijiu"]
-related: ["[[_OEUVRE-MOC]]", "[[BCMF-MOC]]", "[[quy-uoc-ma-project]]", "[[nguyen-tac-bcmf]]", "[[ban-wattpad-bcmf]]", "[[conan]]", "[[crossover-bcmf]]", "[[watch-frame-bcmf]]", "[[q-ky-uc-sau-buoi-chieu-bcmf]]", "[[drop-point|drop-point-bcmf]]", "[[20260927-trich-xuat-lan-1-bcmf]]", "[[phan-biet-cung-ten-bcmf]]", "[[master-bcmf]]", "[[nguyen-van-zh-bcmf]]", "[[20260928-crosscheck-canon-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]", "[[dazai-bang-mat-phai-bcmf]]"]
+related: ["[[_OEUVRE-MOC]]", "[[BCMF-MOC]]", "[[quy-uoc-ma-project]]", "[[nguyen-tac-bcmf]]", "[[ban-wattpad-bcmf]]", "[[conan]]", "[[crossover-bcmf]]", "[[watch-frame-bcmf]]", "[[q-ky-uc-sau-buoi-chieu-bcmf]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/00_Overview/drop-point|drop-point-bcmf]]", "[[20260927-trich-xuat-lan-1-bcmf]]", "[[phan-biet-cung-ten-bcmf]]", "[[master-bcmf]]", "[[nguyen-van-zh-bcmf]]", "[[20260928-crosscheck-canon-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]", "[[dazai-bang-mat-phai-bcmf]]"]
 source:
   type: user_input
   ref: "Aurel 27/09/2026 qua AskUserQuestion: ma BCMF; fic drop o ch24, viet tiep; ma fandom Conan = CONAN; nguon = 'so hai ban, ban nao du hon thi dung'. Metadata do truc tiep cung ngay tu hai epub: C:/Users/AureLyns/Downloads/【all27 gia kha+văn dã xem ảnh thể】…(1-24).epub va ban kho Novel/Xem ảnh thể/XAT_KHR_BSD_CONAN_….epub"
@@ -113,7 +113,7 @@ thì phải lấy từ nguồn khi trích xuất, **đừng đoán**.
 
 - [x] Đặt mã + `BCMF.md`, 27/09/2026
 - [x] `sources/` — [[nguyen-van-zh-bcmf]] (**nguồn gốc**, 28/09) · [[nguyen-tac-bcmf]] (bản đọc tiếng Việt) · [[ban-wattpad-bcmf]] (đối chiếu) — cả ba **bất biến**
-- [x] drop-point — 27/09 Mode 1 · **28/09 Mode 2** trên nguyên văn: [[drop-point|drop-point-bcmf]] · 25 hook · 8 câu hỏi. Tác giả dừng ở **柯南篇** — phần BSD chưa bắt đầu ([[h-tien-conan-hau-bsd-bcmf]])
+- [x] drop-point — 27/09 Mode 1 · **28/09 Mode 2** trên nguyên văn: [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/00_Overview/drop-point|drop-point-bcmf]] · 25 hook · 8 câu hỏi. Tác giả dừng ở **柯南篇** — phần BSD chưa bắt đầu ([[h-tien-conan-hau-bsd-bcmf]])
 - [x] `crossover-contract` + `watch-frame-contract` — 27/09: [[crossover-bcmf]] · [[watch-frame-bcmf]] (`stance: plot_driven`). Đọc toàn bộ 24 chương để rút luật
 - [x] `crosscheck-canon` — 28/09: [[20260928-crosscheck-canon-bcmf]] · 40 điểm × 3 fandom; `Database/Fandom` thêm KHR 11 · BSD 8 · CONAN 16 note. Trục truyện dựng trên meta của Conan (dòng thời gian đứng yên, án mạng Beika)
 - [x] `style/` — 28/09, đo trên **nguyên văn** 60.274 chữ Hán: [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/hard-rules|hard-rules]] (5 luật, 0 ngoại lệ) · [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]] · [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]]. Viết tiếng Trung

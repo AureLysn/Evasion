@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["Dazai", "Dazai Osamu", "Nhan gian that cach"]
-related: ["[[tsuna]]", "[[gojo]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-moc-dazai]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/tsuna|tsuna]]", "[[gojo]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-moc-dazai]]"]
 source:
   type: user_input
   ref: "sources/dazai-truyen.md, doi chieu sources/dazai-canon.md (Database/Fandom/BSD/sources/dazai-canon-draft) va sources/loi-tac-gia.md. Aurel + AI, goi ho-so-nhan-vat 2026-09-04."

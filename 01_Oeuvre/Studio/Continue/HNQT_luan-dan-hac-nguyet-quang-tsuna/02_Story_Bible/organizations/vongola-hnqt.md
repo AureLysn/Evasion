@@ -39,4 +39,4 @@ last_updated: 2026-10-14
 
 ## Lịch sử ngắn
 
-Huỷ Vongola Ring → chiến tranh với Millefiore → mất Hibari → mất Lambo, thanh trừng → mất chi nhánh Anh, Mukuro → Tsuna tự đi gặp Byakuran → thế giới sụp. Xem [[Timeline/master|Timeline]].
+Huỷ Vongola Ring → chiến tranh với Millefiore → mất Hibari → mất Lambo, thanh trừng → mất chi nhánh Anh, Mukuro → Tsuna tự đi gặp Byakuran → thế giới sụp. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/03_Development/timeline/master|Timeline]].

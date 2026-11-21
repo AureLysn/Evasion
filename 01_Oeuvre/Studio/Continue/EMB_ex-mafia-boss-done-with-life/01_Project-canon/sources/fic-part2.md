@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["fic goc Part 2", "Ex-Mafia Boss Spends", "Brat Arc goc", "Part 2"]
-related: ["[[sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/signature|signature]]"]
 source:
   type: fic_text
   ref: "AO3 — Ex-Mafia Boss Spends… File: KOHAKU/Original-Fic/Ex-Mafia_Boss_Spends.html"

@@ -7,7 +7,7 @@ project: UNTCH
 canon_layer: fic_explicit
 status: active
 aliases: ["Xanxus", "ザンザス", "boss Varia", "con trai Endeavor", "chong cua Liliya", "Xan-nii", "fratello cua Tsuna", "nguoi nuoi Eri"]
-related: ["[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[todoroki-shouto]]", "[[sawada-tsunayoshi]]", "[[soulmate-au]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
+related: ["[[pq04-xanxus-la-con-trai-cua-endeavor]]", "[[pq02-globe-la-soulmate-xanxus]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto|todoroki-shouto]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/sawada-tsunayoshi|sawada-tsunayoshi]]", "[[soulmate-au]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/00_Overview/drop-point|drop-point]]", "[[bien-ban-su-kien-untch]]", "[[UNTCH]]"]
 source:
   type: fic_text
   ref: "Mina37 — Untouchable, AO3 28933989. ch74 (POV Dabi), ch78, ch94, ch95, ch99, ch108, ch111, ch119, ch122, ch123."

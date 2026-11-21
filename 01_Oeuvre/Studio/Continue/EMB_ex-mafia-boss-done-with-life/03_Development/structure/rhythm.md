@@ -7,7 +7,7 @@ project: EMB
 canon_layer: high_confidence_inference
 status: active
 aliases: ["nhip truyen", "rhythm", "pacing", "do dai chuong", "khoang tra hook", "payoff gap", "hook ledger", "leo thang", "escalation", "thay doi trang thai", "state change", "bai toan 12 nam"]
-related: ["[[tropes]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[ao3-tags]]", "[[emb-chot-sau-p2-ch2]]", "[[tuoi-va-moc]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/tracker/_MOC|hooks]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/00_Overview/drop-point|drop-point]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/targets|targets]]", "[[ao3-tags]]", "[[emb-chot-sau-p2-ch2]]", "[[tuoi-va-moc]]"]
 source:
   type: measured
   ref: "Do 17/09/2026: hook_ledger.py tren 05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life (exit 1, chi canh bao); word_count cua 5 note chapter_summary (than chuong tu personal-bulk:fiction-sources/EMB/raw/); dem 23 note events/ theo truong date.chapter; tieu de chuong tu 2 file HTML."

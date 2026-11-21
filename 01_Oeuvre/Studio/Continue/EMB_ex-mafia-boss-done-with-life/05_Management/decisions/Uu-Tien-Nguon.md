@@ -7,7 +7,7 @@ project: EMB
 canon_layer: project_locked
 status: active
 aliases: ["uu tien nguon", "ho so cu", "file nao thang", "precedence nguon KOHAKU", "xung dot ho so"]
-related: ["[[sources/_MOC|sources]]", "[[EMB]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|sources]]", "[[EMB]]"]
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [decision, conflict, staleness]

@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: draft
 strength: tendency
 aliases: ["signature TRIAD", "van phong Aurel", "chu ky van phong TRIAD", "giong van truyen goc Aurel", "do van phong chuong 1"]
-related: ["[[hard-rules]]", "[[targets]]", "[[quyet-dinh-dau-cau]]", "[[chuong-01-aurel-viet-lai]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]", "[[quyet-dinh-dau-cau]]", "[[chuong-01-aurel-viet-lai]]"]
 source:
   type: user_input
   ref: "Do tu chapters/san-sang-loc/chuong-01-aurel-viet-lai.md - 3349 tu van xuoi (tu '# Chuong 1' tro di), Aurel tu viet 11/09/2026. Doi chieu chuong-01.md (ban AI, 2120 tu, superseded). Do ngay 12/09/2026."
@@ -91,7 +91,7 @@ viết lại cùng nội dung mà tỉ lệ câu ngắn tụt từ 27,9 % xuốn
 Bằng chứng phủ định đủ mạnh ở mức **mô tả**: khi tự viết, Aurel không dùng bộ dấu này.
 
 ✅ **Đã thành luật 12/09/2026.** [[tong-va-cach-ke]] § Văn phong đích từng yêu cầu ngược lại;
-Aurel bỏ mục đó ([[quyet-dinh-dau-cau]], phương án C — hành vi thắng ý định). Xem [[hard-rules]] §1.
+Aurel bỏ mục đó ([[quyet-dinh-dau-cau]], phương án C — hành vi thắng ý định). Xem [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]] §1.
 
 **3. Thông báo hệ thống viết bằng CHỮ HOA trong ngoặc kép thẳng, không phải `【】`.** Nguyên văn
 chương 1: `"THÔNG BÁO KHẨN CẤP, THÔNG BÁO KHẨN CẤP: THÁP TRUNG ƯƠNG ĐO ĐƯỢC MỘT LUỒNG NĂNG LƯỢNG
@@ -119,9 +119,9 @@ người khác"*.
 
 Đây **không phải thiếu sót**. Chương 1 là "thông báo cụt, không ai biết chuyện gì" — hệ thống chưa
 tự xưng tên. Nên **không đặt chỉ tiêu mật độ thuật ngữ ở arc này**; đặt từ phó bản 1 thật, khi nhân
-vật đã có từ để gọi. Ghi trong [[targets]].
+vật đã có từ để gọi. Ghi trong [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]].
 
 ---
 
 > **Cách dùng.** `strength: tendency` — lệch được, nhưng phải nói lý do. Thứ *không* lệch được nằm
-> ở [[hard-rules]]. Con số cần bám nằm ở [[targets]]. Ba mức không trộn.
+> ở [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules|hard-rules]]. Con số cần bám nằm ở [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/targets|targets]]. Ba mức không trộn.

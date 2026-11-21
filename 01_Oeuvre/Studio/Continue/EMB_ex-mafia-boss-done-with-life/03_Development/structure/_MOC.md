@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["ket cau", "structure", "trope va nhip", "tang giua van phong va dan y"]
-related: ["[[EMB]]", "[[tropes]]", "[[rhythm]]", "[[character-arcs]]", "[[style/_MOC|style]]"]
+related: ["[[EMB]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[rhythm]]", "[[character-arcs]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/style/EMB-STYLE-MOC|style]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-21
@@ -19,7 +19,7 @@ last_updated: 2026-11-21
 
 > 🔁 **Làm lại 17/09/2026 từ nguồn thô** (analyze-tropes). Ba note dưới đều viết lại tại chỗ; hai kết luận cũ bị gỡ, ghi rõ trong từng note.
 
-- [[tropes]] — **diff tag hai phần** *(8 giữ · chủ đề dời từ gia đình sang thị trấn)*; **4 quan hệ có tag chưa lên trang** *(Xanxus, Fon, Reborn, Shouichi)*; sáu chỗ tác giả bẻ; Chekhov
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]] — **diff tag hai phần** *(8 giữ · chủ đề dời từ gia đình sang thị trấn)*; **4 quan hệ có tag chưa lên trang** *(Xanxus, Fon, Reborn, Shouichi)*; sáu chỗ tác giả bẻ; Chekhov
 - [[rhythm]] — độ dài chương; hook gieo tăng 2·1·2·4·**6**; **13 thay đổi trạng thái / 37.621 từ**; mẫu **nạp → xả** ở cả hai arc
 - [[character-arcs]] — thay đổi của nhân vật **nằm ngoài trang** *(8 trên trang · 9 khoảng trống)*; hành động lớn **kể bằng hai mép** 4/4; Tsuna đổi vị thế, không đổi giọng
 - [[trope-fandom]] — bảng fanon KHR của Aurel, đối chiếu với fic gốc

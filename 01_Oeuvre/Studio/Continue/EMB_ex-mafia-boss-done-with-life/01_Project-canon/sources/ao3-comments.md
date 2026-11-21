@@ -7,7 +7,7 @@ project: EMB
 canon_layer: author_confirmed
 status: active
 aliases: ["comment AO3", "AO3 comments", "loi tac gia", "author reply", "word of god", "comment tac gia"]
-related: ["[[sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/_MOC|sources]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/_MOC|canon]]"]
 source:
   type: author_comment
   ref: "AO3 comment section, Part 1 (work 46590334) + Part 2 (work 57740797). Aurel copy-paste 2026-08-15. Hai file nay gio o Novel/comment/, doi ten 16/09/2026 theo khuon AO3-<workid>-<tua de>-comments-<...>.txt"

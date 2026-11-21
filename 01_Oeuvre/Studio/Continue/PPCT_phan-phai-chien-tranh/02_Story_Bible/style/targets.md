@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: target
 aliases: ["targets PPCT", "chi tieu van phong PPCT", "muc tieu do luong PPCT", "so can cham PPCT"]
-related: ["[[signature]]", "[[hard-rules]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[q-ngon-ngu-va-xung-ho-ban-viet-tiep]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[thoai-la-cau-trong-ngoac-kep]]", "[[q-ngon-ngu-va-xung-ho-ban-viet-tiep]]"]
 source:
   type: measured
   ref: "Rut tu signature.md — do 13/09/2026 tren 反派战争 ch1–15, 28.131 chu Han than truyen"
@@ -28,7 +28,7 @@ last_updated: 2026-09-30
 > ✅ **Chỉ tiêu theo mức tác giả; độ dài là sàn** — [[chi-tieu-van-phong-theo-tac-gia]] (Aurel, 13/09/2026).
 >
 >
-> ✅ **Sửa 25/09/2026 — `style_metrics.py` đo được bảng dưới đây** (L58). Chỉ đo thân truyện (sau `go—>`, trước vạch `—————` cuối); dòng `body_frame` cho biết đã cắt đúng chưa. Đối chiếu ch16–35 với script `han_metrics.py`: 13 chỉ số khớp tuyệt đối. Tên chỉ số: thoại = `cjk_dialogue_ratio` (**không** phải `dialogue_paragraph_ratio`), `？` = `cjk_question_per_1000`, `！` = `cjk_exclaim_per_1000`, `……` = `cjk_ellipsis_per_1000`, `——` = `cjk_dash_pair_per_1000`, câu ≥50 = `cjk_sentence_ge50_ratio`, đoạn ≥100 = `cjk_paragraph_ge100_ratio`, chữ Hán/đoạn = `paragraph_mean`. Motif mắt và các luật trong [[hard-rules]] công cụ **không** đo — vẫn grep.
+> ✅ **Sửa 25/09/2026 — `style_metrics.py` đo được bảng dưới đây** (L58). Chỉ đo thân truyện (sau `go—>`, trước vạch `—————` cuối); dòng `body_frame` cho biết đã cắt đúng chưa. Đối chiếu ch16–35 với script `han_metrics.py`: 13 chỉ số khớp tuyệt đối. Tên chỉ số: thoại = `cjk_dialogue_ratio` (**không** phải `dialogue_paragraph_ratio`), `？` = `cjk_question_per_1000`, `！` = `cjk_exclaim_per_1000`, `……` = `cjk_ellipsis_per_1000`, `——` = `cjk_dash_pair_per_1000`, câu ≥50 = `cjk_sentence_ge50_ratio`, đoạn ≥100 = `cjk_paragraph_ge100_ratio`, chữ Hán/đoạn = `paragraph_mean`. Motif mắt và các luật trong [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]] công cụ **không** đo — vẫn grep.
 
 ## Độ dài chương
 
@@ -73,9 +73,9 @@ Từng chương (TB / trung vị đoạn): 16: 32,3/17,0 · 17: 31,8/22,0 · 18:
 - Đo bằng `style_metrics.py --json` (`paragraph_mean`, `paragraph_median`, `cjk_sentence_median`, `cjk_dialogue_ratio`). Cột "đoạn ≤15 chữ" là **script riêng của phiên** — công cụ không có chỉ số này; đếm lại bằng script khi kiểm chương.
 - ⚠️ Nguyên tác lần này đo trên **cả file `.txt`** trong `反派战争.zip` (công cụ báo `body_frame: ca file` cho ch2–12 — gồm tiêu đề, link, ghi chú tác giả), nên là **số thô**; bảng gốc đo thân truyện cho TB 43,5. Sàn 28 đặt thấp hơn trung vị thô 37,7 để chừa sai số đó.
 - **Trung bình che lệch:** trung vị đoạn ch35–42 chưa bằng một nửa nguyên tác; gần nửa số đoạn là đoạn một dòng. Câu cũng ngắn đi (~22 → ~13) — không chỉ do ngắt dòng.
-- **Không do loại chương:** ch42 (đời thường) thấp nhất (22,1 / 10); đời thường của tác giả lại có đoạn dài nhất (ch1 49,4 · ch14 51,6) — [[signature]].
+- **Không do loại chương:** ch42 (đời thường) thấp nhất (22,1 / 10); đời thường của tác giả lại có đoạn dài nhất (ch1 49,4 · ch14 51,6) — [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]].
 - **Công cụ không báo:** `style_metrics.py` không đưa dải chữ/đoạn 35–55 vào `verdict`, nên 8 chương chốt mà không có cảnh báo. Dạy công cụ phán quyết dải + trung vị là việc hệ thống, nhánh riêng — chưa làm.
-- Plan arc 7: đặt ba dòng *(30/09)* làm ngân sách cảnh — "câu nhịp lặng một dòng" ([[signature]]) dùng **thưa** như tác giả, không làm nhịp mặc định.
+- Plan arc 7: đặt ba dòng *(30/09)* làm ngân sách cảnh — "câu nhịp lặng một dòng" ([[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/signature|signature]]) dùng **thưa** như tác giả, không làm nhịp mặc định.
 
 ## Mật độ thuật ngữ
 

@@ -14,7 +14,7 @@ last_updated: 2026-11-21
 
 # MOC — EMB / locations
 
-- [[namimori]] — thị trấn **Sanctuary từ khi lập**. Không phải bối cảnh, mà là **một thiết chế đang suy yếu**
+- [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]] — thị trấn **Sanctuary từ khi lập**. Không phải bối cảnh, mà là **một thiết chế đang suy yếu**
 
 ## Chưa dựng
 

@@ -8,7 +8,7 @@ branch: aurel-main
 canon_layer: branch_locked
 status: active
 aliases: ["Natsu", "Tomoshibi", "Tomo", "den nho", "cao", "con cao", "kudagitsune", "kuda-gitsune", "cao ong", "pipe fox", "nguoi ban cu", "vu khi hop cu", "cai trong ong tre"]
-related: ["[[tsuna]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[kawahira]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[fact-cao-la-natsu]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[bon-lan-can]]", "[[kitsune-phan-loai]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[fact-cao-la-natsu]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[bon-lan-can]]", "[[kitsune-phan-loai]]"]
 source:
   type: user_input
   ref: "Aurel, 2026-08-16 — cong xac nhan cua tac gia goc trong comment AO3"
@@ -104,8 +104,8 @@ Nó được thừa kế một vai — *"hãy là Natsu"* — và nó **không n
 |---|---|
 | Hibari Sakura | không kịp từ chối |
 | [[musashi]] | sống sót, nhưng bị vai đó nặn hình |
-| [[kawahira]] | mặc vai suốt mấy nghìn năm |
-| [[tsuna]] | 🔴 **tự gán vai cho chính mình** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira\|kawahira]] | mặc vai suốt mấy nghìn năm |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] | 🔴 **tự gán vai cho chính mình** |
 | **Cáo** | ✅ **nói không** — và chịu sự khó chịu của việc nói không |
 
 ⚠️ Và nó ở ngay cạnh Tsuna, **suốt ngày**, làm đúng cái việc cậu không làm được.
@@ -124,7 +124,7 @@ Nó được thừa kế một vai — *"hãy là Natsu"* — và nó **không n
 
 | | Từng là | Giờ là |
 |---|---|---|
-| [[tsuna]] | Vongola Decimo | một cậu bé **hiền lành, lương thiện, cứng đầu, hơi vụng về** |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] | Vongola Decimo | một cậu bé **hiền lành, lương thiện, cứng đầu, hơi vụng về** |
 | cáo | sư tử | một con kudagitsune |
 
 → Mục *"vấn đề danh tính"* ở trên **không phải chuyện riêng của cáo**. Nó là chuyện của **cả hai**, và đó là lý do chúng hiểu nhau: trong cả hai thế giới **không còn ai ở đúng tình trạng đó**.

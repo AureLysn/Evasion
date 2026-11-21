@@ -7,7 +7,7 @@ project: EMB
 canon_layer: user_canon
 status: active
 aliases: ["crosscheck canon 16/09", "doi chieu canon KHR", "canon vs fanon vs AU", "EMB lech canon cho nao", "phan loai canon sau khi lam lai"]
-related: ["[[dot5-canon-vs-fanon]]", "[[de-len-canon-khr]]", "[[20260916-p2-ch2]]", "[[_KHR-MOC]]", "[[Fon]]", "[[japanese-folklore/_MOC|folklore Nhat]]", "[[Uu-Tien-Nguon]]", "[[EMB]]"]
+related: ["[[dot5-canon-vs-fanon]]", "[[de-len-canon-khr]]", "[[20260916-p2-ch2]]", "[[_KHR-MOC]]", "[[Fon]]", "[[Uu-Tien-Nguon]]", "[[EMB]]"]
 source:
   type: inference
   ref: "Doi chieu noi dung EMB sau luot lam lai tu nguon (15-16/09/2026) voi Database/Fandom/KHR/ hien co. Tra nguon ngoai 16/09/2026: reborn.fandom.com (Hell Ring, Futa, Chrome Dokuro, Fon), vsbattles.fandom.com/wiki/Fon, en.wikipedia.org (Kitsune_no_yomeiri, Shinto_wedding, Prahara), yokai.com/kudagitsune."
@@ -15,7 +15,7 @@ authority: ai
 confidence: 0.8
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-16
+last_updated: 2026-11-21
 ---
 
 # Đối chiếu canon — sau lượt làm lại từ nguồn

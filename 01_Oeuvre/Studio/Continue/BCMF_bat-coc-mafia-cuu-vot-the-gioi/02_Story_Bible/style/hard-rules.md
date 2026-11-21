@@ -8,7 +8,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 aliases: ["hard rules BCMF", "luat cung van phong BCMF", "quy tac cung BCMF", "khong duoc vi pham BCMF"]
-related: ["[[BCMF]]", "[[targets]]", "[[signature]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[phan-biet-cung-ten-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]"]
+related: ["[[BCMF]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]]", "[[nguyen-van-zh-bcmf]]", "[[watch-frame-bcmf]]", "[[phan-biet-cung-ten-bcmf]]", "[[qd-viet-tieng-trung-bcmf]]"]
 source:
   type: measured
   ref: "Do 28/09/2026 tren nguyen van zh ch1-24 (nguyen-van-zh-bcmf), than truyen da bo tieu de, van an, loi tac gia: 60.274 chu Han. Dem bang style_metrics.py + script dem ky tu. Aurel 28/09: viet tiep bang tieng Trung"
@@ -23,7 +23,7 @@ last_updated: 2026-09-28
 # Luật cứng — vi phạm là lỗi, không phải lệch
 
 > Mỗi luật phát biểu được thành **có / không**, và đã **đo trên nguyên văn**: tác giả tuân thủ **không một ngoại lệ**
-> trên 24 chương. Chỗ nào tác giả có ngoại lệ thì **không** vào đây — nằm ở [[targets]] hoặc [[signature]].
+> trên 24 chương. Chỗ nào tác giả có ngoại lệ thì **không** vào đây — nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/targets|targets]] hoặc [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]].
 >
 > Viết bằng **tiếng Trung** — [[qd-viet-tieng-trung-bcmf]].
 
@@ -44,7 +44,7 @@ last_updated: 2026-09-28
 | Nội dung | **cả 24** là lời hai ý thức thế giới |
 
 → **Không** dùng `【】` để đánh dấu đoạn chiếu trên màn hình, tiêu đề cảnh, hay ghi chú. Chuyển giữa phòng và
-màn hình **chỉ bằng lời kể** — xem [[signature]] §1.
+màn hình **chỉ bằng lời kể** — xem [[05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/style/signature|signature]] §1.
 
 ⚠️ Bản convert [[nguyen-tac-bcmf]] có **99** cặp — 75 cặp thêm là của người convert. **Đừng bắt chước bản convert
 ở điểm này.**

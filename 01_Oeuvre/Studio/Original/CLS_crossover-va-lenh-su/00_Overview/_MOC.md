@@ -40,10 +40,10 @@ Note định danh: [[CLS]]. `origin: original` — sáng tác gốc, không vi�
 
 | Thư mục | Có gì |
 |---|---|
-| `sources/` | 3 epub **bản đối chiếu** trong kho + nhận xét của Aurel. [[01_Project-canon/sources/_MOC|sources/_MOC]] |
+| `sources/` | 3 epub **bản đối chiếu** trong kho + nhận xét của Aurel. [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/_MOC\|sources/_MOC]] |
 | `premise/` | `spark.md` + [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise\|premise]] |
-| `decisions/` | [[05_Management/decisions/_MOC|decisions/_MOC]] |
-| `questions/` | [[05_Management/questions/_MOC|questions/_MOC]] — **đọc như câu hỏi, không như quyết định** |
+| `decisions/` | [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/_MOC\|decisions/_MOC]] |
+| `questions/` | [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/_MOC\|questions/_MOC]] — **đọc như câu hỏi, không như quyết định** |
 | `contracts/` | [[crossover]] · [[watch-frame]] |
 | `Characters/` | [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna\|tsuna]] · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd\|jason-todd]] — nhân vật trục, **nhóm bị chiếu**. Trục BSD là **Dazai** từ 28/09 — [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/dazai\|dazai]] *(tạo 02/10; mệnh đồ Ký ức từ 03/10)*, canon ở [[05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Dazai-Osamu|Dazai-Osamu]]. [[akutagawa]] — **nhân vật phụ** từ 28/09. Bảng ngoại hình NPC canon HSR *(chuyển từ Database 13/11/2026)*: [[Planarcadia-npc-ngoai-hinh]] · Amphoreus-npc-ngoai-hinh · Penacony-npc-ngoai-hinh |
 | `style/` | [[giong-van-pho-thong-khong-nhai-ai]] — văn xuôi phổ thông, không nhại ai · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/hard-rules\|hard-rules]] · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/ai-tells\|ai-tells]] · [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/style/targets\|targets]] *(sàn ~3.000 từ mỗi chương)*; số đo câu, đoạn, thoại: chờ ch1 sau khi Aurel chỉnh |

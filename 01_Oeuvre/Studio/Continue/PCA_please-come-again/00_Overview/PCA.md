@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: draft
 title: "Please Come Again"
 aliases: ["PCA", "Please come again", "please come again"]
-related: ["[[_OEUVRE-MOC]]", "[[drop-point]]"]
+related: ["[[_OEUVRE-MOC]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PCA_please-come-again/00_Overview/drop-point|drop-point]]"]
 source:
   type: user_input
   ref: "old-vault:00_Inbox/Fandom/Viết tiếp fanfic/Please come again/ — 25 file, 582,9 KB, do 23/08/2026. Duong dan that: stores.md dong old-vault. Kiem ke: 90_Meta/kiem-ke-vault-cu.md"

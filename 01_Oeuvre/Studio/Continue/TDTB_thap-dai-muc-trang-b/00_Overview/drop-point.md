@@ -7,7 +7,7 @@ project: TDTB
 canon_layer: fic_explicit
 status: active
 aliases: ["# Drop Point", "Drop Point", "drop-point", "drop point TDTB", "diem dung TDTB", "tuyen con mo TDTB", "tinh trang hien tai TDTB"]
-related: ["[[TDTB]]", "[[TDTB-MOC]]", "[[ban-convert-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[yamamoto-den-phong-tsuna-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[20260925-trich-xuat-lan-1]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/00_Overview/TDTB|TDTB]]", "[[TDTB-MOC]]", "[[ban-convert-tdtb]]", "[[trang-jjwxc-tdtb]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/timeline/master|master]]", "[[yamamoto-den-phong-tsuna-tdtb]]", "[[kenichi-nghe-len-tdtb]]", "[[h-kenichi-vua-thay-da-yeu-tdtb]]", "[[h-tuyet-quay-sang-tsuna-tdtb]]", "[[20260925-trich-xuat-lan-1]]"]
 source:
   type: fic_text
   ref: "乐博 — 《十代目每天都在装B》, JJWXC 5231858. Doc ban convert ch1-15 (trich xuat 25/09) va nguyen van zh ch13-15 tai 26/09/2026 tu JJWXC. Trang JJWXC tai 25/09 cho tien do va ngay dang"

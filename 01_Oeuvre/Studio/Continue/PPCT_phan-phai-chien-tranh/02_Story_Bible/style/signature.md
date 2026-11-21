@@ -8,7 +8,7 @@ canon_layer: fic_explicit
 status: active
 strength: tendency
 aliases: ["signature PPCT", "van phong 西州", "chu ky van phong PPCT", "giong van goc 反派战争", "so do van phong nguyen tac PPCT"]
-related: ["[[hard-rules]]", "[[targets]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[tien-truyen-mot-van-lan-gap-go]]", "[[thoai-la-cau-trong-ngoac-kep]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/targets|targets]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[tien-truyen-mot-van-lan-gap-go]]", "[[thoai-la-cau-trong-ngoac-kep]]"]
 source:
   type: measured
   ref: "Do 13/09/2026 bang script tam (dem chu Han) tren 反派战争.zip ch1–15 (28.131 chu Han than truyen) + tien truyen thuong 1.748 / ha 3.424 chu Han. Than truyen = bo tieu de, link, khoi canh bao/前情提要, va phan sau vach phan cach cuoi (ghi chu tac gia). style_metrics.py nay da dem duoc chu Han, cung dinh nghia than truyen."
@@ -95,7 +95,7 @@ Tác giả tự nói ở ghi chú ch6: viết theo tính liền mạch, **không
 
 - **Nội tâm dạng `X想。` đứng cuối đoạn ngắn** — 8 lần: **Waver 4** (ch11 ×3, ch14 ×1), Dazai 2 (ch2), Kiritsugu 1 (ch5), Irisviel 1 (ch9).
 - **Ống kính tsukkomi trong cảnh đông người là Waver** — ch11, ch14, ch15, cộng các câu 「韦伯…觉得」.
-- 「我」 ngoài ngoặc kép: **2 lần**, cả hai là **nội tâm gián tiếp tự do của Waver** (ch14, ch15), có `韦伯…想 / 觉得` kèm theo. Xem [[hard-rules]] §3.
+- 「我」 ngoài ngoặc kép: **2 lần**, cả hai là **nội tâm gián tiếp tự do của Waver** (ch14, ch15), có `韦伯…想 / 觉得` kèm theo. Xem [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/hard-rules|hard-rules]] §3.
 - **Mượn mắt:** Dazai nhìn qua kính áp tròng/ký ức của Tsuna (ch6, ch8, ch10).
 - **Motif mắt:** 38 lần 眼睛/眼瞳/眸/虹膜/瞳孔/竖瞳 trong 15 chương, có ở **13/15** chương (ch5 và ch12 không có). Đậm nhất ch9 (7), ch3 (6), ch6 (5). *Chỉ đếm từ chỉ mắt; đoạn tả màu mắt không dùng các từ này thì chưa bắt được.*
 

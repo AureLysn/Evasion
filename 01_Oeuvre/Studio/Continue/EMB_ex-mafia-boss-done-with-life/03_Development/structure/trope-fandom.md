@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fanon
 status: active
 aliases: ["trope fandom", "doi chieu fanon", "bang trope", "muc do pho bien", "cai nao la canon cai nao la fanon", "Sky attraction", "Harmony Factor"]
-related: ["[[gia-thuyet-aurel-2]]", "[[gia-thuyet-aurel]]", "[[tropes]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[Uu-Tien-Nguon]]"]
+related: ["[[gia-thuyet-aurel-2]]", "[[gia-thuyet-aurel]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]]", "[[truc-chinh]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[Uu-Tien-Nguon]]"]
 source:
   type: user_input
   ref: "KHR_Gia_thuyet_Tong_hop_Khong_AU.docx — PHAN VII. Aurel gui 2026-08-16"
@@ -24,7 +24,7 @@ last_updated: 2026-11-21
 
 > 🔴 **Phần VII trong tài liệu của Aurel chính là phần tra trope fandom.**
 >
-> ✅ **Đo lại 17/09/2026** *(nhật ký lỗi `L33`: không ghi "không truy cập được" khi chưa thử)*: WebFetch `tvtropes.org` và `fanlore.org` đều trả **HTTP 403**. Reddit và SpaceBattles **chưa thử** — không ghi là bị chặn. Dù sao, trang trope **không phải bằng chứng về fic này**; kết cấu của fic nằm ở [[tropes]].
+> ✅ **Đo lại 17/09/2026** *(nhật ký lỗi `L33`: không ghi "không truy cập được" khi chưa thử)*: WebFetch `tvtropes.org` và `fanlore.org` đều trả **HTTP 403**. Reddit và SpaceBattles **chưa thử** — không ghi là bị chặn. Dù sao, trang trope **không phải bằng chứng về fic này**; kết cấu của fic nằm ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]].
 
 ## Bảng — mức độ phổ biến trong fandom KHR
 
@@ -92,4 +92,4 @@ Bảng này phủ **fanon KHR**. Chưa phủ:
 - **"nhân vật chính không tự coi mình quan trọng"** ngoài KHR
 - **khoảng nhảy nhiều năm** trong bộ dài
 
-⚠️ Ba mục này cần nguồn ngoài; hai trang trope chính **trả 403** khi thử 17/09. Đề nghị: Aurel tự tra nếu muốn, hoặc **chấp nhận thiếu** — vì hai nguồn đã có *(kết cấu riêng của tác giả gốc ở [[tropes]], và bảng fanon này)* đã đủ để không lặp lỗi cũ.
+⚠️ Ba mục này cần nguồn ngoài; hai trang trope chính **trả 403** khi thử 17/09. Đề nghị: Aurel tự tra nếu muốn, hoặc **chấp nhận thiếu** — vì hai nguồn đã có *(kết cấu riêng của tác giả gốc ở [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/tropes|tropes]], và bảng fanon này)* đã đủ để không lặp lỗi cũ.

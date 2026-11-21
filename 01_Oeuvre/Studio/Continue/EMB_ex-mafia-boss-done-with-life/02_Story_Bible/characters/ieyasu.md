@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Sawada Ieyasu", "Ieyasu", "Giotto", "Vongola Primo", "Primo", "foreign Kohaku", "nguoi ngoai quoc", "to dong Sawada noi", "the foreign man"]
-related: ["[[sawada-ieyasu]]", "[[sawada-tu-te]]", "[[rule-ten-tokugawa]]", "[[kimiko]]", "[[ietsuna]]", "[[iemitsu]]", "[[tsuna]]", "[[kyuuto]]"]
+related: ["[[sawada-ieyasu]]", "[[sawada-tu-te]]", "[[rule-ten-tokugawa]]", "[[kimiko]]", "[[ietsuna]]", "[[iemitsu]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyuuto]]"]
 source:
   type: fic_text
   ref: "Part 1 Ch2 (doan 283, 427, 451, 483); Part 1 Ch3 (doan 538-550, 653)"

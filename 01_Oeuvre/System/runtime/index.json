@@ -480,7 +480,10 @@
   "chapters": [
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/04_Manuscript/chapters/_MOC.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/04_Manuscript/chapters/_MOC.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/04_Manuscript/chapters/_MOC.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/04_Manuscript/chapters/_MOC.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/04_Manuscript/chapters/_MOC.md",
+   "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/_MOC.md",
    "05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/04_Manuscript/chapters/_MOC.md"
   ],
   "characters": [
@@ -3262,7 +3265,7 @@
   ]
  },
  "built": "2026-11-21",
- "count": 1662,
+ "count": 1665,
  "missing_aliases": [],
  "notes": [
   {
@@ -26420,7 +26423,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 1045
+   "words": 1058
   },
   {
    "aliases": [
@@ -28117,7 +28120,7 @@
     "two sawada families"
    ],
    "lane": "personal",
-   "last_updated": "2026-08-16",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/organizations/_MOC.md",
    "project": "EMB",
    "scope": "project",
@@ -28129,7 +28132,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 277
+   "words": 291
   },
   {
    "aliases": [
@@ -29151,7 +29154,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 661
+   "words": 783
   },
   {
    "aliases": [
@@ -33017,7 +33020,7 @@
     "phan loai canon sau khi lam lai"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-16",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/crosscheck/_doi-chung/20260916-crosscheck-canon.md",
    "project": "EMB",
    "scope": "project",
@@ -46571,6 +46574,39 @@
   },
   {
    "aliases": [
+    "chuong PPCT",
+    "chapters PPCT",
+    "MOC chuong PPCT"
+   ],
+   "always_load": false,
+   "authority": "",
+   "canon_layer": "user_canon",
+   "confidence": null,
+   "id": "moc.PPCT.chapters",
+   "keys": [
+    "chapters",
+    "chapters ppct",
+    "chuong ppct",
+    "moc chuong ppct",
+    "moc ppct chapters"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-21",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/04_Manuscript/chapters/_MOC.md",
+   "project": "PPCT",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/writing",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 1046
+  },
+  {
+   "aliases": [
     "chuong 16 PPCT",
     "ban nhap tieng Trung ch16",
     "八兆亿个不列颠 ban nhap",
@@ -57755,6 +57791,39 @@
   },
   {
    "aliases": [
+    "chuong TDTB",
+    "chapters TDTB",
+    "MOC chuong TDTB"
+   ],
+   "always_load": false,
+   "authority": "",
+   "canon_layer": "user_canon",
+   "confidence": null,
+   "id": "moc.TDTB.chapters",
+   "keys": [
+    "chapters",
+    "chapters tdtb",
+    "chuong tdtb",
+    "moc chuong tdtb",
+    "moc tdtb chapters"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-21",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/04_Manuscript/chapters/_MOC.md",
+   "project": "TDTB",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/writing",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 236
+  },
+  {
+   "aliases": [
     "chuong 16 TDTB",
     "ban viet lai ch16 TDTB",
     "装B的第十六天",
@@ -61500,7 +61569,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 593
+   "words": 599
   },
   {
    "aliases": [
@@ -62569,7 +62638,7 @@
     "sources moc"
    ],
    "lane": "personal",
-   "last_updated": "2026-09-13",
+   "last_updated": "2026-11-21",
    "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/_MOC.md",
    "project": "CLS",
    "scope": "project",
@@ -62581,7 +62650,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 650
+   "words": 671
   },
   {
    "aliases": [
@@ -64874,6 +64943,39 @@
    ],
    "type": "info",
    "words": 2446
+  },
+  {
+   "aliases": [
+    "chuong CLS",
+    "chapters CLS",
+    "MOC chuong CLS"
+   ],
+   "always_load": false,
+   "authority": "",
+   "canon_layer": "user_canon",
+   "confidence": null,
+   "id": "moc.CLS.chapters",
+   "keys": [
+    "chapters",
+    "chapters cls",
+    "chuong cls",
+    "moc chuong cls",
+    "moc cls chapters"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-21",
+   "path": "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/04_Manuscript/chapters/_MOC.md",
+   "project": "CLS",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/writing",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 636
   },
   {
    "aliases": [
@@ -69510,7 +69612,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 404
+   "words": 434
   },
   {
    "aliases": [

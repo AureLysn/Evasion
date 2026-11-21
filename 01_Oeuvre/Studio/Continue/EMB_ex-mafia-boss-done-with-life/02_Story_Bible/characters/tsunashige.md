@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsunashige", "Sawada Tsunashige", "em trai Tsuna", "con thu hai", "nguoi duoc Reborn day", "ung vien Decimo", "chau thu hai cua Musashi"]
-related: ["[[tsuna]]", "[[reborn]]", "[[nana]]", "[[iemitsu]]", "[[musashi]]", "[[fact-toan-canh-tuong-lai]]", "[[rule-ten-tokugawa]]", "[[tuoi-va-moc]]", "[[q-tsunashige-biet-anh]]", "[[truc-chinh]]"]
+related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn|reborn]]", "[[nana]]", "[[iemitsu]]", "[[musashi]]", "[[fact-toan-canh-tuong-lai]]", "[[rule-ten-tokugawa]]", "[[tuoi-va-moc]]", "[[q-tsunashige-biet-anh]]", "[[truc-chinh]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch1 (loi Tomoko va loi Tsuna) va Ch2 (Musashi nghi ve chau thu hai); Local_Mafia_Boss_Blames.html Ch3 (toan canh tuong lai + ghi chu tac gia ve ten). Doc lai 15-16/09/2026"
@@ -32,7 +32,7 @@ last_updated: 2026-11-21
 | **Nơi ở** | Ý, *giữa lãnh thổ Vongola, an toàn tuyệt đối* — lời chính Tsuna |
 | **Số phận đã định** | *hẳn đã được nhắm cho **CEDEF*** — Tomoko đoán |
 | **Đối chiếu** | nếu hoàn cảnh Tenmei-sama giống vậy thì cậu đã là người đứng đầu, còn **Tsunashige làm phó cho anh** |
-| **Năm Tsuna 18** | tới đền cùng [[reborn]] — [[fact-toan-canh-tuong-lai]] |
+| **Năm Tsuna 18** | tới đền cùng [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/reborn\|reborn]] — [[fact-toan-canh-tuong-lai]] |
 
 **Tuổi:** nhánh chốt **kém Tsuna bốn tuổi** ở [[tuoi-va-moc]], để năm Tsuna 18 thì cậu ta **14** — đúng tuổi Tsuna lúc canon KHR mở màn. Chi tiết *"còn là em bé"* ở P2 Ch2 **khớp** với con số đó.
 

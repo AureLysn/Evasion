@@ -21,15 +21,15 @@ Hồ sơ nhân vật **của fic này**. Canon chung của Tsuna/Gojo/Dazai thu�
 
 | Nhân vật | Fandom | Chức năng chính | Chưa chốt |
 |---|---|---|---|
-| [[tsuna]] | KHR | 4 giữ người sống · 5 giữ đội | — |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/tsuna\|tsuna]] | KHR | 4 giữ người sống · 5 giữ đội | — |
 | [[gojo]] | JJK | 3 chống đỡ | — (đã chốt 06/09, xem [[quyet-dinh-06-09]]) |
-| [[dazai]] | BSD | 1 đọc luật | — (đã chốt 06/09, xem [[quyet-dinh-06-09]]) |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/dazai\|dazai]] | BSD | 1 đọc luật | — (đã chốt 06/09, xem [[quyet-dinh-06-09]]) |
 
 ## Hai nhân vật gốc (OC)
 
 | Nhân vật | Chức năng chính | Chưa chốt |
 |---|---|---|
-| [[thien-su]] | 6 tri thức nền | tên (đã xác nhận là biến thể AureLysn, 06/09) |
+| [[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/thien-su\|thien-su]] | 6 tri thức nền | tên (đã xác nhận là biến thể AureLysn, 06/09) |
 | [[phap-y]] | 2 khám hiện trường | tên (giới tính/tuổi/lý do nghỉ đã chốt 06/09) |
 
 ## Để dành (chưa vào đội chính)

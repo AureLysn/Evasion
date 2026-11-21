@@ -7,7 +7,7 @@ project: EMB
 canon_layer: fic_explicit
 status: active
 aliases: ["Azuma Maro", "Maro", "Maro-san", "Azuma-san", "Azuma-sama", "ba thu hai", "Hell Ring cuoi cung", "nhan hinh sung", "hoc gia Flame", "nguoi canh tam man"]
-related: ["[[musashi]]", "[[tsuna]]", "[[kawahira]]", "[[indra]]", "[[nghi-le-hop-nhat-loi]]", "[[le-cuoi-cao]]", "[[fact-yama-gio-thu-ba]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[phan-biet-hai-the-gioi]]"]
+related: ["[[musashi]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[nghi-le-hop-nhat-loi]]", "[[le-cuoi-cao]]", "[[fact-yama-gio-thu-ba]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[phan-biet-hai-the-gioi]]"]
 source:
   type: fic_text
   ref: "personal-bulk:fiction-sources/EMB/raw/original-fic/Local_Mafia_Boss_Blames.html Ch3 va End Notes; Ex-Mafia_Boss_Spends.html Ch2 (mo chuong, doan tren hien, POV Tsuna); reply tac gia ve chiec nhan. Doc lai 15-16/09/2026"
@@ -34,7 +34,7 @@ Tác giả nói bà vốn chỉ định là một nhân vật nhỏ — *đây l
 
 Đeo ở **tay trái** một **chiếc nhẫn hình sừng** kỳ lạ: **Hell Ring cuối cùng**, chiếc mà canon KHR không cho biết chủ. Độc giả nhận ra trước cả khi tác giả xác nhận.
 
-🔴 Hệ quả cơ chế, và nó chi phối cả một năm cốt truyện: **các Hell Ring cộng hưởng với nhau**, nên bà **phát hiện được** khi một người đeo nhẫn khác tới gần. Chính vì thế [[kawahira]] phải lượn quanh dinh thự **cả năm** mà không tiếp cận được Tsuna.
+🔴 Hệ quả cơ chế, và nó chi phối cả một năm cốt truyện: **các Hell Ring cộng hưởng với nhau**, nên bà **phát hiện được** khi một người đeo nhẫn khác tới gần. Chính vì thế [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]] phải lượn quanh dinh thự **cả năm** mà không tiếp cận được Tsuna.
 
 *(Cũng chính chiếc nhẫn tay phải của ông **ngân lên cộng hưởng** ở P1 Ch3, ngay trước khi tấm màn Mist phủ xuống Namimori — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]].)*
 
@@ -57,7 +57,7 @@ Trong đêm lễ cưới cáo, mắt bà phải rời khỏi sessha. Nhưng văn
 |---|---|
 | [[musashi]] | bà **không được nhìn sau khi đồng hồ điểm 9** |
 | [[indra]] *(nghĩ)* | **yāma thứ ba, 12–3 giờ** — cả mắt vô hình cũng phải rời đi |
-| [[tsuna]] *(nghĩ)* | từ **nửa đêm tới 3 giờ**; lúc ~2 giờ 30 cậu tính còn **nửa tiếng** trước khi mắt bà trở lại |
+| [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna\|tsuna]] *(nghĩ)* | từ **nửa đêm tới 3 giờ**; lúc ~2 giờ 30 cậu tính còn **nửa tiếng** trước khi mắt bà trở lại |
 
 **Đừng vá hộ.** Ghi cả hai — [[fact-yama-gio-thu-ba]] · [[20260916-p2-ch2]] mục K7.
 
@@ -67,7 +67,7 @@ Và đây là ràng buộc cốt truyện thật: **sau 3 giờ, mắt bà phủ
 
 Lấy cảm hứng từ học giả có thật **Kada no Azumamaro**, người thuộc dòng nhiều đời cung cấp tư tế cho đền Inari ở Fushimi, Kyoto. ⚠️ Đó **chỉ là cảm hứng đặt tên** — không có nghĩa nhân vật này xuất thân Fushimi. Xem [[phan-biet-hai-the-gioi]].
 
-Cách gọi: [[indra]] gọi **Azuma-san**; cư dân gọi **Azuma-sama**; [[tsuna]] gọi **Maro-san**.
+Cách gọi: [[indra]] gọi **Azuma-san**; cư dân gọi **Azuma-sama**; [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] gọi **Maro-san**.
 
 ## Chưa trích
 

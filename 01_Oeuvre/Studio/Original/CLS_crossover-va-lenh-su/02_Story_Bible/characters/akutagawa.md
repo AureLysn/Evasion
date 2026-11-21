@@ -7,7 +7,7 @@ project: CLS
 canon_layer: project_locked
 status: active
 aliases: ["Akutagawa", "Akutagawa Ryūnosuke", "Akutagawa Ryunosuke", "芥川龍之介", "芥川", "Ryūnosuke", "giới xuyên", "Rashōmon", "Akutagawa CLS"]
-related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[tsuna]]", "[[jason-todd]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Akutagawa-Ryunosuke|Akutagawa-Ryunosuke (canon)]]"]
+related: ["[[CLS]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/notes/phan-biet-cung-ten|phan-biet-cung-ten]]", "[[ke-ngoai-lai-thay-cho]]", "[[lech-su-la-suc-manh-menh-do]]", "[[moc-thoi-gian-ca-ba-o-day]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Akutagawa-Ryunosuke|Akutagawa-Ryunosuke (canon)]]"]
 source:
   type: user_input
   ref: "premise.md (Aurel chot 14/09/2026); menh do: sources/user-input/20260913-menh-do-cua-tung-nhan-vat.md; muc thay cho 'ghi de ho so' trinh bay 24/09/2026, Aurel khong phan bac nhung chua duoc hoi rieng"
@@ -54,5 +54,5 @@ Chưa có `secrets/`.
 
 ## Quan hệ
 
-- [[tsuna]] — chưa có note quan hệ.
-- [[jason-todd]] — chưa có note quan hệ.
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/tsuna|tsuna]] — chưa có note quan hệ.
+- [[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/jason-todd|jason-todd]] — chưa có note quan hệ.

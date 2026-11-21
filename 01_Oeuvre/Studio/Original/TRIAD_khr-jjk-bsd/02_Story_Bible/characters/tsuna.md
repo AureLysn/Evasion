@@ -7,7 +7,7 @@ project: TRIAD
 canon_layer: fic_explicit
 status: active
 aliases: ["Tsuna", "Sawada Tsunayoshi", "27", "Dame-Tsuna", "doi truong"]
-related: ["[[gojo]]", "[[dazai]]", "[[thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-tuoi-gojo]]"]
+related: ["[[gojo]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/dazai|dazai]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/characters/thien-su|thien-su]]", "[[05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/03_Development/structure/premise/premise|premise]]", "[[q-tuoi-gojo]]"]
 source:
   type: user_input
   ref: "sources/tsuna-truyen.md, doi chieu sources/tsuna-canon.md (Database/Fandom/KHR/sources/tsuna-canon-draft) va sources/loi-tac-gia.md. Aurel + AI, goi ho-so-nhan-vat 2026-09-04."

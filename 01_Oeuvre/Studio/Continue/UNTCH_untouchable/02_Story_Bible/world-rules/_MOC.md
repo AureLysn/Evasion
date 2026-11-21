@@ -33,6 +33,8 @@ thứ đúng với mọi fic KHR thì nằm ở [[_KHR-MOC]]. **Đừng chép ca
 
 ## Fic đè lên canon ở đâu — bảng tra nhanh
 
+Bản đối chiếu đầy đủ: [[de-len-canon-bnha]].
+
 | Canon nói | UNTCH nói | Tầng |
 |---|---|---|
 | **Nezu là một con vật có quirk** ([[Quirk]]) | **Nedzu là NGƯỜI**, chưa từng bị thí nghiệm, High Spec không tồn tại | `author_confirmed` — end note ch123 |
