@@ -16,7 +16,7 @@ reveal_planned:
   chapter: null
   note: "Van an hua 掉马火葬场 nhung khong noi khi nao. Xem hook lo-than-phan"
 leak_terms: ["幽灵Omega", "超级Omega", "分化成Omega", "幽灵omega", "直O装B", "抑制剂无效", "纲吉是Omega", "假装Beta"]
-aliases: ["Tsuna la Omega", "U Linh Omega", "U linh omega", "u linh omega", "幽灵Omega", "ghost Omega", "Omega gia beta TDTB", "Omega giả làm beta", "tsuna omega", "sieu cap omega", "siêu cấp omega", "直O装B"]
+aliases: ["Tsuna la Omega", "secret U Linh Omega", "幽灵Omega", "ghost Omega", "Omega gia beta TDTB", "Omega giả làm beta", "tsuna omega", "sieu cap omega", "siêu cấp omega", "直O装B"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[u-linh-omega-tdtb]]", "[[abo-the-gioi-tdtb]]", "[[he-thong-nhiem-vu-tsuna-tdtb]]", "[[tsuna-co-he-thong-nhiem-vu-tdtb]]", "[[h-uc-che-te-het-han-tdtb]]", "[[h-lo-than-phan-hoa-tang-tdtb]]", "[[h-tin-tuc-to-tsuna-dong-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]"]
 source:
   type: fic_text

@@ -14,7 +14,7 @@ unknown_to: ["character.BCMF.shiratori-ninzaburo-bcmf", "character.BCMF.yoshida-
 reveal_planned:
   arc: null
   chapter: null
-aliases: ["Tsuna la Boss Mafia", "Vongola Decimo", "Juudaime", "Mafia Boss cuu the"]
+aliases: ["Tsuna la Boss Mafia", "secret Vongola Decimo", "secret Juudaime", "Mafia Boss cuu the"]
 related: ["[[sawada-tsunayoshi-bcmf]]", "[[vongola-bcmf]]"]
 source:
   type: fic_text

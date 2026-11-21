@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Amenokagami no Shinkyo", "天の鏡の神鏡", "danh hieu Kimiko", "guong thay tuong lai", "tien tri", "Kimiko thang thien", "Ame-no-Kagami", "guong Yata", "Ise Jingu", "Mie"]
+aliases: ["fact Amenokagami no Shinkyo", "天の鏡の神鏡", "danh hieu Kimiko", "guong thay tuong lai", "tien tri", "Kimiko thang thien", "Ame-no-Kagami", "guong Yata", "Ise Jingu", "Mie"]
 related: ["[[kimiko]]", "[[author-notes]]", "[[kimiko-thay-truoc-tuong-lai]]", "[[fact-kimiko-arcobaleno]]", "[[fact-sanctuary]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/locations/namimori|namimori]]", "[[nha-hibari]]"]
 source:
   type: author_comment

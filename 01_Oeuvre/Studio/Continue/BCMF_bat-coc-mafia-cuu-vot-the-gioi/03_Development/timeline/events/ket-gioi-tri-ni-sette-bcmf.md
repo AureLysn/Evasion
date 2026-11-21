@@ -12,7 +12,7 @@ date:
   chapter: "ch8-ch11"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf", "character.BCMF.byakuran-bcmf", "character.BCMF.uni-bcmf", "character.BCMF.reborn-bcmf", "character.BCMF.gokudera-hayato-bcmf", "character.BCMF.yamamoto-takeshi-bcmf", "character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.basil-bcmf", "character.BCMF.lal-mirch-bcmf", "character.BCMF.kozato-enma-bcmf"]
 location: ["[[khe-giua-hai-the-gioi-bcmf]]"]
-aliases: ["ket gioi Tri-ni-Sette", "khe giua hai the gioi", "chon doi bo tuc", "doan dieu tra thanh lap"]
+aliases: ["ket gioi Tri-ni-Sette", "event khe giua hai the gioi", "chon doi bo tuc", "doan dieu tra thanh lap"]
 related: ["[[khe-giua-hai-the-gioi-bcmf]]", "[[doan-dieu-tra-vongola-bcmf]]"]
 source:
   type: fic_text

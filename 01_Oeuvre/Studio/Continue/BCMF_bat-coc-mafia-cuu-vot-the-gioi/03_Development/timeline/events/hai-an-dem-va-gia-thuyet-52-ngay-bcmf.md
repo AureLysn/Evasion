@@ -12,7 +12,7 @@ date:
   chapter: "ch14-ch16"
 participants: ["character.BCMF.irie-shoichi-bcmf", "character.BCMF.spanner-bcmf", "character.BCMF.basil-bcmf", "character.BCMF.kozato-enma-bcmf", "character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[khach-san-bcmf]]"]
-aliases: ["hai an dem", "ktv banh xe", "gia thuyet 52 ngay", "ty le an mang"]
+aliases: ["hai an dem", "ktv banh xe", "gia thuyet 52 ngay", "event ty le an mang"]
 related: ["[[ty-le-an-mang-bcmf]]", "[[q-gia-thuyet-52-ngay-bcmf]]", "[[khach-san-bcmf]]"]
 source:
   type: fic_text

@@ -9,7 +9,7 @@ status: resolved
 resolved_by: "[[qd-viet-tieng-trung-tdtb]]"
 resolved_at: 2026-09-28
 decision_owner: "user"
-aliases: ["ten romaji chua chot", "tên chưa chốt", "thành cùng nhau", "Lộc Dã Tuyết đọc là gì", "kiện chi lang tên Nhật", "Ngọc Sinh Viên", "Thiên Lan quỳ", "Rangu", "cùng mộc đại lão", "chín xuyên Reiko", "Lâm Thanh cùng"]
+aliases: ["ten romaji chua chot", "tên chưa chốt", "thành cùng nhau", "Lộc Dã Tuyết đọc là gì", "kiện chi lang tên Nhật", "q Ngọc Sinh Viên", "Thiên Lan quỳ", "q Rangu", "cùng mộc đại lão", "chín xuyên Reiko", "Lâm Thanh cùng"]
 related: ["[[phan-biet-cung-ten-tdtb]]", "[[loc-da-tuyet-tdtb]]", "[[kesuke-tdtb]]", "[[kien-chi-lang-tdtb]]", "[[binh-an-uyen-hoang-tdtb]]", "[[thien-dao-tdtb]]", "[[angelie-tap-tdtb]]"]
 source:
   type: inference

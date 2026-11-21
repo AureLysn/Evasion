@@ -6,7 +6,7 @@ lane: personal
 project: HNQT
 canon_layer: fic_explicit
 status: active
-aliases: ["luat he thong", "he thong hac nguyet quang", "黑月光系统", "论坛黑月光", "thanh tuu luan dan hac nguyet quang", "hac nguyet quang la gi", "black moonlight", "uoc nguyen", "mot dieu uoc", "主角团", "主脑"]
+aliases: ["luat he thong", "fact he thong hac nguyet quang", "黑月光系统", "论坛黑月光", "thanh tuu luan dan hac nguyet quang", "hac nguyet quang la gi", "black moonlight", "uoc nguyen", "mot dieu uoc", "主角团", "主脑"]
 related: ["[[he-thong-hac-nguyet-quang-hnqt]]", "[[fact-nhiem-vu-chinh-hnqt]]", "[[fact-phan-thuong-dao-cu-hnqt]]", "[[fact-manga-du-tan-thien-va-dien-dan-hnqt]]", "[[hook-hac-hoa-hnqt]]", "[[hook-uoc-nguyen-dao-nguoc-thoi-khong-hnqt]]"]
 source:
   type: fic_text

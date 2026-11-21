@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Tsuna Kyouya", "Tsuna va Kyouya", "quan he Tsuna Kyouya", "anh em ho", "small animal"]
+aliases: ["Tsuna Kyouya", "Tsuna va Kyouya", "quan he Tsuna Kyouya", "quan he anh em ho", "quan he small animal"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[kyouya]]", "[[fact-kyouya-anh-em-ho]]", "[[kyouya-loai-chu-chot]]"]
 source:
   type: author_comment

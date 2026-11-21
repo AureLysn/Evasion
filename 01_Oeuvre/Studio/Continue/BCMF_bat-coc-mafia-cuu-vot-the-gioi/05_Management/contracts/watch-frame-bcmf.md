@@ -9,7 +9,7 @@ canon_layer: project_locked
 status: active
 strength: hard
 stance: plot_driven
-aliases: ["hop dong khung xem anh the BCMF", "watch frame contract BCMF", "luat phong chieu BCMF", "dai sanh trang", "den do lua chon then chot", "mau chot lua chon", "phat song truc tiep BCMF", "y thuc the gioi BCMF", "mot soi y thuc"]
+aliases: ["hop dong khung xem anh the BCMF", "watch frame contract BCMF", "luat phong chieu BCMF", "contract dai sanh trang", "den do lua chon then chot", "mau chot lua chon", "phat song truc tiep BCMF", "y thuc the gioi BCMF", "mot soi y thuc"]
 related: ["[[BCMF]]", "[[crossover-bcmf]]", "[[nguyen-tac-bcmf]]", "[[q-ky-uc-sau-buoi-chieu-bcmf]]"]
 source:
   type: fic_text

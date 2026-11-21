@@ -12,7 +12,7 @@ addressing:
   yamamoto_to_tsuna: "'A Cương' (ch12-15) — tu lan dau gap; truoc ong kinh cung 'A Cương'. Chua bao gio goi 'Sawada' hay 'cương Cát'"
   tsuna_to_yamamoto: "trong dau: 'núi bản võ' / 'Sơn Bản Vũ' (ch11-13); noi thang: 'Yamamoto-kun' (ch14) → Yamamoto xin bo -kun: 'Bảo ta núi vốn là có thể' → ch15 Tsuna goi 'Núi bản' (Yamamoto, tron)"
   dai_tu_convert: "ta / ngươi ca hai chieu"
-aliases: ["Tsuna Yamamoto", "8027", "A Cương", "Yamamoto om Tsuna", "bạn rất thân", "cùng lớp sơ trung", "Tsuna x Yamamoto"]
+aliases: ["Tsuna Yamamoto", "8027", "quan he A Cương", "Yamamoto om Tsuna", "bạn rất thân", "cùng lớp sơ trung", "Tsuna x Yamamoto"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[tsuna-yamamoto-cung-lop-so-trung-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[yamamoto-gap-tsuna-tokyo-dome-tdtb]]", "[[yamamoto-den-phong-tsuna-tdtb]]", "[[h-80-doi-tuong-to-tinh-tdtb]]", "[[q-cp-chinh-tdtb]]"]
 source:
   type: fic_text

@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Kyouya", "Hibari Kyouya", "anh em ho", "cousin", "quan he Tsuna Kyouya", "nguoi nha"]
+aliases: ["fact Kyouya", "fact Hibari Kyouya", "fact anh em ho", "cousin", "quan he Tsuna Kyouya", "nguoi nha"]
 related: ["[[ao3-comments]]"]
 source:
   type: author_comment

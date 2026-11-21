@@ -9,7 +9,7 @@ canon_layer: planned
 status: unresolved
 needed_before: "khi lap khung"
 decision_owner: user
-aliases: ["Bermuda an toi", "Tsuna moi Vindice", "Bermuda len hinh", "ban vong nien Bermuda"]
+aliases: ["q Bermuda an toi", "Tsuna moi Vindice", "Bermuda len hinh", "ban vong nien Bermuda"]
 related: [ "[[bermuda]]", "[[tsuna--bermuda]]", "[[hook-bermuda-to-mo]]", "[[q-cam-khoan-vendicare]]"]
 source:
   type: user_input

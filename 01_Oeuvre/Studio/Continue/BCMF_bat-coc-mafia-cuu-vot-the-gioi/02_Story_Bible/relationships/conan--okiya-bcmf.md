@@ -11,7 +11,7 @@ relation: "đồng minh biết thân phận nhau"
 addressing:
   okiya_to_conan: "Boy"
   conan_to_okiya: "Okiya tiên sinh"
-aliases: ["Conan Okiya", "Boy"]
+aliases: ["Conan Okiya", "quan he Boy"]
 related: ["[[edogawa-conan-bcmf]]", "[[okiya-subaru-bcmf]]"]
 source:
   type: fic_text

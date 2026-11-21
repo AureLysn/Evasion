@@ -6,7 +6,7 @@ lane: personal
 project: PPCT
 canon_layer: fic_explicit
 status: active
-aliases: ["tien truyen PPCT", "一万次的相遇与错过", "一万次的相遇与重逢", "mot van lan gap go va lo mat", "Một vạn lần gặp gỡ và lỡ mất", "tien truyen 反派战争", "kiep truoc Dazai Tsuna", "phong mo trang"]
+aliases: ["tien truyen PPCT", "一万次的相遇与错过", "一万次的相遇与重逢", "mot van lan gap go va lo mat", "Một vạn lần gặp gỡ và lỡ mất", "tien truyen 反派战争", "kiep truoc Dazai Tsuna", "source phong mo trang"]
 related: ["[[PPCT]]", "[[nguyen-tac-phan-phai-chien-tranh]]", "[[bai-anh-xizhou089]]"]
 source:
   type: fic_text

@@ -16,7 +16,7 @@ reveal_planned:
   chapter: null
   note: "Van an: 59 muon 唤醒你的回忆 — Tsuna se duoc danh thuc ky uc, chua noi khi nao"
 leak_terms: ["未来的记忆", "唤醒你的回忆", "未来的记忆送给过去的同伴", "十代目的记忆", "回到过去", "威尔帝送记忆"]
-aliases: ["ky uc tuong lai", "ký ức tương lai", "Verde gui ky uc", "future memories TDTB", "vi sao Yamamoto biet Tsuna", "vì sao Gokudera gọi Juudaime", "mười đời mắt trong ký ức", "唤醒你的回忆", "đánh thức ký ức"]
+aliases: ["ky uc tuong lai", "ký ức tương lai", "secret Verde gui ky uc", "future memories TDTB", "vi sao Yamamoto biet Tsuna", "vì sao Gokudera gọi Juudaime", "mười đời mắt trong ký ức", "唤醒你的回忆", "đánh thức ký ức"]
 related: ["[[verde-gui-ky-uc-tdtb]]", "[[ba-nguoi-nhan-ky-uc-tdtb]]", "[[verde-tdtb]]", "[[gokudera-hayato-tdtb]]", "[[yamamoto-takeshi-tdtb]]", "[[reborn-tdtb]]", "[[ky-uc-hoa-bach-hop-tdtb]]", "[[h-59-danh-thuc-ky-uc-tdtb]]", "[[q-tsuna-nay-va-juudaime-tdtb]]", "[[q-ai-da-nhan-ky-uc-tdtb]]", "[[qd-ky-uc-verde-gui-rong-tdtb]]", "[[qd-tsuna-nay-la-juudaime-tdtb]]"]
 source:
   type: fic_text

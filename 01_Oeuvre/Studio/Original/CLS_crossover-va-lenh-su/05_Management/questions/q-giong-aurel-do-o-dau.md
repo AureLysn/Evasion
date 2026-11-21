@@ -7,7 +7,7 @@ lane: personal
 canon_layer: planned
 status: resolved
 decision_owner: user
-aliases: ["giong Aurel do o dau", "ngu lieu do van phong CLS", "signature CLS", "co dung lai so do cua TRIAD khong", "giong Aurel co phai mot khong"]
+aliases: ["giong Aurel do o dau", "ngu lieu do van phong CLS", "q signature CLS", "co dung lai so do cua TRIAD khong", "giong Aurel co phai mot khong"]
 related: ["[[CLS]]", "[[pham-vi-ba-the-gioi-va-giong-van-b1]]"]
 source:
   type: user_input

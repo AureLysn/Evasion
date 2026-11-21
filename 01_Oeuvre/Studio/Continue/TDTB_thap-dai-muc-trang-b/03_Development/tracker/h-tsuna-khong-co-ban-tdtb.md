@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc: null
   chapter:
-aliases: ["Tsuna khong co ban", "Tsuna không có bạn", "củi mục cương", "Tiểu Giải trong vỏ", "ôn nhu sóng biển", "Dame-Tsuna TDTB"]
+aliases: ["Tsuna khong co ban", "Tsuna không có bạn", "hook củi mục cương", "Tiểu Giải trong vỏ", "ôn nhu sóng biển", "Dame-Tsuna TDTB"]
 related: ["[[sawada-tsunayoshi-tdtb]]", "[[tsuna--yamamoto-tdtb]]", "[[thiet-lap-tac-gia-tdtb]]"]
 source:
   type: fic_text

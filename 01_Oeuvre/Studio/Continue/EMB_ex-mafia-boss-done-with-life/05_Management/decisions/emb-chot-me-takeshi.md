@@ -11,7 +11,7 @@ resolves: []
 decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17
-aliases: ["chot me Takeshi", "ai quyet vu Yamamoto", "Yamamoto Sachiko", "ten me Takeshi", "khong dung Tsuyoshi", "canh 2.2 Brat chot"]
+aliases: ["chot me Takeshi", "ai quyet vu Yamamoto", "decision Yamamoto Sachiko", "ten me Takeshi", "khong dung Tsuyoshi", "canh 2.2 Brat chot"]
 related: [ "[[sachiko]]", "[[tsuyoshi]]", "[[hook-me-takeshi-va-sat-thu]]", "[[emb-chot-thay-thuoc]]"]
 source:
   type: user_input

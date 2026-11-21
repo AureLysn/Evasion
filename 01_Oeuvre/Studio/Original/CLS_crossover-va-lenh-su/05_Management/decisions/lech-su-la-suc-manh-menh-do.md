@@ -7,7 +7,7 @@ lane: personal
 canon_layer: project_locked
 status: active
 strength: hard
-aliases: ["lech su la suc manh", "lệch sử là sức mạnh", "lệnh sứ là sức mạnh", "lenh su", "lệnh sứ", "令使", "Emanator CLS", "lop chong len", "menh do CLS", "Tsuna Xipe", "Akutagawa IX", "Jason Aha", "Dazai Fuli", "Dazai Ky uc", "Jason Lan", "Jason San ban", "khong giai thich co che lech su", "power policy CLS"]
+aliases: ["lech su la suc manh", "lệch sử là sức mạnh", "lệnh sứ là sức mạnh", "lenh su", "lệnh sứ", "令使", "Emanator CLS", "lop chong len", "menh do CLS", "Tsuna Xipe", "Akutagawa IX", "Jason Aha", "decision Dazai Fuli", "Dazai Ky uc", "decision Jason Lan", "Jason San ban", "khong giai thich co che lech su", "power policy CLS"]
 related: ["[[CLS]]", "[[khung-aeon-hai-nhom]]", "[[crossover]]", "[[watch-frame]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]", "[[luat-doi-xung-quan-he-ngang-hang]]", "[[ke-ngoai-lai-thay-cho]]"]
 source:
   type: user_input

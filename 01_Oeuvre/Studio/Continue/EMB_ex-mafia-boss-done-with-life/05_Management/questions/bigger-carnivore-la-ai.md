@@ -7,7 +7,7 @@ project: EMB
 canon_layer: planned
 status: resolved
 decision_owner: ai-suggest
-aliases: ["bigger carnivore", "ke an thit lon hon", "ai day Kyouya", "false carnivores"]
+aliases: ["q bigger carnivore", "ke an thit lon hon", "ai day Kyouya", "false carnivores"]
 related: ["[[emb-chot-cau-hoi-mo]]", "[[kyouya-loai-chu-chot]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]

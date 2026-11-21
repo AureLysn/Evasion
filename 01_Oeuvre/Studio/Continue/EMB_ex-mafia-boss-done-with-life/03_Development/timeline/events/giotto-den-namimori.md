@@ -12,7 +12,7 @@ date:
   chapter: nen
 participants: ["character.EMB.ieyasu"]
 location: ["location.EMB.namimori"]
-aliases: ["Giotto den Namimori", "muon ho Sawada", "Ugetsu bao lanh", "foreign Kohaku", "nguoi ngoai quoc toi"]
+aliases: ["Giotto den Namimori", "muon ho Sawada", "Ugetsu bao lanh", "event foreign Kohaku", "nguoi ngoai quoc toi"]
 related: ["[[ieyasu]]", "[[sawada-ieyasu]]", "[[sawada-tu-te]]", "[[rule-ten-tokugawa]]", "[[fact-loi-tien-tri-muoi]]"]
 authority: original_author
 confidence: 1.0

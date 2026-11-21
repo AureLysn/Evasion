@@ -7,7 +7,7 @@ project: EMB
 branch: aurel-main
 canon_layer: branch_locked
 status: active
-aliases: ["Natsu", "Tomoshibi", "Tomo", "den nho", "cao", "con cao", "kudagitsune", "kuda-gitsune", "cao ong", "pipe fox", "nguoi ban cu", "vu khi hop cu", "cai trong ong tre"]
+aliases: ["Natsu", "Tomoshibi", "Tomo", "den nho", "cao", "con cao", "kudagitsune", "kuda-gitsune", "cao ong", "pipe fox", "nhan vat nguoi ban cu", "vu khi hop cu", "cai trong ong tre"]
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[emb-chot-tsuna-va-natsu-kham-pha-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[ong-tre]]", "[[nguoi-ban-cu]]", "[[fact-cao-la-natsu]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[bon-lan-can]]", "[[kitsune-phan-loai]]"]
 source:
   type: user_input

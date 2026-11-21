@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["Tsunashige", "Sawada Tsunashige", "em trai Tsuna", "Reborn", "hai vi khach", "two visitors", "Let the games begin", "18 tuoi"]
+aliases: ["hook Tsunashige", "hook Sawada Tsunashige", "hook em trai Tsuna", "hook Reborn", "hai vi khach", "two visitors", "Let the games begin", "18 tuoi"]
 related: ["[[fact-toan-canh-tuong-lai]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[iemitsu]]", "[[nana]]", "[[rule-ten-tokugawa]]", "[[sawada-ieyasu]]"]
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-11-21

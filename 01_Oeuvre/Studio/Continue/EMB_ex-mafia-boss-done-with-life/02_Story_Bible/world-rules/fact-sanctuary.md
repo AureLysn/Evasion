@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Sanctuary", "thanh dia", "hop dong Sanctuary", "Sanctuary contract", "Namimori Sanctuary", "trung lap"]
+aliases: ["fact Sanctuary", "fact thanh dia", "hop dong Sanctuary", "Sanctuary contract", "Namimori Sanctuary", "trung lap"]
 related: ["[[ao3-comments]]", "[[Flame-Purity]]", "[[fact-iemitsu-sky-ngoai]]"]
 source:
   type: author_comment

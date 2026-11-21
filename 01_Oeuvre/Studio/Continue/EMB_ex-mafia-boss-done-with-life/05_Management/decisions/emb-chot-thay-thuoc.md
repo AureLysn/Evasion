@@ -11,7 +11,7 @@ resolves: [question.EMB.q-thay-thuoc-gia-dinh]
 decided: 2026-09-17
 decided_by: user
 decided_at: 2026-09-17
-aliases: ["chot thay thuoc", "thay thuoc gia dinh la ai", "Sugita Genichi", "tach hai thay thuoc", "thay thuoc khong biet Lua", "POV chuong 1 Brat chot"]
+aliases: ["chot thay thuoc", "thay thuoc gia dinh la ai", "decision Sugita Genichi", "tach hai thay thuoc", "thay thuoc khong biet Lua", "POV chuong 1 Brat chot"]
 related: ["[[q-thay-thuoc-gia-dinh]]", "[[genichi]]", "[[khung-oc]]", "[[nguoi-lon-co-trach-nhiem]]", "[[musashi]]", "[[indra]]", "[[maro]]", "[[emb-chot-me-takeshi]]"]
 source:
   type: user_input

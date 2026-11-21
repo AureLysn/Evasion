@@ -12,7 +12,7 @@ date:
   chapter: "khi lap khung"
 participants: ["character.TDTB.sawada-tsunayoshi-tdtb", "character.TDTB.loc-da-tuyet-tdtb", "character.TDTB.he-thong-0038-tdtb", "character.TDTB.yamamoto-takeshi-tdtb", "character.TDTB.pho-dao-dien-tdtb"]
 location: ["[[tokyo-dome-tdtb]]"]
-aliases: ["Yamamoto gap Tsuna", "Yamamoto gặp Tsuna", "Yamamoto om Tsuna", "Yamamoto ôm Tsuna", "A Cương đã lâu không gặp", "Ta sẽ chờ ngươi một mực", "Cự Đản", "巨蛋体育场", "Tokyo Dome TDTB", "đánh bóng chày", "Hamburger", "bạn rất thân"]
+aliases: ["Yamamoto gap Tsuna", "Yamamoto gặp Tsuna", "Yamamoto om Tsuna", "Yamamoto ôm Tsuna", "A Cương đã lâu không gặp", "Ta sẽ chờ ngươi một mực", "event Cự Đản", "巨蛋体育场", "Tokyo Dome TDTB", "đánh bóng chày", "Hamburger", "bạn rất thân"]
 related: ["[[tsuna--yamamoto-tdtb]]", "[[loc-da-tuyet--yamamoto-tdtb]]", "[[tokyo-dome-tdtb]]", "[[ky-uc-tuong-lai-tdtb]]", "[[tsuna-thich-hamburger-tdtb]]", "[[h-chi-nam-nhiem-vu-tdtb]]", "[[pho-dao-dien-tdtb]]"]
 source:
   type: fic_text

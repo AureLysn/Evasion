@@ -7,7 +7,7 @@ project: BCMF
 canon_layer: fic_explicit
 status: active
 universe: CONAN
-aliases: ["Công an", "cong an", "Kazami", "Sở Cảnh sát Đô thị công an bộ"]
+aliases: ["Công an", "cong an", "to chuc Kazami", "Sở Cảnh sát Đô thị công an bộ"]
 related: ["[[s-amuro-ba-lop-than-phan-bcmf]]"]
 source:
   type: fic_text

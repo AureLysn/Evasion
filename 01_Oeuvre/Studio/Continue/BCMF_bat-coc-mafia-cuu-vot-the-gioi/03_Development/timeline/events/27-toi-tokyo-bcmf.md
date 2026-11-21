@@ -12,7 +12,7 @@ date:
   chapter: "ch3-ch4"
 participants: ["character.BCMF.sawada-tsunayoshi-bcmf"]
 location: ["[[hem-canh-thap-tokyo-bcmf]]"]
-aliases: ["27 toi Tokyo", "hem thap Tokyo", "Reiwa 5 nam", "Lambo muoi nam hoa tien"]
+aliases: ["27 toi Tokyo", "event hem thap Tokyo", "Reiwa 5 nam", "Lambo muoi nam hoa tien"]
 related: ["[[hem-canh-thap-tokyo-bcmf]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/Ten-Year-Bazooka|Ten Year Bazooka (canon)]]"]
 source:
   type: fic_text

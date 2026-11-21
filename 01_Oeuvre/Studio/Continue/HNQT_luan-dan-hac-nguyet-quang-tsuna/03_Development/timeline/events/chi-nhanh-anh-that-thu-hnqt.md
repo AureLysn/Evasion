@@ -11,7 +11,7 @@ date:
   chapter: "14-15, 17"
 participants: ["character.HNQT.kikyo-hnqt", "character.HNQT.rokudo-mukuro-hnqt", "character.HNQT.fran-hnqt", "character.HNQT.byakuran-hnqt"]
 location: ["location.HNQT.chi-nhanh-anh-hnqt"]
-aliases: ["chi nhanh Anh that thu", "英国分部失守", "Edinburgh", "Mukuro bi bat", "Mukuro nam vung Millefiore", "Kikyo tap kich"]
+aliases: ["chi nhanh Anh that thu", "英国分部失守", "event Edinburgh", "Mukuro bi bat", "Mukuro nam vung Millefiore", "Kikyo tap kich"]
 related: ["[[giau-tsuna-vu-mukuro-hnqt]]", "[[mukuro-hien-hinh-qua-chrome-hnqt]]", "[[kikyo-hnqt]]"]
 source:
   type: fic_text

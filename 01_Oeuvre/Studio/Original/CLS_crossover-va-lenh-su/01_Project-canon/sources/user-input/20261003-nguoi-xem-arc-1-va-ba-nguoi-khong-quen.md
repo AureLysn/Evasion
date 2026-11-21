@@ -7,7 +7,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 immutable: true
-aliases: ["nguoi xem arc 1", "người xem arc 1", "Boothill Rappa Aventurine doi tau", "ba nguoi khong quen o the gioi gop", "Jason lenh su tu the gioi gop"]
+aliases: ["nguoi xem arc 1", "người xem arc 1", "Boothill Rappa Aventurine doi tau", "ba nguoi khong quen o the gioi gop", "source Jason lenh su tu the gioi gop"]
 related: ["[[CLS]]", "[[jason-lenh-su-tu-the-gioi-gop]]"]
 source:
   type: user_input

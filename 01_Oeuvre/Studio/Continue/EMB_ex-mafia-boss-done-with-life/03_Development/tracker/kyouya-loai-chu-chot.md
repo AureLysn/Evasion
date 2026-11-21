@@ -14,7 +14,7 @@ payoff:
   status: unplanned
   arc:
   chapter:
-aliases: ["keystone species", "loai chu chot", "Kyouya", "Getsufuji", "false carnivores", "ke an thit gia", "bigger carnivore", "lanh tho"]
+aliases: ["keystone species", "loai chu chot", "hook Kyouya", "hook Getsufuji", "false carnivores", "ke an thit gia", "hook bigger carnivore", "lanh tho"]
 related: ["[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[indra]]", "[[le-cuoi-cao]]", "[[bigger-carnivore]]", "[[bigger-carnivore-la-ai]]", "[[fact-kyouya-anh-em-ho]]", "[[fact-sanctuary]]", "[[20260916-p2-ch2]]"]
 source:
   type: fic_text

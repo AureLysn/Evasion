@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: fic_explicit
 status: active
-aliases: ["Hibari Sakura", "me cua Kimiko", "vi sao Namimori nhieu anh dao", "revenge", "Eienzakuramura", "nguoi khong ai khoc", "chin duoi", "dem den tam chin duoi", "goc re cua chu de"]
+aliases: ["Hibari Sakura", "me cua Kimiko", "vi sao Namimori nhieu anh dao", "revenge", "fact Eienzakuramura", "nguoi khong ai khoc", "chin duoi", "dem den tam chin duoi", "goc re cua chu de"]
 related: ["[[kimiko]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[musashi]]", "[[truc-chinh]]", "[[gia-thuyet-aurel]]", "[[fact-dem-den-tam]]", "[[nguoi-lon-co-trach-nhiem]]"]
 source:
   type: fic_text

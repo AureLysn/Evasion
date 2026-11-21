@@ -7,7 +7,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 immutable: true
-aliases: ["khung chieu xem gop", "khung chiếu xem gộp", "chua co the gioi gop", "chưa có thế giới gộp", "xem anh xong moi gop", "xem ảnh xong mới gộp", "phia duoc chieu", "phía được chiếu"]
+aliases: ["source khung chieu xem gop", "source khung chiếu xem gộp", "chua co the gioi gop", "chưa có thế giới gộp", "xem anh xong moi gop", "xem ảnh xong mới gộp", "phia duoc chieu", "phía được chiếu"]
 related: ["[[CLS]]", "[[khung-chieu-xem-gop]]", "[[khung-aeon-hai-nhom]]"]
 source:
   type: user_input

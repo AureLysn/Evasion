@@ -7,7 +7,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 immutable: true
-aliases: ["bo mat nang luc", "bỏ mất năng lực", "hai vong chieu", "hai vòng chiếu", "su kien truoc the gioi cu sau", "sự kiện trước thế giới cũ sau"]
+aliases: ["bo mat nang luc", "bỏ mất năng lực", "source hai vong chieu", "source hai vòng chiếu", "su kien truoc the gioi cu sau", "sự kiện trước thế giới cũ sau"]
 related: ["[[CLS]]", "[[bo-khung-nang-luc-da-mat]]", "[[hai-vong-chieu]]", "[[05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/03_Development/structure/premise/premise|premise]]"]
 source:
   type: user_input

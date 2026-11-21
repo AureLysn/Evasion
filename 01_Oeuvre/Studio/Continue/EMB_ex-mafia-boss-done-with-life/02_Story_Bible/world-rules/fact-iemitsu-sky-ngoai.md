@@ -6,7 +6,7 @@ lane: personal
 project: EMB
 canon_layer: author_confirmed
 status: active
-aliases: ["Iemitsu", "Sawada Iemitsu", "foreign Sky", "Sky ngoai", "khong phai cu dan"]
+aliases: ["fact Iemitsu", "fact Sawada Iemitsu", "fact foreign Sky", "Sky ngoai", "khong phai cu dan"]
 related: ["[[ao3-comments]]", "[[fact-sanctuary]]"]
 source:
   type: author_comment

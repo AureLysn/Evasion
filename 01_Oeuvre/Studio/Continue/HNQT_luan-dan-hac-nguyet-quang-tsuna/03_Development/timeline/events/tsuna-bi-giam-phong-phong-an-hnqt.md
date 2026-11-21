@@ -11,7 +11,7 @@ date:
   chapter: "10-12"
 participants: ["character.HNQT.sawada-tsunayoshi-hnqt", "character.HNQT.gojo-gia-chu-hnqt", "character.HNQT.he-thong-hac-nguyet-quang-hnqt"]
 location: ["location.HNQT.ban-gia-gojo-hnqt"]
-aliases: ["Tsuna bi giam phong phong an", "封印室", "phong phong an", "truong lao ban cach xu Tsuna"]
+aliases: ["Tsuna bi giam phong phong an", "封印室", "event phong phong an", "truong lao ban cach xu Tsuna"]
 related: ["[[toji-dot-nhap-hnqt]]", "[[hien-te-va-bat-coc-nui-sau-hnqt]]", "[[gia-toc-gojo-hnqt]]"]
 source:
   type: fic_text
