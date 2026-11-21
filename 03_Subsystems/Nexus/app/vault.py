@@ -13,15 +13,18 @@ from pathlib import Path, PurePosixPath
 
 from . import db, importers
 
-# Every story project sits in Studio/Continue; Studio/Original holds only the skeleton (2026-11-13).
+# Story projects sit in Studio/Continue (fandom) and Studio/Original (original works; CLS, KITIC and
+# TRIAD moved there on 2026-11-20). The app shows both as ONE list of project folders: a `rel` is
+# always `<project folder>/...`, whichever base holds it, so rels saved before the move stay valid.
 FICTION_PROJECTS = PurePosixPath("05_Evasion/01_Oeuvre/Studio/Continue")
+FICTION_BASES = (FICTION_PROJECTS, PurePosixPath("05_Evasion/01_Oeuvre/Studio/Original"))
 STORES_NOTES = ("01_Origine/03_Systems/Config/stores.md",)
 LISTED = (".md", ".txt")
 HEAD_BYTES = 6000
 
 
 def is_vault_root(p):
-    return p is not None and (p / "AGENTS.md").is_file() and (p / "01_Origine").is_dir()
+    return p is not None and (p / "CLAUDE.md").is_file() and (p / "01_Origine").is_dir()
 
 
 def inside_any_vault(path):
@@ -39,7 +42,7 @@ def find_root(settings):
     configured = (settings.get("vault_root") or "").strip()
     if configured:
         p = Path(configured)
-        return (p, None) if is_vault_root(p) else (None, f"'{configured}' không phải gốc vault (thiếu AGENTS.md hoặc 01_Origine/)")
+        return (p, None) if is_vault_root(p) else (None, f"'{configured}' không phải gốc vault (thiếu CLAUDE.md hoặc 01_Origine/)")
     if db.TEST_INSTANCE:
         # The guess below is the REAL vault; a test instance would read it and its "save to
         # vault" button would write into it (vault L70).
@@ -54,16 +57,34 @@ def projects_root(vault):
     return vault / FICTION_PROJECTS
 
 
+def projects_roots(vault):
+    return [vault / b for b in FICTION_BASES]
+
+
+def _base_of(vault, project):
+    """The base folder that holds project folder `project` (Continue first); Continue if none does."""
+    for base in projects_roots(vault):
+        if (base / project).is_dir():
+            return base
+    return projects_root(vault)
+
+
 def resolve_rel(vault, rel):
-    base = projects_root(vault).resolve()
+    parts = PurePosixPath(rel or "").parts
+    base = (_base_of(vault, parts[0]) if parts else projects_root(vault)).resolve()
     target = (base / (rel or "")).resolve()
     if target != base and base not in target.parents:
-        raise PermissionError(f"Đường dẫn nằm ngoài {FICTION_PROJECTS}")
+        raise PermissionError("Đường dẫn nằm ngoài " + " và ".join(str(b) for b in FICTION_BASES))
     return target
 
 
 def rel_of(vault, path):
-    return Path(path).resolve().relative_to(projects_root(vault).resolve()).as_posix()
+    p = Path(path).resolve()
+    for base in projects_roots(vault):
+        b = base.resolve()
+        if p == b or b in p.parents:
+            return p.relative_to(b).as_posix()
+    raise ValueError(f"{path} không nằm trong " + " hay ".join(str(b) for b in FICTION_BASES))
 
 
 def read_head(path):
@@ -86,7 +107,16 @@ def list_dir(vault, rel):
     if not target.is_dir():
         raise FileNotFoundError("Không phải thư mục")
     entries = []
-    for p in target.iterdir():
+    if rel:
+        children = list(target.iterdir())
+    else:   # top level: the project folders of every base, one list; a name in Continue wins
+        seen, children = set(), []
+        for base in projects_roots(vault):
+            for p in (base.iterdir() if base.is_dir() else ()):
+                if p.name not in seen:
+                    seen.add(p.name)
+                    children.append(p)
+    for p in children:
         name = p.name
         if name.startswith(".") or (not rel and name.startswith(("_", "["))):
             continue  # hidden files, and the skeleton project (`[CODE] Project_Name`, `_TEMPLATE`) at the top level

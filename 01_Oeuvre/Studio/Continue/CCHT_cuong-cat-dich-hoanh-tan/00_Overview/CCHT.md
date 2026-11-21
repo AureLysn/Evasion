@@ -66,7 +66,7 @@ cần Aurel đồng ý.
 > ⚠️ Kho thật nằm ở `G:\My Drive\AureLysnOS\02_Storage`. Thư mục `D:\AureLysnOS\02_Storage`
 > chỉ là vỏ: **một shortcut và năm thư mục rỗng** *(đo 28/09)*. `06_Userscrpit` đã chuyển sang
 > `07_NovelTool/userscripts` ngày 27/09; store `personal-archive` trên D: **nghỉ 28/09** —
-> nguồn của CCHT khai `store: personal-bulk`. `kho-root:` trong `01_Origine/05_Meta/Rules/storage-rules.md` vẫn trỏ
+> nguồn của CCHT khai `store: personal-bulk`. `kho-root:` trong `01_Origine/05_Meta/Rules/storage-rules.md` *(nay là [[stores]])* vẫn trỏ
 > vào bản `D:` — việc hệ thống, đang xét *(xem `NEXT_SESSION`)*.
 
 

@@ -112,7 +112,7 @@ Trong phiên 31/08 đã đi từ **bước 3 tới bước 8**.
 
 | Fandom | Đặt ở | Trạng thái |
 |---|---|---|
-| KHR | `Database/Fandom/KHR/rules/` | ✅ đã có 8 note — **dùng lại, đừng viết lại** |
+| KHR | `Database/Fandom/KHR/Power_System/` *(trước là `rules/`)* | ✅ đã có note — **dùng lại, đừng viết lại** |
 | BNHA | `Database/Fandom/BNHA/` | ✅ **mở 31/08/2026** — 5 note. Xem [[_BNHA-MOC]]. **Dùng lại, đừng viết lại** |
 
 `canon/` của UNTCH chỉ chứa thiết lập **riêng** của fic này (Izuku có Lightning Flames,

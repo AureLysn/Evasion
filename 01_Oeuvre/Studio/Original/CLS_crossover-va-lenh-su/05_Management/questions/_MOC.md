@@ -21,7 +21,7 @@ last_updated: 2026-11-21
 # CLS — câu hỏi chưa quyết
 
 > ⚠️ **Không bao giờ đọc thư mục này như `decisions/`.** Viết cảnh dựa trên nội dung ở đây
-> là bịa canon. Xem `AGENTS.md` mục 2.3 của sub-vault fiction.
+> là bịa canon. Xem [[07-state]]: câu `unresolved` không bao giờ được đọc như `decision` *(trước ghi là `AGENTS.md` mục 2.3 của sub-vault fiction)*.
 
 ## Đang mở
 

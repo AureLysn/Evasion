@@ -13,7 +13,7 @@ last_updated: 2026-11-21
 
 # MOC — TRIAD / sources
 
-**Bất biến.** Không sửa, không xoá — kể cả sau khi trích xuất hết (`AGENTS.md` invariant #1).
+**Bất biến.** Không sửa, không xoá — kể cả sau khi trích xuất hết (`CLAUDE.md` ở gốc vault, bất biến 3; trước ghi là `AGENTS.md` invariant #1).
 
 ## Nạp 05/09/2026 — từ gói `ho-so-nhan-vat` (Downloads, Aurel gửi 04/09/2026)
 

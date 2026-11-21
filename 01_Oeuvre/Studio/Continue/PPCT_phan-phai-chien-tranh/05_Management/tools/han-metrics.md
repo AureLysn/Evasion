@@ -25,7 +25,7 @@ last_updated: 2026-09-25
 - **Là gì:** script đếm chữ Hán cho thân truyện PPCT (từ 「如果都能接受」 tới dòng `—————`): số chữ Hán, tỉ lệ thoại trong `“”`, đoạn/câu, `？！……——`, mật độ thuật ngữ, motif mắt, 「」, 「我」 ngoài ngoặc.
 - **Từ đâu:** viết trong scratchpad của phiên `ppct-project-status-9aab04` (file ghi 21/09/2026 22:58), kiểm trên ch22 (nhật ký lỗi L45). Nằm ngoài vault tới 25/09/2026 — xoá thư mục tạm là mất.
 - **Giữ nguyên từng byte** — SHA-256 `ab4d61f7cc46096a0e2e701292029976bd6f483d433875a0f8afa460f555005c`. Nó là nguồn của mọi số trong `metadata.yaml` ch28–ch36; sửa nó thì những số đó không còn tái lập được.
-- **Đã được thay bằng** `01_Origine/04_Tools/VaultTool/style_metrics.py` (PR #64, 25/09/2026) — khớp tuyệt đối trên 20 chương (commit dce257a) và trên ch36 (đo 25/09). Tật AI: `ai_tells_check.py --project PPCT` đọc [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]].
+- **Đã được thay bằng** `01_Origine/04_Tools/VaultTool/Reporting/style_metrics.py` (PR #64, 25/09/2026) — khớp tuyệt đối trên 20 chương (commit dce257a) và trên ch36 (đo 25/09). Tật AI: `ai_tells_check.py --project PPCT` đọc [[05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/style/ai-tells|ai-tells]].
 - `style_metrics` **chưa** đếm motif mắt và 「我」 ngoài ngoặc — hai số đó vẫn chỉ có ở đây, hoặc grep tay.
 
 ```bash
