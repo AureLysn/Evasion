@@ -11,14 +11,14 @@ aliases: ["Levi EMB", "Levi A Than trong nhanh", "Lightning cua Xanxus", "nguoi 
 related: ["[[Levi-A-Than]]", "[[xanxus]]", "[[squalo]]", "[[belphegor]]", "[[mammon]]", "[[tuoi-va-moc]]"]
 source:
   type: inference
-  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR."
+  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-20
+last_updated: 2026-11-21
 ---
 
 # Levi — trong nhánh `aurel-main`
@@ -38,19 +38,6 @@ Cả Varia gọi anh ta thế. **Nguồn thì không.** Canon nói anh ta *"khá
 → Ở **mười sáu tuổi**, điều đó có nghĩa là: anh ta **vừa mới bỏ con đường ấy**, hoặc **đang bỏ**. Chất liệu này chưa ai chạm vào.
 
 Cái làm anh ta thành trò cười không phải năng lực, mà là **mức sùng bái [[xanxus]]** và sự vụng về.
-
-## Nhánh này đã cho anh ta làm gì
-
-*văn xuôi đã xóa* — *"a Lightning the size of a door"*, và người gõ cửa báo [[mammon]] rằng boss muốn báo cáo trong mười phút, *"và anh ta nói bằng cái giọng ấy"*.
-
-*văn xuôi đã xóa* — hai lần anh ta **nói đúng**:
-
-| | |
-|---|---|
-| *"They are being polite,"* | giải thích cho Squalo cái Squalo không chịu hiểu |
-| *"Levi said that it was absurd, and **he was right**, and she told him so."* | [[musashi]] **đồng ý với anh ta** trước mặt cả thị trấn |
-
-✅ Hai chỗ ấy đã đi đúng canon mà lúc viết chưa tra. Giữ hướng đó.
 
 ## Chưa dùng tới
 

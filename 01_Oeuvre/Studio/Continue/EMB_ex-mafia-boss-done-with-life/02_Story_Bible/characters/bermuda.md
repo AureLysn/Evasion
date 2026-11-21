@@ -11,14 +11,14 @@ aliases: ["Bermuda EMB", "Bermuda nhanh aurel-main", "Warden of Vendicare", "Cai
 related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Flame-of-Night]]", "[[hook-bermuda-to-mo]]", "[[tsuna--bermuda]]", "[[kawahira]]", "[[fact-vendicare-giu-so]]"]
 source:
   type: user_input
-  ref: "Aurel 22/09/2026 (emb-chot-bermuda-an-toi) + len trang o child-ch2-chapter ban viet lai 22/09."
+  ref: "Aurel 22/09/2026 (emb-chot-bermuda-an-toi) + len trang o child-ch2-chapter ban viet lai 22/09. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: user
 confidence: 1.0
 always_load: false
 load_for: [planner, writer]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [character]
-last_updated: 2026-09-25
+last_updated: 2026-11-21
 ---
 
 # Bermuda — **bản của nhánh `aurel-main`**

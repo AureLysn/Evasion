@@ -10,7 +10,7 @@ aliases: ["nha Mato PPCT", "nha Matou PPCT", "间桐家", "间桐宅", "ham trun
 related: ["[[kariya]]", "[[Kariya-Matou]]", "[[to-matou-va-kirei-theo-canon]]"]
 source:
   type: franchise_canon
-  ref: "Fate/Zero canon (Database/Fandom/Fate/characters/Kariya-Matou; crosscheck 20260929 b1, d4: Kirei dua Kariya ve nha Mato, gap nhau o nha Mato truoc vu bat coc). Nguyen tac 反派战争 khong co nha Mato. Len trang lan dau du kien ch39."
+  ref: "Fate/Zero canon (Database/Fandom/Fate/characters/Kariya-Matou; crosscheck 20260929 b1, d4: Kirei dua Kariya ve nha Mato, gap nhau o nha Mato truoc vu bat coc). Nguyen tac 反派战争 khong co nha Mato."
 authority: user
 confidence: 0.7
 always_load: false
@@ -25,7 +25,6 @@ Nhà của dòng Matō ở Fuyuki. Có **hầm trùng**. Kariya sống ở đây
 ## Riêng trong fic này
 
 - Nguyên tác (ch1–15): **không** lên trang.
-- **Ch39** *(chốt 29/09/2026)*: trưa ngày 15, Kirei tới gặp Kariya ở một phòng tối rèm kín — kirei-nap-lenh-chu-cho-kariya.
 - Tổ Caster **không** có mắt ở đây, và không biết nhà Matō có Master.
 
 ## Chưa có

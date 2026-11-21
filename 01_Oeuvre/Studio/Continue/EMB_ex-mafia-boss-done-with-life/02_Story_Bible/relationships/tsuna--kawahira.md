@@ -11,7 +11,7 @@ aliases: ["Tsuna Kawahira", "bond ben trai", "Guardian dau tien", "harmonisation
 related: ["[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[fact-guardian-hien-co]]", "[[tsuna-dam-phan-kawahira]]", "[[ong-tre]]", "[[natsu]]", "[[Harmonization]]", "[[fact-loi-flame]]", "[[truc-chinh]]", "[[xoa-so-estraneo]]"]
 source:
   type: inference
-  ref: "Dung 19/09/2026 khi finalize brat-ch3, tren fact-guardian-hien-co (1.0) va hoi tuong canh 3.4."
+  ref: "Dung 19/09/2026 khi finalize brat-ch3, tren fact-guardian-hien-co (1.0) va hoi tuong canh 3.4. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 addressing:
@@ -21,7 +21,7 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/reference, p/personal]
 legacy_tags: [relationship, core, load-bearing]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Tsuna ↔ Kawahira — **một bond Guardian đang chạy**

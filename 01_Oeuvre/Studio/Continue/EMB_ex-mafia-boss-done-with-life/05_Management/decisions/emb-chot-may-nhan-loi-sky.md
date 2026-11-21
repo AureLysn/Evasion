@@ -20,7 +20,7 @@ always_load: false
 load_for: [writer, planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Chốt — **Mây đã nhân ngọn lửa Bầu trời lên để chống đỡ phong ấn**
@@ -31,7 +31,7 @@ last_updated: 2026-09-19
 
 ## 🔴 Đi bằng Mây **không phải nén Bầu trời xuống**
 
-Aurel bác thẳng cơ chế AI đề xuất ở *văn xuôi đã xóa* cổng 4.
+Aurel bác thẳng một cơ chế AI từng đề xuất (dàn ý đã xóa khi reset).
 
 | ⛔ Sai | ✅ Đúng |
 |---|---|

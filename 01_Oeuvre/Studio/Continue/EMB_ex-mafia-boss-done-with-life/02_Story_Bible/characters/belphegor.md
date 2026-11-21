@@ -11,7 +11,7 @@ aliases: ["Bel", "Belphegor EMB", "hoang tu chin tuoi", "Storm cua Varia trong n
 related: ["[[Belphegor]]", "[[xanxus]]", "[[squalo]]", "[[levi]]", "[[mammon]]", "[[kyouya]]", "[[ayame]]", "[[tuoi-va-moc]]", "[[fact-sanctuary]]"]
 source:
   type: inference
-  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR."
+  ref: "extract-entities + crosscheck-canon 20/09/2026, sau khi ba nguoi nay da xuat hien o brat-ch4-chapter va brat-ch5-chapter ma chua co note. Canon o Database/Fandom/KHR. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 always_load: false

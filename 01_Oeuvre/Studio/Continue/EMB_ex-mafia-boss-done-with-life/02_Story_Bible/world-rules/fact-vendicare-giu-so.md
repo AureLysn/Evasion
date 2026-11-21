@@ -11,7 +11,7 @@ aliases: ["Vendicare giu so", "so dang ky Vindice", "ho so tre bi lay di", "kho 
 related: ["[[Vindice]]", "[[Vindice-Prison]]", "[[Bermuda-von-Veckenschtein]]", "[[hook-bermuda-to-mo]]", "[[hook-dua-tre-saint-exavier]]", "[[fact-sanctuary]]"]
 source:
   type: inference
-  ref: "Sinh ra khi viet child-ch1-chapter canh 1.6 (20/09/2026). Aurel chot cong 2.3 cua child-ch2-the-canh cung ngay, nen muc nay len branch_locked."
+  ref: "Sinh ra khi viet child-ch1-chapter canh 1.6 (20/09/2026). Aurel chot cong 2.3 cua child-ch2-the-canh cung ngay, nen muc nay len branch_locked. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: user
 confidence: 1.0
 always_load: false
@@ -41,10 +41,6 @@ last_updated: 2026-11-21
 ## Nhánh này chốt gì
 
 > **Vendicare giữ hồ sơ về những gì bị lấy đi và không được trả lại** — kể cả những đứa trẻ bị một nhà Flame bắt đi mà không hề vào sổ nào khác.
-
-Và câu ấy **đã lên trang** trong lá thư thứ hai của [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]], *văn xuôi đã xóa* cảnh 1.6:
-
-> *I am told you keep records of what was taken and not returned. I am asking whether there is a line for this one.*
 
 ## 🔵 Vì sao nó không phải bịa bừa
 

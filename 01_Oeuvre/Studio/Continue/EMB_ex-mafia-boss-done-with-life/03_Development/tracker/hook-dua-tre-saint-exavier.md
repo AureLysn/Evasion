@@ -85,13 +85,7 @@ Chuỗi, từ [[tomoko]]:
 
 → Đứa trẻ mất tích **sau** khi bà chạy ⇒ **không sớm hơn tám năm trước** *(mốc truyện: Tsuna 8)*.
 
-🔵 **Phép kiểm độc lập:** [[shouichi]] **sinh trên đường chạy**, và *văn xuôi đã xóa* viết cậu **tám tuổi**. Đó là con số duy nhất trong cả chuỗi không dựa vào một con số khác.
-
 ⚠️ [[tomoko]] giữ tiêu đề *"Mười năm trước"* theo đúng chữ nguồn *(P2 Ch1 ghi "khoảng mười năm")*, và note ấy tự dặn **đừng vá**. Nên khoảng dùng được là **tám tới mười**. **Mười một thì không.**
-
-📌 **Đã sửa 3 chỗ** trong *văn xuôi đã xóa* ngày 20/09/2026: bản đầu viết *"eleven years ago"*, *"between eleven and fifteen years ago"* và *"waiting ten years"* — chỗ thứ ba mâu thuẫn với chính đoạn văn cách nó bốn dòng.
-
-🔴 **Vì sao con số này chịu lực:** *văn xuôi đã xóa* đặt một **dòng sổ Vendicare** về vụ bắt cóc làm vật chính, và một dòng sổ thì **có năm**.
 
 ## Còn lại gì cho nhánh viết tiếp
 

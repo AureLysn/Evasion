@@ -25,7 +25,7 @@ confidence: 1.0
 always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-09-19
+last_updated: 2026-11-21
 ---
 
 # Sự cố với nhóm nhà khoa học Vongola
@@ -38,7 +38,7 @@ Nó **vô tình bị phát hiện** qua một **sự cố** với một nhóm nh
 
 ## ⛔ Không thuộc arc Brat
 
-Aurel nói rõ: *"sau này"*. Ở Brat, Cloud chỉ là **thứ cậu dùng để không bị nhìn thấy** — *văn xuôi đã xóa*.
+Aurel nói rõ: *"sau này"*. Ở Brat, Cloud chỉ là **thứ cậu dùng để không bị nhìn thấy**.
 
 ## Vì sao hook này đắt
 

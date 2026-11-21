@@ -17,7 +17,7 @@ authority: user
 confidence: 1.0
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
-last_updated: 2026-09-14
+last_updated: 2026-11-21
 ---
 
 # Quyết định — 人间失格 vô hiệu **thứ ma thuật tạo ra**, không vô hiệu ma thuật hay ma lực; không tác động lên Tsuna
@@ -45,7 +45,7 @@ Phương án **B**, với phạm vi Aurel khoanh lại:
 ## Lý do chọn
 
 - Aurel chốt 14/09/2026.
-- Giữ hướng payoff "Dazai đi vào thứ ma thuật sinh ra" của dàn ý cũ, mà vẫn tự do tiếp xúc Dazai–Tsuna (ch2, ch3, ch16).
+- Cho phép Dazai đi vào thứ ma thuật sinh ra, mà vẫn tự do tiếp xúc Dazai–Tsuna (ch2, ch3).
 - *sửa 14/09 lượt 2:* dùng lên ma thuật **tốn ma lực** — mà Dazai **có rất ít ma lực**. Đây là giới hạn thật: mỗi lần chủ động vô hiệu ma thuật là một cái giá.
 
 ## Phương án đã loại và vì sao
@@ -57,7 +57,7 @@ Phương án **B**, với phạm vi Aurel khoanh lại:
 ## Ràng buộc kéo theo
 
 - **Dị năng chưa được lộ trên trang.** Không nhân vật Fate nào biết. Chương nào cho thấy hiệu ứng phải được lên kế hoạch như một lần lộ.
-- Ch17: Dazai đứng trong Ionioi Hetairoi (tính năng bảo cụ). Da không chạm, và với ma thuật dị năng phải **chủ động** → đứng trên cát không có gì xảy ra. ✅ Aurel duyệt 14/09.
+- **Với ma thuật, dị năng phải chủ động.** Đứng trong một kết giới tính năng bảo cụ (ví dụ Ionioi Hetairoi) mà da không chạm thì không có gì xảy ra. ✅ Aurel duyệt 14/09.
 
 ## ⚠️ Còn chưa chốt — cần quyết khi một cảnh chạm tới
 

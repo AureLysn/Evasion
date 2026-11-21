@@ -11,7 +11,7 @@ aliases: ["Xanxus EMB", "thu linh Varia trong nhanh", "nguoi duoi theo mot Cloud
 related: ["[[Xanxus]]", "[[mammon]]", "[[tuyen-xanxus]]", "[[tsuna]]", "[[xoa-so-estraneo]]", "[[tuoi-va-moc]]", "[[q-xanxus-la-storm]]", "[[truc-chinh]]"]
 source:
   type: inference
-  ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Xanxus]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ong."
+  ref: "Dung 19/09/2026 cho brat-ch4-the-canh. Canon o [[Xanxus]] (Database/Fandom/KHR); note nay chi ghi phan NHANH nay lam voi ong. (chuong/the canh nhac o day da xoa khi reset 20/11/2026)"
 authority: ai
 confidence: 0.8
 always_load: false

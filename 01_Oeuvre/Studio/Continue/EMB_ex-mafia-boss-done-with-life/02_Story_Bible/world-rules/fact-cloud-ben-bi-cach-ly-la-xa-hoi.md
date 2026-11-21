@@ -19,7 +19,7 @@ always_load: true
 load_for: [writer, reviewer]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [load-bearing, flame]
-last_updated: 2026-10-01
+last_updated: 2026-11-21
 ---
 
 # Cloud — **bên bị cách ly là xã hội, không phải Cloud**
@@ -50,11 +50,11 @@ Nhìn từ trong thì **ngược hẳn**: Cloud không phải bên bị cách ly
 
 Nếu Cloud khiến người ta *tránh* chứ không khiến người ta *không thấy*, thì cái di chuyển trên phố là **một túi khoảng-trống biết đi**. Với thường dân: vô hình hoàn toàn. Với **một người được huấn luyện để tìm đúng thứ đó**: sáng như đèn.
 
-→ Đây là lý do [[mammon]] tìm ra [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/tsuna|tsuna]] ở *văn xuôi đã xóa*. Không phải cậu sơ suất. **Lỗ hổng nằm sẵn trong cơ chế**, và cậu biết, và cậu đã chấp nhận nó cho tám ngày.
+→ Vì thế một người như [[mammon]] **tìm ra được** Cloud đang đi. Không phải người đi sơ suất: **lỗ hổng nằm sẵn trong cơ chế**.
 
 ### ② [[kyouya]] đứng im hai tiếng đắt hơn ta tưởng
 
-*văn xuôi đã xóa*: Varia đi ngang, và cậu **không động**. Với luật này, việc ấy không chỉ là nhịn đánh — nó là **để người lạ bước vào trong hai cánh tay của mình và không làm gì cả**, nhiều lần liên tiếp, trên đất của chính mình.
+Nếu cậu phải đứng im trong khi người lạ đi ngang, thì với luật này, việc ấy không chỉ là nhịn đánh — nó là **để người lạ bước vào trong hai cánh tay của mình và không làm gì cả**, nhiều lần liên tiếp, trên đất của chính mình.
 
 ### ③ Nó giải thích vì sao Namimori đối xử với Cloud như đối xử với thời tiết
 

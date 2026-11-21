@@ -59,5 +59,5 @@ Bản sửa đắt hơn: một triệu chứng **tự khỏi** làm một thầy
 ## Ràng buộc kéo theo
 
 - 🔴 **Triệu chứng dứt, bệnh thì không.** [[fact-loi-flame]] nói rõ lõi **vẫn tách khỏi crux**, kế hoạch *"đợi lớn"* rồi cũng không đủ, cậu **sẽ phải tìm giải pháp nhân tạo**. Không được đọc quyết định này thành "Tsuna đã ổn".
-- Ba file đã sửa theo cùng lúc: khung năm arc *(đã xóa)* *(dòng lối C, dòng Áp lực, dòng Sự kiện dự kiến)* · [[hai-su-kien-p2]] *(bảng cuối năm 6)* · *văn xuôi đã xóa* đã viết theo bản đúng từ đầu.
+- Các file đã sửa theo cùng lúc: khung năm arc *(đã xóa)* *(dòng lối C, dòng Áp lực, dòng Sự kiện dự kiến)* · [[hai-su-kien-p2]] *(bảng cuối năm 6)*.
 - Mọi cảnh Brat có cơn trôi dạt **xảy ra trên trang** là sai, trừ khi là hồi tưởng.
