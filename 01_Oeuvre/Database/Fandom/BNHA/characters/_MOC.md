@@ -16,7 +16,7 @@ last_updated: 2026-08-31
 
 **Canon chung của mọi fic BNHA trong vault.** Thứ chỉ đúng với một truyện thì thuộc
 `Projects/<MÃ>/Characters/` — **đừng chép vào đây**, và **đừng để một project rò quyết định
-sang project khác qua thư mục này** (`AGENTS.md` §2.4).
+sang project khác qua thư mục này** ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4).
 
 ## Luật của thư mục này
 

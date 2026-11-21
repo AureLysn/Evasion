@@ -70,7 +70,7 @@ truyện. Ngày tải được ghi vào tên file: trang này còn sống và c�
 
 ⚠️ **文案 là lời hứa của tác giả, không phải chuyện đã xảy ra.** Những gì 文案 báo trước mà 15 chương
 chưa viết tới (ví dụ việc "họ" trả tiền cho đạo diễn, hay 69 xuất hiện trên show) là **hook**, không
-phải sự kiện. `planned` không phải `occurred`, xem bất biến 7 của `AGENTS.md`.
+phải sự kiện. `planned` không phải `occurred`, xem bất biến 7 của [[CLAUDE]].
 
 > 🔴 **Đính chính 26/09/2026.** Bản 25/09 ghi *"69 và 80 đang dùng tiền để chen vào show"* và bỏ sót ô
 > CP `??`. **Sai cả hai:** câu tiền nong là của **đạo diễn**, chủ ngữ số nhiều không tên; câu của 80 là
