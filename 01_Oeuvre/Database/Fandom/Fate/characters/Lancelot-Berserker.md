@@ -84,6 +84,6 @@ Nguồn: Baka-Tsuki, Act 16 Part 2, 3, 5, 7 (tiểu thuyết, bản dịch fan, 
 | Lời cuối | Thoát cuồng hóa khi khế ước đứt, nhận ra Saber; xin bị trách phạt: *"At that time I really wished that you would denounce me out of your own anger"* … *"To die in the King's arms, before the King's eyes… haha, like this it is really… as if I am a loyal knight…"* (câu rời, công cụ gộp) | Act 16 Part 7 | 0.65 |
 | Saber | Khóc thút thít; quyết lấy Chén bù cho những gì đã mất | Act 16 Part 7 | 0.7 |
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

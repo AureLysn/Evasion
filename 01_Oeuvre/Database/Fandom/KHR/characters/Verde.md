@@ -39,6 +39,6 @@ last_updated: 2026-09-28
 - ⚠️ Thiết bị/robot cụ thể mà Verde dùng trong trận — không xác minh được trong lần tra cứu này.
 - ⚠️ Mối quan hệ giữa Verde và các Arcobaleno khác (đặc biệt là [[Skull]], theo gợi ý từ ghi chú project khác trong vault) — **không thuộc phạm vi tra cứu lần này**, không đưa vào đây.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

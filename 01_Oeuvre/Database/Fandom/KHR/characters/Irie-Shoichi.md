@@ -42,7 +42,7 @@ last_updated: 2026-09-28
 
 Vai trò của Irie trong arc Simon và Đại chiến Đại diện — **chưa có nguồn đọc được**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

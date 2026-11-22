@@ -70,6 +70,6 @@ Bối cảnh chung: [[BEAST-IF]]. Nhãn: [C~] = chỉ qua trích đoạn tìm ki
 - Tên chủ tiệm cà ri: trang không nêu trong đoạn đã đọc.
 - BEAST: chưa rõ Oda bắn Dazai hay không ở Lupin — một bản tóm tắt tự động nói có, không trích đoạn nào xác nhận. **Đừng dùng.**
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

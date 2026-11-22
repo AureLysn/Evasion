@@ -46,6 +46,6 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 
 - Là người **giới thiệu Dazai** cho Fukuzawa sau hai năm Dazai ẩn mình (trang Armed Detective Agency, light novel *Entrance Exam*). Xem [[Armed-Detective-Agency]]. [C]
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

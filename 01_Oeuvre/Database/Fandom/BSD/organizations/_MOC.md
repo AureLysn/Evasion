@@ -16,4 +16,4 @@ last_updated: 2026-11-18
 - [[Mimic]] — du kích châu Âu, Hắc Thời Đại; trình tự canon tới cái chết của Oda · *17/11/2026*
 - [[Armed-Detective-Agency]] — Cơ quan Thám tử Vũ trang; kỳ thi vào Cơ quan, light novel *Entrance Exam* (Dazai, Kunikida) · *18/11/2026*
 
-Template dùng cho thư mục này: `Templates/Organization-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/world_reference/Organization-Note.md`

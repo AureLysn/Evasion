@@ -52,6 +52,6 @@ Tóc đen cắt bob qua cằm, mái bằng; **mắt đỏ tím (magenta)**. Áo 
 - Mới đọc tab Introduction; chưa đọc Synopsis, Relationships, chưa lật manga. Quan hệ cụ thể với Mori thời Đại Chiến chưa đọc trực tiếp (chỉ biết cùng bối cảnh chiến tranh).
 - Tương tác dị năng của cô với Nhân Gian Thất Cách của Dazai: suy ra từ cơ chế vô hiệu khi chạm, chưa đọc cảnh cụ thể.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

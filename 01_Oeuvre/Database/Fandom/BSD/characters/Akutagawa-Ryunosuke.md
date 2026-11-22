@@ -126,6 +126,6 @@ Bối cảnh chung: [[BEAST-IF]]. **Thế giới khác — không bê sang mạc
 - Manga vẫn đang ra. Trạng thái của Akutagawa ở các chương mới nhất **nằm ngoài phạm vi note này**, và có thể đã đổi sau mốc kiến thức của mình (06/2026).
 - Nguồn nháp [[dazai-canon-draft]] chỉ dùng để **đặt câu hỏi**, không làm bằng chứng cho note này.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

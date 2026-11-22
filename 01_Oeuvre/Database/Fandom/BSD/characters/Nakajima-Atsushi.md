@@ -58,6 +58,6 @@ Nguồn mục này: trang wiki *Chapter 3*, *Chapter 4* (bungostraydogs.fandom.c
 
 Độ tin nguồn: White Reaper 0.95; các cảnh cụ thể 0.6.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

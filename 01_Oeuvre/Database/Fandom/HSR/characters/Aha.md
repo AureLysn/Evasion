@@ -6,7 +6,7 @@ lane: personal
 universe: HSR
 canon_layer: official_canon
 status: active
-aliases: ["Aha", "阿哈", "Aha the Elation", "Aeon Elation", "Elation", "欢愉", "Vui sướng", "Vui suong", "hoan du", "Hoan du", "Aeon Vui sướng", "Aeon Hoan du", "Masked Fools", "假面愚者", "gia dien ngu gia", "A Ha"]
+aliases: ["Aha", "阿哈", "Aha the Elation", "Aeon Elation", "Elation", "欢愉", "Vui sướng", "Vui suong", "hoan du", "Aeon Vui sướng", "Aeon Hoan du", "Masked Fools", "假面愚者", "gia dien ngu gia", "A Ha"]
 related: ["[[hsr]]", "[[Emanator]]"]
 source:
   type: fandom_wiki

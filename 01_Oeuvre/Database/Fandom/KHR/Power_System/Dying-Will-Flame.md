@@ -65,7 +65,7 @@ Không ghi ở đây. Fanon lớn nhất quanh hệ Flame là "Sky thu hút Elem
 - Danh sách Special Flames cụ thể
 - Nguồn gốc / thần thoại hệ Flame (có thể không tồn tại trong canon)
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

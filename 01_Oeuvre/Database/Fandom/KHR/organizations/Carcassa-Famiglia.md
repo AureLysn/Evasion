@@ -78,8 +78,8 @@ Mốc: **arc Mafia Land**, manga **Vol.6** — `[WP-en]` đặt mô tả Skull d
 - ⚠️ Tên boss, thành viên có tên ngoài Skull, số chương, số tập anime: **đều thiếu**.
 - ⚠️ Chưa biết anime có mở rộng Carcassa thành arc filler hay không.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.
 
 *Đánh giá nguồn: thấp — một câu Wikipedia tiếng Nhật đọc thẳng; phần sự kiện toàn là snippet wiki; chưa lật manga, chưa đối chiếu anime.*

@@ -49,6 +49,6 @@ last_updated: 2026-11-18
 - Mới đọc tab **Overview**; chưa đọc tab Synopsis (diễn biến ngày bị nguyền), chưa lật manga.
 - "Luc" là cách gọi trong fandom, không phải canon.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Đọc `01_Project-canon/` của chính truyện đó.

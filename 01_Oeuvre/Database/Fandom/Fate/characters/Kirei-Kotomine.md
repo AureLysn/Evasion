@@ -102,6 +102,6 @@ last_updated: 2026-10-01
 - Fandom TYPE-MOON bị chặn (HTTP 402) đợt này (kể cả 01/10/2026); 萌娘百科 trang 令咒/言峰绮礼 cũng không tải được nội dung → không đối chiếu lại được các câu wiki ở trên.
 - *(01/10/2026)* Anime (tập Vương Yến, tập đấu Kiritsugu): **chưa kiểm** số đạo.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -6,7 +6,7 @@ lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Kyoko Sasagawa", "Sasagawa Kyoko", "笹川京子", "笹川京子", "Kyoko", "京子"]
+aliases: ["Kyoko Sasagawa", "Sasagawa Kyoko", "笹川京子", "Kyoko", "京子"]
 related: ["[[Ryohei-Sasagawa]]", "[[Sawada-Tsunayoshi]]", "[[Nana-Sawada]]"]
 source:
   type: fandom_wiki
@@ -38,6 +38,6 @@ last_updated: 2026-11-18
 
 - Mới đọc tab Overview (infobox, Appearance, Personality); chưa đọc Synopsis.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

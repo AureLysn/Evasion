@@ -46,6 +46,6 @@ last_updated: 2026-11-18
 
 - Chưa đọc mục Abilities, Noble Phantasm chi tiết; vị trí "sông Mion" của con quái lấy từ hiểu biết chung về Fate/Zero, trang này chỉ ghi "con quái khổng lồ".
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

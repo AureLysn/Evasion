@@ -13,9 +13,7 @@ last_updated: 2026-10-12
 
 # MOC — JJK / characters
 
-Chưa có note.
-
-Template dùng cho thư mục này: `Templates/Character-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/characters/Character-Note.md`
 - [[Riko-Amanai]] — Star Plasma Vessel, 14 tuổi · *12/10/2026*
 - [[Misato-Kuroi]] — người chăm sóc Riko · *12/10/2026*
 - [[Suguru-Geto]] — Special Grade; Cursed Spirit Manipulation · *12/10/2026*

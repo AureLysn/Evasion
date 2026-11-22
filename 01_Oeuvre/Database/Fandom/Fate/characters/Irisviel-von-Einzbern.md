@@ -107,6 +107,6 @@ Nối với [[Holy-Grail]]: ngưỡng **bốn** linh hồn ở bình khớp vớ
 
 Phần Vai trò ở trên vẫn từ wiki Fandom, chưa mở chú thích tập/chương. Phần *Bị giam* dùng tiểu thuyết qua tóm tắt công cụ (xem hộp nguồn).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

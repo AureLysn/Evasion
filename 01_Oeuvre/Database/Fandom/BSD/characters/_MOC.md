@@ -35,4 +35,4 @@ last_updated: 2026-09-28
 - [[Yumeno-Kyusaku]] — Q, Dogra Magra, búp bê; bị Dazai cho nhốt · *18/11/2026*
 - [[Paul-Verlaine]] — Black No. 12, bản sao nhân tạo, anh trai danh dự của Chuuya · *18/11/2026*
 
-Template dùng cho thư mục này: `Templates/Character-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/characters/Character-Note.md`

@@ -43,6 +43,6 @@ last_updated: 2026-09-28
 - ⚠️ Tên chuẩn của thú cưng: "Enzio" (theo Wikipedia tiếng Nhật) hay "Enzo" (romaji fandom Anh ngữ phổ biến hơn) — **chưa chốt**.
 - ⚠️ Chi tiết ngoại hình (tóc vàng, mắt nâu, hình xăm...) chưa được trích dẫn cụ thể trong lần tra cứu này.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -37,7 +37,7 @@ Thuộc **Team Colonnello** — đội đại diện của Colonnello, **gồm n
 
 Basil sau Ch.409; mọi mốc năm trong lời Basil — **canon không cho năm dương lịch** (xem [[Representative-Battle-Aftermath]] §5).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

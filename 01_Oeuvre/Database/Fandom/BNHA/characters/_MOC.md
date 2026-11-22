@@ -61,7 +61,7 @@ Mười ba hồ sơ còn lại dựng 31/08–01/09/2026, cùng shape. Danh sác
 
 ⚠️ **Cột phải cố tình chỉ nêu lý do canon.** Danh sách này được lập trong lúc phục vụ một truyện
 cụ thể, nhưng **thứ tự ưu tiên của truyện đó không được ghi ở đây** — nó nằm trong
-`Projects/<MÃ>/`. Xem  mục **L04**.
+`Studio/<Continue|Original>/<MÃ>_<slug>/`. Xem  mục **L04**.
 
 ## Tầng 2 — chưa cần hồ sơ riêng
 

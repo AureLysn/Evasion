@@ -81,7 +81,7 @@ Sau khi đánh bại Daemon Spade, **Vindice thả Mukuro**; hắn vào Đại c
 - Sinh ra ở **Estraneo Famiglia** cùng **Ken Joshima** và **Chikusa Kakimoto**; gia tộc thí nghiệm trên trẻ con của chính mình, trẻ chết dần; khi chỉ còn Ken và Chikusa, **Mukuro dùng Lục Đạo Luân Hồi giết toàn bộ người lớn** → gia tộc xoá sổ. Xem [[Estraneo-Famiglia]]. [C]
 - Chrome (tên cũ **Nagi**) có note riêng: [[Chrome-Dokuro]].
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

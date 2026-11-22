@@ -36,6 +36,6 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 
 Độ tin nguồn: nhận dạng 0.9; BEAST 0.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

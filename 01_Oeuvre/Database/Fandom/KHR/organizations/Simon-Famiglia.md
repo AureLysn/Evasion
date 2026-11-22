@@ -56,7 +56,7 @@ Enma ban đầu là **đại diện duy nhất của Skull**; sau khi Skull cứ
 
 Chuyện Simon Cozzato – Giotto – Daemon Spade đầy đủ; số phận các Guardian Simon sau khi bị Vindice bắt; Simon sau Ch.409.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Đọc `01_Project-canon/` của chính truyện đó.
 

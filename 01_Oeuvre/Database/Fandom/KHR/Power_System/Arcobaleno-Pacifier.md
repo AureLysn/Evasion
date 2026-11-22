@@ -7,7 +7,7 @@ universe: KHR
 canon_layer: official_canon
 status: active
 aliases: ["Arcobaleno Pacifier", "Pacifier", "num vu Arcobaleno", "Orange Pacifier", "num vu cam", "num vu bau troi", "Sky Pacifier", "おしゃぶり", "ung vien Arcobaleno"]
-related: ["[[Tri-ni-sette]]", "[[Kawahira]]", "[[Sky-Flame]]", "[[Representative-Battle-Aftermath]]"]
+related: ["[[Tri-ni-sette]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[Sky-Flame]]", "[[Representative-Battle-Aftermath]]"]
 source:
   type: fandom_wiki
   ref: "https://reborn.fandom.com/wiki/Arcobaleno_Pacifier (chu thich: manga Vol.40 Ch.390); https://reborn.fandom.com/wiki/Tsunayoshi_Sawada (chu thich [6]: manga Vol.42 Ch.405). Doc bang trinh duyet tich hop 2026-09-13"
@@ -48,6 +48,6 @@ Núm vú được **thay bằng bảy Pacifier Jar** của Talbot, Vindice giữ
 - Chưa mở trực tiếp Ch.405 — chú thích lấy từ wiki.
 - Chưa xác minh Tsuna được xét cho **núm vú nào**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể, đọc `01_Project-canon/` của **chính truyện đó**.

@@ -186,7 +186,7 @@ nhập viện. Ch.389: Tsuna về nhà và **lo cho vết thương của bố** 
 Độ tin nguồn: trung bình. Số chương lấy từ trích đoạn wiki và khớp chéo với bảng tập của Wikipedia,
 nhưng chưa đối chiếu với manga lần nào; mọi kết luận xếp hạng ở mục 1 là suy luận của mình.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

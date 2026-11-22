@@ -35,6 +35,6 @@ last_updated: 2026-11-18
 
 - Trang ngắn; không có mốc năm, không có tuổi Mukuro lúc nổi dậy.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

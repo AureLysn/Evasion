@@ -36,6 +36,6 @@ Trang ghi: **toàn bộ khả năng của Đệ nhị Pháp hiện chưa đượ
 - Nội dung chi tiết từng tiểu mục Effects.
 - Mystic Code Jeweled Sword Zelretch.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể, đọc `01_Project-canon/` của **chính truyện đó**.

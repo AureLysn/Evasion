@@ -6,7 +6,7 @@ lane: personal
 universe: KHR
 canon_layer: fanon
 status: active
-aliases: ["Sky Attraction", "Harmonization", "harmonization", "Flame Harmonization", "fanon harmonization", "Sky attracts Elements", "Element bond", "Guardian bond", "Sky bond", "Discord", "hai hoa hoa", "thu hut Sky", "Sky va Element", "調和", "大空 調和", "调和"]
+aliases: ["Sky Attraction", "Harmonization", "Flame Harmonization", "fanon harmonization", "Sky attracts Elements", "Element bond", "Guardian bond", "Sky bond", "Discord", "hai hoa hoa", "thu hut Sky", "Sky va Element", "調和", "大空 調和", "调和"]
 related: ["[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[KHR-Research-Method]]"]
 source:
   type: fandom_wiki
@@ -127,7 +127,7 @@ Chưa làm việc đó thì mỗi chương dùng Harmonization đều đang đ�
 - Fic sớm nhất mang tag `Flame Harmonization` — sort theo ngày đăng chưa lấy được đúng
 - CN: cần người truy cập được Tieba / LOFTER / JJWXC. **Aurel làm được việc này, mình thì không.**
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

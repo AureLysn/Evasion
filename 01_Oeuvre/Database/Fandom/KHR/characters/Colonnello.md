@@ -54,6 +54,6 @@ last_updated: 2026-11-18
 - ⚠️ Tên đối thủ sát hạch của Yamamoto phiên âm là "Ugetsu" — **chưa chốt chính tả romaji**.
 - ⚠️ Mô tả ngoại hình (tóc, mắt) lấy từ đoạn trích công cụ tìm kiếm, chưa đối chiếu trang gốc.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

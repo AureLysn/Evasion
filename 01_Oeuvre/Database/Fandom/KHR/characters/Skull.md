@@ -118,8 +118,8 @@ last_updated: 2026-09-26
 - ⚠️ **Chưa mở chương manga nào.** Việc cần làm tiếp: lật Vol.6 quanh Target 50 *(Mafia Land)*, Target 179–180, các chương Trials, và Target 404.
 - ⚠️ Anime có phần Mafia Land. **Chưa đối chiếu** anime có thêm cảnh hay đổi tình tiết Carcassa so với manga hay không.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.
 
 *Đánh giá nguồn: trung bình-thấp — hai trang Wikipedia đọc thẳng; phần lớn còn lại là snippet wiki và Baidu; chưa lật một chương manga nào.*

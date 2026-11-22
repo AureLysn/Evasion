@@ -55,6 +55,6 @@ last_updated: 2026-09-28
 - **Cách người khác gọi Reborn** — Wikipedia tiếng Nhật `リボーン (家庭教師ヒットマンREBORN!)`, đọc 2026-09-15: đa số (kể cả Tsuna) gọi trống tên; Gokudera, Basil kèm 「さん」; Haru 「ちゃん」; Kyoko, Nana 「君」; Yamamoto 「小僧」; Hibari 「赤ん坊」.
 - ⚠️ **Reborn gọi Tsuna** là 「ダメツナ」?: `沢田綱吉` chỉ ghi **bạn cùng lớp** gọi 「ダメツナ」; wiki Reborn nói nhãn "no-good" là **người khác** gán — **chưa trích** việc Reborn dùng cách gọi này.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

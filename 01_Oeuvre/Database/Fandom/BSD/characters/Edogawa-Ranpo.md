@@ -42,6 +42,6 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 - Trong vụ *Entrance Exam* Ranpo **đang ở Kyushu** (nhận việc của một quan chức trung ương) mà vẫn suy ra quả bom ở tiệm đồ câu. [C~]
 - Mạch chính chương 1: có mặt ở vòng vây ngoài nhà kho bắt hổ cùng Yosano, Kenji. [C]
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

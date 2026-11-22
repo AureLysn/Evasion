@@ -71,7 +71,7 @@ Một nhân vật chọn bản nào là một **tuyên bố về nhân vật đ�
 - Bản Revised có giới hạn / phản tác dụng gì không
 - `Zero_Point_Breakthrough_(disambiguation)` — trang định hướng, xem còn bản nào khác
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

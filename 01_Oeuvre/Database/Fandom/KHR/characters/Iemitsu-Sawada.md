@@ -38,6 +38,6 @@ last_updated: 2026-09-28
 - ⚛️ **Không đưa nhận định/đánh giá nào về động cơ, tính cách, hay "món nợ" của Iemitsu vào note này** — đây là phạm vi sự kiện thuần túy theo yêu cầu của nhiệm vụ.
 - Ghi chú tham chiếu: Aurel có một giả thuyết cá nhân về Iemitsu tại [[gia-thuyet-khr-cua-aurel]] (file nguồn `user_input`, không phải canon) — **note này không sao chép hay diễn giải lại nội dung giả thuyết đó**, chỉ liên kết `related` để tiện tra cứu.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

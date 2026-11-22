@@ -62,6 +62,6 @@ Chưa mở chú thích tập/chương → *(29/09/2026)* đã lấy cho vụ b�
 - *(24/09/2026)* **Chưa tra:** sau khi Kirei giết con dơi ở nhà thờ (đêm đầu), Maiya/Kiritsugu có **đặt lại** mắt ở nhà thờ không. Không nguồn nào đã đọc nói tới.
 - *(29/09/2026)* **Chưa xác minh:** vũ khí và vị trí vết thương của Maiya; âm thanh/hiệu ứng khi kẻ giả Rider đột nhập; bản anime (tập 20–21) khác tiểu thuyết ở chỗ nào — chỉ có nguồn phụ, xem [[Lancelot-Berserker]].
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -48,7 +48,7 @@ last_updated: 2026-11-18
 - **Team Uni:** Byakuran và Gamma (boss), Nosaru, Tazaru, Zakuro, Kikyo, Torikabuto, Bluebell. Ngày 2, đồng hồ boss của Byakuran bị Team Colonnello phá → loại. `[wiki-snippet]` Team_Uni
 - Kết cục: [[Representative-Battle-Aftermath]].
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

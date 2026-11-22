@@ -11,8 +11,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-31
 ---
 
-# MOC — BNHA / events
-
+# MOC — BNHA / Timeline
 Chưa có note.
 
-Template dùng cho thư mục này: `Templates/Rule-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/writing/Rule-Note.md`

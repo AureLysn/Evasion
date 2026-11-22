@@ -20,11 +20,13 @@ last_updated: 2026-10-12
 - [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/characters/_MOC|Characters]] — nhân vật canon
 - [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/organizations/_MOC|Organizations]] — Tokyo Jujutsu High, Kyoto School, giới trên...
 - [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/locations/_MOC|Locations]]
-- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Power_System/_MOC|Rules]] — hệ chú lực, Limitless, Domain Expansion
-- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Timeline/_MOC|Events]] — mốc lớn trong canon
-- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Lore/_MOC|Terminology]] — thuật ngữ
+- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Power_System/_MOC|Power_System]] — hệ chú lực, Limitless, Domain Expansion
+- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Timeline/_MOC|Timeline]] — mốc lớn trong canon
+- [[05_Evasion/01_Oeuvre/Database/Fandom/JJK/Lore/_MOC|Lore]] — thuật ngữ
 
 ## Trạng thái — nạp lượt 1 ngày 12/10/2026
+
+> **Số note hiện tại (đếm 22/11/2026):** Power_System 1 · Timeline 1 · characters 9 · organizations 3 · sources 1. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
 
 Lượt nạp **giới hạn ở arc Star Plasma Vessel (Hidden Inventory / Premature Death, 2006)**, không nạp cả bộ truyện. Nguồn: Wikipedia (en) qua công cụ fetch — **bản tóm tắt của mô hình nhỏ, bậc 5**, chưa đối chiếu manga (fandom.com trả 402).
 

@@ -23,10 +23,10 @@ last_updated: 2026-11-13
   - **28/09/2026 — đợt đối chiếu cho BCMF:** [[Lal-Mirch]] · [[Kozato-Enma]] · [[Irie-Shoichi]] · [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Spanner|Spanner]] · [[Basil]] · [[Fran]] · [[Rokudo-Mukuro]] *(chỉ phần nhập xác)* · [[Uni]] — note ngắn, chỉ các điểm BCMF chạm tới; phần lớn snippet wiki, chưa lật manga
 - [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/organizations/_MOC|Organizations]] — Vongola, Varia, Estraneo, Vendicare, Carcassa, **Simon** *(28/09)*...
 - [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/locations/_MOC|Locations]]
-- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/_MOC|Rules]] — hệ Dying Will Flame, Tri-Ni-Sette, Ring System, **Ten-Year Bazooka** *(28/09)*
-- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Timeline/_MOC|Events]] — mốc lớn trong canon. *28/09:* [[Representative-Battle-Aftermath]] — kết Đại chiến Đại diện
-- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/_MOC|Terminology]] — thuật ngữ
-- `tropes/` — **fanon**, không phải canon: [[trope-fandom-khr]] — fic song sinh / Tsuna bị thay thế, OC–SI và làn sóng Mary Sue ↔ 反玛丽苏 ở fandom Trung, 观影体 · `confidence: 0.5`, phần lớn snippet *(26/09/2026)*. Quy ước chung của thể loại ở `Library/genres/`
+- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/_MOC|Power_System]] — hệ Dying Will Flame, Tri-Ni-Sette, Ring System, **Ten-Year Bazooka** *(28/09)*
+- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Timeline/_MOC|Timeline]] — mốc lớn trong canon. *28/09:* [[Representative-Battle-Aftermath]] — kết Đại chiến Đại diện
+- [[05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/_MOC|Lore]] — thuật ngữ
+- `Lore/` — **fanon**, không phải canon: [[trope-fandom-khr]] — fic song sinh / Tsuna bị thay thế, OC–SI và làn sóng Mary Sue ↔ 反玛丽苏 ở fandom Trung, 观影体 · `confidence: 0.5`, phần lớn snippet *(26/09/2026)*. Quy ước chung của thể loại ở `Library/genres/`
   - [[crossover-khr-bsd]] — crossover KHR×BSD, trọng tâm "chỉ Tsuna sang BSD"; 56 works AO3 đếm được · `confidence: 0.4` *(28/09/2026)*
   - [[time-travel-khr]] — time travel / fix-it trong KHR; 316 works Time Travel, 43–48 Fix-It trên AO3 · `confidence: 0.45` *(28/09/2026)*. Quy ước chung: [[time-travel-fix-it]]
 
@@ -34,6 +34,8 @@ last_updated: 2026-11-13
 > `sawada-tsunayoshi.md`. Tên trần trong link thì Obsidian có thể mở nhầm file kia.
 
 ## Trạng thái — cập nhật 05/09/2026
+
+> **Số note hiện tại (đếm 22/11/2026):** Lore 3 · Power_System 11 · Timeline 1 · characters 37 · locations 2 · organizations 4 · sources 2. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
 
 | Thư mục | Có gì |
 |---|---|

@@ -60,6 +60,6 @@ Dưới áo choàng có nhiều lọ và đồ lặt vặt không rõ công dụ
 - Mới đọc trang wiki chính; chưa lật Ch.299 hay các chương cuối arc Cầu vồng. Chi tiết con cừu wiki ghi thiếu nguồn.
 - Trang không nói Talbot có quan hệ gì với Kawahira.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

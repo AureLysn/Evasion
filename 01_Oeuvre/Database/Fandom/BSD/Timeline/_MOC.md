@@ -11,8 +11,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-05
 ---
 
-# MOC — BSD / events
-
+# MOC — BSD / Timeline
 Chưa có note.
 
-Template dùng cho thư mục này: `Templates/Event-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/world_reference/Event-Note.md`

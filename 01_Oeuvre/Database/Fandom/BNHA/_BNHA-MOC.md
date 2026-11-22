@@ -20,11 +20,13 @@ last_updated: 2026-11-13
 - [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/_MOC|Characters]] — nhân vật canon
 - [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/organizations/_MOC|Organizations]] — HPSC, UA, League of Villains, Meta Liberation Army…
 - [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/locations/_MOC|Locations]]
-- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Power_System/_MOC|Rules]] — hệ Quirk, One For All
-- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Timeline/_MOC|Events]] — mốc lớn trong canon
-- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Lore/_MOC|Terminology]] — thuật ngữ
+- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Power_System/_MOC|Power_System]] — hệ Quirk, One For All
+- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Timeline/_MOC|Timeline]] — mốc lớn trong canon
+- [[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/Lore/_MOC|Lore]] — thuật ngữ
 
 ## Trạng thái — mở 31/08/2026
+
+> **Số note hiện tại (đếm 22/11/2026):** Power_System 4 · characters 14 · organizations 1. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
 
 Thư mục này **mở 31/08/2026** theo yêu cầu của Aurel. Trước đó nó **không tồn tại**, và điều đó
 chặn việc trích canon BNHA cho bất kỳ project nào.

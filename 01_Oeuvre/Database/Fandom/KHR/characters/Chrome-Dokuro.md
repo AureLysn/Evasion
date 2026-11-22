@@ -40,6 +40,6 @@ last_updated: 2026-11-18
 
 - Chưa đọc Synopsis; chưa rõ Nagi gặp Mukuro thế nào ngoài việc cô hôn mê sau tai nạn.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

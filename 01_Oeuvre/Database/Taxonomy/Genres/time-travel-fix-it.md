@@ -5,7 +5,7 @@ scope: global
 lane: personal
 canon_layer: fanon
 status: active
-aliases: ["time travel fix-it", "time travel fix it", "du hanh thoi gian sua sai", "du hành thời gian sửa sai", "Peggy Sue", "peggy sue fic", "回溯", "hoi tro", "hồi trở", "重生 sua sai", "trong sinh sua sai", "trọng sinh sửa sai", "send-back fic", "send back fic", "Groundhog Day loop", "groundhog day loop", "vong lap thoi gian", "vòng lặp thời gian", "Set Right What Once Went Wrong", "fix fic", "fix-it fic", "time loop", "Butterfly of Doom", "Stations of the Canon", "quay ve qua khu", "quay về quá khứ", "mang theo ky uc tuong lai", "mang theo ký ức tương lai", "重生文", "时间回溯", "chuyen the", "chuyển thế", "转世", "reincarnation", "hoi quy", "hồi quy", "회귀", "회빙환", "hoi bang hoan", "phat he trong sinh", "phật hệ trọng sinh", "佛系重生"]
+aliases: ["time travel fix-it", "time travel fix it", "du hanh thoi gian sua sai", "du hành thời gian sửa sai", "Peggy Sue", "peggy sue fic", "回溯", "hoi tro", "hồi trở", "重生 sua sai", "trong sinh sua sai", "trọng sinh sửa sai", "send-back fic", "send back fic", "Groundhog Day loop", "vong lap thoi gian", "vòng lặp thời gian", "Set Right What Once Went Wrong", "fix fic", "fix-it fic", "time loop", "Butterfly of Doom", "Stations of the Canon", "quay ve qua khu", "quay về quá khứ", "mang theo ky uc tuong lai", "mang theo ký ức tương lai", "重生文", "时间回溯", "chuyen the", "chuyển thế", "转世", "reincarnation", "hoi quy", "hồi quy", "회귀", "회빙환", "hoi bang hoan", "phat he trong sinh", "phật hệ trọng sinh", "佛系重生"]
 related: ["[[time-travel-khr]]", "[[xuyen-viet-cong-luoc-van-nhan-me]]", "[[phan-xuyen-phan-he-thong]]", "[[_TAXONOMY-MOC]]"]
 source:
   type: fandom_wiki

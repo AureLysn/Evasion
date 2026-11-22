@@ -79,6 +79,6 @@ Thứ tự ưu tiên khi lệch: LN > manga BEAST > phim (theo [[bsd]]). Phim c�
 
 Độ tin nguồn: ai-ở-đâu 0.8 (synopsis chính thức + nhiều trích đoạn khớp); kế hoạch và kết 0.6; "bốn năm" 0.6; vai trò Ban Dị năng 0.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

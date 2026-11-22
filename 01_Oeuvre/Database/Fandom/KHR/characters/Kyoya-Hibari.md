@@ -48,6 +48,6 @@ last_updated: 2026-09-28
 - ⚠️ Cơ chế cụ thể của tonfa "có ẩn cơ cấu" — chưa rõ chi tiết.
 - ⚠️ Tên chính xác và mục đích của tổ chức Hibari lập ở dòng thời gian 10 năm sau — chỉ có bản dịch tạm, chưa đối chiếu tên tiếng Nhật gốc.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

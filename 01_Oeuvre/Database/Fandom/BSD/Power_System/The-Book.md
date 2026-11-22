@@ -51,6 +51,6 @@ Chưa nghiên cứu. *Tóm tắt từ công cụ tìm kiếm (13/09, chưa kiể
 - Quan hệ Sách với 《Stormbringer》 hay 《Dazai, Chuuya, 15 tuổi》 — **chưa có bằng chứng** trong đợt đọc này.
 - "Người giữ tuyến thế giới" chết thì thế giới mất ổn định — **không tìm thấy** câu nào như vậy trong nguồn (28/09).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

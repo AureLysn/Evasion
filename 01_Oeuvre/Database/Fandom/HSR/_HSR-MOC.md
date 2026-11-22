@@ -23,6 +23,8 @@ last_updated: 2026-11-21
 
 ## Trạng thái — mở 25/09/2026
 
+> **Số note hiện tại (đếm 22/11/2026):** Lore 2 · characters 17 · locations 3 · organizations 1. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
+
 | Thư mục | Có gì |
 |---|---|
 | `terminology/` | ✅ 1 note — [[Emanator]]. **Chưa có** `terminology/_MOC.md` (một note thì chưa cần) |
@@ -33,7 +35,7 @@ last_updated: 2026-11-21
 
 ⚠️ **Tầng nguồn:** chưa đọc trực tiếp văn bản trong game. Văn bản Data Bank đọc qua bản chép `hoyodex.miraheze.org`; phần còn lại từ tóm tắt tìm kiếm, Baidu dịch máy, Wikipedia và báo — `authority: fandom`, `confidence < 1.0`. Game còn đang chạy: kiểm ngày 25/09/2026, bản sau có thể đổi lore.
 
-## Ranh giới với `Projects/<MÃ>/`
+## Ranh giới với `Studio/<Continue|Original>/<MÃ>_<slug>/`
 
 Ở đây: thứ **đúng với mọi fic dùng khung HSR**. Fic dùng khung đó thế nào (ai là lệnh sứ của ai, lệch canon ra sao) thuộc project đó, **không** chép vào đây.
 

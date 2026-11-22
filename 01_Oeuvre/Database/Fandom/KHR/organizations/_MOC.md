@@ -18,4 +18,4 @@ last_updated: 2026-09-28
 - [[Simon-Famiglia]] — boss Kozato Enma, **bảy thuộc tính Lửa Đại địa**, nhẫn Simon nâng cấp bằng Vongola Sin; 🔴 **nhẫn Simon không thuộc Tri-ni-sette** (suy luận chắc từ định nghĩa ba bộ) · *28/09/2026*
 - [[Estraneo-Famiglia]] — gia tộc thí nghiệm, Possession Bullet, trẻ con làm chuột bạch; Mukuro xoá sổ · *18/11/2026*
 
-Template dùng cho thư mục này: `Templates/Organization-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/world_reference/Organization-Note.md`

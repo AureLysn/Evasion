@@ -47,6 +47,6 @@ last_updated: 2026-11-18
 - Mới đọc tab tổng quan; chưa đọc mục Plot dài (Guild, Moby Dick, Thiên Nhân Ngũ Suy).
 - Tóm tắt light novel là của wiki, không phải văn bản gốc.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

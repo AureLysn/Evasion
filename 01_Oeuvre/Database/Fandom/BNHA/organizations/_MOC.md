@@ -23,4 +23,4 @@ last_updated: 2026-08-31
 - **Police Force** — quan hệ với HPSC
 - **Shie Hassaikai** — yakuza. Overhaul, Eri
 
-Template dùng cho thư mục này: `Templates/Rule-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/writing/Rule-Note.md`

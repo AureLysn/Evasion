@@ -44,6 +44,6 @@ last_updated: 2026-11-18
 
 - Mới đọc phần đầu Role (*UBW*); chưa đọc Abilities chi tiết, *Fate* route, *Heaven's Feel*.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

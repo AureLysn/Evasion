@@ -38,7 +38,7 @@ last_updated: 2026-11-12
 - Chưa tìm được: bazooka có hỏng hay được sửa sau arc Tương Lai; có luật nào về việc **bắn vào người không ở cùng thế giới**.
 - Chưa tìm được canon về **ký ức**: người ở tương lai về có nhớ 5 phút đó không, ngoài các trường hợp đặc biệt của arc Tương Lai (xem [[Irie-Shoichi]]).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Đọc `01_Project-canon/` của chính truyện đó.
 

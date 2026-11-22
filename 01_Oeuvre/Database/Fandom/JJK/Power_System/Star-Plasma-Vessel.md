@@ -6,7 +6,7 @@ lane: personal
 universe: JJK
 canon_layer: official_canon
 status: active
-aliases: ["Star Plasma Vessel", "Tinh Tương Thể", "tinh tương thể", "vật chứa Tengen", "星漿體"]
+aliases: ["Star Plasma Vessel", "Tinh Tương Thể", "vật chứa Tengen", "星漿體"]
 related: ["[[Tengen]]", "[[Riko-Amanai]]", "[[Kenjaku]]", "[[Time-Vessel-Association]]", "[[Hidden-Inventory-Premature-Death]]", "[[jjk]]"]
 source:
   type: fandom_wiki

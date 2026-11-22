@@ -41,6 +41,6 @@ last_updated: 2026-11-18
 - Tên "Aria" — một khúc nhạc cho một giọng hát.
 - Mới đọc tab **Overview**; chưa đọc Synopsis.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

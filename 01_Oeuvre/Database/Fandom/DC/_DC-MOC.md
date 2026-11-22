@@ -18,9 +18,11 @@ last_updated: 2026-09-25
 ## Thực thể
 
 - [[DC/characters/Jason-Todd|Jason Todd]] — Robin thứ hai / Red Hood · *25/09/2026*
-- `tropes/` — **fanon**, không phải canon: [[trope-fandom-dc]] — Batfamily quanh Jason: "kẻ thay thế", về nhà / fix-it, Crime Alley, OC/SI · `confidence: 0.55`, có số đếm AO3 *(26/09/2026)*. Quy ước chung của thể loại ở `Library/genres/`
+- `Lore/` — **fanon**, không phải canon: [[trope-fandom-dc]] — Batfamily quanh Jason: "kẻ thay thế", về nhà / fix-it, Crime Alley, OC/SI · `confidence: 0.55`, có số đếm AO3 *(26/09/2026)*. Quy ước chung của thể loại ở `Library/genres/`
 
 ## Trạng thái — mở 25/09/2026
+
+> **Số note hiện tại (đếm 22/11/2026):** Lore 1 · characters 1. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
 
 | Thư mục | Có gì |
 |---|---|
@@ -29,7 +31,7 @@ last_updated: 2026-09-25
 
 ⚠️ **Tầng nguồn:** chưa đọc bản quét truyện nào. Mọi fact lấy từ Wikipedia + đoạn tóm tắt wiki fandom + một bài blog chính thức của DC — `authority: fandom`, `confidence < 1.0`. Nâng lên khi đối chiếu được issue gốc.
 
-## Ranh giới với `Projects/<MÃ>/`
+## Ranh giới với `Studio/<Continue|Original>/<MÃ>_<slug>/`
 
 Ở đây: thứ **đúng với mọi fic có Jason Todd** trong continuity pre-New 52. Thiết lập riêng của một fic (Jason ở đâu, lệch canon thế nào) thuộc project đó, **không** chép vào đây.
 

@@ -48,6 +48,6 @@ Thủ lĩnh Gesso rồi Millefiore; phản diện arc Tương Lai.
 - Cảnh Tsuna tương lai "chết" và kế hoạch với Irie Shoichi: trang Irie chỉ xác nhận Irie thực hiện **kế hoạch lập với Tsuna tương lai** và **Byakuran nhìn thấu** — **chưa đọc được** chi tiết giả chết.
 - "Thiệt hại ở các thế giới song song được khôi phục sau khi Byakuran bại": **chưa xác minh** trong đợt này.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

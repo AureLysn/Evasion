@@ -41,6 +41,6 @@ last_updated: 2026-09-15
 - Mức độ tình cảm với Lancer do nốt ruồi tình ái (**love spot**) đến đâu — wiki chỉ nói tình ý leo thang thành gần như ám ảnh.
 - Việc bị bắt **gắn với trận Caster gốc**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

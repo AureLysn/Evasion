@@ -51,6 +51,6 @@ last_updated: 2026-09-15
 - ⚠️ Tsuna **gọi Gokudera** thế nào (「獄寺君」?): trang `沢田綱吉` và `獄寺隼人` **không** ghi — **chưa trích**.
 - Ngoại hình/tính cách lúc **trưởng thành** (mốc Tsuna 18+): trang không mô tả riêng.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

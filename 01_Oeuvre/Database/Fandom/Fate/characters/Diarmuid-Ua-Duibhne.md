@@ -54,6 +54,6 @@ Servant Lancer của **Kayneth El-Melloi Archibald**. Kayneth giữ lệnh chú;
 - Thứ tự chi tiết các trận giữa: chưa đối chiếu tiểu thuyết.
 - Wiki có chú thích số cho các câu trên; **chưa mở từng chú thích** để lấy tập/chương tiểu thuyết.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

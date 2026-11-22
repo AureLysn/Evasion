@@ -119,6 +119,6 @@ Hai part **không nhắc** Risei đã chết; Risei chết từ Act 11 Part 2 (*
 - Walther WA2000 có phải khẩu "theo hắn nhiều năm" hay không — wiki không nói.
 - *(01/10/2026)* Phần *Lệnh chú và các mốc sau vụ bắt cóc* chỉ đọc Act 14 Part 1, 4, Act 15 Part 2, Act 16 Part 6, 8, 9, 10 qua tóm tắt công cụ; Act 1–13 chưa quét để tìm lần dùng lệnh chú khác; anime chưa kiểm.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

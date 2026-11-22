@@ -40,6 +40,6 @@ last_updated: 2026-11-18
 
 - Chưa đọc Synopsis (sau Stormbringer: bị Cảng giam; thăm Dazai trong container — trang chỉ nhắc qua phần ngoại hình).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

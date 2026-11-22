@@ -11,8 +11,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-22
 ---
 
-# MOC — Fate / rules
-
+# MOC — Fate / Power_System
 - [[Servant-Appearance]] — Anh linh hiện thân ở thời hoàng kim, có ngoại lệ
 - [[Second-Magic]] — Đệ nhị Pháp: vận hành thế giới song song
 - [[Gate-of-Babylon]] — kho báu "khởi nguyên của mọi bảo vật"
@@ -20,4 +19,4 @@ last_updated: 2026-09-22
 - [[Command-Spells]] — lệnh chú: mất khi Servant chết (Master thường), chuyển tay, lệnh chú dự trữ
 - [[Holy-Grail]] — Chén Thánh: bình chứa và Đại Chén, ngưỡng linh hồn, bùn Angra Mainyu, đại hoả Fuyuki
 
-Template dùng cho thư mục này: `Templates/Rule-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/writing/Rule-Note.md`

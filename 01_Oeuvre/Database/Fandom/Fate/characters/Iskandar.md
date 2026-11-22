@@ -109,6 +109,6 @@ Servant Rider của **Waver Velvet**.
 - Chưa biết chính xác **giờ đồng hồ** của trận cầu (xem mục 5) và **chưa xác nhận** tên cầu trong nguyên tác.
 - Thứ tự "cầu — Rider chết — Archer đến toà thị chính": Act 16 Part 9 tóm tắt Archer tới toà thị chính lúc *-03:49:31* "hoàn toàn không hề hấn", tức sau trận cầu ~10 phút theo mã giờ (0.6).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

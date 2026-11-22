@@ -11,8 +11,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-28
 ---
 
-# MOC — KHR / rules
-
+# MOC — KHR / Power_System
 Luật thế giới của Katekyou Hitman Reborn!, dùng lại được cho mọi fic KHR.
 
 ## Hệ Flame
@@ -52,4 +51,4 @@ Một mục Notion được **xác nhận đúng**: [[Flame-Purity]] — "cần 
 
 Storm / Rain / Sun / Lightning / Cloud / Mist chưa có note riêng. Sun đã có characteristic (Activation) ghi trong [[Dying-Will-Flame]]; năm cái còn lại chưa có nguồn.
 
-Template dùng cho thư mục này: `Templates/Rule-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/writing/Rule-Note.md`

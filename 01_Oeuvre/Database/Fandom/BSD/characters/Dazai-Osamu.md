@@ -164,6 +164,6 @@ Dị năng **Nhân gian thất cách** (人間失格, *Ningen Shikkaku*): **vô 
 - Nháp [[dazai-canon-draft]] (và bản gốc `personal-bulk:fiction-sources/BSD/raw/dazai-canon.md`) chỉ dùng để **đặt câu hỏi**, không làm bằng chứng cho note này. Mấy ý của nháp **chưa tìm được nguồn**: "chuyên tra tấn", "dựng hệ thống giám sát cho tổ chức", danh hiệu "Hắc ám ám sát giả", và "chặn cả dị năng chữa trị". **Đừng coi là canon.**
 - 🔵 **Cho `Library/`, không cho fandom:** nhà văn Dazai Osamu, tiểu thuyết *人間失格* và Ōba Yōzō; nhà văn Oda Sakunosuke; nhà văn Sakaguchi Ango. Wikipedia còn ghi quan hệ Dazai–Akutagawa trong BSD **đảo ngược** sự ngưỡng mộ của nhà văn Dazai thật với nhà văn Akutagawa thật. Chuyện ngưỡng mộ đó cũng là kiến thức đời thực.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
