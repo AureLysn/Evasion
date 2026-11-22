@@ -1,12 +1,12 @@
 ---
-id: rule.sky-attraction
+id: canon.KHR.sky-attraction
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: fanon
 status: active
-aliases: ["Sky Attraction", "Harmonization", "Flame Harmonization", "fanon harmonization", "Sky attracts Elements", "Element bond", "Guardian bond", "Sky bond", "Discord", "hai hoa hoa", "thu hut Sky", "Sky va Element", "調和", "大空 調和", "调和"]
+aliases: ["Sky Attraction", "Harmonization", "Flame Harmonization", "fanon harmonization", "Sky attracts Elements", "Element bond", "Guardian bond", "Sky bond", "Discord", "hai hoa hoa", "thu hut Sky", "Sky va Element", "調和", "大空 調和", "调和", "rule.sky-attraction"]
 related: ["[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[KHR-Research-Method]]"]
 source:
   type: fandom_wiki

@@ -1,12 +1,12 @@
 ---
-id: rule.sky-flame
+id: canon.KHR.sky-flame
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Sky Flame", "Sky", "Harmony", "Armonia", "Flame of the Sky", "lua Sky", "Bau troi", "大空の炎"]
+aliases: ["Sky Flame", "Sky", "Harmony", "Armonia", "Flame of the Sky", "lua Sky", "Bau troi", "大空の炎", "rule.sky-flame"]
 related: ["[[Dying-Will-Flame]]", "[[Zero-Point-Breakthrough]]", "[[Sky-Attraction]]", "[[Vongola-Ring]]", "[[Flame-Purity]]"]
 source:
   type: fandom_wiki

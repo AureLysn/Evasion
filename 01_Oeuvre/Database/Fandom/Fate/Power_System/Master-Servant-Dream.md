@@ -1,12 +1,12 @@
 ---
-id: rule.master-servant-dream
+id: canon.Fate.master-servant-dream
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Master-Servant dream", "Master mo thay qua khu Servant", "giac mo Master Servant", "lien ket giac mo Fate", "dream link Fate", "御主梦见从者的过去"]
+aliases: ["Master-Servant dream", "Master mo thay qua khu Servant", "giac mo Master Servant", "lien ket giac mo Fate", "dream link Fate", "御主梦见从者的过去", "rule.master-servant-dream"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]", "[[Servant-Appearance]]"]
 source:
   type: fandom_wiki

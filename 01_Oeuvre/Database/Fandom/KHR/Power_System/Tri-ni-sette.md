@@ -1,12 +1,12 @@
 ---
-id: rule.tri-ni-sette
+id: canon.KHR.tri-ni-sette
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Tri-ni-sette", "Trinisette", "Tri-ni-set", "Arcobaleno Pacifier", "Arcobaleno Pacifiers", "Mare Ring", "Mare Rings", "ba bo bao vat", "トリニセッテ", "truc doc truc ngang", "vertical axis horizontal axis"]
+aliases: ["Tri-ni-sette", "Trinisette", "Tri-ni-set", "Arcobaleno Pacifier", "Arcobaleno Pacifiers", "Mare Ring", "Mare Rings", "ba bo bao vat", "トリニセッテ", "truc doc truc ngang", "vertical axis horizontal axis", "rule.tri-ni-sette"]
 related: ["[[Vongola-Ring]]", "[[Dying-Will-Flame]]", "[[Arcobaleno-Pacifier]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[Byakuran-Gesso]]", "[[Representative-Battle-Aftermath]]", "[[Simon-Famiglia]]", "[[Ten-Year-Bazooka]]"]
 source:
   type: fandom_wiki

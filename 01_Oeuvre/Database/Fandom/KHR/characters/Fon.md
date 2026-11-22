@@ -1,8 +1,9 @@
 ---
 id: character.KHR.Fon
 type: character
-scope: global
+scope: universe
 lane: personal
+universe: KHR
 canon_layer: official_canon
 status: active
 aliases: ["Fon", "Storm Arcobaleno", "Arcobaleno Bao", "I Prescelti Sette", "Fon Hibari", "Fon va Hibari co ho khong"]

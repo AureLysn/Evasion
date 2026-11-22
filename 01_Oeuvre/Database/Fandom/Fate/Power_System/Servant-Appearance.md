@@ -1,12 +1,12 @@
 ---
-id: rule.servant-appearance
+id: canon.Fate.servant-appearance
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Servant appearance", "Anh linh hien than o dang nao", "thoi hoang kim cua Anh linh", "prime of their lives", "Servant tuoi hien than", "全盛期"]
+aliases: ["Servant appearance", "Anh linh hien than o dang nao", "thoi hoang kim cua Anh linh", "prime of their lives", "Servant tuoi hien than", "全盛期", "rule.servant-appearance"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]"]
 source:
   type: fandom_wiki

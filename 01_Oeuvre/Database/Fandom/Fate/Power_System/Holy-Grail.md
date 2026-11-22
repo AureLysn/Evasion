@@ -1,12 +1,12 @@
 ---
-id: rule.holy-grail
+id: canon.Fate.holy-grail
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Holy Grail", "Holy Grail Fate/Zero", "Chen Thanh", "Chen Thanh Fate/Zero", "Chen Thanh nho", "Chen Thanh lon", "binh chua Chen Thanh", "Lesser Grail", "Greater Grail", "Angra Mainyu", "All the Evil in the World", "圣杯", "聖杯", "小圣杯", "大圣杯", "此世之恶", "この世全ての悪", "冬木大火", "Fuyuki great fire", "bun den Chen Thanh", "dai hoa Fuyuki", "Hoi truong thanh pho Fuyuki Chen Thanh"]
+aliases: ["Holy Grail", "Holy Grail Fate/Zero", "Chen Thanh", "Chen Thanh Fate/Zero", "Chen Thanh nho", "Chen Thanh lon", "binh chua Chen Thanh", "Lesser Grail", "Greater Grail", "Angra Mainyu", "All the Evil in the World", "圣杯", "聖杯", "小圣杯", "大圣杯", "此世之恶", "この世全ての悪", "冬木大火", "Fuyuki great fire", "bun den Chen Thanh", "dai hoa Fuyuki", "Hoi truong thanh pho Fuyuki Chen Thanh", "rule.holy-grail"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]", "[[Command-Spells]]", "[[Irisviel-von-Einzbern]]", "[[Kirei-Kotomine]]", "[[Kiritsugu-Emiya]]", "[[Gilgamesh-Archer]]"]
 source:
   type: franchise_canon

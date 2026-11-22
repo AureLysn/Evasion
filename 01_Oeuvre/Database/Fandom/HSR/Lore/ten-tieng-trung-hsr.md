@@ -1,12 +1,12 @@
 ---
-id: lore.HSR.ten-tieng-trung-hsr
+id: info.HSR.ten-tieng-trung-hsr
 type: info
 scope: universe
 lane: personal
 universe: HSR
 canon_layer: official_canon
 status: active
-aliases: ["ten tieng Trung HSR", "đối chiếu tên HSR", "bang ten zh HSR", "HSR Chinese names"]
+aliases: ["ten tieng Trung HSR", "đối chiếu tên HSR", "bang ten zh HSR", "HSR Chinese names", "lore.HSR.ten-tieng-trung-hsr"]
 related: ["[[_HSR-MOC]]", "[[hsr]]", "[[Amphoreus]]", "[[Penacony]]", "[[Planarcadia]]"]
 source:
   type: inference

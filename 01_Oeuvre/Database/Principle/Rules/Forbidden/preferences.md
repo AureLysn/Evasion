@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.preferences
-type: style
+id: rule.GLOBAL.preferences
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: tendency
-aliases: ["so thich", "preferences", "so thich viet cua aurel"]
+aliases: ["so thich", "preferences", "so thich viet cua aurel", "style.GLOBAL.preferences"]
 related: ["[[_PRINCIPLE-MOC]]", "[[profile]]"]
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08

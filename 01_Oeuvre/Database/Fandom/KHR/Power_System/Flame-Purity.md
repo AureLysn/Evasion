@@ -1,12 +1,12 @@
 ---
-id: rule.flame-purity
+id: canon.KHR.flame-purity
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Flame Purity", "purity", "do tinh khiet", "flame grading", "resolve", "quyet tam", "Fiamma Voltage", "FV"]
+aliases: ["Flame Purity", "purity", "do tinh khiet", "flame grading", "resolve", "quyet tam", "Fiamma Voltage", "FV", "rule.flame-purity"]
 related: ["[[Dying-Will-Flame]]", "[[Hard-Soft-Flame]]", "[[Zero-Point-Breakthrough]]"]
 source:
   type: fandom_wiki

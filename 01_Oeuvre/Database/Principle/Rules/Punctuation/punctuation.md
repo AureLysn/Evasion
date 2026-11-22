@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.punctuation
-type: style
+id: rule.GLOBAL.punctuation
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: hard
-aliases: ["dau cau", "punctuation", "quy tac dau cau"]
+aliases: ["dau cau", "punctuation", "quy tac dau cau", "style.GLOBAL.punctuation"]
 related: ["[[_PRINCIPLE-MOC]]"]
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08

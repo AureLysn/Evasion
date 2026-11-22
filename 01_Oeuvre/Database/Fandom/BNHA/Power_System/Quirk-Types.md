@@ -1,12 +1,12 @@
 ---
-id: rule.quirk-types
+id: canon.BNHA.quirk-types
 type: canon
 scope: universe
 lane: personal
 universe: BNHA
 canon_layer: official_canon
 status: active
-aliases: ["ba loai quirk", "Quirk types", "Emitter", "Transformation", "Mutant", "Heteromorphic", "phat dong", "bien hinh", "di hinh", "発動", "変形", "異形", "mutant type quirk", "quirk dang di hinh"]
+aliases: ["ba loai quirk", "Quirk types", "Emitter", "Transformation", "Mutant", "Heteromorphic", "phat dong", "bien hinh", "di hinh", "発動", "変形", "異形", "mutant type quirk", "quirk dang di hinh", "rule.quirk-types"]
 related: ["[[Quirk]]", "[[One-For-All]]", "[[bnha|hồ sơ universe BNHA]]"]
 source:
   type: fandom_wiki

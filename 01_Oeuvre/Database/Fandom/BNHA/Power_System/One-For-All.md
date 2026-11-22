@@ -1,12 +1,12 @@
 ---
-id: rule.one-for-all
+id: canon.BNHA.one-for-all
 type: canon
 scope: universe
 lane: personal
 universe: BNHA
 canon_layer: official_canon
 status: active
-aliases: ["One For All", "OFA", "ワン・フォー・オール", "quirk cua All Might", "truyen quirk", "chin doi chu nhan", "nuot DNA", "vestige", "Right of Blood"]
+aliases: ["One For All", "OFA", "ワン・フォー・オール", "quirk cua All Might", "truyen quirk", "chin doi chu nhan", "nuot DNA", "vestige", "Right of Blood", "rule.one-for-all"]
 related: ["[[Quirk]]", "[[Quirk-Types]]", "[[All-For-One]]", "[[bnha|hồ sơ universe BNHA]]"]
 source:
   type: fandom_wiki

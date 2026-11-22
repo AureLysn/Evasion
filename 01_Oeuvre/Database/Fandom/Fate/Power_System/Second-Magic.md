@@ -1,12 +1,12 @@
 ---
-id: rule.second-magic
+id: canon.Fate.second-magic
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Second Magic", "De nhi Phap", "第二魔法", "第二法", "Kaleidoscope", "Zelretch", "van hanh the gioi song song", "Operation of Parallel Worlds"]
+aliases: ["Second Magic", "De nhi Phap", "第二魔法", "第二法", "Kaleidoscope", "Zelretch", "van hanh the gioi song song", "Operation of Parallel Worlds", "rule.second-magic"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]"]
 source:
   type: fandom_wiki

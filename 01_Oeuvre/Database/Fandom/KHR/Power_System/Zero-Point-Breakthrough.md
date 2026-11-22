@@ -1,12 +1,12 @@
 ---
-id: rule.zero-point-breakthrough
+id: canon.KHR.zero-point-breakthrough
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Zero Point Breakthrough", "ZPB", "Zero Point Breakthrough: First Edition", "Zero Point Breakthrough: Revised", "First Edition", "Revised", "Diem Khong", "Zero Point", "零地点突破"]
+aliases: ["Zero Point Breakthrough", "ZPB", "Zero Point Breakthrough: First Edition", "Zero Point Breakthrough: Revised", "First Edition", "Revised", "Diem Khong", "Zero Point", "零地点突破", "rule.zero-point-breakthrough"]
 related: ["[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[Flame-Purity]]", "[[Vongola-Ring]]"]
 source:
   type: fandom_wiki

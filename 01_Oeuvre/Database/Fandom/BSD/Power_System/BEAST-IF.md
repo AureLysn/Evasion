@@ -1,12 +1,12 @@
 ---
-id: rule.beast-if
+id: canon.BSD.beast-if
 type: canon
 scope: universe
 lane: personal
 universe: BSD
 canon_layer: official_canon
 status: active
-aliases: ["BEAST", "BSD BEAST", "Bungo Stray Dogs BEAST", "Bungou Stray Dogs BEAST", "文豪ストレイドッグス BEAST", "BEAST 白の芥川、黒の敦", "Shiro no Akutagawa Kuro no Atsushi", "Akutagawa the White Atsushi the Black", "White Akutagawa Black Atsushi", "BEAST IF", "IF BEAST", "the gioi BEAST", "tuyen IF BEAST", "Dazai boss Port Mafia", "Dazai thu linh Port Mafia", "ke hoach nam giai doan cua Dazai", "Dazai nhay lau", "Bungo Stray Dogs The Movie Beast", "phim BEAST live-action"]
+aliases: ["BEAST", "BSD BEAST", "Bungo Stray Dogs BEAST", "Bungou Stray Dogs BEAST", "文豪ストレイドッグス BEAST", "BEAST 白の芥川、黒の敦", "Shiro no Akutagawa Kuro no Atsushi", "Akutagawa the White Atsushi the Black", "White Akutagawa Black Atsushi", "BEAST IF", "IF BEAST", "the gioi BEAST", "tuyen IF BEAST", "Dazai boss Port Mafia", "Dazai thu linh Port Mafia", "ke hoach nam giai doan cua Dazai", "Dazai nhay lau", "Bungo Stray Dogs The Movie Beast", "phim BEAST live-action", "rule.beast-if"]
 related: ["[[bsd]]", "[[The-Book]]", "[[Dazai-Osamu-BEAST]]", "[[Sakunosuke-Oda]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Nakahara-Chuuya]]"]
 source:
   type: fandom_wiki

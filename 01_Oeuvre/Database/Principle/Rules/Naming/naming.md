@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.naming
-type: style
+id: rule.GLOBAL.naming
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: hard
-aliases: ["ten rieng", "fiction-naming", "thuat ngu", "quy tac dat ten rieng"]
+aliases: ["ten rieng", "fiction-naming", "thuat ngu", "quy tac dat ten rieng", "style.GLOBAL.naming"]
 related: ["[[_PRINCIPLE-MOC]]", "[[quy-uoc-ma-project]]"]
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08

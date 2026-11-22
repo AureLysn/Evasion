@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.prose
-type: style
+id: rule.GLOBAL.prose
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: tendency
-aliases: ["prose", "van xuoi", "quy tac van xuoi"]
+aliases: ["prose", "van xuoi", "quy tac van xuoi", "style.GLOBAL.prose"]
 related: ["[[_PRINCIPLE-MOC]]", "[[concrete-specific-detail]]", "[[show-and-tell-balance]]", "[[exposition-through-action]]", "[[vary-sentence-length]]"]
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [s/prose]
