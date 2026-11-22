@@ -6,7 +6,7 @@ lane: personal
 universe: HSR
 canon_layer: official_canon
 status: active
-aliases: ["Lan", "岚", "Lan the Hunt", "Aeon Hunt", "The Hunt", "Hunt", "巡猎", "Săn bắn", "San ban", "Tuần săn", "tuan liep", "Aeon Săn bắn", "Aeon San ban", "Reignbow Arbiter", "帝弓司命", "Xianzhou Alliance", "仙舟联盟", "Cloud Knights", "云骑军", "lenh su San ban", "lệnh sứ Săn bắn", "Lux Arrow", "Tư Mệnh Đế Cung", "Tu Menh De Cung", "Đế Cung", "Yaoshi Trù Phú", "Cảnh Binh Thiên Hà", "Canh Binh Thien Ha", "Galaxy Rangers", "Boothill", "Acheron gia Canh Binh", "Ashveil", "Rappa", "thanh vien Canh Binh"]
+aliases: ["Lan", "岚", "Lan the Hunt", "Aeon Hunt", "The Hunt", "Hunt", "巡猎", "Săn bắn", "San ban", "Tuần săn", "tuan liep", "Aeon Săn bắn", "Aeon San ban", "Reignbow Arbiter", "帝弓司命", "Lan lien quan Xianzhou Alliance", "Lan lien quan 仙舟联盟", "Lan lien quan Cloud Knights", "Lan lien quan 云骑军", "lenh su San ban", "lệnh sứ Săn bắn", "Lux Arrow", "Tư Mệnh Đế Cung", "Tu Menh De Cung", "Đế Cung", "Lan lien quan Yaoshi Trù Phú", "Lan lien quan Cảnh Binh Thiên Hà", "Lan lien quan Canh Binh Thien Ha", "Lan lien quan Galaxy Rangers", "Lan lien quan Boothill", "Lan lien quan Acheron gia Canh Binh", "Lan lien quan Ashveil", "Lan lien quan Rappa", "Lan lien quan thanh vien Canh Binh"]
 related: ["[[hsr]]", "[[Emanator]]"]
 source:
   type: fandom_wiki

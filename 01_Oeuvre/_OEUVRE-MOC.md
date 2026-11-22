@@ -29,6 +29,7 @@ Dữ liệu lore, canon nguyên tác và quy tắc dùng chung giữa các tác 
 | **Quy tắc & Kỹ thuật viết** | [[_PRINCIPLE-MOC]] | Luật cấm & sở thích ([[forbidden-patterns]], [[preferences]]), quy ước tên & mã ([[naming]], [[quy-uoc-ma-project]]), đại từ [[pronouns]], dấu câu [[punctuation]], kỹ thuật [[continuity]], [[dialogue]], [[pacing]], [[prose]]. |
 | **Thể loại & Tropes** | [[_TAXONOMY-MOC]] | 12 thể loại văn học mạng ([[abo-omegaverse]], [[crossover-fusion-tong-man]], [[he-thong-van]], [[quan-anh-the-reaction-fic]], [[vo-han-luu]],...) và tropes ([[soulmate-au-trope]]). |
 | **Nghiên cứu & Nguồn** | [[_RESEARCHER-MOC]] | Phương pháp tra cứu fandom [[KHR-Research-Method]], danh mục raw [[Nguon-Truy-Cap-Duoc]] và danh sách tìm kiếm đa ngữ [[KHR_Multilingual_Search_List]]. |
+| **Giả thuyết của Aurel** | [[_THEORY-MOC]] | Headcanon và giả thuyết dùng chung nhiều project, tách khỏi kho canon *(Aurel 22/11/2026)*: [[gia-thuyet-khr-cua-aurel]] |
 | **Nguyên mẫu SI / OC** | [[_SI_OC-MOC]] | Hồ sơ nhân vật gốc / SI OC: [[05_Evasion/01_Oeuvre/Database/SI_OC/Dao_si/thien-su|thien-su]] (Thiên sư bị trục xuất, 16 tuổi, nghiên cứu cấm thuật). |
 
 ---

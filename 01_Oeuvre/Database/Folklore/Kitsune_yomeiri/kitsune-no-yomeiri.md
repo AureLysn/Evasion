@@ -43,7 +43,7 @@ Cách hiểu dân gian: cáo tổ chức đám cưới dưới cơn mưa nắng 
 
 ## Vì sao note này đáng có
 
-Đây là **hạt giống của cả một fic**: tác giả EMB nói thẳng rằng **kitsune taimatsu là nguồn cảm hứng** của truyện — một điềm lành, một đám rước, và một cô dâu.
+Tác giả EMB ghi trong chú thích rằng **kitsune taimatsu là nguồn cảm hứng** của truyện *(nguồn gốc của note)*.
 
 Mô-típ này dùng lại được ở bất kỳ fic nào cần: một nghi lễ có thật · một điềm trời · một lý do hợp lý để cả một thị trấn ra đường ban đêm.
 
@@ -60,5 +60,7 @@ Mô-típ này dùng lại được ở bất kỳ fic nào cần: một nghi l�
 *kitsune taimatsu* ở Akita và Yamagata *(xem cảnh báo bên trên)* · các dị bản về việc "không được nhìn" · có nơi nào để cô dâu lại một mình tới rạng đông không — **Wikipedia không nói tới chi tiết ấy**
 
 ## Fic nào dùng theo hướng nào
+
+- **EMB:** hạt giống của cả truyện — một điềm lành, một đám rước, và một cô dâu *(theo chú thích của tác giả)*.
 
 - **EMB** — [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/world-rules/fact-inari-va-kitsune|fact-inari-va-kitsune]] · [[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/events/le-cuoi-cao|le-cuoi-cao]]: Namimori xử mưa nắng mùa đông như **một nghi lễ thật**, có rước và có lễ hội suốt đêm

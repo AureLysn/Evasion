@@ -6,7 +6,7 @@ lane: personal
 canon_layer: user_canon
 status: active
 aliases: ["gia thuyet KHR cua Aurel", "he thong gia thuyet KHR", "Aurel headcanon KHR", "MyTheory KHR", "AI_Summary theory KHR", "gia thuyet Iemitsu cua Aurel", "danh gia Iemitsu Aurel", "luan de Tsuna it quan trong nhat"]
-related: ["[[_KHR-MOC]]", "[[Sawada-Tsunayoshi]]"]
+related: ["[[_THEORY-MOC]]", "[[_KHR-MOC]]", "[[Sawada-Tsunayoshi]]"]
 source:
   type: user_input
   ref: "Aurel 28/09/2026 chi file nay khi duoc hoi 'gia thuyet cua minh ve nhan vat' (Iemitsu). File: ban TONG HOP do AI viet tu ghi chu gia thuyet cua Aurel (tu xung 'cach hieu cua ban'), tao 2026-07-24, creator AureLysn"
@@ -83,10 +83,11 @@ nào nhắc Iemitsu**. Nên với phần Iemitsu, bản tổng hợp này là **
 
 ## Dùng thế nào
 
-- Bản tổng hợp tự ghi là **"không bao gồm AU"**. Project nào đặt Iemitsu vào một AU (ví dụ TDTB: thế giới song song, ABO, Tsuna lớn
-  lên như người thường) thì dùng đánh giá này như **nhân cách gốc**. Hoàn cảnh cụ thể trong AU là việc của project đó.
+- Bản tổng hợp tự ghi là **"không bao gồm AU"**. Project nào đặt Iemitsu vào một AU thì dùng đánh giá này như **nhân cách gốc**. Hoàn cảnh cụ thể trong AU là việc của project đó.
 - Không trích như canon. Giữ nhãn **headcanon của Aurel**.
 
 ## Fic nào dùng theo hướng nào
+
+- **TDTB** *(AU: thế giới song song, ABO, Tsuna lớn lên như người thường)*: dùng đánh giá Iemitsu như nhân cách gốc.
 
 - **TDTB:** quyết định [[05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/decisions/qd-cha-la-iemitsu-tdtb|qd-cha-la-iemitsu-tdtb]] dựa trên giả thuyết này.
