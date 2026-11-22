@@ -1,12 +1,12 @@
 ---
-id: rule.flame-of-night
+id: canon.KHR.flame-of-night
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Flame of Night", "夜の炎", "Yoru no Hono", "ngon lua dem", "The Eighth Element", "nguyen to thu tam"]
+aliases: ["Flame of Night", "夜の炎", "Yoru no Hono", "ngon lua dem", "The Eighth Element", "nguyen to thu tam", "rule.flame-of-night"]
 related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice]]", "[[Arcobaleno-Pacifier]]", "[[Dying-Will-Flame]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]"]
 source:
   type: fandom_wiki

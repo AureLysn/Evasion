@@ -1,12 +1,12 @@
 ---
-id: rule.arcobaleno-pacifier
+id: canon.KHR.arcobaleno-pacifier
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Arcobaleno Pacifier", "Pacifier", "num vu Arcobaleno", "Orange Pacifier", "num vu cam", "num vu bau troi", "Sky Pacifier", "おしゃぶり", "ung vien Arcobaleno"]
+aliases: ["Arcobaleno Pacifier", "Pacifier", "num vu Arcobaleno", "Orange Pacifier", "num vu cam", "num vu bau troi", "Sky Pacifier", "おしゃぶり", "ung vien Arcobaleno", "rule.arcobaleno-pacifier"]
 related: ["[[Tri-ni-sette]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[Sky-Flame]]", "[[Representative-Battle-Aftermath]]"]
 source:
   type: fandom_wiki

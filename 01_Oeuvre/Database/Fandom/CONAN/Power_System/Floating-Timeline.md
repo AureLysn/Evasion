@@ -1,12 +1,12 @@
 ---
-id: rule.floating-timeline
+id: canon.CONAN.floating-timeline
 type: canon
 scope: universe
 lane: personal
 universe: CONAN
 canon_layer: author_confirmed
 status: active
-aliases: ["Floating Timeline", "floating timeline Conan", "Sazae-san time", "Sazae-san jikū", "サザエさん時空", "コナン時空", "dong thoi gian troi", "dòng thời gian trôi", "thoi gian Conan", "thời gian Conan", "Conan nua nam", "Conan nửa năm", "30 nam nua nam", "30 năm nửa năm", "20 nam nhu mot nam", "20 năm như một năm", "Conan bi teo bao lau", "Conan bị teo bao lâu", "time skip Conan", "Suwa Michihiko"]
+aliases: ["Floating Timeline", "floating timeline Conan", "Sazae-san time", "Sazae-san jikū", "サザエさん時空", "コナン時空", "dong thoi gian troi", "dòng thời gian trôi", "thoi gian Conan", "thời gian Conan", "Conan nua nam", "Conan nửa năm", "30 nam nua nam", "30 năm nửa năm", "20 nam nhu mot nam", "20 năm như một năm", "Conan bi teo bao lau", "Conan bị teo bao lâu", "time skip Conan", "Suwa Michihiko", "rule.floating-timeline"]
 related: ["[[conan]]", "[[_CONAN-MOC]]", "[[Edogawa-Conan]]", "[[Beika-Murder-Rate]]"]
 source:
   type: fandom_wiki

@@ -1,12 +1,12 @@
 ---
-id: rule.the-book
+id: canon.BSD.the-book
 type: canon
 scope: universe
 lane: personal
 universe: BSD
 canon_layer: official_canon
 status: active
-aliases: ["The Book", "Cuon Sach BSD", "［书］", "書", "sach viet gi thanh that", "trang sach bi danh cap", "BEAST Book", "the gioi tiem nang trong Sach", "diem ky di", "singularity BEAST", "chi hai nguoi duoc biet"]
+aliases: ["The Book", "Cuon Sach BSD", "［书］", "書", "sach viet gi thanh that", "trang sach bi danh cap", "BEAST Book", "the gioi tiem nang trong Sach", "diem ky di", "singularity BEAST", "chi hai nguoi duoc biet", "rule.the-book"]
 related: ["[[bsd]]", "[[Sakunosuke-Oda]]", "[[BEAST-IF]]", "[[Dazai-Osamu-BEAST]]"]
 source:
   type: fandom_wiki

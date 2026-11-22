@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.continuity
-type: style
+id: rule.GLOBAL.continuity
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: hard
-aliases: ["continuity", "lien tuc", "nguyen tac giu lien tuc"]
+aliases: ["continuity", "lien tuc", "nguyen tac giu lien tuc", "style.GLOBAL.continuity"]
 related: ["[[_PRINCIPLE-MOC]]", "[[05-visibility]]", "[[03-precedence]]", "[[07-state]]", "[[one-point-of-view-per-scene]]"]
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]

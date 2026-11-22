@@ -1,12 +1,12 @@
 ---
-id: rule.command-spells
+id: canon.Fate.command-spells
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Command Spells", "Command Seals", "lenh chu Fate", "令咒", "chuyen lenh chu", "lenh chu sau khi Servant chet", "预托令咒", "lenh chu va Enkidu", "lenh chu dich chuyen"]
+aliases: ["Command Spells", "Command Seals", "lenh chu Fate", "令咒", "chuyen lenh chu", "lenh chu sau khi Servant chet", "预托令咒", "lenh chu va Enkidu", "lenh chu dich chuyen", "rule.command-spells"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]", "[[Kirei-Kotomine]]", "[[Sola-Ui-Nuada-Re-Sophia-Ri]]", "[[Kayneth-El-Melloi-Archibald]]", "[[Kariya-Matou]]", "[[Gilgamesh-Archer]]"]
 source:
   type: fandom_wiki

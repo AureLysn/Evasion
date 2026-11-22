@@ -1,12 +1,12 @@
 ---
-id: rule.star-plasma-vessel
+id: canon.JJK.star-plasma-vessel
 type: canon
 scope: universe
 lane: personal
 universe: JJK
 canon_layer: official_canon
 status: active
-aliases: ["Star Plasma Vessel", "Tinh Tương Thể", "vật chứa Tengen", "星漿體"]
+aliases: ["Star Plasma Vessel", "Tinh Tương Thể", "vật chứa Tengen", "星漿體", "rule.star-plasma-vessel"]
 related: ["[[Tengen]]", "[[Riko-Amanai]]", "[[Kenjaku]]", "[[Time-Vessel-Association]]", "[[Hidden-Inventory-Premature-Death]]", "[[jjk]]"]
 source:
   type: fandom_wiki

@@ -1,12 +1,12 @@
 ---
-id: rule.dying-will-flame
+id: canon.KHR.dying-will-flame
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Dying Will Flame", "Dying Will Flames", "DWF", "Flame", "Flames", "Ngon lua Y chi Hap hoi", "死ぬ気の炎", "Fiamma della Morte"]
+aliases: ["Dying Will Flame", "Dying Will Flames", "DWF", "Flame", "Flames", "Ngon lua Y chi Hap hoi", "死ぬ気の炎", "Fiamma della Morte", "rule.dying-will-flame"]
 related: ["[[Sky-Flame]]", "[[Flame-Purity]]", "[[Hard-Soft-Flame]]", "[[universe]]"]
 source:
   type: fandom_wiki

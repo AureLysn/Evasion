@@ -1,12 +1,12 @@
 ---
-id: rule.ten-year-bazooka
+id: canon.KHR.ten-year-bazooka
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Ten-Year Bazooka", "Ten Year Bazooka", "10-Year Bazooka", "10年バズーカ", "十年火箭筒", "sung bazooka 10 nam", "bazooka muoi nam", "Twenty-Year Bazooka", "20 nam sau", "Lambo bazooka", "Bovino Famiglia bazooka"]
+aliases: ["Ten-Year Bazooka", "Ten Year Bazooka", "10-Year Bazooka", "10年バズーカ", "十年火箭筒", "sung bazooka 10 nam", "bazooka muoi nam", "Twenty-Year Bazooka", "20 nam sau", "Lambo bazooka", "Bovino Famiglia bazooka", "rule.ten-year-bazooka"]
 related: ["[[Tri-ni-sette]]", "[[Byakuran-Gesso]]"]
 source:
   type: fandom_wiki

@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.pronouns
-type: style
+id: rule.GLOBAL.pronouns
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: hard
-aliases: ["xung ho", "pronouns", "dai tu", "xung ho tieng viet"]
+aliases: ["xung ho", "pronouns", "dai tu", "xung ho tieng viet", "style.GLOBAL.pronouns"]
 related: ["[[_PRINCIPLE-MOC]]"]
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]

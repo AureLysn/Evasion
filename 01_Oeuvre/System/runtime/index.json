@@ -4235,17 +4235,19 @@
     "vestige",
     "y chi nguoi cu chiem xac",
     "Life Force",
-    "bat lao"
+    "bat lao",
+    "rule.all-for-one"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.all-for-one",
+   "id": "canon.BNHA.all-for-one",
    "keys": [
     "afo",
     "all for one",
     "bat lao",
+    "canon bnha all for one",
     "cuop quirk",
     "life force",
     "quirk cua trum phan dien",
@@ -4280,14 +4282,16 @@
     "chin doi chu nhan",
     "nuot DNA",
     "vestige",
-    "Right of Blood"
+    "Right of Blood",
+    "rule.one-for-all"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.one-for-all",
+   "id": "canon.BNHA.one-for-all",
    "keys": [
+    "canon bnha one for all",
     "chin doi chu nhan",
     "nuot dna",
     "ofa",
@@ -4329,16 +4333,18 @@
     "変形",
     "異形",
     "mutant type quirk",
-    "quirk dang di hinh"
+    "quirk dang di hinh",
+    "rule.quirk-types"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.quirk-types",
+   "id": "canon.BNHA.quirk-types",
    "keys": [
     "ba loai quirk",
     "bien hinh",
+    "canon bnha quirk types",
     "di hinh",
     "emitter",
     "heteromorphic",
@@ -4384,16 +4390,18 @@
     "vo cá tính",
     "Awakening",
     "Quirk Singularity",
-    "khop ngon chan ut"
+    "khop ngon chan ut",
+    "rule.quirk"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.quirk",
+   "id": "canon.BNHA.quirk",
    "keys": [
     "awakening",
     "ca tinh",
+    "canon bnha quirk",
     "di truyen quirk",
     "hon nhan quirk",
     "khop ngon chan ut",
@@ -6079,13 +6087,14 @@
     "ke hoach nam giai doan cua Dazai",
     "Dazai nhay lau",
     "Bungo Stray Dogs The Movie Beast",
-    "phim BEAST live-action"
+    "phim BEAST live-action",
+    "rule.beast-if"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.6,
-   "id": "rule.beast-if",
+   "id": "canon.BSD.beast-if",
    "keys": [
     "akutagawa the white atsushi the black",
     "beast",
@@ -6095,6 +6104,7 @@
     "bungo stray dogs beast",
     "bungo stray dogs the movie beast",
     "bungou stray dogs beast",
+    "canon bsd beast if",
     "dazai boss port mafia",
     "dazai nhay lau",
     "dazai thu linh port mafia",
@@ -6136,15 +6146,17 @@
     "the gioi tiem nang trong Sach",
     "diem ky di",
     "singularity BEAST",
-    "chi hai nguoi duoc biet"
+    "chi hai nguoi duoc biet",
+    "rule.the-book"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.the-book",
+   "id": "canon.BSD.the-book",
    "keys": [
     "beast book",
+    "canon bsd the book",
     "chi hai nguoi duoc biet",
     "cuon sach bsd",
     "diem ky di",
@@ -7284,18 +7296,20 @@
     "Conan bi teo bao lau",
     "Conan bị teo bao lâu",
     "time skip Conan",
-    "Suwa Michihiko"
+    "Suwa Michihiko",
+    "rule.floating-timeline"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "author_confirmed",
    "confidence": 0.75,
-   "id": "rule.floating-timeline",
+   "id": "canon.CONAN.floating-timeline",
    "keys": [
     "20 nam nhu mot nam",
     "20 năm như một năm",
     "30 nam nua nam",
     "30 năm nửa năm",
+    "canon conan floating timeline",
     "conan bi teo bao lau",
     "conan bị teo bao lâu",
     "conan nua nam",
@@ -8862,14 +8876,16 @@
     "lenh chu sau khi Servant chet",
     "预托令咒",
     "lenh chu va Enkidu",
-    "lenh chu dich chuyen"
+    "lenh chu dich chuyen",
+    "rule.command-spells"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.command-spells",
+   "id": "canon.Fate.command-spells",
    "keys": [
+    "canon fate command spells",
     "chuyen lenh chu",
     "command seals",
     "command spells",
@@ -8903,14 +8919,16 @@
     "王の財宝",
     "Kho bau cua Gilgamesh",
     "khoi nguyen cua moi bao vat",
-    "origins of all treasures"
+    "origins of all treasures",
+    "rule.gate-of-babylon"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.gate-of-babylon",
+   "id": "canon.Fate.gate-of-babylon",
    "keys": [
+    "canon fate gate of babylon",
     "gate of babylon",
     "kho bau cua gilgamesh",
     "khoi nguyen cua moi bao vat",
@@ -8957,18 +8975,20 @@
     "Fuyuki great fire",
     "bun den Chen Thanh",
     "dai hoa Fuyuki",
-    "Hoi truong thanh pho Fuyuki Chen Thanh"
+    "Hoi truong thanh pho Fuyuki Chen Thanh",
+    "rule.holy-grail"
    ],
    "always_load": false,
    "authority": "franchise",
    "canon_layer": "official_canon",
    "confidence": 0.7,
-   "id": "rule.holy-grail",
+   "id": "canon.Fate.holy-grail",
    "keys": [
     "all the evil in the world",
     "angra mainyu",
     "binh chua chen thanh",
     "bun den chen thanh",
+    "canon fate holy grail",
     "chen thanh",
     "chen thanh fate zero",
     "chen thanh lon",
@@ -9011,14 +9031,16 @@
     "giac mo Master Servant",
     "lien ket giac mo Fate",
     "dream link Fate",
-    "御主梦见从者的过去"
+    "御主梦见从者的过去",
+    "rule.master-servant-dream"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.master-servant-dream",
+   "id": "canon.Fate.master-servant-dream",
    "keys": [
+    "canon fate master servant dream",
     "dream link fate",
     "giac mo master servant",
     "lien ket giac mo fate",
@@ -9051,14 +9073,16 @@
     "Kaleidoscope",
     "Zelretch",
     "van hanh the gioi song song",
-    "Operation of Parallel Worlds"
+    "Operation of Parallel Worlds",
+    "rule.second-magic"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.9,
-   "id": "rule.second-magic",
+   "id": "canon.Fate.second-magic",
    "keys": [
+    "canon fate second magic",
     "de nhi phap",
     "kaleidoscope",
     "operation of parallel worlds",
@@ -9091,15 +9115,17 @@
     "thoi hoang kim cua Anh linh",
     "prime of their lives",
     "Servant tuoi hien than",
-    "全盛期"
+    "全盛期",
+    "rule.servant-appearance"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.servant-appearance",
+   "id": "canon.Fate.servant-appearance",
    "keys": [
     "anh linh hien than o dang nao",
+    "canon fate servant appearance",
     "prime of their lives",
     "rule servant appearance",
     "servant appearance",
@@ -10559,17 +10585,19 @@
     "ten tieng Trung HSR",
     "đối chiếu tên HSR",
     "bang ten zh HSR",
-    "HSR Chinese names"
+    "HSR Chinese names",
+    "lore.HSR.ten-tieng-trung-hsr"
    ],
    "always_load": false,
    "authority": "ai",
    "canon_layer": "official_canon",
    "confidence": 0.7,
-   "id": "lore.HSR.ten-tieng-trung-hsr",
+   "id": "info.HSR.ten-tieng-trung-hsr",
    "keys": [
     "bang ten zh hsr",
     "doi chieu ten hsr",
     "hsr chinese names",
+    "info hsr ten tieng trung hsr",
     "lore hsr ten tieng trung hsr",
     "ten tieng trung hsr",
     "đối chiếu tên hsr"
@@ -11292,14 +11320,16 @@
     "Star Plasma Vessel",
     "Tinh Tương Thể",
     "vật chứa Tengen",
-    "星漿體"
+    "星漿體",
+    "rule.star-plasma-vessel"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.6,
-   "id": "rule.star-plasma-vessel",
+   "id": "canon.JJK.star-plasma-vessel",
    "keys": [
+    "canon jjk star plasma vessel",
     "rule star plasma vessel",
     "star plasma vessel",
     "tinh tuong the",
@@ -11858,7 +11888,7 @@
    "last_updated": "2026-09-16",
    "path": "05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Fon.md",
    "project": "",
-   "scope": "global",
+   "scope": "universe",
    "status": "active",
    "strength": "",
    "tags": [
@@ -13815,15 +13845,17 @@
     "num vu bau troi",
     "Sky Pacifier",
     "おしゃぶり",
-    "ung vien Arcobaleno"
+    "ung vien Arcobaleno",
+    "rule.arcobaleno-pacifier"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.arcobaleno-pacifier",
+   "id": "canon.KHR.arcobaleno-pacifier",
    "keys": [
     "arcobaleno pacifier",
+    "canon khr arcobaleno pacifier",
     "num vu arcobaleno",
     "num vu bau troi",
     "num vu cam",
@@ -13859,14 +13891,16 @@
     "Flames",
     "Ngon lua Y chi Hap hoi",
     "死ぬ気の炎",
-    "Fiamma della Morte"
+    "Fiamma della Morte",
+    "rule.dying-will-flame"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.dying-will-flame",
+   "id": "canon.KHR.dying-will-flame",
    "keys": [
+    "canon khr dying will flame",
     "dwf",
     "dying will flame",
     "dying will flames",
@@ -13899,14 +13933,16 @@
     "Yoru no Hono",
     "ngon lua dem",
     "The Eighth Element",
-    "nguyen to thu tam"
+    "nguyen to thu tam",
+    "rule.flame-of-night"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.flame-of-night",
+   "id": "canon.KHR.flame-of-night",
    "keys": [
+    "canon khr flame of night",
     "flame of night",
     "ngon lua dem",
     "nguyen to thu tam",
@@ -13939,14 +13975,16 @@
     "resolve",
     "quyet tam",
     "Fiamma Voltage",
-    "FV"
+    "FV",
+    "rule.flame-purity"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.flame-purity",
+   "id": "canon.KHR.flame-purity",
    "keys": [
+    "canon khr flame purity",
     "do tinh khiet",
     "fiamma voltage",
     "flame grading",
@@ -13979,14 +14017,16 @@
     "Hard/Soft Flame",
     "lua cung",
     "lua mem",
-    "X-Gloves Version Vongola Ring"
+    "X-Gloves Version Vongola Ring",
+    "rule.hard-soft-flame"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.hard-soft-flame",
+   "id": "canon.KHR.hard-soft-flame",
    "keys": [
+    "canon khr hard soft flame",
     "hard flame",
     "hard soft flame",
     "lua cung",
@@ -14026,14 +14066,16 @@
     "Sky va Element",
     "調和",
     "大空 調和",
-    "调和"
+    "调和",
+    "rule.sky-attraction"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "fanon",
    "confidence": 0.9,
-   "id": "rule.sky-attraction",
+   "id": "canon.KHR.sky-attraction",
    "keys": [
+    "canon khr sky attraction",
     "discord",
     "element bond",
     "fanon harmonization",
@@ -14075,16 +14117,18 @@
     "Flame of the Sky",
     "lua Sky",
     "Bau troi",
-    "大空の炎"
+    "大空の炎",
+    "rule.sky-flame"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.sky-flame",
+   "id": "canon.KHR.sky-flame",
    "keys": [
     "armonia",
     "bau troi",
+    "canon khr sky flame",
     "flame of the sky",
     "harmony",
     "lua sky",
@@ -14120,13 +14164,14 @@
     "Twenty-Year Bazooka",
     "20 nam sau",
     "Lambo bazooka",
-    "Bovino Famiglia bazooka"
+    "Bovino Famiglia bazooka",
+    "rule.ten-year-bazooka"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.8,
-   "id": "rule.ten-year-bazooka",
+   "id": "canon.KHR.ten-year-bazooka",
    "keys": [
     "10 year bazooka",
     "10年ハスーカ",
@@ -14134,6 +14179,7 @@
     "20 nam sau",
     "bazooka muoi nam",
     "bovino famiglia bazooka",
+    "canon khr ten year bazooka",
     "lambo bazooka",
     "rule ten year bazooka",
     "sung bazooka 10 nam",
@@ -14168,17 +14214,19 @@
     "ba bo bao vat",
     "トリニセッテ",
     "truc doc truc ngang",
-    "vertical axis horizontal axis"
+    "vertical axis horizontal axis",
+    "rule.tri-ni-sette"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.tri-ni-sette",
+   "id": "canon.KHR.tri-ni-sette",
    "keys": [
     "arcobaleno pacifier",
     "arcobaleno pacifiers",
     "ba bo bao vat",
+    "canon khr tri ni sette",
     "mare ring",
     "mare rings",
     "rule tri ni sette",
@@ -14225,14 +14273,16 @@
     "Leone di Cieli ver. Vongola",
     "su tu Bau troi",
     "Mantello di Vongola Primo",
-    "Mitena di Vongola Primo"
+    "Mitena di Vongola Primo",
+    "rule.vongola-ring"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.vongola-ring",
+   "id": "canon.KHR.vongola-ring",
    "keys": [
+    "canon khr vongola ring",
     "leone di cieli ver vongola",
     "mantello di vongola primo",
     "mitena di vongola primo",
@@ -14282,14 +14332,16 @@
     "Revised",
     "Diem Khong",
     "Zero Point",
-    "零地点突破"
+    "零地点突破",
+    "rule.zero-point-breakthrough"
    ],
    "always_load": false,
    "authority": "fandom",
    "canon_layer": "official_canon",
    "confidence": 0.85,
-   "id": "rule.zero-point-breakthrough",
+   "id": "canon.KHR.zero-point-breakthrough",
    "keys": [
+    "canon khr zero point breakthrough",
     "diem khong",
     "first edition",
     "revised",
@@ -14855,19 +14907,21 @@
     "cam",
     "forbidden",
     "AI patterns",
-    "cac mau van can tranh"
+    "cac mau van can tranh",
+    "style.GLOBAL.forbidden-patterns"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.forbidden-patterns",
+   "id": "rule.GLOBAL.forbidden-patterns",
    "keys": [
     "ai patterns",
     "cac mau van can tranh",
     "cam",
     "forbidden",
     "forbidden patterns",
+    "rule global forbidden patterns",
     "style global forbidden patterns"
    ],
    "lane": "personal",
@@ -14882,22 +14936,24 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 333
   },
   {
    "aliases": [
     "so thich",
     "preferences",
-    "so thich viet cua aurel"
+    "so thich viet cua aurel",
+    "style.GLOBAL.preferences"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.preferences",
+   "id": "rule.GLOBAL.preferences",
    "keys": [
     "preferences",
+    "rule global preferences",
     "so thich",
     "so thich viet cua aurel",
     "style global preferences"
@@ -14914,7 +14970,7 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 217
   },
   {
@@ -14922,17 +14978,19 @@
     "ten rieng",
     "fiction-naming",
     "thuat ngu",
-    "quy tac dat ten rieng"
+    "quy tac dat ten rieng",
+    "style.GLOBAL.naming"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.naming",
+   "id": "rule.GLOBAL.naming",
    "keys": [
     "fiction naming",
     "naming",
     "quy tac dat ten rieng",
+    "rule global naming",
     "style global naming",
     "ten rieng",
     "thuat ngu"
@@ -14949,7 +15007,7 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 177
   },
   {
@@ -15005,16 +15063,18 @@
     "xung ho",
     "pronouns",
     "dai tu",
-    "xung ho tieng viet"
+    "xung ho tieng viet",
+    "style.GLOBAL.pronouns"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.pronouns",
+   "id": "rule.GLOBAL.pronouns",
    "keys": [
     "dai tu",
     "pronouns",
+    "rule global pronouns",
     "style global pronouns",
     "xung ho",
     "xung ho tieng viet"
@@ -15031,24 +15091,26 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 240
   },
   {
    "aliases": [
     "dau cau",
     "punctuation",
-    "quy tac dau cau"
+    "quy tac dau cau",
+    "style.GLOBAL.punctuation"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.punctuation",
+   "id": "rule.GLOBAL.punctuation",
    "keys": [
     "dau cau",
     "punctuation",
     "quy tac dau cau",
+    "rule global punctuation",
     "style global punctuation"
    ],
    "lane": "personal",
@@ -15063,7 +15125,7 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 199
   },
   {
@@ -15105,17 +15167,19 @@
    "aliases": [
     "continuity",
     "lien tuc",
-    "nguyen tac giu lien tuc"
+    "nguyen tac giu lien tuc",
+    "style.GLOBAL.continuity"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.continuity",
+   "id": "rule.GLOBAL.continuity",
    "keys": [
     "continuity",
     "lien tuc",
     "nguyen tac giu lien tuc",
+    "rule global continuity",
     "style global continuity"
    ],
    "lane": "personal",
@@ -15130,23 +15194,25 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 289
   },
   {
    "aliases": [
     "dialogue",
     "thoai",
-    "ky thuat thoai"
+    "ky thuat thoai",
+    "style.GLOBAL.dialogue"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.dialogue",
+   "id": "rule.GLOBAL.dialogue",
    "keys": [
     "dialogue",
     "ky thuat thoai",
+    "rule global dialogue",
     "style global dialogue",
     "thoai"
    ],
@@ -15162,24 +15228,26 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 215
   },
   {
    "aliases": [
     "pacing",
     "nhip truyen",
-    "kiem soat nhip do"
+    "kiem soat nhip do",
+    "style.GLOBAL.pacing"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.pacing",
+   "id": "rule.GLOBAL.pacing",
    "keys": [
     "kiem soat nhip do",
     "nhip truyen",
     "pacing",
+    "rule global pacing",
     "style global pacing"
    ],
    "lane": "personal",
@@ -15194,23 +15262,25 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 233
   },
   {
    "aliases": [
     "prose",
     "van xuoi",
-    "quy tac van xuoi"
+    "quy tac van xuoi",
+    "style.GLOBAL.prose"
    ],
    "always_load": false,
    "authority": "",
    "canon_layer": "user_canon",
    "confidence": null,
-   "id": "style.GLOBAL.prose",
+   "id": "rule.GLOBAL.prose",
    "keys": [
     "prose",
     "quy tac van xuoi",
+    "rule global prose",
     "style global prose",
     "van xuoi"
    ],
@@ -15226,7 +15296,7 @@
     "k/rule",
     "p/personal"
    ],
-   "type": "style",
+   "type": "rule",
    "words": 275
   },
   {

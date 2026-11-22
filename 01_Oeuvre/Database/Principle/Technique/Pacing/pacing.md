@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.pacing
-type: style
+id: rule.GLOBAL.pacing
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: tendency
-aliases: ["pacing", "nhip truyen", "kiem soat nhip do"]
+aliases: ["pacing", "nhip truyen", "kiem soat nhip do", "style.GLOBAL.pacing"]
 related: ["[[_PRINCIPLE-MOC]]", "[[scene-goal-conflict-outcome]]", "[[scene-and-sequel]]", "[[scene-must-turn]]"]
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [s/pacing]

@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.forbidden-patterns
-type: style
+id: rule.GLOBAL.forbidden-patterns
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: hard
-aliases: ["cam", "forbidden", "AI patterns", "cac mau van can tranh"]
+aliases: ["cam", "forbidden", "AI patterns", "cac mau van can tranh", "style.GLOBAL.forbidden-patterns"]
 related: ["[[_PRINCIPLE-MOC]]", "[[resist-the-urge-to-explain]]", "[[vary-sentence-length]]", "[[show-and-tell-balance]]"]
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]

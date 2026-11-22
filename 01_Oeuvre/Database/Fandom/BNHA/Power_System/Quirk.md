@@ -1,12 +1,12 @@
 ---
-id: rule.quirk
+id: canon.BNHA.quirk
 type: canon
 scope: universe
 lane: personal
 universe: BNHA
 canon_layer: official_canon
 status: active
-aliases: ["Quirk", "Kosei", "個性", "ca tinh", "di truyen quirk", "Quirk Factor", "Quirk Marriage", "hon nhan quirk", "quirk bien di", "variant quirk", "Quirkless", "vo cá tính", "Awakening", "Quirk Singularity", "khop ngon chan ut"]
+aliases: ["Quirk", "Kosei", "個性", "ca tinh", "di truyen quirk", "Quirk Factor", "Quirk Marriage", "hon nhan quirk", "quirk bien di", "variant quirk", "Quirkless", "vo cá tính", "Awakening", "Quirk Singularity", "khop ngon chan ut", "rule.quirk"]
 related: ["[[Quirk-Types]]", "[[One-For-All]]", "[[All-For-One]]", "[[Nezu]]", "[[bnha|hồ sơ universe BNHA]]"]
 source:
   type: fandom_wiki

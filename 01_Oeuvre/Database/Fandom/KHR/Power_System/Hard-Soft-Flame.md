@@ -1,12 +1,12 @@
 ---
-id: rule.hard-soft-flame
+id: canon.KHR.hard-soft-flame
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Hard Flame", "Soft Flame", "Hard/Soft Flame", "lua cung", "lua mem", "X-Gloves Version Vongola Ring"]
+aliases: ["Hard Flame", "Soft Flame", "Hard/Soft Flame", "lua cung", "lua mem", "X-Gloves Version Vongola Ring", "rule.hard-soft-flame"]
 related: ["[[Dying-Will-Flame]]", "[[Sky-Flame]]", "[[Flame-Purity]]"]
 source:
   type: fandom_wiki

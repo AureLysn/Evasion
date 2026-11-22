@@ -1,12 +1,12 @@
 ---
-id: rule.vongola-ring
+id: canon.KHR.vongola-ring
 type: canon
 scope: universe
 lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Vongola Ring", "Vongola Rings", "Sky Vongola Ring", "Vongola Sky Ring", "Ring of the Sky", "Nhan Vongola", "Nhan Sky", "Vongola Gear", "Vongola Gear Version X", "Vongola Rings Version X", "Ring of the Sky Version X", "ボンゴレギア", "ボンゴレリングVer.X", "Penalty", "Natsu", "Nuts", "Leone di Cieli ver. Vongola", "su tu Bau troi", "Mantello di Vongola Primo", "Mitena di Vongola Primo"]
+aliases: ["Vongola Ring", "Vongola Rings", "Sky Vongola Ring", "Vongola Sky Ring", "Ring of the Sky", "Nhan Vongola", "Nhan Sky", "Vongola Gear", "Vongola Gear Version X", "Vongola Rings Version X", "Ring of the Sky Version X", "ボンゴレギア", "ボンゴレリングVer.X", "Penalty", "Natsu", "Nuts", "Leone di Cieli ver. Vongola", "su tu Bau troi", "Mantello di Vongola Primo", "Mitena di Vongola Primo", "rule.vongola-ring"]
 related: ["[[Tri-ni-sette]]", "[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[Simon-Famiglia]]"]
 source:
   type: fandom_wiki

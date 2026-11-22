@@ -1,12 +1,12 @@
 ---
-id: rule.all-for-one
+id: canon.BNHA.all-for-one
 type: canon
 scope: universe
 lane: personal
 universe: BNHA
 canon_layer: official_canon
 status: active
-aliases: ["All For One", "AFO", "オール・フォー・ワン", "cuop quirk", "trao quirk", "quirk cua trum phan dien", "vestige", "y chi nguoi cu chiem xac", "Life Force", "bat lao"]
+aliases: ["All For One", "AFO", "オール・フォー・ワン", "cuop quirk", "trao quirk", "quirk cua trum phan dien", "vestige", "y chi nguoi cu chiem xac", "Life Force", "bat lao", "rule.all-for-one"]
 related: ["[[Quirk]]", "[[Quirk-Types]]", "[[One-For-All]]", "[[bnha|hồ sơ universe BNHA]]"]
 source:
   type: fandom_wiki

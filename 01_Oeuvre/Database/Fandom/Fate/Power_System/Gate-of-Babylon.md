@@ -1,12 +1,12 @@
 ---
-id: rule.gate-of-babylon
+id: canon.Fate.gate-of-babylon
 type: canon
 scope: universe
 lane: personal
 universe: Fate
 canon_layer: official_canon
 status: active
-aliases: ["Gate of Babylon", "Vuong Bao Kho", "王の財宝", "Kho bau cua Gilgamesh", "khoi nguyen cua moi bao vat", "origins of all treasures"]
+aliases: ["Gate of Babylon", "Vuong Bao Kho", "王の財宝", "Kho bau cua Gilgamesh", "khoi nguyen cua moi bao vat", "origins of all treasures", "rule.gate-of-babylon"]
 related: ["[[fate]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System/_MOC]]", "[[Gilgamesh-Archer]]"]
 source:
   type: fandom_wiki

@@ -1,12 +1,12 @@
 ---
-id: style.GLOBAL.dialogue
-type: style
+id: rule.GLOBAL.dialogue
+type: rule
 scope: global
 lane: personal
 canon_layer: user_canon
 status: active
 strength: tendency
-aliases: ["dialogue", "thoai", "ky thuat thoai"]
+aliases: ["dialogue", "thoai", "ky thuat thoai", "style.GLOBAL.dialogue"]
 related: ["[[_PRINCIPLE-MOC]]", "[[said-and-action-beats]]", "[[exposition-through-action]]", "[[one-point-of-view-per-scene]]"]
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [s/dialogue]
