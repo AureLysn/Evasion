@@ -35,7 +35,7 @@ last_updated: 2026-11-12
 
 Ví dụ Flame lai đã biết:
 - **Oath Flame** = Sky + Earth
-- **Flame of Wrath** = **Sky + Storm** — Aurel khẳng định canon 17/09/2026; WebSearch cùng ngày trả mô tả Reborn Wiki *(trang Dying Will Flame)* là dạng lai Sky và Storm. Mở trang bằng WebFetch trả **HTTP 402**, chưa đọc toàn văn
+- **Flame of Wrath** = **Sky + Storm** — Reborn Wiki chỉ ghi *"is **hinted** as a fusion of Sky and Storm Flames"* (dựa trên thuộc tính kép của Ligre Tempesta di Cieli), trang Dying Will Flame gắn **[citation needed]** *(đọc 22/11/2026)*. Aurel chốt dùng như canon ngày 17/09/2026 — đó là **quyết định của Aurel** (`user_canon`), không phải canon nguyên tác
 
 **Ứng dụng trực tiếp của Harmony:** [[Zero-Point-Breakthrough]] bản Revised vận hành bằng chính đặc tính này.
 
@@ -43,7 +43,7 @@ Ví dụ Flame lai đã biết:
 
 Sky **cực kỳ hiếm** — rất ít người sinh ra đã có khả năng dùng nó.
 
-Nghịch lý đáng chú ý trong canon: có **hơn 20 nhân vật** mang thuộc tính Sky — nhiều hơn bất kỳ thuộc tính nào khác — và **phần lớn đã chết**. Độ hiếm không đến từ số người sinh ra ít, mà từ việc người có Sky **không sống lâu**.
+Nghịch lý đáng chú ý trong canon: có **hơn 20 nhân vật** mang thuộc tính Sky — nhiều hơn bất kỳ thuộc tính nào khác — và **phần lớn đã chết**. Wiki ghi chỉ **8 người còn sống được xác nhận**, số còn lại **đã chết hoặc chỉ có trong game** (7 nhân vật game). `[suy luận của phiên trước]`: độ hiếm có thể đến từ việc người có Sky không sống lâu — **không** phải câu của nguồn.
 
 Với người viết: đây không phải trivia. Đây là một **áp lực cốt truyện có sẵn**. Một nhân vật Sky trẻ tuổi đang sống là một ngoại lệ, và thế giới truyện biết điều đó.
 

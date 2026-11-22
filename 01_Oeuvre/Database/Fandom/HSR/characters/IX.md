@@ -31,7 +31,7 @@ last_updated: 2026-09-25
 ## Sự thờ ơ
 
 - Data Bank: *"IX doesn't interact with the other Aeons."* **[inspected]**
-- Acheron, nhiệm vụ **Cat Among Pigeons**: *"Nihility IX never glance at anyone."* **[inspected, gián tiếp]** — câu thoại lấy từ đoạn tóm tắt tìm kiếm của fandom, chưa mở được trang.
+- Acheron, nhiệm vụ **Cat Among Pigeons**: *"Nihility IX never glance at anyone."* **[game text]** — có trong văn bản game *(đối chiếu TextMap 22/11/2026)*; trước đó chỉ đọc qua tóm tắt tìm kiếm.
 - Wiki fandom (qua tóm tắt tìm kiếm): vì IX **không liếc ai**, người ta thường tin **không thể có** lệnh sứ Hư vô. **[0.75]**
 
 ## Lệnh sứ vô tình và Kẻ Tự Diệt (自灭者 / Self-Annihilators)

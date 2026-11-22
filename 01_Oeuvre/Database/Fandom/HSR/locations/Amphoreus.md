@@ -33,9 +33,9 @@ last_updated: 2026-10-17
 
 | | |
 |---|---|
-| **Đi tới** | Sau Penacony, **Black Swan** đề nghị Đoàn tàu tới Amphoreus. Năng lượng cạn, bỏ phiếu đi; March không khoẻ nên **nhân vật người chơi và Dan Heng** đi một toa; toa bị tấn công, rơi gần một thần điện; gặp **Phainon** và **Tribbie**; về Okhema thì gặp Titan Tranh Chấp **Nikador** tấn công thành **[game text]** |
+| **Đi tới** | Sau Penacony, **Black Swan** đề nghị Đoàn tàu tới Amphoreus. Năng lượng cạn, bỏ phiếu đi; March không khoẻ nên **nhân vật người chơi và Dan Heng** đi một toa; toa bị tấn công, rơi gần một thần điện; gặp **Phainon** và **Tribbie**; về Okhema thì gặp Titan Phân Tranh **Nikador** tấn công thành **[game text]** |
 | **Okhema** | **Aglaea**, thủ lĩnh Hậu Duệ, dặn **không nhắc tới thế giới bên ngoài**. Ảnh March lọt ra, thành 「Tiên Nữ Mây Hồng」, suýt gây án mạng; thân phận lộ; Aglaea **tra hỏi cực đoan**. Aglaea dùng **tơ vàng dò lời nói dối** nối với nhân vật người chơi **[game text]** |
-| **Kremnos — Nikador** | Đi cùng Phainon, **Mydei**; Nikador có thân bất tử; **Mydei một mình cầm chân**. Nhân vật người chơi cùng **Castorice** *(và Mem)* về Kremnos thời cũ, gặp **Gnaeus** — mảnh thần tính của Nikador; thân bất tử mất. Phainon **trượt** thử thách mồi lửa; Mydei nhận thần quyền 「Tranh Chấp」 **[game text]** |
+| **Kremnos — Nikador** | Đi cùng Phainon, **Mydei**; Nikador có thân bất tử; **Mydei một mình cầm chân**. Nhân vật người chơi cùng **Castorice** *(và Mem)* về Kremnos thời cũ, gặp **Gnaeus** — mảnh thần tính của Nikador; thân bất tử mất. Phainon **trượt** thử thách mồi lửa; Mydei nhận thần quyền 「Phân Tranh」 **[game text]** |
 | **Chuyện vặt** | Nhà tắm nhiều người ngất vì nước quá nóng — do **Phainon và Mydei thi nhau** **[game text]** |
 | **神悟树庭, 元老院** | Hyacine; Anaxa *(lửa 「Lý Tính」)* giả theo 元老院 *(Viện Nguyên Lão)*; đại hội công dân bỏ phiếu tiếp tục Săn Đuổi Lửa **[game text]** |
 | **Castorice ở Styxia** | Cùng nhân vật người chơi xuống cõi chết; trả mồi lửa 「Tử Vong」 **[game text]** |
@@ -64,7 +64,7 @@ last_updated: 2026-10-17
 ## Chưa xác minh / chưa đọc
 
 - Toàn bộ **thoại** các nhiệm vụ 3.x; tên và vai của các nhân vật phụ.
-- The Herta 「gia miện」 — thành gì *(Aeon? lệnh sứ?)*.
+- The Herta 「gia miện」 *(phiên âm 加冕; bản Việt của game dùng "đăng quang")* — thành gì *(Aeon? lệnh sứ?)*.
 - 3.8 có chặng cốt truyện riêng không.
 - Ngoại hình mọi nhân vật — phải theo ảnh Aurel *(luật của từng project)*.
 
@@ -97,7 +97,7 @@ Nguồn: wiki fandom, API wikitext, thoại **ghi tên người nói**, tải 22
 **Sửa so với bản tóm tắt cũ ở trên:**
 1. **Đến nơi:** Himeko và Pom-Pom dùng kế dự phòng; **chỉ Stelle và Dan Heng** ngồi toa tháo; March ốm ở lại cùng Himeko và Black Swan; Welt, Sunday sang trạm Herta; toa rơi ở **Abyss of Fate** *(Janusopolis đổ nát)*. Oronyx (3.2) nói đời sống của Stelle 「đã bị ném đi」 khi qua trời — Dan Heng giấu rằng cô bị thương nặng, không thở.
 2. **Aglaea tra hỏi HAI lần:** lần 1 *(Distant Travelers)* trong nhà tắm, **chỉ Stelle**, nối tơ vàng, Stelle hứa không nói thế giới ngoài trời; lần 2 *(Night Stars)* ở Vòng Xoáy Sáng Thế, **có Dan Heng**, bốn câu hỏi, Castorice là 「đao phủ」, Phainon xông vào can.
-3. **Mydei** thăng thần *(Tranh Chấp)* ở Nemesis; cuối Throne chấm dứt triều đại Kremnos, về một mình.
+3. **Mydei** thăng thần *(Phân Tranh)* ở Nemesis; cuối Throne chấm dứt triều đại Kremnos, về một mình.
 4. **Vở kịch của Lygus** = **「Immersive Theater: Hero's Journey」**: Lygus là **khán giả duy nhất**; Stelle phải đóng **người bạn thân vô danh suốt đời của Phainon**; **chỉ Phainon và Cyrene thấy Stelle** trong vở; kẻ địch cuối là **Flame Reaver (Khaslana)** — một Khaslana tích luỹ, Phainon mới giết mỗi vòng để chuyển Coreflame; điều kiện kết: 「ai cũng từ biệt một người, và người ấy một mình chứng kiến phép màu」; vòng **33.550.336**. Lygus nói nếu tỉ số đổi từ 0 sang 1 thì ông 「sẽ cất Khúc Ca Kỷ Nguyên Mới」.
 5. **Lygus** tên thật **Lycurgus**, Theoros, Elder; tự nói 「rải lõi logic của ta lên chín thân thể, Lycurgus chỉ là một」; tự nhận Pathstrider của Erudition mà lại muốn Irontomb phá Nous *(mâu thuẫn của chính nhân vật)*; Herta, Screwllum nghi 「thân giả」. Sau bẫy: Zandar bị Cyrene **nhốt vào vòng lặp ký ức**, Herta và Screwllum **đàm phán** qua Memory Zone Entanglement; Lycurgus ngả về chuộc lỗi *(「My atonement is complete」)*, nhờ Screwllum mang hài cốt tới Adlivun.
 6. **Mem/Cyrene:** Mem là bản **「Ripples of Past Reverie」** của Cyrene, hoà vào Stelle thành ký ức vòng 33.550.336; Cyrene ở Aedes Elysiae là Cyrene của vòng kế. Cyrene và Phainon là **bạn thuở nhỏ — canon, không phải giả thuyết fan**.

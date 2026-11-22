@@ -8,7 +8,7 @@ status: active
 aliases: ["kitsune", "cao trong dan gian Nhat", "tenko", "天狐", "zenko", "善狐", "yako", "野狐", "nogitsune", "kudagitsune", "管狐", "pipe fox", "cao ong", "chin duoi", "nine tails", "tsukimono"]
 related: ["[[kitsune-no-yomeiri]]", "[[kamikakushi]]", "[[_FOLKLORE-MOC|folklore Nhat]]", "[[_FOLKLORE-MOC]]"]
 source:
-  type: author_comment
+  type: reference
   ref: "Chu thich 15, 17, 38 va chu thich dau sao cua tac gia EMB trong personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2; doi chieu 16/09/2026 voi yokai.com/kudagitsune (doc toan trang qua WebFetch), yokai.jp, va cac nguon tong hop ve kyubi-no-kitsune / tenko."
 authority: ai
 confidence: 0.7
