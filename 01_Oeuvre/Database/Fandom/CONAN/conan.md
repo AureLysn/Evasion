@@ -53,7 +53,7 @@ Xếp theo độ tin cậy giảm dần, dùng khi gán `authority` cho fact:
 
 ## Phạm vi — tối thiểu, theo việc thật
 
-Chỉ dựng thứ **một project đang cần**. Đợt 28/09/2026 dựng đúng những gì `BCMF` chạm tới (fic đặt ở ~2/2023, ngay sau movie 25). **Đừng dựng sâu trước khi có việc thật** — [[quy-uoc-ma-project]] mục mã fandom.
+Chỉ dựng thứ **một project đang cần**. Đợt 28/09/2026 dựng đúng những gì `BCMF` chạm tới. **Đừng dựng sâu trước khi có việc thật** — [[quy-uoc-ma-project]] mục mã fandom.
 
 ⚠️ **Conan đang ra tiếp.** Mọi note ghi trạng thái canon tới **mốc dữ liệu của nguồn đã đọc**; những gì ra sau có thể đổi nghĩa (danh tính, ai biết gì).
 
@@ -61,3 +61,7 @@ Chỉ dựng thứ **một project đang cần**. Đợt 28/09/2026 dựng đún
 
 - Mở **27/09/2026**, cùng phiên dựng `BCMF`. Đợt tra canon đầu tiên **28/09/2026**.
 - Xem [[_CONAN-MOC]].
+
+## Fic nào dùng theo hướng nào
+
+- **BCMF** *(lý do dựng đợt 28/09/2026)*: fic đặt ở khoảng 2/2023, ngay sau movie 25.

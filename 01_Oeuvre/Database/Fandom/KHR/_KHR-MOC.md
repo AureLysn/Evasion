@@ -40,7 +40,7 @@ last_updated: 2026-11-13
 | Thư mục | Có gì |
 |---|---|
 | `rules/` | ✅ **8 note thật, ~34 KB** — Dying-Will-Flame · Sky-Flame · Sky-Attraction · Flame-Purity · Hard-Soft-Flame · Tri-ni-sette · Vongola-Ring · Zero-Point-Breakthrough |
-| `sources/` | ✅ **1 note mới (05/09)**: [[tsuna-canon-draft]] — bản nháp AI, chưa đối chiếu manga · ✅ **28/09**: [[gia-thuyet-khr-cua-aurel]] — hệ thống giả thuyết KHR của Aurel (bản AI tổng hợp, **headcanon**, dùng chung mọi project KHR) |
+| `sources/` | ✅ **1 note mới (05/09)**: [[tsuna-canon-draft]] — bản nháp AI, chưa đối chiếu manga · ✅ **28/09**: [[gia-thuyet-khr-cua-aurel]] *(chuyển sang `Database/Theory/` ngày 22/11/2026 — [[_THEORY-MOC]])* — hệ thống giả thuyết KHR của Aurel (bản AI tổng hợp, **headcanon**, dùng chung mọi project KHR) |
 | `characters/` `organizations/` `locations/` `events/` `terminology/` | ⬜ mới có `_MOC.md` khung, chưa có note trích xuất |
 | [[universe]] | 🟡 khung ngắn, chưa đầy |
 

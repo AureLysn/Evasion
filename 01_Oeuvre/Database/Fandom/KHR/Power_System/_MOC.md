@@ -35,7 +35,6 @@ Luật thế giới của Katekyou Hitman Reborn!, dùng lại được cho mọ
 
 ## Fanon — không phải canon
 
-- [[Sky-Attraction]] — Harmonization / Sky hút Element. **Đã xác minh là fanon.** Project nào dựng cốt truyện trên nó thì phải khoá bằng một `decision` note của chính project đó
 
 ## Ba đính chính so với Notion
 

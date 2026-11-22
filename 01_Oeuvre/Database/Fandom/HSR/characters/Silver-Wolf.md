@@ -20,7 +20,7 @@ last_updated: 2026-11-13
 
 # Sói Bạc (银狼) — hai form, và biệt danh "Sói Tôn"
 
-> Mở 12/10/2026 vì có việc thật: CLS ch01 có cảnh Thợ Săn Stellaron tới văn phòng thám tử. **Tóm tắt**, không chép câu.
+> Mở 12/10/2026 cho CLS. **Tóm tắt**, không chép câu.
 
 ## Hai form **[ảnh Aurel gửi 12/10/2026]**
 
@@ -38,5 +38,7 @@ last_updated: 2026-11-13
 - **Chưa kiểm:** tên tiếng Trung của "Sói Tôn" (không có trong bộ name Aurel gửi).
 
 ## Fic nào dùng theo hướng nào
+
+- **CLS ch01** *(lý do mở note)*: cảnh Thợ Săn Stellaron tới văn phòng thám tử.
 
 - **Cách dùng cho CLS:** cô khách đến văn phòng ở ch01 (Thợ Săn Stellaron, mặt nạ bị lừa mất, bị Công Ty treo thưởng) phù hợp với **LV.999** ở Planarcadia. Ch01 hiện tả theo form LV.999.

@@ -35,4 +35,8 @@ last_updated: 2026-10-11
 
 ## ⊕ Sunday — đối chiếu Wikipedia 22/10/2026 *(chỉ phần tính cách và quan hệ; ngoại hình giữ theo ảnh Aurel)*
 
-**[web]** Sunday và Robin là **anh em, đều là Halovian**; mẹ hy sinh bảo vệ hai người trong chiến tranh nên nương tựa nhau. Sunday đại diện **Gia tộc**, tổ chức Lễ hội Charmony; tin Gia tộc dẫn Penacony sai đường nên dùng **Trật tự** để sửa; định thay Robin làm ngôi sao trung tâm; **đưa Robin vào giấc ngủ sâu**; bị đánh bại khi dùng Stellaron hợp nhất thực và mơ; Robin ôm anh khi anh ngã. Sau đó thành người ngoài vòng pháp luật, đi cùng Đoàn tàu như hành khách, rồi Himeko mời làm Khách Vô Danh ở Planarcadia. Phẩm chất: **vị tha, tận tụy, nhưng tự cho mình đúng**; nguyên tắc méo. Bài **không** mô tả tình bạn nào ngoài Robin ⇒ 「Sunday là bạn thân của Tsuna」 **là thiết lập của Aurel**, không phải canon.
+**[web]** Sunday và Robin là **anh em, đều là Halovian**; mẹ hy sinh bảo vệ hai người trong chiến tranh nên nương tựa nhau. Sunday đại diện **Gia tộc**, tổ chức Lễ hội Charmony; tin Gia tộc dẫn Penacony sai đường nên dùng **Trật tự** để sửa; định thay Robin làm ngôi sao trung tâm; **đưa Robin vào giấc ngủ sâu**; bị đánh bại khi dùng Stellaron hợp nhất thực và mơ; Robin ôm anh khi anh ngã. Sau đó thành người ngoài vòng pháp luật, đi cùng Đoàn tàu như hành khách, rồi Himeko mời làm Khách Vô Danh ở Planarcadia. Phẩm chất: **vị tha, tận tụy, nhưng tự cho mình đúng**; nguyên tắc méo. Bài **không** mô tả tình bạn nào ngoài Robin.
+
+## Fic nào dùng theo hướng nào
+
+- Thiết lập 「Sunday là bạn thân của Tsuna」 là **của Aurel cho project crossover**, không phải canon *(bài nguồn không mô tả tình bạn nào ngoài Robin)*.

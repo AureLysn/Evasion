@@ -40,7 +40,7 @@ Chưa có.
 
 ## Giọng nói / cách xưng hô
 
-Chưa có thành văn. Riêng trong project TRIAD, Aurel chọn gọi trung tính (`bóng người` · `người đó` · `người này`); đó là quyết định phong cách của TRIAD, **không** phải của persona, nên không mang theo.
+Chưa có thành văn. Cách gọi riêng mà từng project chọn **không** thuộc persona và không mang theo.
 
 ## Giá trị · Khát vọng · Nỗi sợ
 
@@ -50,3 +50,7 @@ Chưa có thành văn. Riêng trong project TRIAD, Aurel chọn gọi trung tín
 ## Quan hệ nền
 
 Chưa có ở cấp persona. Quan hệ cụ thể thuộc variant từng project.
+
+## Fic nào dùng theo hướng nào
+
+- **TRIAD:** Aurel chọn gọi trung tính (`bóng người` · `người đó` · `người này`). Đây là quyết định phong cách của TRIAD.

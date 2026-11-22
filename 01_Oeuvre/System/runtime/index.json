@@ -128,10 +128,6 @@
    "05_Evasion/01_Oeuvre/Database/Fandom/BSD/organizations/Armed-Detective-Agency.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/organizations/co-quan-tham-tu-bcmf.md"
   ],
-  "ashveil": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Ashveil.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md"
-  ],
   "atsushi": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Nakajima-Atsushi.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/characters/nakajima-atsushi-bcmf.md"
@@ -225,10 +221,6 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/characters/assassin.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/03_Development/timeline/events/tsuna-thay-assassin-con-song.md"
   ],
-  "boothill": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Boothill.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md"
-  ],
   "boss": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/characters/sawada-tsunayoshi-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/sawada-tsunayoshi-hnqt.md"
@@ -276,10 +268,6 @@
   "cang mafia": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/organizations/port-mafia-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/PPCT_phan-phai-chien-tranh/02_Story_Bible/organizations/cang-mafia.md"
-  ],
-  "canh binh thien ha": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md"
   ],
   "canh giao to": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-satou-quen-thuoc-furuya-bcmf.md",
@@ -582,10 +570,6 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/sawada-tsunayoshi-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/relationships/tsuna--kien-chi-lang-tdtb.md"
   ],
-  "cảnh binh thiên hà": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md"
-  ],
   "da tang khong gian": [
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/world-rules/ke-hoach-cuu-the-bcmf.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/03_Development/tracker/h-da-tang-khong-gian-va-yokohama-bcmf.md"
@@ -667,7 +651,7 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/dino-tdtb.md"
   ],
   "discord": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/Sky-Attraction.md",
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/Sky-Attraction.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/Harmonization.md"
   ],
   "doan dieu tra di the gioi": [
@@ -810,10 +794,6 @@
    "05_Evasion/01_Oeuvre/Database/Fandom/JJK/characters/Toji-Fushiguro.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/zenin-toji-hnqt.md"
   ],
-  "galaxy rangers": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/organizations/Galaxy-Rangers.md"
-  ],
   "gang tay 27": [
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/secrets/tsuna-co-he-thong-nhiem-vu-tdtb.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/03_Development/tracker/h-leon-la-ai-tdtb.md"
@@ -935,7 +915,7 @@
    "05_Evasion/01_Oeuvre/Studio/Original/TRIAD_khr-jjk-bsd/02_Story_Bible/style/hard-rules.md"
   ],
   "harmonization": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/Sky-Attraction.md",
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/Sky-Attraction.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/decisions/Harmonization.md"
   ],
   "harmony": [
@@ -967,7 +947,7 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/05_Management/questions/q-he-thong-cua-tsuna-tdtb.md"
   ],
   "he thong gia thuyet khr": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/sources/gia-thuyet-khr-cua-aurel.md",
+   "05_Evasion/01_Oeuvre/Database/Theory/gia-thuyet-khr-cua-aurel.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/01_Project-canon/sources/gia-thuyet-aurel.md"
   ],
   "heartless bear": [
@@ -1690,10 +1670,6 @@
    "05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Edogawa-Ranpo.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/characters/edogawa-ranpo-bcmf.md"
   ],
-  "rappa": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Lan.md",
-   "05_Evasion/01_Oeuvre/Database/Fandom/HSR/characters/Rappa.md"
-  ],
   "rashomon": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BSD/characters/Akutagawa-Ryunosuke.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/BCMF_bat-coc-mafia-cuu-vot-the-gioi/02_Story_Bible/characters/akutagawa-ryunosuke-bcmf.md",
@@ -1890,7 +1866,7 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/skull.md"
   ],
   "sky attraction": [
-   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/Sky-Attraction.md",
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/Sky-Attraction.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/structure/trope-fandom.md"
   ],
   "sky pacifier": [
@@ -2868,7 +2844,7 @@
   ]
  },
  "built": "2026-11-22",
- "count": 1664,
+ "count": 1665,
  "missing_aliases": [],
  "notes": [
   {
@@ -2906,7 +2882,7 @@
     "k/moc"
    ],
    "type": "info",
-   "words": 1179
+   "words": 1203
   },
   {
    "aliases": [
@@ -6793,7 +6769,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 536
+   "words": 551
   },
   {
    "aliases": [
@@ -9530,7 +9506,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 544
+   "words": 564
   },
   {
    "aliases": [
@@ -9729,25 +9705,25 @@
     "Aeon San ban",
     "Reignbow Arbiter",
     "帝弓司命",
-    "Xianzhou Alliance",
-    "仙舟联盟",
-    "Cloud Knights",
-    "云骑军",
+    "Lan lien quan Xianzhou Alliance",
+    "Lan lien quan 仙舟联盟",
+    "Lan lien quan Cloud Knights",
+    "Lan lien quan 云骑军",
     "lenh su San ban",
     "lệnh sứ Săn bắn",
     "Lux Arrow",
     "Tư Mệnh Đế Cung",
     "Tu Menh De Cung",
     "Đế Cung",
-    "Yaoshi Trù Phú",
-    "Cảnh Binh Thiên Hà",
-    "Canh Binh Thien Ha",
-    "Galaxy Rangers",
-    "Boothill",
-    "Acheron gia Canh Binh",
-    "Ashveil",
-    "Rappa",
-    "thanh vien Canh Binh"
+    "Lan lien quan Yaoshi Trù Phú",
+    "Lan lien quan Cảnh Binh Thiên Hà",
+    "Lan lien quan Canh Binh Thien Ha",
+    "Lan lien quan Galaxy Rangers",
+    "Lan lien quan Boothill",
+    "Lan lien quan Acheron gia Canh Binh",
+    "Lan lien quan Ashveil",
+    "Lan lien quan Rappa",
+    "Lan lien quan thanh vien Canh Binh"
    ],
    "always_load": false,
    "authority": "fandom",
@@ -9755,41 +9731,41 @@
    "confidence": 0.7,
    "id": "character.lan",
    "keys": [
-    "acheron gia canh binh",
     "aeon hunt",
     "aeon san ban",
     "aeon săn bắn",
-    "ashveil",
-    "boothill",
-    "canh binh thien ha",
     "character lan",
-    "cloud knights",
-    "cảnh binh thiên hà",
     "de cung",
-    "galaxy rangers",
     "hunt",
     "lan",
+    "lan lien quan acheron gia canh binh",
+    "lan lien quan ashveil",
+    "lan lien quan boothill",
+    "lan lien quan canh binh thien ha",
+    "lan lien quan cloud knights",
+    "lan lien quan cảnh binh thiên hà",
+    "lan lien quan galaxy rangers",
+    "lan lien quan rappa",
+    "lan lien quan thanh vien canh binh",
+    "lan lien quan xianzhou alliance",
+    "lan lien quan yaoshi tru phu",
+    "lan lien quan yaoshi trù phú",
+    "lan lien quan 云骑军",
+    "lan lien quan 仙舟联盟",
     "lan the hunt",
     "lenh su san ban",
     "lux arrow",
     "lệnh sứ săn bắn",
-    "rappa",
     "reignbow arbiter",
     "san ban",
     "săn bắn",
-    "thanh vien canh binh",
     "the hunt",
     "tu menh de cung",
     "tuan liep",
     "tuan san",
     "tuần săn",
     "tư mệnh đế cung",
-    "xianzhou alliance",
-    "yaoshi tru phu",
-    "yaoshi trù phú",
     "đế cung",
-    "云骑军",
-    "仙舟联盟",
     "岚",
     "巡猎",
     "帝弓司命"
@@ -10092,7 +10068,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 348
+   "words": 350
   },
   {
    "aliases": [
@@ -10615,7 +10591,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 3633
+   "words": 2879
   },
   {
    "aliases": [
@@ -10667,7 +10643,7 @@
     "p/personal"
    ],
    "type": "organization",
-   "words": 713
+   "words": 723
   },
   {
    "aliases": [
@@ -11494,7 +11470,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 785
+   "words": 792
   },
   {
    "aliases": [
@@ -13290,7 +13266,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 53
+   "words": 72
   },
   {
    "aliases": [
@@ -13353,6 +13329,64 @@
    ],
    "type": "info",
    "words": 4617
+  },
+  {
+   "aliases": [
+    "Sky Attraction",
+    "Harmonization",
+    "Flame Harmonization",
+    "fanon harmonization",
+    "Sky attracts Elements",
+    "Element bond",
+    "Guardian bond",
+    "Sky bond",
+    "Discord",
+    "hai hoa hoa",
+    "thu hut Sky",
+    "Sky va Element",
+    "調和",
+    "大空 調和",
+    "调和",
+    "rule.sky-attraction"
+   ],
+   "always_load": false,
+   "authority": "fandom",
+   "canon_layer": "fanon",
+   "confidence": 0.9,
+   "id": "canon.KHR.sky-attraction",
+   "keys": [
+    "canon khr sky attraction",
+    "discord",
+    "element bond",
+    "fanon harmonization",
+    "flame harmonization",
+    "guardian bond",
+    "hai hoa hoa",
+    "harmonization",
+    "rule sky attraction",
+    "sky attraction",
+    "sky attracts elements",
+    "sky bond",
+    "sky va element",
+    "thu hut sky",
+    "大空 調和",
+    "調和",
+    "调和"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-12",
+   "path": "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Lore/Sky-Attraction.md",
+   "project": "",
+   "scope": "universe",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/rule",
+    "p/personal"
+   ],
+   "type": "canon",
+   "words": 1145
   },
   {
    "aliases": [
@@ -13833,7 +13867,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 403
+   "words": 372
   },
   {
    "aliases": [
@@ -14049,64 +14083,6 @@
    ],
    "type": "canon",
    "words": 494
-  },
-  {
-   "aliases": [
-    "Sky Attraction",
-    "Harmonization",
-    "Flame Harmonization",
-    "fanon harmonization",
-    "Sky attracts Elements",
-    "Element bond",
-    "Guardian bond",
-    "Sky bond",
-    "Discord",
-    "hai hoa hoa",
-    "thu hut Sky",
-    "Sky va Element",
-    "調和",
-    "大空 調和",
-    "调和",
-    "rule.sky-attraction"
-   ],
-   "always_load": false,
-   "authority": "fandom",
-   "canon_layer": "fanon",
-   "confidence": 0.9,
-   "id": "canon.KHR.sky-attraction",
-   "keys": [
-    "canon khr sky attraction",
-    "discord",
-    "element bond",
-    "fanon harmonization",
-    "flame harmonization",
-    "guardian bond",
-    "hai hoa hoa",
-    "harmonization",
-    "rule sky attraction",
-    "sky attraction",
-    "sky attracts elements",
-    "sky bond",
-    "sky va element",
-    "thu hut sky",
-    "大空 調和",
-    "調和",
-    "调和"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-12",
-   "path": "05_Evasion/01_Oeuvre/Database/Fandom/KHR/Power_System/Sky-Attraction.md",
-   "project": "",
-   "scope": "universe",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/rule",
-    "p/personal"
-   ],
-   "type": "canon",
-   "words": 1145
   },
   {
    "aliases": [
@@ -14367,48 +14343,6 @@
    ],
    "type": "canon",
    "words": 552
-  },
-  {
-   "aliases": [
-    "gia thuyet KHR cua Aurel",
-    "he thong gia thuyet KHR",
-    "Aurel headcanon KHR",
-    "MyTheory KHR",
-    "AI_Summary theory KHR",
-    "gia thuyet Iemitsu cua Aurel",
-    "danh gia Iemitsu Aurel",
-    "luan de Tsuna it quan trong nhat"
-   ],
-   "always_load": false,
-   "authority": "user",
-   "canon_layer": "user_canon",
-   "confidence": 0.85,
-   "id": "source.KHR.gia-thuyet-khr-cua-aurel",
-   "keys": [
-    "ai summary theory khr",
-    "aurel headcanon khr",
-    "danh gia iemitsu aurel",
-    "gia thuyet iemitsu cua aurel",
-    "gia thuyet khr cua aurel",
-    "he thong gia thuyet khr",
-    "luan de tsuna it quan trong nhat",
-    "mytheory khr",
-    "source khr gia thuyet khr cua aurel"
-   ],
-   "lane": "personal",
-   "last_updated": "2026-11-13",
-   "path": "05_Evasion/01_Oeuvre/Database/Fandom/KHR/sources/gia-thuyet-khr-cua-aurel.md",
-   "project": "",
-   "scope": "global",
-   "status": "active",
-   "strength": "",
-   "tags": [
-    "d/fanfic",
-    "k/source",
-    "p/personal"
-   ],
-   "type": "source",
-   "words": 611
   },
   {
    "aliases": [
@@ -14755,7 +14689,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 569
+   "words": 580
   },
   {
    "aliases": [
@@ -15522,7 +15456,7 @@
     "p/personal"
    ],
    "type": "persona",
-   "words": 372
+   "words": 383
   },
   {
    "aliases": [
@@ -17530,6 +17464,83 @@
    ],
    "type": "info",
    "words": 961
+  },
+  {
+   "aliases": [
+    "theory moc",
+    "gia thuyet cua Aurel",
+    "headcanon dung chung",
+    "Database Theory"
+   ],
+   "always_load": false,
+   "authority": "",
+   "canon_layer": "user_canon",
+   "confidence": null,
+   "id": "moc.theory",
+   "keys": [
+    "database theory",
+    "gia thuyet cua aurel",
+    "headcanon dung chung",
+    "moc theory",
+    "theory",
+    "theory moc"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-22",
+   "path": "05_Evasion/01_Oeuvre/Database/Theory/_THEORY-MOC.md",
+   "project": "",
+   "scope": "global",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/moc",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 123
+  },
+  {
+   "aliases": [
+    "gia thuyet KHR cua Aurel",
+    "he thong gia thuyet KHR",
+    "Aurel headcanon KHR",
+    "MyTheory KHR",
+    "AI_Summary theory KHR",
+    "gia thuyet Iemitsu cua Aurel",
+    "danh gia Iemitsu Aurel",
+    "luan de Tsuna it quan trong nhat"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 0.85,
+   "id": "source.KHR.gia-thuyet-khr-cua-aurel",
+   "keys": [
+    "ai summary theory khr",
+    "aurel headcanon khr",
+    "danh gia iemitsu aurel",
+    "gia thuyet iemitsu cua aurel",
+    "gia thuyet khr cua aurel",
+    "he thong gia thuyet khr",
+    "luan de tsuna it quan trong nhat",
+    "mytheory khr",
+    "source khr gia thuyet khr cua aurel"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-13",
+   "path": "05_Evasion/01_Oeuvre/Database/Theory/gia-thuyet-khr-cua-aurel.md",
+   "project": "",
+   "scope": "global",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/source",
+    "p/personal"
+   ],
+   "type": "source",
+   "words": 619
   },
   {
    "aliases": [

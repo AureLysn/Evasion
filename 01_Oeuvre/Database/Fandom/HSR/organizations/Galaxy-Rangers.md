@@ -20,7 +20,7 @@ last_updated: 2026-10-03
 
 # Cảnh Binh Thiên Hà (巡海游侠 / Galaxy Rangers)
 
-> Mở ngày 03/10/2026 vì có việc thật — phe đứng của Jason trong CLS. Nhãn: **[game text]** = đã khớp văn bản game 4.6.0;
+> Mở ngày 03/10/2026 cho CLS. Nhãn: **[game text]** = đã khớp văn bản game 4.6.0;
 > **[wiki]** = chỉ có trên trang wiki Aurel dán, chưa đối chiếu văn bản game. Tóm tắt, không chép trang.
 
 ## Là gì
@@ -72,3 +72,7 @@ Danh sách đầy đủ *(ảnh chụp wiki)*: [[Lan]] mục ⊕ *Thành viên C
 ## ⊕ 22/10/2026 — Aurel dán thêm về 「One-Eyed Owl」 *(văn bản wiki, chưa kiểm trang gốc)*
 
 Ba **Lead Hunter**: **「Heartless Bear」**, **「One-Eyed Owl」**, **La Mancha**; **kết nghĩa, thề máu** trước Operation Zulo. Sau Zulo, Bear và Owl **buộc tội La Mancha** kéo Cảnh Binh xuống vì thù riêng; La Mancha biến mất. **Owl lần ra các 「huynh đệ」 ở Đảo Sinh Thái Moria** *(La Mancha nuôi)* và **khoét mắt** họ để thấy chỗ hắn ẩn. Nguồn: `sources/user-input/20261022-tra-loi-nam-cau-arc-1-va-one-eyed-owl.md`. **Chưa nối** với 「bầy khỉ」 trong văn phòng.
+
+## Fic nào dùng theo hướng nào
+
+- **CLS** *(lý do mở note)*: phe đứng của Jason trong truyện.
