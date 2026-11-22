@@ -39,6 +39,6 @@ last_updated: 2026-09-15
 - **Cái chết** của Ryūnosuke: chưa trích trong đợt này.
 - Wiki trang Fate/Zero nói hắn là Master thứ bảy được chọn khi "pháp sư thứ bảy" không đáp lời Chén — chi tiết cơ chế chưa trích.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

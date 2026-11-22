@@ -39,6 +39,6 @@ last_updated: 2026-09-13
 
 Chưa mở chú thích từng chương.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -48,7 +48,7 @@ Ra mắt: Manga **Ch.219** / Anime Ep.136 `[Baidu]`.
 
 Không tìm thấy cảnh canon nào **Mukuro nhập thân Fran**. Quan hệ canon là **thầy – trò**. Xem [[Rokudo-Mukuro]].
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

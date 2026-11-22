@@ -11,8 +11,8 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-05
 ---
 
-# MOC — BSD / terminology
+# MOC — BSD / Lore
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/project/Fact-Note.md`
 
-Chưa có note.
-
-Template dùng cho thư mục này: `Templates/Fact-Note.md`
+- [[trope-fandom-bsd]] — **fanon**: bản đồ trope fandom BSD
+- [[crossover-khr-bsd]] — **fanon**: crossover KHR × BSD; note nằm ở `KHR/Lore/` vì KHR là phía nặng hơn

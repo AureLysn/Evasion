@@ -34,4 +34,4 @@ last_updated: 2026-09-23
 
 - [[EMIYA-Archer]] — Shirō tương lai thành Counter Guardian; UBW lưu mọi vũ khí từng thấy · *18/11/2026*
 
-Template dùng cho thư mục này: `Templates/Character-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/characters/Character-Note.md`

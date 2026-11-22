@@ -51,6 +51,6 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [I] · [?].
 
 Độ tin nguồn: dị năng cần chạm 0.85; BEAST vai trò 0.6; sau cái chết của Dazai 0.3.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

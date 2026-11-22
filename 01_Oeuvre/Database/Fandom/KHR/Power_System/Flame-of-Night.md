@@ -59,6 +59,6 @@ Jaeger nói việc dùng Flame này bị chi phối bởi **một bộ luật do
 - ⚠️ **Không rõ Demon Spade có được Flame ấy bằng cách nào.**
 - ⚠️ **Sáu điều luật còn lại của Flame of Night chưa từng được nêu** — truyện chỉ cho một. Đừng bịa thêm rồi ghi như canon.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.

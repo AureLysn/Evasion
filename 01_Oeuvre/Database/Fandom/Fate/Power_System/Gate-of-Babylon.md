@@ -39,6 +39,6 @@ Enuma Elish / Ea chi tiết.
 
 **Enkidu (Xích Thiên):** *(01/10/2026)* đã tra một phần, ghi ở [[Gilgamesh-Archer]] mục *Xích Thiên* (tiểu thuyết Act 16 Part 4 + wiki Nhật) và [[Command-Spells]] luật 8. Riêng chuyện xích nằm trong kho: bản dịch tiểu thuyết Act 16 Part 4 (qua tóm tắt công cụ, 0.7) gọi nó *"the secret among secrets contained in the King of Heroes' vault"*; **chưa** đối với trang wiki Gate of Babylon.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể, đọc `01_Project-canon/` của **chính truyện đó**.

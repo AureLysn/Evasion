@@ -78,7 +78,7 @@ Cụm "được nói là đã tạo ra thế giới" là cách **trang wiki** di
 - Núm vú **thật** sau khi được thay bằng bình thì ở đâu — **chưa tìm được**
 - Mare Rings: hình dáng từng nhẫn chưa có note riêng
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

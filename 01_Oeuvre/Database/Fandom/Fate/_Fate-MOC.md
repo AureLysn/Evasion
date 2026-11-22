@@ -18,10 +18,12 @@ last_updated: 2026-09-13
 ## Thực thể
 
 - [[05_Evasion/01_Oeuvre/Database/Fandom/Fate/characters/_MOC|Characters]]
-- [[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Rules]]
-- `tropes/` — **fanon**, không phải canon: [[servant-crossover-fate]] — nhân vật fandom khác được triệu hồi làm Servant/Master trong Chiến tranh Chén Thánh (trọng tâm lần 4) · `confidence: 0.55`, số đếm AO3 + SpaceBattles *(28/09/2026)*
+- [[05_Evasion/01_Oeuvre/Database/Fandom/Fate/Power_System/_MOC|Power_System]]
+- `Lore/` — **fanon**, không phải canon: [[servant-crossover-fate]] — nhân vật fandom khác được triệu hồi làm Servant/Master trong Chiến tranh Chén Thánh (trọng tâm lần 4) · `confidence: 0.55`, số đếm AO3 + SpaceBattles *(28/09/2026)*
 
 ## Trạng thái — mở 13/09/2026
+
+> **Số note hiện tại (đếm 22/11/2026):** Lore 1 · Power_System 6 · characters 17. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
 
 | Thư mục | Có gì |
 |---|---|

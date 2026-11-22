@@ -70,7 +70,7 @@ Với người viết: đây không phải trivia. Đây là một **áp lực c
 - Khuếch đại khi vượt ngưỡng tốc độ
 - Ba biến thể màu (thường / soft / hard) — mô tả chi tiết
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

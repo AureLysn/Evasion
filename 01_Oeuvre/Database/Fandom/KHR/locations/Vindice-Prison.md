@@ -54,6 +54,6 @@ Tiếng tăm là **không thể vượt ngục** — và tiếng ấy **đã b�
 - ⛔ 🔴 **Canon không nói gì về hồ sơ, sổ đăng ký hay kho lưu trữ của Vindice.** Thứ gần nhất là **camera và chuông báo**. Một truyện cho Vindice giữ sổ là **tự thêm**, và phải ghi `au-specific`.
 - ⚠️ Tên **"Vendicare"** là **bản dịch khác** của cùng một thứ, không phải một nơi thứ hai.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.

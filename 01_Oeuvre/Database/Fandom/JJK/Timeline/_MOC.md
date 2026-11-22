@@ -11,9 +11,6 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-12
 ---
 
-# MOC — JJK / events
-
-Chưa có note.
-
-Template dùng cho thư mục này: `Templates/Event-Note.md`
+# MOC — JJK / Timeline
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/world_reference/Event-Note.md`
 - [[Hidden-Inventory-Premature-Death]] — arc 2006: bảo vệ Riko Amanai · *12/10/2026*

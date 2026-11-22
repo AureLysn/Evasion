@@ -7,7 +7,7 @@ universe: KHR
 canon_layer: official_canon
 status: active
 aliases: ["Namimori-cho canon KHR", "並盛町", "thi tran hu cau cua Tsuna", "que nha Vongola doi 10", "khong ro tinh nao (canon)"]
-related: ["[[Sawada-Tsunayoshi]]", "[[Takeshi-Yamamoto]]", "[[Kyoya-Hibari]]"]
+related: ["[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Sawada-Tsunayoshi|Sawada-Tsunayoshi]]", "[[Takeshi-Yamamoto]]", "[[Kyoya-Hibari]]"]
 source:
   type: fandom_wiki
   ref: "Trang reborn.fandom.com/wiki/Namimori doc qua doan trich cong cu tim kiem (WebSearch), KHONG mo duoc nguyen trang (402/403 khi fetch 2026-09-28). Doi chieu ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!の登場人物 va tim kiem rieng ve 'tinh nao' — khong tim thay nguon canon nao xac nhan tinh."
@@ -40,6 +40,6 @@ last_updated: 2026-09-28
 - ⚠️ Không rõ dân số, quy mô hành chính (thị trấn/thành phố), hay tên các khu vực lân cận trong canon — ngoài phạm vi tra cứu lần này.
 - ⚠️ Tên tiệm sushi nhà Yamamoto ghi là **"Takesushi (竹寿司)"** dựa trên đoạn trích và Wikipedia tiếng Nhật (mục 山本武); mức tin cậy khá nhưng **chưa đọc trực tiếp trang wiki cửa hàng để xác nhận cách viết chính xác**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

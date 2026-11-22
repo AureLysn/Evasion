@@ -22,14 +22,14 @@ last_updated: 2026-11-13
 
 | Universe | Mã Fandom | Quy mô dữ liệu hiện có | MOC chi tiết |
 |---|---|---|---|
-| **Katekyo Hitman Reborn!** | `KHR` | 150 ghi chú canon, hồ sơ nhân vật, luật Dying Will Flame và Trinisette | [[_KHR-MOC]] |
-| **Boku no Hero Academia** | `BNHA` | 27 ghi chú: năng lực Quirk, tổ chức UA, anh hùng và tội phạm | [[_BNHA-MOC]] |
-| **Bungou Stray Dogs** | `BSD` | 10 ghi chú: Dị năng lực, Yokohama, Trụ sở Thám tử và Mafia Cảng | [[_BSD-MOC]] |
-| **Jujutsu Kaisen** | `JJK` | 10 ghi chú: Chú thuật, Chú linh, Gojo Satoru và Giới Chú thuật | [[_JJK-MOC]] |
-| **TYPE-MOON / Fate** | `Fate` | 3 ghi chú: Hệ thống Chén Thánh, Lệnh chú (Command Spells), Servant | [[_Fate-MOC]] |
-| **Honkai: Star Rail** | `HSR` | 4 ghi chú: Thiết lập Lệnh sứ (Emanator), Vận mệnh (Paths) và các Aeon | [[_HSR-MOC]] |
-| **Detective Conan** | `CONAN` | 7 ghi chú: Thiết lập thế giới phá án, Tổ chức Áo đen | [[_CONAN-MOC]] |
-| **DC Comics** | `DC` | 2 ghi chú: Gotham, Jason Todd (Red Hood) | [[_DC-MOC]] |
+| **Katekyo Hitman Reborn!** | `KHR` | 61 ghi chú canon, hồ sơ nhân vật, luật Dying Will Flame và Trinisette | [[_KHR-MOC]] |
+| **Boku no Hero Academia** | `BNHA` | 20 ghi chú: năng lực Quirk, tổ chức UA, anh hùng và tội phạm | [[_BNHA-MOC]] |
+| **Bungou Stray Dogs** | `BSD` | 29 ghi chú: Dị năng lực, Yokohama, Trụ sở Thám tử và Mafia Cảng | [[_BSD-MOC]] |
+| **Jujutsu Kaisen** | `JJK` | 16 ghi chú: Chú thuật, Chú linh, Gojo Satoru và Giới Chú thuật | [[_JJK-MOC]] |
+| **TYPE-MOON / Fate** | `Fate` | 25 ghi chú: Hệ thống Chén Thánh, Lệnh chú (Command Spells), Servant | [[_Fate-MOC]] |
+| **Honkai: Star Rail** | `HSR` | 24 ghi chú: Thiết lập Lệnh sứ (Emanator), Vận mệnh (Paths) và các Aeon | [[_HSR-MOC]] |
+| **Detective Conan** | `CONAN` | 15 ghi chú: Thiết lập thế giới phá án, Tổ chức Áo đen | [[_CONAN-MOC]] |
+| **DC Comics** | `DC` | 3 ghi chú: Gotham, Jason Todd (Red Hood) | [[_DC-MOC]] |
 
 ---
 

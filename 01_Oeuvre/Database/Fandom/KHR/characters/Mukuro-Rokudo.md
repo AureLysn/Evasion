@@ -54,6 +54,6 @@ last_updated: 2026-09-28
 - ⚠️ Chi tiết sáu "đạo" trong Lục Đạo Luân Hồi (địa ngục đạo, ngạ quỷ đạo, súc sinh đạo, tu la đạo, nhân đạo, thiên đạo) — đây là hiểu biết phổ biến của fandom nhưng **chưa trích dẫn được đoạn gốc** trong lần tra cứu này.
 - ⚠️ Cơ chế chính xác quan hệ Mukuro–Chrome (chia sẻ nội tạng/cơ thể) — chỉ có mô tả tổng quát, chưa đối chiếu chương/tập cụ thể.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -55,4 +55,4 @@ last_updated: 2026-09-28
 - [[Haru-Miura]] — đuôi ngựa, thể dục dụng cụ, đi thăng bằng trên tường · *18/11/2026*
 - [[Chrome-Dokuro]] — Nagi, bị bỏ mặc, chỉ mở lòng với Mukuro, không cãi lại · *18/11/2026*
 
-Template dùng cho thư mục này: `Templates/Character-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/characters/Character-Note.md`

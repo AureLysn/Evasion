@@ -11,8 +11,7 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-31
 ---
 
-# MOC — BNHA / rules
-
+# MOC — BNHA / Power_System
 Luật thế giới của *My Hero Academia*, dùng lại được cho mọi fic BNHA.
 
 ## Hệ Quirk
@@ -42,4 +41,4 @@ Ghi ở đây để ai đọc `rules/` cũng thấy, không phải đào trong t
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc
 `01_Project-canon/` của **chính truyện đó**. Xem luật tách project ([[06-retrieval]] bước 2, [[04-lanes]] Part 2; trước ghi là `AGENTS.md` §2.4) — hai project không thấy nhau.
 
-Template dùng cho thư mục này: `Templates/Rule-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/writing/Rule-Note.md`

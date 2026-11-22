@@ -54,6 +54,6 @@ Nhãn: [C] canon qua wiki (đọc trực tiếp) · [?] chưa xác minh.
 - Kết: Kunikida cho Dazai đậu; Dazai khuyên anh đừng đuổi theo thế giới lý tưởng nữa.
 - Mạch chính chương 1: Kunikida đứng bờ bên kia sông Tsurumi, bị Dazai bắt trả tiền bữa chazuke cho Atsushi; mảnh giấy Dazai gửi ghi chỗ hổ xuất hiện.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

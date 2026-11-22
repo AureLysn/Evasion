@@ -52,6 +52,6 @@ last_updated: 2026-09-15
 - Chưa mở chú thích tập/chương cho từng mốc.
 - Bước 5, 8, 9 **gắn với tổ Caster gốc** (Gilles de Rais).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

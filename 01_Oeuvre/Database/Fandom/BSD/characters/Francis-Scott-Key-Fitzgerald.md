@@ -51,6 +51,6 @@ last_updated: 2026-11-18
 
 - Mới đọc tab Introduction; chưa đọc Synopsis (cảnh hắn tới Cơ quan đề nghị mua lại, Moby Dick).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

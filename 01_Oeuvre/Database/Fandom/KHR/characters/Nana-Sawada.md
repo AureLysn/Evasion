@@ -7,7 +7,7 @@ universe: KHR
 canon_layer: official_canon
 status: active
 aliases: ["Sawada Nana (canon KHR)", "沢田 奈々", "me cua Tsunayoshi Sawada", "ba noi tro nha Sawada", "vo cua Iemitsu Sawada", "nguoi khong biet con trai lam mafia"]
-related: ["[[Iemitsu-Sawada]]", "[[Sawada-Tsunayoshi]]", "[[Namimori]]"]
+related: ["[[Iemitsu-Sawada]]", "[[Sawada-Tsunayoshi]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/locations/Namimori|Namimori]]"]
 source:
   type: fandom_wiki
   ref: "Trang reborn.fandom.com/wiki/Nana_Sawada khong mo duoc truc tiep (402/403 khi fetch 2026-09-28). Doi chieu bang ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN!の登場人物 (muc 沢田奈々, doc qua WebFetch 2026-09-28) va en.wikipedia.org/wiki/List_of_Reborn!_characters (doan trich, doc qua WebFetch)."
@@ -37,6 +37,6 @@ last_updated: 2026-09-28
 - ⚠️ Liệu Nana có thực sự **hoàn toàn không nghi ngờ** gì suốt cốt truyện chính, hay có những khoảnh khắc "biết mà giả vờ không biết" (một giả thuyết phổ biến trong fandom) — **canon không được kiểm chứng rõ trong phạm vi tra cứu này**; đây là vùng dễ nhầm giữa canon và fanon, cần cẩn trọng.
 - ⚠️ Chi tiết cụ thể về công việc nội trợ, sở thích, ngoại hình — chưa được note này bao quát (ngoài phạm vi câu hỏi được giao).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

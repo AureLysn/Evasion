@@ -45,6 +45,6 @@ last_updated: 2026-09-28
 - ⚠️ Chi tiết Box Weapon (chim én Mưa, chó Mưa) — chỉ thấy trong đoạn trích tìm kiếm, chưa đối chiếu trang gốc.
 - ⚠️ Manga/anime có thể khác biệt ở tiểu tiết ngoại hình hoặc lời thoại — chưa so sánh trực tiếp hai bản trong lần tra cứu này.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

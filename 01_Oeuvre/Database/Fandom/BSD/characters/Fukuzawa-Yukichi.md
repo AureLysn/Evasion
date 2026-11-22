@@ -39,6 +39,6 @@ Nhãn: [C] · [C~] chỉ qua trích đoạn · [?].
 - **Lập Cơ quan** hơn mười năm trước mạch chính, sau khi gặp **Ranpo**. Mọi thành viên chính thức chịu dị năng **All Men Are Equal** của ông. [C]
 - Taneda giới thiệu Dazai; Fukuzawa giao kỳ thi cho Kunikida và dặn riêng: nếu Dazai dính âm mưu hại Cơ quan thì giết — vì hồ sơ sạch đáng ngờ và dị năng vô hiệu hoá. [C~]
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -95,6 +95,6 @@ Nguồn: Baka-Tsuki Fate/Zero Act 16 Part 2, 5, 7 (bản dịch fan, đọc qua 
 - Chưa đọc: nguyện vọng về sau ở Fate/stay night, các phiên bản FGO (Lily, Lancer, Alter chi tiết).
 - *(01/10/2026)* Chưa đối chiếu anime và sách Material với cảnh ngày cuối.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

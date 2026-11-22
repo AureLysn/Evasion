@@ -67,6 +67,6 @@ Theo tổng hợp từ kết quả tìm kiếm (dẫn lại nội dung trang `re
 - ⚠️ Các dạng nâng cấp sau này (ví dụ "Ver. V.R." khi Vongola Ring gắn vào mu bàn tay ở dòng thời gian 10 năm sau, theo một đoạn trích tiếng Nhật riêng) **không được xác minh chi tiết trong note này** — ngoài phạm vi câu hỏi được giao (chỉ tập trung vào nguồn gốc mitten/27/X-Gloves).
 - ⚠️ Không xác nhận được liệu **anime có mô tả khác đi** so với manga ở cảnh này (ví dụ trình tự sự kiện, tập phim tương ứng) — chưa đối chiếu.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

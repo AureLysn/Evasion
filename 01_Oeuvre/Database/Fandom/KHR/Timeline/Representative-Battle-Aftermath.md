@@ -7,7 +7,7 @@ universe: KHR
 canon_layer: official_canon
 status: occurred
 aliases: ["Representative Battle Aftermath", "sau Dai chien Dai dien", "sau tran dai dien", "sau 代理战", "虹の代理戦争 結末", "Representative Battle of the Rainbow ending", "Pacifier Jar", "binh num vu", "Pacifier Jars", "おしゃぶりの壺", "loi nguyen Arcobaleno duoc giai", "Arcobaleno curse lifted", "Arcobaleno lon lai", "Arcobaleno growth after curse", "Lal Mirch tro lai nguoi lon"]
-related: ["[[Arcobaleno-Pacifier]]", "[[Tri-ni-sette]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Flame-of-Night]]", "[[Kawahira]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Reborn|Reborn]]", "[[Lal-Mirch]]"]
+related: ["[[Arcobaleno-Pacifier]]", "[[Tri-ni-sette]]", "[[Vindice]]", "[[Bermuda-von-Veckenschtein]]", "[[Flame-of-Night]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Reborn|Reborn]]", "[[Lal-Mirch]]"]
 source:
   type: fandom_wiki
   ref: "Chuong cuoi Vol.42 Target 409 'Ciao Ciao!' va cac chuong cuoi arc Curse of the Rainbow. Doc 2026-09-28: ja.wikipedia.org/wiki/リボーン_(家庭教師ヒットマンREBORN!) (doc thang trang); en.wikipedia.org/wiki/List_of_Reborn!_characters (doc thang trang, chu thich [70][71]); reborn.fandom.com/wiki/Pacifier_Jar, /Ciao_Ciao!, /Arcobaleno, /The_Course_of_the_Curse, /Lal_Mirch, /Mare_Ring — CHI qua snippet may tim kiem (WebFetch bi HTTP 402); baike.baidu.com/en/item/Lal%20Mirch/1472931 (doc thang, khong ghi nguon). Chua lat manga."
@@ -60,7 +60,7 @@ last_updated: 2026-09-28
 
 ⛔ **Canon không cho năm dương lịch** — các timeline fan đọc được chỉ có ngày/tháng. Tsuna học năm 1 ở đầu truyện, lên năm 2 trong truyện `[WP-ja qua snippet]`. Chưa đo được Đại chiến Đại diện xảy ra tháng nào của năm 2, nên "một năm sau trận" tương ứng tháng nào cũng **chưa tính được**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Đọc `01_Project-canon/` của chính truyện đó.
 

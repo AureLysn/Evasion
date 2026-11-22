@@ -51,6 +51,6 @@ last_updated: 2026-11-18
 
 - Mới đọc tab Introduction; chưa đọc Synopsis, Relationships. Tuổi cụ thể không ghi trên infobox.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

@@ -15,4 +15,4 @@ last_updated: 2026-09-05
 
 Chưa có note.
 
-Template dùng cho thư mục này: `Templates/Location-Note.md`
+Template dùng cho thư mục này: `01_Origine/04_Tools/Templates/world_reference/Location-Note.md`

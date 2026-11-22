@@ -60,6 +60,6 @@ Chi tiết ở [[BEAST-IF]] mục 3. Cốt: để Oda sống và thành nhà vă
 
 Độ tin nguồn: năng lực 0.95; vai trò thủ lĩnh 0.9; "bốn năm" 0.6; ngoại hình (khăn) 0.7, (mắt băng) 0.5.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

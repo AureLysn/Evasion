@@ -32,7 +32,7 @@ last_updated: 2026-09-28
 
 - Spanner **ở hiện tại** (sau arc Tương Lai): có nhận ký ức tương lai như Irie không; vai trò trong Đại chiến Đại diện (một snippet nhắc Verde dùng khung Mosca do Spanner chế và "ra lệnh cho Spanner bắn" — **chưa rõ ngữ cảnh**).
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

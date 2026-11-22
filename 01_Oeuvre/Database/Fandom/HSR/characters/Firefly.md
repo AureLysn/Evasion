@@ -6,7 +6,7 @@ lane: personal
 universe: HSR
 canon_layer: official_canon
 status: active
-aliases: ["Firefly","流萤","Sam","SAM","Stellaron Hunter Sam","Sam Firefly","Ruoi Dem"]
+aliases: ["Firefly", "流萤", "Sam", "Stellaron Hunter Sam", "Sam Firefly", "Ruoi Dem"]
 related: ["[[Penacony]]","[[Dahlia]]","[[Silver-Wolf]]"]
 source:
   type: fandom_wiki

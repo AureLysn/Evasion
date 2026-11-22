@@ -52,7 +52,7 @@ Notion DB 05 ghi *"Cần Resolve mạnh để purity cao"* nhưng DB 05 không c
 - Có nhân vật nào trong canon được nói rõ là purity thấp / cao không, để lấy mốc so sánh
 - Purity có ảnh hưởng đến việc mở Box Weapon không
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

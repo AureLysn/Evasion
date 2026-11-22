@@ -114,6 +114,6 @@ Hiền, bỏ nhà vì ghê tởm; thương Rin và Sakura như con. Chịu đau 
 - Fandom TYPE-MOON và namu.wiki **không mở được** (HTTP 402/403); Moegirl không trả nội dung bài — các bảng trên **không** dựa vào wiki, ngoại trừ dòng tên tiếng Trung.
 - Mọi mức tin ở trên bị **chặn trần 0.8** vì đọc qua tóm tắt công cụ.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

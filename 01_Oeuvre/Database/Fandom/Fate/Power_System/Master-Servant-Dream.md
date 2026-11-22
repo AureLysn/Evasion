@@ -40,6 +40,6 @@ Trang wiki *Master*, tóm lại bằng lời mình:
 
 - Chưa mở từng chú thích [12]–[18] để lấy tác phẩm/tập cụ thể.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể, đọc `01_Project-canon/` của **chính truyện đó**.

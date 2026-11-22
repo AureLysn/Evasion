@@ -30,6 +30,6 @@ last_updated: 2026-09-13
 
 - Arc *Fifteen*: Dazai bị Vua Cừu **Nakahara Chuuya** tấn công, bị đòi khai hết về **Arahabaki**; trong vụ nổ, Dazai thấy thủ lĩnh cũ đứng trong lửa đen. Ghi chú trang: đoạn này **anime không chuyển thể**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

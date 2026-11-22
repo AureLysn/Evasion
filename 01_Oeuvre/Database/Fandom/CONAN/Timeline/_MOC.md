@@ -11,7 +11,6 @@ tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-28
 ---
 
-# MOC — CONAN / events
-
+# MOC — CONAN / Timeline
 - [[Bride-of-Halloween]] — movie 25 (2022): Plamya, bom lỏng, Shibuya · **canon movie** · 0.75
 - [[Police-Academy-Arc]] — spin-off *Wild Police Story*; Matsuda–Satou; Satou từng gặp Furuya nhưng không nhớ · 0.75

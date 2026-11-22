@@ -52,6 +52,6 @@ Kirei dùng hết lệnh chú sai toàn bộ Assassin thử sức Iskandar; Iska
 
 Chưa mở chú thích để lấy tập/chương tiểu thuyết.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

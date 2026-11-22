@@ -36,6 +36,6 @@ Trang wiki, mục *Appearance*: Anh linh **thường** mang hình dáng đại d
 
 Chưa nghiên cứu.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể, đọc `01_Project-canon/` của **chính truyện đó**.

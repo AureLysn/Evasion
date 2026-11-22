@@ -7,7 +7,7 @@ universe: KHR
 canon_layer: official_canon
 status: active
 aliases: ["Vindice", "Vendicare", "復讐者", "ヴィンディチェ", "Fukushu-sha", "nguoi gac luat mafia", "avenger", "Team Bermuda"]
-related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice-Prison]]", "[[Flame-of-Night]]", "[[Kawahira]]", "[[Arcobaleno-Pacifier]]"]
+related: ["[[Bermuda-von-Veckenschtein]]", "[[Vindice-Prison]]", "[[Flame-of-Night]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[Arcobaleno-Pacifier]]"]
 source:
   type: fandom_wiki
   ref: "https://reborn.fandom.com/wiki/Vindice; https://reborn.fandom.com/wiki/Flame_of_Night. Doc bang trinh duyet tich hop 20/09/2026 — WebFetch bi chan HTTP 402."
@@ -76,6 +76,6 @@ Sau khi nhận giữ [[Tri-ni-sette]] bằng cách **giữ Flame of Night cháy 
 - ⛔ 🔴 **Canon KHÔNG có chỗ nào nói Vindice giữ hồ sơ, sổ sách hay kho lưu trữ.** Nhà tù có **camera an ninh và chuông báo**; hết. Bất cứ truyện nào cho Vindice một kho lưu trữ là đang **tự thêm**, và phải ghi là `au-specific`.
 - ⚠️ Không rõ họ **tuyển thêm** thế nào, hay có ai rời đi không.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.

@@ -46,7 +46,7 @@ Từ đối địch (arc Simon, bị Daemon Spade lợi dụng) thành **bạn t
 
 Enma sau Ch.409 (còn ở Namimori không, học lớp mấy) — **chưa tìm được nguồn**.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**
 

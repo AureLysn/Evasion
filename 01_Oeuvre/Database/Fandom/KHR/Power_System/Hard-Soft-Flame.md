@@ -6,7 +6,7 @@ lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Hard Flame", "Soft Flame", "hard flame", "soft flame", "Hard/Soft Flame", "lua cung", "lua mem", "X-Gloves Version Vongola Ring"]
+aliases: ["Hard Flame", "Soft Flame", "Hard/Soft Flame", "lua cung", "lua mem", "X-Gloves Version Vongola Ring"]
 related: ["[[Dying-Will-Flame]]", "[[Sky-Flame]]", "[[Flame-Purity]]"]
 source:
   type: fandom_wiki
@@ -65,7 +65,7 @@ Hậu quả nếu giữ bản Notion: người viết sẽ nghĩ hard/soft là "
 - `reborn.fandom.com/wiki/X-Burner` — tay nào ra loại nào, tỉ lệ pha
 - Có Flame thuộc tính khác nào cũng có hard/soft form không
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

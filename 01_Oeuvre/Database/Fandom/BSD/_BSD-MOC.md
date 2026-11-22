@@ -30,6 +30,8 @@ last_updated: 2026-09-28
 
 ## Trạng thái
 
+> **Số note hiện tại (đếm 22/11/2026):** Lore 1 · Power_System 2 · characters 20 · locations 2 · organizations 2 · sources 1. Bảng dưới là ảnh chụp lúc ghi, giữ làm lịch sử.
+
 | Thư mục | Có gì |
 |---|---|
 | `sources/` | [[dazai-canon-draft]] |

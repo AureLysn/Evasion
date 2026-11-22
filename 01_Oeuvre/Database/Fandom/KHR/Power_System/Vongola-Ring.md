@@ -77,7 +77,7 @@ Nói cách khác: Notion mô tả *ai thường đeo nó*; canon nói *cái gì 
 - `reborn.fandom.com/wiki/Ring` — trang tổng về Ring, để so bộ Vongola với các bộ khác *(28/09: đọc được snippet — ba bộ Tri-ni-sette xếp hạng riêng, trên hạng A; xem [[Simon-Famiglia]])*
 - Sáu Nhẫn Guardian còn lại có điều kiện riêng không, hay chỉ Sky Ring mới có
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng luật này cho một truyện cụ thể,
 đọc `01_Project-canon/` của **chính truyện đó**.

@@ -43,6 +43,6 @@ last_updated: 2026-11-18
 
 - Chưa đọc phần Abilities, Noble Phantasm (Enuma Elish), các Day sau của *strange Fake*. Đại từ: wiki dùng "they" → khi viết tránh 他/她, gọi 恩奇都.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
 🔴 **Note này không ghi project nào quyết gì.**

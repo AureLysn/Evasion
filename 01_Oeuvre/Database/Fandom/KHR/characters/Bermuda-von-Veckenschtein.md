@@ -83,6 +83,6 @@ Cuối truyện ông **đồng ý ngay** với đề nghị của Talbot *(bảy
 - ⚠️ **Tên riêng ông có bản dịch ghi "Vichtenstein"**.
 - ⛔ **Không có gì trong canon nói Vindice giữ hồ sơ hay kho lưu trữ.** Canon chỉ cho camera an ninh và chuông báo trong nhà tù.
 
-## Project nào dùng theo hướng nào
+## Fic nào dùng theo hướng nào
 
-🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Projects/<MÃ>/` của **chính truyện đó**.
+🔴 **Note này không ghi project nào quyết gì.** Trước khi dùng cho một truyện cụ thể, đọc `Studio/<Continue|Original>/<MÃ>_<slug>/` của **chính truyện đó**.
