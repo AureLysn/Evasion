@@ -31,7 +31,7 @@ Tóc nâu, kính gọng chữ nhật; áo khoác xám nhạt có đai da nâu; k
 
 ## Trước Tàu: đời ông ở thế giới Honkai Impact 3rd **[HI3 — tác phẩm khác] [wiki]**
 
-- **Tên gốc: Joachim Nokianvirtanen** *(3 trang wiki khớp)*. Cha **Elias Nokianvirtanen** (chuyên gia văn tự cổ), mẹ **Henriette Yang**
+- **Tên gốc: Joachim Nokianvirtanen** *(3 trang wiki khớp; HSR cũng có chuỗi này — **[game text]**)*. Cha **Elias Nokianvirtanen** (chuyên gia văn tự cổ), mẹ **Henriette Yang**
   (nhà khảo cổ gốc Hoa–Đức) — **chỉ Baidu**. Ông lấy **họ mẹ: Yang**.
 - **Thảm hoạ Thanksgiving ở New York**: Otto Apocalypse ép cha Joachim phá một thí nghiệm, dẫn tới cái chết của cha; **Welt Joyce** (người ông ngưỡng mộ, Herrscher
   Lý Trí đời đầu) hy sinh để ngăn thảm hoạ và **trao Lõi Lý Trí cùng cái tên 「Welt」** cho cậu bé *(3 trang khớp ý chính)*. **Năm: lệch** — hoyodex ghi
@@ -77,7 +77,7 @@ Tóc nâu, kính gọng chữ nhật; áo khoác xám nhạt có đai da nâu; k
 
 - Năm Thanksgiving (1952 hay 1955) và năm sinh; vai trò chính xác của **Welt Joyce, Elias, Joachim** (các wiki diễn đạt khác nhau về ai là 「cha」 bị mất).
 - Ông **có vợ / con ruột** không; câu 「làm con và làm cha」 là **về ông**, nhưng HSR không nêu đối tượng — nối với Geoffrey chỉ là `assumed`.
-- **HSR có xác nhận** HI3 là quá khứ của ông không: game text lọc được **không** nhắc Joachim, Anti-Entropy, Herrscher hay Sirin; nối HI3→HSR đang dựa wiki. Nên ghi 「Welt HSR」 khi cần an toàn.
+- ~~HSR có xác nhận HI3 là quá khứ của ông không~~ — **đã có câu trả lời một phần (đối chiếu TextMap 22/11/2026):** văn bản HSR ghi ông là *"former Anti-Entropy Sovereign who inherited the name of the world — Welt"*, nhắc sự kiện **St. Fountain** và việc đi qua cổng; có chuỗi 「Joachim Nokianvirtanen trong vai WELT YANG」. **[game text]** Herrscher, Sirin, năm Thanksgiving và gia đình thì HSR **không** nhắc — các dòng đó vẫn chỉ dựa wiki.
 - Lời nguyên văn của ông về hy sinh / anh hùng / người mất nhà; Data Bank và Character Story HSR chưa đọc. Thời gian ông đã ở trên Tàu; chuyện **Void Archives** (hoyodex: 「đã rời nhóm」) — chưa kiểm.
 - Mọi thứ sau HSR 4.6.
 

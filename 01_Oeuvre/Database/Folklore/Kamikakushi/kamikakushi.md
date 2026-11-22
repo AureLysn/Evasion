@@ -8,7 +8,7 @@ status: active
 aliases: ["kamikakushi", "神隠し", "than an", "bi than giau di", "spirited away", "mat tich bi an", "bua chong than an"]
 related: ["[[kitsune-phan-loai]]", "[[kitsune-no-yomeiri]]", "[[nghi-le-cuoi-shinto]]", "[[_FOLKLORE-MOC|folklore Nhat]]", "[[_FOLKLORE-MOC]]"]
 source:
-  type: author_comment
+  type: reference
   ref: "Chu thich 51 cua tac gia EMB trong personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2. Tra 16/09/2026: cac nguon ve kitsune khong noi toi kamikakushi, nen phan noi dung o day VAN chua co nguon doc lap — xem muc cuoi."
 authority: ai
 confidence: 0.7

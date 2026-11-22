@@ -35,7 +35,7 @@ last_updated: 2026-11-21
 |---|---|---|
 | Boothill | 波提欧 | bộ name Aurel (Name HSR - Tổng.csv) |
 | Aventurine | 砂金 | bộ name Aurel (Name HSR - Tổng.csv) |
-| Welt | 瓦尔特·杨 (gọi thân: 杨叔 = chú Yang) | bộ name Aurel (Name HSR - Tổng.csv) |
+| Welt | 瓦尔特·杨 (gọi thân: 杨叔 = chú Yang) | bộ name Aurel cho 杨叔; 瓦尔特·杨 theo TextMap cn *(CSV không có 瓦尔特)* |
 | Himeko | 姬子 | bộ name Aurel (Name HSR - Tổng.csv) |
 | Sunday | 星期日 / 周日 | bộ name Aurel (Name HSR - Tổng.csv) |
 | Stelle | 星 (khai phá giả: 开拓者) | bộ name Aurel (Name HSR - Tổng.csv) |
@@ -206,12 +206,12 @@ last_updated: 2026-11-21
 | inspiration circuit | 灵感回路 | TextMap cn |
 | memory zone entanglement | 忆域纠缠 | TextMap cn |
 | Herta | 黑塔 | TextMap cn |
-| Evernight | 长夜月 | chưa đối chiếu CSV *(tên dùng trong project)* |
-| Irontomb | 铁墓 | chưa đối chiếu CSV *(tên dùng trong project)* |
+| Evernight | 长夜月 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
+| Irontomb | 铁墓 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
 | world-cleansing golden blood | 净世金血 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* |
 | Fourth Instant · coronation | 第四时刻 · 「铁墓」的加冕 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* |
 | Sacrament Courtyard | 祝祭庭院 | chưa đối chiếu CSV *(BWIKI, kiểm lại 30/10/2026)* |
-| Fuli | 浮黎 | chưa đối chiếu CSV *(thẻ cảnh, dàn ý arc)* |
+| Fuli | 浮黎 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
 | Robin | 知更鸟 | TextMap cn |
 | Firefly | 流萤 | TextMap cn |
 | Dahlia | 大丽花 | TextMap cn |
@@ -224,8 +224,8 @@ last_updated: 2026-11-21
 | warp | 跃迁 | TextMap cn |
 | Robin gọi Sunday | 哥哥 (khi giới thiệu với người khác: 兄长) | TextMap cn |
 | Gallagher | 加拉赫 | TextMap cn |
-| nhà Chó Săn · mấy thành viên trẻ nhà Chó Săn | 猎犬家系 · 年轻的猎犬 | TextMap cn |
-| nhà Diên Vĩ | 鸢尾花家系 | TextMap cn |
+| Gia Tộc Bloodhound · mấy thành viên trẻ của Gia Tộc Bloodhound | 猎犬家系 · 年轻的猎犬 | TextMap cn |
+| Gia Tộc Iris | 鸢尾花家系 | TextMap cn |
 | kẻ lậu vé | 偷渡犯 | TextMap cn |
 | Cửa hàng Mộng cảnh | 梦境贩售店 | TextMap cn |
 | bác sĩ Edward | 爱德华医生 | TextMap cn |
@@ -246,7 +246,7 @@ last_updated: 2026-11-21
 | Clockwork | 钟表把戏 | TextMap cn |
 | Acheron | 黄泉 | TextMap cn |
 | Viện Ký Ức (Garden of Recollection) · Nhớ Giả (Memokeeper) | 忆庭 (CSV: 流光忆庭) · 忆者 | TextMap cn; bộ name Aurel (Name HSR - Tổng.csv) |
-| căn cứ bí mật · Biên giới Dựng Mộng | 秘密据点 · 筑梦边境 | TextMap cn |
+| căn cứ bí mật · Ranh Giới Xây Mộng | 秘密据点 · 筑梦边境 | TextMap cn |
 | Hội chứng Mất Entropy | 失熵症 | TextMap cn |
 | khoang y tế | 医疗舱 | TextMap cn |
 | Thợ Đồng Hồ | 钟表匠 | TextMap cn |
@@ -259,7 +259,7 @@ last_updated: 2026-11-21
 | Sam | 萨姆 | TextMap cn |
 | mecha | 机甲 | TextMap cn |
 | Dewlight Pavilion | 朝露公馆 | TextMap cn |
-| Oak Family | 橡木家系 | TextMap cn |
+| Gia Tộc Oak *(Oak Family)* | 橡木家系 | TextMap cn |
 | Ratio · Veritas Ratio | 拉帝奥 · 维里塔斯·拉帝奥 | TextMap cn |
 | lá nguyệt quế trên tóc Ratio (cách Hendrick gọi) | 庞奇虚粒子钟 | TextMap cn |
 | Mobile Knight | 机动骑士 | TextMap cn |

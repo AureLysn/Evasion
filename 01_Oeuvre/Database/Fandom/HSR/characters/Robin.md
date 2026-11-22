@@ -41,22 +41,22 @@ Tên nhiệm vụ: dòng 30123. Tóm tắt cả tuyến: dòng 30091.
 
 1. **113137** — Robin dùng sức mạnh Hài hoà chỉnh âm *(调律)* cho Stelle vừa vào mơ nhưng **lực bất tòng tâm**; nhờ **Sunday giúp** mới xong *(「在星期日的帮助下…才得以顺利完成」)*. Mục tiêu 151245: 「…但愿还能做到。」
 2. **113138** — mất giọng chỉ là bề ngoài; gốc là **Hài hoà của Penacony lẫn tạp âm**, **trong Gia tộc có kẻ phản bội**; Robin muốn **chia gánh cho Sunday**. Mục tiêu 151246: mất giọng nặng, sức mạnh trục trặc, **hỏi anh** xem anh có biết gì không. Mục tiêu 151247: giấc mơ có vấn đề, **anh có vẻ giấu** *(「哥哥似乎对此有所隐瞒」)*; nhân lúc còn chỉnh âm được, đi tìm nguồn 「不协和音」.
-3. **113139** — lần theo bất hoà âm, tìm thấy **Firefly bị nhà Chó Săn vây**, chứng kiến Stelle và Gallagher giải vây; **không nên lộ mặt** *(「知更鸟不宜直接露面」)*, phải dùng cách điều tra khác. Mục tiêu 151248–151252 *(năm dòng giống nhau)*: trên cô gái có một tia tạp âm, người tự xưng trị an không nhận ra; **đi theo thẳng thì dễ bị nhận ra** → **dùng 「调律」 để giám sát** *(「直接跟上去的话，自己很容易被其他人认出来…先使用「调律」进行监视吧」)*.
-4. **113140** — dùng năng lực, biết cô gái tự xưng nghệ sĩ nhà Diên Vĩ, nhưng **trong giọng cô không nghe thấy cộng hưởng** *(「听不见共鸣」)*.
+3. **113139** — lần theo bất hoà âm, tìm thấy **Firefly bị Gia Tộc Bloodhound vây**, chứng kiến Stelle và Gallagher giải vây; **không nên lộ mặt** *(「知更鸟不宜直接露面」)*, phải dùng cách điều tra khác. Mục tiêu 151248–151252 *(năm dòng giống nhau)*: trên cô gái có một tia tạp âm, người tự xưng trị an không nhận ra; **đi theo thẳng thì dễ bị nhận ra** → **dùng 「调律」 để giám sát** *(「直接跟上去的话，自己很容易被其他人认出来…先使用「调律」进行监视吧」)*.
+4. **113140** — dùng năng lực, biết cô gái tự xưng nghệ sĩ Gia Tộc Iris, nhưng **trong giọng cô không nghe thấy cộng hưởng** *(「听不见共鸣」)*.
 5. **113141** — Firefly tách Stelle ở khu vui chơi, **nhận tin của Sói Bạc** nhắc đừng quên 「lần chết thứ nhất」; **sau đó** Firefly nhận ra mình có thể bị theo; Robin cho rằng cô gái quả không đơn giản. Mục tiêu 151253–151258: Firefly liên lạc với một đồng bạn; thân phận và mục đích của họ không đơn giản; nối với tạp âm, họ hẳn liên quan tới bất thường của giấc mơ.
 6. **113142** — **Siobhan** *(舒翁)* tình cờ gặp, mời tới quán bar 惊梦; Robin có việc gấp hơn nên từ chối; lúc chia tay Siobhan hỏi Robin **hát vì điều gì**.
-7. **113143** — bất hoà âm **biến mất**; Robin cảm được đường Stelle và Firefly đã đi — qua đường hầm tới **Biên giới Dựng Mộng** *(筑梦边境)*.
+7. **113143** — bất hoà âm **biến mất**; Robin cảm được đường Stelle và Firefly đã đi — qua đường hầm tới **Ranh Giới Xây Mộng** *(筑梦边境)*.
 8. **113144** — mơ ở đó chưa xây xong, Robin **không lần tiếp được**; cô không hiểu vì sao có người mưu hại Gia tộc và Penacony lúc này.
-9. **113145** — hỏi người nhà Chó Săn, không ra; **「Sunday」** xuất hiện ở Biên giới Dựng Mộng, đưa cô tới chỗ vắng.
+9. **113145** — hỏi người Gia Tộc Bloodhound, không ra; **「Sunday」** xuất hiện ở Ranh Giới Xây Mộng, đưa cô tới chỗ vắng.
 10. **113146** — 「Sunday」 hỏi động cơ; Robin nói đang điều tra Meme ký ức 「Tử vong」; cô **nhìn thấu lớp nguỵ trang**, nhịn tới giờ để moi sự thật.
 11. **113147** — **Sparkle** *(花火)* hiện hình; Robin định dùng Hài hoà bắt, lực không đủ; Sparkle đưa cô **một chiếc mặt nạ**, gọi cô là 「「秩序」的双子」, rồi **giết** cô.
 
-Dòng 30091 tóm cùng tuyến ấy theo bốn gạch: điều tra bất hoà âm, nguồn ở Firefly *(lúc bị coi là 偷渡犯)* → dùng 「调律」 giám sát một thời gian → thấy Firefly liên lạc từ xa với Sói Bạc, theo tới Biên giới Dựng Mộng → gặp Sparkle giả Sunday; Hài hoà bất thường nặng thêm, không áp được Sparkle, bị 「giết」.
+Dòng 30091 tóm cùng tuyến ấy theo bốn gạch: điều tra bất hoà âm, nguồn ở Firefly *(lúc bị coi là 偷渡犯)* → dùng 「调律」 giám sát một thời gian → thấy Firefly liên lạc từ xa với Sói Bạc, theo tới Ranh Giới Xây Mộng → gặp Sparkle giả Sunday; Hài hoà bất thường nặng thêm, không áp được Sparkle, bị 「giết」.
 
 ## Chi tiết 3.8 khác liên quan
 
 - **Robin đêm đầu, nhìn từ người khác:** 180593 — một người *(không ghi tên)* kể: lúc Sunday dẫn Robin ra đón Đoàn tàu đã thấy **giọng cô có chút lạ**. Bản 2.0 *(112752)*: Robin dùng 「同谐」的调律 giúp Stelle cử động lại, có Sunday bên cạnh.
-- **Sau khi bị giết:** 30094 — Robin tới **Rạn Mộng Lưu** *(流梦礁)*, được Mikhail giúp làm quen; **Firefly và Dahlia tìm tới**, mời cô về chỗ của Hội Săn Sao; Firefly nói thật mục đích; hai bên **tạm hợp tác** vì giấc mơ đúng là có bất hoà âm.
+- **Sau khi bị giết:** 30094 — Robin tới **Rạn Đá Ngầm Lưu Mộng** *(流梦礁)*, được Mikhail giúp làm quen; **Firefly và Dahlia tìm tới**, mời cô về chỗ của Thợ Săn Stellaron; Firefly nói thật mục đích; hai bên **tạm hợp tác** vì giấc mơ đúng là có bất hoà âm.
 - **Dahlia đốt ký ức buổi gặp:** 112096 — Black Swan đưa Robin đi, nhưng **Dahlia đã đốt toàn bộ ký ức của Robin về buổi gặp ấy**. 113177: Dahlia từng **áp chế sức mạnh Robin** để Sparkle ra tay được.
 - **Black Swan tìm Robin:** 113175 — Black Swan **được Sunday nhờ đi tìm Robin**, lấy lòng tin cô bằng khẩu tín 「谐乐鸽」.
 - **Trong mật thất của Dahlia:** 113171 — 「Mộng Chủ」 từng tặng Robin một câu 「律令」; Robin bước lên mệnh đồ Hài hoà; về lại Penacony thì thấy không hợp với giấc mơ, nghi Gopher Wood *(歌斐木)* đi mệnh đồ 「Trật tự」. 113173: Robin hứa với Firefly sẽ để AR-214 được giấc mơ ghi nhớ; Dahlia cho rằng Robin là người 「Mộng Chủ」 chọn.

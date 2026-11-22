@@ -35,7 +35,7 @@ last_updated: 2026-11-13
 Nguồn: wiki fandom *(honkai-star-rail.fandom.com, API wikitext, tải 22/10/2026)* — các trang nhiệm vụ có **thoại ghi tên người nói**. **[wiki-thoại]** = tóm tắt của mình từ thoại có ghi người nói; chưa đối chiếu TextMap trên máy Aurel.
 
 - **Constance 「The Dahlia」**: Memetic Entity; **Cremator** *(trước là Garden of Recollection)*; Annihilation Gang; Ever-Flame Mansion; Mệnh đồ Hư vô, tìm Huỷ diệt/Ký ức; lồng tiếng EN Cristina Vee. Nhân vật chơi được bản 3.8 *(17/12/2025)*.
-- **Vai ở 3.8** **[wiki-thoại]**: *Another One, Same One* — **một mình tới Đoàn tàu, dẫn Khách Vô Danh qua cõi ý thức để khôi phục ký ức Penacony**, nói sự thật về Finality rồi đi. Ở Penacony cô hiện như đồng minh của nhiều phe bằng khả năng Memokeeper, lộ ra là **người hợp tác của Dreammaster** *(Black Swan nói)*; thực ra cô cố **đốt 「Thiên Luật」** của hắn; cùng Black Swan là **người quen cũ có hiềm khích**. Tự nói với Khách Vô Danh: *「nếu có tiếc nuối cần sửa thì hãy hét lên」*.
+- **Vai ở 3.8** **[wiki-thoại]**: *Another One, Same One* — **một mình tới Đoàn tàu, dẫn Khách Vô Danh qua cõi ý thức để khôi phục ký ức Penacony**, nói sự thật về Finality rồi đi. Ở Penacony cô hiện như đồng minh của nhiều phe bằng khả năng Memokeeper, lộ ra là **người hợp tác của Dreammaster** *(Black Swan nói)*; thực ra cô cố **đốt 「Thiên Luật」** *(cụm này không có trong văn bản game bản Việt/Anh — đối chiếu 22/11/2026; tên chính thức chưa tra)* của hắn; cùng Black Swan là **người quen cũ có hiềm khích**. Tự nói với Khách Vô Danh: *「nếu có tiếc nuối cần sửa thì hãy hét lên」*.
 
 ## Fic nào dùng theo hướng nào
 

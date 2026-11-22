@@ -75,7 +75,7 @@ cùng ý Aurel nhắc 03/10 *(người đi mệnh đồ, lệnh sứ, thành vi�
 
 ## Phe — một dòng mỗi phe
 
-- **Xianzhou Alliance** (仙舟联盟) — liên minh theo Săn bắn; Data Bank tả tàu Luofu 「bắn về phía kẻ thù định mệnh của Chúa Săn」. **[inspected — Data Bank Terms]**
+- **Xianzhou Alliance** (仙舟联盟) — liên minh theo Săn bắn; Data Bank tả tàu Luofu 「bắn về phía kẻ thù định mệnh của Chúa Săn」 *(diễn ý của phiên trước; "Chúa Săn" không có trong bản Việt của game, đối chiếu 22/11/2026)*. **[inspected — Data Bank Terms]**
 - **Cloud Knights** (云骑军) — quân đội của Liên minh. **[inspected — BWIKI, tóm tắt]**
 - **Galaxy Rangers** — tín đồ Săn bắn theo Baidu EN. ⊕ Bản Việt: **Cảnh Binh Thiên Hà**; bản Trung **巡海游侠** *(wiki 03/10 — khớp nhãn BWIKI 「巡海游侠」 ghi trước đó)*. Note phe: [[Galaxy-Rangers]]. BWIKI còn xếp 巡海游侠 dưới Săn bắn, tên Anh **[?]**.
 

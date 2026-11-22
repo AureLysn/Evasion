@@ -6,7 +6,7 @@ lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Sawada Nana (canon KHR)", "沢田 奈々", "me cua Tsunayoshi Sawada", "ba noi tro nha Sawada", "vo cua Iemitsu Sawada", "nguoi khong biet con trai lam mafia"]
+aliases: ["Sawada Nana (canon KHR)", "沢田 奈々", "me cua Tsunayoshi Sawada", "ba noi tro nha Sawada", "vo cua Iemitsu Sawada", "nguoi khong biet con trai lam mafia", "奈奈"]
 related: ["[[Iemitsu-Sawada]]", "[[Sawada-Tsunayoshi]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/locations/Namimori|Namimori]]"]
 source:
   type: fandom_wiki

@@ -8,7 +8,7 @@ status: active
 aliases: ["yama", "yāma", "canh gio An Do", "don vi thoi gian Hindu", "yama thu ba", "third yama", "gio ma", "witching hour", "gio linh hon"]
 related: ["[[_FOLKLORE-MOC]]", "[[_FOLKLORE-MOC|folklore Nhat]]"]
 source:
-  type: author_comment
+  type: reference
   ref: "Chu thich 28 cua tac gia EMB trong personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2; doi chieu 16/09/2026 voi en.wikipedia.org/wiki/Prahara, en.wiktionary.org Appendix:Hindu units of measurement va en.wikipedia.org/wiki/Yama_(disambiguation)."
 authority: ai
 confidence: 0.7

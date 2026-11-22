@@ -8,7 +8,7 @@ status: active
 aliases: ["kitsune no yomeiri", "狐の嫁入り", "dam cuoi cao", "le cuoi cao", "fox wedding", "mua nang", "sunshower", "mua khi troi nang", "kitsunebi", "狐火", "lua cao", "duoc cao", "kitsune taimatsu"]
 related: ["[[kitsune-phan-loai]]", "[[nghi-le-cuoi-shinto]]", "[[kamikakushi]]", "[[_FOLKLORE-MOC|folklore Nhat]]", "[[_FOLKLORE-MOC]]"]
 source:
-  type: author_comment
+  type: reference
   ref: "Chu thich 6 va 38 cua tac gia EMB trong personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2; doi chieu 16/09/2026 voi en.wikipedia.org/wiki/Kitsune_no_yomeiri (doc toan trang qua WebFetch) va yokai.com/kitsunenoyomeiri."
 authority: ai
 confidence: 0.7

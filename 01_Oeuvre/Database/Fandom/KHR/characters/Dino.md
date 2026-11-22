@@ -6,7 +6,7 @@ lane: personal
 universe: KHR
 canon_layer: official_canon
 status: active
-aliases: ["Dino Cavallone (canon KHR)", "ディーノ", "Bronco Dino", "gia truong doi 10 Cavallone", "hoc tro cu cua Reborn"]
+aliases: ["Dino Cavallone (canon KHR)", "ディーノ", "Bronco Dino", "gia truong doi 10 Cavallone", "hoc tro cu cua Reborn", "迪诺", "加百罗涅"]
 related: ["[[Reborn]]", "[[Colonnello]]", "[[Sawada-Tsunayoshi]]"]
 source:
   type: fandom_wiki

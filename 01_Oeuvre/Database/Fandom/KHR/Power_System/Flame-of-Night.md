@@ -29,7 +29,7 @@ last_updated: 2026-11-12
 
 - **[[Bermuda-von-Veckenschtein]] là người đầu tiên tìm ra nó.** Vì tuyệt vọng, cay đắng và căm ghét **Checker Face** *([[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]])*, cái **Arcobaleno Pacifier rỗng** của ông được lấp đầy bằng *"power that surpassed human existence"* ⇒ thành **Clear Pacifier**.
 - Ông dùng nó **giữ lại cơ thể đang phân huỷ**, rồi **cấp nó cho toàn bộ Vindice** khi lập tổ chức.
-- 🔴 **Chỉ Bermuda tạo được.** Vindice **không tự sinh ra** Flame of Night; không được cấp thì họ **mất khả năng và kiệt sức nặng**.
+- 🔴 **Chỉ Bermuda tạo được.** Vindice **không tự sinh ra** Flame of Night; không được cấp thì họ **mất khả năng và kiệt sức nặng** *(câu này chưa tìm thấy trên trang Flame_of_Night / Vindice — đọc 22/11/2026)*.
 
 ## Luật dùng — **một điều duy nhất được tiết lộ**
 
@@ -57,7 +57,7 @@ Jaeger nói việc dùng Flame này bị chi phối bởi **một bộ luật do
 
 - ⚠️ Chưa mở trực tiếp Ch.403; trích dẫn lấy từ wiki.
 - ⚠️ **Không rõ Demon Spade có được Flame ấy bằng cách nào.**
-- ⚠️ **Sáu điều luật còn lại của Flame of Night chưa từng được nêu** — truyện chỉ cho một. Đừng bịa thêm rồi ghi như canon.
+- ⚠️ Wiki chỉ nói Flame of Night có **"a set of laws"**, và **một luật duy nhất** đã lộ (phải có thân thể vật lý). Không nguồn nào nói có bao nhiêu luật. Đừng bịa thêm rồi ghi như canon.
 
 ## Fic nào dùng theo hướng nào
 

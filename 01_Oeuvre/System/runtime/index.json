@@ -2500,6 +2500,7 @@
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/rokudo-mukuro-tdtb.md"
   ],
   "加百罗涅": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Dino.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/organizations/vongola-hnqt.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/dino-tdtb.md"
   ],
@@ -2550,6 +2551,7 @@
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/02_Story_Bible/characters/dazai.md"
   ],
   "奈奈": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Nana-Sawada.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/sawada-nana-hnqt.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/TDTB_thap-dai-muc-trang-b/02_Story_Bible/characters/sawada-nana-tdtb.md"
   ],
@@ -2801,6 +2803,10 @@
   "轟焦凍": [
    "05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/Todoroki-Shouto.md",
    "05_Evasion/01_Oeuvre/Studio/Continue/UNTCH_untouchable/02_Story_Bible/characters/todoroki-shouto.md"
+  ],
+  "迪诺": [
+   "05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Dino.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/02_Story_Bible/characters/dino-hnqt.md"
   ],
   "那个人": [
    "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/03_Development/tracker/hook-nguoi-ma-mahito-goi-la-nguoi-do-hnqt.md",
@@ -9254,7 +9260,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 569
+   "words": 586
   },
   {
    "aliases": [
@@ -9467,7 +9473,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 402
+   "words": 421
   },
   {
    "aliases": [
@@ -9686,7 +9692,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 579
+   "words": 581
   },
   {
    "aliases": [
@@ -9783,7 +9789,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 1222
+   "words": 1239
   },
   {
    "aliases": [
@@ -10026,7 +10032,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 1123
+   "words": 1125
   },
   {
    "aliases": [
@@ -10128,7 +10134,7 @@
     "p/personal"
    ],
    "type": "character",
-   "words": 1310
+   "words": 1363
   },
   {
    "aliases": [
@@ -10392,7 +10398,7 @@
     "p/personal"
    ],
    "type": "location",
-   "words": 2760
+   "words": 2770
   },
   {
    "aliases": [
@@ -10435,7 +10441,7 @@
     "p/personal"
    ],
    "type": "location",
-   "words": 1915
+   "words": 1930
   },
   {
    "aliases": [
@@ -10554,7 +10560,7 @@
     "p/personal"
    ],
    "type": "fact",
-   "words": 890
+   "words": 907
   },
   {
    "aliases": [
@@ -10591,7 +10597,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 2879
+   "words": 2894
   },
   {
    "aliases": [
@@ -11805,7 +11811,9 @@
     "ディーノ",
     "Bronco Dino",
     "gia truong doi 10 Cavallone",
-    "hoc tro cu cua Reborn"
+    "hoc tro cu cua Reborn",
+    "迪诺",
+    "加百罗涅"
    ],
    "always_load": false,
    "authority": "fandom",
@@ -11820,7 +11828,9 @@
     "gia truong doi 10 cavallone",
     "hoc tro cu cua reborn",
     "ティーノ",
-    "ディーノ"
+    "ディーノ",
+    "加百罗涅",
+    "迪诺"
    ],
    "lane": "personal",
    "last_updated": "2026-09-28",
@@ -12461,7 +12471,8 @@
     "me cua Tsunayoshi Sawada",
     "ba noi tro nha Sawada",
     "vo cua Iemitsu Sawada",
-    "nguoi khong biet con trai lam mafia"
+    "nguoi khong biet con trai lam mafia",
+    "奈奈"
    ],
    "always_load": false,
    "authority": "fandom",
@@ -12476,6 +12487,7 @@
     "nguoi khong biet con trai lam mafia",
     "sawada nana canon khr",
     "vo cua iemitsu sawada",
+    "奈奈",
     "沢田 奈々"
    ],
    "lane": "personal",
@@ -13998,7 +14010,7 @@
     "p/personal"
    ],
    "type": "canon",
-   "words": 445
+   "words": 472
   },
   {
    "aliases": [
@@ -14126,7 +14138,7 @@
     "p/personal"
    ],
    "type": "canon",
-   "words": 572
+   "words": 620
   },
   {
    "aliases": [

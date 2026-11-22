@@ -8,7 +8,7 @@ status: active
 aliases: ["le cuoi Shinto", "shinzen shiki", "san-san-kudo", "三々九度", "chikai no sakazuki", "tamagushi", "玉串", "shiromuku", "白無垢", "uchikake", "tsunokakushi", "角隠し", "wataboshi", "綿帽子", "kakeshita", "amazake", "shinzokuhai-no-gi", "sanshin", "trang phuc co dau Nhat"]
 related: ["[[kitsune-no-yomeiri]]", "[[kamikakushi]]", "[[_FOLKLORE-MOC|folklore Nhat]]", "[[_FOLKLORE-MOC]]"]
 source:
-  type: author_comment
+  type: reference
   ref: "Chu thich 13, 18-20, 22, 24, 26, 29-32, 34-35, 39-44 cua tac gia EMB trong personal-bulk:fiction-sources/EMB/raw/original-fic/Ex-Mafia_Boss_Spends.html Ch2; doi chieu 16/09/2026 voi en.wikipedia.org/wiki/Shinto_wedding va cac nguon ve san-san-kudo."
 authority: ai
 confidence: 0.7

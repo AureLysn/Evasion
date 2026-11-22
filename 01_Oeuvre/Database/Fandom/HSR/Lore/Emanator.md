@@ -31,7 +31,7 @@ last_updated: 2026-10-03
 
 ## Trở thành lệnh sứ thế nào
 
-- **Cái liếc (瞥视 / glance):** Data Bank 「Pathstrider」 — *"The Aeons usually ignore those mortals who walk upon THEIR Paths."* Cái liếc hiếm hoi, *"be it in approval or pity"*, được tín đồ trân trọng. **[inspected]**
+- **Cái liếc (瞥视 / glance):** Data Bank 「Pathstrider」 — các Aeon thường không để mắt tới phàm nhân đi trên Vận Mệnh của mình *(diễn ý; văn bản game: "…set foot on the Paths ruled by Aeons…")* Cái liếc hiếm hoi, *"be it in approval or pity"*, được tín đồ trân trọng. **[inspected]**
 - ⚠️ **Liếc ≠ phong lệnh sứ.** Data Bank tách hai mục: liếc là Aeon **để ý** một người đi mệnh đồ; lệnh sứ là **được phép** rút sức mạnh. Liếc có phải **bước bắt buộc** trước khi thành lệnh sứ hay không — **chưa xác minh**.
 - **Cố ý hoặc vô tình:** wiki fandom (qua tóm tắt tìm kiếm, trang trả 402) — có Aeon **chọn** lệnh sứ (Nanook → Lord Ravagers / 绝灭大君), có Aeon ban **vô tình** (IX → Self-Annihilators). **[inspected, gián tiếp — 0.75]** Chi tiết phía IX: [[IX]].
 - ⊕ **Văn bản game 4.6.0 (03/10/2026):** Nanook *"liếc nhìn"* những sinh vật có sức huỷ diệt, **đánh dấu và ban sức mạnh**; Chúa Tể Diệt Chủng là **Lệnh Sứ do Nanook chọn lựa**. Xác nhận ví dụ 「cố ý」 ở dòng trên — trước đó chỉ có snippet. Bản Việt dùng đúng chữ **「Lệnh Sứ」**. **[game text]**

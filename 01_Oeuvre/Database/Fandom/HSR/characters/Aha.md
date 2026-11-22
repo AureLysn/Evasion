@@ -25,7 +25,7 @@ last_updated: 2026-09-25
 ## Nhận dạng và triết lý
 
 - Bản Trung 阿哈. Lời đề của mục Data Bank: *"The Erudition is a hunk of junk, the Preservation is a fool"*. **[inspected]**
-- Triết lý: niềm vui là **đặc quyền của sinh vật có trí tuệ** — *"only the wise and sentient possess the privilege of understanding joy"*; trò chơi của Aha *"bears no winners or losers"*. **[inspected — Data Bank]**
+- Triết lý: niềm vui là **đặc quyền của sinh vật có trí tuệ** — *"only the wise and sentient possess the privilege of understanding joy"*; trò chơi của Aha *"bears no winners or losers"*. **[inspected — bản chép Data Bank trên hoyodex; hai câu này không khớp nguyên văn văn bản game, đối chiếu 22/11/2026]**
 - Dụ ngôn của Masked Fools (Data Bank): Aha lên cành cao nhất của Cây Tồn tại, thấy hư vô lạnh lẽo; rồi thấy một đứa bé ngã và khóc — và **bật cười**, tiếng cười còn vang khắp vũ trụ. **[inspected]**
 
 ## Masked Fools (假面愚者) — điều Vui sướng coi trọng
