@@ -224,7 +224,7 @@ last_updated: 2026-11-21
 | warp | 跃迁 | TextMap cn |
 | Robin gọi Sunday | 哥哥 (khi giới thiệu với người khác: 兄长) | TextMap cn |
 | Gallagher | 加拉赫 | TextMap cn |
-| Gia Tộc Bloodhound · mấy thành viên trẻ của Gia Tộc Bloodhound | 猎犬家系 · 年轻的猎犬 | 猎犬家系: TextMap cn; 年轻的猎犬: **chưa thấy** trong TextMap cn bản 23/11/2026 |
+| Gia Tộc Bloodhound · mấy thành viên trẻ của Gia Tộc Bloodhound | 猎犬家系 · 幼犬 | TextMap cn *(đối chiếu 23/11/2026: Gallagher gọi đám trẻ là 「我豢养的幼犬」, bản Anh "young Bloodhounds"; 年轻的猎犬 trước đây là chữ phiên viết đặt, game không có)* |
 | Gia Tộc Iris | 鸢尾花家系 | TextMap cn |
 | kẻ lậu vé | 偷渡犯 | TextMap cn |
 | Cửa hàng Mộng cảnh | 梦境贩售店 | TextMap cn |
@@ -274,10 +274,10 @@ last_updated: 2026-11-21
 | Jade | 翡翠 | TextMap cn |
 | Topaz | 托帕 | TextMap cn |
 | phiếu cầm đồ | 当票 | TextMap cn |
-| giữ hộ · tạm thời bảo quản | 保管 · 暂为保管 | 保管: TextMap cn; 暂为保管: **chưa thấy** trong TextMap cn bản 23/11/2026 |
+| giữ hộ | 保管 | TextMap cn *(đối chiếu 23/11/2026: 暂为保管 là chữ phiên viết CLS đặt cho biên nhận, game không có — ghi ở bảng tên chương ch04)* |
 | Clock Studios Theme Park | 劳克影视乐园 | TextMap cn |
 | Swarm Nightmare | 深魇蝗灾 | TextMap cn |
-| “King of Humankind” | 人类之王 | **chưa thấy** trong TextMap cn bản 23/11/2026 |
+| “King of Humankind” | 「人之君王」 · 人的君王 | TextMap cn *(đối chiếu 23/11/2026: 「此处再无神明，造就乐园的，乃是「人之君王」！」, câu sau dùng 人的君王; bản Việt "Vua Của Loài Người"; 人类之王 trước đây là chữ phiên viết đặt, game không có)* |
 | Tiernan · Razalina | 铁尔南 · 拉扎莉娜 | TextMap cn |
 | dì Jessie | 翠丝阿姨 | TextMap cn |
 | Path | 命途 | bộ name Aurel (Name HSR - Tổng.csv) |
