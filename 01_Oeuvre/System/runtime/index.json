@@ -2269,6 +2269,10 @@
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/khung-aeon-hai-nhom.md",
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/questions/q-aeon-len-ke-hoach-co-lenh-su.md"
   ],
+  "viec mo": [
+   "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/viec-mo.md",
+   "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/05_Management/viec-mo.md"
+  ],
   "viet theo dang thuong thay": [
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/01_Project-canon/sources/user-input/20261004-giu-an-va-van-xuoi-pho-thong.md",
    "05_Evasion/01_Oeuvre/Studio/Original/CLS_crossover-va-lenh-su/05_Management/decisions/giong-van-pho-thong-khong-nhai-ai.md"
@@ -2855,7 +2859,7 @@
   ]
  },
  "built": "2026-11-23",
- "count": 1667,
+ "count": 1668,
  "missing_aliases": [],
  "notes": [
   {
@@ -34634,6 +34638,39 @@
    ],
    "type": "question",
    "words": 161
+  },
+  {
+   "aliases": [
+    "viec mo EMB",
+    "việc mở EMB",
+    "open items EMB"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "info.EMB.viec-mo",
+   "keys": [
+    "info emb viec mo",
+    "open items emb",
+    "viec mo",
+    "viec mo emb",
+    "việc mở emb"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-23",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/05_Management/viec-mo.md",
+   "project": "EMB",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 89
   },
   {
    "aliases": [
