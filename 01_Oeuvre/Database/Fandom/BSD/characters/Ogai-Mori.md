@@ -10,7 +10,7 @@ aliases: ["Mori", "Mori Ogai", "Ogai Mori", "森鴎外", "森鸥外", "Vita Sexu
 related: ["[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Mimic]]", "[[Andre-Gide]]", "[[Taneda-Santouka]]", "[[Dazai-Osamu]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Ogai Mori (thong tin, Personality), Mimic, Dark Era Arc."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Ogai Mori (thong tin, Personality), Mimic, Dark Era Arc. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/%C5%8Cgai_Mori"
 authority: fandom
 confidence: 0.65
 always_load: false

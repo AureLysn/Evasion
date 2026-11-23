@@ -10,7 +10,7 @@ aliases: ["Chuuya", "Chuya", "Chūya", "Nakahara Chuuya", "Nakahara Chūya", "Ch
 related: ["[[BEAST-IF]]", "[[Dazai-Osamu-BEAST]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Chuya: 'manipulate the gravity of objects as long as he is in contact with them, including himself'). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Upon the Tainted Sorrow' (can cham, khong can giu cham); BSD Wiki / Villains Wiki ve Chuuya BEAST."
+  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Chuya: 'manipulate the gravity of objects as long as he is in contact with them, including himself'). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Upon the Tainted Sorrow' (can cham, khong can giu cham); BSD Wiki / Villains Wiki ve Chuuya BEAST. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Ch%C5%ABya_Nakahara"
 authority: fandom
 confidence: 0.65
 always_load: false

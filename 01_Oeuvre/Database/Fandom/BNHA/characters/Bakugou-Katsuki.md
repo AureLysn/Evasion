@@ -10,7 +10,7 @@ aliases: ["Bakugou Katsuki", "Bakugo Katsuki", "Katsuki Bakugo", "Katsuki Bakugo
 related: ["[[bnha|hồ sơ universe BNHA]]", "[[Quirk]]", "[[Quirk-Types]]", "[[One-For-All]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/_MOC|characters/_MOC]]"]
 source:
   type: fandom_wiki
-  ref: "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo + /wiki/One_For_All — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 thieu infobox va ket luan SAI rang trang khong co bang chi so."
+  ref: "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo + https://myheroacademia.fandom.com/wiki/One_For_All — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 thieu infobox va ket luan SAI rang trang khong co bang chi so."
 authority: fandom
 confidence: 0.95
 always_load: false

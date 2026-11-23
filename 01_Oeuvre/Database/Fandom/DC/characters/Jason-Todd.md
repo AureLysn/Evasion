@@ -10,7 +10,7 @@ aliases: ["Jason Todd", "Jason Peter Todd", "Red Hood", "Red Hood II", "Robin II
 related: ["[[dc]]", "[[_DC-MOC]]"]
 source:
   type: fandom_wiki
-  ref: "Wikipedia: 'Jason Todd', 'Batman: A Death in the Family', 'Batman: Under the Hood', 'Batman: Hush', 'Batman: Under the Red Hood', 'Red Hood: The Lost Days' (doc qua WebFetch 2026-09-25); dc.com blog 2025-03-18 'How Batman: Hush Changed Jason Todd's Look for Good'; doan tom tat tim kiem cua dc.fandom.com Teen_Titans_Vol_3_29 va Batman_Annual_Vol_1_25 (trang goc tra 402). CHUA doc ban quet issue nao."
+  ref: "Wikipedia: 'Jason Todd', 'Batman: A Death in the Family', 'Batman: Under the Hood', 'Batman: Hush', 'Batman: Under the Red Hood', 'Red Hood: The Lost Days' (doc qua WebFetch 2026-09-25); dc.com blog 2025-03-18 'How Batman: Hush Changed Jason Todd's Look for Good'; doan tom tat tim kiem cua dc.fandom.com Teen_Titans_Vol_3_29 va Batman_Annual_Vol_1_25 (trang goc tra 402). CHUA doc ban quet issue nao. | Trang doi chieu 22/11/2026: https://dc.fandom.com/wiki/Jason_Todd"
 authority: fandom
 confidence: 0.75
 always_load: false

@@ -10,7 +10,7 @@ aliases: ["Mimic", "ミミック", "Mimikku", "dao quan ma", "fantome escouade",
 related: ["[[Andre-Gide]]", "[[Ogai-Mori]]", "[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Akutagawa-Ryunosuke]]", "[[Taneda-Santouka]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Mimic, Dark Era Arc."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Mimic, Dark Era Arc. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Mimic"
 authority: fandom
 confidence: 0.65
 always_load: false

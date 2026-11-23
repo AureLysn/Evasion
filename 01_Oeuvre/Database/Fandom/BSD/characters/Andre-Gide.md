@@ -10,7 +10,7 @@ aliases: ["Gide", "Andre Gide", "André Gide", "アンドレ・ジイド", "Stra
 related: ["[[Mimic]]", "[[Sakunosuke-Oda]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Andre Gide (thong tin, Personality, Ability, History)."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Andre Gide (thong tin, Personality, Ability, History). | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Andr%C3%A9_Gide"
 authority: fandom
 confidence: 0.65
 always_load: false

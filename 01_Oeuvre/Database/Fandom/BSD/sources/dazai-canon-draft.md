@@ -10,7 +10,7 @@ aliases: ["ho so canon Dazai draft", "Dazai canon nhap", "Dazai Osamu canon draf
 related: ["[[bsd|BSD universe]]", "[[_BSD-MOC]]"]
 source:
   type: franchise_canon
-  ref: "Soan cho du an KHR x JJK x BSD cua Aurel — AI viet tu kien thuc mo hinh + tra Wikipedia/BSD Wiki, CHUA doi chieu manga va light novel goc. Nhan qua goi ho-so-nhan-vat tu Aurel, 2026-09-04."
+  ref: "Soan cho du an KHR x JJK x BSD cua Aurel — AI viet tu kien thuc mo hinh + tra Wikipedia/BSD Wiki, CHUA doi chieu manga va light novel goc. Nhan qua goi ho-so-nhan-vat tu Aurel, 2026-09-04. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Osamu_Dazai"
 authority: ai
 confidence: 0.85
 immutable: true

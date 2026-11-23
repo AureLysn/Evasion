@@ -10,7 +10,7 @@ aliases: ["Midoriya Izuku", "Izuku Midoriya", "Midoriya", "Izuku", "緑谷出久
 related: ["[[bnha|hồ sơ universe BNHA]]", "[[Quirk]]", "[[Quirk-Types]]", "[[One-For-All]]", "[[All-For-One]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/_MOC|characters/_MOC]]"]
 source:
   type: fandom_wiki
-  ref: "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya + /wiki/One_For_All — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 doc thieu infobox, thieu muc Former Quirks/Stats/Equipment, va DOC NGUOC bang chi so."
+  ref: "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya + https://myheroacademia.fandom.com/wiki/One_For_All — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 doc thieu infobox, thieu muc Former Quirks/Stats/Equipment, va DOC NGUOC bang chi so."
 authority: fandom
 confidence: 0.95
 always_load: false

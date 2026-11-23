@@ -10,7 +10,7 @@ aliases: ["Hirotsu", "Hirotsu Ryuro", "Ryūrō Hirotsu", "広津柳浪", "Fallin
 related: ["[[Ogai-Mori]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Ryuro Hirotsu (thong tin, Personality)."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Ryuro Hirotsu (thong tin, Personality). | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Ry%C5%ABr%C5%8D_Hirotsu"
 authority: fandom
 confidence: 0.65
 always_load: false

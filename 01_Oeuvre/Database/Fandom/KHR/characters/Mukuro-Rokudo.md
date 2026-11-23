@@ -30,7 +30,7 @@ last_updated: 2026-09-28
 
 - **Thủ hộ Sương mù (Mist Guardian)** đời thứ mười của Vongola. Sinh **9 tháng 6**, 15 tuổi tại thời điểm arc Kokuyo, cao 177.5cm, nặng 62kg (Wikipedia tiếng Nhật, mục 六道骸).
 - Là nạn nhân thí nghiệm người của **gia tộc Estraneo (Estranio Family)**, trốn thoát và mang thù hận sâu sắc với mafia nói chung.
-- Sau lần đối đầu đầu tiên với Tsuna, bị giam ở **nhà tù báo thù** — tức **[[Vindice-Prison]]** (Wikipedia tiếng Nhật dùng cụm "復讐の施設"/nhà tù báo thù, khớp với tên gọi Vindice ở note đã có).
+- Sau lần đối đầu đầu tiên với Tsuna, bị giam ở **nhà tù báo thù** — tức **[[Vindice-Prison]]** (Wikipedia tiếng Nhật dùng cụm "復讐の施設"/nhà tù báo thù, khớp với tên gọi Vindice ở note đã có; trang hiện tại **không còn** cụm này — đối chiếu 22/11/2026).
 
 ## Ngoại hình
 

@@ -10,7 +10,7 @@ aliases: ["Kouyou", "Koyo", "Ozaki Koyo", "Kōyō Ozaki", "尾崎紅葉", "Golde
 related: ["[[Ogai-Mori]]", "[[Nakahara-Chuuya]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Koyo Ozaki (thong tin, Personality)."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Koyo Ozaki (thong tin, Personality). | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/K%C5%8Dy%C5%8D_Ozaki"
 authority: fandom
 confidence: 0.65
 always_load: false

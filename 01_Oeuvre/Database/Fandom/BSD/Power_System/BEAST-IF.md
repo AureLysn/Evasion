@@ -10,7 +10,7 @@ aliases: ["BEAST", "BSD BEAST", "Bungo Stray Dogs BEAST", "Bungou Stray Dogs BEA
 related: ["[[bsd]]", "[[The-Book]]", "[[Dazai-Osamu-BEAST]]", "[[Sakunosuke-Oda]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Nakahara-Chuuya]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: yenpress.com (LN Vol.6 'Beast', synopsis chinh thuc); en.wikipedia 'Bungo Stray Dogs' (muc Beast: LN, manga Hoshikawa Shiwasu 4 tap 2019-12-26 -> 2022-01-26, phim 2022-01-07) va 'Bungo Stray Dogs The Movie: Beast' (dao dien Sakamoto Koichi, dan dien vien, Asagiri viet canh moi cho phim). CHI QUA TRICH DOAN TIM KIEM (trang goc tra HTTP 402/403): BSD Wiki 'Bungo Stray Dogs: BEAST', 'BEAST Osamu Dazai' (+ /Synopsis), 'BEAST Chapter 17/18/21' (chuong MANGA BEAST), 'BEAST Atsushi Nakajima', 'BEAST Ranpo Edogawa/Synopsis'; NamuWiki (en) 'Osamu Dazai (BEAST)', 'Sakunosuke Oda (BEAST)'. Khong doc duoc ban in LN hay trang manga nao."
+  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: yenpress.com (LN Vol.6 'Beast', synopsis chinh thuc); en.wikipedia 'Bungo Stray Dogs' (muc Beast: LN, manga Hoshikawa Shiwasu 4 tap 2019-12-26 -> 2022-01-26, phim 2022-01-07) va 'Bungo Stray Dogs The Movie: Beast' (dao dien Sakamoto Koichi, dan dien vien, Asagiri viet canh moi cho phim). CHI QUA TRICH DOAN TIM KIEM (trang goc tra HTTP 402/403): BSD Wiki 'Bungo Stray Dogs: BEAST', 'BEAST Osamu Dazai' (+ /Synopsis), 'BEAST Chapter 17/18/21' (chuong MANGA BEAST), 'BEAST Atsushi Nakajima', 'BEAST Ranpo Edogawa/Synopsis'; NamuWiki (en) 'Osamu Dazai (BEAST)', 'Sakunosuke Oda (BEAST)'. Khong doc duoc ban in LN hay trang manga nao. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Bungo_Stray_Dogs:_BEAST"
 authority: fandom
 confidence: 0.6
 always_load: false

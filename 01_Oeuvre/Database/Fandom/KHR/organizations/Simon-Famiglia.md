@@ -10,7 +10,7 @@ aliases: ["Simon Famiglia", "Shimon Famiglia", "Shimon Family", "シモンファ
 related: ["[[Kozato-Enma]]", "[[Tri-ni-sette]]", "[[Vongola-Ring]]", "[[Vindice]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Skull|Skull]]"]
 source:
   type: fandom_wiki
-  ref: "ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! (doc thang trang 2026-09-28: 'シモンリング' va '大地の七属性'); reborn.fandom.com/wiki/Earth_Flame, /Simon_Decimo_%26_Guardians, /Ring, /Simon_Ring, /Vongola_Sin, /Penalty, /Team_Skull — CHI qua snippet may tim kiem (HTTP 402). Chua lat manga."
+  ref: "ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! (doc thang trang 2026-09-28: 'シモンリング' va '大地の七属性'); reborn.fandom.com/wiki/Earth_Flame, /Simon_Decimo_%26_Guardians, /Ring, /Simon_Ring, /Vongola_Sin, /Penalty, /Team_Skull — CHI qua snippet may tim kiem (HTTP 402). Chua lat manga. | Doi chieu 22/11/2026: bay Flame he Earth co o https://reborn.fandom.com/wiki/Dying_Will_Flame; ten thanh vien (Adelheid, Julie, Koyo, Rauji, Shitt P., Kaoru) khong co tren trang Simon_Famiglia lan Earth_Flame - chua co nguon"
 authority: fandom
 confidence: 0.7
 always_load: false

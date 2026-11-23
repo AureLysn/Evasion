@@ -10,7 +10,7 @@ aliases: ["Ango", "Sakaguchi Ango", "Ango Sakaguchi", "坂口安吾", "安吾", 
 related: ["[[Taneda-Santouka]]", "[[Sakunosuke-Oda]]", "[[BEAST-IF]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Ango Sakaguchi). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Ango Sakaguchi', 'Port Mafia'."
+  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Ango Sakaguchi). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Ango Sakaguchi', 'Port Mafia'. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Ango_Sakaguchi"
 authority: fandom
 confidence: 0.65
 always_load: false

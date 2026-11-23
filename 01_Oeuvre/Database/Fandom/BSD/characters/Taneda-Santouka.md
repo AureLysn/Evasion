@@ -10,7 +10,7 @@ aliases: ["Taneda", "Taneda Santouka", "Taneda Santōka", "Santōka Taneda", "Sa
 related: ["[[Sakaguchi-Ango]]", "[[BEAST-IF]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Santoka Taneda). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Santoka Taneda', 'Hail in the Begging Bowl'."
+  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Santoka Taneda). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'Santoka Taneda', 'Hail in the Begging Bowl'. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Sant%C5%8Dka_Taneda"
 authority: fandom
 confidence: 0.6
 always_load: false
