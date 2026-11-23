@@ -42,5 +42,5 @@ last_updated: 2026-11-08
 
 ## 3. Lịch sử tách luật & chuyển đổi
 
-- [[tach-luat-chung-tu-EMB]] — Đề xuất và nhật ký tách luật chung khỏi dự án hạt nhân `EMB` sang tầng hệ thống và thư viện.
+- [[tach-luat-chung-tu-EMB]] *(biên bản lịch sử, ở `Principle/Archive/` từ 23/11/2026)* — Đề xuất và nhật ký tách luật chung khỏi dự án hạt nhân `EMB` sang tầng hệ thống và thư viện.
 - [[_OEUVRE-MOC]] — Bản đồ Fiction Studio.

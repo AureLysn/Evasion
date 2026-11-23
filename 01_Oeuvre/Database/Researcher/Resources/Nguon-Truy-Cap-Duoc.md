@@ -7,6 +7,11 @@ canon_layer: user_canon
 status: active
 aliases: ["nguon truy cap duoc", "source reachability", "fetch duoc khong", "robots blocked", "nguon nao doc duoc", "reachability"]
 related: ["[[KHR-Research-Method]]"]
+source:
+  type: inference
+  ref: "AI tong hop; last_updated 14/08/2026. Lich su git chi bat dau 14/11/2026 (repo dung lai) nen khong co ngay mo chinh xac. Note khong ghi nguon ngoai rieng; du kien cu the nam o cac note con co source rieng. Ghi theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.6
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-08-14

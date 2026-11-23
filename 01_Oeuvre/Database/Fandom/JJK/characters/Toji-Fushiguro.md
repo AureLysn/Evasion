@@ -6,7 +6,7 @@ lane: personal
 universe: JJK
 canon_layer: official_canon
 status: active
-aliases: ["Toji Fushiguro", "伏黑甚尔", "Toji Zen'in", "Fushiguro Toji"]
+aliases: ["Toji Fushiguro", "伏黑甚尔", "Toji Zen'in", "Fushiguro Toji", "禅院甚尔"]
 related: ["[[Zenin-clan]]", "[[Riko-Amanai]]", "[[Misato-Kuroi]]", "[[Satoru-Gojo]]", "[[Suguru-Geto]]", "[[Time-Vessel-Association]]", "[[Hidden-Inventory-Premature-Death]]", "[[jjk]]"]
 source:
   type: fandom_wiki

@@ -8,6 +8,11 @@ status: active
 strength: tendency
 aliases: ["pacing", "nhip truyen", "kiem soat nhip do", "style.GLOBAL.pacing"]
 related: ["[[_PRINCIPLE-MOC]]", "[[scene-goal-conflict-outcome]]", "[[scene-and-sequel]]", "[[scene-must-turn]]"]
+source:
+  type: inference
+  ref: "AI tong hop khi tach luat chung khoi EMB (tach-luat-chung-tu-EMB, Aurel 21/08/2026: quy dinh chung giu trong system/database); noi dung tro ve Curated_Notes/writing: scene-goal-conflict-outcome, scene-and-sequel, scene-must-turn. Ghi nguon theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.7
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [s/pacing]
 last_updated: 2026-11-08

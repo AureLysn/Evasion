@@ -7,6 +7,11 @@ universe: Fate
 canon_layer: official_canon
 status: active
 aliases: ["Fate", "Fate/Zero", "Fate Zero", "Nasuverse", "TYPE-MOON", "universe Fate", "Chen Thanh chien tranh"]
+source:
+  type: inference
+  ref: "AI tong hop; mo 13/09/2026 (theo _Fate-MOC). Lich su git chi bat dau 14/11/2026 (repo dung lai) nen khong co ngay mo chinh xac. Note khong ghi nguon ngoai rieng; du kien cu the nam o cac note con co source rieng. Ghi theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.6
 always_load: true
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-09-13
