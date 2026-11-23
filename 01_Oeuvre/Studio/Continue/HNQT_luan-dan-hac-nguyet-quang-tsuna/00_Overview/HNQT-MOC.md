@@ -9,7 +9,7 @@ aliases: ["moc HNQT","ban do HNQT"]
 related: ["[[HNQT]]","[[_OEUVRE-MOC]]"]
 always_load: false
 tags: [d/fanfic, k/note, p/personal]
-last_updated: 2026-10-14
+last_updated: 2026-11-23
 ---
 
 # HNQT — bản đồ
@@ -32,6 +32,7 @@ Note định danh: [[HNQT]]. Thứ tự dựng 0–9: [[quy-uoc-ma-project]].
 | `chapters/` | chương đã viết | ⬜ chưa có |
 | `decisions/` | lựa chọn đã khoá | ⬜ chưa có |
 | `questions/` | câu hỏi chưa quyết | ✅ 15 note, đều `unresolved` |
+| `viec-mo` | việc mở của project | [[05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/05_Management/viec-mo\|viec-mo]] |
 | `inbox/` | ý tưởng rời, chờ phân loại | ⬜ chưa có |
 | `snapshots/` | ảnh chụp trạng thái | ⬜ chưa có |
 | `style/` | hồ sơ văn phong | ⬜ chưa có |
