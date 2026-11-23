@@ -2855,7 +2855,7 @@
   ]
  },
  "built": "2026-11-23",
- "count": 1666,
+ "count": 1667,
  "missing_aliases": [],
  "notes": [
   {
@@ -34722,7 +34722,7 @@
     "moc hnqt"
    ],
    "lane": "personal",
-   "last_updated": "2026-10-14",
+   "last_updated": "2026-11-23",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/00_Overview/HNQT-MOC.md",
    "project": "HNQT",
    "scope": "project",
@@ -34734,7 +34734,7 @@
     "p/personal"
    ],
    "type": "info",
-   "words": 242
+   "words": 252
   },
   {
    "aliases": [
@@ -41504,6 +41504,39 @@
    ],
    "type": "question",
    "words": 58
+  },
+  {
+   "aliases": [
+    "viec mo HNQT",
+    "việc mở HNQT",
+    "open items HNQT"
+   ],
+   "always_load": false,
+   "authority": "user",
+   "canon_layer": "user_canon",
+   "confidence": 1.0,
+   "id": "info.HNQT.viec-mo",
+   "keys": [
+    "info hnqt viec mo",
+    "open items hnqt",
+    "viec mo",
+    "viec mo hnqt",
+    "việc mở hnqt"
+   ],
+   "lane": "personal",
+   "last_updated": "2026-11-23",
+   "path": "05_Evasion/01_Oeuvre/Studio/Continue/HNQT_luan-dan-hac-nguyet-quang-tsuna/05_Management/viec-mo.md",
+   "project": "HNQT",
+   "scope": "project",
+   "status": "active",
+   "strength": "",
+   "tags": [
+    "d/fanfic",
+    "k/note",
+    "p/personal"
+   ],
+   "type": "info",
+   "words": 91
   },
   {
    "aliases": [
