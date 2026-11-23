@@ -22,7 +22,7 @@ last_updated: 2026-11-21
 
 > Gom từ các bảng tên của project CLS *(viết tháng 10–11/2026)*. Chỉ giữ **tên ↔ chữ Hán** và mức chắc chắn; cách một chương cụ thể dùng tên thì không chép sang.
 >
-> - **TextMap cn** — tra chuỗi TextMap tiếng Trung của game. Dùng được.
+> - **TextMap cn** — tra chuỗi TextMap tiếng Trung của game. Dùng được. Toàn bảng đã đối chiếu lại với gói chữ cn cài ngày 23/11/2026 (file .bytes gốc, bỏ thẻ định dạng).
 > - **bộ name Aurel** — khớp bảng tên `Name HSR - Tổng.csv` của Aurel.
 > - **chưa đối chiếu CSV** — tên dùng trong project hoặc tra BWIKI, chưa khớp với bảng của Aurel; nguồn ghi trong ngoặc. Dùng thận trọng.
 > - **chưa chắc** — tên Việt có nguồn, chữ Hán chưa tra.
@@ -50,7 +50,7 @@ last_updated: 2026-11-21
 | Dovebrook | 鸽川 | TextMap cn |
 | Văn Phòng Thám Tử | 不死途侦探事务所 | TextMap cn |
 | Điện Hạ Tu La-Súng Bạc (Rappa gọi Boothill) | 银枪•修罗殿下 | TextMap cn |
-| Biệt danh Rappa đặt: Gậy Bóng Chày / Ruri / Hiryū | 球棒忍者 / 琉璃忍者 / 飞龙忍者 | chưa chắc *(tên Việt theo TextMap)* |
+| Biệt danh Rappa đặt: Gậy Bóng Chày / Ruri / Hiryū | 球棒•忍者 / 琉璃•忍者 / 飞龙•忍者 | TextMap cn *(đối chiếu 23/11/2026: game viết có dấu •; tên Việt vẫn chưa chắc)* |
 | Tổ Chức Đồng Nguyện | 共愿帮 | TextMap cn |
 | Quán Rượu "Tận Thế" | 世界尽头酒馆 | TextMap cn |
 | Mặt Nạ Sói | 狼之面具 | TextMap cn |
@@ -58,7 +58,7 @@ last_updated: 2026-11-21
 | Fulwish | 满愿 | TextMap cn |
 | Dan Heng | 丹恒 | bộ name Aurel (Name HSR - Tổng.csv) |
 | Trò Chơi Ảo Nguyệt | 幻月游戏 | TextMap cn |
-| imagenae | 幻造体 | TextMap cn |
+| imagenae | 幻造种 | chưa chắc *(đối chiếu 23/11/2026: TextMap cn không có 幻造体; 幻造种 có 888 lần — ghép với imagenae là suy luận)* |
 | Đài truyền hình của Fulwish | 满愿电视台 | TextMap cn |
 | Hội Nghiên Cứu Nụ Cười Hạnh Phúc | 幸福微笑研究会 (gọi tắt 幸研会) | TextMap cn |
 | Phẫu Thuật Hạnh Phúc | 幸福手术 | TextMap cn |
@@ -146,7 +146,7 @@ last_updated: 2026-11-21
 | Flame Reaver · kẻ áo đen | 盗火行者 · 黑袍剑士 | TextMap cn |
 | Krateros | 克拉特鲁斯 | TextMap cn |
 | Trianne · Trinnon | 缇安 · 缇宁 | TextMap cn |
-| thử thách 「Strife」 | 纷争的试炼 | TextMap cn |
+| thử thách 「Strife」 | 「纷争」的试炼 | TextMap cn *(đối chiếu 23/11/2026: game viết 「纷争」的试炼)* |
 | Deliverer | 救世主 | TextMap cn |
 | little hero | 小英雄 | TextMap cn |
 | Hero's bath | 英雄浴池 | TextMap cn |
@@ -167,7 +167,7 @@ last_updated: 2026-11-21
 | đêm dài | 永夜 | TextMap cn |
 | Lygus | 来古士 | TextMap cn |
 | Intellitron | 智械 | TextMap cn |
-| Antikytheran | 安提基色拉之人 | TextMap cn |
+| Antikytheran | 安提基色拉人 | TextMap cn *(đối chiếu 23/11/2026: game viết 安提基色拉人, không có 之)* |
 | con đường Erudition | 智识命途 | TextMap cn |
 | Chronocognitive Anchor | 识刻锚 | TextMap cn |
 | Immersive Theater: Hero's Journey | 沉浸式戏剧：《英雄之旅》 | TextMap cn |
@@ -181,7 +181,7 @@ last_updated: 2026-11-21
 | Destruction | 毁灭 | TextMap cn |
 | computation | 演算 | TextMap cn |
 | Genius Society | 天才俱乐部 | TextMap cn |
-| số vòng | 三千三百五十五万零三百三十六 | TextMap cn |
+| số vòng | 33550336 | TextMap cn *(đối chiếu 23/11/2026: game ghi bằng chữ số, không có dạng chữ Hán)* |
 | Dawnmaker | 侵晨 | TextMap cn |
 | Cerydra | 刻律德菈 (danh xưng: 凯撒 · 僭主) | TextMap cn |
 | Hysilens | 海瑟音 (tên thật: 海列屈拉; tước: 剑旗爵) | TextMap cn |
@@ -208,9 +208,9 @@ last_updated: 2026-11-21
 | Herta | 黑塔 | TextMap cn |
 | Evernight | 长夜月 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
 | Irontomb | 铁墓 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
-| world-cleansing golden blood | 净世金血 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* |
-| Fourth Instant · coronation | 第四时刻 · 「铁墓」的加冕 | chưa đối chiếu CSV *(BWIKI, tra 30/10/2026)* |
-| Sacrament Courtyard | 祝祭庭院 | chưa đối chiếu CSV *(BWIKI, kiểm lại 30/10/2026)* |
+| world-cleansing golden blood | 净世金血 | TextMap cn *(đối chiếu 23/11/2026; trước đó tra BWIKI 30/10/2026)* |
+| Fourth Instant · coronation | 第四时刻 · 「铁墓」的加冕 | TextMap cn *(đối chiếu 23/11/2026; trước đó tra BWIKI 30/10/2026)* |
+| Sacrament Courtyard | 祝祭庭院 | TextMap cn *(đối chiếu 23/11/2026; trước đó tra BWIKI 30/10/2026)* |
 | Fuli | 浮黎 | bộ name Aurel (Name HSR - Tổng.csv) *(đối chiếu 22/11/2026)* |
 | Robin | 知更鸟 | TextMap cn |
 | Firefly | 流萤 | TextMap cn |
@@ -224,7 +224,7 @@ last_updated: 2026-11-21
 | warp | 跃迁 | TextMap cn |
 | Robin gọi Sunday | 哥哥 (khi giới thiệu với người khác: 兄长) | TextMap cn |
 | Gallagher | 加拉赫 | TextMap cn |
-| Gia Tộc Bloodhound · mấy thành viên trẻ của Gia Tộc Bloodhound | 猎犬家系 · 年轻的猎犬 | TextMap cn |
+| Gia Tộc Bloodhound · mấy thành viên trẻ của Gia Tộc Bloodhound | 猎犬家系 · 年轻的猎犬 | 猎犬家系: TextMap cn; 年轻的猎犬: **chưa thấy** trong TextMap cn bản 23/11/2026 |
 | Gia Tộc Iris | 鸢尾花家系 | TextMap cn |
 | kẻ lậu vé | 偷渡犯 | TextMap cn |
 | Cửa hàng Mộng cảnh | 梦境贩售店 | TextMap cn |
@@ -274,10 +274,10 @@ last_updated: 2026-11-21
 | Jade | 翡翠 | TextMap cn |
 | Topaz | 托帕 | TextMap cn |
 | phiếu cầm đồ | 当票 | TextMap cn |
-| giữ hộ · tạm thời bảo quản | 保管 · 暂为保管 | TextMap cn |
+| giữ hộ · tạm thời bảo quản | 保管 · 暂为保管 | 保管: TextMap cn; 暂为保管: **chưa thấy** trong TextMap cn bản 23/11/2026 |
 | Clock Studios Theme Park | 劳克影视乐园 | TextMap cn |
 | Swarm Nightmare | 深魇蝗灾 | TextMap cn |
-| “King of Humankind” | 人类之王 | TextMap cn |
+| “King of Humankind” | 人类之王 | **chưa thấy** trong TextMap cn bản 23/11/2026 |
 | Tiernan · Razalina | 铁尔南 · 拉扎莉娜 | TextMap cn |
 | dì Jessie | 翠丝阿姨 | TextMap cn |
 | Path | 命途 | bộ name Aurel (Name HSR - Tổng.csv) |
