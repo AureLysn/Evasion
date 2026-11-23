@@ -10,7 +10,7 @@ aliases: ["Fukuzawa", "Fukuzawa Yukichi", "Yukichi Fukuzawa", "福沢諭吉", "G
 related: ["[[Edogawa-Ranpo]]", "[[BEAST-IF]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Fukuzawa). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'BEAST Ranpo Edogawa/Synopsis'."
+  ref: "Tong hop 2026-09-28. DOC TRUC TIEP: en.wikipedia 'List of Bungo Stray Dogs characters' (muc Fukuzawa). CHI QUA TRICH DOAN TIM KIEM: BSD Wiki 'BEAST Ranpo Edogawa/Synopsis'. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Yukichi_Fukuzawa"
 authority: fandom
 confidence: 0.7
 always_load: false

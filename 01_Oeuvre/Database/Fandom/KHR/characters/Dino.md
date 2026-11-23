@@ -35,7 +35,7 @@ last_updated: 2026-09-28
 
 ## Thú cưng
 
-- **Enzio (エンツィオ)** — một con **rùa bọt biển (sponge turtle)**, có khả năng đặc biệt: *"水を吸うことで巨大・凶悪化する"* ("hút nước vào thì trở nên khổng lồ và hung tợn"). Đây là mô tả từ Wikipedia tiếng Nhật; tên phiên âm khác có thể là "Enzo" (romaji phổ biến trong fandom Anh ngữ) — **ghi cả hai dạng, chưa chốt cách phiên âm chuẩn**.
+- **Enzio (エンツィオ)** — một con **rùa bọt biển (sponge turtle)**, có khả năng đặc biệt: *"水を吸うことで巨大・凶悪化する"* *(trang Wikipedia Nhật hiện chỉ còn 「水を吸う」, không còn nguyên câu — đối chiếu 22/11/2026)* ("hút nước vào thì trở nên khổng lồ và hung tợn"). Đây là mô tả từ Wikipedia tiếng Nhật; tên phiên âm khác có thể là "Enzo" (romaji phổ biến trong fandom Anh ngữ) — **ghi cả hai dạng, chưa chốt cách phiên âm chuẩn**.
 
 ## Giới hạn / chưa xác minh
 

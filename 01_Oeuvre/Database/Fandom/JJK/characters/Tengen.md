@@ -10,7 +10,7 @@ aliases: ["Tengen", "天元"]
 related: ["[[Star-Plasma-Vessel]]", "[[Kenjaku]]", "[[Riko-Amanai]]", "[[Time-Vessel-Association]]", "[[jjk]]"]
 source:
   type: fandom_wiki
-  ref: "Wikipedia (en): 'List of Jujutsu Kaisen characters' va 'Jujutsu Kaisen season 2' (muc Hidden Inventory / Premature Death), doc 12/10/2026 qua cong cu fetch — tra BAN TOM TAT cua mot mo hinh nho, khong phai van ban tho; chua doi chieu manga. fandom.com tra 402. Danh dau [wiki]."
+  ref: "Wikipedia (en): 'List of Jujutsu Kaisen characters' va 'Jujutsu Kaisen season 2' (muc Hidden Inventory / Premature Death), doc 12/10/2026 qua cong cu fetch — tra BAN TOM TAT cua mot mo hinh nho, khong phai van ban tho; chua doi chieu manga. fandom.com tra 402. Danh dau [wiki]. | Trang doi chieu 22/11/2026: https://jujutsu-kaisen.fandom.com/wiki/Tengen"
 authority: fandom
 confidence: 0.6
 always_load: false

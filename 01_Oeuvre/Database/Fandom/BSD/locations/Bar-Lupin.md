@@ -10,7 +10,7 @@ aliases: ["Lupin", "Bar Lupin", "ルパン", "quan bar Lupin", "Lupin ba nguoi",
 related: ["[[Sakunosuke-Oda]]", "[[Sakaguchi-Ango]]", "[[Dazai-Osamu]]"]
 source:
   type: fandom_wiki
-  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Bar Lupin (Description, Trivia); tim kiem noi bo 'Lupin bar'."
+  ref: "Doc truc tiep 2026-11-17 qua trinh duyet tich hop: bungostraydogs.fandom.com trang Bar Lupin (Description, Trivia); tim kiem noi bo 'Lupin bar'. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/Bar_Lupin"
 authority: fandom
 confidence: 0.65
 always_load: false

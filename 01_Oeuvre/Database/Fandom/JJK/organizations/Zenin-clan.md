@@ -10,7 +10,7 @@ aliases: ["Zen'in clan", "gia tộc Zen'in", "Zenin", "禅院家"]
 related: ["[[Toji-Fushiguro]]", "[[jjk]]"]
 source:
   type: fandom_wiki
-  ref: "Wikipedia (en): 'List of Jujutsu Kaisen characters' va 'Jujutsu Kaisen season 2' (muc Hidden Inventory / Premature Death), doc 12/10/2026 qua cong cu fetch — tra BAN TOM TAT cua mot mo hinh nho, khong phai van ban tho; chua doi chieu manga. fandom.com tra 402. Danh dau [wiki]."
+  ref: "Wikipedia (en): 'List of Jujutsu Kaisen characters' va 'Jujutsu Kaisen season 2' (muc Hidden Inventory / Premature Death), doc 12/10/2026 qua cong cu fetch — tra BAN TOM TAT cua mot mo hinh nho, khong phai van ban tho; chua doi chieu manga. fandom.com tra 402. Danh dau [wiki]. | Trang doi chieu 22/11/2026: https://jujutsu-kaisen.fandom.com/wiki/Sorcerer_Clan%2FZenin_Clan"
 authority: fandom
 confidence: 0.6
 always_load: false

@@ -28,7 +28,7 @@ last_updated: 2026-09-16
 
 - ✅ **Người giữ Storm Pacifier**, một trong *I Prescelti Sette* — [[Arcobaleno-Pacifier]]. Là **sư phụ của I-pin**
 - ✅ Võ thuật gia Trung Hoa; tính điềm đạm, nói năng lễ độ
-- ✅ 🔴 **Giống Hibari Kyouya tới mức wiki gọi là "gần như sinh đôi"** — cùng dáng mắt, cùng tóc đen; khác ở chỗ ông **có cười** và để **bím tóc dài**. Cũng được so với **Alaude**
+- ✅ 🔴 **Giống Hibari Kyouya tới mức wiki gọi là "gần như sinh đôi"** — cùng dáng mắt, cùng tóc đen; khác ở chỗ ông **có cười** và để **bím tóc dài**. Cũng được so với **Alaude** *(chưa tìm thấy nguồn cho ý này — đối chiếu 22/11/2026)*
 
 ## 🔴 Và quan hệ họ hàng **không chỉ là fanon**
 

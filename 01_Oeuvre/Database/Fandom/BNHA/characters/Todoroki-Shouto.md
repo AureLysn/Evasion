@@ -10,7 +10,7 @@ aliases: ["Todoroki Shouto", "Todoroki Shoto", "Shoto Todoroki", "Shouto Todorok
 related: ["[[bnha|hồ sơ universe BNHA]]", "[[Quirk]]", "[[Quirk-Types]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/BNHA/characters/_MOC|characters/_MOC]]"]
 source:
   type: fandom_wiki
-  ref: "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki + /wiki/Half-Cold_Half-Hot + /wiki/Todoroki_Family — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 dung tu trang phu vi WebFetch tra 402: /wiki/Todoroki_Family · /wiki/Rei_Todoroki · /wiki/Frost · /wiki/Phosphor · /wiki/Flashfreeze_Heatwave · /wiki/Wall_of_Flames · /wiki/Heaven-Piercing_Ice_Wall · /wiki/Great_Glacial_Aegir."
+  ref: "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki + https://myheroacademia.fandom.com/wiki/Half-Cold_Half-Hot + https://myheroacademia.fandom.com/wiki/Todoroki_Family — doc day du 2026-09-01 bang trinh duyet tich hop. Dot 2026-08-31 dung tu trang phu vi WebFetch tra 402: /wiki/Todoroki_Family · /wiki/Rei_Todoroki · /wiki/Frost · /wiki/Phosphor · /wiki/Flashfreeze_Heatwave · /wiki/Wall_of_Flames · /wiki/Heaven-Piercing_Ice_Wall · /wiki/Great_Glacial_Aegir."
 authority: fandom
 confidence: 0.95
 always_load: false

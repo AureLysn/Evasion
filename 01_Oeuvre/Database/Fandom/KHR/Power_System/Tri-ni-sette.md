@@ -10,7 +10,7 @@ aliases: ["Tri-ni-sette", "Trinisette", "Tri-ni-set", "Arcobaleno Pacifier", "Ar
 related: ["[[Vongola-Ring]]", "[[Dying-Will-Flame]]", "[[Arcobaleno-Pacifier]]", "[[05_Evasion/01_Oeuvre/Database/Fandom/KHR/characters/Kawahira|Kawahira]]", "[[Byakuran-Gesso]]", "[[Representative-Battle-Aftermath]]", "[[Simon-Famiglia]]", "[[Ten-Year-Bazooka]]"]
 source:
   type: fandom_wiki
-  ref: "reborn.fandom.com/wiki/Vongola_Ring — muc Tri-ni-sette. Truy cap 2026-08-14. Bo sung 2026-09-13: reborn.fandom.com/wiki/Tri-ni-sette va /wiki/Mare_Ring, doc bang trinh duyet tich hop. Bo sung 2026-09-28: /Pacifier_Jar, /Mare_Ring, /Ring, /Ten_Year_Bazooka — CHI qua snippet (HTTP 402)"
+  ref: "reborn.fandom.com/wiki/Vongola_Ring — muc Tri-ni-sette. Truy cap 2026-08-14. Bo sung 2026-09-13: reborn.fandom.com/wiki/Tri-ni-sette va /wiki/Mare_Ring, doc bang trinh duyet tich hop. Bo sung 2026-09-28: /Pacifier_Jar, /Mare_Ring, /Ring, /Ten_Year_Bazooka — CHI qua snippet (HTTP 402) | Trang con doi chieu 22/11/2026: https://reborn.fandom.com/wiki/Pacifier_Jar (Pacifier Jar, Talbot); https://reborn.fandom.com/wiki/Mare_Ring (Sky Mare Ring)"
 authority: fandom
 confidence: 0.85
 always_load: false

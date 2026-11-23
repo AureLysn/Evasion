@@ -10,7 +10,7 @@ aliases: ["Vongola Ring", "Vongola Rings", "Sky Vongola Ring", "Vongola Sky Ring
 related: ["[[Tri-ni-sette]]", "[[Sky-Flame]]", "[[Dying-Will-Flame]]", "[[Simon-Famiglia]]"]
 source:
   type: fandom_wiki
-  ref: "reborn.fandom.com/wiki/Vongola_Ring — truy cap 2026-08-14. Bo sung 2026-09-28 (muc Vongola Gear + Natsu): reborn.fandom.com/wiki/Ring_of_the_Sky_Version_X, /Vongola_Ring, /Penalty, /Leone_di_Cieli_ver._Vongola, /Cambio_Forma — CHI qua snippet may tim kiem (HTTP 402); ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! (doc thang)"
+  ref: "reborn.fandom.com/wiki/Vongola_Ring — truy cap 2026-08-14. Bo sung 2026-09-28 (muc Vongola Gear + Natsu): reborn.fandom.com/wiki/Ring_of_the_Sky_Version_X, /Vongola_Ring, /Penalty, /Leone_di_Cieli_ver._Vongola, /Cambio_Forma — CHI qua snippet may tim kiem (HTTP 402); ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! (doc thang) | Trang con doi chieu 22/11/2026: https://reborn.fandom.com/wiki/Vongola_Gear (Bangle...; Mantello/Mitena/Cambio Forma chua thay tren trang nay)"
 authority: fandom
 confidence: 0.85
 always_load: false

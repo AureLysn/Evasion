@@ -10,7 +10,7 @@ aliases: ["BEAST Dazai", "Dazai BEAST", "BEAST Osamu Dazai", "Osamu Dazai BEAST"
 related: ["[[BEAST-IF]]", "[[The-Book]]", "[[Sakunosuke-Oda]]", "[[Akutagawa-Ryunosuke]]", "[[Nakajima-Atsushi]]", "[[Nakahara-Chuuya]]", "[[dazai-canon-draft]]"]
 source:
   type: fandom_wiki
-  ref: "Tong hop 2026-09-28. Nang luc: en.wikipedia 'Osamu Dazai (Bungo Stray Dogs)' + 'List of Bungo Stray Dogs characters' (DOC TRUC TIEP). Moi y BEAST: CHI QUA TRICH DOAN TIM KIEM cua BSD Wiki 'BEAST Osamu Dazai' (+ /Synopsis) va NamuWiki (en) 'Osamu Dazai (Bungo Stray Dogs BEAST)' — trang goc tra 402/403."
+  ref: "Tong hop 2026-09-28. Nang luc: en.wikipedia 'Osamu Dazai (Bungo Stray Dogs)' + 'List of Bungo Stray Dogs characters' (DOC TRUC TIEP). Moi y BEAST: CHI QUA TRICH DOAN TIM KIEM cua BSD Wiki 'BEAST Osamu Dazai' (+ /Synopsis) va NamuWiki (en) 'Osamu Dazai (Bungo Stray Dogs BEAST)' — trang goc tra 402/403. | Trang doi chieu 22/11/2026: https://bungostraydogs.fandom.com/wiki/BEAST_Osamu_Dazai"
 authority: fandom
 confidence: 0.6
 always_load: false

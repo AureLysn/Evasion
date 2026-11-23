@@ -10,7 +10,7 @@ aliases: ["ho so canon Gojo draft", "Gojo canon nhap", "Gojo Satoru canon draft"
 related: ["[[jjk|JJK universe]]", "[[_JJK-MOC]]"]
 source:
   type: franchise_canon
-  ref: "Soan cho du an KHR x JJK x BSD cua Aurel — AI viet tu kien thuc mo hinh + tra JJK Wiki (Limitless, Six Eyes), CHUA doi chieu manga goc. Nhan qua goi ho-so-nhan-vat tu Aurel, 2026-09-04."
+  ref: "Soan cho du an KHR x JJK x BSD cua Aurel — AI viet tu kien thuc mo hinh + tra JJK Wiki (Limitless, Six Eyes), CHUA doi chieu manga goc. Nhan qua goi ho-so-nhan-vat tu Aurel, 2026-09-04. | Trang doi chieu 22/11/2026: https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo"
 authority: ai
 confidence: 0.85
 immutable: true
