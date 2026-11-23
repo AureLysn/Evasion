@@ -10,7 +10,7 @@ aliases: ["Robin", "知更鸟", "Robin canon", "Robin HSR", "Robin Penacony", "e
 related: ["[[Penacony]]", "[[Doan-tau-ngoai-hinh]]", "[[Firefly]]", "[[Dahlia]]", "[[Silver-Wolf]]", "[[Xipe]]"]
 source:
   type: franchise_canon
-  ref: "TextMap tieng Trung (cn) tren may Aurel, chuoi tach ra file van ban 01/11/2026 (scratchpad phien CLS arc 3, chi doc); so trong note = so dong 1-based trong file tach. TextMap khong ghi nguoi noi: nguoi noi ghi o day la suy tu noi dung, co danh dau. Doi chieu lai tung dong 01/11/2026."
+  ref: "TextMap tieng Trung (cn) tren may Aurel, chuoi tach ra file van ban 01/11/2026 (scratchpad phien CLS arc 3, chi doc); so trong note = so dong 1-based trong file tach. TextMap khong ghi nguoi noi: nguoi noi ghi o day la suy tu noi dung, co danh dau. Doi chieu lai tung dong 01/11/2026. | Doi chieu lai 23/11/2026 voi goi chu cn cai lai (file .bytes goc, bo the dinh dang): 28/28 trich dan chu Han khop"
 authority: franchise
 confidence: 0.8
 always_load: false

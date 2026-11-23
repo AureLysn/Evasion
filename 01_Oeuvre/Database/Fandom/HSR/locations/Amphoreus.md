@@ -10,7 +10,7 @@ aliases: ["Immersive Theater: Hero's Journey", "Hero's Journey vo kich Lygus", "
 related: ["[[hsr]]", "[[Fuli]]", "[[Galaxy-Rangers]]", "[[Emanator]]"]
 source:
   type: fandom_wiki
-  ref: "Van ban game Honkai: Star Rail cai tren may Aurel — TextMap tieng Trung StarRail_Data/Persistent/DesignData/Windows/cn/f96da886871b002d752da7a11bf96a14.bytes (ngay file 12/10/2026) va tieng Viet .../vi/53fea66a03625b4d8b00e965209e9234.bytes (ngay file 28/09/2026); doc 17/10/2026 bang script chi doc (tach chuoi UTF-8, loc tu khoa). Nguon chinh: chuoi TOM TAT NHIEM VU cot truyen 3.0-3.7 nam lien nhau trong TextMap cn; cac doan tom tat nhiem vu le (ke hoach bay Lygus, 'cau chuyen cuoi cung' cua Cyrene); hai thu ky niem. KHONG doc thoai tung canh; thu tu su kien theo thu tu chuoi trong file va noi dung."
+  ref: "Van ban game Honkai: Star Rail cai tren may Aurel — TextMap tieng Trung StarRail_Data/Persistent/DesignData/Windows/cn/f96da886871b002d752da7a11bf96a14.bytes (ngay file 12/10/2026) va tieng Viet .../vi/53fea66a03625b4d8b00e965209e9234.bytes (ngay file 28/09/2026); doc 17/10/2026 bang script chi doc (tach chuoi UTF-8, loc tu khoa). Nguon chinh: chuoi TOM TAT NHIEM VU cot truyen 3.0-3.7 nam lien nhau trong TextMap cn; cac doan tom tat nhiem vu le (ke hoach bay Lygus, 'cau chuyen cuoi cung' cua Cyrene); hai thu ky niem. KHONG doc thoai tung canh; thu tu su kien theo thu tu chuoi trong file va noi dung. | Doi chieu lai 23/11/2026 voi goi chu cn cai lai (file cn/2992a81e50e9f57b177c31317600ada3.bytes): 10/10 chuoi chu Han khop"
 authority: fandom
 confidence: 0.65
 always_load: false
