@@ -8,6 +8,11 @@ status: active
 strength: hard
 aliases: ["cam", "forbidden", "AI patterns", "cac mau van can tranh", "style.GLOBAL.forbidden-patterns"]
 related: ["[[_PRINCIPLE-MOC]]", "[[resist-the-urge-to-explain]]", "[[vary-sentence-length]]", "[[show-and-tell-balance]]"]
+source:
+  type: inference
+  ref: "AI tong hop khi tach luat chung khoi EMB (tach-luat-chung-tu-EMB, Aurel 21/08/2026: quy dinh chung giu trong system/database); noi dung tro ve Curated_Notes/writing: resist-the-urge-to-explain, vary-sentence-length, show-and-tell-balance. Ghi nguon theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08

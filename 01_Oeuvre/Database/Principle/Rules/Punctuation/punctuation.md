@@ -8,6 +8,11 @@ status: active
 strength: hard
 aliases: ["dau cau", "punctuation", "quy tac dau cau", "style.GLOBAL.punctuation"]
 related: ["[[_PRINCIPLE-MOC]]"]
+source:
+  type: inference
+  ref: "AI tong hop khi tach luat chung khoi EMB (tach-luat-chung-tu-EMB, Aurel 21/08/2026: quy dinh chung giu trong system/database). Ghi nguon theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.7
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08
 ---

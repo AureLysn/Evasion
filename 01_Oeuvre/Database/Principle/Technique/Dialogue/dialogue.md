@@ -8,6 +8,11 @@ status: active
 strength: tendency
 aliases: ["dialogue", "thoai", "ky thuat thoai", "style.GLOBAL.dialogue"]
 related: ["[[_PRINCIPLE-MOC]]", "[[said-and-action-beats]]", "[[exposition-through-action]]", "[[one-point-of-view-per-scene]]"]
+source:
+  type: inference
+  ref: "AI tong hop khi tach luat chung khoi EMB (tach-luat-chung-tu-EMB, Aurel 21/08/2026: quy dinh chung giu trong system/database); noi dung tro ve Curated_Notes/writing: said-and-action-beats, exposition-through-action, one-point-of-view-per-scene. Ghi nguon theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.7
 tags: [d/fanfic, k/rule, p/personal]
 legacy_tags: [s/dialogue]
 last_updated: 2026-11-08

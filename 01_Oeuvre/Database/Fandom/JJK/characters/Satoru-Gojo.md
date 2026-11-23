@@ -6,7 +6,7 @@ lane: personal
 universe: JJK
 canon_layer: official_canon
 status: active
-aliases: ["Satoru Gojo", "Gojo", "五条悟", "Gojo Satoru"]
+aliases: ["Satoru Gojo", "Gojo", "五条悟", "Gojo Satoru", "六眼"]
 related: ["[[Suguru-Geto]]", "[[Riko-Amanai]]", "[[Toji-Fushiguro]]", "[[Masamichi-Yaga]]", "[[Shoko-Ieiri]]", "[[Kenjaku]]", "[[Hidden-Inventory-Premature-Death]]", "[[gojo-canon-draft]]", "[[jjk]]"]
 source:
   type: fandom_wiki

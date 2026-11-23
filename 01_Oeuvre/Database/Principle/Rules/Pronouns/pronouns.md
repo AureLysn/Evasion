@@ -8,6 +8,11 @@ status: active
 strength: hard
 aliases: ["xung ho", "pronouns", "dai tu", "xung ho tieng viet", "style.GLOBAL.pronouns"]
 related: ["[[_PRINCIPLE-MOC]]"]
+source:
+  type: inference
+  ref: "AI tong hop khi tach luat chung khoi EMB (tach-luat-chung-tu-EMB, Aurel 21/08/2026: quy dinh chung giu trong system/database). Ghi nguon theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.7
 always_load: false
 tags: [d/fanfic, k/rule, p/personal]
 last_updated: 2026-11-08

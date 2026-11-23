@@ -6,7 +6,12 @@ lane: personal
 universe: JJK
 canon_layer: official_canon
 status: active
-aliases: ["JJK", "Jujutsu Kaisen", "Chu Thuat Hoi Chien", "universe JJK"]
+aliases: ["JJK", "Jujutsu Kaisen", "Chu Thuat Hoi Chien", "universe JJK", "芥见下下"]
+source:
+  type: inference
+  ref: "AI tong hop; nap luot 1 ngay 12/10/2026 (theo _JJK-MOC). Lich su git chi bat dau 14/11/2026 (repo dung lai) nen khong co ngay mo chinh xac. Note khong ghi nguon ngoai rieng; du kien cu the nam o cac note con co source rieng. Ghi theo quyet dinh Aurel 23/11/2026 (ra soat Database D4)"
+authority: ai
+confidence: 0.6
 always_load: true
 tags: [d/fanfic, k/note, p/personal]
 last_updated: 2026-10-12
