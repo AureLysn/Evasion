@@ -30389,6 +30389,7 @@
   },
   {
    "aliases": [
+    "arc.EMB.tuyen-xanxus",
     "tuyen Xanxus",
     "pha bang cho Xanxus",
     "hoa hop hai chieu",
@@ -30402,20 +30403,21 @@
    "authority": "user",
    "canon_layer": "planned",
    "confidence": 0.7,
-   "id": "arc.EMB.tuyen-xanxus",
+   "id": "note.EMB.tuyen-xanxus",
    "keys": [
     "arc emb tuyen xanxus",
     "cloud thu cap",
     "cradle",
     "fon la bao",
     "hoa hop hai chieu",
+    "note emb tuyen xanxus",
     "pha bang cho xanxus",
     "tsuna la may cua xanxus",
     "tuyen xanxus",
     "zero point breakthrough"
    ],
    "lane": "personal",
-   "last_updated": "2026-11-20",
+   "last_updated": "2026-11-23",
    "path": "05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/arcs/tuyen-xanxus.md",
    "project": "EMB",
    "scope": "branch",
@@ -30426,7 +30428,7 @@
     "k/note",
     "p/personal"
    ],
-   "type": "arc",
+   "type": "note",
    "words": 1304
   },
   {

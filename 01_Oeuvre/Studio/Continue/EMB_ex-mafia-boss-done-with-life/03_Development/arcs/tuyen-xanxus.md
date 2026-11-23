@@ -1,13 +1,13 @@
 ﻿---
-id: arc.EMB.tuyen-xanxus
-type: arc
+id: note.EMB.tuyen-xanxus
+type: note
 scope: branch
 lane: personal
 project: EMB
 branch: aurel-main
 canon_layer: planned
 status: active
-aliases: ["tuyen Xanxus", "pha bang cho Xanxus", "hoa hop hai chieu", "Tsuna la May cua Xanxus", "Cloud thu cap", "Fon la Bao", "Cradle", "Zero Point Breakthrough"]
+aliases: ["arc.EMB.tuyen-xanxus", "tuyen Xanxus", "pha bang cho Xanxus", "hoa hop hai chieu", "Tsuna la May cua Xanxus", "Cloud thu cap", "Fon la Bao", "Cradle", "Zero Point Breakthrough"]
 related: [ "[[truc-chinh]]", "[[gia-thuyet-aurel-2]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/02_Story_Bible/characters/kawahira|kawahira]]", "[[indra]]", "[[kyouya]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/03_Development/timeline/master|master]]", "[[05_Evasion/01_Oeuvre/Studio/Continue/EMB_ex-mafia-boss-done-with-life/06_Alternate_Versions/branches/aurel-main|aurel-main]]", "[[khung-oc]]"]
 source:
   type: user_input
@@ -18,7 +18,7 @@ always_load: false
 load_for: [planner]
 tags: [d/fanfic, k/note, p/personal]
 legacy_tags: [arc, plan, proposal]
-last_updated: 2026-11-20
+last_updated: 2026-11-23
 ---
 
 # Tuyến Xanxus — **hai Bầu trời hoà hợp lẫn nhau**
